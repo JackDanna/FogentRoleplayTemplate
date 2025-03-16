@@ -151,9 +151,9 @@ Pay attention the names of each Challenge Level. They are intended help Narrator
 
 For example, Javk Wick the Rogue hoist his unconscious injured ally onto his shoulders to get them both to safety. The Narrator determines that picking up someones limp body and getting them to your shoulders is neither a "Trivial" or "Common" thing for the average person to do. The Narrator sets the Challenge Level at "Uncommon" (CL 2) using the Lift Skill. If the ally was instead conscious, the Narrator might only set the Challenge Level to "Common" (CL 1) as hoisting an unconscious limp is far harder than a conscious compliant one.
 
-## Attributes
+## Attribute
 
-Attributes represent the innate characteristics of a character. An attribute can go from level -2 to level 5. Each level corresponds with a narrative significance.
+An Attribute represent the innate characteristics of a character. An attribute can go from level -2 to level 5. Each level corresponds with a narrative significance.
 
 | Attribute Level |                      Narrative Meaning                      |
 | :-------------: | :---------------------------------------------------------: |
@@ -205,7 +205,7 @@ RFX has the following effects:
 
 - RFX is factored into all RFX Governed Skills (Dexterity, Perception, Stealth, etc...).
 - As combat is conducted in a round-by-round format, the player with the highest RFX gets priority in that round.
-- RFX allows characters to move before slower characters and increases all Combat Speeds.
+- Character with higher RFX have better RFX Speed, which allows an amount of movement before slower characters within a combat round and increases all Combat Movement Speeds.
 
 ### Intelligence (INT)
 
