@@ -254,7 +254,7 @@ Skill Level measures how good a character is at a specific skill. Skill Level ra
 
 ### Skill Specialty
 
-Once a dice pool for a given skill check is equal to or greater than 8 dice you are considered a specialist in that skill. If you are a specialist for a skill, when asked to make a check for that skill with a Challenge Level of 3 or less, you automatically pass if all of the following are true.
+Once a skill's Dice Pool is equal to or greater than 8 dice you are considered a specialist in that skill. If you are a specialist for a skill, when asked to make a check utilizing that skill with a Challenge Level of 3 or less, you automatically pass if all of the following are true.
 
 - You are not under duress (No time pressure, no outside influences or aggression such as combat.)
 - The check is not contested.
@@ -270,7 +270,7 @@ A character wants to pick up an entire large sturdy treasure chest by themselves
 
 The narrator assigns this a Specialized task (CL 3), not only for the weight of the chest but for how cumbersome it is for one person to move. The character gets 2 Wins on their Lift check. They are not able to get the chest up the stairs.
 
-In a parallel dimension, 2 characters decide to pick up the chest. The Narrator assigns this a Common task (CL 1) since people do this every day. The two characters both roll their Lift check. One gets 2 wins and the other gets 1 win. The average is 1.5, which rounds down to 1. They can move the chest up the stairs.
+After a short rest, both the original character and one of there teammates decide to pick up the chest together. The Narrator assigns this a Common task (CL 1) since people do this every day. The two characters both roll their Lift check. One gets 2 wins and the other gets 1 win. The average is 1.5, which rounds down to 1. They can move the chest up the stairs.
 
 ## Core Skills
 
