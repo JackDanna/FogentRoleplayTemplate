@@ -1184,10 +1184,127 @@ The types of Damage a weapon inflicts when dealing injuries.
 |         RPG Launcher (+0) (One-handed)         |         RPG Launcher         |                   +0                   |      One-handed      |         -2         |      6      | Sharpshooter |        Paced        |    30 ft Sphere    |            RPG Ammo, 1            |     Shockwave     |        Heavy Guns        | RPG-7, ect...                                                                                                                       | Indefinite | Innate |
 |         RPG Launcher (+0) (Two-handed)         |         RPG Launcher         |                   +0                   |      Two-handed      |        +6d6        |      6      | Sharpshooter |        Paced        |    30 ft Sphere    |            RPG Ammo, 1            |     Shockwave     |        Heavy Guns        | RPG-7, ect...                                                                                                                       | Indefinite | Innate |
 
-- [Weapon Combat Skills](./src/CoreRules/CombatRules/WeaponCombatSkills.md)
-- [Combat Roll](./src/CoreRules/CombatRules/CombatRoll.md)
-- [Dodge Roll](./src/CoreRules/CombatRules/DodgeRoll.md)
-- [Combat Round](./src/CoreRules/CombatRules/CombatRounds.md)
+## Weapon Combat Skills
+
+A Weapon Combat Skill covers the use of a group of similar weapons. The tables over on the [Weapons](./Weapons.md) page show which weapons are group under which Weapon Combat Skills. For instance, the "Medium Melee" Weapon Combat Skill covers the use of "Medium Hafted", "Medium Sword", and "Medium Spear".
+
+All Weapon Combat Skills have the governing attributes of STR, RFX, and INT. This is to reflect that the stronger, faster, and smarter a character is, the more lethal they are in combat regardless of the weapon. A STR character hits harder, is tougher, and is more conditioned for combat. A RFX character hits faster and is harder to pin down. An INT character hits smarter and uses tactics. It is the player's/narrator's job to flavor their attacks to reflect how they are leveraging their innate attributes as they fight.
+
+### Weapon Combat Skill Transfer
+
+There is obviously overlap certain Weapon Combat Skills. For melee Weapon Combat Skills, weapon reach, footwork, and the biomechanics of swinging a weapon have some overlap. For ranged Weapon Combat Skills, having a proper base, judging the distance, leading your targets, aiming and releasing the projectile smoothly are examples of the overlap. Narrators should allow a character to gain Weapon Combat Skills, though of a lesser level, in similar Weapon Combat Skills in regards to size and function. This not only allows characters to experiment with new weapons but also makes narrative sense.
+
+Starting with the weapon skill your character currently possesses, each horizontal (right and left on the table) or vertical (up and down on the table) jump is -1 reduction to the skill you've moved to. When moving horizontally within a Size type, you may loop around the other side of the table as if it were right beside it. You cannot go below 0 on a combat skill for either melee or ranged weapons via the table below.
+
+#### Melee Weapon Combat Skill Transfer
+
+|   Weapons   |
+| :----------: |
+| Close Melee |
+| Medium Melee |
+| Large Melee |
+| Reach Melee |
+
+#### Bow/Crossbow Weapon Skill Transfer
+
+| Size/Type |   Bows   |   Crossbows   |
+| :-------: | :-------: | :------------: |
+|   Hand   |          | Hand Crossbow |
+|   Light   | Light Bow | Light Crossbow |
+|   Heavy   | Heavy Bow | Heavy Crossbow |
+
+#### Guns
+
+|   Weapons   |
+| :---------: |
+| Small Guns |
+| Medium Guns |
+| Heavy Guns |
+
+#### Respecing Combat Skills
+
+Since certain weapon sizes provide more combat skill transfer than others, it is intend for the narrator to allow rebalancing skill point investments as to not waste skill levels as long as all previously know skills maintain they're skill level.
+
+For example, a character has just been given 1 skill point to spend and has a level 3 in Small Blade. They wish to invest their skill point into the Medium Sword skill to try a new magic sword they found. Since they have a 3 in Small Blade already, by the Weapon Combat Skill Transfer rules they have a level 2 in Medium Sword. If they were to invest their skill point into Medium Sword to bring it to level 3, they are technically wasting skill points as had they from the start only invested the 3 skill points from Small Blade into Medium sword, with the addition of the unspent skill point, they'd have a level 4 in Medium sword, which would also give them a level 3 in Small Blade. Instead of wasting skill points, they can take the 3 skill points from Small Blade and the 1 unspent skill point and spend it on bring Medium sword to level 4. Since having a level 4 in Medium Sword gives a level 3 in Small Blade, nothing has changed in Small Blade.
+
+## Combat Roll
+
+Combat rolls are Dice Pools that represent a character's effectiveness in combat, generally with a specific weapon.
+
+- +Base Dice (varies with Base Dice Tier, defaults to 3d6)
+- +/- 1d6 per Weapon Skill
+- +/- 1d6 per STR, RFX, or INT if Governing Attribute of Combat Skill
+- +/- Weapon Dice Pool Mods (Hand Crossbow, Medium Spear, etc...)
+- +/- Ammo Dice Pool Mods (Arrow, Bomb Arrow, etc...)
+
+### Example 1:
+
+Javk Wick the rogue has a Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Dual-wielded) dual-wielded with a dagger. He has level 2 in Medium Sword and level 1 in Small Blade. He has Level 1 RFX.
+
+- +3d6 (Base Dice)
+- +2d6 (Level 2 Medium Sword Skill)
+- +1d6 (Level 1 RFX)
+- +1d6 (Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Dual-wielded) One Handed)
+- +1d6 (Dagger Dual-Wielded)
+
+Based on the dice above, Javk uses his sword and dagger for thrusting rolls 8d6.
+
+### Example 2:
+
+Javk Wick the rogue has a Light Crossbow and Standard Light Bolts. He has a weapon skill of level 1 with the Crossbow Skill. He has level 1 in RFX.
+
+- +3d6 (Base Dice)
+- +1d6 (Level 1 Crossbow Skill)
+- +1d6 (Level 1 RFX)
+- +2d6 (Light Crossbow Two-Handed)
+- +0d6 (Standard Light Bolt)
+
+Based on the dice above, Javk using his Light Crossbow has a 7d6.
+
+## Dodge Roll
+
+When a combat roll is made against a character who is not capable of making an opposing combat roll, the defender can make an Dexterity Roll vs the attacker's Combat Roll. This is an assumed reflexive action, IE a character could have, as part of the Declaration Phase, declared"... and I'll try to dodge anything being shot at me" every round. Any levels over the defender's Dodge Roll wins count as victories for the attacker. The only victory level outcome a Dodge can achieve is exiting a grapple. A Combat Roll and Dodge Roll can both be made in a round.
+
+## Combat Rounds
+
+Combat is run in a Round-by-round format. Each character can perform 1 combat roll within a round (though additional things like climbing as part of your movement or reactively dodging arrows are expected) with liberties regarding the narrative flow of the game. For instance, it doesn't take an action to shout out something to another character while fighting a monster, though it would take a round to explain something complicated.
+
+Actions in combat rounds are not solely movements and attacks. A combat action can be anything a person could do within a few seconds, such as turning over a table with their weapon, swinging from a chandelier, or dropping a boulder onto an enemy. The Narrative flow you develop while playing will guide you in what the players can do in the game, and how long it will take to do it.
+
+### Round Order
+
+Every action within Round-by-Round conflicts happens almost at the same time or in direct succession to one another. This means that one character's action is NOT explicitly followed by another character's action. It should be considered as everything happening together, with the one exception being RFX speed.
+
+To make sense of this potential 'chaos', there is a declaration phase and an action phase.
+
+#### Declaration Phase
+
+The character with the lowest RFX declares what they are doing first. That might seem odd as you could think characters with higher RFX should get to move first, but this is the declaration phase, no one is moving yet. If two Characters have the same RFX, they each roll a D6 (though D20s work better), where the highest resulting roll gets to declare later for the rest of the combat encounter.
+
+Players who declare LATER hold the upper hand in combat.
+
+Once a player has declared what they are going to perform, they cannot change their mind. They are locked into performing that action in this round. The players who declare after another can choose an action that counters or complements the declared action of another character.
+
+This means that characters with the highest RFX can see and react to what their opponents are going to do.
+
+#### Action Phase
+
+Once all characters have declared their actions, the order is reversed starting with the person with the highest RFX acting first. Though things mostly happen simultaneously within the round, it's sometimes important to know which blade landed before another, or who managed to perform their action a little bit faster than another. In these situations, characters with a higher reflex will always win.
+
+At the beginning of the Action Phase, all players can roll their dice pools for the actions they expect to take that round, such as combat rolls. This is to help things combat move efficiently.
+
+### Keep your Combat Rolls for the round
+
+Combat Rolls made with them should be held onto during combat after they've been rolled. This is to remember your current victory levels for the round. This is also in case your character loses dice due to injury or they gain Disadvantage/Advantage in that round, which will affect the already rolled dice pool.
+
+#### Removing Dice to an already rolled Dice Pool
+
+Whenever losing dice of the same kind, always remove dice from left to right. This is to leave it up to chance if the dice they lost that round punish or are indifferent to their wins for that round. With physical dice, you can just roughly straighten out the dice and begin removing in that order.
+
+#### Applying Disadvantage/Advantage to an already rolled Combat Roll Dice Pools
+
+If your character gains disadvantage (often the result of a stagger or being knocked prone) or advantage (you engage a prone opponent as your second target with a melee weapon) after you've already rolled a Combat Roll dice pool that round, you will retroactively apply said disadvantage/advantage to your those dice pools. This could turn some dice that were wins into fails and vice versa.
+
 - [Conditions](./src/CoreRules/CombatRules/Conditions.md)
 - [Injury and Healing](./src/CoreRules/CombatRules/InjuryAndHealing.md)
 - [Victory Levels](./src/CoreRules/CombatRules/VictoryLevels.md)
