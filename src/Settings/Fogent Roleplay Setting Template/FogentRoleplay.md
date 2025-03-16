@@ -11,15 +11,45 @@ The rules are the foundation and narrative engine for your game. They are listed
   - [Dice Pools](#dice-pools)
   - [Challenge Level](#challenge-level)
   - [Attributes](#attributes)
+    - [Strength (STR)](#strength-str)
+    - [Reflex (RFX)](#reflex-rfx)
+    - [Intelligence (INT)](#intelligence-int)
+    - [Why is there no Charisma Attribute](#why-is-there-no-charisma-attribute)
   - [Skills](#skills)
+    - [Skill Level](#skill-level)
+    - [Skill Specialty](#skill-specialty)
+    - [Multiple Character skill check](#multiple-character-skill-check)
   - [Core Skills](#core-skills)
+    - [Strength Core Skills](#strength-core-skills)
+      - [Athletics](#athletics)
+      - [Endurance](#endurance)
+      - [Lift](#lift)
+    - [Reflex Core Skills](#reflex-core-skills)
+      - [Dexterity](#dexterity)
+      - [Perception](#perception)
+      - [Stealth](#stealth)
+    - [Intelligence Core Skills](#intelligence-core-skills)
+      - [Communication](#communication)
+      - [General Knowledge](#general-knowledge)
+      - [Will](#will)
   - [Vocations](#vocations)
+    - [Vocation Level](#vocation-level)
+    - [Vocation Skills](#vocation-skills)
+      - [Combat Skills](#combat-skills)
+      - [Vocational Skills](#vocational-skills)
+    - [Example Vocation](#example-vocation)
   - [Tied Contested Checks](#tied-contested-checks)
   - [Advantage and Disadvantage](#advantage-and-disadvantage)
+    - [Advantage](#advantage)
+    - [Disadvantage](#disadvantage)
+    - [Super Advantage](#super-advantage)
+    - [Super Disadvantage](#super-disadvantage)
+    - [Super Advantage/Disadvantage overriding Advantage/Disadvantage](#super-advantagedisadvantage-overriding-advantagedisadvantage)
+    - [Advantages and Disadvantages cancelling out](#advantages-and-disadvantages-cancelling-out)
   - [Assists](#assists)
   - [Base Dice Tiers](#base-dice-tiers)
   - [Destiny Points](#destiny-points)
-  - [Combat Rules](#combat-rules)
+- [Combat Rules](#combat-rules)
   - [Advanced Rules](#advanced-rules)
   - [Magic Rules](#magic-rules)
   - [Character Creation Rules](#character-creation-rules)
@@ -493,18 +523,667 @@ Destiny points are awarded when players perform actions that the narrator wants 
 |  Destiny Immunity  |                                                                                                                                         Destiny Points cannot be spent against this character.                                                                                                                                         |          | The Narrator |
 |   Destiny Chosen   |                                                                                              Destiny Point Cap set to 6. Gain an additional Destiny Point whenever one is gained. Destiny begins to shape around the user's true desires.                                                                                              |          | The Narrator |
 
-## Combat Rules
+# Combat Rules
 
-- [Damage Types](./src/CoreRules/CombatRules/DamageTypes.md)
-- [Defense](./src/CoreRules/CombatRules/Defense.md)
-- [Penetration](./src/CoreRules/CombatRules/Penetration.md)
-- [Range](./src/CoreRules/CombatRules/Range.md)
-- [Area Of Effect](./src/CoreRules/CombatRules/AreaOfEffect.md)
-- [Uses Per Round](./src/CoreRules/CombatRules/UsesPerRound.md)
-- [Battle Map](./src/CoreRules/CombatRules/BattleMap.md)
-- [Combat Speed](./src/CoreRules/CombatRules/CombatSpeed.md)
-- [Ammunitions](./src/CoreRules/CombatRules/Ammunitions.md)
-- [Weapons](./src/CoreRules/CombatRules/Weapons.md)
+## Damage Types
+
+|    Name    |                                        Desc                                        |
+| :---------: | :---------------------------------------------------------------------------------: |
+|    Slash    | Caused by pushing or drawing a bladed edge to produce the force necessary to slice. |
+|   Pierce   |                             Caused by pointed objects.                             |
+|  Bludgeon  |                               Caused by blunt force.                               |
+|     Hew     |  Caused by the pressing of a bladed edge to produce the force necessary to shear.  |
+|  Ballistic  |                          Caused by bullets from firearms.                          |
+|  Shockwave  |                          Caused by shock waves and sound.                          |
+|    Fire    |                        Caused by intense heat or combustion.                        |
+|  Electric  |                Caused by lightning or other sources of electricity.                |
+|   Radiant   |                  Caused specifically by divine power or sunlight.                  |
+|    Acid    |                           Caused by corrosive substances.                           |
+|    Cold    |                        Caused by extremely low temperatures.                        |
+|   Silver   |                            Caused by a Silvered weapon.                            |
+|   Poison   |                            Caused by poisons or toxins.                            |
+|  Necrotic  |                         Caused by rot, decay, and undeath.                         |
+|    Bleed    |                            Caused by the loss of blood.                            |
+| Suffocation |               Caused by the lack of breathable air such as drowning.               |
+|   Psychic   |                              Caused by mental trauma.                              |
+|  Spiritual  |           Caused by spiritual sources such as ghosts or divine entities.           |
+
+## Defense
+
+Depending on the damage type, different types of defense can be used to reduce injuries. A character can then reduce an injury level by the equivalent amount of defense they have to that damage type.
+
+### Physical Defense
+
+A measure of a character's defense to all physical injuries. Calculated by summing all a character's physical defenses and rounding down. A character can wear two pieces of armor in the same category, such as wearing a gambeson under chain mail or a breastplate, which was most certainly done in history. In these circumstances, the most efficient way of defeating a person in heavy armor is grappling them or tripping them and holding them down, just like in real life.
+
+If a combat roll has a Physical damage type and a Bodily, Mental, or Spiritual damage type, then since it is combined with the physical attack it is only versus physical defense. An example would be poison applied to the blade of a weapon.
+
+#### Armor Types
+
+Armor Type determines what portions of a character a piece of armor will protect. There are 4 different armor types.
+
+- Head
+- Body
+- Arm
+- Leg
+- Shield
+
+#### Shields
+
+The class of "Shield" marks an item that can be used as a shield for defensive purposes. This takes up one of the character's hands when in use.
+
+Characters not actively using their shield as part of their combat/dodge roll do not benefit from the additional defense. Characters that are Off Guard or being attacked while unaware also do not benefit from the shield's defense.
+
+### Bodily Defense
+
+A measure of a character's defense to injury from Bodily damage types. Determines your body's ability to resist poisoning, bleeding, freezing, etc. Wins determined by an Endurance skill check act as your defense against injury. The character may also abstain from rolling, choosing to take the average number of wins given the size of the dice pool. This can be calculated by dividing the number of dice rolled by 2 and then rounding down. The wins achieved by this are reduced by an attacker's combat roll penetration.
+
+### Mental Defense
+
+A measure of a character's defense to injury from Mental damage types. Wins determined by a Will skill check act as your defense against injury. The character may also abstain from rolling, choosing to take the average number of wins given the size of their dice pool. This can be calculated by dividing the number of dice rolled by 2 and then rounding down. The wins achieved by this are reduced by an attacker's combat roll penetration.
+
+### Soul Defense
+
+A measure of a character's defense to injury from Soul damage types. Wins determined by a Will skill check act as your defense against injury. The character may also abstain from rolling, choosing to take the average number of wins given the size of their dice pool. This can be calculated by dividing the number of dice rolled by 2 and then rounding down. The wins achieved by this are reduced by an attacker's combat roll penetration.
+
+## Penetration
+
+The only way to injure an opponent with a specific Defense Type is to exceed or penetrate it.
+
+Penetration represents a Combat Roll's ability to mitigate the opponent's Defense. While dealing an injury, you may reduce your opponent's Defense level by your Combat Roll's Penetration before calculating injury.
+
+For penetration versus Physical Defense, primarily being armor, weapons with strong Penetration include bludgeoning weapons such as a mace or war hammer, which historically were one of the primary ways of defeating heavy armor. To a lesser extent, thrusting weapons such as daggers or spears also have decent Penetration versus physical defense, as they can be used to thrust into weak points in armor. Slashing swords would have some of the worst penetration, as it is highly unlikely to be able to slice through the armor.
+
+For penetration versus Bodily, Mental, and Soul Defense, Penetration represents the attack's effect being harder to resist. For instance, it is far easier to resist taking injury from a single poison bolt versus being covered in a poison mist area of effect.
+
+## Range
+
+Each Range represents a calculation which given the number of dice in a Skill Dice Pool calculates the Effective Range, Ineffective Range, and Max Range. Therefor, as a character's Weapon/Magic Skill improves, so does the range at which it can be used.
+
+Effective Range, Ineffective Range, and Max Range are usually represented on a character sheet in the "(Effective Range)/(Ineffective Range)/(Max Range)" format. For example, "100/200/400" translates to an Effective Range of 100 ft, an Ineffective Range of 200 ft, and a Max Range of 400 ft.
+
+### Range Types
+
+|     Name     | Effective Range Per Dice (ft) |
+| :----------: | :---------------------------: |
+|     Near     |             1.67             |
+|    Close    |              2.5              |
+|    Short    |             3.34             |
+|   Mediocre   |               5               |
+|    Medium    |              7.5              |
+|   Extended   |              10              |
+|     Far     |              15              |
+|     Long     |              20              |
+|   Distant   |              25              |
+| Sharpshooter |              30              |
+|   Extreme   |              35              |
+|    Sniper    |              50              |
+
+### Effective Range
+
+The distance up to which you are effective.
+
+Effective Range = (Effective Range Per Dice) * (Number of Skill Dice), rounded down to the nearest multipe of 5
+
+From 0 ft up to the Effective Range, Disadvantage is NOT gained on Dice Pool the skill is being used in.
+
+### Ineffective Range
+
+It is the distance up to which your effectiveness is only partially degraded.
+
+Ineffective Range = (Effective Range) * 2
+
+Past the Effective Range and up to the Ineffective Range, Disadvantage is gained on Dice Pool the skill is being used in.
+
+### Max Range
+
+It is the maximum distance that can be targeted with the characters current skill.
+
+Max Range = (Effective Range) * 4
+
+Past the Ineffective Range up to the Max Range, Super Disadvantage is gained on Dice Pool the skill is being used in.
+
+### Effective Range Calulation Results by Skill Dice Pool Size
+
+|  Range Type  | 1 Dice | 2 Dice | 3 Dice | 4 Dice | 5 Dice | 6 Dice | 7 Dice | 8 Dice | 9 Dice | 10 Dice | 11 Dice | 12 Dice | 13 Dice |
+| :----------: | :----: | :-----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: | :-----: | :-----: | :-----: |
+|     Near     |  1.67  |  3.34  |   5   |  6.68  |  8.35  | 10.02 | 11.69 | 13.36 | 15.03 |  16.7  |  18.37  |  20.04  |  21.71  |
+|    Close    |  2.5  |    5    |  7.5  |   10   |  12.5  |   15   |  17.5  |   20   |  22.5  |   25   |  27.5  |   30   |  32.5  |
+|    Short    |  3.34  |  6.68  | 10.02 | 13.36 |  16.7  | 20.04 | 23.38 | 26.72 | 30.06 |  34.40  |  36.74  |  40.08  |  43.42  |
+|   Mediocre   |   5   |   10   |   15   |   20   |   25   |   30   |   35   |   40   |   45   |   50   |   55   |   60   |   65   |
+|    Medium    |  7.5  |   15   |  22.5  |   30   |  37.5  |   45   |  52.5  |   60   |  67.5  |   75   |  82.5  |   90   |  97.5  |
+|   Extended   |   10   |   20   |   30   |   40   |   50   |   60   |   70   |   80   |   90   |   100   |   110   |   120   |   130   |
+|     Far     |   15   |   30   |   45   |   60   |   75   |   90   |  105  |  120  |  135  |   150   |   165   |   180   |   195   |
+|     Long     |   20   |   40   |   60   |   80   |  100  |  120  |  140  |  160  |  180  |   200   |   220   |   240   |   260   |
+|   Distant   |   25   |   50   |   75   |  100  |  125  |  150  |  175  |  200  |  225  |   250   |   275   |   300   |   325   |
+| Sharpshooter |   30   |   60   |   90   |  120  |  150  |  180  |  210  |  240  |  270  |   300   |   330   |   360   |   390   |
+|   Extreme   |   35   |   70   |  105  |  140  |  175  |  210  |  245  |  280  |  315  |   350   |   385   |   420   |   455   |
+|    Sniper    |   50   |   100   |  150  |  200  |  250  |  300  |  350  |  400  |  450  |   500   |   550   |   600   |   650   |
+
+## Area Of Effect
+
+Certain attacks, spells, etc. effect an area, such as a grenade explosion.
+
+### Set Area Of Effects
+
+Area of effects that have a set area.
+
+#### Sphere
+
+|     Name     | Radius (ft) |
+| :-----------: | :---------: |
+| 30 ft Sphere |     30     |
+
+#### Cone
+
+A cone's width at any point down its length is equal to that point's distance from the point of origin. Since the cross-section of the cone is an isosceles triangle, which is easier to work with on a battle map, it is referenced in the table below.
+
+|    Name    | Triangle Base/Height (ft) | Cone Angle (degrees) | Triangle Area (ft^2) |
+| :--------: | :-------------------------: | :-------------------: | :-------------------: |
+| 10 ft Cone |             10             |          ~53          |          50          |
+| 15 ft Cone |             15             |          ~53          |         112.5         |
+| 20 ft Cone |             20             |          ~53          |          200          |
+| 25 ft Cone |             25             |          ~53          |         312.5         |
+| 30 ft Cone |             30             |          ~53          |          450          |
+| 35 ft Cone |             35             |          ~53          |         612.5         |
+| 40 ft Cone |             40             |          ~53          |          800          |
+| 45 ft Cone |             45             |          ~53          |        1012.5        |
+| 50 ft Cone |             50             |          ~53          |         1250         |
+| 55 ft Cone |             55             |          ~53          |        1512.5        |
+| 60 ft Cone |             60             |          ~53          |         1800         |
+
+### Area Of Effect Calculations
+
+Area Of Effect Calculations scale with the size of the Skill Dice Pool they are associated with. This could be used for magic users, with the size of their area of effects scaling with their proficiency with their magic.
+
+#### Close Cone Calculation
+
+Triangle Base/Height: [Close Cone](./Range.md)
+
+Cones Calculations can be customized to have larger angles and heights/bases, but must always cover the same area.
+
+| Skill Dice Pool Size | Triangle Base/Height (ft) | Cone Angle (degrees) | Triangle Area (ft^2) |
+| :------------------: | :-------------------------: | :-------------------: | :-------------------: |
+|        1 dice        |              5              |          ~53          |         12.5         |
+|        2 dice        |              5              |          ~53          |         12.5         |
+|        3 dice        |             10             |          ~53          |          50          |
+|        4 dice        |             10             |          ~53          |          50          |
+|        5 dice        |             15             |          ~53          |         112.5         |
+|        6 dice        |             15             |          ~53          |         112.5         |
+|        7 dice        |             20             |          ~53          |          200          |
+|        8 dice        |             20             |          ~53          |          200          |
+|        9 dice        |             25             |          ~53          |         312.5         |
+|       10 dice       |             25             |          ~53          |         312.5         |
+|       11 dice       |             30             |          ~53          |          450          |
+|       12 dice       |             30             |          ~53          |          450          |
+|         ...         |                            |                      |                      |
+
+#### Medium Cone Calculation
+
+Triangle Base/Height: [Medium Cone](./Range.md)
+
+Cones Calculations can be customized to have larger angles and heights/bases, but must always cover the same area.
+
+| Skill Dice Pool Size | Triangle Base/Height (ft) | Cone Angle (degrees) | Triangle Area (ft^2) |
+| :------------------: | :-------------------------: | :------------------: | :-------------------: |
+|        1 dice        |              5              |         ~53         |         12.5         |
+|        2 dice        |             10             |         ~53         |          50          |
+|        3 dice        |             15             |         ~53         |         112.5         |
+|        4 dice        |             20             |         ~53         |          200          |
+|        5 dice        |             25             |         ~53         |         312.5         |
+|        6 dice        |             30             |         ~53         |          450          |
+|        7 dice        |             35             |         ~53         |         612.5         |
+|        8 dice        |             40             |         ~53         |          800          |
+|        9 dice        |             45             |         ~53         |        1012.5        |
+|       10 dice       |             50             |         ~53         |         1250         |
+|       11 dice       |             55             |         ~53         |        1512.5        |
+|       12 dice       |             60             |         ~53         |         1800         |
+|         ...         |                            |                      |                      |
+
+#### Medium Sphere Calculation
+
+Sphere Radius (ft): 2.5 + (Skill Dice Pool Size) * 2.5, rounded down to the nearest multiple of 5
+
+| Skill Dice Pool Size | Radius (ft) |
+| :------------------: | :---------: |
+|        1 dice        |      5      |
+|        2 dice        |      5      |
+|        3 dice        |     10     |
+|        4 dice        |     10     |
+|        5 dice        |     15     |
+|        6 dice        |     15     |
+|        7 dice        |     20     |
+|        8 dice        |     20     |
+|        9 dice        |     25     |
+|       10 dice       |     25     |
+|       11 dice       |     30     |
+|       12 dice       |     30     |
+|         ...         |            |
+
+## Uses Per Round
+
+Uses Per Round represent the number of times some skill governed action can be preformed in a round.
+
+This rule is mainly used for determining how many times a weapon/spell can be used in combat rounds. In this context, if a character depeletes their Uses Per Round provided by their weapon/spell, then they can no longer use that weapon/spell that combat round and are instead forced to dodge if they are being attacked.
+
+### Uses Per Round calculations
+
+Uses Per Round is calculated using the following equation:
+
+( (Number of Skill Dice) + (Dice Amount Adjustment) )/ (Combat Roll Divisor), rounded down to the nearest whole number only if above 1, to a maximum of (Max Uses Per Round Option)
+
+|      Name      | Combat Roll Divisor | Dice Amount Adjustment | Max Uses Per Round Option |
+| :------------: | :-----------------: | :--------------------: | :-----------------------: |
+|     Rapid     |          1          |           0           |           None           |
+|    Swift +2    |          2          |           2           |           None           |
+|    Swift +1    |          2          |           1           |           None           |
+|     Swift     |          2          |           0           |           None           |
+|     Quick     |          3          |           0           |           None           |
+|     Steady     |          4          |           0           |           None           |
+|     Paced     |          5          |           0           |           None           |
+|      Slow      |          6          |           0           |           None           |
+| Extremely Slow |          8          |           0           |           None           |
+| Painfully Slow |         16         |           0           |           None           |
+
+For example, if a character had 7 dice in their governing skill dice pool with an Uses Per Round of "Quick", 7 divided by 3 is 2.333, which rounded down is 2. There is non "Max UPR" for "Quick" so they would have 2 Uses Per Round for that round.
+
+#### Uses Per Round calculations resulting in less than 1
+
+On a round where an action IS prepared (example: your Heavy Crossbow is loaded), you can perform the action 1 time.
+
+On a round where an action is NOT prepared (example: your Heavy Crossbow is unloaded), if the Uses Per Round calculation result is greater than or equal to 0.5 and less than 1, 1 round must be spend preparing in order to use this action again. If the result is greater than 0 and less 0.5, your character must spend 2 rounds preparing. While preparing the [Off Guard](./CombatModifiersAndCombatAssists.md#off-guard-disadvantage) Combat Modifier is gained. If engaged during this time characters can still attempt to dodge while preparing.
+
+#### Uses Per Round if character is using multiple loaded weapons
+
+If characters have loaded weapons (for instance loaded muzzle loading firearms) within easy access to themselves, they can forgo loading, and use a faster Uses Per Round type that the Narrator decides. For instance, for muzzle loading pistols being drawn from a chest rig, "Swift" seems like a reasonable Uses Per Round type.
+
+#### Uses Per Round Calculation Examples
+
+| Users Per Round Type/Number of Skill Dice | 1 Dice | 2 Dice | 3 Dice | 4 Dice | 5 Dice | 6 Dice | 7 Dice | 8 Dice | 9 Dice | 10 Dice | 11 Dice | 12 Dice |
+| :---------------------------------------: | :----: | :-----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: | :-----: | :-----: |
+|                   Rapid                   |   1   |    2    |   3   |   4   |   5   |   6   |   7   |   8   |   9   |   10   |   11   |   12   |
+|                Reach Swift                |   1   |    2    |   2   |   3   |   3   |   4   |   4   |   5   |   5   |    6    |    6    |    7    |
+|                   Swift                   |  0.5  |    1    |   1   |   2   |   2   |   3   |   3   |   4   |   4   |    5    |    5    |    6    |
+|                   Quick                   |  0.33  |  0.66  |   1   |   1   |   1   |   2   |   2   |   2   |   3   |    3    |    3    |    4    |
+|                  Steady                  |  0.25  |   0.5   |  0.75  |   1   |   1   |   1   |   1   |   2   |   2   |    2    |    2    |    3    |
+|                   Paced                   |  0.2  |   0.4   |  0.6  |  0.8  |   1   |   1   |   1   |   1   |   1   |    2    |    2    |    2    |
+|                   Slow                   |  0.16  |  0.33  |  0.5  |  0.66  |  0.83  |   1   |   1   |   1   |   1   |    1    |    1    |    2    |
+|              Extremely Slow              | 0.125 |  0.25  | 0.375 |  0.5  | 0.625 |  0.75  | 0.875 |   1   |   1   |    1    |    1    |    1    |
+|              Painfully Slow              | 0.0625 |  0.125  | 0.1875 |  0.25  | 0.3125 | 0.375 | 0.4375 |  0.5  | 0.5625 |  0.625  | 0.6875 |  0.75  |
+
+## Battle Map
+
+Combat takes place on gridded battle maps, with each square representing a 5 ft by 5 ft square.
+
+### Size
+
+Characters take up a certain amount of space on the battle map.
+
+|       Name       |          Effect          | Duration | Source |
+| :--------------: | :-----------------------: | :------: | :----: |
+|    Size: Tiny    | 2.5x2.5 ft on battle map. |          |        |
+|   Size: Small   |   5x5 ft on battle map.   |          |        |
+|   Size: Medium   |   5x5 ft on battle map.   |          |        |
+|   Size: Large   |  10x10 ft on battle map.  |          |        |
+|    Size: Huge    |  15x15 ft on battle map.  |          |        |
+| Size: Gargantuan |  20x20 ft on battle map.  |          |        |
+
+## Combat Speed
+
+Different characters get different movement speeds in combat on a battlemap.
+
+**Governing Skill:** The skill that governs this type of movement speed.
+
+**Feet Per Governing Skill Dice:** The number of feet per dice of the governing skill dice pool. This includes dice modifications such as skill buff effects, carry weight penalties, injuries, etc. If the resulting number isn't a multiple of 5, round down to the nearest multiple of 5.
+
+**Reflex Speed Attribute:** The Attribute that governs Reflex Speed.
+
+**Feet Per Reflex Speed Attribute:** The number of feet per gained/lost per Reflex Speed Attribute.
+
+|      Name      | Governing<br />Skill | Feet Per Governing<br />Skill Dice | Reflex Speed<br /> Attribute | Feet Per Reflex<br />Speed Attribute | Desc                                               |
+| :------------: | :------------------: | :--------------------------------: | :---------------------------: | :----------------------------------: | -------------------------------------------------- |
+|  Terrestrial  |      Athletics      |                 10                 |              RFX              |                  10                  | +10 ft (per Athletics Dice), +/-10 ft (per RFX)   |
+|      Swim      |      Athletics      |                 5                 |              RFX              |                  5                  | +5 ft (per Athletics Dice), +/-5 ft (per RFX)     |
+|     Climb     |      Athletics      |                 5                 |              RFX              |                  5                  | +5 ft (per Athletics Dice), +/-5 ft (per RFX)     |
+|     Flight     |      Athletics      |                 15                 |              RFX              |                  15                  | +15 ft (per Athletics Dice), +/-15 ft (per RFX)   |
+| 4-Hooved Climb |      Athletics      |                2.5                |              RFX              |                 2.5                 | +2.5 ft (per Athletics Dice), +/-2.5 ft (per RFX) |
+|    Aquatic    |      Athletics      |                 10                 |              RFX              |                  10                  | +10 ft (per Athletics Dice), +/-10 ft (per RFX)   |
+
+### Reflex Speed
+
+Characters with a higher Reflex Speed Attribute are quicker to plan and act in combat. While lower Reflex Speed Attribute characters are deciding what to do, high Reflex Speed Attribute characters are already in motion. For each positive/negative level in RFX, the character gains/loses movement speed.
+
+RFX speed can be used to resolve circumstances when it is unclear which opponent moved first or closed some distance. RFX Speed is used first on a character's turn, with lower RFX characters considered to have not moved/acted yet. This rule takes inspiration from the gun vs knife debate at close distances, where it is argued that within a certain distance, a quick knife wielder might be able to close the distance before the shooter could get accurate shots on target. The ensuing ranged versus melee combat rolls would be disadvantageous for the ranged combatant as they are in melee reach.
+
+#### Example 1
+
+A rogue with a dagger is trying to close the distance on an archer who is 10 feet away. The rogue has a 1 in RFX and the archer has a 0 in RFX. The archer declares he is going to shoot the rogue with his bow as he uses his movement speed to stay out of range of the knife. The rogue declares he is going to close the distance, attack with the knife, and stay on the archer, which will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks. Since the Rogue has a higher reflex, he can move 10 feet with his RFX Speed before the archer can lose the arrow, closing the distance. Now they will make combat rolls versus one another, with the archer being at a clear disadvantage.
+
+The archer, now likely wounded from the rogue knife, tries to use the rest of his movement speed to stay away from the rogue's knife range. However, the gap between the rogue and the archer is 0 feet as the rogue stays on the archer, assuming he has the same or greater remaining movement speed as the archer, ready to stab him again next round.
+
+#### Example 2
+
+A rogue with a dagger is trying to close the distance on an archer who is 15 feet away. The rogue has a 1 in RFX and the archer has a 0 in RFX. The archer declares he is going to shoot the rogue with his bow as he uses his movement speed to stay out of range of the knife. The rogue declares he is going to close the distance and stab the archer, which will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks. Since the Rogue has a higher reflex, he can move 10 feet with his RFX Speed before the archer can lose the arrow, not entirely able to close the gap. With 5 feet between the rogue and the archer, the arrow is shot. The Rogue must now try and dodge the arrow, before he can attack, possibly proving fatal.
+
+The archer is then able to flee backward, keeping the 5 feet of distance between him and the rogue, never getting stabbed, assuming he has the same or greater remaining movement speed as the rogue.
+
+#### Example 3
+
+A crappy rogue with a dagger is trying to close the distance on an archer who is 10 feet away. The rogue has a 0 in RFX and the archer has a 0 in RFX. The archer declares he is going to shoot the rogue with his bow as he uses his movement speed to stay out of range of the knife. The rogue declares he is going to close the distance and stab the archer, which will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks. Since the rogue has the same RFX as the archer, he is slow to get into motion, which gives the archer time to lose his arrow as he also begins moving. The Rogue must now try and dodge the arrow, possibly proving fatal.
+
+The archer is then able to flee backward as the rogue chases, keeping the 10 feet of distance between him and the rogue, never getting stabbed, assuming he has the same or greater remaining movement speed as the rogue.
+
+#### Example 4
+
+A rogue with a dagger is trying to close the distance on a knight who is 10 feet away. The rogue has 1 RFX and the knight has 0 RFX. The knight declares he is going to move forward and swing on the rogue with the longsword he has in his hands. The rogue declares he is going to close the distance and stab the knight. Since the Rogue has a higher reflex, he can move 10 feet with his RFX Speed before the knight can move, closing the gap. Since the knight already had his sword ready to go, combat rolls are made versus one another.
+
+### Using multiple Combat Speeds on the same round
+
+Whenever a character needs to use multiple movement speeds in a round, calculate what percentage of their movement they've used that round for their initial movement, with the remainder percent being used for another movement speed, rounded down to the next multiple of 5.
+
+For example, if a character has 30 feet of "Terrestrial Combat Speed" and 15 feet of "Climb Combat Speed". The character walks 15 feet up to a climbable rock face. They've used 50% (15/30 = 0.5) of their movement speed, leaving them 50% of their climb combat speed. 50% of 15 feet is 7.5 feet, which we round down to the nearest multiple of 5 which is 5 feet. Therefore the character can climb 5 feet up the rock face.
+
+### Difficult Terrain
+
+Steep mountains, ice-covered ground, swamps, etc. are difficult terrain. It takes twice the movement to move through these terrains.
+
+### Mounted Combat Speed
+
+When riding a mount in combat:
+
+- The rider's Dexterity core Skill or Riding Vocational Skill level is used in place of the mount's governing skill level for determining the governing skill dice pool size, capped by the mount's governing skill level.
+- The rider's RFX level is used in place of the mount's RFX, capped by the mount's RFX level.
+
+Additionally, when a mounted character or their mount takes an injury in combat, an Dexterity or Riding check equivalent to the injury level must be succeeded to stay on horseback, or else they are knocked off.
+
+## Ammunitions
+
+### Ammo Type
+
+Ammo Type determines the resource a weapon uses to operate.
+
+### Dice Pool Mod
+
+Represent either an addition or subtraction of dice to the Combat Roll Dice Pool in which this Ammo is being used. This is to represent ammunition types that warrant a change effectiveness. For instance, a bomb arrow is significantly more dangerous than a Standard Light Arrow, so it would receive additional dice. However, a blunted practice arrow (such as the comical boxing glove arrow) is significantly less dangerous than a Standard Light Arrow, so it would lose dice.
+
+### Base Dice Tier Adjustment
+
+Alters a combat rolls base dice tier. For instance, if a Mundane Light Bow (Level 0, or as dice 3d6) were to use a Survival Light Arrow which has a -1 Base Dice Tier Adjustment, then the resulting combat roll would use 1d4,2d6 base dice tier (Level -1). If instead a Standard Light Arrow were used, the resulting combat roll would use 3d6 base dice tier (Level 0).
+
+### Penetration
+
+Additional Penetration from the Ammo. Ammo Penetration is added to Weapon Penetration results in the total Penetration for the Combat Roll.
+
+### Range
+
+Ammo can have a Range that overrides the Weapon's Range that it is used with. This can represent self propelled made projectiles or high pressure ballistic ammunition. If a Ammo Range is "None", then default to the Weapon's Range.
+
+### Damage Types
+
+Damage Types inflicted by the Ammo.
+
+### Area Of Effect
+
+Ammo can have an Area Of Effect that overrides the Weapon's Area Of Effect that it is used with. This can represent a bomb arrow or an explosive projectile. If a Ammo Area Of Effect is "None", then default to the Weapon's Area Of Effect.
+
+### Ammo List
+
+|                  Name                  |           Ammo Type           | Dice Pool Mod | Base Dice Tier Adjustment | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
+| :-------------------------------------: | :----------------------------: | :-----------: | :-----------------------: | :---------: | :---: | :---------------: | :-----------------: |
+|          Standard Light Arrow          |          Light Arrow          |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
+|          Wounding Light Arrow          |          Light Arrow          |     +0d6     |            +1            |      0      | None |   Pierce, Bleed   |                    |
+|         Anti-armor Light Arrow         |          Light Arrow          |     +0d6     |            +0            |      1      | None |      Pierce      |                    |
+|          Survival Light Arrow          |          Light Arrow          |     +0d6     |            -1            |     -1     | None |      Pierce      |                    |
+|           Shoddy Light Arrow           |          Light Arrow          |     +0d6     |            -1            |      0      | None |      Pierce      |                    |
+|                                        |                                |              |                          |            |      |                  |                    |
+|          Standard Heavy Arrow          |          Heavy Arrow          |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
+|          Wounding Heavy Arrow          |          Heavy Arrow          |     +0d6     |            +1            |      0      | None |   Pierce, Bleed   |                    |
+|         Anti-armor Heavy Arrow         |          Heavy Arrow          |     +0d6     |            +0            |      1      | None |      Pierce      |                    |
+|          Survival Heavy Arrow          |          Heavy Arrow          |     +0d6     |            -1            |     -1     | None |      Pierce      |                    |
+|           Shoddy Heavy Arrow           |          Heavy Arrow          |     +0d6     |            -1            |      0      | None |      Pierce      |                    |
+|                                        |                                |              |                          |            |      |                  |                    |
+|           Standard Light Bolt           |           Light Bolt           |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
+|           Wounding Light Bolt           |           Light Bolt           |     +0d6     |            +1            |      0      | None |   Pierce, Bleed   |                    |
+|          Anti-armor Light Bolt          |           Light Bolt           |     +0d6     |            +0            |      1      | None |      Pierce      |                    |
+|           Survival Light Bolt           |           Light Bolt           |     +0d6     |            -1            |     -1     | None |      Pierce      |                    |
+|            Shoddy Light Bolt            |           Light Bolt           |     +0d6     |            -1            |      0      | None |      Pierce      |                    |
+|                                        |                                |              |                          |            |      |                  |                    |
+|           Standard Heavy Bolt           |           Heavy Bolt           |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
+|           Wounding Heavy Bolt           |           Heavy Bolt           |     +0d6     |            +1            |      0      | None |   Pierce, Bleed   |                    |
+|          Anti-armor Heavy Bolt          |           Heavy Bolt           |     +0d6     |            +0            |      1      | None |      Pierce      |                    |
+|           Survival Heavy Bolt           |           Heavy Bolt           |     +0d6     |            -1            |     -1     | None |      Pierce      |                    |
+|            Shoddy Heavy Bolt            |           Heavy Bolt           |     +0d6     |            -1            |      0      | None |      Pierce      |                    |
+|                                        |                                |              |                          |            |      |                  |                    |
+|             Poison Needles             |          Blowgun Dart          |     +0d6     |            +0            |      0      | None |      Poison      |                    |
+|         Standard Sling Bullets         |          Sling Bullet          |     +0d6     |            +0            |      0      | None |     Bludgeon     |                    |
+|                                        |                                |              |                          |            |      |                  |                    |
+| Standard Muzzleloading Pistol Cartridge | Muzzleloading Pistol Cartridge |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
+|       Standard Arquebus Cartridge       |       Arquebus Cartridge       |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
+|        Standard Musket Cartridge        |        Musket Cartridge        |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
+|                                        |                                |              |                          |            |      |                  |                    |
+|              9mm FMJ Ammo              |            9mm Ammo            |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
+|              5.56 FMJ Ammo              |           5.56 Ammo           |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
+|              .308 FMJ Ammo              |           .308 Ammo           |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
+|         12 Gauge Buckshot Ammo         |         12 Gauge Ammo         |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
+|                RPG Ammo                |            RPG Ammo            |     +0d6     |            +0            |      0      | None |  Fire, Shockwave  |    30 ft Sphere    |
+
+## Weapons
+
+Examples of weapons include swords, bows, guns, or even a character's fists.
+
+In order to make a combat roll, a character needs to specify what weapon they will be using. Weapons can dramatically improve the chances of getting more wins on a combat roll, make it possible to engage opponents at far distances, enable rapid engagement of multiple opponents, deal various types of damages which an opponents might be weak to, etc...
+
+Below is a key to help you understand the weapon tables below.
+
+### Name
+
+The name of a weapon is it's Weapon Type, followed by it's Handed Variation in parentheses, followed by it's Base Dice Tier Adjustment amount in parentheses.
+
+For example, let's say we are making rapier sword for use in our game. Rapier's logically seem to be Medium Melee weapons. In regards which Handed Variations it gets, most rapier grips only include space for one hand, thus we only use the One-handed and Dual-wielded, and not Two-handed. Next, in regards to the Base Dice Tier Adjustment amounts, we note that rapiers were designed to favor the piercing rather than slashing. Thus, we could give a +2 Base Dice Tier Adjustment Amount when piercing with this sword.
+
+Thus, our rapier would have the below weapons:
+
+"Medium Pierce Melee (One-handed) (+2), Medium Pierce Melee (Dual-wielded) (+2), Medium Slash Melee (One-handed) (+0), Medium Slash Melee (Dual-wielded) (+0)"
+
+### Weapon Type
+
+Just describes what type of weapon.
+
+### Base Dice Tier Adjustment
+
+Adjusts the [Base Dice Tier](./../GeneralRules/BaseDiceTiers.md) by the amount specified. This generally is used to indicate the quality of the weapon in question. For instance a "Hand Crossbow (One-handed) (+1)" will have 1d8,2d6 as it's Base Dice. The table below only shows the +0 Base Dice Tier Adjustment amount for the sake of brevity.
+
+### Handed Variation
+
+#### One-handed
+
+The dice pool modifier added when wielding a weapon in one hand or equivalent appendage. This frees up the other hand to hold a shield, another weapon, an important item, etc...
+
+#### Two-handed
+
+The dice pool modifier added when wielding a weapon in two hands or equivalent appendages.
+
+#### Dual-wielded
+
+The dice pool modifier added when dual wielding a main weapon in one hand with an off-handed weapon in the other hand. Only weapons with the "Dual-wielded" handed variation are eligible for dual wielding. To dual wield, a character must have at least one skill point in both of the weapons held.
+
+### Dice Pool Mod
+
+Represents the dice pool modification that a particular weapon gives you. The better the weapon is as a force multiplier, the larger the dice pool modification.
+
+### Penetration
+
+The amount of Penetration a weapon adds to a characters combat roll. See [Penetration](./Defense.md#penetration) for more details.
+
+### Range
+
+The distance at which a weapon can be used. See [Range](./Range.md) for more details.
+
+### Uses Per Round
+
+The amount of times a weapon be used per round. See [Uses Per Round](./UsesPerRound.md) for more details.
+
+### Area Of Effect
+
+The shape and amount of area a weapon attack creates. See [Area Of Effect](./AreaOfEffect.md) for more details.
+
+### Ammo Type And Ammo Per Use
+
+The ammo type required to use the weapon and the amount of ammo consumed per use of the weapon. See [Ammo Type](./Ammunitions.md#ammo-type) for more details.
+
+### Damage Types
+
+The types of Damage a weapon inflicts when dealing injuries.
+
+### Weapons
+
+|                      Name                      |         Weapon Type         | Base Dice Tier<br />Adjustment Amount | Handed<br />Variation | Dice<br />Pool Mod | Penetration |    Range    | Uses Per<br />Round | Area Of<br />Effect | Ammo Type And<br />Ammo Per Use | Damage<br />Types | Governing<br />Skill Name | Desc                                                                                                                                |  Duration  | Source |
+| :---------------------------------------------: | :--------------------------: | :------------------------------------: | :-------------------: | :----------------: | :---------: | :----------: | :-----------------: | :-----------------: | :-------------------------------: | :---------------: | :-----------------------: | ----------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----: |
+|            Unarmed (+0) (One-handed)            |           Unarmed           |                   +0                   |      One-handed      |         -1         |      0      |    Melee    |        Swift        |        None        |               None               |     Bludgeon     |        Close Melee        | Just your bare hands. Can be used in a Grapple.                                                                                     | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|        Small Hew Melee (+0) (One-handed)        |       Small Hew Melee       |                   +0                   |      One-handed      |        +0d6        |      0      |    Melee    |        Swift        |        None        |               None               |        Hew        |        Close Melee        | Hatchets, small axes, ect... Can be used in a Grapple.                                                                              | Indefinite | Innate |
+|       Small Hew Melee (+0) (Dual-wielded)       |       Small Hew Melee       |                   +0                   |     Dual-wielded     |        +1d6        |      0      |    Melee    |      Swift +1      |        None        |               None               |        Hew        |        Close Melee        | Hatchets, small axes, ect... Can be used in a Grapple.                                                                              | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|       Small Slash Melee (+0) (One-handed)       |      Small Slash Melee      |                   +0                   |      One-handed      |        +0d6        |      0      |    Melee    |        Swift        |        None        |               None               |       Slash       |        Close Melee        | Daggers, shortswords, claws, ect... Can be used in a Grapple.                                                                       | Indefinite | Innate |
+|      Small Slash Melee (+0) (Dual-wielded)      |      Small Slash Melee      |                   +0                   |     Dual-wielded     |        +1d6        |      0      |    Melee    |      Swift +1      |        None        |               None               |       Slash       |        Close Melee        | Daggers, shortswords, claws, ect... Can be used in a Grapple.                                                                       | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|      Small Pierce Melee (+0) (One-handed)      |      Small Pierce Melee      |                   +0                   |      One-handed      |        +0d6        |      0      |    Melee    |        Swift        |        None        |               None               |      Pierce      |        Close Melee        | Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.                                                        | Indefinite | Innate |
+|     Small Pierce Melee (+0) (Dual-wielded)     |      Small Pierce Melee      |                   +0                   |     Dual-wielded     |        +1d6        |      0      |    Melee    |      Swift +1      |        None        |               None               |      Pierce      |        Close Melee        | Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.                                                        | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|     Small Bludgeon Melee (+0) (One-handed)     |     Small Bludgeon Melee     |                   +0                   |      One-handed      |        +0d6        |      0      |    Melee    |        Swift        |        None        |               None               |     Bludgeon     |        Close Melee        | Small club, crowbars, gauntlets, ect... Can be used in a Grapple.                                                                   | Indefinite | Innate |
+|    Small Bludgeon Melee (+0) (Dual-wielded)    |     Small Bludgeon Melee     |                   +0                   |     Dual-wielded     |        +1d6        |      0      |    Melee    |      Swift +1      |        None        |               None               |     Bludgeon     |        Close Melee        | Small club, crowbars, gauntlets, ect... Can be used in a Grapple.                                                                   | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|          Small Torch (+0) (One-handed)          |         Small Torch         |                   +0                   |      One-handed      |        +0d6        |      0      |    Melee    |        Swift        |        None        |               None               |  Bludgeon, Fire  |        Close Melee        | Torches, ect... Can be used in a Grapple.                                                                                           | Indefinite | Innate |
+|         Small Torch (+0) (Dual-wielded)         |         Small Torch         |                   +0                   |     Dual-wielded     |        +1d6        |      0      |    Melee    |      Swift +1      |        None        |               None               |  Bludgeon, Fire  |        Close Melee        | Torches, ect... Can be used in a Grapple.                                                                                           | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|       Medium Hew Melee (+0) (One-handed)       |       Medium Hew Melee       |                   +0                   |      One-handed      |        +1d6        |      1      |    Melee    |        Swift        |        None        |               None               |        Hew        |       Medium Melee       | Battleaxes, large creature claws, ect...                                                                                            | Indefinite | Innate |
+|       Medium Hew Melee (+0) (Two-handed)       |       Medium Hew Melee       |                   +0                   |      Two-handed      |        +2d6        |      1      |    Melee    |        Swift        |        None        |               None               |        Hew        |       Medium Melee       | Battleaxes, large creature claws, ect...                                                                                            | Indefinite | Innate |
+|      Medium Hew Melee (+0) (Dual-wielded)      |       Medium Hew Melee       |                   +0                   |     Dual-wielded     |        +2d6        |      1      |    Melee    |      Swift +1      |        None        |               None               |        Hew        |       Medium Melee       | Battleaxes, large creature claws, ect...                                                                                            | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|      Medium Slash Melee (+0) (One-handed)      |      Medium Slash Melee      |                   +0                   |      One-handed      |        +1d6        |      1      |    Melee    |        Swift        |        None        |               None               |       Slash       |       Medium Melee       | Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...                               | Indefinite | Innate |
+|      Medium Slash Melee (+0) (Two-handed)      |      Medium Slash Melee      |                   +0                   |      Two-handed      |        +2d6        |      1      |    Melee    |        Swift        |        None        |               None               |       Slash       |       Medium Melee       | Bastard Sword, Medium swords with two-handed grips, ect...                                                                          | Indefinite | Innate |
+|     Medium Slash Melee (+0) (Dual-wielded)     |      Medium Slash Melee      |                   +0                   |     Dual-wielded     |        +2d6        |      1      |    Melee    |      Swift +1      |        None        |               None               |       Slash       |       Medium Melee       | Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...                               | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|      Medium Pierce Melee (+0) (One-handed)      |     Medium Pierce Melee     |                   +0                   |      One-handed      |        +1d6        |      1      |    Melee    |        Swift        |        None        |               None               |      Pierce      |       Medium Melee       | Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, War pick, war hammer's spike, ect... | Indefinite | Innate |
+|      Medium Pierce Melee (+0) (Two-handed)      |     Medium Pierce Melee     |                   +0                   |      Two-handed      |        +2d6        |      1      |    Melee    |        Swift        |        None        |               None               |      Pierce      |       Medium Melee       | Bastard Sword, Medium swords with two-handed grips, War pick, war hammer's spike, ect...                                            | Indefinite | Innate |
+|     Medium Pierce Melee (+0) (Dual-wielded)     |     Medium Pierce Melee     |                   +0                   |     Dual-wielded     |        +2d6        |      1      |    Melee    |      Swift +1      |        None        |               None               |      Pierce      |       Medium Melee       | Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, War pick, war hammer's spike, ect... | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|     Medium Bludgeon Melee (+0) (One-handed)     |    Medium Bludgeon Melee    |                   +0                   |      One-handed      |        +1d6        |      1      |    Melee    |        Swift        |        None        |               None               |     Bludgeon     |       Medium Melee       | War hammer, mace, large creature smash, ect...                                                                                      | Indefinite | Innate |
+|     Medium Bludgeon Melee (+0) (Two-handed)     |    Medium Bludgeon Melee    |                   +0                   |      Two-handed      |        +2d6        |      1      |    Melee    |        Swift        |        None        |               None               |     Bludgeon     |       Medium Melee       | War hammer, mace, large creature smash, ect...                                                                                      | Indefinite | Innate |
+|    Medium Bludgeon Melee (+0) (Dual-wielded)    |    Medium Bludgeon Melee    |                   +0                   |     Dual-wielded     |        +2d6        |      1      |    Melee    |      Swift +1      |        None        |               None               |     Bludgeon     |       Medium Melee       | War hammer, mace, large creature smash, ect...                                                                                      | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|         Medium Spear (+0) (One-handed)         |         Medium Spear         |                   +0                   |      One-handed      |        +2d6        |      1      |    Melee    |        Quick        |        None        |               None               |      Pierce      |       Medium Melee       | Javelin, short spear, large creature horns, ect...                                                                                  | Indefinite | Innate |
+|        Medium Spear (+0) (Dual-wielded)        |         Medium Spear         |                   +0                   |     Dual-wielded     |        +3d6        |      1      |    Melee    |        Quick        |        None        |               None               |      Pierce      |       Medium Melee       | Javelin, short spear, large creature horns, ect...                                                                                  | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|        Large Hew Melee (+0) (One-handed)        |       Large Hew Melee       |                   +0                   |      One-handed      |        +0d6        |      1      |    Melee    |        Swift        |        None        |               None               |        Hew        |        Large Melee        | Dane axe, short poleaxe axehead, short halberd, ect...                                                                              | Indefinite | Innate |
+|        Large Hew Melee (+0) (Two-handed)        |       Large Hew Melee       |                   +0                   |      Two-handed      |        +2d6        |      2      |    Melee    |        Swift        |        None        |               None               |        Hew        |        Large Melee        | Dane axe, short poleaxe axehead, short halberd, ect...                                                                              | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|       Large Slash Melee (+0) (One-handed)       |      Large Slash Melee      |                   +0                   |      One-handed      |        +0d6        |      1      |    Melee    |        Swift        |        None        |               None               |       Slash       |        Large Melee        | Longsword, Ōdachi, ect...                                                                                                          | Indefinite | Innate |
+|       Large Slash Melee (+0) (Two-handed)       |      Large Slash Melee      |                   +0                   |      Two-handed      |        +2d6        |      2      |    Melee    |        Swift        |        None        |               None               |       Slash       |        Large Melee        | Longsword, Ōdachi, ect...                                                                                                          | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|      Large Pierce Melee (+0) (One-handed)      |      Large Pierce Melee      |                   +0                   |      One-handed      |        +0d6        |      1      |    Melee    |        Swift        |        None        |               None               |      Pierce      |        Large Melee        | Longsword, Ōdachi, Bec de corbin spike, ect...                                                                                     | Indefinite | Innate |
+|      Large Pierce Melee (+0) (Two-handed)      |      Large Pierce Melee      |                   +0                   |      Two-handed      |        +2d6        |      2      |    Melee    |        Swift        |        None        |               None               |      Pierce      |        Large Melee        | Longsword, Ōdachi, Bec de corbin spike, ect...                                                                                     | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|     Large Bludgeon Melee (+0) (One-handed)     |     Large Bludgeon Melee     |                   +0                   |      One-handed      |        +0d6        |      1      |    Melee    |        Swift        |        None        |               None               |     Bludgeon     |        Large Melee        | Two-handed Mace, maul, ect...                                                                                                       | Indefinite | Innate |
+|     Large Bludgeon Melee (+0) (Two-handed)     |     Large Bludgeon Melee     |                   +0                   |      Two-handed      |        +2d6        |      2      |    Melee    |        Swift        |        None        |               None               |     Bludgeon     |        Large Melee        | Two-handed Mace, maul, ect...                                                                                                       | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|          Large Spear (+0) (One-handed)          |         Large Spear         |                   +0                   |      One-handed      |        +0d6        |      1      |    Melee    |        Quick        |        None        |               None               |      Pierce      |        Large Melee        | Two-handed spear, ect...                                                                                                            | Indefinite | Innate |
+|          Large Spear (+0) (Two-handed)          |         Large Spear         |                   +0                   |      Two-handed      |        +2d6        |      2      |    Melee    |        Quick        |        None        |               None               |      Pierce      |        Large Melee        | Two-handed spear, ect...                                                                                                            | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|        Reach Hew Melee (+0) (One-handed)        |       Reach Hew Melee       |                   +0                   |      One-handed      |         -2         |      1      |    Reach    |      Swift +2      |        None        |               None               |        Hew        |        Reach Melee        | Poleaxe's axe head, halberd's axe head, glaive, ect...  Disadvantage while in confined spaces.                                      | Indefinite | Innate |
+|        Reach Hew Melee (+0) (Two-handed)        |       Reach Hew Melee       |                   +0                   |      Two-handed      |        +3d6        |      3      |    Reach    |      Swift +2      |        None        |               None               |        Hew        |        Reach Melee        | Poleaxe's axe head, halberd's axe head, glaive, ect...  Disadvantage while in confined spaces.                                      | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|       Reach Slash Melee (+0) (One-handed)       |      Reach Slash Melee      |                   +0                   |      One-handed      |         -2         |      1      |    Reach    |      Swift +2      |        None        |               None               |       Slash       |        Reach Melee        | Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.                                                    | Indefinite | Innate |
+|       Reach Slash Melee (+0) (Two-handed)       |      Reach Slash Melee      |                   +0                   |      Two-handed      |        +3d6        |      3      |    Reach    |      Swift +2      |        None        |               None               |       Slash       |        Reach Melee        | Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.                                                    | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|      Reach Pierce Melee (+0) (One-handed)      |      Reach Pierce Melee      |                   +0                   |      One-handed      |         -2         |      1      |    Reach    |      Swift +2      |        None        |               None               |      Pierce      |        Reach Melee        | Greatsword, zweihänder, naginata, halberd's spike, ect... Disadvantage while in confined spaces.                                   | Indefinite | Innate |
+|      Reach Pierce Melee (+0) (Two-handed)      |      Reach Pierce Melee      |                   +0                   |      Two-handed      |        +3d6        |      3      |    Reach    |      Swift +2      |        None        |               None               |      Pierce      |        Reach Melee        | Greatsword, zweihänder, naginata, halberd's spike, ect... Disadvantage while in confined spaces.                                   | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|     Reach Bludgeon Melee (+0) (One-handed)     |     Reach Bludgeon Melee     |                   +0                   |      One-handed      |         -2         |      1      |    Reach    |      Swift +2      |        None        |               None               |     Bludgeon     |        Reach Melee        | Poleaxe hammer, ect... Disadvantage while in confined spaces.                                                                       | Indefinite | Innate |
+|     Reach Bludgeon Melee (+0) (Two-handed)     |     Reach Bludgeon Melee     |                   +0                   |      Two-handed      |        +3d6        |      3      |    Reach    |      Swift +2      |        None        |               None               |     Bludgeon     |        Reach Melee        | Poleaxe hammer, ect... Disadvantage while in confined spaces.                                                                       | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|          Reach Spear (+0) (One-handed)          |         Reach Spear         |                   +0                   |      One-handed      |         -2         |      1      |    Reach    |       Steady       |        None        |               None               |      Pierce      |        Reach Melee        | Pike, lance, ect... Disadvantage while in confined spaces.                                                                          | Indefinite | Innate |
+|          Reach Spear (+0) (Two-handed)          |         Reach Spear         |                   +0                   |      Two-handed      |        +3d6        |      3      |    Reach    |       Steady       |        None        |               None               |      Pierce      |        Reach Melee        | Pike, lance, ect... Disadvantage while in confined spaces.                                                                          | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|             Whip (+0) (One-handed)             |             Whip             |                   +0                   |      One-handed      |        +0d6        |      0      |    Reach    |        Swift        |        None        |               None               |       Slash       |       Exotic Melee       | Bullwhips, ect... Disadvantage while in confined spaces.                                                                            | Indefinite | Innate |
+|            Whip (+0) (Dual-wielded)            |             Whip             |                   +0                   |     Dual-wielded     |        +1d6        |      0      |    Reach    |      Swift +1      |        None        |               None               |       Slash       |       Exotic Melee       | Bullwhips, ect... Disadvantage while in confined spaces.                                                                            | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|         Hand Crossbow (+0) (One-handed)         |        Hand Crossbow        |                   +0                   |      One-handed      |        +1d6        |      0      |   Mediocre   |        Quick        |        None        |           Light Bolt, 1           |      Pierce      |       Hand Crossbow       | Small crossbows designed to be held in one hand.                                                                                    | Indefinite | Innate |
+|         Hand Crossbow (+0) (Two-handed)         |        Hand Crossbow        |                   +0                   |      Two-handed      |        +1d6        |      0      |    Medium    |        Quick        |        None        |           Light Bolt, 1           |      Pierce      |       Hand Crossbow       | Small crossbows designed to be held in one hand.                                                                                    | Indefinite | Innate |
+|        Hand Crossbow (+0) (Dual-wielded)        |        Hand Crossbow        |                   +0                   |     Dual-wielded     |        +2d6        |      0      |   Mediocre   |       Steady       |        None        |           Light Bolt, 2           |      Pierce      |       Hand Crossbow       | Small crossbows designed to be held in one hand.                                                                                    | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|        Light Crossbow (+0) (One-handed)        |        Light Crossbow        |                   +0                   |      One-handed      |        +0d6        |      1      |     Far     |       Steady       |        None        |           Light Bolt, 1           |      Pierce      |      Light Crossbow      | Crossbows balancing power and reload time.                                                                                          | Indefinite | Innate |
+|        Light Crossbow (+0) (Two-handed)        |        Light Crossbow        |                   +0                   |      Two-handed      |        +1d6        |      1      |     Far     |       Steady       |        None        |           Light Bolt, 1           |      Pierce      |      Light Crossbow      | Crossbows balancing power and reload time.                                                                                          | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|        Heavy Crossbow (+0) (Two-handed)        |        Heavy Crossbow        |                   +0                   |      Two-handed      |        +2d6        |      2      |     Long     |   Extremely Slow   |        None        |           Heavy Bolt, 1           |      Pierce      |      Heavy Crossbow      | Crossbows designed for maximum power disregarding reload time.                                                                      | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|           Light Bow (+0) (Two-handed)           |          Light Bow          |                   +0                   |      Two-handed      |        +1d6        |      0      |     Far     |        Swift        |        None        |          Light Arrow, 1          |      Pierce      |         Light Bow         | Bows favoring easier drawing versus power.                                                                                          | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|           Heavy Bow (+0) (Two-handed)           |          Heavy Bow          |                   +0                   |      Two-handed      |        +2d6        |      2      | Sharpshooter |        Quick        |        None        |          Heavy Arrow, 1          |      Pierce      |         Heavy Bow         | Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.                                                       | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|            Blowgun (+0) (Two-handed)            |           Blowgun           |                   +0                   |      Two-handed      |        +0d6        |      0      |   Mediocre   |        Quick        |        None        |          Blowgun Dart, 1          |      Pierce      |       Exotic Ranged       | A long narrow tube that propels darts using the force of the force of the users's breath.                                           | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|             Sling (+0) (Two-handed)             |            Sling            |                   +0                   |      Two-handed      |        +0d6        |      0      |   Mediocre   |        Quick        |        None        |          Sling Bullet, 1          |     Bludgeon     |       Exotic Ranged       | A flexible strap used to hurl small objects.                                                                                        | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|   Thrown Small Slash Melee (+0) (One-handed)   |   Thrown Small Slash Melee   |                   +0                   |      One-handed      |        +0d6        |      0      |    Short    |        Swift        |        None        |              Self, 1              |       Slash       |        Close Melee        | Ninja stars, ect...                                                                                                                 | Indefinite | Innate |
+|  Thrown Small Slash Melee (+0) (Dual-wielded)  |   Thrown Small Slash Melee   |                   +0                   |     Dual-wielded     |        +1d6        |      0      |    Short    |        Quick        |        None        |              Self, 2              |       Slash       |        Close Melee        | Ninja stars, ect...                                                                                                                 | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|   Thrown Small Pierce Melee (+0) (One-handed)   |  Thrown Small Pierce Melee  |                   +0                   |      One-handed      |        +0d6        |      0      |    Short    |        Swift        |        None        |              Self, 1              |      Pierce      |        Close Melee        | Throwing daggers, ect...                                                                                                            | Indefinite | Innate |
+|  Thrown Small Pierce Melee (+0) (Dual-wielded)  |  Thrown Small Pierce Melee  |                   +0                   |     Dual-wielded     |        +1d6        |      0      |    Short    |        Quick        |        None        |              Self, 2              |      Pierce      |        Close Melee        | Throwing daggers, ect...                                                                                                            | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|    Thrown Small Hew Melee (+0) (One-handed)    |    Thrown Small Hew Melee    |                   +0                   |      One-handed      |        +0d6        |      0      |    Short    |        Swift        |        None        |              Self, 1              |        Hew        |        Close Melee        | Throwing hatchet, ect...                                                                                                            | Indefinite | Innate |
+|   Thrown Small Hew Melee (+0) (Dual-wielded)   |    Thrown Small Hew Melee    |                   +0                   |     Dual-wielded     |        +1d6        |      0      |    Short    |        Quick        |        None        |              Self, 2              |        Hew        |        Close Melee        | Throwing hatchet, ect...                                                                                                            | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|  Thrown Small Bludgeon Melee (+0) (One-handed)  | Thrown Small Bludgeon Melee |                   +0                   |      One-handed      |        +0d6        |      0      |    Short    |        Swift        |        None        |              Self, 1              |     Bludgeon     |        Close Melee        | Thrown small club, rocks, ect...                                                                                                    | Indefinite | Innate |
+| Thrown Small Bludgeon Melee (+0) (Dual-wielded) | Thrown Small Bludgeon Melee |                   +0                   |     Dual-wielded     |        +1d6        |      0      |    Short    |        Quick        |        None        |              Self, 2              |     Bludgeon     |        Close Melee        | Thrown small club, rocks, ect...                                                                                                    | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|      Thrown Medium Spear (+0) (One-handed)      |     Thrown Medium Spear     |                   +0                   |      One-handed      |        +1d6        |      1      |   Mediocre   |        Quick        |        None        |              Self, 1              |      Pierce      |       Medium Melee       | Thrown Javelins, ect...                                                                                                             | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|      Thrown Large Spear (+0) (One-handed)      |      Thrown Large Spear      |                   +0                   |      One-handed      |        +1d6        |      2      |    Short    |        Quick        |        None        |              Self, 1              |      Pierce      |        Large Melee        | Thrown two-handed spears.                                                                                                           | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|     Muzzleloading Pistol (+0) (One-handed)     |     Muzzleloading Pistol     |                   +0                   |      One-handed      |        +2d6        |      0      |   Mediocre   |   Extremely Slow   |        None        | Muzzleloading Pistol Cartridge, 1 |     Ballistic     |        Small Guns        | Flintlock pistols, ect...                                                                                                           | Indefinite | Innate |
+|     Muzzleloading Pistol (+0) (Two-handed)     |     Muzzleloading Pistol     |                   +0                   |      Two-handed      |        +2d6        |      0      |    Medium    |   Extremely Slow   |        None        | Muzzleloading Pistol Cartridge, 1 |     Ballistic     |        Small Guns        | Flintlock pistols, ect...                                                                                                           | Indefinite | Innate |
+|    Muzzleloading Pistol (+0) (Dual-wielded)    |     Muzzleloading Pistol     |                   +0                   |     Dual-wielded     |        +3d6        |      0      |   Mediocre   |   Painfully Slow   |        None        | Muzzleloading Pistol Cartridge, 2 |     Ballistic     |        Small Guns        | Flintlock pistols, ect...                                                                                                           | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|           Arquebus (+0) (One-handed)           |           Arquebus           |                   +0                   |      One-handed      |        +0d6        |      0      |     Long     |   Extremely Slow   |        None        |       Arquebus Cartridge, 1       |     Ballistic     |        Medium Guns        | Weapon for Combat Rolls.                                                                                                            | Indefinite | Innate |
+|           Arquebus (+0) (Two-handed)           |           Arquebus           |                   +0                   |      Two-handed      |        +2d6        |      0      |     Long     |   Extremely Slow   |        None        |       Arquebus Cartridge, 1       |     Ballistic     |        Medium Guns        | Weapon for Combat Rolls.                                                                                                            | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|            Musket (+0) (One-handed)            |            Musket            |                   +0                   |      One-handed      |        +0d6        |      1      | Sharpshooter |   Painfully Slow   |        None        |        Musket Cartridge, 1        |     Ballistic     |        Medium Guns        | Flintlock smoothbore long guns.                                                                                                     | Indefinite | Innate |
+|            Musket (+0) (Two-handed)            |            Musket            |                   +0                   |      Two-handed      |        +3d6        |      1      | Sharpshooter |   Painfully Slow   |        None        |        Musket Cartridge, 1        |     Ballistic     |        Medium Guns        | Flintlock smoothbore long guns.                                                                                                     | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|   9mm Semi-automatic Pistol (+0) (One-handed)   |  9mm Semi-automatic Pistol  |                   +0                   |      One-handed      |        +2d6        |      2      |   Extended   |      Swift +2      |        None        |            9mm Ammo, 1            |     Ballistic     |        Small Guns        | Glock 17, ect...                                                                                                                    | Indefinite | Innate |
+|   9mm Semi-automatic Pistol (+0) (Two-handed)   |  9mm Semi-automatic Pistol  |                   +0                   |      Two-handed      |        +2d6        |      2      |     Far     |      Swift +2      |        None        |            9mm Ammo, 1            |     Ballistic     |        Small Guns        | Glock 17, ect...                                                                                                                    | Indefinite | Innate |
+|  9mm Semi-automatic Pistol (+0) (Dual-wielded)  |  9mm Semi-automatic Pistol  |                   +0                   |     Dual-wielded     |        +3d6        |      2      |   Extended   |      Swift +2      |        None        |            9mm Ammo, 2            |     Ballistic     |        Small Guns        | Glock 17, ect...                                                                                                                    | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|     9mm Burst-fire Pistol (+0) (One-handed)     |    9mm Burst-fire Pistol    |                   +0                   |      One-handed      |        +3d6        |      2      |   Mediocre   |      Swift +2      |        None        |            9mm Ammo, 3            |     Ballistic     |        Small Guns        | Beretta 93R, ect...                                                                                                                 | Indefinite | Innate |
+|     9mm Burst-fire Pistol (+0) (Two-handed)     |    9mm Burst-fire Pistol    |                   +0                   |      Two-handed      |        +3d6        |      2      |    Medium    |      Swift +2      |        None        |            9mm Ammo, 3            |     Ballistic     |        Small Guns        | Beretta 93R, ect...                                                                                                                 | Indefinite | Innate |
+|    9mm Burst-fire Pistol (+0) (Dual-wielded)    |    9mm Burst-fire Pistol    |                   +0                   |     Dual-wielded     |        +4d6        |      2      |   Mediocre   |      Swift +2      |        None        |            9mm Ammo, 6            |     Ballistic     |        Small Guns        | Beretta 93R, ect...                                                                                                                 | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|     9mm Automatic Pistol (+0) (One-handed)     |     9mm Automatic Pistol     |                   +0                   |      One-handed      |        +3d6        |      2      |    Short    |        Rapid        |        None        |            9mm Ammo, 6            |     Ballistic     |        Small Guns        | Glock 18, ect...                                                                                                                    | Indefinite | Innate |
+|     9mm Automatic Pistol (+0) (Two-handed)     |     9mm Automatic Pistol     |                   +0                   |      Two-handed      |        +3d6        |      2      |   Mediocre   |        Rapid        |        None        |            9mm Ammo, 6            |     Ballistic     |        Small Guns        | Glock 18, ect...                                                                                                                    | Indefinite | Innate |
+|    9mm Automatic Pistol (+0) (Dual-wielded)    |     9mm Automatic Pistol     |                   +0                   |     Dual-wielded     |        +4d6        |      2      |    Short    |        Rapid        |        None        |           9mm Ammo, 12           |     Ballistic     |        Small Guns        | Glock 18, ect...                                                                                                                    | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+| 12 Gauge Pump-action Shotgun (+0) (One-handed) | 12 Gauge Pump-action Shotgun |                   +0                   |      One-handed      |        +3d6        |      2      |   Extended   |        Swift        |        None        |         12 Gauge Ammo, 1         |     Ballistic     |        Medium Guns        | Remington 870, Mossberg 500, ect...                                                                                                 | Indefinite | Innate |
+| 12 Gauge Pump-action Shotgun (+0) (Two-handed) | 12 Gauge Pump-action Shotgun |                   +0                   |      Two-handed      |        +3d6        |      2      |   Extended   |        Swift        |        None        |         12 Gauge Ammo, 1         |     Ballistic     |        Medium Guns        | Remington 870, Mossberg 500, ect...                                                                                                 | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|   5.56 Semi-automatic Rifle (+0) (One-handed)   |  5.56 Semi-automatic Rifle  |                   +0                   |      One-handed      |        +1d6        |      3      |   Extreme   |      Swift +2      |        None        |           5.56 Ammo, 1           |     Ballistic     |        Medium Guns        | AR-15, ect...                                                                                                                       | Indefinite | Innate |
+|   5.56 Semi-automatic Rifle (+0) (Two-handed)   |  5.56 Semi-automatic Rifle  |                   +0                   |      Two-handed      |        +3d6        |      3      |   Extreme   |      Swift +2      |        None        |           5.56 Ammo, 1           |     Ballistic     |        Medium Guns        | AR-15, ect...                                                                                                                       | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|       5.56 Burst Rifle (+0) (One-handed)       |       5.56 Burst Rifle       |                   +0                   |      One-handed      |        +2d6        |      3      | Sharpshooter |      Swift +2      |        None        |           5.56 Ammo, 3           |     Ballistic     |        Medium Guns        | M16A2, ect...                                                                                                                       | Indefinite | Innate |
+|       5.56 Burst Rifle (+0) (Two-handed)       |       5.56 Burst Rifle       |                   +0                   |      Two-handed      |        +4d6        |      3      | Sharpshooter |      Swift +2      |        None        |           5.56 Ammo, 3           |     Ballistic     |        Medium Guns        | M16A2, ect...                                                                                                                       | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|     5.56 Automatic Rifle (+0) (One-handed)     |     5.56 Automatic Rifle     |                   +0                   |      One-handed      |        +2d6        |      3      |   Distant   |        Rapid        |        None        |           5.56 Ammo, 6           |     Ballistic     |        Medium Guns        | M4, ect...                                                                                                                          | Indefinite | Innate |
+|     5.56 Automatic Rifle (+0) (Two-handed)     |     5.56 Automatic Rifle     |                   +0                   |      Two-handed      |        +4d6        |      3      |   Distant   |        Rapid        |        None        |           5.56 Ammo, 6           |     Ballistic     |        Medium Guns        | M4, ect...                                                                                                                          | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|    .308 Bolt Action Rifle (+0) (One-handed)    |    .308 Bolt Action Rifle    |                   +0                   |      One-handed      |        +1d6        |      4      |    Sniper    |        Quick        |        None        |           .308 Ammo, 1           |     Ballistic     |        Medium Guns        | Remington M700, ect...                                                                                                              | Indefinite | Innate |
+|    .308 Bolt Action Rifle (+0) (Two-handed)    |    .308 Bolt Action Rifle    |                   +0                   |      Two-handed      |        +4d6        |      4      |    Sniper    |        Quick        |        None        |           .308 Ammo, 1           |     Ballistic     |        Medium Guns        | Remington M700, ect...                                                                                                              | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|       5.56 Machine Gun (+0) (One-handed)       |       5.56 Machine Gun       |                   +0                   |      One-handed      |         -2         |      3      |   Extreme   |        Rapid        |        None        |           5.56 Ammo, 10           |     Ballistic     |        Heavy Guns        | M249, ect...                                                                                                                        | Indefinite | Innate |
+|       5.56 Machine Gun (+0) (Two-handed)       |       5.56 Machine Gun       |                   +0                   |      Two-handed      |        +4d6        |      3      |   Extreme   |        Rapid        |        None        |           5.56 Ammo, 10           |     Ballistic     |        Heavy Guns        | M249, ect...                                                                                                                        | Indefinite | Innate |
+|                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
+|         RPG Launcher (+0) (One-handed)         |         RPG Launcher         |                   +0                   |      One-handed      |         -2         |      6      | Sharpshooter |        Paced        |    30 ft Sphere    |            RPG Ammo, 1            |     Shockwave     |        Heavy Guns        | RPG-7, ect...                                                                                                                       | Indefinite | Innate |
+|         RPG Launcher (+0) (Two-handed)         |         RPG Launcher         |                   +0                   |      Two-handed      |        +6d6        |      6      | Sharpshooter |        Paced        |    30 ft Sphere    |            RPG Ammo, 1            |     Shockwave     |        Heavy Guns        | RPG-7, ect...                                                                                                                       | Indefinite | Innate |
+
 - [Weapon Combat Skills](./src/CoreRules/CombatRules/WeaponCombatSkills.md)
 - [Combat Roll](./src/CoreRules/CombatRules/CombatRoll.md)
 - [Dodge Roll](./src/CoreRules/CombatRules/DodgeRoll.md)
