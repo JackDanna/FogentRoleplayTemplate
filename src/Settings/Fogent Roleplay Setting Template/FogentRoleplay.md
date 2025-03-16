@@ -103,7 +103,7 @@ Any use of game mechanics and game systems from this document requires attributi
 
 All intellectual property (characters, brands, stories, designs, etc) contained within the settings section are entirely owned by creator of said setting and are not subject to the Cogent Roleplay Open Source license.
 
-The creator of this document loves collaboration and encourages people to reach out if they would like to help contribute to this document. He doesn't bite. Long live open-source fun. :)
+The creator of this document loves collaboration and encourages people to reach out if they would like to help contribute to this project. Long live open-source fun.
 
 Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentroleplay.com/)
 
