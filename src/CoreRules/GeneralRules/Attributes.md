@@ -58,22 +58,22 @@ RFX has the following effects:
 
 Represents a character's innate raw mental horsepower, IQ, consciousness, and mental/spiritual durability.
 
-| Attribute Level |                           Narrative Meaning                           |
-| :-------------: | :-------------------------------------------------------------------: |
-|       -2       |                               A zombie                               |
-|       -1       |                 Below an average person in our world                 |
-|        0        |                    An average person in our world                    |
-|        1        |           University science professor or career politician           |
-|        2        | Award-winning particle physicist or 'Sherlock Holmes' level detective |
-|        3        |                              Tony Stark                              |
-|        4        |                           Ultron or Skynet                           |
-|        5        |                       Dr. Manhattan or Athena                       |
+| Attribute Level |                           Narrative Meaning                           | Skill Points Gained/Lost Total |
+| :-------------: | :-------------------------------------------------------------------: | :----------------------------: |
+|       -2       |                               A zombie                               |               -3               |
+|       -1       |                 Below an average person in our world                 |               -1               |
+|        0        |                    An average person in our world                    |               0               |
+|        1        |           University science professor or career politician           |               1               |
+|        2        | Award-winning particle physicist or 'Sherlock Holmes' level detective |               3               |
+|        3        |                              Tony Stark                              |               6               |
+|        4        |                           Ultron or Skynet                           |               10               |
+|        5        |                       Dr. Manhattan or Athena                       |               15               |
 
 INT has the following effects:
 
 - INT is factored into all INT Governed Skills (General Knowledge, Willpower, Communication, etc...).
-- For every point in INT the player receives 3 additional skill points to spend.
-- INT is a character's soul and mental durability. In combat, for every point in INT a character can reduce a victory level achieved against them from soul (spiritual) or mental (psychic) damage types once every combat encounter. Outside of combat, for every point in INT a character can reduce a soul or mental damage type injury against them as many times as they want, granted there is a couple minutes of respite between each injury.
+- Starting at 0, for every INT point a player receives, they gain the same amount of additional skill points to spend. This effect is cumulative, refer to the "Skill Points Gained/Lost" to the total amount of skill points for a given INT level.
+- INT is a measure of how durable a character's consciousness is to mental and spiritual attacks. In combat, for every point in INT a character can reduce a victory level achieved against them from spiritual or psychic damage types once every combat encounter. Outside of combat, for every point in INT a character can reduce a spiritual or psychic damage type injury against them as many times as they want, granted there is a couple minutes of respite between each injury.
 
 ## Common Questions
 
