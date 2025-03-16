@@ -78,7 +78,7 @@ What makes Fogent Roleplay different then Cogent Roleplay:
 * **Innovation:** Whether it be rebalanced Core Skills, reworked Vocations, rebalanced weapons, an Advantage/Disadvantage system, rebalanced destiny point rules, automated character sheet support, etc... Fogent Roleplay has taken the best ideas of Cogent Roleplay to their logical conclusions while embracing innovation.
 * **Tactical Battlemap Combat:** Fogent Roleplay has rules to be run on a battlemap. This allows for awesome tactical fight scenes where a character's positioning and surrounding environment factor into combat. While Fogent Roleplay can be run in the theater of the mind, it works even better on a battlemap.
 * **Mature Ruleset:** Fogent Roleplay provides a mature and robust ruleset with no mechanical edge cases (if you can find one, please let us know). Not only were the rules battle-tested via 100+ sessions durning it's development, most of the rules have been converted into code equivalent logic. Since the resulting software works, the rules are mechanically robust.
-* **Magic System Template:** The Magic System Template allows for the easy creation of balanced magic systems regardless of the setting.
+* **Magic System Rules:** The Magic System Template allows for the easy creation of balanced magic systems regardless of the setting.
 * **Pre-made Settings:** If you don't have the time to come up with an entire setting for your players to play in, Fogent Roleplay comes with pre-made campaign settings. This is an ongoing effort with more becoming available over time.
 
 May your stories be epic,
