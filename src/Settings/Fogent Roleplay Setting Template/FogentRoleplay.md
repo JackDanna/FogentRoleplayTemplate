@@ -1305,11 +1305,313 @@ Whenever losing dice of the same kind, always remove dice from left to right. Th
 
 If your character gains disadvantage (often the result of a stagger or being knocked prone) or advantage (you engage a prone opponent as your second target with a melee weapon) after you've already rolled a Combat Roll dice pool that round, you will retroactively apply said disadvantage/advantage to your those dice pools. This could turn some dice that were wins into fails and vice versa.
 
-- [Conditions](./src/CoreRules/CombatRules/Conditions.md)
-- [Injury and Healing](./src/CoreRules/CombatRules/InjuryAndHealing.md)
-- [Victory Levels](./src/CoreRules/CombatRules/VictoryLevels.md)
-- [Weakness and Resistance](./src/CoreRules/CombatRules/WeaknessAndResistance.md)
-- [Combat Modifiers and Combat Assists](./src/CoreRules/CombatRules/CombatModifiersAndCombatAssists.md)
+## Conditions
+
+### Staggered
+
+- Disadvantage on any checks that require coordinated movement (i.e. Combat Rolls, Dexterity, Athletics, etc... )
+- Movement speed is halved.
+
+### Blinded
+
+- Automatically fails any check that requires sight.
+- Disadvantage on checks that partially rely on sight (i.e. Combat Rolls)
+
+### Charmed
+
+- Can't cause harm to the charmer.
+- The charmer has Advantage on Communication Checks against the Charmed character.
+
+### Deafened
+
+- Automatically fails any check that requires hearing.
+
+### Frightened
+
+- Disadvantage while the source of the fear is within line of sight.
+- Can't willingly move closer towards the source of fear.
+
+### Grappled
+
+- Can't move, unless through Grapple Move.
+- A character using a medium or larger weapon is considered unarmed against a grappler. Medium weapons can be used in a Grapple against reach weapons.
+- Injury reduction from armor is not applicable while in a Grapple.
+- Disadvantage on any checks that require coordinated movement (i.e. Combat Rolls, Dexterity, Athletics, etc... ), except against grappler.
+- Ends if the grappler is Incapacitated.
+
+### Incapacitated
+
+- The character can't take any actions or move.
+
+### Invisible
+
+- Impossible to see via traditional sight. Character is considered Heavily Obscured. The character's location can be detected via hearing, touch, smell, other special senses, or magic senses.
+- Combat rolls have Disadvantage against the character that relies on sight.
+
+### Paralyzed
+
+- Incapacitated (see the Condition).
+- Automatically fail any check that requires moving their body (i.e. Dexterity, Athletics,  etc... )
+
+### Petrified
+
+* A petrified creature is transformed, along with any non-magical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
+* Incapacitated (see the condition).
+* Can't speak.
+* Automatically fail any check that requires moving their body (i.e. Dexterity, Athletics,  etc... )
+* Serious Resistance to all damage.
+* Complete Resistance to poison, necrotic, and disease, although a poison, rot, or disease already in its system is suspended, not neutralized.
+
+### Prone
+
+- Only able to crawl using their Climb Combat Speed.
+- Disadvantage on any check that generally assumes a character is standing (i.e. Combat Rolls, Dexterity Checks, etc... )
+- Melee Combat Rolls (Melee or Reach Ranges) made by a standing character against a prone character have the [High Ground](./CombatModifiersAndCombatAssists.md#high-ground-advantage) combat modifier (Advantage).
+- Ranged attacks against a prone opponent gain Disadvantage if the Narrator believes they would be a more difficult target due to being a smaller target. For instance, shooting a prone opponent 10 feet away wouldn't have Disadvantage. However, shooting a prone sniper at range who is making themselves a small target would incure Disadvantage.
+
+### Restrained
+
+- Can't move.
+- Disadvantage on any checks that require coordinated movement (i.e. Combat Rolls, Dexterity, Athletics,  etc... )
+
+### Stunned
+
+* Incapacitated (see the condition).
+* Can't coherently speak.
+* Automatically fail any check that requires coordinated movement (i.e. Combat Rolls, Dexterity, Athletics,  etc... )
+
+### Unconscious
+
+- Incapacitated (see the condition).
+- Can't speak.
+- Unaware of surroundings.
+- The character drops whatever they are holding and falls prone (see the condition).
+- Automatically fail any check that requires coordinated movement (i.e. Dexterity, Athletics,  etc... )
+
+## Injury and Healing
+
+### Injury
+
+Injury is handled as part of the narrative with dice penalties being applied per injury to all a character's dice checks. A character is rendered [Incapacitated](./Conditions.md#incapacitated) once they've taken a summed 5 or above injury dice.
+
+Typical "status effects" such as being poisoned, frostbitten, bleeding, madness, etc... are handled elegantly through the injury system. For instance, if you were dealt a Serious injury by mild poison mist, then narratively explain it as getting a large breath full. If the character instead was dealt a Serious injury by an extremely lethal poison mist, then narratively it would be explained as only getting a small whiff. The resulting dice penalty acts as your "status effect" debuffing your character until they are resolved. For instance, anti-venom might be able to remove the poison injury or warming up by a fire might reduce hypothermia from the cold.
+
+|       Name       |                                                               Desc                                                               | Duration | Source |
+| :---------------: | :------------------------------------------------------------------------------------------------------------------------------: | :------: | :----: |
+|   Minor Injury   |        -1d to STR/RFX/INT governed Dice Pools. Will naturally heal over the next few days, or faster if treated actively.        |          |        |
+|   Medium Injury   | -2d to STR/RFX/INT governed Dice Pools. Must be treated relatively soon otherwise further penalties may apply such as infection. |          |        |
+|  Serious Injury  |                -3d to STR/RFX/INT governed Dice Pools.  The character will die in time if the wound is untreated.                |          |        |
+|   Fatal Injury   |          -4d to STR/RFX/INT governed Dice Pools. Gains the Incapacitated condition and will die very soon if untreated.          |          |        |
+| Death Blow Injury |                                    -5d to STR/RFX/INT governed Dice Pools. Instantly killed.                                    |          |        |
+
+### Healing
+
+Since Injuries work on a narrative severity scale, so does the healing that can be performed. These could come from Magic or science-based medicine.
+
+|              Name              |                                                                                                               Desc                                                                                                               |   Duration   | Source |
+| :-----------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------: | :----: |
+|         Gradual Healing         |                                                                       Minor injuries heal in 1 day, others are downgraded in following days if maintained.                                                                       |  Indefinite  |        |
+|      Minor Healing Factor      |                            Minor injuries heal in a short rest. Medium injuries heal durning a long rest. A stabilized Serious injuries heal over a 24 hour rest. Cannot effect higher tier injuries.                            |   24 hours   |        |
+| Continuous Minor Healing Factor |                            Minor injuries heal in a short rest. Medium injuries heal durning a long rest. A stabilized Serious injuries heal over a 24 hour rest. Cannot effect higher tier injuries.                            |  Indefinite  |        |
+|           Minor Heal           |                              Removes a minor injury. For a higher tier injury, reduce the dice penalty of the injury by 1. Injury remains at its current tier. Further minor heals have no effect.                              | Instantaneous |        |
+|           Medium Heal           |                        Removes a medium or lesser injury. For a higher tier injury, reduce the dice penalty of the injury by 2. Injury remains at its current tier. Further medium healing has no effect.                        | Instantaneous |        |
+|          Serious Heal          |                       Removes a serious or lesser injury. For a higher tier injury, reduce the dice penalty of the injury by 3. Injury remains at its current tier. Further serious healing has no effect.                       | Instantaneous |        |
+|           Fatal Heal           |                                                              Removes a Fatal or lesser injury. Can be used to reattach limbs as long as the limb is not destroyed.                                                              | Instantaneous |        |
+|          Revival Heal          | Return a dead character to life with a serious injury. Can only be performed within minutes of death. For living characters, it completely heals all injuries, regrowing body parts, and returning the body to peak performance. | Instantaneous |        |
+
+## Victory Levels
+
+- Victory Levels from Physical or Bodily damage can be reduced equal to the amount of STR a character has per combat encounter. If STR is negative, the level of Victory increases by 1.
+- Victory levels from Mental or Soul damage can be reduced equal to the amount of INT a character has per combat encounter. If INT is negative, the level of Victory increases by 1.
+- Any combination of lower Victory Level outcomes is possible as long as they sum up to be less than or equal to the Victory Level achieved. For instance, with a Level 2 victory, a character could perform both a Stagger and a Minor Injury against there opponent.
+- It is mandatory that for a character to deal any Victory Level outcome, whomever control's said character must describe in awesome detail how they are preforming said Victory Level outcome. Creativity is encouraged!
+
+### Level 1 victory
+
+#### Minor Injury
+
+-1d to STR/RFX/INT governed Dice Pools. Will naturally heal over the next few days, or faster if treated actively.
+
+#### Stagger
+
+The opponent gains the [Staggered](./Conditions.md#staggered) condition until the end of the next round.
+
+This could be sand thrown in a character's face, being shoulder-checked, or losing their footing.
+
+#### Shove
+
+The opponent is shoved in the desired direction.
+
+The character can either roll a Lift check or take the average amount of Wins rounded down. If a character is using magic, they may use a Magic Skill instead of Lift, assuming the magic could shove someone. For each win achieved, a character can shove another character 5 feet in a straight line. For each size category the opponent is smaller than you, double the distance. For each size category, the opponent is larger than you, half the distance. The Narrator can change this distance based on unusual circumstances (i.e. humanoid-sized creature weighs as much as a Large sized creature as it is made of pure metal/stone).
+
+#### Grapple
+
+Enter/exit a Grapple. If entering into a Grapple, apply the [Grappled](./Conditions.md#grappled) condition to both you and your opponent. Exiting a Grapple can also be accomplished with a Dodge roll.
+
+#### Grapple Move
+
+While in a grapple, you can move your opponent.
+
+The character can either roll a Lift check or take the average amount of wins rounded down. If a character is using magic, they may use a Magic Skill instead of Lift, assuming the magic could grapple someone. For each win achieved, a character can Move another character 10 feet. For each size category the opponent is smaller than you, double the distance. For each Size the opponent is larger than you, half the distance. If your character is required to move during the move, you can not exceed your normal amount of movement for that round. The Narrator can change this distance based on unusual circumstances (i.e. humanoid-sized creature weighs as much as a Large sized creature as it is made of pure metal/stone).
+
+### Level 2 victory
+
+#### Medium Injury
+
+-2d to STR/RFX/INT governed Dice Pools. Must be treated relatively soon otherwise further penalties may apply such as infection.
+
+#### Disarm
+
+The opponent loses their weapon. If an opponent is dual-wielding, they will only lose one of their weapons.
+
+##### Grapple Disarm
+
+Once already in a Grapple, as part of their declaration phase a character can declare they are attempting a Grapple Disarm to disarm their opponent. The character attempting the Grapple Disarm must be unarmed. They gain Advantage to Unarmed combats roll versus the armed grappled opponent. The armed opponent gains Disadvantage on their combat roll versus the character that is grappling them. The character attempting the Grapple Disarm may only take the Disarm Level 2 Victory (this means they cannot delegate their attack to inflict an injury or execute a trip regardless of how high the victory achieved.)
+
+### Level 3 victory
+
+#### Serious Injury
+
+-3d to STR/RFX/INT governed Dice Pools.  The character will die in time if the wound is untreated.
+
+#### Trip
+
+The opponent gains the [Prone](./Conditions.md#prone) condition.
+
+A character can declare they are attempting to get up on a round they start prone. Getting up requires the downed opponent to use their entire movement speed. They can regain their footing and remove the Prone condition at the end of the round they were getting up.
+
+Instead of getting up, a character can remain prone and crawl. They use their Climb Combat Speed to crawl instead of their movement speed.
+
+### Level 4 Victory
+
+#### Fatal Injury
+
+-4d to STR/RFX/INT governed Dice Pools. Gains the [Incapacitated](./Conditions.md#incapacitated) condition and will die very soon if untreated.
+
+#### Dismember
+
+Remove an arm or leg, which also gives a Serious Injury to the opponent. Not available to ranged combat rolls unless there is a narrative explanation of how a ranged attack could dismember (magic, explosive projectiles, etc...).
+
+#### Render Unconscious
+
+Opponent gains the [Unconscious](./Conditions.md#unconscious) condition such as from head trauma, blood chokes, etc. Opponent receives a Medium Injury.
+
+### Level 5 victory and higher
+
+#### Death Blow
+
+-5d to STR/RFX/INT governed Dice Pools. Instantly killed.
+
+## Weakness and Resistance
+
+### Weakness
+
+Characters can be susceptible to certain sources of damage.
+
+|              Name              |                        Effect                        | Duration | Source |
+| :-----------------------------: | :--------------------------------------------------: | :------: | :----: |
+|  Minor Weakness: (Damage Type)  | +1 to the level of injury received from damage type. |          |        |
+| Medium Weakness: (Damage Type) | +2 to the level of injury received from damage type. |          |        |
+| Serious Weakness: (Damage Type) | +3 to the level of injury received from damage type. |          |        |
+|  Fatal Weakness: (Damage Type)  | +4 to the level of injury received from damage type. |          |        |
+
+### Resistance
+
+Characters can be resistant to certain sources of damage.
+
+|                Name                |                      Effect                      | Duration | Source |
+| :--------------------------------: | :----------------------------------------------: | :------: | :----: |
+|  Minor Resistance: (Damage Type)  | -1 to victory levels received from damage type. |          |        |
+|  Medium Resistance: (Damage Type)  | -2 to victory levels received from damage type. |          |        |
+| Serious Resistance: (Damage Type) | -3 to victory levels received from damage type. |          |        |
+|  Fatal Resistance: (Damage Type)  | -4 to victory levels received from damage type. |          |        |
+| Complete Resistance: (Damage Type) | Negate victory levels received from damage type. |          |        |
+
+## Combat Modifiers
+
+Combat Modifiers represent different circumstances and actions that can occur within combat.
+
+### Defensive (Advantage) (No Victory Level Outcomes)
+
+A character purely focuses on defending themselves.
+
+No victory level outcomes can be achieved for the round by the defender. Effects both to Combat Rolls and Dodge Rolls if declared. Is not applicable if Character can't solely focus on defending themselves, such as when they have Disadvantage to their Combat Rolls or Dodge Rolls. Examples include being Staggered, being attacked from outside a Grapple, getting up from being Prone, being Off Guard, Dashing, etc...
+
+### Dash (2x Movement Speed)
+
+Instead of engaging in a combat roll, a player can choose to focus purely on their movement in combat, doubling their movement speed. They can still Dodge.
+
+### Ranged vs Melee (Disadvantage)
+
+When a character is making a ranged attack, they gain Disadvantage on their ranged combat roll if they are within range of an opponent who is targeting them with a melee combat roll during that round.
+
+### Stationary Shooting (Advantage) (Disadvantage to Dodge Rolls)
+
+Remain stationary for an entire round to gain a more stable base for ranged attacks. Advantage on all of ranged attacks for that round, except against opponents engaging the character with a Melee or Reach Range combat roll. Due to being a stationary target, Disadvantage on Dodge Roll.
+
+### High ground (Advantage)
+
+Bonus received through achieving a height advantage against an opponent, IE standing on a table, riding on a mount, or attacking an prone opponent with a melee weapon. High ground for ranged attacks, must have a more significant height differential than for melee attacks, such as shooting from a climbed tree or atop a castle wall.
+
+### Off Guard (Disadvantage)
+
+Penalty to combat rolls and dodge rolls received when a character is actively engaged in something else, IE picking a lock, hacking a terminal, being distracted, etc.
+
+### Sneak Attack (CL in lieu of defense roll)
+
+An attack made while hidden that can't be defended against by the opponent. Usually proceeded by a Stealth Skill Check versus a Perception Skill Check. The Narrator will assign a CL for the attack. As an example, slitting someone's throat with a dagger is a CL 1, however, doing the same with a great sword would be far more difficult. Any wins achieved over the CL count towards the level of victory. Failing the CL or not fully incapacitating the opponent commences the next round of combat, where the opponent is then engaged.
+
+### Cover
+
+Walls, trees, creatures, and other obstacles can provide cover during combat, making a target more difficult to harm. A target can benefit from cover only when an attack or other effect originates on the opposite side of the cover.
+
+There are three degrees of cover. If a target is behind multiple sources of cover, only the most protective degree of cover applies; the degrees aren't added together. For example, if a target is behind a creature that gives half cover and a tree trunk that gives three-quarters cover, the target has three-quarters cover.
+
+#### Half Cover: Minor Resistance
+
+A target has half cover if an obstacle blocks at least half of its body. The obstacle might be a low wall, a large piece of furniture, a narrow tree trunk, or a creature, whether that creature is an enemy or a friend.
+
+#### Three-quarters Cover: Serious Resistance
+
+A target has three-quarters cover if about three-quarters of it is covered by an obstacle. The obstacle might be a portcullis, an arrow slit, or a thick tree trunk.
+
+#### Full Cover: Complete Resistance
+
+A target with total cover can't be targeted directly by an attack, although some spells can reach such a target by including it in an area of effect. A target has total cover if it is completely concealed by an obstacle.
+
+## Combat Assists
+
+These are examples of [Assists](./../GeneralRules/Assists.md) that can be used in combat.
+
+### Focused Shot (Advantage)
+
+Usually achieved with the Perception Core Skill.
+
+While making a ranged attack, focus on a single opponent and target a weak point. Your Uses Per Round is reduced to 1 for the turn.
+
+### Charge (Advantage) (Disadvantage to Dodge Rolls)
+
+Usually achieved with the Athletics Core Skill.
+
+If there is 10 ft between the character and an opponent, they may add their momentum to their melee attack. The character charging must move in a straight line, and once a charge is initiated as a portion of a character's movement, their directions must remain constant the entire round. Disadvantage to Dodging while charging.
+
+### Brace (Advantage versus Charge) (Disadvantage to Dodge Rolls)
+
+Usually achieved with the Lift Core Skill.
+
+A brace is a move purely to counter a charge. Character gains Advantage versus charging opponents and charging opponents lose their Advantage versus them. No movement can be used while bracing. Bracing uses the opponent's momentum against them, enabling a prepared defender to more easily stagger, trip or injure the charging opponent.
+
+### Pack Tactics
+
+Usually achieved by two or more characters with a Teamwork Vocation (Like Pack Hunter or Soldier) or the Communication Core Skill.
+
+When two or more attackers make a combat roll against the same opponent with at least one of them within 5 feet, they can make this collabrative assist roll. If successful, they can coordinate their attacks, gaining Advantage on their attack rolls.
+
+### Formation
+
+Usually achieved with a "Soldier" Vocation Assist or the Communication Core Skill.
+
+When two ore more allies are next to eachother, they can make a collabrative assist roll. If the assist is successful, then all characters within the formation gain Advantage to their Melee or Reach range combat rolls.
 
 ## Advanced Rules
 
