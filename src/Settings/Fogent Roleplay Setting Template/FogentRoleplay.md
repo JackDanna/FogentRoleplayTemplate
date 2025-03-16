@@ -1,24 +1,14 @@
-# Fogent Roleplay
-
-## Settings I Need to do something with this eventually
-
-Fogent Roleplay is designed to be the narrative engine of your game, no matter the setting. Below are the current pre-made settings you can run Fogent Roleplay in. If none of these are to your liking you are encouraged to make your own setting!
-
-- [Fallen](./src/Settings/Fallen/Fallen.md) (Dark Fantasy)
-- [Firmament](./src/Settings/FlareOrFirmament/Firmament.md) (Space)
-- [Coming soon] Fracture (Post-Apocalypse)
-
-## Contents
+# Contents
 
 The Core Rules are the foundation and narrative engine for your game. They are listed in the order of importance to someone learning the rules for the first time.
 
-### Introduction
+## Introduction
 
 - [Welcome to Fogent Roleplay](#welcome-to-fogent-roleplay)
 - [Join Our Community](#join-our-community)
 - Cogent Roleplay Open License
 
-### General Rules
+## General Rules
 
 - [Dice Pools](./src/CoreRules/GeneralRules/DicePools.md)
 - [Challenge Levels](./src/CoreRules/GeneralRules/ChallengeLevels.md)
@@ -32,7 +22,7 @@ The Core Rules are the foundation and narrative engine for your game. They are l
 - [Base Dice Tiers](./src/CoreRules/GeneralRules/BaseDiceTiers.md)
 - [Destiny Points](./src/CoreRules/GeneralRules/DestinyPoints.md)
 
-### Combat Rules
+## Combat Rules
 
 - [Damage Types](./src/CoreRules/CombatRules/DamageTypes.md)
 - [Defense](./src/CoreRules/CombatRules/Defense.md)
@@ -54,34 +44,34 @@ The Core Rules are the foundation and narrative engine for your game. They are l
 - [Weakness and Resistance](./src/CoreRules/CombatRules/WeaknessAndResistance.md)
 - [Combat Modifiers and Combat Assists](./src/CoreRules/CombatRules/CombatModifiersAndCombatAssists.md)
 
-### Advanced Rules
+## Advanced Rules
 
 - [Equipment, Carry Weight, and Weight Classes](./src/CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md)
 - [Vision and Light](./src/CoreRules/AdvancedRules/VisionAndLight.md)
 - [Containers](./src/CoreRules/AdvancedRules/Containers.md)
 - [Effects](./src/CoreRules/AdvancedRules/Effects.md)
 
-### Magic Rules
+## Magic Rules
 
 - [Magic Systems](./src/CoreRules/MagicRules/MagicSystems.md)
 - [Magic Resource](./src/CoreRules/MagicRules/MagicResource.md)
 - [Magic Skills](./src/CoreRules/MagicRules/MagicSkills.md)
 - [Spells](./src/CoreRules/MagicRules/Spells.md)
 
-### Character Creation Rules
+## Character Creation Rules
 
 - [Character Sheet Template](./src/CoreRules/CharacterCreationRules/temp/temp/temp/CharacterSheetTemplate.md)
 - [Disabling Characteristics](./src/CoreRules/CharacterCreationRules/DisablingCharacteristics.md)
 - [Tiers of Play](./src/CoreRules/CharacterCreationRules/TiersOfPlay.md)
 - [Character Creation](./src/CoreRules/CharacterCreationRules/CharacterCreation.md)
 
-### Hardcore Rules
+## Hardcore Rules
 
 - [Item Durability](./src/CoreRules/HardcoreRules/ItemDurability.md)
 
-## Introduction
+# Introduction
 
-### Welcome to Fogent Roleplay
+## Welcome to Fogent Roleplay
 
 Welcome to Fogent Roleplay.
 
@@ -107,7 +97,7 @@ May your stories be epic,
 
 -Javk "The Forever Narrator" Wick
 
-### Join Our Community
+## Join Our Community
 
 Join the Fogent Roleplay Community Discord or subscribe to the Javk Wick YouTube channel. Your feedback and experience mean a lot!
 
@@ -115,7 +105,7 @@ Discord: [Fogent Roleplay Discord](https://discord.gg/PYNTGqxh6a)
 
 YouTube: [Javk Wick Youtube Channel](https://www.youtube.com/channel/UCIozVe_NJI66urdnVfMkCJg)
 
-### Cogent Roleplay Open License
+## Cogent Roleplay Open License
 
 Fogent Roleplay is developed based on Cogent Roleplay and with appreciation to its creators is under the the Cogent Roleplay Open License.
 
@@ -129,4 +119,4 @@ The creator of this document loves collaboration and encourages people to reach 
 
 Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentroleplay.com/)
 
-![Alt text](CogentRoleplayAttribution_Wide.png)
+![Alt text](./images/CogentRoleplayAttribution_Wide.png)
