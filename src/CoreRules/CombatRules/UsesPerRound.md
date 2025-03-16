@@ -8,19 +8,20 @@ This rule is mainly used for determining how many times a weapon/spell can be us
 
 Uses Per Round is calculated using the following equation:
 
-( (Number of Skill Dice) + (Dice Amount Adjustment) )/ (Divisor), rounded down to the nearest whole number only if above 1, to a maximum of (Max Uses Per Round)
+( (Number of Skill Dice) + (Dice Amount Adjustment) )/ (Combat Roll Divisor), rounded down to the nearest whole number only if above 1, to a maximum of (Max Uses Per Round Option)
 
-|      Name      | Divisor | Dice Amount Adjustment | Max Uses Per Round |
-| :------------: | :-----: | :--------------------: | :-----------------: |
-|     Rapid     |    1    |           0           |        None        |
-|  Swift +2  |    2    |           2           |        None        |
-|     Swift     |    2    |           0           |        None        |
-|     Quick     |    3    |           0           |        None        |
-|     Steady     |    4    |           0           |        None        |
-|     Paced     |    5    |           0           |        None        |
-|      Slow      |    6    |           0           |        None        |
-| Extremely Slow |    8    |           0           |        None        |
-| Painfully Slow |   16   |           0           |        None        |
+|      Name      | Combat Roll Divisor | Dice Amount Adjustment | Max Uses Per Round Option |
+| :------------: | :-----------------: | :--------------------: | :-----------------------: |
+|     Rapid     |          1          |           0           |           None           |
+|    Swift +2    |          2          |           2           |           None           |
+|    Swift +1    |          2          |           1           |           None           |
+|     Swift     |          2          |           0           |           None           |
+|     Quick     |          3          |           0           |           None           |
+|     Steady     |          4          |           0           |           None           |
+|     Paced     |          5          |           0           |           None           |
+|      Slow      |          6          |           0           |           None           |
+| Extremely Slow |          8          |           0           |           None           |
+| Painfully Slow |         16         |           0           |           None           |
 
 For example, if a character had 7 dice in their governing skill dice pool with an Uses Per Round of "Quick", 7 divided by 3 is 2.333, which rounded down is 2. There is non "Max UPR" for "Quick" so they would have 2 Uses Per Round for that round.
 
@@ -39,7 +40,7 @@ If characters have loaded weapons (for instance loaded muzzle loading firearms) 
 | Users Per Round Type/Number of Skill Dice | 1 Dice | 2 Dice | 3 Dice | 4 Dice | 5 Dice | 6 Dice | 7 Dice | 8 Dice | 9 Dice | 10 Dice | 11 Dice | 12 Dice |
 | :---------------------------------------: | :----: | :-----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: | :-----: | :-----: |
 |                   Rapid                   |   1   |    2    |   3   |   4   |   5   |   6   |   7   |   8   |   9   |   10   |   11   |   12   |
-|                Swift +2                |   1   |    2    |   2   |   3   |   3   |   4   |   4   |   5   |   5   |    6    |    6    |    7    |
+|                Reach Swift                |   1   |    2    |   2   |   3   |   3   |   4   |   4   |   5   |   5   |    6    |    6    |    7    |
 |                   Swift                   |  0.5  |    1    |   1   |   2   |   2   |   3   |   3   |   4   |   4   |    5    |    5    |    6    |
 |                   Quick                   |  0.33  |  0.66  |   1   |   1   |   1   |   2   |   2   |   2   |   3   |    3    |    3    |    4    |
 |                  Steady                  |  0.25  |   0.5   |  0.75  |   1   |   1   |   1   |   1   |   2   |   2   |    2    |    2    |    3    |
