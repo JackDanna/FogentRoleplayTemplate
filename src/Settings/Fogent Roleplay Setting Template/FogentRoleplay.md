@@ -111,7 +111,7 @@ Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentrol
 
 # General Rules
 
-## Dice Pools
+## Dice Pool
 
 A Dice Pool is a collection of one or more dice that when rolled determines how many "Wins" where achieved for whatever task was being attempted. D6 dice (otherwise known as six-sided dice) are the most common dice used, though D4, D8, D10, D12, and D20 are also used.
 
