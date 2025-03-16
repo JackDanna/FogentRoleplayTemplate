@@ -234,9 +234,9 @@ INT governs the "Communications" skill which is essentially your classical chari
 
 However, the beauty of Fogent Roleplay is that because the rules are so simple, they are easy to modify. If you wish to play in a game where Charisma is an attribute, more power to you!
 
-## Skills
+## Skill
 
-Skills represent the proficiency of certain tasks a character can perform.
+A Skill represent a proficiency of certain tasks a character can perform.
 
 ### Skill Level
 
