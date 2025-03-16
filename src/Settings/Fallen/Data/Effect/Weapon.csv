@@ -50,17 +50,17 @@ Large Bludgeon Melee (+0) (Two-handed),Large Bludgeon Melee,+0,Two-handed,+1d6,5
 Large Spear (+0) (One-handed),Large Spear,+0,One-handed,+2d6,2,Melee,Quick,None,None,Pierce,Large Melee,"Two-handed spear, ect...",Indefinite,Innate
 Large Spear (+0) (Two-handed),Large Spear,+0,Two-handed,+3d6,3,Melee,Quick,None,None,Pierce,Large Melee,"Two-handed spear, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Reach Hew Melee (+0) (One-handed),Reach Hew Melee,+0,One-handed,-2,2,Reach,Reach Swift,None,None,Hew,Reach Melee,"Poleaxe's axe head, halberd's axe head, glaive, ect...  Disadvantage while in confined spaces.",Indefinite,Innate
-Reach Hew Melee (+0) (Two-handed),Reach Hew Melee,+0,Two-handed,+3d6,4,Reach,Reach Swift,None,None,Hew,Reach Melee,"Poleaxe's axe head, halberd's axe head, glaive, ect...  Disadvantage while in confined spaces.",Indefinite,Innate
+Reach Hew Melee (+0) (One-handed),Reach Hew Melee,+0,One-handed,-2,2,Reach,Swift +2,None,None,Hew,Reach Melee,"Poleaxe's axe head, halberd's axe head, glaive, ect...  Disadvantage while in confined spaces.",Indefinite,Innate
+Reach Hew Melee (+0) (Two-handed),Reach Hew Melee,+0,Two-handed,+3d6,4,Reach,Swift +2,None,None,Hew,Reach Melee,"Poleaxe's axe head, halberd's axe head, glaive, ect...  Disadvantage while in confined spaces.",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Reach Slash Melee (+0) (One-handed),Reach Slash Melee,+0,One-handed,-2,1,Reach,Reach Swift,None,None,Slash,Reach Melee,"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",Indefinite,Innate
-Reach Slash Melee (+0) (Two-handed),Reach Slash Melee,+0,Two-handed,+4d6,3,Reach,Reach Swift,None,None,Slash,Reach Melee,"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",Indefinite,Innate
+Reach Slash Melee (+0) (One-handed),Reach Slash Melee,+0,One-handed,-2,1,Reach,Swift +2,None,None,Slash,Reach Melee,"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",Indefinite,Innate
+Reach Slash Melee (+0) (Two-handed),Reach Slash Melee,+0,Two-handed,+4d6,3,Reach,Swift +2,None,None,Slash,Reach Melee,"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Reach Pierce Melee (+0) (One-handed),Reach Pierce Melee,+0,One-handed,-2,2,Reach,Reach Swift,None,None,Pierce,Reach Melee,"Greatsword, zweihänder, naginata, halberd's spike, ect... Disadvantage while in confined spaces.",Indefinite,Innate
-Reach Pierce Melee (+0) (Two-handed),Reach Pierce Melee,+0,Two-handed,+3d6,4,Reach,Reach Swift,None,None,Pierce,Reach Melee,"Greatsword, zweihänder, naginata, halberd's spike, ect... Disadvantage while in confined spaces.",Indefinite,Innate
+Reach Pierce Melee (+0) (One-handed),Reach Pierce Melee,+0,One-handed,-2,2,Reach,Swift +2,None,None,Pierce,Reach Melee,"Greatsword, zweihänder, naginata, halberd's spike, ect... Disadvantage while in confined spaces.",Indefinite,Innate
+Reach Pierce Melee (+0) (Two-handed),Reach Pierce Melee,+0,Two-handed,+3d6,4,Reach,Swift +2,None,None,Pierce,Reach Melee,"Greatsword, zweihänder, naginata, halberd's spike, ect... Disadvantage while in confined spaces.",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Reach Bludgeon Melee (+0) (One-handed),Reach Bludgeon Melee,+0,One-handed,-2,3,Reach,Reach Swift,None,None,Bludgeon,Reach Melee,"Poleaxe hammer, ect... Disadvantage while in confined spaces.",Indefinite,Innate
-Reach Bludgeon Melee (+0) (Two-handed),Reach Bludgeon Melee,+0,Two-handed,+2d6,5,Reach,Reach Swift,None,None,Bludgeon,Reach Melee,"Poleaxe hammer, ect... Disadvantage while in confined spaces.",Indefinite,Innate
+Reach Bludgeon Melee (+0) (One-handed),Reach Bludgeon Melee,+0,One-handed,-2,3,Reach,Swift +2,None,None,Bludgeon,Reach Melee,"Poleaxe hammer, ect... Disadvantage while in confined spaces.",Indefinite,Innate
+Reach Bludgeon Melee (+0) (Two-handed),Reach Bludgeon Melee,+0,Two-handed,+2d6,5,Reach,Swift +2,None,None,Bludgeon,Reach Melee,"Poleaxe hammer, ect... Disadvantage while in confined spaces.",Indefinite,Innate
 ,,,,,,,,,,,,,,
 Reach Spear (+0) (One-handed),Reach Spear,+0,One-handed,-2,2,Reach,Steady,None,None,Pierce,Reach Melee,"Pike, lance, ect... Disadvantage while in confined spaces.",Indefinite,Innate
 Reach Spear (+0) (Two-handed),Reach Spear,+0,Two-handed,+4d6,4,Reach,Steady,None,None,Pierce,Reach Melee,"Pike, lance, ect... Disadvantage while in confined spaces.",Indefinite,Innate
@@ -111,13 +111,13 @@ Arquebus (+0) (Two-handed),Arquebus,+0,Two-handed,+2d6,5,Long,Extremely Slow,Non
 Musket (+0) (One-handed),Musket,+0,One-handed,+0d6,5,Sharpshooter,Painfully Slow,None,"Musket Cartridge, 1",Ballistic,Medium Guns,Flintlock smoothbore long guns.,Indefinite,Innate
 Musket (+0) (Two-handed),Musket,+0,Two-handed,+3d6,5,Sharpshooter,Painfully Slow,None,"Musket Cartridge, 1",Ballistic,Medium Guns,Flintlock smoothbore long guns.,Indefinite,Innate
 ,,,,,,,,,,,,,,
-9mm Semi-automatic Pistol (+0) (One-handed),9mm Semi-automatic Pistol,+0,One-handed,+2d6,6,Extended,Reach Swift,None,"9mm Ammo, 1",Ballistic,Small Guns,"Glock 17, ect...",Indefinite,Innate
-9mm Semi-automatic Pistol (+0) (Two-handed),9mm Semi-automatic Pistol,+0,Two-handed,+2d6,6,Far,Reach Swift,None,"9mm Ammo, 1",Ballistic,Small Guns,"Glock 17, ect...",Indefinite,Innate
-9mm Semi-automatic Pistol (+0) (Dual-wielded),9mm Semi-automatic Pistol,+0,Dual-wielded,+3d6,6,Extended,Reach Swift,None,"9mm Ammo, 2",Ballistic,Small Guns,"Glock 17, ect...",Indefinite,Innate
+9mm Semi-automatic Pistol (+0) (One-handed),9mm Semi-automatic Pistol,+0,One-handed,+2d6,6,Extended,Swift +2,None,"9mm Ammo, 1",Ballistic,Small Guns,"Glock 17, ect...",Indefinite,Innate
+9mm Semi-automatic Pistol (+0) (Two-handed),9mm Semi-automatic Pistol,+0,Two-handed,+2d6,6,Far,Swift +2,None,"9mm Ammo, 1",Ballistic,Small Guns,"Glock 17, ect...",Indefinite,Innate
+9mm Semi-automatic Pistol (+0) (Dual-wielded),9mm Semi-automatic Pistol,+0,Dual-wielded,+3d6,6,Extended,Swift +2,None,"9mm Ammo, 2",Ballistic,Small Guns,"Glock 17, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-9mm Burst-fire Pistol (+0) (One-handed),9mm Burst-fire Pistol,+0,One-handed,+3d6,6,Mediocre,Reach Swift,None,"9mm Ammo, 3",Ballistic,Small Guns,"Beretta 93R, ect...",Indefinite,Innate
-9mm Burst-fire Pistol (+0) (Two-handed),9mm Burst-fire Pistol,+0,Two-handed,+3d6,6,Medium,Reach Swift,None,"9mm Ammo, 3",Ballistic,Small Guns,"Beretta 93R, ect...",Indefinite,Innate
-9mm Burst-fire Pistol (+0) (Dual-wielded),9mm Burst-fire Pistol,+0,Dual-wielded,+4d6,6,Mediocre,Reach Swift,None,"9mm Ammo, 6",Ballistic,Small Guns,"Beretta 93R, ect...",Indefinite,Innate
+9mm Burst-fire Pistol (+0) (One-handed),9mm Burst-fire Pistol,+0,One-handed,+3d6,6,Mediocre,Swift +2,None,"9mm Ammo, 3",Ballistic,Small Guns,"Beretta 93R, ect...",Indefinite,Innate
+9mm Burst-fire Pistol (+0) (Two-handed),9mm Burst-fire Pistol,+0,Two-handed,+3d6,6,Medium,Swift +2,None,"9mm Ammo, 3",Ballistic,Small Guns,"Beretta 93R, ect...",Indefinite,Innate
+9mm Burst-fire Pistol (+0) (Dual-wielded),9mm Burst-fire Pistol,+0,Dual-wielded,+4d6,6,Mediocre,Swift +2,None,"9mm Ammo, 6",Ballistic,Small Guns,"Beretta 93R, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
 9mm Automatic Pistol (+0) (One-handed),9mm Automatic Pistol,+0,One-handed,+3d6,6,Short,Rapid,None,"9mm Ammo, 6",Ballistic,Small Guns,"Glock 18, ect...",Indefinite,Innate
 9mm Automatic Pistol (+0) (Two-handed),9mm Automatic Pistol,+0,Two-handed,+3d6,6,Mediocre,Rapid,None,"9mm Ammo, 6",Ballistic,Small Guns,"Glock 18, ect...",Indefinite,Innate
@@ -126,11 +126,11 @@ Musket (+0) (Two-handed),Musket,+0,Two-handed,+3d6,5,Sharpshooter,Painfully Slow
 12 Gauge Pump-action Shotgun (+0) (One-handed),12 Gauge Pump-action Shotgun,+0,One-handed,+1d6,6,Extended,Swift,None,"12 Gauge Ammo, 1",Ballistic,Medium Guns,"Remington 870, Mossberg 500, ect...",Indefinite,Innate
 12 Gauge Pump-action Shotgun (+0) (Two-handed),12 Gauge Pump-action Shotgun,+0,Two-handed,+3d6,6,Extended,Swift,None,"12 Gauge Ammo, 1",Ballistic,Medium Guns,"Remington 870, Mossberg 500, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-5.56 Semi-automatic Rifle (+0) (One-handed),5.56 Semi-automatic Rifle,+0,One-handed,+1d6,7,Extreme,Reach Swift,None,"5.56 Ammo, 1",Ballistic,Medium Guns,"AR-15, ect...",Indefinite,Innate
-5.56 Semi-automatic Rifle (+0) (Two-handed),5.56 Semi-automatic Rifle,+0,Two-handed,+3d6,7,Extreme,Reach Swift,None,"5.56 Ammo, 1",Ballistic,Medium Guns,"AR-15, ect...",Indefinite,Innate
+5.56 Semi-automatic Rifle (+0) (One-handed),5.56 Semi-automatic Rifle,+0,One-handed,+1d6,7,Extreme,Swift +2,None,"5.56 Ammo, 1",Ballistic,Medium Guns,"AR-15, ect...",Indefinite,Innate
+5.56 Semi-automatic Rifle (+0) (Two-handed),5.56 Semi-automatic Rifle,+0,Two-handed,+3d6,7,Extreme,Swift +2,None,"5.56 Ammo, 1",Ballistic,Medium Guns,"AR-15, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-5.56 Burst Rifle (+0) (One-handed),5.56 Burst Rifle,+0,One-handed,+2d6,7,Sharpshooter,Reach Swift,None,"5.56 Ammo, 3",Ballistic,Medium Guns,"M16A2, ect...",Indefinite,Innate
-5.56 Burst Rifle (+0) (Two-handed),5.56 Burst Rifle,+0,Two-handed,+4d6,7,Sharpshooter,Reach Swift,None,"5.56 Ammo, 3",Ballistic,Medium Guns,"M16A2, ect...",Indefinite,Innate
+5.56 Burst Rifle (+0) (One-handed),5.56 Burst Rifle,+0,One-handed,+2d6,7,Sharpshooter,Swift +2,None,"5.56 Ammo, 3",Ballistic,Medium Guns,"M16A2, ect...",Indefinite,Innate
+5.56 Burst Rifle (+0) (Two-handed),5.56 Burst Rifle,+0,Two-handed,+4d6,7,Sharpshooter,Swift +2,None,"5.56 Ammo, 3",Ballistic,Medium Guns,"M16A2, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
 5.56 Automatic Rifle (+0) (One-handed),5.56 Automatic Rifle,+0,One-handed,+2d6,7,Distant,Rapid,None,"5.56 Ammo, 6",Ballistic,Medium Guns,"M4, ect...",Indefinite,Innate
 5.56 Automatic Rifle (+0) (Two-handed),5.56 Automatic Rifle,+0,Two-handed,+4d6,7,Distant,Rapid,None,"5.56 Ammo, 6",Ballistic,Medium Guns,"M4, ect...",Indefinite,Innate
