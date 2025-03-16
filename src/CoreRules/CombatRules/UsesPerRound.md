@@ -13,7 +13,7 @@ Uses Per Round is calculated using the following equation:
 |      Name      | Divisor | Dice Amount Adjustment | Max Uses Per Round |
 | :------------: | :-----: | :--------------------: | :-----------------: |
 |     Rapid     |    1    |           0           |        None        |
-|  Reach Swift  |    2    |           2           |        None        |
+|  Swift +2  |    2    |           2           |        None        |
 |     Swift     |    2    |           0           |        None        |
 |     Quick     |    3    |           0           |        None        |
 |     Steady     |    4    |           0           |        None        |
@@ -39,7 +39,7 @@ If characters have loaded weapons (for instance loaded muzzle loading firearms) 
 | Users Per Round Type/Number of Skill Dice | 1 Dice | 2 Dice | 3 Dice | 4 Dice | 5 Dice | 6 Dice | 7 Dice | 8 Dice | 9 Dice | 10 Dice | 11 Dice | 12 Dice |
 | :---------------------------------------: | :----: | :-----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: | :-----: | :-----: |
 |                   Rapid                   |   1   |    2    |   3   |   4   |   5   |   6   |   7   |   8   |   9   |   10   |   11   |   12   |
-|                Reach Swift                |   1   |    2    |   2   |   3   |   3   |   4   |   4   |   5   |   5   |    6    |    6    |    7    |
+|                Swift +2                |   1   |    2    |   2   |   3   |   3   |   4   |   4   |   5   |   5   |    6    |    6    |    7    |
 |                   Swift                   |  0.5  |    1    |   1   |   2   |   2   |   3   |   3   |   4   |   4   |    5    |    5    |    6    |
 |                   Quick                   |  0.33  |  0.66  |   1   |   1   |   1   |   2   |   2   |   2   |   3   |    3    |    3    |    4    |
 |                  Steady                  |  0.25  |   0.5   |  0.75  |   1   |   1   |   1   |   1   |   2   |   2   |    2    |    2    |    3    |
