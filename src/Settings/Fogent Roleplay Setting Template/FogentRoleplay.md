@@ -379,7 +379,7 @@ I try and add the "Reach Spear" combat skill. I realized using a long spear is n
 | Small Blade      | STR, RFX, INT |     1     | 7d6 |
 | ~~Reach Spear~~ | STR, RFX, INT |          |    |
 
-# Tied Contested Checks
+## Tied Contested Checks
 
 Contested Checks occur when two character's actions conflict. The most obvious example of this is fighting, though other examples include drinking contests, arm wrestling, or stealth vs perception. Oftentimes, Contested Checks result in ties. If ties occur within combat, ties result in neither side making progress and the contested check is a stalemate. Otherwise, ties in any other contested check outside of combat can just be rerolled to establish a clear winner.
 
