@@ -380,7 +380,7 @@ Vocation Level measures how good a character is at a specific vocation. Vocation
 
 ### Vocational Skills
 
-Vocational Skills are skills that fall under your Vocation. These skills have their levels capped by the level of the Vocation they fall under. For instance, if a character had a level 2 Vocation, any skill under it couldn't increase above level 2, until its Vocation level increased. 
+Vocational Skills are skills that fall under your Vocation. These skills have their levels capped by the level of the Vocation they fall under. For instance, if a character had a level 2 Vocation, any skill under it couldn't increase above level 2, until its Vocation level increased.
 
 A Vocation Skill can have one or many Governing Attributes that logically would govern it, which can differ from the Vocation's Governing Attributes. Determining what Governing Attributes a Vocational Skill will have is ultimately up to the Narrator. In general, if it is logical that some change to an Attribute would benefit/hurt the skill in question, than it should be added.
 
@@ -390,17 +390,17 @@ In general, most weapon combat Vocational Skill are governed by STR, RFX, and IN
 
 **Examples:**
 
-Below are some examples of Vocational Skills for certain Vocations. 
+Below are some examples of Vocational Skills for certain Vocations.
 
 |  Vocation  |                                                       Vocational Skills Examples                                                       |               Governing Attributes for Vocation Skills Example               |
-| :---------: | :------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
+| :---------: | :------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
 |   Soldier   |                Medium Melee (Athletics, Perception, General Knowledge), Heavy Bow (Lift, Perception, General Knowledge)                | Medium Melee (STR, RFX, INT), Heavy Bow (Lift, Perception, General Knowledge) |
 |   Ranger   |                          Tracking (Perception and General Knowledge), Wilderness Survival (General Knowledge)                          |                Tracking (RFX, INT), Wilderness Survival (INT)                |
 |   Wizard   |                        Arcane Knowledge (General Knowledge), Rune Inscribing (General Knowledge and Dexterity)                        |              Arcane Knowledge (INT), Rune Inscribing (RFX, INT)              |
 |    Thief    | Heist Planning (Stealth and General Knowledge), Lock Picking (General Knowledge and Dexterity), Pickpocketing (Stealth and Dexterity) |   Heist Planning (RFX, INT), Lock Picking (RFX, INT), Pickpocketing (RFX)   |
-| Necromancer |                                                 Seance Ritual (Communication and Will)                                                 |                             Seance Ritual (INT)                             |
+| Necromancer |                                                 Seance Ritual (Communication and Will)                                                 |                              Seance Ritual (INT)                              |
 |    Baker    |                                                Baking (Dexterity and General Knowledge)                                                |                              Baking (RFX, INT)                              |
-| Black Smith |                                            Forging (Lift, Dexterity, and General Knowledge)                                            |                           Forging (STR, RFX, INT)                           |
+| Black Smith |                                            Forging (Lift, Dexterity, and General Knowledge)                                            |                            Forging (STR, RFX, INT)                            |
 
 ### Rogue Example Vocation
 
@@ -441,15 +441,15 @@ I add "Wine Tasting" as a Vocational Skill, as it is something a Chef would do. 
 
 I add "Chopping Food" as a Vocational Skill, as it is something a Chef would do. For it's Governing Attributes, I give it just RFX. RFX makes sense as they'd have to use fine motor control with their hands to chop quickly. We set it's level to 3.
 
-I add "Small Melee" as a Vocational Skill, as using knives in a kitchen would be something a Chef would do. For it's Governing Attributes, I give it STR, RFX, and INT, as being stronger, faster, and smarter would all benefit this skill. We set it's level to Level 1. This skill could be disputed by a Narrator, as Chefs generally aren't stabbing people, but depending on how serious there setting is this might be fine.
+I add "Small Melee" as a Vocational Skill, as using knives in a kitchen would be something a Chef would do. This Vocational Skill could be disputed by a Narrator, as Chefs generally aren't stabbing people, but depending on how serious their setting is this might be fine. For it's Governing Attributes, I give it STR, RFX, and INT, as being stronger, faster, and smarter would all benefit this skill. We set it's level to Level 1.
 
 I try and add the "Reach Spear" Vocational Skill. I realized using a long spear is not something that a chef would do, so I can't add it under my vocation.
 
 | Chef             |   RFX, INT   | 3 | 7d6 |
 | ---------------- | :-----------: | :-: | :-: |
 | Wine Tasting     |   RFX, INT   | 3 | 7d6 |
-| Chopping Food    |      RFX      | 3 | 6d6 |
-| Small Blade      | STR, RFX, INT | 1 | 7d6 |
+| Chopping Food    |      RFX      | 3 | 7d6 |
+| Small Blade      | STR, RFX, INT | 1 | 6d6 |
 | ~~Reach Spear~~ |              |  |    |
 
 ## Tied Contested Checks
