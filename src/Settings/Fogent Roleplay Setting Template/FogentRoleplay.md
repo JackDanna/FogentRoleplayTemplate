@@ -360,9 +360,9 @@ Measures a character's mental and spiritual control/strength, exerted to do some
 
 Commonly used by Navy SEALs.
 
-## Vocations
+## Vocation
 
-Vocations represent your character's job, class, or life path. You should check with your Narrator to make sure that your Vocation exists in the setting. Some traditional fantasy examples Vocations are Rogue, Knight, Wizard, Paladin, Cleric, etc... Other examples include Vagrant, Chef, or Sailor. Each vocation has one or many Governing Attributes that logically would govern it.
+Vocations represent your character's job, class, or life path. You should check with your Narrator to make sure that your Vocation exists in the setting. Some traditional fantasy example Vocations include Rogue, Knight, Wizard, Paladin, Cleric, etc... Other examples include Vagrant, Chef, or Sailor. Each vocation has one or many Governing Attributes that logically would govern it.
 
 ### Vocation Level
 
@@ -380,13 +380,13 @@ Vocation Level measures how good a character is at a specific vocation. Vocation
 
 ### Vocation Skills
 
-All skills under a Vocation have their levels capped by the Vocation's level. For instance, if a character had a level 2 Vocation, any skill under it couldn't increase above 2, until its Vocation level increased.
+Vocation Skills are skills that fall under your Vocation. Vocation Skills have their levels capped by the level of the Vocation they fall under. For instance, if a character had a level 2 Vocation, any skill under it couldn't increase above level 2, until its Vocation level increased. A Vocation Skill can have one or many Governing Attributes that logically would govern it, which can differ from the Vocation's Governing Attributes.
 
-Each skill under a Vocation has one or many Governing Attributes that logically would govern it. A skill under a Vocation can have different Governing Attributes than the Vocation's Governing Attributes. Two kinds of skills fall under a Vocation, Vocational Skills and Combat Skills.
+Two kinds of skills fall under a Vocation, Vocational Skills and Combat Skills.
 
 #### Combat Skills
 
-Combat skills include all Weapon Combat Skills and Magic Skills. These skills require skill points to be increased.
+Combat Skills include all Weapon Combat Skills and Magic Skills. These skills require skill points to be increased.
 
 #### Vocational Skills
 
@@ -400,7 +400,7 @@ It is smart to write down Vocational Skills under your vocation as a reminder to
 
 **Vocational Skills Examples:**
 
-Below are some example of Vocational Skills for certain Vocations with examples of the sequence of Core Skills that would be used if a character didn't have the Vocational Skill in question. Based off what Core Skills a character would've had to performed, you can usually infer what Governing Attributes the Vocational Skill will have.
+Below are some examples of Vocational Skills for certain Vocations with examples of the sequence of Core Skills that would be used if a character didn't have the Vocational Skill in question. Based off what Core Skills a character would've had to performed, you can usually infer what Governing Attributes the Vocational Skill will have.
 
 |  Vocation  |                                                       Vocational Skills Examples                                                       |                    Governing Attributes for Vocation Skills Example                    |
 | :---------: | :------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: |
