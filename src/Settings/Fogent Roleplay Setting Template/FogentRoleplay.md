@@ -402,9 +402,9 @@ Below are some examples of Vocational Skills for certain Vocations.
 |    Baker    |                                                Baking (Dexterity and General Knowledge)                                                |                              Baking (RFX, INT)                              |
 | Black Smith |                                            Forging (Lift, Dexterity, and General Knowledge)                                            |                            Forging (STR, RFX, INT)                            |
 
-### Rogue Example Vocation
+### Rogue Example
 
-Let's make a "Rogue" vocation.
+Let's make a Rogue vocation.
 
 Our character has 0 STR, 1 RFX, and 1 INT.
 
