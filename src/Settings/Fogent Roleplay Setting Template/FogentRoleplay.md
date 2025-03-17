@@ -368,15 +368,15 @@ Vocations represent your character's job, class, or life path. You should check 
 
 Vocation Level measures how good a character is at a specific vocation. Vocation Level ranges from level -1 to level 5.
 
-| Level | Narrative Meaning |                                                   Description                                                   |
-| :---: | :---------------: | :-------------------------------------------------------------------------------------------------------------: |
-|  -1  |    Incompetent    |                                         Incompetent level of vocation.                                         |
-|   0   |      Novice      |                                        Inexperienced level of vocation.                                        |
-|   1   |    Apprentice    |                                          The basics have been learned.                                          |
-|   2   |       Adept       |             The basics have been fully understood and the more advanced concepts are being learned.             |
-|   3   |      Expert      |     Advanced concepts have been fully understood and master level concepts are beginning to be introduced.     |
-|   4   |      Master      | Master level of proficiency has been achieved. Character would be well know in local region for their vocation. |
-|   5   |     Legendary     |    Legendary level of proficiency has been achieved. Character would be a living legend for their vocation.    |
+| Level | Narrative Meaning |                                              Description                                              |
+| :---: | :---------------: | :----------------------------------------------------------------------------------------------------: |
+|  -1  |    Incompetent    |                                     Incompetent level of vocation.                                     |
+|   0   |      Novice      |                                    Inexperienced level of vocation.                                    |
+|   1   |    Apprentice    |                                     The basics have been learned.                                     |
+|   2   |       Adept       |        The basics have been fully understood and the more advanced concepts are being learned.        |
+|   3   |      Expert      | Advanced concepts have been fully understood and master level concepts are beginning to be introduced. |
+|   4   |      Master      |                    Character would be well know in local region for their vocation.                    |
+|   5   |      Legend      |                         Character would be a living legend for their vocation.                         |
 
 ### Vocation Skills
 
