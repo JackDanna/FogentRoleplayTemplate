@@ -272,7 +272,7 @@ The narrator assigns this a Specialized task (CL 3), not only for the weight of 
 
 After a short rest, both the original character and one of there teammates decide to pick up the chest together. The Narrator assigns this a Common task (CL 1) since people do this every day. The two characters both roll their Lift check. One gets 2 wins and the other gets 1 win. The average is 1.5, which rounds down to 1. They can move the chest up the stairs.
 
-## Core Skills
+## Core Skill
 
 Core Skills are skills that cover the majority of what most creatures can perform outside of Combat Skills. Core Skills are each governed by an Attribute that it would logically fall under.
 
@@ -280,39 +280,75 @@ Core Skills are skills that cover the majority of what most creatures can perfor
 
 #### Athletics
 
-Represented by sprinters, high jumpers, swimmers and climbers. Covers physical activity related to raw running speed, jump height and general movement. It covers throwing light objects and catching them. Examples include chasing someone, jumping over a pit, swimming in turbulent water, throwing a ball, climbing a rock face, descending a rope or crawling if prone.
+Covers activities related to sprinting, juming, swimming, climbing, crawling, general movement, ect... It covers throwing light objects and catching them. 
+
+Examples include chasing someone, jumping over a pit, swimming in turbulent water, throwing a ball, climbing a rock face, descending a rope or crawling if prone.
+
+Commonly used by track athletes, swimmers, and rock climbers.
 
 #### Endurance
 
-Represented by ultra-marathon runners or low/high temperature extreme athletes. Represents your body's ability to resist physical wounds worsening, toxins, and disease. Examples include staying conscious as you are bleeding out from an injury, resisting poisoning, enduring hot/cold weather, and pushing on past exhaustion are all the domains of endurance.
+Covers activites related to cardiovascular endurance, pain tolerance, resisting exhuastion/extreme cold/extreme heat/toxins/diseases/bleeding out/physical wounds worsening out, ect...
+
+Examples include staying conscious as you are bleeding out from an injury, resisting poisoning, enduring hot/cold weather, and pushing on past exhaustion.
+
+Commonly used by ultra-marathon runners.
 
 #### Lift
 
-Represented by strong men or powerlifters. Covers physical activity related to raw strength, most used in moving or holding heavy objects. Examples include shouldering a door open, carrying heavy equipment, throwing heavy objects, or crushing/tearing something in your hands.
+Covers physical activity related to moving heavy objects, carrying heavy objects, generating mechanical force with the body, ect... 
+
+Examples include shouldering a door open, carrying heavy equipment, throwing heavy objects, or crushing/tearing something in your hands.
+
+Commonly used by strongmen and power lifters.
 
 ### Reflex Core Skills
 
 #### Dexterity
 
-Represented by circus performers, parkourists or cat burglars. Covers movements requiring highly dexterous control over ones body, flexibility, and balance. Dodging, avoiding traps/pitfalls, parkour, backflips, squeezing through tight gaps and walking tightropes are all the domain of Dexterity. Dexterity is also the skill used for riding animals.
+Covers activities related to dodging, balance, flexibility, parkour, acrobatics, falling safely, highly dexterous control over ones body, ect...
+
+Examples include dodging blades/arrows/traps/pitfalls, walking tightropes, contourting the body to squeezing through tight gaps, parkouring across difficult terrain, backfliping off a table, breaking a fall with a roll, moving fluidly while riding a mount.
+
+Commonly used by acrobats, parkourists or cat burglars.
 
 #### Perception
 
-Perception is the art of detecting things through the senses, including sight, sound, scent, touch, and taste. It is used as the defense against stealth; it will be common for the Narrator to require players to make environmental 'Perception Checks' to gauge how much the characters notice regarding current happenings or places.
+Covers activities related to seeing, smelling, feeling, hearing, tasting, sensing, noticing, ect...
+
+Examples include spotting a roadblock far off in the distance, smelling a unique perfume at the scene of a crime, hearing an approaching monsters as it stalks you, tasting the small hint of poison in your food, sensing you are being watched, noticing a bandit hiding as you approach their ambush.
+
+Commonly used by spotters and scouts.
+
+It will be common for the Narrator to require players to make environmental 'Perception Checks' to gauge how much the characters notice regarding current happenings or places.
 
 #### Stealth
 
-Represented by ninjas, assassins, and thiefs. Sneaking, hiding from others, and moving with no noise form the basis of the Stealth skill. Stealth can be used for setting up ambushes and laying traps. Stealth is often countered by Perception, and the two forces of hide and seek clash constantly.
+Covers activites related to sneaking, hiding from others, moving quietly, ambushing an opponent, performing actions unnoticed, ect...
+
+Examples include sneaking past a group of city watchmen, hiding within a bush, moving through the forest without stepping on any twigs, remaining motionless as your victim walks into your ambush, snatching a nobleman's coin pouch unnoticed.
+
+Commonly used by thiefs, ninjas, and assassins.
+
+Stealth is often countered by Perception, and the two forces of hide and seek clash constantly.
 
 ### Intelligence Core Skills
 
 #### Communication
 
-Represented by politicians, traders, or con men. It is a measure of your verbal and non-verbal social skills. While anyone can try persuading, deceiving, bartering, or seducing, it is how you communicate that will ultimately entail success or failure. It's not what you say, but how you say it. It also is used to tell if someone is lying or deceiving you.
+Covers activities related to persuading, deceiving, bartering, seducing, intimidating, catching when someone is deceiving you, ect...
+
+Examples include persuading a king to go to war, deceiving a guard as to your wereabouts the previous night, bartering for a better price on a sword, seducing a party guest to gain access to the royal ball, intimidating a street thug trying to mug you, or catching that your travel guide isn't being truthfull about how safe the old rope bridge is.
+
+Commonly used by politicians, traders, or con men.
 
 #### General Knowledge
 
-Represented by historians, bookworms, detectives or street smart individuals. General Knowledge is the art of listening to rumors, recalling information, performing deductive/logical analysis, and applying it where it is needed most. On the street smarts side, it keeps you from going too close to dangerous gang territory, it lets you know who and where to avoid.
+Covers activites related to reading ability, absorbing knowledge, recalling information, performing deductive analysis, thinking logically, ect...
+
+Examples include reading quickly through an ancient tomb for a clue as the walls close around you, absorbing the knowledge of the local area from a map, recalling why the symbol on the slain cultists robe looks familar, deducing that only the butler would have had access to the murder weapon, thinking through what the best way to avoid the local gangs terrotories in a bad part of town.
+
+Commonly used by historians, bookworms, detectives or street smart individuals.
 
 A character with a specific knowledge skill (such as a Vocational Skill) strongly related to the task being attempted would always have an easier skill check than a character using General Knowledge. For instance, a baker and a detective are trying to determine which pastry shop made the poisoned box of pastries at a crime scene. The baker using his "Baker Knowledge" skill might only be required to achieve a Common skill check (CL 1) were as the detective using his General Knowledge skill might be required to make a Uncommon skill check (CL 2).
 
