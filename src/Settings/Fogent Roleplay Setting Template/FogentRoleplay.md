@@ -280,15 +280,15 @@ Core Skills are skills that cover the majority of what most creatures can perfor
 
 #### Athletics
 
-Covers activities related to sprinting, juming, swimming, climbing, crawling, general movement, ect... It covers throwing light objects and catching them. 
+Covers activities related to sprinting, jumping, swimming, climbing, crawling, general movement, throwing/catching objects, ect...
 
-Examples include chasing someone, jumping over a pit, swimming in turbulent water, throwing a ball, climbing a rock face, descending a rope or crawling if prone.
+Examples include chasing someone, jumping over a pit, swimming in turbulent water, climbing a rock face, descending a rope, crawling if prone, and throwing/catching a ball.
 
-Commonly used by track athletes, swimmers, and rock climbers.
+Commonly used by track athletes, swimmers, rock climbers, and professional athletes.
 
 #### Endurance
 
-Covers activites related to cardiovascular endurance, pain tolerance, resisting exhuastion/extreme cold/extreme heat/toxins/diseases/bleeding out/physical wounds worsening out, ect...
+Covers activites related to cardiovascular endurance, pain tolerance, resisting exhaustion/extreme cold/extreme heat/toxins/diseases/bleeding out/physical wounds worsening out, ect...
 
 Examples include staying conscious as you are bleeding out from an injury, resisting poisoning, enduring hot/cold weather, and pushing on past exhaustion.
 
@@ -296,7 +296,7 @@ Commonly used by ultra-marathon runners.
 
 #### Lift
 
-Covers physical activity related to moving heavy objects, carrying heavy objects, generating mechanical force with the body, ect... 
+Covers physical activity related to moving heavy objects, carrying heavy objects, generating mechanical force with the body, ect...
 
 Examples include shouldering a door open, carrying heavy equipment, throwing heavy objects, or crushing/tearing something in your hands.
 
@@ -308,7 +308,7 @@ Commonly used by strongmen and power lifters.
 
 Covers activities related to dodging, balance, flexibility, parkour, acrobatics, falling safely, highly dexterous control over ones body, ect...
 
-Examples include dodging blades/arrows/traps/pitfalls, walking tightropes, contourting the body to squeezing through tight gaps, parkouring across difficult terrain, backfliping off a table, breaking a fall with a roll, moving fluidly while riding a mount.
+Examples include dodging blades/arrows/traps/pitfalls, walking tightropes, contorting the body to squeezing through tight gaps, parkouring across difficult terrain, back flipping off a table, breaking a fall with a roll, moving fluidly while riding a mount.
 
 Commonly used by acrobats, parkourists or cat burglars.
 
@@ -328,7 +328,7 @@ Covers activites related to sneaking, hiding from others, moving quietly, ambush
 
 Examples include sneaking past a group of city watchmen, hiding within a bush, moving through the forest without stepping on any twigs, remaining motionless as your victim walks into your ambush, snatching a nobleman's coin pouch unnoticed.
 
-Commonly used by thiefs, ninjas, and assassins.
+Commonly used by thieves, ninjas, and assassins.
 
 Stealth is often countered by Perception, and the two forces of hide and seek clash constantly.
 
@@ -338,15 +338,15 @@ Stealth is often countered by Perception, and the two forces of hide and seek cl
 
 Covers activities related to persuading, deceiving, bartering, seducing, intimidating, catching when someone is deceiving you, ect...
 
-Examples include persuading a king to go to war, deceiving a guard as to your wereabouts the previous night, bartering for a better price on a sword, seducing a party guest to gain access to the royal ball, intimidating a street thug trying to mug you, or catching that your travel guide isn't being truthfull about how safe the old rope bridge is.
+Examples include persuading a king to go to war, deceiving a guard as to your whereabouts the previous night, bartering for a better price on a sword, seducing a party guest to gain access to the royal ball, intimidating a street thug trying to mug you, or catching that your travel guide isn't being truthful about how safe the old rope bridge is.
 
 Commonly used by politicians, traders, or con men.
 
 #### General Knowledge
 
-Covers activites related to reading ability, absorbing knowledge, recalling information, performing deductive analysis, thinking logically, ect...
+Covers activities related to reading ability, absorbing knowledge, recalling information, performing deductive analysis, thinking logically, ect...
 
-Examples include reading quickly through an ancient tomb for a clue as the walls close around you, absorbing the knowledge of the local area from a map, recalling why the symbol on the slain cultists robe looks familar, deducing that only the butler would have had access to the murder weapon, thinking through what the best way to avoid the local gangs terrotories in a bad part of town.
+Examples include reading quickly through an ancient tomb for a clue as the walls close around you, absorbing the knowledge of the local area from a map, recalling why the symbol on the slain cultists robe looks familiar, deducing that only the butler would have had access to the murder weapon, thinking through what the best way to avoid the local gangs territories in a bad part of town.
 
 Commonly used by historians, bookworms, detectives or street smart individuals.
 
@@ -354,7 +354,11 @@ A character with a specific knowledge skill (such as a Vocational Skill) strongl
 
 #### Will
 
-Measures a character's mental and spiritual control/strength, exerted to do something or restrain impulses. This could be to do something gross but necessary, resist being verbally, mentally, or spiritually manipulated/attacked, resist being seduced or holding your cool in a scary situation. In a setting with supernatural elements, Will also affects your ability to force yourself to see what is actually beyond the mundane where the mind is generally most comfortable.
+Covers activities related to resisting fear, mental control/strength, spiritual control/strength, restrain impulse, resist being verbally/mentally/spiritually manipulated/attacked.
+
+Measures a character's mental and spiritual control/strength, exerted to do something or restrain impulses.
+
+Commonly used by Navy SEALs.
 
 ## Vocations
 
