@@ -454,7 +454,15 @@ I try and add the "Reach Spear" Vocational Skill. I realized using a long spear 
 
 ## Tied Contested Checks
 
-Contested Checks occur when two character's actions conflict. The most obvious example of this is fighting, though other examples include drinking contests, arm wrestling, or stealth vs perception. Oftentimes, Contested Checks result in ties. If Tied Contested Checks occur within combat, ties result in neither side making progress and the contested check is a stalemate. Otherwise, ties in any other contested check outside of combat can just be rerolled to establish a clear winner.
+Contested Checks occur when two character's actions conflict. The most obvious example of this is fighting, though other examples include drinking contests, arm wrestling, or stealth vs perception. 
+
+When a Tied Contested Check occurs, niether side makes any progress and the contested check is a stalemate. If this contested check happens within a combat round, than the stalemate is only applicable on that round. After The Narrator has narratively described the stalemate if both sides reinitiate the contested check, they can perform another Contested Check.
+
+Sometimes, a character might actually want a stalemate with niether side making progress. Here are some examples:
+
+- If a character is fighting a foe they have no chance of handling on there own, a stalemate is good as just holding them off until backup arrives is the smart move.
+- If a character is already successfully hidden from their opponent, then when their oppent tries to detect where they are hiding, a stalemate means they get to remain in stealth.
+- If a character is trying to keep there eyes on an enemy trying to hidden, then when their opponent tries to hide, a stalemate means they can still see the opponent.
 
 **Combat example 1:**
 
@@ -470,7 +478,7 @@ A rogue and a knight are fighting each other in combat. The rogue has already us
 
 **Non-combat example:**
 
-Outside of combat, a rogue is trying to sneak up on a knight. The rogue rolls stealth and the knight rolls perception. They both get 2 wins. They reroll to determine a clear winner.
+Outside of combat, a rogue is trying to sneak up on a knight. The rogue rolls stealth and the knight rolls perception. They both get 2 wins. The guard thinks to himself that maybe it was just the wind as he peers into the darkness. The round holds his breath, heart pounding as he tries to remain motionless. They reroll to determine a clear winner.
 
 ## Advantage and Disadvantage
 
