@@ -456,12 +456,12 @@ I try and add the "Reach Spear" Vocational Skill. I realized using a long spear 
 
 Contested Checks occur when two character's actions conflict. The most obvious example of this is fighting, though other examples include drinking contests, arm wrestling, or stealth vs perception. 
 
-When a Tied Contested Check occurs, niether side makes any progress and the contested check is a stalemate. If this contested check happens within a combat round, than the stalemate is only applicable on that round. After The Narrator has narratively described the stalemate if both sides reinitiate the contested check, they can perform another Contested Check.
+When a Tied Contested Check occurs, neither side makes any progress and the contested check is a stalemate. If this contested check happens within a combat round, than the stalemate is only applicable on that round. After The Narrator has narratively described the stalemate if both sides initiate the contested check again, they roll off again.
 
-Sometimes, a character might actually want a stalemate with niether side making progress. Here are some examples:
+Sometimes, a character might actually want a stalemate with neither side making progress. Here are some examples:
 
 - If a character is fighting a foe they have no chance of handling on there own, a stalemate is good as just holding them off until backup arrives is the smart move.
-- If a character is already successfully hidden from their opponent, then when their oppent tries to detect where they are hiding, a stalemate means they get to remain in stealth.
+- If a character is already successfully hidden from their opponent, then when their opponent tries to detect where they are hiding, a stalemate means they get to remain in stealth.
 - If a character is trying to keep there eyes on an enemy trying to hidden, then when their opponent tries to hide, a stalemate means they can still see the opponent.
 
 **Combat example 1:**
@@ -498,7 +498,7 @@ Gained under very specific conditions when the stars have aligned for a characte
 
 ### Super Disadvantage
 
-Gained under very specific conditions when a character has truely drawn the short straw. For any dice rolled, 4's and 5's count as failures for that roll.
+Gained under very specific conditions when a character has truly drawn the short straw. For any dice rolled, 4's and 5's count as failures for that roll.
 
 ### Super Advantage/Disadvantage overriding Advantage/Disadvantage
 
@@ -691,7 +691,7 @@ Effective Range, Ineffective Range, and Max Range are usually represented on a c
 
 The distance up to which you are effective.
 
-Effective Range = (Effective Range Per Dice) * (Number of Skill Dice), rounded down to the nearest multipe of 5
+Effective Range = (Effective Range Per Dice) * (Number of Skill Dice), rounded down to the nearest multiple of 5
 
 From 0 ft up to the Effective Range, Disadvantage is NOT gained on Dice Pool the skill is being used in.
 
@@ -711,7 +711,7 @@ Max Range = (Effective Range) * 4
 
 Past the Ineffective Range up to the Max Range, Super Disadvantage is gained on Dice Pool the skill is being used in.
 
-### Effective Range Calulation Results by Skill Dice Pool Size
+### Effective Range Calculation Results by Skill Dice Pool Size
 
 |  Range Type  | 1 Dice | 2 Dice | 3 Dice | 4 Dice | 5 Dice | 6 Dice | 7 Dice | 8 Dice | 9 Dice | 10 Dice | 11 Dice | 12 Dice | 13 Dice |
 | :----------: | :----: | :-----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: | :-----: | :-----: | :-----: |
@@ -832,7 +832,7 @@ Sphere Radius (ft): 2.5 + (Skill Dice Pool Size) * 2.5, rounded down to the near
 
 Uses Per Round represent the number of times some skill governed action can be preformed in a round.
 
-This rule is mainly used for determining how many times a weapon/spell can be used in combat rounds. In this context, if a character depeletes their Uses Per Round provided by their weapon/spell, then they can no longer use that weapon/spell that combat round and are instead forced to dodge if they are being attacked.
+This rule is mainly used for determining how many times a weapon/spell can be used in combat rounds. In this context, if a character depletes their Uses Per Round provided by their weapon/spell, then they can no longer use that weapon/spell that combat round and are instead forced to dodge if they are being attacked.
 
 ### Uses Per Round calculations
 
@@ -1435,7 +1435,7 @@ If your character gains disadvantage (often the result of a stagger or being kno
 - Only able to crawl using their Climb Combat Speed.
 - Disadvantage on any check that generally assumes a character is standing (i.e. Combat Rolls, Dexterity Checks, etc... )
 - Melee Combat Rolls (Melee or Reach Ranges) made by a standing character against a prone character have the [High Ground](./CombatModifiersAndCombatAssists.md#high-ground-advantage) combat modifier (Advantage).
-- Ranged attacks against a prone opponent gain Disadvantage if the Narrator believes they would be a more difficult target due to being a smaller target. For instance, shooting a prone opponent 10 feet away wouldn't have Disadvantage. However, shooting a prone sniper at range who is making themselves a small target would incure Disadvantage.
+- Ranged attacks against a prone opponent gain Disadvantage if the Narrator believes they would be a more difficult target due to being a smaller target. For instance, shooting a prone opponent 10 feet away wouldn't have Disadvantage. However, shooting a prone sniper at range who is making themselves a small target would incur Disadvantage.
 
 ### Restrained
 
@@ -1673,13 +1673,13 @@ A brace is a move purely to counter a charge. Character gains Advantage versus c
 
 Usually achieved by two or more characters with a Teamwork Vocation (Like Pack Hunter or Soldier) or the Communication Core Skill.
 
-When two or more attackers make a combat roll against the same opponent with at least one of them within 5 feet, they can make this collabrative assist roll. If successful, they can coordinate their attacks, gaining Advantage on their attack rolls.
+When two or more attackers make a combat roll against the same opponent with at least one of them within 5 feet, they can make this collaborative assist roll. If successful, they can coordinate their attacks, gaining Advantage on their attack rolls.
 
 ### Formation
 
 Usually achieved with a "Soldier" Vocation Assist or the Communication Core Skill.
 
-When two ore more allies are next to eachother, they can make a collabrative assist roll. If the assist is successful, then all characters within the formation gain Advantage to their Melee or Reach range combat rolls.
+When two ore more allies are next to each other, they can make a collaborative assist roll. If the assist is successful, then all characters within the formation gain Advantage to their Melee or Reach range combat rolls.
 
 # Advanced Rules
 
@@ -1697,8 +1697,8 @@ For each dice in a character's Lift dice pool the character gains 50 lbs of Carr
 
 |       Name       | Desc |   Duration   |               Source               |
 | :--------------: | :--: | :-----------: | :--------------------------------: |
-| Equipment Weight | 0 lb | While Equiped |             Equipment             |
-|   Carry Weight   | ? lb |   Indefinte   | +50 lbs Carry Weight per Lift dice |
+| Equipment Weight | 0 lb | While Equipped |             Equipment             |
+|   Carry Weight   | ? lb |   Indefinite   | +50 lbs Carry Weight per Lift dice |
 
 ### Weight Classes
 
@@ -1978,7 +1978,7 @@ For instance, a Size Effect doesn't change anything else on your sheet when adde
 |             Phenomena Detection             |                                                                                                                                                                                                                        Beats and lights up when turned towards supernatural phenomena in an area. Beats faster the closer it is.                                                                                                                                                                                                                        |                |         (Item Name)         |
 |              Forbidden Whispers              |                                                                                                               When one squeezes the Heart, it whispers secrets directly into their mind concerning the current area, as it senses information about the world beyond mortal recognition. When the Heart is pointed at a person, it reveals secrets about them. Roll a destiny roll (a d20) to determine the level of information obtained.                                                                                                               |                |         (Item Name)         |
 |                Light Storage                |                                                                                                                                                                                                                       Holds 1 Magic Resource worth of light. Can be recharged in Sunlight. Light slowly dissipates from this gem.                                                                                                                                                                                                                       |                |         (Item Name)         |
-|              Retractable Shield              |                                                                                                                                                                                                                                                The user can deploy or retract the medium shield at will.                                                                                                                                                                                                                                                | While equippped |         (Item Name)         |
+|              Retractable Shield              |                                                                                                                                                                                                                                                The user can deploy or retract the medium shield at will.                                                                                                                                                                                                                                                | While equipped |         (Item Name)         |
 |                Defense Spells                | The staff is endowed with 10 charges, serving as the fuel for the enclosed spells. When holding the staff, you can use your action to cast one of the following spells from it, provided you have a vocation that can unlock the magic required for these spells: Physical Protection (1 charge) or Mage Shield (2 charges). No components are necessary. At the break of dawn, the staff regains 1d6 + 4 expended charges. Should the staff exhaust its charges entirely, roll a d20. If the result is 1, the staff shatters and meets its destruction. | While Equipped |         (Item Name)         |
 |           Single-use Invisibility           |                                                                                                                                                                                                                       Applies the Invisibility Spell to the user of this item after being used. Item is destroyed in the process.                                                                                                                                                                                                                       |     1 hour     |         (Item Name)         |
 |                   Draupnir                   |                                                                                                      This ring can transform between a weapon and ring. The ring is endowed with 10 charges. With the ring equipped, the user can force a duplication resulting in either a ring or weapon, both which appear in the users hand. Duplicates can not transform, only the original. At the break of dawn, the ring regains 1d6 + 4 expended charges.                                                                                                      |  Instantaneous  |         (Item Name)         |
@@ -2121,7 +2121,7 @@ A Magic Governing Core Skill is a Core Skill that is associated with a Magic Voc
 Examples of Magic Governing Core Skills:
 
 * Magic that relies on the body to produce Magic Resource could use Endurance. (Bodily Magic)
-* Magic that is equivelent to science or engineering, that relies only on the raw knowledge of the user could use General Knowledge. (Wizard Magic)
+* Magic that is equivalent to science or engineering, that relies only on the raw knowledge of the user could use General Knowledge. (Wizard Magic)
 * Magic that relies on bending the world around them through sheer will, such as through the mind, emotion, or spirit could use Will. (Sorcery Magic)
 * Magic that relies upon a belief in a divine higher power could use Will. (Cleric Magic)
 * Magic that relies upon a relationship with a divine being or a pact with a nefarious entity could use Communication, as it is only through the connection to the entity that the magic is held together. (Warlock Magic)
@@ -2310,7 +2310,7 @@ Another avenue to explore is how magic skills could be combined.
 
 All magic needs a Spellcasting Focus to be cast through wether a wizard's staff, a druid's focus, or even a character's own body. Just about anything can be made into a Spellcasting Focus from a narrative perspective, but it is up to the narrator to decide if their are any restrictions in their magic system/setting.
 
-Spellcasting Focuses often have [Skill Base Dice Tier](./../AdvancedRules/Effects.md#skill-base-dice-tier) Effects on them that infulence the magic skills cast through it, assuming they apply to that skill.
+Spellcasting Focuses often have [Skill Base Dice Tier](./../AdvancedRules/Effects.md#skill-base-dice-tier) Effects on them that influence the magic skills cast through it, assuming they apply to that skill.
 
 ## Spells
 
@@ -2326,7 +2326,7 @@ To use a Spell a character must:
 - Achieve the CL required to cast the Spell with their Magic Skill Roll.
 - Have enough Magic Resource to consume, which will always be equal to the Spell's CL.
 
-The Magic Resource needed to cast the Spell is always consumed even if the Magic Skill Roll check is unsuccesful.
+The Magic Resource needed to cast the Spell is always consumed even if the Magic Skill Roll check is unsuccessful.
 
 Certain Spells can consume additional Magic Resource to increase the Spell's effect. A Spell can only consume as much Magic Resource as the wins from the Magic Skill Roll.
 
@@ -2841,7 +2841,7 @@ If the setting doesn't have a built economy, then the players and Narrator can w
 
 This is an optional rule for setting where the durability of ones equipment has narrative significance. Using item durability is a great way to increase immersion (such as having to go to a blacksmith or learn to repair their gear) and challenge your players. However, for players who want a more casual experience, item durability can be disregarded.
 
-With these rules, all weapons, armor, and spellcasting focuses now have durability. Whatever the Base Dice Tier associated with that item determines how much durability it has. When an item's durability falls, each time your item's durability falls to the lower tier's max durability, that lower tier's base dice are used instead. For instance, if a character had a "Legendary\" Base Dice Tier sword with only 23 durability remaineg they would be rolling the "Superior" Base Dice Tier or "1d10, 2d8".
+With these rules, all weapons, armor, and spellcasting focuses now have durability. Whatever the Base Dice Tier associated with that item determines how much durability it has. When an item's durability falls, each time your item's durability falls to the lower tier's max durability, that lower tier's base dice are used instead. For instance, if a character had a "Legendary\" Base Dice Tier sword with only 23 durability remaining they would be rolling the "Superior" Base Dice Tier or "1d10, 2d8".
 
 ### Weapon Durability
 
