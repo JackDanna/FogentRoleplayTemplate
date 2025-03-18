@@ -482,9 +482,7 @@ Outside of combat, a rogue is trying to sneak up on a knight. The rogue rolls st
 
 ## Advantage and Disadvantage
 
-Advantage and Disadvantage represent circumstances that favor or disfavor a character, resulting in better or worse odds of achieving Wins.
-
-Advantages and Disadvantages only apply to a single dice pool, not additional dice pools such as from Assists. For example, if a character has Advantage on a Stealth check and decides to assist with their "Rogue" vocation, then the Advantage only applies to the Stealth dice pool and not to the "Rogue" dice pool. However, the character could preemptively use a destiny point to gain Advantage on the "Rogue" assist dice pool.
+Advantage and Disadvantage represent circumstances that favor or disfavor a character, resulting in better or worse odds of achieving Wins on a dice pool roll.
 
 ### Advantage
 
@@ -496,11 +494,11 @@ Disadvantage is gained when circumstance disfavors a character. For any dice rol
 
 ### Super Advantage
 
-Gained under very specific conditions when the stars have aligned for your character. For any dice rolled, 3s and 2s count as wins for that roll.
+Gained under very specific conditions when the stars have aligned for a character. For any dice rolled, 3s and 2s count as wins for that roll.
 
 ### Super Disadvantage
 
-Gained under very specific conditions when your character has drawn the short straw. For any dice rolled, 4's and 5's count as failures for that roll.
+Gained under very specific conditions when a character has truely drawn the short straw. For any dice rolled, 4's and 5's count as failures for that roll.
 
 ### Super Advantage/Disadvantage overriding Advantage/Disadvantage
 
