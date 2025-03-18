@@ -516,7 +516,7 @@ With Assists, a character can give Advantage (or if rolled poorly, Disadvantage)
 
 It must make logical sense to the Narrator as to why the "assisting" Dice Pool would aid the "primary" Dice Pool. Player's should recognize when they are stretching logic and Narrators should recognize when the player's come up with creative applications of Assists. It's up to the players and the Narrator to explain/negotiate how these assists make logical sense for the current circumstance.
 
-Assists can never use the same Skill for the "assisting" and "primary" Dice Pools. For instance, a character could never assist another character's Lift Check with their own Lift Check, they would instead use the Multiple Characte Skill Check rules.
+Assists can never use the same Skill for the "assisting" and "primary" Dice Pools. For instance, a character could never assist another character's Lift Check with their own Lift Check, they would instead use the Multiple Character Skill Check rules.
 
 Multiple characters can assist the same "primary" Dice Pool. If they are assisting using the same skill, then there assists rolls will use the Multiple Character Skill Check rules for that assist. If they are using different skills/vocations as assists, handle each assist roll separately before seeing if the resulting Advantages/Disadvantages cancel out, with whatever remains being applied to the "primary" Dice Pool.
 
@@ -546,25 +546,25 @@ The Narrator agrees, setting the assist to CL 3 due to the slippery oil patches 
 
 Base dice are always represented by 3 dice, which by default are 3d6. However, base dice can change for better or worse depending on a Base Dice Tier.
 
-|    Name    | Tier | Base Dice |
-| :---------: | :--: | :--------: |
-|   Broken   |  -4  |    0d6    |
-| Compromised |  -3  |    3d4    |
-|   Damaged   |  -2  |  1d6, 2d4  |
-|   Shoddy   |  -1  |  2d6, 1d4  |
-|   Mundane   |  0  |    3d6    |
-|   Quality   |  1  |  1d8, 2d6  |
-|    Fine    |  2  |  2d8, 1d6  |
-|  Excellent  |  3  |    3d8    |
-|  Superior  |  4  | 1d10, 2d8 |
-|  Exquisite  |  5  | 2d10, 1d8 |
-|  Flawless  |  6  |    3d10    |
-| Mastercraft |  7  | 1d12, 2d10 |
-|   Fabled   |  8  | 2d12, 1d10 |
-|    Epic    |  9  |    3d12    |
-|  Legendary  |  10  | 1d20, 2d12 |
-|   Mythic   |  11  | 2d20, 1d12 |
-|  Artifact  |  12  |    3d20    |
+| Level | Base Dice | Item Quality Description |
+| :---: | :--------: | :----------------------: |
+|  -4  |    0d6    |          Broken          |
+|  -3  |    3d4    |       Compromised       |
+|  -2  |  1d6, 2d4  |         Damaged         |
+|  -1  |  2d6, 1d4  |          Shoddy          |
+|   0   |    3d6    |         Mundane         |
+|   1   |  1d8, 2d6  |         Quality         |
+|   2   |  2d8, 1d6  |           Fine           |
+|   3   |    3d8    |        Excellent        |
+|   4   | 1d10, 2d8 |         Superior         |
+|   5   | 2d10, 1d8 |        Exquisite        |
+|   6   |    3d10    |         Flawless         |
+|   7   | 1d12, 2d10 |       Mastercraft       |
+|   8   | 2d12, 1d10 |          Fabled          |
+|   9   |    3d12    |           Epic           |
+|  10  | 1d20, 2d12 |        Legendary        |
+|  11  | 2d20, 1d12 |          Mythic          |
+|  12  |    3d20    |         Artifact         |
 
 ## Destiny Points
 
