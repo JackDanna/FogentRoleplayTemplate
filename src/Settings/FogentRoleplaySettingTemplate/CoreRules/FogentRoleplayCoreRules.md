@@ -1079,23 +1079,23 @@ Represents the dice pool modification that a particular weapon gives you. The be
 
 ### Penetration
 
-The amount of Penetration a weapon adds to a characters combat roll. See [Penetration](./Defense.md#penetration) for more details.
+The amount of Penetration a weapon adds to a characters combat roll. See the Penetration rules for more details.
 
 ### Range
 
-The distance at which a weapon can be used. See [Range](./Range.md) for more details.
+The distance at which a weapon can be used. See the Range rules for more details.
 
 ### Uses Per Round
 
-The amount of times a weapon be used per round. See [Uses Per Round](./UsesPerRound.md) for more details.
+The amount of times a weapon be used per round. See the Uses Per Round rules for more details.
 
 ### Area Of Effect
 
-The shape and amount of area a weapon attack creates. See [Area Of Effect](./AreaOfEffect.md) for more details.
+The shape and amount of area a weapon attack creates. See the Area Of Effect rules for more details.
 
 ### Ammo Type And Ammo Per Use
 
-The ammo type required to use the weapon and the amount of ammo consumed per use of the weapon. See [Ammo Type](./Ammunitions.md#ammo-type) for more details.
+The ammo type required to use the weapon and the amount of ammo consumed per use of the weapon. See the Ammo Type rules for more details.
 
 ### Damage Types
 
@@ -1252,7 +1252,7 @@ The types of Damage a weapon inflicts when dealing injuries.
 
 ## Weapon Combat Skills
 
-A Weapon Combat Skill covers the use of a group of similar weapons. The tables over on the [Weapons](./Weapons.md) page show which weapons are group under which Weapon Combat Skills. For instance, the "Medium Melee" Weapon Combat Skill covers the use of "Medium Hafted", "Medium Sword", and "Medium Spear".
+A Weapon Combat Skill covers the use of a group of similar weapons. The tables over on the Weapons rules show which weapons are group under which Weapon Combat Skills. For instance, the "Medium Melee" Weapon Combat Skill covers the use of "Medium Hafted", "Medium Sword", and "Medium Spear".
 
 All Weapon Combat Skills have the governing attributes of STR, RFX, and INT. This is to reflect that the stronger, faster, and smarter a character is, the more lethal they are in combat regardless of the weapon. A STR character hits harder, is tougher, and is more conditioned for combat. A RFX character hits faster and is harder to pin down. An INT character hits smarter and uses tactics. It is the player's/narrator's job to flavor their attacks to reflect how they are leveraging their innate attributes as they fight.
 
@@ -1458,7 +1458,7 @@ If your character gains disadvantage (often the result of a stagger or being kno
 
 ### Injury
 
-Injury is handled as part of the narrative with dice penalties being applied per injury to all a character's dice checks. A character is rendered [Incapacitated](./Conditions.md#incapacitated) once they've taken a summed 5 or above injury dice.
+Injury is handled as part of the narrative with dice penalties being applied per injury to all a character's dice checks. A character is rendered Incapacitated once they've taken a summed 5 or above injury dice.
 
 Typical "status effects" such as being poisoned, frostbitten, bleeding, madness, etc... are handled elegantly through the injury system. For instance, if you were dealt a Serious injury by mild poison mist, then narratively explain it as getting a large breath full. If the character instead was dealt a Serious injury by an extremely lethal poison mist, then narratively it would be explained as only getting a small whiff. The resulting dice penalty acts as your "status effect" debuffing your character until they are resolved. For instance, anti-venom might be able to remove the poison injury or warming up by a fire might reduce hypothermia from the cold.
 
@@ -1500,7 +1500,7 @@ Since Injuries work on a narrative severity scale, so does the healing that can 
 
 #### Stagger
 
-The opponent gains the [Staggered](./Conditions.md#staggered) condition until the end of the next round.
+The opponent gains the Staggered condition until the end of the next round.
 
 This could be sand thrown in a character's face, being shoulder-checked, or losing their footing.
 
@@ -1512,7 +1512,7 @@ The character can either roll a Lift check or take the average amount of Wins ro
 
 #### Grapple
 
-Enter/exit a Grapple. If entering into a Grapple, apply the [Grappled](./Conditions.md#grappled) condition to both you and your opponent. Exiting a Grapple can also be accomplished with a Dodge roll.
+Enter/exit a Grapple. If entering into a Grapple, apply the Grappled condition to both you and your opponent. Exiting a Grapple can also be accomplished with a Dodge roll.
 
 #### Grapple Move
 
@@ -1542,7 +1542,7 @@ Once already in a Grapple, as part of their declaration phase a character can de
 
 #### Trip
 
-The opponent gains the [Prone](./Conditions.md#prone) condition.
+The opponent gains the Prone condition.
 
 A character can declare they are attempting to get up on a round they start prone. Getting up requires the downed opponent to use their entire movement speed. They can regain their footing and remove the Prone condition at the end of the round they were getting up.
 
@@ -1552,7 +1552,7 @@ Instead of getting up, a character can remain prone and crawl. They use their Cl
 
 #### Fatal Injury
 
--4d to STR/RFX/INT governed Dice Pools. Gains the [Incapacitated](./Conditions.md#incapacitated) condition and will die very soon if untreated.
+-4d to STR/RFX/INT governed Dice Pools. Gains the Incapacitated condition and will die very soon if untreated.
 
 #### Dismember
 
@@ -1560,7 +1560,7 @@ Remove an arm or leg, which also gives a Serious Injury to the opponent. Not ava
 
 #### Render Unconscious
 
-Opponent gains the [Unconscious](./Conditions.md#unconscious) condition such as from head trauma, blood chokes, etc. Opponent receives a Medium Injury.
+Opponent gains the Unconscious condition such as from head trauma, blood chokes, etc. Opponent receives a Medium Injury.
 
 ### Level 5 victory and higher
 
@@ -1647,7 +1647,7 @@ A target with total cover can't be targeted directly by an attack, although some
 
 ## Combat Assists
 
-These are examples of [Assists](./../GeneralRules/Assists.md) that can be used in combat.
+These are examples of Assists that can be used in combat.
 
 ### Focused Shot (Advantage)
 
@@ -1822,8 +1822,8 @@ The two large categories are "Character Sheet Effects" and "Narrative Effects".
 
 Adds or subtracts dice for dice pools if they governed by at least one of the Attributes specified.
 
-- [Injury](./../CombatRules/InjuryAndHealing.md#injury)
-- [Weight Classes](./../AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#weight-classes)
+- Injury
+- Weight Classes
 
 #### Attribute Level Adjustment
 
@@ -1835,7 +1835,7 @@ For a specified Attribute, a Character receives an adjustment to it's level. The
 
 #### Defense
 
-See [Defense](./src/CoreRules/CombatRules/Defense.md) for more information.
+See Defense rules for more information.
 
 #### Set Attribute Level
 
@@ -1917,11 +1917,11 @@ For a specified Skill/Vocation, a Character receives an adjustment to it's level
 
 #### Weapons
 
-See [Weapons](./src/CoreRules/CombatRules/Weapons.md) for more information.
+See Weapons rules for more information.
 
 #### Ammunitions
 
-See [Ammunitions](./src/CoreRules/CombatRules/Ammunitions.md) for more information.
+See Ammunitions rules for more information.
 
 ### Narrative Effects
 
@@ -1929,12 +1929,12 @@ See [Ammunitions](./src/CoreRules/CombatRules/Ammunitions.md) for more informati
 
 For instance, a Size Effect doesn't change anything else on your sheet when added, though it could have a massive impact on how a character is played. A potion with a Healing Effect doesn't have any mechanical effect until a player uses it within narrative.
 
-- [Disabling Characteristics](./../CharacterCreationRules/DisablingCharacteristics.md)
-- [Healing](./../CombatRules/InjuryAndHealing.md#healing)
-- [Destiny Points](./../GeneralRules/DestinyPoints.md)
-- [Size](./../CombatRules/BattleMap.md#size)
-- [Weakness and Resistance](./../CombatRules/WeaknessAndResistance.md)
-- [Vision](./../AdvancedRules/VisionAndLight.md#vision-types)
+- Disabling Characteristics
+- Healing
+- Destiny Points
+- Size
+- Weakness and Resistance
+- Vision
 
 ### Narrative Effect Examples
 
@@ -2089,10 +2089,10 @@ This page provides a generalized framework for magic system mechanics for any se
 
 Fallen (the setting) has 4 premade magic systems as a reference and example:
 
-- [Druidcraft](./../../Settings/Fallen/MagicSystems/Druidcraft/Druidcraft.md)
-- [Fellcraft](./../../Settings/Fallen/MagicSystems/Fellcraft/Fellcraft.md)
-- [Runecraft](./../../Settings/Fallen/MagicSystems/Runecraft/Runecraft.md)
-- [Miracles](./../../Settings/Fallen/MagicSystems/Miracles/Miracles.md)
+- Druidcraft
+- Fellcraft
+- Runecraft
+- Miracles
 
 All magic systems built using this generalized framework require the following pieces of information to be determined.
 
@@ -2110,7 +2110,7 @@ Different Magic Vocations rely on different attributes. Most traditional fantasy
 
 ### Magic Resource Name
 
-Determining what fuels the Magic System is crucial. Is it the will of the caster, their connection with nature, or their connection to a divine entity? An example of a magic resource name is "Mana". See [Magic Resource](./MagicResource.md) for more information about the actual mechanics.
+Determining what fuels the Magic System is crucial. Is it the will of the caster, their connection with nature, or their connection to a divine entity? An example of a magic resource name is "Mana". See the Magic Resource rules for more information about the actual mechanics.
 
 ### Magic Governing Core Skill
 
@@ -2127,7 +2127,7 @@ Examples of Magic Governing Core Skills:
 
 ### Magic Skills
 
-A Magic Vocation should contain a list of the Magic Skills that fall under its umbrella. See [Magic Skills](./MagicSkills.md) for more information on how to create a Magic Skill list.
+A Magic Vocation should contain a list of the Magic Skills that fall under its umbrella. See Magic Skills rules for more information on how to create a Magic Skill list.
 
 ### Cantrip Name (Optional)
 
@@ -2308,7 +2308,7 @@ Another avenue to explore is how magic skills could be combined.
 
 All magic needs a Spellcasting Focus to be cast through wether a wizard's staff, a druid's focus, or even a character's own body. Just about anything can be made into a Spellcasting Focus from a narrative perspective, but it is up to the narrator to decide if their are any restrictions in their magic system/setting.
 
-Spellcasting Focuses often have [Skill Base Dice Tier](./../AdvancedRules/Effects.md#skill-base-dice-tier) Effects on them that influence the magic skills cast through it, assuming they apply to that skill.
+Spellcasting Focuses often have Skill Base Dice Tier Effects on them that influence the magic skills cast through it, assuming they apply to that skill.
 
 ## Spells
 
@@ -2619,7 +2619,7 @@ The number of points you get to spend on Core Skills, Vocations, and Combat Skil
 
 #### Disabling Characteristics
 
-See [Disabling Characteristics](./DisablingCharacteristics.md).
+See Disabling Characteristics rules.
 
 At character creation, for each Disabling Characteristic that makes a Core Skill Incompetent (level -1), an additional skill point is gained.
 
