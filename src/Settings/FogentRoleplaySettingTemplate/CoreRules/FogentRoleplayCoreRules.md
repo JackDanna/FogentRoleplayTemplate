@@ -260,7 +260,7 @@ Once a skill's Dice Pool is equal to or greater than 8 dice you are considered a
 - The check is not contested.
 - The check is not a reflexive action.
 
-### Multiple Character skill check
+### Multiple Character Skill Check
 
 Multiple characters may contribute to the same skill check. The Narrator should then evaluate the Challenge Level in the context of if multiple characters were performing it. All characters make their skill check, from which the average is taken, always rounding down to the nearest whole number. The average will then determine success or failure.
 
@@ -516,7 +516,7 @@ With Assists, a character can give Advantage (or if rolled poorly, Disadvantage)
 
 It must make logical sense to the Narrator as to why the "assisting" Dice Pool would aid the "primary" Dice Pool. Player's should recognize when they are stretching logic and Narrators should recognize when the player's come up with creative applications of Assists. It's up to the players and the Narrator to explain/negotiate how these assists make logical sense for the current circumstance.
 
-Assists can never use the same Skill for the "assisting" and "primary" Dice Pools. For instance, a character could never assist another character's Lift Check with their own Lift Check, they would instead use the [Multiple Character Skill Check](./Skills.md#multiple-character-skill-check) rules.
+Assists can never use the same Skill for the "assisting" and "primary" Dice Pools. For instance, a character could never assist another character's Lift Check with their own Lift Check, they would instead use the Multiple Characte Skill Check rules.
 
 Multiple characters can assist the same "primary" Dice Pool. If they are assisting using the same skill, then there assists rolls will use the Multiple Character Skill Check rules for that assist. If they are using different skills/vocations as assists, handle each assist roll separately before seeing if the resulting Advantages/Disadvantages cancel out, with whatever remains being applied to the "primary" Dice Pool.
 
@@ -545,8 +545,6 @@ The Narrator agrees, setting the assist to CL 3 due to the slippery oil patches 
 ## Base Dice Tiers
 
 Base dice are always represented by 3 dice, which by default are 3d6. However, base dice can change for better or worse depending on a Base Dice Tier.
-
-Base Dice Tiers show up in [Weapon Base Dice Tiers](./../CombatRules/Weapons.md#weapon-base-dice-tier) and [Skill Base Dice Tiers](./../AdvancedRules/Effects.md#skill-base-dice-tier).
 
 |    Name    | Tier | Base Dice |
 | :---------: | :--: | :--------: |
@@ -766,7 +764,7 @@ Area Of Effect Calculations scale with the size of the Skill Dice Pool they are 
 
 #### Close Cone Calculation
 
-Triangle Base/Height: [Close Cone](./Range.md)
+Triangle Base/Height: Close Cone
 
 Cones Calculations can be customized to have larger angles and heights/bases, but must always cover the same area.
 
@@ -788,7 +786,7 @@ Cones Calculations can be customized to have larger angles and heights/bases, bu
 
 #### Medium Cone Calculation
 
-Triangle Base/Height: [Medium Cone](./Range.md)
+Triangle Base/Height: Medium Cone
 
 Cones Calculations can be customized to have larger angles and heights/bases, but must always cover the same area.
 
@@ -859,7 +857,7 @@ For example, if a character had 7 dice in their governing skill dice pool with a
 
 On a round where an action IS prepared (example: your Heavy Crossbow is loaded), you can perform the action 1 time.
 
-On a round where an action is NOT prepared (example: your Heavy Crossbow is unloaded), if the Uses Per Round calculation result is greater than or equal to 0.5 and less than 1, 1 round must be spend preparing in order to use this action again. If the result is greater than 0 and less 0.5, your character must spend 2 rounds preparing. While preparing the [Off Guard](./CombatModifiersAndCombatAssists.md#off-guard-disadvantage) Combat Modifier is gained. If engaged during this time characters can still attempt to dodge while preparing.
+On a round where an action is NOT prepared (example: your Heavy Crossbow is unloaded), if the Uses Per Round calculation result is greater than or equal to 0.5 and less than 1, 1 round must be spend preparing in order to use this action again. If the result is greater than 0 and less 0.5, your character must spend 2 rounds preparing. While preparing the "Off Guard" Combat Modifier is gained. If engaged during this time characters can still attempt to dodge while preparing.
 
 #### Uses Per Round if character is using multiple loaded weapons
 
