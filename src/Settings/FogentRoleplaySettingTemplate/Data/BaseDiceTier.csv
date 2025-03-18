@@ -1,4 +1,4 @@
-level,baseDice,itemPrefix,itemDurabilityMax
+level,baseDice,itemQualityDescription,itemDurabilityMax
 -4,0d6,Broken,0
 -3,3d4,Compromised,3
 -2,"1d6, 2d4",Damaged,6
