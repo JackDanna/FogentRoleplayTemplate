@@ -42,66 +42,7 @@ Fogent Roleplay is designed to be the narrative engine of your game, no matter t
 
 The Core Rules are the foundation and narrative engine for your game. They are listed in the order of importance to someone learning the rules for the first time.
 
-### General Rules
-
-- [Dice Pools](./src/CoreRules/GeneralRules/DicePools.md)
-- [Challenge Levels](./src/CoreRules/GeneralRules/ChallengeLevels.md)
-- [Attributes](./src/CoreRules/GeneralRules/Attributes.md)
-- [Skills](./src/CoreRules/GeneralRules/Skills.md)
-- [Core Skills](./src/CoreRules/GeneralRules/CoreSkills.md)
-- [Vocations](./src/CoreRules/GeneralRules/Vocations.md)
-- [Tied Contested Checks](./src/CoreRules/GeneralRules/TiedContestedChecks.md)
-- [Advantage And Disadvantage](./src/CoreRules/GeneralRules/AdvantageAndDisadvantage.md)
-- [Assists](./src/CoreRules/GeneralRules/Assists.md)
-- [Base Dice Tiers](./src/CoreRules/GeneralRules/BaseDiceTiers.md)
-- [Destiny Points](./src/CoreRules/GeneralRules/DestinyPoints.md)
-
-### Combat Rules
-
-- [Damage Types](./src/CoreRules/CombatRules/DamageTypes.md)
-- [Defense](./src/CoreRules/CombatRules/Defense.md)
-- [Penetration](./src/CoreRules/CombatRules/Penetration.md)
-- [Range](./src/CoreRules/CombatRules/Range.md)
-- [Area Of Effect](./src/CoreRules/CombatRules/AreaOfEffect.md)
-- [Uses Per Round](./src/CoreRules/CombatRules/UsesPerRound.md)
-- [Battle Map](./src/CoreRules/CombatRules/BattleMap.md)
-- [Combat Speed](./src/CoreRules/CombatRules/CombatSpeed.md)
-- [Ammunitions](./src/CoreRules/CombatRules/Ammunitions.md)
-- [Weapons](./src/CoreRules/CombatRules/Weapons.md)
-- [Weapon Combat Skills](./src/CoreRules/CombatRules/WeaponCombatSkills.md)
-- [Combat Roll](./src/CoreRules/CombatRules/CombatRoll.md)
-- [Dodge Roll](./src/CoreRules/CombatRules/DodgeRoll.md)
-- [Combat Round](./src/CoreRules/CombatRules/CombatRounds.md)
-- [Conditions](./src/CoreRules/CombatRules/Conditions.md)
-- [Injury and Healing](./src/CoreRules/CombatRules/InjuryAndHealing.md)
-- [Victory Levels](./src/CoreRules/CombatRules/VictoryLevels.md)
-- [Weakness and Resistance](./src/CoreRules/CombatRules/WeaknessAndResistance.md)
-- [Combat Modifiers and Combat Assists](./src/CoreRules/CombatRules/CombatModifiersAndCombatAssists.md)
-
-### Advanced Rules
-
-- [Equipment, Carry Weight, and Weight Classes](./src/CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md)
-- [Vision and Light](./src/CoreRules/AdvancedRules/VisionAndLight.md)
-- [Containers](./src/CoreRules/AdvancedRules/Containers.md)
-- [Effects](./src/CoreRules/AdvancedRules/Effects.md)
-
-### Magic Rules
-
-- [Magic Systems](./src/CoreRules/MagicRules/MagicSystems.md)
-- [Magic Resource](./src/CoreRules/MagicRules/MagicResource.md)
-- [Magic Skills](./src/CoreRules/MagicRules/MagicSkills.md)
-- [Spells](./src/CoreRules/MagicRules/Spells.md)
-
-### Character Creation Rules
-
-- [Character Sheet Template](./src/CoreRules/CharacterCreationRules/temp/temp/temp/CharacterSheetTemplate.md)
-- [Disabling Characteristics](./src/CoreRules/CharacterCreationRules/DisablingCharacteristics.md)
-- [Tiers of Play](./src/CoreRules/CharacterCreationRules/TiersOfPlay.md)
-- [Character Creation](./src/CoreRules/CharacterCreationRules/CharacterCreation.md)
-
-### Hardcore Rules
-
-- [Item Durability](./src/CoreRules/HardcoreRules/ItemDurability.md)
+- [Fogent Roleplay Core Rules](./src/Settings/FogentRoleplaySettingTemplate/CoreRules/FogentRoleplayCoreRules.md)
 
 ## Cogent Roleplay Open License
 
