@@ -588,26 +588,34 @@ Destiny points are awarded when players perform actions that the narrator wants 
 
 ## Damage Types
 
-|    Name    |                                        Desc                                        |
-| :---------: | :---------------------------------------------------------------------------------: |
-|    Slash    | Caused by pushing or drawing a bladed edge to produce the force necessary to slice. |
-|   Pierce   |                             Caused by pointed objects.                             |
-|  Bludgeon  |                               Caused by blunt force.                               |
-|     Hew     |  Caused by the pressing of a bladed edge to produce the force necessary to shear.  |
-|  Ballistic  |                          Caused by bullets from firearms.                          |
-|  Shockwave  |                          Caused by shock waves and sound.                          |
-|    Fire    |                        Caused by intense heat or combustion.                        |
-|  Electric  |                Caused by lightning or other sources of electricity.                |
-|   Radiant   |                  Caused specifically by divine power or sunlight.                  |
-|    Acid    |                           Caused by corrosive substances.                           |
-|    Cold    |                        Caused by extremely low temperatures.                        |
-|   Silver   |                            Caused by a Silvered weapon.                            |
-|   Poison   |                            Caused by poisons or toxins.                            |
-|  Necrotic  |                         Caused by rot, decay, and undeath.                         |
-|    Bleed    |                            Caused by the loss of blood.                            |
-| Suffocation |               Caused by the lack of breathable air such as drowning.               |
-|   Psychic   |                              Caused by mental trauma.                              |
-|  Spiritual  |           Caused by spiritual sources such as ghosts or divine entities.           |
+|    Name    |                                        Desc                                        | Defending Skill |
+| :---------: | :---------------------------------------------------------------------------------: | :-------------: |
+|    Slash    | Caused by pushing or drawing a bladed edge to produce the force necessary to slice. |      None      |
+|   Pierce   |                             Caused by pointed objects.                             |      None      |
+|  Bludgeon  |                               Caused by blunt force.                               |      None      |
+|     Hew     |  Caused by the pressing of a bladed edge to produce the force necessary to shear.  |      None      |
+|  Ballistic  |                          Caused by bullets from firearms.                          |      None      |
+|  Shockwave  |                          Caused by shock waves and sound.                          |      None      |
+|    Fire    |                        Caused by intense heat or combustion.                        |      None      |
+|  Electric  |                Caused by lightning or other sources of electricity.                |      None      |
+|   Radiant   |                  Caused specifically by divine power or sunlight.                  |      None      |
+|    Acid    |                           Caused by corrosive substances.                           |      None      |
+|    Cold    |                        Caused by extremely low temperatures.                        |    Endurance    |
+|   Silver   |                            Caused by a Silvered weapon.                            |    Endurance    |
+|   Poison   |                            Caused by poisons or toxins.                            |    Endurance    |
+|  Necrotic  |                         Caused by rot, decay, and undeath.                         |    Endurance    |
+|    Bleed    |                            Caused by the loss of blood.                            |    Endurance    |
+| Suffocation |               Caused by the lack of breathable air such as drowning.               |    Endurance    |
+|   Psychic   |                              Caused by mental trauma.                              |      Will      |
+|  Spiritual  |           Caused by spiritual sources such as ghosts or divine entities.           |      Will      |
+
+### Defending Skill
+
+Certain Damage Types can be defended against with a skill check.
+
+Wins determined by a Defending Skill Check plus any Defense you might have against this specific damage source act as your Total Defense against that injury.
+
+The character may also abstain from rolling, choosing to take the average number of wins given the size of the dice pool. This can be calculated by dividing the number of dice rolled by 2 and then rounding down.
 
 ## Defense
 
@@ -673,19 +681,9 @@ Shields generally takes up one of the character's hands when in use. Characters 
 
 If a combat roll has a Physical damage type and a Bodily, Mental, or Spiritual damage type, then since it is combined with the physical attack it is only versus physical defense. An example would be poison applied to the blade of a weapon.
 
-### Bodily Defense
-
-A measure of a character's defense to injury from Bodily damage types. Determines your body's ability to resist poisoning, bleeding, freezing, etc. Wins determined by an Endurance skill check act as your defense against injury. The character may also abstain from rolling, choosing to take the average number of wins given the size of the dice pool. This can be calculated by dividing the number of dice rolled by 2 and then rounding down. The wins achieved by this are reduced by an attacker's combat roll penetration.
-
-### Mental Defense
-
-A measure of a character's defense to injury from Mental damage types. Wins determined by a Will skill check act as your defense against injury. The character may also abstain from rolling, choosing to take the average number of wins given the size of their dice pool. This can be calculated by dividing the number of dice rolled by 2 and then rounding down. The wins achieved by this are reduced by an attacker's combat roll penetration.
-
-### Soul Defense
-
-A measure of a character's defense to injury from Soul damage types. Wins determined by a Will skill check act as your defense against injury. The character may also abstain from rolling, choosing to take the average number of wins given the size of their dice pool. This can be calculated by dividing the number of dice rolled by 2 and then rounding down. The wins achieved by this are reduced by an attacker's combat roll penetration.
-
 ## Penetration
+
+The wins by a Defending skill Roll achieved by this are reduced by an attacker's combat roll penetration.
 
 The only way to injure an opponent with a specific Defense Type is to exceed or penetrate it.
 
