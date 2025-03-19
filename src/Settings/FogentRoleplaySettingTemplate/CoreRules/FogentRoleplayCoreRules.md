@@ -663,9 +663,9 @@ If a foe has a sufficently high Defense to certain Damage Types, then the best c
 |       Large Shield       |                           Shield                           | Indefinite | Innate |   3   |   3   |    3    |   3   |     0     |     0     |   2   |    2    |    2    |   2   |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
 |      Massive Shield      |                           Shield                           | Indefinite | Innate |   4   |   4   |    4    |   4   |     4     |     4     |   4   |    4    |    4    |   4   |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
 
-### Armor within Narrative
+### Armor
 
-The most common example where Defense will show up is on armor. For item creation purposes, determining what portions a piece of armor will protect is useful.
+Most Armor has a Defense. For item creation purposes, determining what portions a piece of armor will protect is useful.
 
 - Head Armor
 - Body Armor
