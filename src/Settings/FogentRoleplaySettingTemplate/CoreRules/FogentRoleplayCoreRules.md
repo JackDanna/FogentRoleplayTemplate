@@ -683,13 +683,13 @@ If a combat roll has a Physical damage type and a Bodily, Mental, or Spiritual d
 
 ## Penetration
 
-Penetration represents a Combat Roll's ability to mitigate the opponent's Defense. While dealing an injury, you may reduce your opponent's Totaled Defense by your Combat Roll's Penetration before calculating injury.
+Penetration represents a delt injuries ability to mitigate the opponent's Defense. While dealing an injury, you may reduce your opponent's Totaled Defense by your Combat Roll's Penetration before calculating injury.
 
 Examples of narratively describing better penetration:
 
 - Firearm vs Firearm loaded with armor piercing bullets.
 - Poison shot vs poison aerosolized spray, making it far more likely to penetrate the bodies natural defenses.
-- Arming Sword swing vs Great Sword swing, which just give you more leverage and mass, maybe if you can't cut through you can cruch what's undreneath.
+- Arming Sword swing vs Great Sword swing, which just give you more leverage and mass because if you can't cut through at least you'll cruch what's undreneath.
 
 ## Range
 
