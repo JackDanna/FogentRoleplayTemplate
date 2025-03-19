@@ -611,7 +611,7 @@ Destiny points are awarded when players perform actions that the narrator wants 
 
 ## Defense
 
-Defense is used to reduce incoming injuries from specific Damage Types by the equivalent amount of Defense against it. If a character has multiple Defenses, then add the values of the Defenses together for each Damage Type to get there Total Defense. If a Totaled Defenses has to a specific Damage Type has a decimal place remainder, you'll round it down to the nearest whole number when reducing an injury with it.
+Defense is used to reduce incoming injuries from specific Damage Types by the equivalent amount of Defense against it. If a character has multiple Defenses, then add the values of the Defenses together for each Damage Type to get there Total Defense. If a Totaled Defense has to a specific Damage Type has a decimal place remainder, you'll round it down to the nearest whole number when reducing an injury with it.
 
 |           Name           |                            Desc                            |  Duration  | Source | Slash | Pierce | Bludgeon |  Hew  | Ballistic | Shockwave | Fire | Electric | Radiant | Acid | Cold | Silver | Poison | Necrotic | Bleed | Suffocation | Psychic | Spiritual |
 | :-----------------------: | :--------------------------------------------------------: | :--------: | :----: | :---: | :----: | :------: | :---: | :-------: | :-------: | :---: | :------: | :-----: | :---: | :--: | :----: | :----: | :------: | :---: | :---------: | :-----: | :-------: |
