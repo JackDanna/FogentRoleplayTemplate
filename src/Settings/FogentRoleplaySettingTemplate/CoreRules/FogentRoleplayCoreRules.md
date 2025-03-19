@@ -619,7 +619,9 @@ The character may also abstain from rolling, choosing to take the average number
 
 ## Defense
 
-Defense is used to reduce incoming injuries from specific Damage Types by the equivalent amount of Defense against it. If a character has multiple Defenses, then add the values of the Defenses together for each Damage Type to get there Total Defense. If a Totaled Defense has to a specific Damage Type has a decimal place remainder, you'll round it down to the nearest whole number when reducing an injury with it.
+Defense is used to reduce incoming injuries from specific Damage Types by the equivalent amount of Defense against it. If a character has multiple Defenses, then add the values of the Defenses together for each Damage Type to get their Total Defense. If a Totaled Defense to a specific Damage Type has a decimal place remainder, you'll round it down to the nearest whole number when reducing an injury with it.
+
+If a foe has a sufficently high Defense to certain Damage Types, then the best course of action is to circumvent it. For instance, a knight in full Plate Armor is extremely difficult to injury with Slash damage. In these circumstances, the most efficient way of defeating a person in heavy armor is grappling them or tripping them and holding them down, just like in real life. Another option is to use an attack with a different Damage Type, such as spraying poison mist at them, to completely circimvent there high Slash defense.
 
 |           Name           |                            Desc                            |  Duration  | Source | Slash | Pierce | Bludgeon |  Hew  | Ballistic | Shockwave | Fire | Electric | Radiant | Acid | Cold | Silver | Poison | Necrotic | Bleed | Suffocation | Psychic | Spiritual |
 | :-----------------------: | :--------------------------------------------------------: | :--------: | :----: | :---: | :----: | :------: | :---: | :-------: | :-------: | :---: | :------: | :-----: | :---: | :--: | :----: | :----: | :------: | :---: | :---------: | :-----: | :-------: |
@@ -672,8 +674,6 @@ The most common example where Defense will show up is on armor. For item creatio
 - Shield
 
 A character can wear two pieces of armor on the same body part, such as wearing a gambeson shirt under chain mail shirt or a breastplate, which was most certainly done in history.
-
-In these circumstances, the most efficient way of defeating a person in heavy armor is grappling them or tripping them and holding them down, just like in real life.
 
 Shields generally takes up one of the character's hands when in use. Characters not actively using their shield as part of their combat/dodge roll do not benefit from the additional defense. Characters that are Off Guard or being attacked while unaware also do not benefit from the shield's defense.
 
