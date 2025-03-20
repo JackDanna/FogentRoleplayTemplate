@@ -125,7 +125,7 @@ Size: Large,10x10 ft on battle map.,Indefinite,Innate
 Size: Huge,15x15 ft on battle map.,Indefinite,Innate
 Size: Gargantuan,20x20 ft on battle map.,Indefinite,Innate
 ,,,
-Destiny Points,"Characters can be awarded Destiny Points by the Narrator and can hold a max of 3. Spending a ""Preemptive Destiny Point"" before rolling a dice pool gives Advantage on the resulting roll. Spending ""Post Roll Destiny Points"" adds additional Wins for each point spent, with the total Wins never exceeding the size of the dice pool. (0/3)",Indefinite,Given by The Narrator
+Destiny Points,"(0/3) A character can hold a max of 3 Destiny Points. Spending a ""Preemptive Destiny Point"" before rolling a dice pool gives Advantage on the resulting roll. Spending ""Post Roll Destiny Points"" adds additional Wins for each point spent, with the total Wins never exceeding the size of the dice pool. Destiny points are awarded when players perform actions that the narrator wants to encourage. Examples include showing up to the game on time, exceptional roleplay, accomplishing a narrative milestone, and doing something in line with their character's personality even if at the detriment of wealth or progress.",Indefinite,Given by The Narrator
 Destiny Resistance,"""Post Roll Destiny Points"" cannot be spent against this character.",Indefinite,Given by The Narrator
 Destiny Immunity,Destiny Points cannot be spent against this character.,Indefinite,Given by The Narrator
 Destiny Chosen,Destiny Point Cap set to 6. Gain an additional Destiny Point whenever one is gained. Destiny begins to shape around the user's true desires.,Indefinite,Given by The Narrator
