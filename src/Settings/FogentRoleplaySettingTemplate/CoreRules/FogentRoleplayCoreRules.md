@@ -707,9 +707,9 @@ When using a Range on a battlemap, if any of the components of the Range have a 
 
 **Max Range:** Greater than the Ineffective component of a Range but less than or equal to the Max component of a Range, dice pool rolls gain Disadvantage.
 
-### Set Range
+### Static Range
 
-For a Set Range, the components of a Range are all static.
+For a Static Range, the components of a Range are all unchanging.
 
 | Name | Effective Range | Ineffective Range Option | Max Range Option |
 | :---: | :-------------: | :----------------------: | :--------------: |
@@ -717,9 +717,9 @@ For a Set Range, the components of a Range are all static.
 | Melee |        5        |           None           |       None       |
 | Reach |       10       |           None           |       None       |
 
-### Range Equation
+### Variable Range
 
-For a Range Equation, the components of a Range scale with the size of the Skill Dice Pool. Therefore, as a character's Weapon/Magic Skill improves, so does the range at which it can be used.
+For a Variable Range, the components of a Range vary with the size of the Skill Dice Pool. Therefore, as a character's Weapon/Magic Skill improves, so does the range at which it can be used.
 
 |     Name     | Effective Range Per Dice | Ineffective Range Per Dice Option | Max Range Per Dice Option |
 | :----------: | :----------------------: | :-------------------------------: | :-----------------------: |
