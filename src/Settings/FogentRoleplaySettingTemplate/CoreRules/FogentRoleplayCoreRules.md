@@ -621,7 +621,7 @@ The character may also abstain from rolling, choosing to take the average number
 
 Defense is used to reduce incoming injuries from specific Damage Types by the equivalent amount of Defense against it. If a character has multiple Defenses, then add the values of the Defenses together for each Damage Type to get their Total Defense. If a Totaled Defense to a specific Damage Type has a decimal place remainder, you'll round it down to the nearest whole number when reducing an injury with it.
 
-If a foe has a sufficently high Defense to certain Damage Types, then the best course of action is to circumvent it. For instance, a knight in full Plate Armor is extremely difficult to injury with Slash damage. In these circumstances, the most efficient way of defeating a person in heavy armor is grappling them or tripping them and holding them down, just like in real life. Another option is to use an attack with a different Damage Type, such as spraying poison mist at them, to completely circimvent there high Slash defense.
+If a foe has a sufficiently high Defense to certain Damage Types, then the best course of action is to circumvent it. For instance, a knight in full Plate Armor is extremely difficult to injury with Slash damage. In these circumstances, the most efficient way of defeating a person in heavy armor is grappling them or tripping them and holding them down, just like in real life. Another option is to use an attack with a different Damage Type, such as spraying poison mist at them, to completely circumvent there high Slash defense.
 
 |           Name           |                            Desc                            |  Duration  | Source | Slash | Pierce | Bludgeon |  Hew  | Ballistic | Shockwave | Fire | Electric | Radiant | Acid | Cold | Silver | Poison | Necrotic | Bleed | Suffocation | Psychic | Spiritual |
 | :-----------------------: | :--------------------------------------------------------: | :--------: | :----: | :---: | :----: | :------: | :---: | :-------: | :-------: | :---: | :------: | :-----: | :---: | :--: | :----: | :----: | :------: | :---: | :---------: | :-----: | :-------: |
@@ -683,13 +683,13 @@ If a combat roll has a Physical damage type and a Bodily, Mental, or Spiritual d
 
 ## Penetration
 
-Penetration represents a delt injuries ability to mitigate the opponent's Defense. While dealing an injury, you may reduce your opponent's Totaled Defense by your Combat Roll's Penetration before calculating injury.
+Penetration represents a dealt injuries ability to mitigate the opponent's Defense. While dealing an injury, you may reduce your opponent's Totaled Defense by your Combat Roll's Penetration before calculating injury.
 
 Examples of narratively describing better penetration:
 
 - Firearm vs Firearm loaded with armor piercing bullets.
 - Poison shot vs poison aerosolized spray, making it far more likely to penetrate the bodies natural defenses.
-- Arming Sword swing vs Great Sword swing, which just give you more leverage and mass because if you can't cut through at least you'll cruch what's undreneath.
+- Arming Sword swing vs Great Sword swing, which just give you more leverage and mass because if you can't cut through at least you'll crunch what's underneath.
 
 ## Range
 
