@@ -504,9 +504,11 @@ Gained under very specific conditions when a character has truly drawn the short
 
 Super Advantage/Disadvantage completely overrides Advantage and Disadvantage on any roll.
 
-### Advantages and Disadvantages cancelling out
+### Multiple Advantages and Disadvantages on a roll
 
-If on a roll a character had both Advantage and Disadvantage, the two effects cancel out leaving you with only a normal roll. If a character had two sources giving you Advantage, then you would still only have Advantage. However, if the character had two sources of Advantage and one source of Disadvantage, then one advantage would cancel out with the only disadvantage, leaving you with Advantage.
+For a given roll, one source of Advantage will cancel out with one source of Disadvantage, and vice versa.
+
+If after canceling out Advantage and Disadvantage a character is left with neither Advantage or Disadvantage, then they would roll normally. Else if a character is left with one or multiple sources of Advantage, then they would roll with Advantage. Else if a character is left with one or multiple sources of Disadvantage, then they would roll with Disadvantage.
 
 In the extreme case that a character has Super Advantage and Super Disadvantage, they cancel out the same way Advantage and Disadvantage do.
 
@@ -759,11 +761,11 @@ For a Variable Range, the components of a Range vary with the size of the Skill 
 
 An Area Of Effect describe a 3D space. This is often used for certain attacks such as a grenade explosion that effects an area.
 
-Length is measured in ft. Area is measured in ft^2. Volume is measrued in ft^3. Angles are measured in degrees.
+Length is measured in ft. Area is measured in ft^2. Volume is measured in ft^3. Angles are measured in degrees.
 
-All Area Of Effects will have a point of origin from which the area of effect will eminate from.
+All Area Of Effects will have a point of origin from which the area of effect will emanate from.
 
-An Area Of Effect has a Effective, optional Ineffective, and optional Max component to it. They will all share the same point of origin. The shape that Effective describes will always be smaller than Ineffective, and Ineffective will always be smaller than Max. A good example would be a modern hand grenade, where Effective might represent the inner most "kill radius", Ineffective would represent the middle "casualty radius", and Max would represent the outer most radius where you might get hit by a piece of sharpnel though highly unlikely.
+An Area Of Effect has a Effective, optional Ineffective, and optional Max component to it. They will all share the same point of origin. The shape that Effective describes will always be smaller than Ineffective, and Ineffective will always be smaller than Max. A good example would be a modern hand grenade, where Effective might represent the inner most "kill radius", Ineffective would represent the middle "casualty radius", and Max would represent the outer most radius where you might get hit by a piece of shrapnel though highly unlikely.
 
 When dealing with a character between two of the components, such as on the edge between Effective and Ineffective, it is up to the Narrators discretion to decide if they are more inside one or the other.
 
@@ -824,7 +826,7 @@ Triangle Base/Height: Close Cone
 
 Triangle Base/Height: Medium Cone
 
-Should I have inital length for Ranges?
+Should I have initial length for Ranges?
 
 Cones Calculations can be customized to have larger angles and heights/bases, but must always cover the same area.
 
@@ -832,6 +834,20 @@ Cones Calculations can be customized to have larger angles and heights/bases, bu
 | :---------------------: | :------------: | :-------------: | ----- |
 | Close Cone Calculation |      2.5      |       2.5       | 53.13 |
 | Medium Cone Calculation |      2.5      |        5        | 53.13 |
+
+### Range and Area Of Effects
+
+If an action, such as an attack or spell, has a Range and an Area Of Effect, then the Range describe how far away the point of origin for the Area Of Effect can be. 
+
+Cases will arise when an action is performed with with a combination of Effective/Ineffective/Max Range and Effective/Ineffective/Max Area Of Effect. We can simply use our rules for resolving 
+
+|                  | Effective Area Of Effect | Ineffective Area Of Effect | Max Area Of Effect |
+| :---------------: | :----------------------: | :------------------------: | :----------------: |
+|  Effective Range  |           None           |        Disadvantage        | Super Disadvantage |
+| Ineffective Range |       Disadvantage       |        Disadvantage        | Super Disadvantage |
+|     Max Range     |    Super Disadvantage    |     Super Disadvantage     | Super Disadvantage |
+
+Since both Range and Area Of Effect have Effective, Ineffective, and Max components which can all apply Disadvantage and Super Disadvantage,
 
 ## Uses Per Round
 
