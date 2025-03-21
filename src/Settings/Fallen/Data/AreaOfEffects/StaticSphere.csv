@@ -1,4 +1,4 @@
-"name",effectiveRadiusRangePerDice,ineffectiveRadiusRangePerDiceOption,maxRadiusRangePerDiceOption
+"name",effectiveRadius,ineffectiveRadiusOption,maxRadiusOption
 "5 ft Sphere",5,None,None
 "10 ft Sphere",10,None,None
 "15 ft Sphere",15,None,None
