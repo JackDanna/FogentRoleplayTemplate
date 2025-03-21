@@ -761,17 +761,15 @@ Length is measured in ft. Area is measured in ft^2. Volume is measrued in ft^3. 
 
 All Area Of Effects will have a point of origin from which the area of effect will eminate from.
 
-An Area Of Effect has a Effective, Ineffective, and Max component to it. They will all share the same point of origin. Effective should always describe the smallest shape, with Ineffective being larger than Effective, and Max being larger than Ineffective. A good example would be a modern hand grenade, where Effective might represent the inner most "kill radius", Ineffective would represent the middle "casualty radius", and Max would represent the outer most radius where you might get hit by a piece of sharpnel though highly unlikely.
+An Area Of Effect has a Effective, Ineffective, and Max component to it. They will all share the same point of origin. The shape that Effective describes will always be smaller than Ineffective, and Ineffective will always be smaller than Max. A good example would be a modern hand grenade, where Effective might represent the inner most "kill radius", Ineffective would represent the middle "casualty radius", and Max would represent the outer most radius where you might get hit by a piece of sharpnel though highly unlikely.
 
 When dealing with a character between two of the components, such as on the edge between Effective and Ineffective, it is up to the Narrators discretion to decide if they are more inside one or the other.
 
-**Effective AOE:** Within the Effective component of an Area of Effect, dice pool rolls are unchanged.
+**Effective Area Of Effect:** Within the Effective component of an Area of Effect, dice pool rolls are unchanged.
 
-**Ineffective Range:** Within the Ineffective component of an Area Of Effect, but excluding the Effective component, the dice pool roll creating this AOE gains Disadvantage.
+**Ineffective Area Of Effect:** Within the Ineffective component of an Area Of Effect, but excluding the Effective component, the dice pool roll creating this AOE gains Disadvantage.
 
-**Max Range:** Within the Max component of an Area Of Effect, but excluding the ineffective component, the dice pool roll creating this AOE gains Super Disadvantage.
-
-If an Area Of Effect only partially covers a character on a battle map, than it is up to the Narrators discretion to decide if the roll made against the character has Disadvantage.
+**Max Area Of Effect:** Within the Max component of an Area Of Effect, but excluding the ineffective component, the dice pool roll creating this AOE gains Super Disadvantage.
 
 ### Static Area Of Effects
 
