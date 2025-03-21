@@ -757,6 +757,8 @@ For a Variable Range, the components of a Range vary with the size of the Skill 
 
 An Area Of Effect describe a 3D space. This is often used for certain attacks such as a grenade explosion that effects an area.
 
+If an Area Of Effect only partially covers a character on a battle map, than it is up to the Narrators discretion to decide if the roll made against the character has Disadvantage.
+
 Length is measured in ft. Area is measured in ft^2. Volume is measrued in ft^3. Angles are measured in degrees.
 
 ### Static Area Of Effects
@@ -794,73 +796,28 @@ If a cone has an angle of 53.13, than the cone's width is equal to its length at
 | 55 ft Cone |   55   | 53.13 |
 | 60 ft Cone |   60   | 53.13 |
 
-### Area Of Effect Calculations
+### Variable Area Of Effect
 
-Area Of Effect Calculations scale with the size of the Skill Dice Pool they are associated with. This could be used for magic users, with the size of their area of effects scaling with their proficiency with their magic.
+A Variable Area Of Effect scales with the size of the Skill Dice Pool they are associated with. This could be used for magic users, with the size of their area of effects scaling with their proficiency with their magic.
 
-#### Close Cone Calculation
+#### Variable Sphere
+
+| Name                      | Initial Radius | Radius Per Dice |
+| ------------------------- | :------------: | :-------------: |
+| Medium Sphere Calculation |      2.5      |       2.5       |
+
+#### Variable Cone
 
 Triangle Base/Height: Close Cone
-
-Cones Calculations can be customized to have larger angles and heights/bases, but must always cover the same area.
-
-| Skill Dice Pool Size | Triangle Base/Height (ft) | Cone Angle (degrees) | Triangle Area (ft^2) |
-| :------------------: | :-------------------------: | :-------------------: | :-------------------: |
-|        1 dice        |              5              |          ~53          |         12.5         |
-|        2 dice        |              5              |          ~53          |         12.5         |
-|        3 dice        |             10             |          ~53          |          50          |
-|        4 dice        |             10             |          ~53          |          50          |
-|        5 dice        |             15             |          ~53          |         112.5         |
-|        6 dice        |             15             |          ~53          |         112.5         |
-|        7 dice        |             20             |          ~53          |          200          |
-|        8 dice        |             20             |          ~53          |          200          |
-|        9 dice        |             25             |          ~53          |         312.5         |
-|       10 dice       |             25             |          ~53          |         312.5         |
-|       11 dice       |             30             |          ~53          |          450          |
-|       12 dice       |             30             |          ~53          |          450          |
-|         ...         |                            |                      |                      |
-
-#### Medium Cone Calculation
 
 Triangle Base/Height: Medium Cone
 
 Cones Calculations can be customized to have larger angles and heights/bases, but must always cover the same area.
 
-| Skill Dice Pool Size | Triangle Base/Height (ft) | Cone Angle (degrees) | Triangle Area (ft^2) |
-| :------------------: | :-------------------------: | :------------------: | :-------------------: |
-|        1 dice        |              5              |         ~53         |         12.5         |
-|        2 dice        |             10             |         ~53         |          50          |
-|        3 dice        |             15             |         ~53         |         112.5         |
-|        4 dice        |             20             |         ~53         |          200          |
-|        5 dice        |             25             |         ~53         |         312.5         |
-|        6 dice        |             30             |         ~53         |          450          |
-|        7 dice        |             35             |         ~53         |         612.5         |
-|        8 dice        |             40             |         ~53         |          800          |
-|        9 dice        |             45             |         ~53         |        1012.5        |
-|       10 dice       |             50             |         ~53         |         1250         |
-|       11 dice       |             55             |         ~53         |        1512.5        |
-|       12 dice       |             60             |         ~53         |         1800         |
-|         ...         |                            |                      |                      |
-
-#### Medium Sphere Calculation
-
-Sphere Radius (ft): 2.5 + (Skill Dice Pool Size) * 2.5, rounded down to the nearest multiple of 5
-
-| Skill Dice Pool Size | Radius (ft) |
-| :------------------: | :---------: |
-|        1 dice        |      5      |
-|        2 dice        |      5      |
-|        3 dice        |     10     |
-|        4 dice        |     10     |
-|        5 dice        |     15     |
-|        6 dice        |     15     |
-|        7 dice        |     20     |
-|        8 dice        |     20     |
-|        9 dice        |     25     |
-|       10 dice       |     25     |
-|       11 dice       |     30     |
-|       12 dice       |     30     |
-|         ...         |            |
+|          Name          | Initial Length | Length Per Dice | Angle |
+| :---------------------: | :------------: | :-------------: | ----- |
+| Close Cone Calculation |      2.5      |       2.5       | 53.13 |
+| Medium Cone Calculation |      2.5      |        5        | 53.13 |
 
 ## Uses Per Round
 
