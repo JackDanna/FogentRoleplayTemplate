@@ -763,25 +763,23 @@ An Area Of Effect describe a 3D space. This is often used for certain attacks su
 
 Length is measured in ft. Area is measured in ft^2. Volume is measured in ft^3. Angles are measured in degrees.
 
-All Area Of Effects will have a point of origin from which the area of effect will emanate from. Sphere's point of origin will be at there center. Cone point of origin will be the narrowest point of the cone, from which it wil eminate out.
+All Area Of Effects will have a point of origin from which the area of effect will emanate from. A Sphere's point of origin will be at there center. A Cone point of origin will be the narrowest point of the cone, from which it will emanate out from.
 
-An Area Of Effect has a Effective, optional Ineffective, and optional Max component to it. They will all share the same point of origin. The shape that Effective describes will always be smaller than Ineffective, and Ineffective will always be smaller than Max. A good example would be a modern hand grenade, where Effective might represent the inner most "kill radius", Ineffective would represent the middle "casualty radius", and Max would represent the outer most radius where you might get hit by a piece of shrapnel though highly unlikely.
+An Area Of Effect has a Effective, optional Ineffective, and optional Max component to it. They will all share the same point of origin. The shape that the Effective component describes will always be smaller than the Ineffective component, and the Ineffective component will always be smaller than the Max component. A good example would be a modern hand grenade, where the Effective component might represent the inner most "kill radius", the Ineffective component would represent the middle "casualty radius", and the Max component would represent the outer most radius where you might get hit by a piece of shrapnel though highly unlikely.
 
 When dealing with a character between two of the components, such as on the edge between Effective and Ineffective, it is up to the Narrators discretion to decide if they are more inside one or the other.
 
 **Effective Area Of Effect:** Within the Effective component of an Area of Effect, dice pool rolls are unchanged.
 
-**Ineffective Area Of Effect:** Within the Ineffective component of an Area Of Effect, but excluding the Effective component, the dice pool roll creating this AOE gains Disadvantage.
+**Ineffective Area Of Effect:** Within the Ineffective component of an Area Of Effect, but excluding the Effective component, the dice pool roll creating this Area Of Effect gains Disadvantage.
 
-**Max Area Of Effect:** Within the Max component of an Area Of Effect, but excluding the ineffective component, the dice pool roll creating this AOE gains Super Disadvantage.
+**Max Area Of Effect:** Within the Max component of an Area Of Effect, but excluding the Ineffective component, the dice pool roll creating this Area Of Effect gains Super Disadvantage.
 
-### Static Area Of Effects
+### Static Area Of Effect
 
-Area of effects that have a static area.
+Area of Effects that have a static area.
 
 #### Static Sphere
-
-Describe a sphere with a specified radius.
 
 |     Name     | Effective Radius | Ineffective Radius Option | Max Radius Option |
 | :----------: | :--------------: | :-----------------------: | :---------------: |
@@ -822,6 +820,8 @@ A Variable Area Of Effect scales with the size of the Skill Dice Pool they are a
 
 #### Variable Cone
 
+If a cone has an angle of 53.13, than the cone's width is equal to its length at any given point. which means that the cone's area of effect is specified by its maximum length. For example, a cone spell with a range of 15 ft will extend up to 15 ft away from the point of origin, and at any point, its width matches its length.
+
 |          Name          | Angle | Initial Length | Effective Length Per Dice | Ineffective Length Per Dice Option | Max Length Per Dice Option |
 | :---------------------: | :---: | :------------: | :-----------------------: | :--------------------------------: | :------------------------: |
 | Close Cone Calculation | 53.13 |      2.5      |            2.5            |                None                |            None            |
@@ -829,7 +829,7 @@ A Variable Area Of Effect scales with the size of the Skill Dice Pool they are a
 
 ### Range and Area Of Effects
 
-If an action, such as an attack or spell, has a Range and an Area Of Effect, then the Range describe how far away the point of origin for the Area Of Effect can be.
+If an action, such as an attack or spell, has a Range and an Area Of Effect, then the Range describe how far away the point of origin can be for the Area Of Effect.
 
 Cases will arise when an action is performed with a combination of Effective/Ineffective/Max Range and Effective/Ineffective/Max Area Of Effect. We can simply use our rules for resolving multiple Advantages and Disadvantages for handling these cases. The below table shows what the result of these would be.
 
