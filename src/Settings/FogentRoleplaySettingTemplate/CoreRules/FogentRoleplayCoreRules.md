@@ -783,32 +783,32 @@ Area of effects that have a static area.
 
 Describe a sphere with a specified radius.
 
-|     name     | Effective Radius Range Per Dice | Ineffective Radius Range Per Dice Option | Max Radius Range Per Dice Option |
-| :----------: | :-----------------------------: | :--------------------------------------: | :------------------------------: |
-| 5 ft Sphere |                5                |                   None                   |               None               |
-| 10 ft Sphere |               10               |                   None                   |               None               |
-| 15 ft Sphere |               15               |                   None                   |               None               |
-| 20 ft Sphere |               20               |                   None                   |               None               |
-| 25 ft Sphere |               25               |                   None                   |               None               |
-| 30 ft Sphere |               30               |                   None                   |               None               |
+|     Name     | Effective Radius | Ineffective Radius Option | Max Radius Option |
+| :----------: | :--------------: | :-----------------------: | :---------------: |
+| 5 ft Sphere |        5        |           None           |       None       |
+| 10 ft Sphere |        10        |           None           |       None       |
+| 15 ft Sphere |        15        |           None           |       None       |
+| 20 ft Sphere |        20        |           None           |       None       |
+| 25 ft Sphere |        25        |           None           |       None       |
+| 30 ft Sphere |        30        |           None           |       None       |
 
 #### Static Cone
 
 If a cone has an angle of 53.13, than the cone's width is equal to its length at any given point. which means that the cone's area of effect is specified by its maximum length. For example, a cone spell with a range of 15 ft will extend up to 15 ft away from the point of origin, and at any point, its width matches its length.
 
-|    Name    | Length | Angle |
-| :--------: | :----: | :---: |
-| 10 ft Cone |   10   | 53.13 |
-| 15 ft Cone |   15   | 53.13 |
-| 20 ft Cone |   20   | 53.13 |
-| 25 ft Cone |   25   | 53.13 |
-| 30 ft Cone |   30   | 53.13 |
-| 35 ft Cone |   35   | 53.13 |
-| 40 ft Cone |   40   | 53.13 |
-| 45 ft Cone |   45   | 53.13 |
-| 50 ft Cone |   50   | 53.13 |
-| 55 ft Cone |   55   | 53.13 |
-| 60 ft Cone |   60   | 53.13 |
+|    Name    | Angle | Effective Length | Ineffective Length Option | Max Length Option |
+| :--------: | :---: | :--------------: | :-----------------------: | :---------------: |
+| 10 ft Cone | 53.13 |        10        |           None           |       None       |
+| 15 ft Cone | 53.13 |        15        |           None           |       None       |
+| 20 ft Cone | 53.13 |        20        |           None           |       None       |
+| 25 ft Cone | 53.13 |        25        |           None           |       None       |
+| 30 ft Cone | 53.13 |        30        |           None           |       None       |
+| 35 ft Cone | 53.13 |        35        |           None           |       None       |
+| 40 ft Cone | 53.13 |        40        |           None           |       None       |
+| 45 ft Cone | 53.13 |        45        |           None           |       None       |
+| 50 ft Cone | 53.13 |        50        |           None           |       None       |
+| 55 ft Cone | 53.13 |        55        |           None           |       None       |
+| 60 ft Cone | 53.13 |        60        |           None           |       None       |
 
 ### Variable Area Of Effect
 
