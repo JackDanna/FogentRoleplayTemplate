@@ -695,7 +695,7 @@ Examples of narratively describing better penetration:
 
 A Range determines the distance at which some action can be performed.
 
-A Range has a Effective, Ineffective, and Max component to it.
+A Range has an Effective, optional Ineffective, and optional Max component to it.
 
 The Effective, Ineffective, and Max components of a Range are usually represented on a character sheet in the "Effective/Ineffective/Max" format. For example, "100/200/300" translates to an Effective Range of 100 ft, an Ineffective Range of 200 ft, and a Max Range of 300 ft. If a Range doesn't have a Ineffective or Max component, you would simply write "None", such as "100/None/None"
 
@@ -761,7 +761,7 @@ Length is measured in ft. Area is measured in ft^2. Volume is measrued in ft^3. 
 
 All Area Of Effects will have a point of origin from which the area of effect will eminate from.
 
-An Area Of Effect has a Effective, Ineffective, and Max component to it. They will all share the same point of origin. The shape that Effective describes will always be smaller than Ineffective, and Ineffective will always be smaller than Max. A good example would be a modern hand grenade, where Effective might represent the inner most "kill radius", Ineffective would represent the middle "casualty radius", and Max would represent the outer most radius where you might get hit by a piece of sharpnel though highly unlikely.
+An Area Of Effect has a Effective, optional Ineffective, and optional Max component to it. They will all share the same point of origin. The shape that Effective describes will always be smaller than Ineffective, and Ineffective will always be smaller than Max. A good example would be a modern hand grenade, where Effective might represent the inner most "kill radius", Ineffective would represent the middle "casualty radius", and Max would represent the outer most radius where you might get hit by a piece of sharpnel though highly unlikely.
 
 When dealing with a character between two of the components, such as on the edge between Effective and Ineffective, it is up to the Narrators discretion to decide if they are more inside one or the other.
 
