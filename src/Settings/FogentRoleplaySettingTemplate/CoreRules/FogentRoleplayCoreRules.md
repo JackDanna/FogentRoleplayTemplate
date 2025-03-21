@@ -816,24 +816,16 @@ A Variable Area Of Effect scales with the size of the Skill Dice Pool they are a
 
 #### Variable Sphere
 
-| Name                      | Initial Radius | Radius Per Dice |
-| ------------------------- | :------------: | :-------------: |
-| Medium Sphere Calculation |      2.5      |       2.5       |
+|           Name           | Initial Radius | Effective Radius Per Dice | Ineffective Radius Per Dice Option | Max Radius Per Dice Option |
+| :-----------------------: | :------------: | :-----------------------: | :--------------------------------: | :------------------------: |
+| Medium Sphere Calculation |      2.5      |            2.5            |                None                |            None            |
 
 #### Variable Cone
 
-Triangle Base/Height: Close Cone
-
-Triangle Base/Height: Medium Cone
-
-Should I have initial length for Ranges?
-
-Cones Calculations can be customized to have larger angles and heights/bases, but must always cover the same area.
-
-|          Name          | Initial Length | Length Per Dice | Angle |
-| :---------------------: | :------------: | :-------------: | ----- |
-| Close Cone Calculation |      2.5      |       2.5       | 53.13 |
-| Medium Cone Calculation |      2.5      |        5        | 53.13 |
+|          Name          | Angle | Initial Length | Effective Length Per Dice | Ineffective Length Per Dice Option | Max Length Per Dice Option |
+| :---------------------: | :---: | :------------: | :-----------------------: | :--------------------------------: | :------------------------: |
+| Close Cone Calculation | 53.13 |      2.5      |            2.5            |                None                |            None            |
+| Medium Cone Calculation | 53.13 |      2.5      |             5             |                None                |            None            |
 
 ### Range and Area Of Effects
 
