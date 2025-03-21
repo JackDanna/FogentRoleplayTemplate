@@ -504,9 +504,11 @@ Gained under very specific conditions when a character has truly drawn the short
 
 Super Advantage/Disadvantage completely overrides Advantage and Disadvantage on any roll.
 
-### Advantages and Disadvantages cancelling out
+### Multiple Advantages and Disadvantages on a roll
 
-If on a roll a character had both Advantage and Disadvantage, the two effects cancel out leaving you with only a normal roll. If a character had two sources giving you Advantage, then you would still only have Advantage. However, if the character had two sources of Advantage and one source of Disadvantage, then one advantage would cancel out with the only disadvantage, leaving you with Advantage.
+For a given roll, one source of Advantage will cancel out with one source of Disadvantage, and vice versa.
+
+If after canceling out Advantage and Disadvantage a character is left with neither Advantage or Disadvantage, then they would roll normally. Else if a character is left with one or multiple sources of Advantage, then they would roll with Advantage. Else if a character is left with one or multiple sources of Disadvantage, then they would roll with Disadvantage.
 
 In the extreme case that a character has Super Advantage and Super Disadvantage, they cancel out the same way Advantage and Disadvantage do.
 
@@ -695,7 +697,9 @@ Examples of narratively describing better penetration:
 
 A Range determines the distance at which some action can be performed.
 
-A Range has a Effective, Ineffective, and Max component to it.
+Length is measured in ft.
+
+A Range has an Effective, optional Ineffective, and optional Max component to it.
 
 The Effective, Ineffective, and Max components of a Range are usually represented on a character sheet in the "Effective/Ineffective/Max" format. For example, "100/200/300" translates to an Effective Range of 100 ft, an Ineffective Range of 200 ft, and a Max Range of 300 ft. If a Range doesn't have a Ineffective or Max component, you would simply write "None", such as "100/None/None"
 
@@ -705,7 +709,7 @@ When using a Range on a battlemap, if any of the components of the Range have a 
 
 **Ineffective Range:** Greater than the Effective component of a Range but less than or equal to the Ineffective component of a Range, dice pool rolls gain Disadvantage.
 
-**Max Range:** Greater than the Ineffective component of a Range but less than or equal to the Max component of a Range, dice pool rolls gain Disadvantage.
+**Max Range:** Greater than the Ineffective component of a Range but less than or equal to the Max component of a Range, dice pool rolls gain Super Disadvantage.
 
 ### Static Range
 
@@ -755,103 +759,87 @@ For a Variable Range, the components of a Range vary with the size of the Skill 
 
 ## Area Of Effect
 
-Certain attacks, spells, etc. effect an area, such as a grenade explosion.
+An Area Of Effect describe a 3D space. This is often used for certain attacks such as a grenade explosion that effects an area.
 
-### Set Area Of Effects
+Length is measured in ft. Area is measured in ft^2. Volume is measured in ft^3. Angles are measured in degrees.
 
-Area of effects that have a set area.
+All Area Of Effects will have a point of origin from which the area of effect will emanate from. A Sphere's point of origin will be at there center. A Cone point of origin will be the narrowest point of the cone, from which it will emanate out from.
 
-#### Sphere
+An Area Of Effect has a Effective, optional Ineffective, and optional Max component to it. They will all share the same point of origin. The shape that the Effective component describes will always be smaller than the Ineffective component, and the Ineffective component will always be smaller than the Max component. A good example would be a modern hand grenade, where the Effective component might represent the inner most "kill radius", the Ineffective component would represent the middle "casualty radius", and the Max component would represent the outer most radius where you might get hit by a piece of shrapnel though highly unlikely.
 
-|     Name     | Radius (ft) |
-| :-----------: | :---------: |
-| 30 ft Sphere |     30     |
+When dealing with a character between two of the components, such as on the edge between Effective and Ineffective, it is up to the Narrators discretion to decide if they are more inside one or the other.
 
-#### Cone
+**Effective Area Of Effect:** Within the Effective component of an Area of Effect, dice pool rolls are unchanged.
 
-A cone's width at any point down its length is equal to that point's distance from the point of origin. Since the cross-section of the cone is an isosceles triangle, which is easier to work with on a battle map, it is referenced in the table below.
+**Ineffective Area Of Effect:** Within the Ineffective component of an Area Of Effect, but excluding the Effective component, the dice pool roll creating this Area Of Effect gains Disadvantage.
 
-|    Name    | Triangle Base/Height (ft) | Cone Angle (degrees) | Triangle Area (ft^2) |
-| :--------: | :-------------------------: | :-------------------: | :-------------------: |
-| 10 ft Cone |             10             |          ~53          |          50          |
-| 15 ft Cone |             15             |          ~53          |         112.5         |
-| 20 ft Cone |             20             |          ~53          |          200          |
-| 25 ft Cone |             25             |          ~53          |         312.5         |
-| 30 ft Cone |             30             |          ~53          |          450          |
-| 35 ft Cone |             35             |          ~53          |         612.5         |
-| 40 ft Cone |             40             |          ~53          |          800          |
-| 45 ft Cone |             45             |          ~53          |        1012.5        |
-| 50 ft Cone |             50             |          ~53          |         1250         |
-| 55 ft Cone |             55             |          ~53          |        1512.5        |
-| 60 ft Cone |             60             |          ~53          |         1800         |
+**Max Area Of Effect:** Within the Max component of an Area Of Effect, but excluding the Ineffective component, the dice pool roll creating this Area Of Effect gains Super Disadvantage.
 
-### Area Of Effect Calculations
+### Static Area Of Effect
 
-Area Of Effect Calculations scale with the size of the Skill Dice Pool they are associated with. This could be used for magic users, with the size of their area of effects scaling with their proficiency with their magic.
+Area of Effects that have a static area.
 
-#### Close Cone Calculation
+#### Static Sphere
 
-Triangle Base/Height: Close Cone
+|     Name     | Effective Radius | Ineffective Radius Option | Max Radius Option |
+| :----------: | :--------------: | :-----------------------: | :---------------: |
+| 5 ft Sphere |        5        |           None           |       None       |
+| 10 ft Sphere |        10        |           None           |       None       |
+| 15 ft Sphere |        15        |           None           |       None       |
+| 20 ft Sphere |        20        |           None           |       None       |
+| 25 ft Sphere |        25        |           None           |       None       |
+| 30 ft Sphere |        30        |           None           |       None       |
 
-Cones Calculations can be customized to have larger angles and heights/bases, but must always cover the same area.
+#### Static Cone
 
-| Skill Dice Pool Size | Triangle Base/Height (ft) | Cone Angle (degrees) | Triangle Area (ft^2) |
-| :------------------: | :-------------------------: | :-------------------: | :-------------------: |
-|        1 dice        |              5              |          ~53          |         12.5         |
-|        2 dice        |              5              |          ~53          |         12.5         |
-|        3 dice        |             10             |          ~53          |          50          |
-|        4 dice        |             10             |          ~53          |          50          |
-|        5 dice        |             15             |          ~53          |         112.5         |
-|        6 dice        |             15             |          ~53          |         112.5         |
-|        7 dice        |             20             |          ~53          |          200          |
-|        8 dice        |             20             |          ~53          |          200          |
-|        9 dice        |             25             |          ~53          |         312.5         |
-|       10 dice       |             25             |          ~53          |         312.5         |
-|       11 dice       |             30             |          ~53          |          450          |
-|       12 dice       |             30             |          ~53          |          450          |
-|         ...         |                            |                      |                      |
+If a cone has an angle of 53.13, than the cone's width is equal to its length at any given point. which means that the cone's area of effect is specified by its maximum length. For example, a cone spell with a range of 15 ft will extend up to 15 ft away from the point of origin, and at any point, its width matches its length.
 
-#### Medium Cone Calculation
+|    Name    | Angle | Effective Length | Ineffective Length Option | Max Length Option |
+| :--------: | :---: | :--------------: | :-----------------------: | :---------------: |
+| 10 ft Cone | 53.13 |        10        |           None           |       None       |
+| 15 ft Cone | 53.13 |        15        |           None           |       None       |
+| 20 ft Cone | 53.13 |        20        |           None           |       None       |
+| 25 ft Cone | 53.13 |        25        |           None           |       None       |
+| 30 ft Cone | 53.13 |        30        |           None           |       None       |
+| 35 ft Cone | 53.13 |        35        |           None           |       None       |
+| 40 ft Cone | 53.13 |        40        |           None           |       None       |
+| 45 ft Cone | 53.13 |        45        |           None           |       None       |
+| 50 ft Cone | 53.13 |        50        |           None           |       None       |
+| 55 ft Cone | 53.13 |        55        |           None           |       None       |
+| 60 ft Cone | 53.13 |        60        |           None           |       None       |
 
-Triangle Base/Height: Medium Cone
+### Variable Area Of Effect
 
-Cones Calculations can be customized to have larger angles and heights/bases, but must always cover the same area.
+A Variable Area Of Effect scales with the size of the Skill Dice Pool they are associated with. This could be used for magic users, with the size of their area of effects scaling with their proficiency with their magic.
 
-| Skill Dice Pool Size | Triangle Base/Height (ft) | Cone Angle (degrees) | Triangle Area (ft^2) |
-| :------------------: | :-------------------------: | :------------------: | :-------------------: |
-|        1 dice        |              5              |         ~53         |         12.5         |
-|        2 dice        |             10             |         ~53         |          50          |
-|        3 dice        |             15             |         ~53         |         112.5         |
-|        4 dice        |             20             |         ~53         |          200          |
-|        5 dice        |             25             |         ~53         |         312.5         |
-|        6 dice        |             30             |         ~53         |          450          |
-|        7 dice        |             35             |         ~53         |         612.5         |
-|        8 dice        |             40             |         ~53         |          800          |
-|        9 dice        |             45             |         ~53         |        1012.5        |
-|       10 dice       |             50             |         ~53         |         1250         |
-|       11 dice       |             55             |         ~53         |        1512.5        |
-|       12 dice       |             60             |         ~53         |         1800         |
-|         ...         |                            |                      |                      |
+#### Variable Sphere
 
-#### Medium Sphere Calculation
+|           Name           | Initial Radius | Effective Radius Per Dice | Ineffective Radius Per Dice Option | Max Radius Per Dice Option |
+| :-----------------------: | :------------: | :-----------------------: | :--------------------------------: | :------------------------: |
+| Medium Sphere Calculation |      2.5      |            2.5            |                None                |            None            |
 
-Sphere Radius (ft): 2.5 + (Skill Dice Pool Size) * 2.5, rounded down to the nearest multiple of 5
+#### Variable Cone
 
-| Skill Dice Pool Size | Radius (ft) |
-| :------------------: | :---------: |
-|        1 dice        |      5      |
-|        2 dice        |      5      |
-|        3 dice        |     10     |
-|        4 dice        |     10     |
-|        5 dice        |     15     |
-|        6 dice        |     15     |
-|        7 dice        |     20     |
-|        8 dice        |     20     |
-|        9 dice        |     25     |
-|       10 dice       |     25     |
-|       11 dice       |     30     |
-|       12 dice       |     30     |
-|         ...         |            |
+If a cone has an angle of 53.13, than the cone's width is equal to its length at any given point. which means that the cone's area of effect is specified by its maximum length. For example, a cone spell with a range of 15 ft will extend up to 15 ft away from the point of origin, and at any point, its width matches its length.
+
+|          Name          | Angle | Initial Length | Effective Length Per Dice | Ineffective Length Per Dice Option | Max Length Per Dice Option |
+| :---------------------: | :---: | :------------: | :-----------------------: | :--------------------------------: | :------------------------: |
+| Close Cone Calculation | 53.13 |      2.5      |            2.5            |                None                |            None            |
+| Medium Cone Calculation | 53.13 |      2.5      |             5             |                None                |            None            |
+
+### Range and Area Of Effects
+
+If an action, such as an attack or spell, has a Range and an Area Of Effect, then the Range describe how far away the point of origin can be for the Area Of Effect.
+
+Cases will arise when an action is performed with a combination of Effective/Ineffective/Max Range and Effective/Ineffective/Max Area Of Effect. We can simply use our rules for resolving multiple Advantages and Disadvantages for handling these cases. The below table shows what the result of these would be.
+
+**Example:**
+
+|                  | Effective Area Of Effect |               Ineffective Area Of Effect               |                        Max Area Of Effect                        |
+| :---------------: | :----------------------: | :-----------------------------------------------------: | :--------------------------------------------------------------: |
+|  Effective Range  |       Normal Roll       |                      Disadvantage                      |                        Super Disadvantage                        |
+| Ineffective Range |       Disadvantage       |            2 x Disadvantage => Disadvantage            | Disadvantage + Super DisSuper Disadvantage => Super Disadvantage |
+|     Max Range     |    Super Disadvantage    | Super Disadvantage + Disadvantage => Super Disadvantage |           2 x Super Disadvantage => Super Disadvantage           |
 
 ## Uses Per Round
 
