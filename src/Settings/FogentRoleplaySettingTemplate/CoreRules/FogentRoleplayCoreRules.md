@@ -837,17 +837,17 @@ Cones Calculations can be customized to have larger angles and heights/bases, bu
 
 ### Range and Area Of Effects
 
-If an action, such as an attack or spell, has a Range and an Area Of Effect, then the Range describe how far away the point of origin for the Area Of Effect can be. 
+If an action, such as an attack or spell, has a Range and an Area Of Effect, then the Range describe how far away the point of origin for the Area Of Effect can be.
 
-Cases will arise when an action is performed with with a combination of Effective/Ineffective/Max Range and Effective/Ineffective/Max Area Of Effect. We can simply use our rules for resolving 
+Cases will arise when an action is performed with a combination of Effective/Ineffective/Max Range and Effective/Ineffective/Max Area Of Effect. We can simply use our rules for resolving multiple Advantages and Disadvantages for handling these cases. The below table shows what the result of these would be.
 
-|                  | Effective Area Of Effect | Ineffective Area Of Effect | Max Area Of Effect |
-| :---------------: | :----------------------: | :------------------------: | :----------------: |
-|  Effective Range  |           None           |        Disadvantage        | Super Disadvantage |
-| Ineffective Range |       Disadvantage       |        Disadvantage        | Super Disadvantage |
-|     Max Range     |    Super Disadvantage    |     Super Disadvantage     | Super Disadvantage |
+**Example:**
 
-Since both Range and Area Of Effect have Effective, Ineffective, and Max components which can all apply Disadvantage and Super Disadvantage,
+|                  | Effective Area Of Effect |               Ineffective Area Of Effect               |                       Max Area Of Effect                       |
+| :---------------: | :----------------------: | :----------------------------------------------------: | :-------------------------------------------------------------: |
+|  Effective Range  |       Normal Roll       |                      Disadvantage                      |                       Super Disadvantage                       |
+| Ineffective Range |       Disadvantage       |            2 x Disadvantage = Disadvantage            | Disadvantage + Super DisSuper Disadvantage = Super Disadvantage |
+|     Max Range     |    Super Disadvantage    | Super Disadvantage + Disadvantage = Super Disadvantage |           2 x Super Disadvantage = Super Disadvantage           |
 
 ## Uses Per Round
 
