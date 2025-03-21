@@ -773,8 +773,6 @@ When dealing with a character between two of the components, such as on the edge
 
 **Max Area Of Effect:** Within the Max component of an Area Of Effect, but excluding the ineffective component, the dice pool roll creating this AOE gains Super Disadvantage.
 
-If an Area Of Effect only partially covers a character on a battle map, than it is up to the Narrators discretion to decide if the roll made against the character has Disadvantage.
-
 ### Static Area Of Effects
 
 Area of effects that have a static area.
