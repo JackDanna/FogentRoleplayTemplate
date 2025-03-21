@@ -763,7 +763,7 @@ An Area Of Effect describe a 3D space. This is often used for certain attacks su
 
 Length is measured in ft. Area is measured in ft^2. Volume is measured in ft^3. Angles are measured in degrees.
 
-All Area Of Effects will have a point of origin from which the area of effect will emanate from. A Sphere's point of origin will be at there center. A Cone point of origin will be the narrowest point of the cone, from which it will emanate out from.
+All Area Of Effects will have a point of origin from which the area of effect will emanate from.
 
 An Area Of Effect has a Effective, optional Ineffective, and optional Max component to it. They will all share the same point of origin. The shape that the Effective component describes will always be smaller than the Ineffective component, and the Ineffective component will always be smaller than the Max component. A good example would be a modern hand grenade, where the Effective component might represent the inner most "kill radius", the Ineffective component would represent the middle "casualty radius", and the Max component would represent the outer most radius where you might get hit by a piece of shrapnel though highly unlikely.
 
@@ -775,57 +775,45 @@ When dealing with a character between two of the components, such as on the edge
 
 **Max Area Of Effect:** Within the Max component of an Area Of Effect, but excluding the Ineffective component, the dice pool roll creating this Area Of Effect gains Super Disadvantage.
 
-### Static Area Of Effect
+Area Of Effects with "... Per Dice" parts of there components scales with the size of the Skill Dice Pool they are associated with. This could be used for magic users, with the size of their area of effects scaling with their proficiency with their magic.
 
-Area of Effects that have a static area.
+Effective/Ineffective/Max Component of Area Of Effect = (Effective/Ineffective/Max Radius/Length) + ( (Number of skill dice) * (Effective/Ineffective/Max Per Dice) )
 
-#### Static Sphere
+### Sphere
 
-|     Name     | Effective Radius | Ineffective Radius Option | Max Radius Option |
-| :----------: | :--------------: | :-----------------------: | :---------------: |
-| 5 ft Sphere |        5        |           None           |       None       |
-| 10 ft Sphere |        10        |           None           |       None       |
-| 15 ft Sphere |        15        |           None           |       None       |
-| 20 ft Sphere |        20        |           None           |       None       |
-| 25 ft Sphere |        25        |           None           |       None       |
-| 30 ft Sphere |        30        |           None           |       None       |
+Point of Origin: A Sphere's point of origin will be at there center.
 
-#### Static Cone
+|           Name           | Effective Radius | Effective Radius Per Dice | Ineffective Radius Option | Ineffective Radius Per Dice Option | Max Radius Option | Max Radius Per Dice Option |
+| :-----------------------: | :--------------: | :-----------------------: | :-----------------------: | :--------------------------------: | :---------------: | :------------------------: |
+|        5 ft Sphere        |        5        |             0             |           None           |                None                |       None       |            None            |
+|       10 ft Sphere       |        10        |             0             |           None           |                None                |       None       |            None            |
+|       15 ft Sphere       |        15        |             0             |           None           |                None                |       None       |            None            |
+|       20 ft Sphere       |        20        |             0             |           None           |                None                |       None       |            None            |
+|       25 ft Sphere       |        25        |             0             |           None           |                None                |       None       |            None            |
+|       30 ft Sphere       |        30        |             0             |           None           |                None                |       None       |            None            |
+| Medium Sphere Calculation |       2.5       |            2.5            |           None           |                None                |       None       |            None            |
 
-If a cone has an angle of 53.13, than the cone's width is equal to its length at any given point. which means that the cone's area of effect is specified by its maximum length. For example, a cone spell with a range of 15 ft will extend up to 15 ft away from the point of origin, and at any point, its width matches its length.
+### Cone
 
-|    Name    | Angle | Effective Length | Ineffective Length Option | Max Length Option |
-| :--------: | :---: | :--------------: | :-----------------------: | :---------------: |
-| 10 ft Cone | 53.13 |        10        |           None           |       None       |
-| 15 ft Cone | 53.13 |        15        |           None           |       None       |
-| 20 ft Cone | 53.13 |        20        |           None           |       None       |
-| 25 ft Cone | 53.13 |        25        |           None           |       None       |
-| 30 ft Cone | 53.13 |        30        |           None           |       None       |
-| 35 ft Cone | 53.13 |        35        |           None           |       None       |
-| 40 ft Cone | 53.13 |        40        |           None           |       None       |
-| 45 ft Cone | 53.13 |        45        |           None           |       None       |
-| 50 ft Cone | 53.13 |        50        |           None           |       None       |
-| 55 ft Cone | 53.13 |        55        |           None           |       None       |
-| 60 ft Cone | 53.13 |        60        |           None           |       None       |
-
-### Variable Area Of Effect
-
-A Variable Area Of Effect scales with the size of the Skill Dice Pool they are associated with. This could be used for magic users, with the size of their area of effects scaling with their proficiency with their magic.
-
-#### Variable Sphere
-
-|           Name           | Initial Radius | Effective Radius Per Dice | Ineffective Radius Per Dice Option | Max Radius Per Dice Option |
-| :-----------------------: | :------------: | :-----------------------: | :--------------------------------: | :------------------------: |
-| Medium Sphere Calculation |      2.5      |            2.5            |                None                |            None            |
-
-#### Variable Cone
+Point of Origin: A Cone point of origin will be the narrowest point of the cone, from which it will emanate out from.
 
 If a cone has an angle of 53.13, than the cone's width is equal to its length at any given point. which means that the cone's area of effect is specified by its maximum length. For example, a cone spell with a range of 15 ft will extend up to 15 ft away from the point of origin, and at any point, its width matches its length.
 
-|          Name          | Angle | Initial Length | Effective Length Per Dice | Ineffective Length Per Dice Option | Max Length Per Dice Option |
-| :---------------------: | :---: | :------------: | :-----------------------: | :--------------------------------: | :------------------------: |
-| Close Cone Calculation | 53.13 |      2.5      |            2.5            |                None                |            None            |
-| Medium Cone Calculation | 53.13 |      2.5      |             5             |                None                |            None            |
+|          Name          | Angle | Effective Length | Effective Length Per Dice | Ineffective Length Option | Ineffective Length Per Dice Option | Max Length Option | Max Length Per Dice Option |
+| :---------------------: | :---: | :--------------: | :-----------------------: | :-----------------------: | :--------------------------------: | :---------------: | :------------------------: |
+|       10 ft Cone       | 53.13 |        10        |           None           |           None           |                None                |       None       |            None            |
+|       15 ft Cone       | 53.13 |        15        |           None           |           None           |                None                |       None       |            None            |
+|       20 ft Cone       | 53.13 |        20        |           None           |           None           |                None                |       None       |            None            |
+|       25 ft Cone       | 53.13 |        25        |           None           |           None           |                None                |       None       |            None            |
+|       30 ft Cone       | 53.13 |        30        |           None           |           None           |                None                |       None       |            None            |
+|       35 ft Cone       | 53.13 |        35        |           None           |           None           |                None                |       None       |            None            |
+|       40 ft Cone       | 53.13 |        40        |           None           |           None           |                None                |       None       |            None            |
+|       45 ft Cone       | 53.13 |        45        |           None           |           None           |                None                |       None       |            None            |
+|       50 ft Cone       | 53.13 |        50        |           None           |           None           |                None                |       None       |            None            |
+|       55 ft Cone       | 53.13 |        55        |           None           |           None           |                None                |       None       |            None            |
+|       60 ft Cone       | 53.13 |        60        |           None           |           None           |                None                |       None       |            None            |
+| Close Cone Calculation | 53.13 |       2.5       |            2.5            |           None           |                None                |       None       |            None            |
+| Medium Cone Calculation | 53.13 |       2.5       |             5             |           None           |                None                |       None       |            None            |
 
 ### Range and Area Of Effects
 

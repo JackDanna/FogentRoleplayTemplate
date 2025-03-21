@@ -18,7 +18,9 @@
 
       };
       devShells.${system}.default = pkgs.mkShell {
-        buildInputs = with pkgs; [ 
+        buildInputs = with pkgs; [
+          gnome-terminal
+          bashInteractive
           (vscode-with-extensions.override {
             vscode = pkgs.vscodium;
             vscodeExtensions = with pkgs.vscode-extensions; [
