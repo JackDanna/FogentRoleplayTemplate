@@ -763,7 +763,7 @@ An Area Of Effect describe a 3D space. This is often used for certain attacks su
 
 Length is measured in ft. Area is measured in ft^2. Volume is measured in ft^3. Angles are measured in degrees.
 
-All Area Of Effects will have a point of origin from which the area of effect will emanate from.
+All Area Of Effects will have a point of origin from which the area of effect will emanate from. Sphere's point of origin will be at there center. Cone point of origin will be the narrowest point of the cone, from which it wil eminate out.
 
 An Area Of Effect has a Effective, optional Ineffective, and optional Max component to it. They will all share the same point of origin. The shape that Effective describes will always be smaller than Ineffective, and Ineffective will always be smaller than Max. A good example would be a modern hand grenade, where Effective might represent the inner most "kill radius", Ineffective would represent the middle "casualty radius", and Max would represent the outer most radius where you might get hit by a piece of shrapnel though highly unlikely.
 
