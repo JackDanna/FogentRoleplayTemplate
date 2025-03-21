@@ -1,0 +1,8 @@
+"name",effectiveRadius,effectiveRadiusPerDice,ineffectiveRadiusOption,ineffectiveRadiusPerDiceOption,maxRadiusOption,maxRadiusPerDiceOption
+"5 ft Sphere",5,0,None,None,None,None
+"10 ft Sphere",10,0,None,None,None,None
+"15 ft Sphere",15,0,None,None,None,None
+"20 ft Sphere",20,0,None,None,None,None
+"25 ft Sphere",25,0,None,None,None,None
+"30 ft Sphere",30,0,None,None,None,None
+"Medium Sphere Calculation",2.5,2.5,None,None,None,None
