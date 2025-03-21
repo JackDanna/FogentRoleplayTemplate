@@ -778,8 +778,6 @@ Describe a sphere with a specified radius.
 
 #### Static Cone
 
-A cone's width at any point down its length is equal to that point's distance from the point of origin. Since the cross-section of the cone is an isosceles triangle, which is easier to work with on a battle map, it is referenced in the table below.
-
 If a cone has an angle of 53.13, than the cone's width is equal to its length at any given point. which means that the cone's area of effect is specified by its maximum length. For example, a cone spell with a range of 15 ft will extend up to 15 ft away from the point of origin, and at any point, its width matches its length.
 
 |    Name    | Length | Angle |
