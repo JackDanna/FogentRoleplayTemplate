@@ -807,15 +807,17 @@ Cases will arise when an action is performed with a combination of Effective/Ine
 
 ## Uses Per Round
 
-Uses Per Round represent the number of times some skill governed action can be preformed in a round.
+Uses Per Round represent the number of times some skill governed action can be preformed in a combat round. Taking firearms as an example, the faster the fire rate and easier it is to reload, the better it's Uses Per Round should be. For instance, a flint lock pistol should have a far slower Uses Per Round as compared to a modern hand gun.
 
-This rule is mainly used for determining how many times a weapon/spell can be used in combat rounds. In this context, if a character depletes their Uses Per Round provided by their weapon/spell, then they can no longer use that weapon/spell that combat round and are instead forced to dodge if they are being attacked.
+If a character completely depletes their Uses Per Round for a combat round they can no longer use there combat roll for that combat round and are instead forced to dodge if they are being attacked.
 
 ### Uses Per Round calculations
 
 Uses Per Round is calculated using the following equation:
 
 ( (Number of Skill Dice) + (Dice Amount Adjustment) )/ (Combat Roll Divisor), rounded down to the nearest whole number only if above 1, to a maximum of (Max Uses Per Round Option)
+
+For example, if a character had 7 dice in their governing skill dice pool with a Uses Per Round of "Quick", 7 divided by 3 is 2.333, which rounded down is 2. There is non "Max UPR" for "Quick" so they would have 2 Uses Per Round for that round.
 
 |      Name      | Combat Roll Divisor | Dice Amount Adjustment | Max Uses Per Round Option |
 | :------------: | :-----------------: | :--------------------: | :-----------------------: |
@@ -829,8 +831,6 @@ Uses Per Round is calculated using the following equation:
 |      Slow      |          6          |           0           |           None           |
 | Extremely Slow |          8          |           0           |           None           |
 | Painfully Slow |         16         |           0           |           None           |
-
-For example, if a character had 7 dice in their governing skill dice pool with an Uses Per Round of "Quick", 7 divided by 3 is 2.333, which rounded down is 2. There is non "Max UPR" for "Quick" so they would have 2 Uses Per Round for that round.
 
 #### Uses Per Round calculations resulting in less than 1
 
