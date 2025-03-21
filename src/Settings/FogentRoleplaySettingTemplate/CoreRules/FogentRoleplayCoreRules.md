@@ -776,23 +776,25 @@ Describe a sphere with a specified radius.
 | 25 ft Sphere |   25   |
 | 30 ft Sphere |   30   |
 
-#### Cone
+#### Static Cone
 
 A cone's width at any point down its length is equal to that point's distance from the point of origin. Since the cross-section of the cone is an isosceles triangle, which is easier to work with on a battle map, it is referenced in the table below.
 
-|    Name    | Triangle Base/Height | Cone Angle | Triangle Area |
-| :--------: | :-------------------: | :--------: | :------------: |
-| 10 ft Cone |          10          |    ~53    |       50       |
-| 15 ft Cone |          15          |    ~53    |     112.5     |
-| 20 ft Cone |          20          |    ~53    |      200      |
-| 25 ft Cone |          25          |    ~53    |     312.5     |
-| 30 ft Cone |          30          |    ~53    |      450      |
-| 35 ft Cone |          35          |    ~53    |     612.5     |
-| 40 ft Cone |          40          |    ~53    |      800      |
-| 45 ft Cone |          45          |    ~53    |     1012.5     |
-| 50 ft Cone |          50          |    ~53    |      1250      |
-| 55 ft Cone |          55          |    ~53    |     1512.5     |
-| 60 ft Cone |          60          |    ~53    |      1800      |
+If a cone has an angle of 53.13, than the cone's width is equal to its length at any given point. which means that the cone's area of effect is specified by its maximum length. For example, a cone spell with a range of 15 ft will extend up to 15 ft away from the point of origin, and at any point, its width matches its length.
+
+|    Name    | Length | Angle |
+| :--------: | :----: | :---: |
+| 10 ft Cone |   10   | 53.13 |
+| 15 ft Cone |   15   | 53.13 |
+| 20 ft Cone |   20   | 53.13 |
+| 25 ft Cone |   25   | 53.13 |
+| 30 ft Cone |   30   | 53.13 |
+| 35 ft Cone |   35   | 53.13 |
+| 40 ft Cone |   40   | 53.13 |
+| 45 ft Cone |   45   | 53.13 |
+| 50 ft Cone |   50   | 53.13 |
+| 55 ft Cone |   55   | 53.13 |
+| 60 ft Cone |   60   | 53.13 |
 
 ### Area Of Effect Calculations
 
