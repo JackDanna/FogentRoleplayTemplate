@@ -711,6 +711,10 @@ When using a Range on a battlemap, if any of the components of the Range have a 
 
 **Max Range:** Greater than the Ineffective component of a Range but less than or equal to the Max component of a Range, dice pool rolls gain Super Disadvantage.
 
+Ranges with "... Per Dice" parts of there components scales with the size of the Skill Dice Pool they are associated with. This could be used for magic users, with the size of their area of effects scaling with their proficiency with their magic. This could also just be getting more skillful with a weapon.
+
+Effective/Ineffective/Max Component of Range = (Effective/Ineffective/Max Range) + ( (Number of skill dice) * (Effective/Ineffective/Max Range Per Dice) )
+
 |     Name     | Effective Range | Effective Range Per Dice | Ineffective Range Option | Ineffective Range Per Dice Option | Max Range Option | Max Range Per Dice Option |
 | :----------: | :-------------: | :----------------------: | :----------------------: | :-------------------------------: | :--------------: | :-----------------------: |
 |     Self     |        0        |            0            |           None           |               None               |       None       |           None           |
