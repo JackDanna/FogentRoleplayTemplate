@@ -812,6 +812,8 @@ Triangle Base/Height: Close Cone
 
 Triangle Base/Height: Medium Cone
 
+Should I have inital length for Ranges?
+
 Cones Calculations can be customized to have larger angles and heights/bases, but must always cover the same area.
 
 |          Name          | Initial Length | Length Per Dice | Angle |
