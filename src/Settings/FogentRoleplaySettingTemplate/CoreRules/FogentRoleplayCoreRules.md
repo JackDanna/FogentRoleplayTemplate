@@ -695,6 +695,8 @@ Examples of narratively describing better penetration:
 
 A Range determines the distance at which some action can be performed.
 
+Length is measured in ft.
+
 A Range has an Effective, optional Ineffective, and optional Max component to it.
 
 The Effective, Ineffective, and Max components of a Range are usually represented on a character sheet in the "Effective/Ineffective/Max" format. For example, "100/200/300" translates to an Effective Range of 100 ft, an Ineffective Range of 200 ft, and a Max Range of 300 ft. If a Range doesn't have a Ineffective or Max component, you would simply write "None", such as "100/None/None"
