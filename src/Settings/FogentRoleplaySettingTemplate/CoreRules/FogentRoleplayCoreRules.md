@@ -843,11 +843,11 @@ Cases will arise when an action is performed with a combination of Effective/Ine
 
 **Example:**
 
-|                  | Effective Area Of Effect |               Ineffective Area Of Effect               |                       Max Area Of Effect                       |
-| :---------------: | :----------------------: | :----------------------------------------------------: | :-------------------------------------------------------------: |
-|  Effective Range  |       Normal Roll       |                      Disadvantage                      |                       Super Disadvantage                       |
-| Ineffective Range |       Disadvantage       |            2 x Disadvantage = Disadvantage            | Disadvantage + Super DisSuper Disadvantage = Super Disadvantage |
-|     Max Range     |    Super Disadvantage    | Super Disadvantage + Disadvantage = Super Disadvantage |           2 x Super Disadvantage = Super Disadvantage           |
+|                  | Effective Area Of Effect |               Ineffective Area Of Effect               |                        Max Area Of Effect                        |
+| :---------------: | :----------------------: | :-----------------------------------------------------: | :--------------------------------------------------------------: |
+|  Effective Range  |       Normal Roll       |                      Disadvantage                      |                        Super Disadvantage                        |
+| Ineffective Range |       Disadvantage       |            2 x Disadvantage => Disadvantage            | Disadvantage + Super DisSuper Disadvantage => Super Disadvantage |
+|     Max Range     |    Super Disadvantage    | Super Disadvantage + Disadvantage => Super Disadvantage |           2 x Super Disadvantage => Super Disadvantage           |
 
 ## Uses Per Round
 
