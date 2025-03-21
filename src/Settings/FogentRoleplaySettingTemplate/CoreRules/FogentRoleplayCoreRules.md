@@ -755,35 +755,44 @@ For a Variable Range, the components of a Range vary with the size of the Skill 
 
 ## Area Of Effect
 
-Certain attacks, spells, etc. effect an area, such as a grenade explosion.
+An Area Of Effect describe a 3D space. This is often used for certain attacks such as a grenade explosion that effects an area.
 
-### Set Area Of Effects
+Length is measured in ft. Area is measured in ft^2. Volume is measrued in ft^3. Angles are measured in degrees.
 
-Area of effects that have a set area.
+### Static Area Of Effects
 
-#### Sphere
+Area of effects that have a static area.
 
-|     Name     | Radius (ft) |
-| :-----------: | :---------: |
-| 30 ft Sphere |     30     |
+#### Static Sphere
+
+Describe a sphere with a specified radius.
+
+|     Name     | Radius |
+| :----------: | :----: |
+| 5 ft Sphere |   5   |
+| 10 ft Sphere |   10   |
+| 15 ft Sphere |   15   |
+| 20 ft Sphere |   20   |
+| 25 ft Sphere |   25   |
+| 30 ft Sphere |   30   |
 
 #### Cone
 
 A cone's width at any point down its length is equal to that point's distance from the point of origin. Since the cross-section of the cone is an isosceles triangle, which is easier to work with on a battle map, it is referenced in the table below.
 
-|    Name    | Triangle Base/Height (ft) | Cone Angle (degrees) | Triangle Area (ft^2) |
-| :--------: | :-------------------------: | :-------------------: | :-------------------: |
-| 10 ft Cone |             10             |          ~53          |          50          |
-| 15 ft Cone |             15             |          ~53          |         112.5         |
-| 20 ft Cone |             20             |          ~53          |          200          |
-| 25 ft Cone |             25             |          ~53          |         312.5         |
-| 30 ft Cone |             30             |          ~53          |          450          |
-| 35 ft Cone |             35             |          ~53          |         612.5         |
-| 40 ft Cone |             40             |          ~53          |          800          |
-| 45 ft Cone |             45             |          ~53          |        1012.5        |
-| 50 ft Cone |             50             |          ~53          |         1250         |
-| 55 ft Cone |             55             |          ~53          |        1512.5        |
-| 60 ft Cone |             60             |          ~53          |         1800         |
+|    Name    | Triangle Base/Height | Cone Angle | Triangle Area |
+| :--------: | :-------------------: | :--------: | :------------: |
+| 10 ft Cone |          10          |    ~53    |       50       |
+| 15 ft Cone |          15          |    ~53    |     112.5     |
+| 20 ft Cone |          20          |    ~53    |      200      |
+| 25 ft Cone |          25          |    ~53    |     312.5     |
+| 30 ft Cone |          30          |    ~53    |      450      |
+| 35 ft Cone |          35          |    ~53    |     612.5     |
+| 40 ft Cone |          40          |    ~53    |      800      |
+| 45 ft Cone |          45          |    ~53    |     1012.5     |
+| 50 ft Cone |          50          |    ~53    |      1250      |
+| 55 ft Cone |          55          |    ~53    |     1512.5     |
+| 60 ft Cone |          60          |    ~53    |      1800      |
 
 ### Area Of Effect Calculations
 
