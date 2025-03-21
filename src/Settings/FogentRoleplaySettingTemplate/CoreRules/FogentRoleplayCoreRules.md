@@ -705,7 +705,7 @@ When using a Range on a battlemap, if any of the components of the Range have a 
 
 **Ineffective Range:** Greater than the Effective component of a Range but less than or equal to the Ineffective component of a Range, dice pool rolls gain Disadvantage.
 
-**Max Range:** Greater than the Ineffective component of a Range but less than or equal to the Max component of a Range, dice pool rolls gain Disadvantage.
+**Max Range:** Greater than the Ineffective component of a Range but less than or equal to the Max component of a Range, dice pool rolls gain Super Disadvantage.
 
 ### Static Range
 
@@ -757,9 +757,21 @@ For a Variable Range, the components of a Range vary with the size of the Skill 
 
 An Area Of Effect describe a 3D space. This is often used for certain attacks such as a grenade explosion that effects an area.
 
-If an Area Of Effect only partially covers a character on a battle map, than it is up to the Narrators discretion to decide if the roll made against the character has Disadvantage.
-
 Length is measured in ft. Area is measured in ft^2. Volume is measrued in ft^3. Angles are measured in degrees.
+
+All Area Of Effects will have a point of origin from which the area of effect will eminate from.
+
+An Area Of Effect has a Effective, Ineffective, and Max component to it. They will all share the same point of origin. Effective should always describe the smallest shape, with Ineffective being larger than Effective, and Max being larger than Ineffective. A good example would be a modern hand grenade, where Effective might represent the inner most "kill radius", Ineffective would represent the middle "casualty radius", and Max would represent the outer most radius where you might get hit by a piece of sharpnel though highly unlikely.
+
+When dealing with a character between two of the components, such as on the edge between Effective and Ineffective, it is up to the Narrators discretion to decide if they are more inside one or the other.
+
+**Effective AOE:** Within the Effective component of an Area of Effect, dice pool rolls are unchanged.
+
+**Ineffective Range:** Within the Ineffective component of an Area Of Effect, but excluding the Effective component, the dice pool roll creating this AOE gains Disadvantage.
+
+**Max Range:** Within the Max component of an Area Of Effect, but excluding the ineffective component, the dice pool roll creating this AOE gains Super Disadvantage.
+
+If an Area Of Effect only partially covers a character on a battle map, than it is up to the Narrators discretion to decide if the roll made against the character has Disadvantage.
 
 ### Static Area Of Effects
 
@@ -769,14 +781,14 @@ Area of effects that have a static area.
 
 Describe a sphere with a specified radius.
 
-|     Name     | Radius |
-| :----------: | :----: |
-| 5 ft Sphere |   5   |
-| 10 ft Sphere |   10   |
-| 15 ft Sphere |   15   |
-| 20 ft Sphere |   20   |
-| 25 ft Sphere |   25   |
-| 30 ft Sphere |   30   |
+|     name     | Effective Radius Range Per Dice | Ineffective Radius Range Per Dice Option | Max Radius Range Per Dice Option |
+| :----------: | :-----------------------------: | :--------------------------------------: | :------------------------------: |
+| 5 ft Sphere |                5                |                   None                   |               None               |
+| 10 ft Sphere |               10               |                   None                   |               None               |
+| 15 ft Sphere |               15               |                   None                   |               None               |
+| 20 ft Sphere |               20               |                   None                   |               None               |
+| 25 ft Sphere |               25               |                   None                   |               None               |
+| 30 ft Sphere |               30               |                   None                   |               None               |
 
 #### Static Cone
 

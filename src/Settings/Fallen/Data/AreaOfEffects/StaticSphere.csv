@@ -1,7 +1,7 @@
-"name",radius
-"5 ft Sphere",5
-"10 ft Sphere",10
-"15 ft Sphere",15
-"20 ft Sphere",20
-"25 ft Sphere",25
-"30 ft Sphere",30
+"name",effectiveRadiusRangePerDice,ineffectiveRadiusRangePerDiceOption,maxRadiusRangePerDiceOption
+"5 ft Sphere",5,None,None
+"10 ft Sphere",10,None,None
+"15 ft Sphere",15,None,None
+"20 ft Sphere",20,None,None
+"25 ft Sphere",25,None,None
+"30 ft Sphere",30,None,None
