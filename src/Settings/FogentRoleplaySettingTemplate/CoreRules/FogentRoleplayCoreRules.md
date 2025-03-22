@@ -1000,9 +1000,9 @@ Raw Movement Speed = (Raw Movement Speed Base) + ( (Amount From Governing Skill 
 
 ### Using multiple Movement Speeds on the same round
 
-Whenever a character needs to use multiple movement speeds in a round, you can determine the amount of dice worth of movement they have taken. You can then subtract that amount from the new Combat Movements Speeds Governing Skill dice pool, using the remaining dice for your movement.
+Whenever a character needs to use multiple movement speeds in a round, calculate what percentage of their movement they've used that round for their initial movement, with the remainder percent being used for another movement speed.
 
-For example, a character with an Athletics dice pool of 4 has 40 "Terrestrial" Movement Speed. Let's say they walk 20 ft to a wall an then begin to climb it. For 20 ft of Movement, they spent 2 dice worth of their Athletics dice pool. We then subtract 2 dice from Climb's Governing Skill dice pool, which also happens to be Athletics. Therefore, we have 2 dice left over giving us 10 ft of climb this round.
+For example, if a character has 30 feet of "Terrestrial" and 15 feet of "Climb Combat Speed". The character walks 15 feet up to a climbable rock face. They've used 50% (15/30 = 0.5) of their movement speed, leaving them 50% of their climb combat speed. 50% of 15 feet is 7.5 feet. Therefore the character can climb 7.5 feet up the rock face.
 
 ### Difficult Terrain
 
