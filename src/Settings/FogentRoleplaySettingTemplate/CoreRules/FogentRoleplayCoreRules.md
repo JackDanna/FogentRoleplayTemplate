@@ -27,7 +27,7 @@ The rules are the foundation and narrative engine for your game. They are listed
   - [Area Of Effect](#area-of-effect)
   - [Uses Per Round](#uses-per-round)
   - [Battle Map](#battle-map)
-  - [Combat Speed](#combat-speed)
+  - [Combat Movement Speed](#combat-speed)
   - [Ammunitions](#ammunitions)
   - [Weapons](#weapons)
   - [Weapon Combat Skills](#weapon-combat-skills)
@@ -874,26 +874,25 @@ Characters take up a certain amount of space on the battle map.
 |    Size: Huge    |  15x15 ft on battle map.  |          |        |
 | Size: Gargantuan |  20x20 ft on battle map.  |          |        |
 
-## Combat Speed
+## Combat Movement Speed
 
 Different characters get different movement speeds in combat on a battlemap.
 
-**Governing Skill:** The skill that governs this type of movement speed.
+**Governing Skill Name:** The skill that governs this type of movement speed.
 
-**Feet Per Governing Skill Dice:** The number of feet per dice of the governing skill dice pool. This includes dice modifications such as skill buff effects, carry weight penalties, injuries, etc. If the resulting number isn't a multiple of 5, round down to the nearest multiple of 5.
+**Movement Per Governing Skill Dice:** The number of movement per dice of the governing skill dice pool. This includes dice modifications such as skill buff effects, carry weight penalties, injuries, etc. If the resulting number isn't a multiple of 5, round down to the nearest multiple of 5.
 
-**Reflex Speed Attribute:** The Attribute that governs Reflex Speed.
+**Reflex Speed Attribute Name:** The Attribute that governs Reflex Speed.
 
-**Feet Per Reflex Speed Attribute:** The number of feet per gained/lost per Reflex Speed Attribute.
+**Movement Per Reflex Speed Attribute:** The number of feet per gained/lost per Reflex Speed Attribute.
 
-|      Name      | Governing<br />Skill | Feet Per Governing<br />Skill Dice | Reflex Speed<br /> Attribute | Feet Per Reflex<br />Speed Attribute | Desc                                               |
-| :------------: | :------------------: | :--------------------------------: | :---------------------------: | :----------------------------------: | -------------------------------------------------- |
-|  Terrestrial  |      Athletics      |                 10                 |              RFX              |                  10                  | +10 ft (per Athletics Dice), +/-10 ft (per RFX)   |
-|      Swim      |      Athletics      |                 5                 |              RFX              |                  5                  | +5 ft (per Athletics Dice), +/-5 ft (per RFX)     |
-|     Climb     |      Athletics      |                 5                 |              RFX              |                  5                  | +5 ft (per Athletics Dice), +/-5 ft (per RFX)     |
-|     Flight     |      Athletics      |                 15                 |              RFX              |                  15                  | +15 ft (per Athletics Dice), +/-15 ft (per RFX)   |
-| 4-Hooved Climb |      Athletics      |                2.5                |              RFX              |                 2.5                 | +2.5 ft (per Athletics Dice), +/-2.5 ft (per RFX) |
-|    Aquatic    |      Athletics      |                 10                 |              RFX              |                  10                  | +10 ft (per Athletics Dice), +/-10 ft (per RFX)   |
+|       Name       | Governing Skill Name | Movement Per Governing Skill Dice | Reaction Speed Attribute Name | Movement Per Reaction Speed Attribute |                        Desc                        |  Duration  | Source |
+| :---------------: | :------------------: | :-------------------------------: | :---------------------------: | :-----------------------------------: | :------------------------------------------------: | :--------: | :----: |
+| Terrestrial Speed |      Athletics      |                10                |              RFX              |                  10                  | ? ft (+10 ft per Athletics Dice, +/-10 ft per RFX) | Indefinite | Innate |
+|    Swim Speed    |      Athletics      |                 5                 |              RFX              |                   5                   |  ? ft (+5 ft per Athletics Dice, +/-5 ft per RFX)  | Indefinite | Innate |
+|    Climb Speed    |      Athletics      |                 5                 |              RFX              |                   5                   |  ? ft (+5 ft per Athletics Dice, +/-5 ft per RFX)  | Indefinite | Innate |
+|   Flight Speed   |      Athletics      |                15                |              RFX              |                  15                  | ? ft (+15 ft per Athletics Dice, +/-15 ft per RFX) | Indefinite | Innate |
+|   Aquatic Speed   |      Athletics      |                10                |              RFX              |                  10                  | ? ft (+10 ft per Athletics Dice, +/-10 ft per RFX) | Indefinite | Innate |
 
 ### Reflex Speed
 
@@ -923,17 +922,17 @@ The archer is then able to flee backward as the rogue chases, keeping the 10 fee
 
 A rogue with a dagger is trying to close the distance on a knight who is 10 feet away. The rogue has 1 RFX and the knight has 0 RFX. The knight declares he is going to move forward and swing on the rogue with the longsword he has in his hands. The rogue declares he is going to close the distance and stab the knight. Since the Rogue has a higher reflex, he can move 10 feet with his RFX Speed before the knight can move, closing the gap. Since the knight already had his sword ready to go, combat rolls are made versus one another.
 
-### Using multiple Combat Speeds on the same round
+### Using multiple Combat Movement Speeds on the same round
 
-Whenever a character needs to use multiple movement speeds in a round, calculate what percentage of their movement they've used that round for their initial movement, with the remainder percent being used for another movement speed, rounded down to the next multiple of 5.
+Whenever a character needs to use multiple movement speeds in a round, you can determine the amount of dice worth of movement they have taken. You can then subtract that amount from the new Combat Movements Speeds Governing Skill dice pool, using the remaing dice for your movement.
 
-For example, if a character has 30 feet of "Terrestrial Combat Speed" and 15 feet of "Climb Combat Speed". The character walks 15 feet up to a climbable rock face. They've used 50% (15/30 = 0.5) of their movement speed, leaving them 50% of their climb combat speed. 50% of 15 feet is 7.5 feet, which we round down to the nearest multiple of 5 which is 5 feet. Therefore the character can climb 5 feet up the rock face.
+For example, a character with an Athletics dice pool of 4 has 40 "Terrestrial" Combat Movement Speed. Let's say they walk 20 ft to a wall an then begin to climb it. For 20 ft of Movement, they spent 2 dice worth of their Athletics dice pool. We then subtract 2 dice from Climb's Governing Skill dice pool, which also happens to be Athletics. Therefore, we have 2 dice left over giving us 10 ft of climb this round.
 
 ### Difficult Terrain
 
 Steep mountains, ice-covered ground, swamps, etc. are difficult terrain. It takes twice the movement to move through these terrains.
 
-### Mounted Combat Speed
+### Mounted Combat Movement Speed
 
 When riding a mount in combat:
 
@@ -1410,7 +1409,7 @@ If your character gains disadvantage (often the result of a stagger or being kno
 
 ### Prone
 
-- Only able to crawl using their Climb Combat Speed.
+- Only able to crawl using their Climb Combat Movement Speed.
 - Disadvantage on any check that generally assumes a character is standing (i.e. Combat Rolls, Dexterity Checks, etc... )
 - Melee Combat Rolls (Melee or Reach Ranges) made by a standing character against a prone character have the [High Ground](./CombatModifiersAndCombatAssists.md#high-ground-advantage) combat modifier (Advantage).
 - Ranged attacks against a prone opponent gain Disadvantage if the Narrator believes they would be a more difficult target due to being a smaller target. For instance, shooting a prone opponent 10 feet away wouldn't have Disadvantage. However, shooting a prone sniper at range who is making themselves a small target would incur Disadvantage.
@@ -1526,7 +1525,7 @@ The opponent gains the Prone condition.
 
 A character can declare they are attempting to get up on a round they start prone. Getting up requires the downed opponent to use their entire movement speed. They can regain their footing and remove the Prone condition at the end of the round they were getting up.
 
-Instead of getting up, a character can remain prone and crawl. They use their Climb Combat Speed to crawl instead of their movement speed.
+Instead of getting up, a character can remain prone and crawl. They use their Climb Combat Movement Speed to crawl instead of their movement speed.
 
 ### Level 4 Victory
 
@@ -2487,7 +2486,7 @@ Almost all traditional offensive magic spells can be represented as Weapon Spell
 
 |          Name          | CL/Magic Resource | Casting Time | Range |         Duration         | Magic Skills Required |                                                                                             Description                                                                                             |
 | :---------------------: | :---------------: | :----------: | :---: | :-----------------------: | :-------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|     Manifest Wings     |         3         |   1 action   | Self | Concentration, 10 minutes |     Bodily Magic     |                                                                   Character grows wings and gains the Flight Combat Speed effect.                                                                   |
+|     Manifest Wings     |         3         |   1 action   | Self | Concentration, 10 minutes |     Bodily Magic     |                                                              Character grows wings and gains the Flight Combat Movement Speed effect.                                                              |
 | Beastial Transformation |         3         |   1 action   | Self |   Concentration, 1 hour   |     Bodily Magic     | Character undergoes a transformation, becoming more beast like. Character can gain either a +1 to STR or RFX. However, they also gain a -1 to INT as their rational mind has become more beastlike. |
 
 ### Expert Spells (CL 5-6)
