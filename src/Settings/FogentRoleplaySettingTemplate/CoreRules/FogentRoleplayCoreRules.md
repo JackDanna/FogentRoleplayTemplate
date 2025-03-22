@@ -956,13 +956,23 @@ Since the Rogue has 5 ft more Reaction Movement Speed, he can move those 5 feet 
 
 The archer is then able to flee backward. Assuming he has the same or greater remaining movement speed as the possibly injured rogue, the archer can keep the 5 feet of distance between him and the rogue, never getting stabbed.
 
-### Reflex Speed
+**Example 3:**
 
-#### Example 3
+A crappy rogue with a dagger is trying to close the distance on an archer who is 5 feet away.
 
-A crappy rogue with a dagger is trying to close the distance on an archer who is 10 feet away. The rogue has a 0 in RFX and the archer has a 0 in RFX. The archer declares he is going to shoot the rogue with his bow as he uses his movement speed to stay out of range of the knife. The rogue declares he is going to close the distance and stab the archer, which will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks. Since the rogue has the same RFX as the archer, he is slow to get into motion, which gives the archer time to lose his arrow as he also begins moving. The Rogue must now try and dodge the arrow, possibly proving fatal.
+Their respective RFX levels are 0 for the rogue and 0 for the archer.
 
-The archer is then able to flee backward as the rogue chases, keeping the 10 feet of distance between him and the rogue, never getting stabbed, assuming he has the same or greater remaining movement speed as the rogue.
+Their respective Reaction Movement Speeds are 10 feet for the rogue and 5 feet for the archer.
+
+The rogue declares he is going to close the distance, attack with the knife, and stay on the archer. If the Rogue pulls this off, it will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks.
+
+The archer declares he is going to shoot the rogue with his bow as he uses his Movement Speed to stay out of range of the knife.
+
+Since the rogue has the same Reaction Movement Speed as the archer, he is slow to get into motion, which gives the archer time to lose his arrow as he also begins moving. With 5 feet between the rogue and the archer, the arrow is shot. The rogue must now try and dodge the arrow, before he can attack, possibly proving fatal.
+
+The archer is then able to flee backward. Assuming he has the same or greater remaining movement speed as the possibly injured rogue, the archer can keep the 5 feet of distance between him and the rogue, never getting stabbed.
+
+### Reflex Spee
 
 #### Example 4
 
