@@ -940,13 +940,23 @@ Since the Rogue has 5 ft more Reaction Movement Speed, he can move those 5 feet 
 
 The archer, now likely wounded from the rogue knife, tries to use the rest of his Movement Speed to stay away from the rogue's knife range. Assuming the Rogue has the same or greater remaining movement speed as the archer, the rogue stays on the archer and the gap is 0 feet, ready to stab him again next round.
 
+**Example 2:**
+
+A rogue with a dagger is trying to close the distance on an archer who is 10 feet away.
+
+Their respective RFX levels are 1 for the rogue and 0 for the archer.
+
+Their respective Reaction Movement Speeds are 10 feet for the rogue and 5 feet for the archer.
+
+The archer declares he is going to shoot the rogue with his bow as he uses his Movement Speed to stay out of range of the knife.
+
+The rogue declares he is going to close the distance, attack with the knife, and stay on the archer. If the Rogue pulls this off, it will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks.
+
+Since the Rogue has 5 ft more Reaction Movement Speed, he can move those 5 feet before the archer can lose the arrow, closing the distance. With 5 feet between the rogue and the archer, the arrow is shot. The rogue must now try and dodge the arrow, before he can attack, possibly proving fatal.
+
+The archer is then able to flee backward. Assuming he has the same or greater remaining movement speed as the possibly injured rogue, the archer can keep the 5 feet of distance between him and the rogue, never getting stabbed.
+
 ### Reflex Speed
-
-#### Example 2
-
-A rogue with a dagger is trying to close the distance on an archer who is 15 feet away. The rogue has a 1 in RFX and the archer has a 0 in RFX. The archer declares he is going to shoot the rogue with his bow as he uses his movement speed to stay out of range of the knife. The rogue declares he is going to close the distance and stab the archer, which will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks. Since the Rogue has a higher reflex, he can move 10 feet with his Reaction Movement Speed before the archer can lose the arrow, not entirely able to close the gap. With 5 feet between the rogue and the archer, the arrow is shot. The Rogue must now try and dodge the arrow, before he can attack, possibly proving fatal.
-
-The archer is then able to flee backward, keeping the 5 feet of distance between him and the rogue, never getting stabbed, assuming he has the same or greater remaining movement speed as the rogue.
 
 #### Example 3
 
