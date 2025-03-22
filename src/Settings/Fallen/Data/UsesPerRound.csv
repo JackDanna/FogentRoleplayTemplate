@@ -1,4 +1,3 @@
-name,combatRollDivisor,diceAmountAdjustment,maxUsesPerRoundOption
 name,usesPerRoundBase,divisorOption,maxOption
 Rapid,0,1,None
 Swift +2,0,2,None
