@@ -924,13 +924,23 @@ Reaction Movement Speed = (Reaction Movement Speed Base) + ( (Amount From Govern
 
 Reaction Movement Speed can be used to resolve circumstances when it is unclear which character moved first or closed some distance. Reaction Movement Speed is used first on a character's turn, with lower Reaction Movement Speed characters considered to have not moved/acted yet. This rule takes inspiration from the gun vs knife debate at close distances, where it is argued that within a certain distance, a quick knife wielder might be able to close the distance before the shooter could get accurate shots on target. The ensuing ranged versus melee combat rolls would be disadvantageous for the ranged combatant as they are in melee reach.
 
+**Example 1:**
+
+A rogue with a dagger is trying to close the distance on an archer who is 5 feet away.
+
+Their respective RFX levels are 1 for the rogue and 0 for the archer.
+
+Their respective Reaction Movement Speeds are 10 feet for the rogue and 5 feet for the archer.
+
+The archer declares he is going to shoot the rogue with his bow as he uses his Movement Speed to stay out of range of the knife.
+
+The rogue declares he is going to close the distance, attack with the knife, and stay on the archer. If the Rogue pulls this off, it will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks.
+
+Since the Rogue has 5 ft more Reaction Movement Speed, he can move those 5 feet before the archer can lose the arrow, closing the distance. Now they will make combat rolls versus one another, with the archer being at a clear disadvantage.
+
+The archer, now likely wounded from the rogue knife, tries to use the rest of his Movement Speed to stay away from the rogue's knife range. Assuming the Rogue has the same or greater remaining movement speed as the archer, the rogue stays on the archer and the gap is 0 feet, ready to stab him again next round.
+
 ### Reflex Speed
-
-#### Example 1
-
-A rogue with a dagger is trying to close the distance on an archer who is 10 feet away. The rogue has a 1 in RFX and the archer has a 0 in RFX. The archer declares he is going to shoot the rogue with his bow as he uses his movement speed to stay out of range of the knife. The rogue declares he is going to close the distance, attack with the knife, and stay on the archer, which will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks. Since the Rogue has a higher reflex, he can move 10 feet with his Reaction Movement Speed before the archer can lose the arrow, closing the distance. Now they will make combat rolls versus one another, with the archer being at a clear disadvantage.
-
-The archer, now likely wounded from the rogue knife, tries to use the rest of his movement speed to stay away from the rogue's knife range. However, the gap between the rogue and the archer is 0 feet as the rogue stays on the archer, assuming he has the same or greater remaining movement speed as the archer, ready to stab him again next round.
 
 #### Example 2
 
