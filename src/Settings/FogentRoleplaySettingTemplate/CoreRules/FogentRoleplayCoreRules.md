@@ -1010,12 +1010,7 @@ Steep mountains, ice-covered ground, swamps, etc. are difficult terrain. It take
 
 ### Mounted Movement Speed
 
-When riding a mount in combat:
-
-- The rider's Dexterity core Skill or Riding Vocational Skill level is used in place of the mount's governing skill level for determining the governing skill dice pool size, capped by the mount's governing skill level.
-- The rider's RFX level is used in place of the mount's RFX, capped by the mount's RFX level.
-
-Additionally, when a mounted character or their mount takes an injury in combat, an Dexterity or Riding check equivalent to the injury level must be succeeded to stay on horseback, or else they are knocked off.
+The rider's Dexterity dice pool size is used for the mounts Reaction Movement Speed calculation.Additionally, when a mounted character or their mount takes an injury in combat, a Dexterity or Riding skill check equivalent to the injury level must be succeeded to stay on horseback, or else they are knocked off.
 
 ## Ammunitions
 
