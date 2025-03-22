@@ -972,11 +972,22 @@ Since the rogue has the same Reaction Movement Speed as the archer, he is slow t
 
 The archer is then able to flee backward. Assuming he has the same or greater remaining movement speed as the possibly injured rogue, the archer can keep the 5 feet of distance between him and the rogue, never getting stabbed.
 
-### Reflex Spee
+**Example 4:**
 
-#### Example 4
+A rogue with a dagger is trying to close the distance on an knight who is 5 feet away standing in some slipery mud. The knight is right on the edge of the mud pool, and the rogue realizes if he can attack the knight while he's standing in the mud, he has a better chance of defeating him.
 
-A rogue with a dagger is trying to close the distance on a knight who is 10 feet away. The rogue has 1 RFX and the knight has 0 RFX. The knight declares he is going to move forward and swing on the rogue with the longsword he has in his hands. The rogue declares he is going to close the distance and stab the knight. Since the Rogue has a higher reflex, he can move 10 feet with his Reaction Movement Speed before the knight can move, closing the gap. Since the knight already had his sword ready to go, combat rolls are made versus one another.
+Their respective RFX levels are 1 for the rogue and 0 for the knight.
+
+Their respective Reaction Movement Speeds are 10 feet for the rogue and 5 feet for the archer.
+
+The knight declares he is going to move forward out of the mud and swing on the rogue with the longsword he has in his hands.
+
+The rogue declares he is going to close the distance before the knight moves out of the mud and try to stab the knight in one of his armors chinks.
+
+Since the Rogue has a Reaction Movement Speeds, he can move 5 feet with his Reaction Movement Speed before the knight can move, closing the gap.
+
+Since the knight already had his sword ready to go, combat rolls will be made, but the knight will do so while having to deal with the disadvantageous position being in slipery mud.
+
 
 ### Raw Movement Speed
 
