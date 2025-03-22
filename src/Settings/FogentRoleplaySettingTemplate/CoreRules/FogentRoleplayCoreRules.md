@@ -988,10 +988,15 @@ Since the Rogue has a Reaction Movement Speeds, he can move 5 feet with his Reac
 
 Since the knight already had his sword ready to go, combat rolls will be made, but the knight will do so while having to deal with the disadvantageous position being in slipery mud.
 
-
 ### Raw Movement Speed
 
-Different characters get different movement speeds in combat on a battlemap.
+Raw Movement Speed is the second portion of a character's movement and represents how fast they are once at there top speed.
+
+Raw Movement Speed should always make up a far greater amount of your Total Movement Speed as compared to Reaction Movement Speed. Even though characters with higher Reaction Movement Speed might be quicker to initally move, there is nothing prevent a high Raw Movement Speed character from running them down.
+
+For each Raw Movement Speed Option, for the specified Skill, gain the corresponding amount multiplied by the amount of Dice in the Skill's dice pool.
+
+Raw Movement Speed = (Raw Movement Speed Base) + ( (Amount From Governing Skill Dice) * (Raw Movement Speed Per Skill Dice) )
 
 ### Using multiple Movement Speeds on the same round
 
