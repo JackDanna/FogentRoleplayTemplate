@@ -888,11 +888,11 @@ Different characters get different movement speeds in combat on a battlemap.
 
 |       Name       | Governing Skill Name | Movement Per Governing Skill Dice | Reaction Speed Attribute Name | Movement Per Reaction Speed Attribute |                        Desc                        |  Duration  | Source |
 | :---------------: | :------------------: | :-------------------------------: | :---------------------------: | :-----------------------------------: | :------------------------------------------------: | :--------: | :----: |
-| Terrestrial Speed |      Athletics      |                10                |              RFX              |                  10                  | ? ft (+10 ft per Athletics Dice, +/-10 ft per RFX) | Indefinite | Innate |
-|    Swim Speed    |      Athletics      |                 5                 |              RFX              |                   5                   |  ? ft (+5 ft per Athletics Dice, +/-5 ft per RFX)  | Indefinite | Innate |
-|    Climb Speed    |      Athletics      |                 5                 |              RFX              |                   5                   |  ? ft (+5 ft per Athletics Dice, +/-5 ft per RFX)  | Indefinite | Innate |
-|   Flight Speed   |      Athletics      |                15                |              RFX              |                  15                  | ? ft (+15 ft per Athletics Dice, +/-15 ft per RFX) | Indefinite | Innate |
-|   Aquatic Speed   |      Athletics      |                10                |              RFX              |                  10                  | ? ft (+10 ft per Athletics Dice, +/-10 ft per RFX) | Indefinite | Innate |
+| Combat Movement Speed: Terrestrial |      Athletics      |                10                |              RFX              |                  10                  | ? ft (+10 ft per Athletics Dice, +/-10 ft per RFX) | Indefinite | Innate |
+|    Combat Movement Speed: Swim    |      Athletics      |                 5                 |              RFX              |                   5                   |  ? ft (+5 ft per Athletics Dice, +/-5 ft per RFX)  | Indefinite | Innate |
+|    Combat Movement Speed: Climb    |      Athletics      |                 5                 |              RFX              |                   5                   |  ? ft (+5 ft per Athletics Dice, +/-5 ft per RFX)  | Indefinite | Innate |
+|   Combat Movement Speed: Flight   |      Athletics      |                15                |              RFX              |                  15                  | ? ft (+15 ft per Athletics Dice, +/-15 ft per RFX) | Indefinite | Innate |
+|   Combat Movement Speed: Aquatic   |      Athletics      |                10                |              RFX              |                  10                  | ? ft (+10 ft per Athletics Dice, +/-10 ft per RFX) | Indefinite | Innate |
 
 ### Reflex Speed
 
