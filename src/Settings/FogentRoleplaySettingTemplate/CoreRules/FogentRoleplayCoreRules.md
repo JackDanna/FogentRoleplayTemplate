@@ -946,7 +946,7 @@ A rogue with a dagger is trying to close the distance on a knight who is 10 feet
 
 ### Using multiple Combat Movement Speeds on the same round
 
-Whenever a character needs to use multiple movement speeds in a round, you can determine the amount of dice worth of movement they have taken. You can then subtract that amount from the new Combat Movements Speeds Governing Skill dice pool, using the remaing dice for your movement.
+Whenever a character needs to use multiple movement speeds in a round, you can determine the amount of dice worth of movement they have taken. You can then subtract that amount from the new Combat Movements Speeds Governing Skill dice pool, using the remaining dice for your movement.
 
 For example, a character with an Athletics dice pool of 4 has 40 "Terrestrial" Combat Movement Speed. Let's say they walk 20 ft to a wall an then begin to climb it. For 20 ft of Movement, they spent 2 dice worth of their Athletics dice pool. We then subtract 2 dice from Climb's Governing Skill dice pool, which also happens to be Athletics. Therefore, we have 2 dice left over giving us 10 ft of climb this round.
 
