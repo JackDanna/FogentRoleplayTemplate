@@ -1,4 +1,4 @@
-name,angle,effectiveLength,effectiveLengthPerDice,ineffectiveLengthOption,ineffectiveLengthPerDiceOption,maxLengthOption,maxLengthPerDiceOption
+name,angle,effectiveLengthBase,effectiveLengthPerDice,ineffectiveLengthBaseOption,ineffectiveLengthPerDiceOption,maxLengthBaseOption,maxLengthPerDiceOption
 10 ft Cone,53.13,10,0,None,None,None,None
 15 ft Cone,53.13,15,0,None,None,None,None
 20 ft Cone,53.13,20,0,None,None,None,None
