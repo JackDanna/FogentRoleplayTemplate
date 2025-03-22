@@ -974,7 +974,7 @@ The archer is then able to flee backward. Assuming he has the same or greater re
 
 **Example 4:**
 
-A rogue with a dagger is trying to close the distance on an knight who is 5 feet away standing in some slipery mud. The knight is right on the edge of the mud pool, and the rogue realizes if he can attack the knight while he's standing in the mud, he has a better chance of defeating him.
+A rogue with a dagger is trying to close the distance on an knight who is 5 feet away standing in some slippery mud. The knight is right on the edge of the mud pool, and the rogue realizes if he can attack the knight while he's standing in the mud, he has a better chance of defeating him.
 
 Their respective RFX levels are 1 for the rogue and 0 for the knight.
 
@@ -986,13 +986,13 @@ The rogue declares he is going to close the distance before the knight moves out
 
 Since the Rogue has a Reaction Movement Speeds, he can move 5 feet with his Reaction Movement Speed before the knight can move, closing the gap.
 
-Since the knight already had his sword ready to go, combat rolls will be made, but the knight will do so while having to deal with the disadvantageous position being in slipery mud.
+Since the knight already had his sword ready to go, combat rolls will be made, but the knight will do so while having to deal with the disadvantageous position being in slippery mud.
 
 ### Raw Movement Speed
 
 Raw Movement Speed is the second portion of a character's movement and represents how fast they are once at there top speed.
 
-Raw Movement Speed should always make up a far greater amount of your Total Movement Speed as compared to Reaction Movement Speed. Even though characters with higher Reaction Movement Speed might be quicker to initally move, there is nothing prevent a high Raw Movement Speed character from running them down.
+Raw Movement Speed should always make up a far greater amount of your Total Movement Speed as compared to Reaction Movement Speed. Even though characters with higher Reaction Movement Speed might be quicker to initially move, there is nothing prevent a high Raw Movement Speed character from running them down.
 
 For each Raw Movement Speed Option, for the specified Skill, gain the corresponding amount multiplied by the amount of Dice in the Skill's dice pool.
 
