@@ -206,7 +206,7 @@ RFX has the following effects:
 
 - RFX is factored into all RFX Governed Skills (Dexterity, Perception, Stealth, etc...).
 - As combat is conducted in a round-by-round format, the player with the highest RFX gets priority in that round.
-- Character with higher RFX have better RFX Speed, which allows an amount of movement before slower characters within a combat round and increases all Movement Speeds.
+- Character with higher RFX have better Reaction Movement Speed, which allows an amount of movement before slower characters within a combat round and increases all Movement Speeds.
 
 ### Intelligence (INT)
 
@@ -898,7 +898,7 @@ A character takes up a certain amount of space on the battle map.
 
 ## Movement Speed
 
-Movement Speed is used in combat to determine how quickly a character can move before others aswell as the total distance they can move in a round. Movement Speed is made up of two portions, Reaction Movement Speed and Raw Movement Speed.
+Movement Speed is used in combat to determine how quickly a character can move before others as well as the total distance they can move in a round. Movement Speed is made up of two portions, Reaction Movement Speed and Raw Movement Speed.
 
 Raw Movement Speed = (Raw Movement Speed Base) + ( (Amount From Governing Skill Dice) * (Raw Movement Speed Per Skill Dice) )
 
@@ -918,23 +918,23 @@ Reaction Movement Speed is the initial portion of a character's movement and rep
 
 While lower Reaction Movement Speed characters are deciding what to do, high Reaction Movement Speed characters are already in motion. This can allow them to disengage from opponents, slip behind a door before it closes, avoid an Area Of Effect they are about to be caught in, close the distance to an opponent, ect...
 
-For each Reaction Movement Speed Option, for the specified Skill, gain the correspounding amount multiplied by the amount of Dice in the Skill's dice pool.
+For each Reaction Movement Speed Option, for the specified Skill, gain the corresponding amount multiplied by the amount of Dice in the Skill's dice pool.
 
 Reaction Movement Speed = (Reaction Movement Speed Base) + ( (Amount From Governing Skill Dice) * (Reaction Movement Speed Per Skill Dice) )
 
-### Reflex Speed
+Reaction Movement Speed can be used to resolve circumstances when it is unclear which character moved first or closed some distance. Reaction Movement Speed is used first on a character's turn, with lower Reaction Movement Speed characters considered to have not moved/acted yet. This rule takes inspiration from the gun vs knife debate at close distances, where it is argued that within a certain distance, a quick knife wielder might be able to close the distance before the shooter could get accurate shots on target. The ensuing ranged versus melee combat rolls would be disadvantageous for the ranged combatant as they are in melee reach.
 
-RFX speed can be used to resolve circumstances when it is unclear which opponent moved first or closed some distance. RFX Speed is used first on a character's turn, with lower RFX characters considered to have not moved/acted yet. This rule takes inspiration from the gun vs knife debate at close distances, where it is argued that within a certain distance, a quick knife wielder might be able to close the distance before the shooter could get accurate shots on target. The ensuing ranged versus melee combat rolls would be disadvantageous for the ranged combatant as they are in melee reach.
+### Reflex Speed
 
 #### Example 1
 
-A rogue with a dagger is trying to close the distance on an archer who is 10 feet away. The rogue has a 1 in RFX and the archer has a 0 in RFX. The archer declares he is going to shoot the rogue with his bow as he uses his movement speed to stay out of range of the knife. The rogue declares he is going to close the distance, attack with the knife, and stay on the archer, which will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks. Since the Rogue has a higher reflex, he can move 10 feet with his RFX Speed before the archer can lose the arrow, closing the distance. Now they will make combat rolls versus one another, with the archer being at a clear disadvantage.
+A rogue with a dagger is trying to close the distance on an archer who is 10 feet away. The rogue has a 1 in RFX and the archer has a 0 in RFX. The archer declares he is going to shoot the rogue with his bow as he uses his movement speed to stay out of range of the knife. The rogue declares he is going to close the distance, attack with the knife, and stay on the archer, which will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks. Since the Rogue has a higher reflex, he can move 10 feet with his Reaction Movement Speed before the archer can lose the arrow, closing the distance. Now they will make combat rolls versus one another, with the archer being at a clear disadvantage.
 
 The archer, now likely wounded from the rogue knife, tries to use the rest of his movement speed to stay away from the rogue's knife range. However, the gap between the rogue and the archer is 0 feet as the rogue stays on the archer, assuming he has the same or greater remaining movement speed as the archer, ready to stab him again next round.
 
 #### Example 2
 
-A rogue with a dagger is trying to close the distance on an archer who is 15 feet away. The rogue has a 1 in RFX and the archer has a 0 in RFX. The archer declares he is going to shoot the rogue with his bow as he uses his movement speed to stay out of range of the knife. The rogue declares he is going to close the distance and stab the archer, which will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks. Since the Rogue has a higher reflex, he can move 10 feet with his RFX Speed before the archer can lose the arrow, not entirely able to close the gap. With 5 feet between the rogue and the archer, the arrow is shot. The Rogue must now try and dodge the arrow, before he can attack, possibly proving fatal.
+A rogue with a dagger is trying to close the distance on an archer who is 15 feet away. The rogue has a 1 in RFX and the archer has a 0 in RFX. The archer declares he is going to shoot the rogue with his bow as he uses his movement speed to stay out of range of the knife. The rogue declares he is going to close the distance and stab the archer, which will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks. Since the Rogue has a higher reflex, he can move 10 feet with his Reaction Movement Speed before the archer can lose the arrow, not entirely able to close the gap. With 5 feet between the rogue and the archer, the arrow is shot. The Rogue must now try and dodge the arrow, before he can attack, possibly proving fatal.
 
 The archer is then able to flee backward, keeping the 5 feet of distance between him and the rogue, never getting stabbed, assuming he has the same or greater remaining movement speed as the rogue.
 
@@ -946,7 +946,7 @@ The archer is then able to flee backward as the rogue chases, keeping the 10 fee
 
 #### Example 4
 
-A rogue with a dagger is trying to close the distance on a knight who is 10 feet away. The rogue has 1 RFX and the knight has 0 RFX. The knight declares he is going to move forward and swing on the rogue with the longsword he has in his hands. The rogue declares he is going to close the distance and stab the knight. Since the Rogue has a higher reflex, he can move 10 feet with his RFX Speed before the knight can move, closing the gap. Since the knight already had his sword ready to go, combat rolls are made versus one another.
+A rogue with a dagger is trying to close the distance on a knight who is 10 feet away. The rogue has 1 RFX and the knight has 0 RFX. The knight declares he is going to move forward and swing on the rogue with the longsword he has in his hands. The rogue declares he is going to close the distance and stab the knight. Since the Rogue has a higher reflex, he can move 10 feet with his Reaction Movement Speed before the knight can move, closing the gap. Since the knight already had his sword ready to go, combat rolls are made versus one another.
 
 ### Raw Movement Speed
 
@@ -1348,7 +1348,7 @@ Actions in combat rounds are not solely movements and attacks. A combat action c
 
 ### Round Order
 
-Every action within Round-by-Round conflicts happens almost at the same time or in direct succession to one another. This means that one character's action is NOT explicitly followed by another character's action. It should be considered as everything happening together, with the one exception being RFX speed.
+Every action within Round-by-Round conflicts happens almost at the same time or in direct succession to one another. This means that one character's action is NOT explicitly followed by another character's action. It should be considered as everything happening together, with the one exception being Reaction Movement Speed.
 
 To make sense of this potential 'chaos', there is a declaration phase and an action phase.
 
