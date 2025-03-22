@@ -898,25 +898,25 @@ A character takes up a certain amount of space on the battle map.
 
 ## Movement Speed
 
-Movement speed is used in combat to determine how far characters can move and if they can move before others.
+Movement Speed is used in combat to determine how quickly a character can move before others aswell as the total distance they can move in a round. Movement Speed is made up of two portions, Reaction Movement Speed and Raw Movement Speed.
 
-Different characters get different movement speeds in combat on a battlemap.
+Reaction Movement Speed = (Reaction Movement Speed Base) + ( (Amount From Governing Skill Dice) * (Reaction Movement Speed Per Skill Dice) )
 
-**Governing Skill Name:** The skill that governs this type of movement speed.
+Raw Movement Speed = (Raw Movement Speed Base) + ( (Amount From Governing Skill Dice) * (Raw Movement Speed Per Skill Dice) )
 
-**Movement Per Governing Skill Dice:** The number of movement per dice of the governing skill dice pool. This includes dice modifications such as skill buff effects, carry weight penalties, injuries, etc. If the resulting number isn't a multiple of 5, round down to the nearest multiple of 5.
+Total Movement Speed (Reaction Movement Speed) + (Raw Movement Speed)
 
-**Reflex Speed Attribute Name:** The Attribute that governs Reflex Speed.
+|            Name            | Reaction Movement Speed Base | Reaction Movement Speed Per Skill Dice Option | Raw Movement Speed Base | Raw Movement Speed Per Skill Dice Option |                                            Desc                                            |  Duration  | Source |
+| :-------------------------: | :--------------------------: | :-------------------------------------------: | :---------------------: | :--------------------------------------: | :-----------------------------------------------------------------------------------------: | :--------: | :----: |
+| Movement Speed: Terrestrial |              0              |                (Dexterity,2.5)                |            0            |             (Athletics,7.5)             | +7.5 Raw Movement Speed per Athletics Dice, +2.5 Reaction Movement Speed per Dexterity Dice | Indefinite | Innate |
+|    Movement Speed: Swim    |              0              |                (Dexterity,2.5)                |            0            |              (Athletics,5)              |  +5 Raw Movement Speed per Athletics Dice, +2.5 Reaction Movement Speed per Dexterity Dice  | Indefinite | Innate |
+|    Movement Speed: Climb    |              0              |                (Dexterity,2.5)                |            0            |              (Athletics,5)              |  +5 Raw Movement Speed per Athletics Dice, +2.5 Reaction Movement Speed per Dexterity Dice  | Indefinite | Innate |
+|   Movement Speed: Flight   |              0              |                 (Dexterity,5)                 |            0            |              (Athletics,10)              |  +10 Raw Movement Speed per Athletics Dice, +5 Reaction Movement Speed per Dexterity Dice  | Indefinite | Innate |
+|   Movement Speed: Aquatic   |              0              |                (Dexterity,2.5)                |            0            |             (Athletics,7.5)             | +7.5 Raw Movement Speed per Athletics Dice, +2.5 Reaction Movement Speed per Dexterity Dice | Indefinite | Innate |
 
-**Movement Per Reflex Speed Attribute:** The number of feet per gained/lost per Reflex Speed Attribute.
+### Reaction Movement Speed
 
-| Name                        | Raw Movement Speed Base | Raw Movement Speed Per Skill Dice Option | Reaction Movement Speed Base | Reaction Movement Speed Per Skill Dice Option |                                            Desc                                            |  Duration  | Source |
-| --------------------------- | :---------------------: | :---------------------------------------: | :--------------------------: | :--------------------------------------------: | :-----------------------------------------------------------------------------------------: | :--------: | :----: |
-| Movement Speed: Terrestrial |            0            |              (Athletics,7.5)              |              0              |                (Dexterity,2.5)                | +7.5 Raw Movement Speed per Athletics Dice, +2.5 Reaction Movement Speed per Dexterity Dice | Indefinite | Innate |
-| Movement Speed: Swim        |            0            |               (Athletics,5)               |              0              |                (Dexterity,2.5)                |  +5 Raw Movement Speed per Athletics Dice, +2.5 Reaction Movement Speed per Dexterity Dice  | Indefinite | Innate |
-| Movement Speed: Climb       |            0            |               (Athletics,5)               |              0              |                (Dexterity,2.5)                |  +5 Raw Movement Speed per Athletics Dice, +2.5 Reaction Movement Speed per Dexterity Dice  | Indefinite | Innate |
-| Movement Speed: Flight      |            0            |              (Athletics,10)              |              0              |                 (Dexterity,5)                 |  +10 Raw Movement Speed per Athletics Dice, +5 Reaction Movement Speed per Dexterity Dice  | Indefinite | Innate |
-| Movement Speed: Aquatic     |            0            |              (Athletics,7.5)              |              0              |                (Dexterity,2.5)                | +7.5 Raw Movement Speed per Athletics Dice, +2.5 Reaction Movement Speed per Dexterity Dice | Indefinite | Innate |
+Reaction Movement Speed is the initial portion of a character's movement and represents how fast they are to get into motion.
 
 ### Reflex Speed
 
@@ -945,6 +945,10 @@ The archer is then able to flee backward as the rogue chases, keeping the 10 fee
 #### Example 4
 
 A rogue with a dagger is trying to close the distance on a knight who is 10 feet away. The rogue has 1 RFX and the knight has 0 RFX. The knight declares he is going to move forward and swing on the rogue with the longsword he has in his hands. The rogue declares he is going to close the distance and stab the knight. Since the Rogue has a higher reflex, he can move 10 feet with his RFX Speed before the knight can move, closing the gap. Since the knight already had his sword ready to go, combat rolls are made versus one another.
+
+### Raw Movement Speed
+
+Different characters get different movement speeds in combat on a battlemap.
 
 ### Using multiple Movement Speeds on the same round
 
