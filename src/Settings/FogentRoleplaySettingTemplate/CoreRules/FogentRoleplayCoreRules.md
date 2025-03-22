@@ -885,7 +885,7 @@ Combat takes place on gridded battle maps, with each square representing a 5 ft 
 
 ### Size
 
-Characters take up a certain amount of space on the battle map.
+A character takes up a certain amount of space on the battle map.
 
 |       Name       |          Effect          | Duration | Source |
 | :--------------: | :-----------------------: | :------: | :----: |
