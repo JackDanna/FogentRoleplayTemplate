@@ -1,4 +1,4 @@
-name,effectiveRange,effectiveRangePerDice,ineffectiveRangeOption,ineffectiveRangePerDiceOption,maxRangeOption,maxRangePerDiceOption
+name,effectiveRangeBase,effectiveRangePerDice,ineffectiveRangeBaseOption,ineffectiveRangePerDiceOption,maxRangeBaseOption,maxRangePerDiceOption
 Self,0,0,None,None,None,None
 Melee,5,0,None,None,None,None
 Reach,10,0,None,None,None,None

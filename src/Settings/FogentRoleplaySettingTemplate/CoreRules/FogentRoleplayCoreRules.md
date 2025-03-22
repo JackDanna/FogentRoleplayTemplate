@@ -714,25 +714,31 @@ When using a Range on a battlemap, if any of the components of the Range have a 
 
 Ranges with "... Per Dice" parts of there components scales with the size of the Skill Dice Pool they are associated with. This could be used for magic users, with the size of their area of effects scaling with their proficiency with their magic. This could also just be getting more skillful with a weapon.
 
-Effective/Ineffective/Max Component of Range = (Effective/Ineffective/Max Range) + ( (Number of skill dice) * (Effective/Ineffective/Max Range Per Dice) )
+When calculating a component of a Range, for example Effective Range, you first multiply "Effective Range Per Dice" by the current size of the governing skill dice pool. You than take that result and add it to the "Effective Range Base". 
 
-|     Name     | Effective Range | Effective Range Per Dice | Ineffective Range Option | Ineffective Range Per Dice Option | Max Range Option | Max Range Per Dice Option |
-| :----------: | :-------------: | :----------------------: | :----------------------: | :-------------------------------: | :--------------: | :-----------------------: |
-|     Self     |        0        |            0            |           None           |               None               |       None       |           None           |
-|    Melee    |        5        |            0            |           None           |               None               |       None       |           None           |
-|    Reach    |       10       |            0            |           None           |               None               |       None       |           None           |
-|     Near     |        0        |           1.67           |            0            |               3.34               |        0        |           5.01           |
-|    Close    |        0        |           2.5           |            0            |                 5                 |        0        |            7.5            |
-|    Short    |        0        |           3.34           |            0            |               6.68               |        0        |           10.02           |
-|   Mediocre   |        0        |            5            |            0            |                10                |        0        |            15            |
-|    Medium    |        0        |           7.5           |            0            |                15                |        0        |           22.5           |
-|   Extended   |        0        |            10            |            0            |                20                |        0        |            30            |
-|     Far     |        0        |            15            |            0            |                30                |        0        |            45            |
-|     Long     |        0        |            20            |            0            |                40                |        0        |            60            |
-|   Distant   |        0        |            25            |            0            |                50                |        0        |            75            |
-| Sharpshooter |        0        |            30            |            0            |                60                |        0        |            90            |
-|   Extreme   |        0        |            35            |            0            |                70                |        0        |            105            |
-|    Sniper    |        0        |            50            |            0            |                100                |        0        |            150            |
+Effective Range = (Effective Range Base) + ( (Size of governing skill dice pool) * (Effective Range Per Dice) )
+
+Ineffective Range = (Ineffective Range Base) + ( (Size of governing skill dice pool) * (Ineffective Range Per Dice) )
+
+Max Range = (Max Range Base) + ( (Size of governing skill dice pool) * (Max Range Per Dice) )
+
+|     Name     | Effective Range Base | Effective Range Per Dice | Ineffective Range Base Option | Ineffective Range Per Dice Option | Max Range Base Option | Max Range Per Dice Option |
+| :----------: | :------------------: | :----------------------: | :---------------------------: | :-------------------------------: | :-------------------: | :-----------------------: |
+|     Self     |          0          |            0            |             None             |               None               |         None         |           None           |
+|    Melee    |          5          |            0            |             None             |               None               |         None         |           None           |
+|    Reach    |          10          |            0            |             None             |               None               |         None         |           None           |
+|     Near     |          0          |           1.67           |               0               |               3.34               |           0           |           5.01           |
+|    Close    |          0          |           2.5           |               0               |                 5                 |           0           |            7.5            |
+|    Short    |          0          |           3.34           |               0               |               6.68               |           0           |           10.02           |
+|   Mediocre   |          0          |            5            |               0               |                10                |           0           |            15            |
+|    Medium    |          0          |           7.5           |               0               |                15                |           0           |           22.5           |
+|   Extended   |          0          |            10            |               0               |                20                |           0           |            30            |
+|     Far     |          0          |            15            |               0               |                30                |           0           |            45            |
+|     Long     |          0          |            20            |               0               |                40                |           0           |            60            |
+|   Distant   |          0          |            25            |               0               |                50                |           0           |            75            |
+| Sharpshooter |          0          |            30            |               0               |                60                |           0           |            90            |
+|   Extreme   |          0          |            35            |               0               |                70                |           0           |            105            |
+|    Sniper    |          0          |            50            |               0               |                100                |           0           |            150            |
 
 ## Area Of Effect
 
@@ -754,21 +760,25 @@ When dealing with a character between two of the components, such as on the edge
 
 Area Of Effects with "... Per Dice" parts of there components scales with the size of the Skill Dice Pool they are associated with. This could be used for magic users, with the size of their area of effects scaling with their proficiency with their magic.
 
-Effective/Ineffective/Max Component of Area Of Effect = (Effective/Ineffective/Max Radius/Length) + ( (Number of skill dice) * (Effective/Ineffective/Max Per Dice) )
-
 ### Sphere
 
 Point of Origin: A Sphere's point of origin will be at there center.
 
-|           Name           | Effective Radius | Effective Radius Per Dice | Ineffective Radius Option | Ineffective Radius Per Dice Option | Max Radius Option | Max Radius Per Dice Option |
-| :-----------------------: | :--------------: | :-----------------------: | :-----------------------: | :--------------------------------: | :---------------: | :------------------------: |
-|        5 ft Sphere        |        5        |             0             |           None           |                None                |       None       |            None            |
-|       10 ft Sphere       |        10        |             0             |           None           |                None                |       None       |            None            |
-|       15 ft Sphere       |        15        |             0             |           None           |                None                |       None       |            None            |
-|       20 ft Sphere       |        20        |             0             |           None           |                None                |       None       |            None            |
-|       25 ft Sphere       |        25        |             0             |           None           |                None                |       None       |            None            |
-|       30 ft Sphere       |        30        |             0             |           None           |                None                |       None       |            None            |
-| Medium Sphere Calculation |       2.5       |            2.5            |           None           |                None                |       None       |            None            |
+Effective Radius = (Effective Radius Base) + ( (Size of governing skill dice pool) * (Effective Radius Per Dice) )
+
+Ineffective Radius = (Ineffective Radius Base) + ( (Size of governing skill dice pool) * (Ineffective Radius Per Dice) )
+
+Max Radius = (Max Radius Base) + ( (Size of governing skill dice pool) * (Max Radius Per Dice) )
+
+|           Name           | Effective Radius Base | Effective Radius Per Dice | Ineffective Radius Base Option | Ineffective Radius Per Dice Option | Max Radius Base Option | Max Radius Per Dice Option |
+| :-----------------------: | :-------------------: | :-----------------------: | :----------------------------: | :--------------------------------: | :--------------------: | :------------------------: |
+|        5 ft Sphere        |           5           |             0             |              None              |                None                |          None          |            None            |
+|       10 ft Sphere       |          10          |             0             |              None              |                None                |          None          |            None            |
+|       15 ft Sphere       |          15          |             0             |              None              |                None                |          None          |            None            |
+|       20 ft Sphere       |          20          |             0             |              None              |                None                |          None          |            None            |
+|       25 ft Sphere       |          25          |             0             |              None              |                None                |          None          |            None            |
+|       30 ft Sphere       |          30          |             0             |              None              |                None                |          None          |            None            |
+| Medium Sphere Calculation |          2.5          |            2.5            |              None              |                None                |          None          |            None            |
 
 ### Cone
 
@@ -776,21 +786,27 @@ Point of Origin: A Cone point of origin will be the narrowest point of the cone,
 
 If a cone has an angle of 53.13, than the cone's width is equal to its length at any given point. which means that the cone's area of effect is specified by its maximum length. For example, a cone spell with a range of 15 ft will extend up to 15 ft away from the point of origin, and at any point, its width matches its length.
 
-|          Name          | Angle | Effective Length | Effective Length Per Dice | Ineffective Length Option | Ineffective Length Per Dice Option | Max Length Option | Max Length Per Dice Option |
-| :---------------------: | :---: | :--------------: | :-----------------------: | :-----------------------: | :--------------------------------: | :---------------: | :------------------------: |
-|       10 ft Cone       | 53.13 |        10        |           None           |           None           |                None                |       None       |            None            |
-|       15 ft Cone       | 53.13 |        15        |           None           |           None           |                None                |       None       |            None            |
-|       20 ft Cone       | 53.13 |        20        |           None           |           None           |                None                |       None       |            None            |
-|       25 ft Cone       | 53.13 |        25        |           None           |           None           |                None                |       None       |            None            |
-|       30 ft Cone       | 53.13 |        30        |           None           |           None           |                None                |       None       |            None            |
-|       35 ft Cone       | 53.13 |        35        |           None           |           None           |                None                |       None       |            None            |
-|       40 ft Cone       | 53.13 |        40        |           None           |           None           |                None                |       None       |            None            |
-|       45 ft Cone       | 53.13 |        45        |           None           |           None           |                None                |       None       |            None            |
-|       50 ft Cone       | 53.13 |        50        |           None           |           None           |                None                |       None       |            None            |
-|       55 ft Cone       | 53.13 |        55        |           None           |           None           |                None                |       None       |            None            |
-|       60 ft Cone       | 53.13 |        60        |           None           |           None           |                None                |       None       |            None            |
-| Close Cone Calculation | 53.13 |       2.5       |            2.5            |           None           |                None                |       None       |            None            |
-| Medium Cone Calculation | 53.13 |       2.5       |             5             |           None           |                None                |       None       |            None            |
+Effective Length = (Effective Length Base) + ( (Size of governing skill dice pool) * (Effective Length Per Dice) )
+
+Ineffective Length = (Ineffective Length Base) + ( (Size of governing skill dice pool) * (Ineffective Length Per Dice) )
+
+Max Length = (Max Length Base) + ( (Size of governing skill dice pool) * (Max Length Per Dice) )
+
+|          Name          | Angle | Effective Length Base | Effective Length Per Dice | Ineffective Length Base Option | Ineffective Length Per Dice Option | Max Length Base Option | Max Length Per Dice Option |
+| :---------------------: | :---: | :-------------------: | :-----------------------: | :----------------------------: | :--------------------------------: | :--------------------: | :------------------------: |
+|       10 ft Cone       | 53.13 |          10          |           None           |              None              |                None                |          None          |            None            |
+|       15 ft Cone       | 53.13 |          15          |           None           |              None              |                None                |          None          |            None            |
+|       20 ft Cone       | 53.13 |          20          |           None           |              None              |                None                |          None          |            None            |
+|       25 ft Cone       | 53.13 |          25          |           None           |              None              |                None                |          None          |            None            |
+|       30 ft Cone       | 53.13 |          30          |           None           |              None              |                None                |          None          |            None            |
+|       35 ft Cone       | 53.13 |          35          |           None           |              None              |                None                |          None          |            None            |
+|       40 ft Cone       | 53.13 |          40          |           None           |              None              |                None                |          None          |            None            |
+|       45 ft Cone       | 53.13 |          45          |           None           |              None              |                None                |          None          |            None            |
+|       50 ft Cone       | 53.13 |          50          |           None           |              None              |                None                |          None          |            None            |
+|       55 ft Cone       | 53.13 |          55          |           None           |              None              |                None                |          None          |            None            |
+|       60 ft Cone       | 53.13 |          60          |           None           |              None              |                None                |          None          |            None            |
+| Close Cone Calculation | 53.13 |          2.5          |            2.5            |              None              |                None                |          None          |            None            |
+| Medium Cone Calculation | 53.13 |          2.5          |             5             |              None              |                None                |          None          |            None            |
 
 ### Range and Area Of Effects
 
@@ -886,8 +902,8 @@ Different characters get different movement speeds in combat on a battlemap.
 
 **Movement Per Reflex Speed Attribute:** The number of feet per gained/lost per Reflex Speed Attribute.
 
-|       Name       | Governing Skill Name | Movement Per Governing Skill Dice | Reaction Speed Attribute Name | Movement Per Reaction Speed Attribute |                        Desc                        |  Duration  | Source |
-| :---------------: | :------------------: | :-------------------------------: | :---------------------------: | :-----------------------------------: | :------------------------------------------------: | :--------: | :----: |
+|                Name                | Governing Skill Name | Movement Per Governing Skill Dice | Reaction Speed Attribute Name | Movement Per Reaction Speed Attribute |                        Desc                        |  Duration  | Source |
+| :--------------------------------: | :------------------: | :-------------------------------: | :---------------------------: | :-----------------------------------: | :------------------------------------------------: | :--------: | :----: |
 | Combat Movement Speed: Terrestrial |      Athletics      |                10                |              RFX              |                  10                  | ? ft (+10 ft per Athletics Dice, +/-10 ft per RFX) | Indefinite | Innate |
 |    Combat Movement Speed: Swim    |      Athletics      |                 5                 |              RFX              |                   5                   |  ? ft (+5 ft per Athletics Dice, +/-5 ft per RFX)  | Indefinite | Innate |
 |    Combat Movement Speed: Climb    |      Athletics      |                 5                 |              RFX              |                   5                   |  ? ft (+5 ft per Athletics Dice, +/-5 ft per RFX)  | Indefinite | Innate |
