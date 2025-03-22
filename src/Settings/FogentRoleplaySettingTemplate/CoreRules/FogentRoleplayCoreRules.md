@@ -900,8 +900,6 @@ A character takes up a certain amount of space on the battle map.
 
 Movement Speed is used in combat to determine how quickly a character can move before others aswell as the total distance they can move in a round. Movement Speed is made up of two portions, Reaction Movement Speed and Raw Movement Speed.
 
-Reaction Movement Speed = (Reaction Movement Speed Base) + ( (Amount From Governing Skill Dice) * (Reaction Movement Speed Per Skill Dice) )
-
 Raw Movement Speed = (Raw Movement Speed Base) + ( (Amount From Governing Skill Dice) * (Raw Movement Speed Per Skill Dice) )
 
 Total Movement Speed (Reaction Movement Speed) + (Raw Movement Speed)
@@ -916,11 +914,15 @@ Total Movement Speed (Reaction Movement Speed) + (Raw Movement Speed)
 
 ### Reaction Movement Speed
 
-Reaction Movement Speed is the initial portion of a character's movement and represents how fast they are to get into motion.
+Reaction Movement Speed is the initial portion of a character's movement and represents how quick they are to get into motion and act.
+
+While lower Reaction Movement Speed characters are deciding what to do, high Reaction Movement Speed characters are already in motion. This can allow them to disengage from opponents, slip behind a door before it closes, avoid an Area Of Effect they are about to be caught in, close the distance to an opponent, ect...
+
+For each Reaction Movement Speed Option, for the specified Skill, gain the correspounding amount multiplied by the amount of Dice in the Skill's dice pool.
+
+Reaction Movement Speed = (Reaction Movement Speed Base) + ( (Amount From Governing Skill Dice) * (Reaction Movement Speed Per Skill Dice) )
 
 ### Reflex Speed
-
-Characters with a higher Reflex Speed Attribute are quicker to plan and act in combat. While lower Reflex Speed Attribute characters are deciding what to do, high Reflex Speed Attribute characters are already in motion. For each positive/negative level in RFX, the character gains/loses movement speed.
 
 RFX speed can be used to resolve circumstances when it is unclear which opponent moved first or closed some distance. RFX Speed is used first on a character's turn, with lower RFX characters considered to have not moved/acted yet. This rule takes inspiration from the gun vs knife debate at close distances, where it is argued that within a certain distance, a quick knife wielder might be able to close the distance before the shooter could get accurate shots on target. The ensuing ranged versus melee combat rolls would be disadvantageous for the ranged combatant as they are in melee reach.
 
