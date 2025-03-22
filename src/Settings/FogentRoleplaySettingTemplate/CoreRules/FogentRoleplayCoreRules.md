@@ -27,7 +27,7 @@ The rules are the foundation and narrative engine for your game. They are listed
   - [Area Of Effect](#area-of-effect)
   - [Uses Per Round](#uses-per-round)
   - [Battle Map](#battle-map)
-  - [Combat Movement Speed](#combat-speed)
+  - [Movement Speed](#combat-speed)
   - [Ammunitions](#ammunitions)
   - [Weapons](#weapons)
   - [Weapon Combat Skills](#weapon-combat-skills)
@@ -206,7 +206,7 @@ RFX has the following effects:
 
 - RFX is factored into all RFX Governed Skills (Dexterity, Perception, Stealth, etc...).
 - As combat is conducted in a round-by-round format, the player with the highest RFX gets priority in that round.
-- Character with higher RFX have better RFX Speed, which allows an amount of movement before slower characters within a combat round and increases all Combat Movement Speeds.
+- Character with higher RFX have better Reaction Movement Speed, which allows an amount of movement before slower characters within a combat round and increases all Movement Speeds.
 
 ### Intelligence (INT)
 
@@ -896,72 +896,121 @@ A character takes up a certain amount of space on the battle map.
 |    Size: Huge    |  15x15 ft on battle map.  |          |        |
 | Size: Gargantuan |  20x20 ft on battle map.  |          |        |
 
-## Combat Movement Speed
+## Movement Speed
 
-Different characters get different movement speeds in combat on a battlemap.
+Movement Speed is used in combat to determine how quickly a character can move before others as well as the total distance they can move in a round. Movement Speed is made up of two portions, Reaction Movement Speed and Raw Movement Speed.
 
-**Governing Skill Name:** The skill that governs this type of movement speed.
+Raw Movement Speed = (Raw Movement Speed Base) + ( (Amount From Governing Skill Dice) * (Raw Movement Speed Per Skill Dice) )
 
-**Movement Per Governing Skill Dice:** The number of movement per dice of the governing skill dice pool. This includes dice modifications such as skill buff effects, carry weight penalties, injuries, etc. If the resulting number isn't a multiple of 5, round down to the nearest multiple of 5.
+Total Movement Speed (Reaction Movement Speed) + (Raw Movement Speed)
 
-**Reflex Speed Attribute Name:** The Attribute that governs Reflex Speed.
+|            Name            | Reaction Movement Speed Base | Reaction Movement Speed Per Skill Dice Option | Raw Movement Speed Base | Raw Movement Speed Per Skill Dice Option |                                            Desc                                            |  Duration  | Source |
+| :-------------------------: | :--------------------------: | :-------------------------------------------: | :---------------------: | :--------------------------------------: | :-----------------------------------------------------------------------------------------: | :--------: | :----: |
+| Movement Speed: Terrestrial |              0              |                (Dexterity,2.5)                |            0            |             (Athletics,7.5)             | +7.5 Raw Movement Speed per Athletics Dice, +2.5 Reaction Movement Speed per Dexterity Dice | Indefinite | Innate |
+|    Movement Speed: Swim    |              0              |                (Dexterity,2.5)                |            0            |              (Athletics,5)              |  +5 Raw Movement Speed per Athletics Dice, +2.5 Reaction Movement Speed per Dexterity Dice  | Indefinite | Innate |
+|    Movement Speed: Climb    |              0              |                (Dexterity,2.5)                |            0            |              (Athletics,5)              |  +5 Raw Movement Speed per Athletics Dice, +2.5 Reaction Movement Speed per Dexterity Dice  | Indefinite | Innate |
+|   Movement Speed: Flight   |              0              |                 (Dexterity,5)                 |            0            |              (Athletics,10)              |  +10 Raw Movement Speed per Athletics Dice, +5 Reaction Movement Speed per Dexterity Dice  | Indefinite | Innate |
+|   Movement Speed: Aquatic   |              0              |                (Dexterity,2.5)                |            0            |             (Athletics,7.5)             | +7.5 Raw Movement Speed per Athletics Dice, +2.5 Reaction Movement Speed per Dexterity Dice | Indefinite | Innate |
 
-**Movement Per Reflex Speed Attribute:** The number of feet per gained/lost per Reflex Speed Attribute.
+### Reaction Movement Speed
 
-|                Name                | Governing Skill Name | Movement Per Governing Skill Dice | Reaction Speed Attribute Name | Movement Per Reaction Speed Attribute |                        Desc                        |  Duration  | Source |
-| :--------------------------------: | :------------------: | :-------------------------------: | :---------------------------: | :-----------------------------------: | :------------------------------------------------: | :--------: | :----: |
-| Combat Movement Speed: Terrestrial |      Athletics      |                10                |              RFX              |                  10                  | ? ft (+10 ft per Athletics Dice, +/-10 ft per RFX) | Indefinite | Innate |
-|    Combat Movement Speed: Swim    |      Athletics      |                 5                 |              RFX              |                   5                   |  ? ft (+5 ft per Athletics Dice, +/-5 ft per RFX)  | Indefinite | Innate |
-|    Combat Movement Speed: Climb    |      Athletics      |                 5                 |              RFX              |                   5                   |  ? ft (+5 ft per Athletics Dice, +/-5 ft per RFX)  | Indefinite | Innate |
-|   Combat Movement Speed: Flight   |      Athletics      |                15                |              RFX              |                  15                  | ? ft (+15 ft per Athletics Dice, +/-15 ft per RFX) | Indefinite | Innate |
-|   Combat Movement Speed: Aquatic   |      Athletics      |                10                |              RFX              |                  10                  | ? ft (+10 ft per Athletics Dice, +/-10 ft per RFX) | Indefinite | Innate |
+Reaction Movement Speed is the initial portion of a character's movement and represents how quick they are to get into motion and act.
 
-### Reflex Speed
+While lower Reaction Movement Speed characters are deciding what to do, high Reaction Movement Speed characters are already in motion. This can allow them to disengage from opponents, slip behind a door before it closes, avoid an Area Of Effect they are about to be caught in, close the distance to an opponent, ect...
 
-Characters with a higher Reflex Speed Attribute are quicker to plan and act in combat. While lower Reflex Speed Attribute characters are deciding what to do, high Reflex Speed Attribute characters are already in motion. For each positive/negative level in RFX, the character gains/loses movement speed.
+For each Reaction Movement Speed Option, for the specified Skill, gain the corresponding amount multiplied by the amount of Dice in the Skill's dice pool.
 
-RFX speed can be used to resolve circumstances when it is unclear which opponent moved first or closed some distance. RFX Speed is used first on a character's turn, with lower RFX characters considered to have not moved/acted yet. This rule takes inspiration from the gun vs knife debate at close distances, where it is argued that within a certain distance, a quick knife wielder might be able to close the distance before the shooter could get accurate shots on target. The ensuing ranged versus melee combat rolls would be disadvantageous for the ranged combatant as they are in melee reach.
+Reaction Movement Speed = (Reaction Movement Speed Base) + ( (Amount From Governing Skill Dice) * (Reaction Movement Speed Per Skill Dice) )
 
-#### Example 1
+Reaction Movement Speed can be used to resolve circumstances when it is unclear which character moved first or closed some distance. Reaction Movement Speed is used first on a character's turn, with lower Reaction Movement Speed characters considered to have not moved/acted yet. This rule takes inspiration from the gun vs knife debate at close distances, where it is argued that within a certain distance, a quick knife wielder might be able to close the distance before the shooter could get accurate shots on target. The ensuing ranged versus melee combat rolls would be disadvantageous for the ranged combatant as they are in melee reach.
 
-A rogue with a dagger is trying to close the distance on an archer who is 10 feet away. The rogue has a 1 in RFX and the archer has a 0 in RFX. The archer declares he is going to shoot the rogue with his bow as he uses his movement speed to stay out of range of the knife. The rogue declares he is going to close the distance, attack with the knife, and stay on the archer, which will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks. Since the Rogue has a higher reflex, he can move 10 feet with his RFX Speed before the archer can lose the arrow, closing the distance. Now they will make combat rolls versus one another, with the archer being at a clear disadvantage.
+**Example 1:**
 
-The archer, now likely wounded from the rogue knife, tries to use the rest of his movement speed to stay away from the rogue's knife range. However, the gap between the rogue and the archer is 0 feet as the rogue stays on the archer, assuming he has the same or greater remaining movement speed as the archer, ready to stab him again next round.
+A rogue with a dagger is trying to close the distance on an archer who is 5 feet away.
 
-#### Example 2
+Their respective RFX levels are 1 for the rogue and 0 for the archer.
 
-A rogue with a dagger is trying to close the distance on an archer who is 15 feet away. The rogue has a 1 in RFX and the archer has a 0 in RFX. The archer declares he is going to shoot the rogue with his bow as he uses his movement speed to stay out of range of the knife. The rogue declares he is going to close the distance and stab the archer, which will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks. Since the Rogue has a higher reflex, he can move 10 feet with his RFX Speed before the archer can lose the arrow, not entirely able to close the gap. With 5 feet between the rogue and the archer, the arrow is shot. The Rogue must now try and dodge the arrow, before he can attack, possibly proving fatal.
+Their respective Reaction Movement Speeds are 10 feet for the rogue and 5 feet for the archer.
 
-The archer is then able to flee backward, keeping the 5 feet of distance between him and the rogue, never getting stabbed, assuming he has the same or greater remaining movement speed as the rogue.
+The archer declares he is going to shoot the rogue with his bow as he uses his Movement Speed to stay out of range of the knife.
 
-#### Example 3
+The rogue declares he is going to close the distance, attack with the knife, and stay on the archer. If the Rogue pulls this off, it will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks.
 
-A crappy rogue with a dagger is trying to close the distance on an archer who is 10 feet away. The rogue has a 0 in RFX and the archer has a 0 in RFX. The archer declares he is going to shoot the rogue with his bow as he uses his movement speed to stay out of range of the knife. The rogue declares he is going to close the distance and stab the archer, which will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks. Since the rogue has the same RFX as the archer, he is slow to get into motion, which gives the archer time to lose his arrow as he also begins moving. The Rogue must now try and dodge the arrow, possibly proving fatal.
+Since the Rogue has 5 ft more Reaction Movement Speed, he can move those 5 feet before the archer can lose the arrow, closing the distance. Now they will make combat rolls versus one another, with the archer being at a clear disadvantage.
 
-The archer is then able to flee backward as the rogue chases, keeping the 10 feet of distance between him and the rogue, never getting stabbed, assuming he has the same or greater remaining movement speed as the rogue.
+The archer, now likely wounded from the rogue knife, tries to use the rest of his Movement Speed to stay away from the rogue's knife range. Assuming the Rogue has the same or greater remaining movement speed as the archer, the rogue stays on the archer and the gap is 0 feet, ready to stab him again next round.
 
-#### Example 4
+**Example 2:**
 
-A rogue with a dagger is trying to close the distance on a knight who is 10 feet away. The rogue has 1 RFX and the knight has 0 RFX. The knight declares he is going to move forward and swing on the rogue with the longsword he has in his hands. The rogue declares he is going to close the distance and stab the knight. Since the Rogue has a higher reflex, he can move 10 feet with his RFX Speed before the knight can move, closing the gap. Since the knight already had his sword ready to go, combat rolls are made versus one another.
+A rogue with a dagger is trying to close the distance on an archer who is 10 feet away.
 
-### Using multiple Combat Movement Speeds on the same round
+Their respective RFX levels are 1 for the rogue and 0 for the archer.
 
-Whenever a character needs to use multiple movement speeds in a round, you can determine the amount of dice worth of movement they have taken. You can then subtract that amount from the new Combat Movements Speeds Governing Skill dice pool, using the remaining dice for your movement.
+Their respective Reaction Movement Speeds are 10 feet for the rogue and 5 feet for the archer.
 
-For example, a character with an Athletics dice pool of 4 has 40 "Terrestrial" Combat Movement Speed. Let's say they walk 20 ft to a wall an then begin to climb it. For 20 ft of Movement, they spent 2 dice worth of their Athletics dice pool. We then subtract 2 dice from Climb's Governing Skill dice pool, which also happens to be Athletics. Therefore, we have 2 dice left over giving us 10 ft of climb this round.
+The archer declares he is going to shoot the rogue with his bow as he uses his Movement Speed to stay out of range of the knife.
+
+The rogue declares he is going to close the distance, attack with the knife, and stay on the archer. If the Rogue pulls this off, it will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks.
+
+Since the Rogue has 5 ft more Reaction Movement Speed, he can move those 5 feet before the archer can lose the arrow, closing the distance. With 5 feet between the rogue and the archer, the arrow is shot. The rogue must now try and dodge the arrow, before he can attack, possibly proving fatal.
+
+The archer is then able to flee backward. Assuming he has the same or greater remaining movement speed as the possibly injured rogue, the archer can keep the 5 feet of distance between him and the rogue, never getting stabbed.
+
+**Example 3:**
+
+A crappy rogue with a dagger is trying to close the distance on an archer who is 5 feet away.
+
+Their respective RFX levels are 0 for the rogue and 0 for the archer.
+
+Their respective Reaction Movement Speeds are 10 feet for the rogue and 5 feet for the archer.
+
+The rogue declares he is going to close the distance, attack with the knife, and stay on the archer. If the Rogue pulls this off, it will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks.
+
+The archer declares he is going to shoot the rogue with his bow as he uses his Movement Speed to stay out of range of the knife.
+
+Since the rogue has the same Reaction Movement Speed as the archer, he is slow to get into motion, which gives the archer time to lose his arrow as he also begins moving. With 5 feet between the rogue and the archer, the arrow is shot. The rogue must now try and dodge the arrow, before he can attack, possibly proving fatal.
+
+The archer is then able to flee backward. Assuming he has the same or greater remaining movement speed as the possibly injured rogue, the archer can keep the 5 feet of distance between him and the rogue, never getting stabbed.
+
+**Example 4:**
+
+A rogue with a dagger is trying to close the distance on an knight who is 5 feet away standing in some slippery mud. The knight is right on the edge of the mud pool, and the rogue realizes if he can attack the knight while he's standing in the mud, he has a better chance of defeating him.
+
+Their respective RFX levels are 1 for the rogue and 0 for the knight.
+
+Their respective Reaction Movement Speeds are 10 feet for the rogue and 5 feet for the archer.
+
+The knight declares he is going to move forward out of the mud and swing on the rogue with the longsword he has in his hands.
+
+The rogue declares he is going to close the distance before the knight moves out of the mud and try to stab the knight in one of his armors chinks.
+
+Since the Rogue has a Reaction Movement Speeds, he can move 5 feet with his Reaction Movement Speed before the knight can move, closing the gap.
+
+Since the knight already had his sword ready to go, combat rolls will be made, but the knight will do so while having to deal with the disadvantageous position being in slippery mud.
+
+### Raw Movement Speed
+
+Raw Movement Speed is the second portion of a character's movement and represents how fast they are once at there top speed.
+
+Raw Movement Speed should always make up a far greater amount of your Total Movement Speed as compared to Reaction Movement Speed. Even though characters with higher Reaction Movement Speed might be quicker to initially move, there is nothing prevent a high Raw Movement Speed character from running them down.
+
+For each Raw Movement Speed Option, for the specified Skill, gain the corresponding amount multiplied by the amount of Dice in the Skill's dice pool.
+
+Raw Movement Speed = (Raw Movement Speed Base) + ( (Amount From Governing Skill Dice) * (Raw Movement Speed Per Skill Dice) )
+
+### Using multiple Movement Speeds on the same round
+
+Whenever a character needs to use multiple movement speeds in a round, calculate what percentage of their movement they've used that round for their initial movement, with the remainder percent being used for another movement speed.
+
+For example, if a character has 30 feet of "Terrestrial" and 15 feet of "Climb Combat Speed". The character walks 15 feet up to a climbable rock face. They've used 50% (15/30 = 0.5) of their movement speed, leaving them 50% of their climb combat speed. 50% of 15 feet is 7.5 feet. Therefore the character can climb 7.5 feet up the rock face.
 
 ### Difficult Terrain
 
 Steep mountains, ice-covered ground, swamps, etc. are difficult terrain. It takes twice the movement to move through these terrains.
 
-### Mounted Combat Movement Speed
+### Mounted Movement Speed
 
-When riding a mount in combat:
-
-- The rider's Dexterity core Skill or Riding Vocational Skill level is used in place of the mount's governing skill level for determining the governing skill dice pool size, capped by the mount's governing skill level.
-- The rider's RFX level is used in place of the mount's RFX, capped by the mount's RFX level.
-
-Additionally, when a mounted character or their mount takes an injury in combat, an Dexterity or Riding check equivalent to the injury level must be succeeded to stay on horseback, or else they are knocked off.
+The rider's Dexterity dice pool size is used for the mounts Reaction Movement Speed calculation.Additionally, when a mounted character or their mount takes an injury in combat, a Dexterity or Riding skill check equivalent to the injury level must be succeeded to stay on horseback, or else they are knocked off.
 
 ## Ammunitions
 
@@ -1340,7 +1389,7 @@ Actions in combat rounds are not solely movements and attacks. A combat action c
 
 ### Round Order
 
-Every action within Round-by-Round conflicts happens almost at the same time or in direct succession to one another. This means that one character's action is NOT explicitly followed by another character's action. It should be considered as everything happening together, with the one exception being RFX speed.
+Every action within Round-by-Round conflicts happens almost at the same time or in direct succession to one another. This means that one character's action is NOT explicitly followed by another character's action. It should be considered as everything happening together, with the one exception being Reaction Movement Speed.
 
 To make sense of this potential 'chaos', there is a declaration phase and an action phase.
 
@@ -1431,7 +1480,7 @@ If your character gains disadvantage (often the result of a stagger or being kno
 
 ### Prone
 
-- Only able to crawl using their Climb Combat Movement Speed.
+- Only able to crawl using their Climb Movement Speed.
 - Disadvantage on any check that generally assumes a character is standing (i.e. Combat Rolls, Dexterity Checks, etc... )
 - Melee Combat Rolls (Melee or Reach Ranges) made by a standing character against a prone character have the [High Ground](./CombatModifiersAndCombatAssists.md#high-ground-advantage) combat modifier (Advantage).
 - Ranged attacks against a prone opponent gain Disadvantage if the Narrator believes they would be a more difficult target due to being a smaller target. For instance, shooting a prone opponent 10 feet away wouldn't have Disadvantage. However, shooting a prone sniper at range who is making themselves a small target would incur Disadvantage.
@@ -1547,7 +1596,7 @@ The opponent gains the Prone condition.
 
 A character can declare they are attempting to get up on a round they start prone. Getting up requires the downed opponent to use their entire movement speed. They can regain their footing and remove the Prone condition at the end of the round they were getting up.
 
-Instead of getting up, a character can remain prone and crawl. They use their Climb Combat Movement Speed to crawl instead of their movement speed.
+Instead of getting up, a character can remain prone and crawl. They use their Climb Movement Speed to crawl instead of their movement speed.
 
 ### Level 4 Victory
 
@@ -2508,7 +2557,7 @@ Almost all traditional offensive magic spells can be represented as Weapon Spell
 
 |          Name          | CL/Magic Resource | Casting Time | Range |         Duration         | Magic Skills Required |                                                                                             Description                                                                                             |
 | :---------------------: | :---------------: | :----------: | :---: | :-----------------------: | :-------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|     Manifest Wings     |         3         |   1 action   | Self | Concentration, 10 minutes |     Bodily Magic     |                                                              Character grows wings and gains the Flight Combat Movement Speed effect.                                                              |
+|     Manifest Wings     |         3         |   1 action   | Self | Concentration, 10 minutes |     Bodily Magic     |                                                                  Character grows wings and gains the Flight Movement Speed effect.                                                                  |
 | Beastial Transformation |         3         |   1 action   | Self |   Concentration, 1 hour   |     Bodily Magic     | Character undergoes a transformation, becoming more beast like. Character can gain either a +1 to STR or RFX. However, they also gain a -1 to INT as their rational mind has become more beastlike. |
 
 ### Expert Spells (CL 5-6)

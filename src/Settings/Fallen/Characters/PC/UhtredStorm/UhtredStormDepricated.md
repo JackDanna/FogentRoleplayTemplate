@@ -32,9 +32,9 @@
 |          Equipment Weight          |                            25.1 lb                            |          |                    Equipment                    |
 |            Carry Weight            |                            120 lb                            |          |        +50 lbs Carry Weight per Lift dice        |
 |        Weight Class: Light        |              -0d to STR/RFX governed Dice Pools              |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
-|      Terrestrial Combat Movement Speed      |                             50 ft                             |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
-|         Swim Combat Movement Speed         |                             25 ft                             |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
-|         Climb Combat Movement Speed         |                             15 ft                             |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|      Terrestrial Movement Speed      |                             50 ft                             |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|         Swim Movement Speed         |                             25 ft                             |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|         Climb Movement Speed         |                             15 ft                             |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 
 ## Combat Rolls
 
