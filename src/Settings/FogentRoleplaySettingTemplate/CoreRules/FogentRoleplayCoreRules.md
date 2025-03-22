@@ -714,7 +714,7 @@ When using a Range on a battlemap, if any of the components of the Range have a 
 
 Ranges with "... Per Dice" parts of there components scales with the size of the Skill Dice Pool they are associated with. This could be used for magic users, with the size of their area of effects scaling with their proficiency with their magic. This could also just be getting more skillful with a weapon.
 
-When calculating a component of a Range, for example Effective Range, you first multiply "Effective Range Per Dice" by the current size of the governing skill dice pool. You than take that result and add it to the "Effective Range Base". 
+When calculating a component of a Range, for example Effective Range, you first multiply "Effective Range Per Dice" by the current size of the governing skill dice pool. You than take that result and add it to the "Effective Range Base".
 
 Effective Range = (Effective Range Base) + ( (Size of governing skill dice pool) * (Effective Range Per Dice) )
 
@@ -824,30 +824,33 @@ Cases will arise when an action is performed with a combination of Effective/Ine
 
 ## Uses Per Round
 
-Uses Per Round represent the number of times some skill governed action can be preformed in a combat round. Taking firearms as an example, the faster the fire rate and easier it is to reload, the better it's Uses Per Round should be. For instance, a flint lock pistol should have a far slower Uses Per Round as compared to a modern hand gun.
+Uses Per Round represent the number of times some skill governed action can be preformed in a round. Taking firearms as an example, the faster the fire rate and easier it is to reload, the better it's Uses Per Round should be. A flint lock pistol should have a far slower Uses Per Round as compared to a modern pistol.
 
-If a character completely depletes their Uses Per Round for a combat round they can no longer use there combat roll for that combat round and are instead forced to dodge if they are being attacked.
-
-### Uses Per Round calculations
+If a character completely depletes their Uses Per Round for a combat round they can no longer use their combat roll for that combat round and are instead forced to dodge if they are being attacked.
 
 Uses Per Round is calculated using the following equation:
 
-( (Number of Skill Dice) + (Dice Amount Adjustment) )/ (Combat Roll Divisor), rounded down to the nearest whole number only if above 1, to a maximum of (Max Uses Per Round Option)
+Amount From Governing Skill Dice = if Divisor Option is "None" then 0 else ( (Size of governing skill dice pool) / (Divisor) )
 
-For example, if a character had 7 dice in their governing skill dice pool with a Uses Per Round of "Quick", 7 divided by 3 is 2.333, which rounded down is 2. There is non "Max UPR" for "Quick" so they would have 2 Uses Per Round for that round.
+Uses Per Round = (Base) + (Amount From Governing Skill Dice), rounded down to the nearest whole number only if above 1, up to the value of Max Option if not "None"
 
-|      Name      | Combat Roll Divisor | Dice Amount Adjustment | Max Uses Per Round Option |
-| :------------: | :-----------------: | :--------------------: | :-----------------------: |
-|     Rapid     |          1          |           0           |           None           |
-|    Swift +2    |          2          |           2           |           None           |
-|    Swift +1    |          2          |           1           |           None           |
-|     Swift     |          2          |           0           |           None           |
-|     Quick     |          3          |           0           |           None           |
-|     Steady     |          4          |           0           |           None           |
-|     Paced     |          5          |           0           |           None           |
-|      Slow      |          6          |           0           |           None           |
-| Extremely Slow |          8          |           0           |           None           |
-| Painfully Slow |         16         |           0           |           None           |
+For example, if a character's' governing skill dice pool had 7 dice and their combat roll has a Uses Per Round of "Quick", then 7 + 0 is 7, divided by 3 is 2.333, which rounded down is 2. There is no "Max Option" for "Quick" so they would have 2 Uses Per Round for that round.
+
+|         Name         | Base | Divisor Option | Max Option |
+| :------------------: | :--: | :------------: | :--------: |
+|        Rapid        |  0  |       1       |    None    |
+|       Swift +2       |  0  |       2       |    None    |
+|       Swift +1       |  0  |       2       |    None    |
+|        Swift        |  0  |       2       |    None    |
+|        Quick        |  0  |       3       |    None    |
+|        Steady        |  0  |       4       |    None    |
+|        Paced        |  0  |       5       |    None    |
+|         Slow         |  0  |       6       |    None    |
+|    Extremely Slow    |  0  |       8       |    None    |
+|    Painfully Slow    |  0  |       16       |    None    |
+|   One Use Example   |  1  |      None      |    None    |
+| One Round To Reload | 0.7 |      None      |    None    |
+| Two Rounds To Reload | 0.4 |      None      |    None    |
 
 #### Uses Per Round calculations resulting in less than 1
 
@@ -872,6 +875,9 @@ If characters have loaded weapons (for instance loaded muzzle loading firearms) 
 |                   Slow                   |  0.16  |  0.33  |  0.5  |  0.66  |  0.83  |   1   |   1   |   1   |   1   |    1    |    1    |    2    |
 |              Extremely Slow              | 0.125 |  0.25  | 0.375 |  0.5  | 0.625 |  0.75  | 0.875 |   1   |   1   |    1    |    1    |    1    |
 |              Painfully Slow              | 0.0625 |  0.125  | 0.1875 |  0.25  | 0.3125 | 0.375 | 0.4375 |  0.5  | 0.5625 |  0.625  | 0.6875 |  0.75  |
+|              One Use Example              |   1   |    1    |   1   |   1   |   1   |   1   |   1   |   1   |   1   |    1    |    1    |    1    |
+|            One Round To Reload            |  0.7  |   0.7   |  0.7  |  0.7  |  0.7  |  0.7  |  0.7  |  0.7  |  0.7  |   0.7   |   0.7   |   0.7   |
+|           Two Rounds To Reload           |  0.4  |   0.4   |  0.4  |  0.4  |  0.4  |  0.4  |  0.4  |  0.4  |  0.4  |   0.4   |   0.4   |   0.4   |
 
 ## Battle Map
 
