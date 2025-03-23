@@ -1,6 +1,6 @@
 name,reactionMovementSpeedBase,reactionMovementSpeedPerSkillDiceOption,rawMovementSpeedBase,rawMovementSpeedPerSkillDiceOption,desc,duration,source
 Movement Speed: Terrestrial,0,"(Dexterity,2.5)",0,"(Athletics,7.5)","+7.5 Raw Movement Speed per Athletics Dice, +2.5 Reaction Movement Speed per Dexterity Dice",Indefinite,Innate
-Movement Speed: Swim,0,"(Dexterity,2.5)",0,"(Athletics,5)","+5 Raw Movement Speed per Athletics Dice, +2.5 Reaction Movement Speed per Dexterity Dice",Indefinite,Innate
-Movement Speed: Climb,0,"(Dexterity,2.5)",0,"(Athletics,5)","+5 Raw Movement Speed per Athletics Dice, +2.5 Reaction Movement Speed per Dexterity Dice",Indefinite,Innate
-Movement Speed: Flight,0,"(Dexterity,5)",0,"(Athletics,10)","+10 Raw Movement Speed per Athletics Dice, +5 Reaction Movement Speed per Dexterity Dice",Indefinite,Innate
-Movement Speed: Aquatic,0,"(Dexterity,2.5)",0,"(Athletics,7.5)","+7.5 Raw Movement Speed per Athletics Dice, +2.5 Reaction Movement Speed per Dexterity Dice",Indefinite,Innate
+Movement Speed: Swim,0,"(Dexterity,2.5)",0,"(Athletics,5)","+2.5 Reaction Movement Speed per Dexterity Dice, +5 Raw Movement Speed per Athletics Dice",Indefinite,Innate
+Movement Speed: Climb,0,"(Dexterity,2.5)",0,"(Athletics,5)","+2.5 Reaction Movement Speed per Dexterity Dice, +5 Raw Movement Speed per Athletics Dice",Indefinite,Innate
+Movement Speed: Flight,0,"(Dexterity,5)",0,"(Athletics,10)","+5 Reaction Movement Speed per Dexterity Dice, +10 Raw Movement Speed per Athletics Dice",Indefinite,Innate
+Movement Speed: Aquatic,0,"(Dexterity,2.5)",0,"(Athletics,7.5)","+2.5 Reaction Movement Speed per Dexterity Dice, +7.5 Raw Movement Speed per Athletics Dice",Indefinite,Innate
