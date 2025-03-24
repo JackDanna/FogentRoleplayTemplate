@@ -1,0 +1,40 @@
+name,desc,source,duration,amount,maxOption,resource
+HP,,,,10,10,None
+HP with Cap,,,,10,None,None
+,,,,,,
+Standard Light Arrow,Ammunition for Combat Rolls.,Indefinite,Innate,20,None,Standard Light Arrow
+Wounding Light Arrow,Ammunition for Combat Rolls.,Indefinite,Innate,20,None,Wounding Light Arrow
+Anti-armor Light Arrow,Ammunition for Combat Rolls.,Indefinite,Innate,20,None,Anti-armor Light Arrow
+Survival Light Arrow,Ammunition for Combat Rolls.,Indefinite,Innate,20,None,Survival Light Arrow
+Shoddy Light Arrow,Ammunition for Combat Rolls.,Indefinite,Innate,20,None,Shoddy Light Arrow
+,,,,,,
+Standard Heavy Arrow,Ammunition for Combat Rolls.,Indefinite,Innate,20,None,Standard Heavy Arrow
+Wounding Heavy Arrow,Ammunition for Combat Rolls.,Indefinite,Innate,20,None,Wounding Heavy Arrow
+Anti-armor Heavy Arrow,Ammunition for Combat Rolls.,Indefinite,Innate,20,None,Anti-armor Heavy Arrow
+Survival Heavy Arrow,Ammunition for Combat Rolls.,Indefinite,Innate,20,None,Survival Heavy Arrow
+Shoddy Heavy Arrow,Ammunition for Combat Rolls.,Indefinite,Innate,20,None,Shoddy Heavy Arrow
+,,,,,,
+Standard Light Bolt,Ammunition for Combat Rolls.,Indefinite,Innate,20,None,Standard Light Bolt
+Wounding Light Bolt,Ammunition for Combat Rolls.,Indefinite,Innate,20,None,Wounding Light Bolt
+Anti-armor Light Bolt,Ammunition for Combat Rolls.,Indefinite,Innate,20,None,Anti-armor Light Bolt
+Survival Light Bolt,Ammunition for Combat Rolls.,Indefinite,Innate,20,None,Survival Light Bolt
+Shoddy Light Bolt,Ammunition for Combat Rolls.,Indefinite,Innate,20,None,Shoddy Light Bolt
+,,,,,,
+Standard Heavy Bolt,Ammunition for Combat Rolls.,Indefinite,Innate,20,None,Standard Heavy Bolt
+Wounding Heavy Bolt,Ammunition for Combat Rolls.,Indefinite,Innate,20,None,Wounding Heavy Bolt
+Anti-armor Heavy Bolt,Ammunition for Combat Rolls.,Indefinite,Innate,20,None,Anti-armor Heavy Bolt
+Survival Heavy Bolt,Ammunition for Combat Rolls.,Indefinite,Innate,20,None,Survival Heavy Bolt
+Shoddy Heavy Bolt,Ammunition for Combat Rolls.,Indefinite,Innate,20,None,Shoddy Heavy Bolt
+,,,,,,
+Poison Needles,Ammunition for Combat Rolls.,Indefinite,Innate,20,None,Poison Needles
+Standard Sling Bullets,Ammunition for Combat Rolls.,Indefinite,Innate,20,None,Standard Sling Bullets
+,,,,,,
+Standard Muzzleloading Pistol Cartridge,Ammunition for Combat Rolls.,Indefinite,Innate,20,None,Standard Muzzleloading Pistol Cartridge
+Standard Arquebus Cartridge,Ammunition for Combat Rolls.,Indefinite,Innate,20,None,Standard Arquebus Cartridge
+Standard Musket Cartridge,Ammunition for Combat Rolls.,Indefinite,Innate,20,None,Standard Musket Cartridge
+,,,,,,
+9mm FMJ Ammo,Ammunition for Combat Rolls.,Indefinite,Innate,20,None,9mm FMJ Ammo
+5.56 FMJ Ammo,Ammunition for Combat Rolls.,Indefinite,Innate,20,None,5.56 FMJ Ammo
+.308 FMJ Ammo,Ammunition for Combat Rolls.,Indefinite,Innate,20,None,.308 FMJ Ammo
+12 Gauge Buckshot Ammo,Ammunition for Combat Rolls.,Indefinite,Innate,20,None,12 Gauge Buckshot Ammo
+RPG Ammo,Ammunition for Combat Rolls.,Indefinite,Innate,20,None,RPG Ammo

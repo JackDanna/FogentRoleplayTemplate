@@ -1,4 +1,4 @@
-name,weaponType,baseDiceTierAdjustment,handedVariation,dicePoolMod,penetration,range,usesPerRound,areaOfEffect,resourceTypeAndAmountPerUseOption,damageTypes,governingSkillName,desc,duration,source
+name,weaponType,baseDiceTierAdjustment,handedVariation,dicePoolMod,penetration,range,usesPerRound,areaOfEffect,resourceTypePoolOption,damageTypes,governingSkillName,desc,duration,source
 Unarmed (+0) (One-handed),Unarmed,+0,One-handed,-1,0,Melee,Swift,None,None,Bludgeon,Close Melee,Just your bare hands. Can be used in a Grapple.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 Small Hew Melee (+0) (One-handed),Small Hew Melee,+0,One-handed,+0d6,2,Melee,Swift,None,None,Hew,Close Melee,"Hatchets, small axes, ect... Can be used in a Grapple.",Indefinite,Innate
