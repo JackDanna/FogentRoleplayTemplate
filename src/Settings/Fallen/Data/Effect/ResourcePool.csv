@@ -4,29 +4,29 @@ HP with Cap,,,,None,10,None,FALSE
 ,,,,,,,
 Nature Connection,,,,Nature Connection,10,10,FALSE
 ,,,,,,,
-Standard Light Arrow,Ammunition for Combat Rolls.,Indefinite,Innate,Standard Light Arrow,20,None,TRUE
-Wounding Light Arrow,Ammunition for Combat Rolls.,Indefinite,Innate,Wounding Light Arrow,20,None,TRUE
-Anti-armor Light Arrow,Ammunition for Combat Rolls.,Indefinite,Innate,Anti-armor Light Arrow,20,None,TRUE
-Survival Light Arrow,Ammunition for Combat Rolls.,Indefinite,Innate,Survival Light Arrow,20,None,TRUE
-Shoddy Light Arrow,Ammunition for Combat Rolls.,Indefinite,Innate,Shoddy Light Arrow,20,None,TRUE
+Light Arrow - Standard,Ammunition for Combat Rolls.,Indefinite,Innate,Light Arrow - Standard,20,None,TRUE
+Light Arrow - Wounding ,Ammunition for Combat Rolls.,Indefinite,Innate,Light Arrow - Wounding ,20,None,TRUE
+Light Arrow - Anti-armor,Ammunition for Combat Rolls.,Indefinite,Innate,Light Arrow - Anti-armor,20,None,TRUE
+Light Arrow - Survival,Ammunition for Combat Rolls.,Indefinite,Innate,Light Arrow - Survival,20,None,TRUE
+Light Arrow - Shoddy,Ammunition for Combat Rolls.,Indefinite,Innate,Light Arrow - Shoddy,20,None,TRUE
 ,,,,,,,
-Standard Heavy Arrow,Ammunition for Combat Rolls.,Indefinite,Innate,Standard Heavy Arrow,20,None,TRUE
-Wounding Heavy Arrow,Ammunition for Combat Rolls.,Indefinite,Innate,Wounding Heavy Arrow,20,None,TRUE
-Anti-armor Heavy Arrow,Ammunition for Combat Rolls.,Indefinite,Innate,Anti-armor Heavy Arrow,20,None,TRUE
-Survival Heavy Arrow,Ammunition for Combat Rolls.,Indefinite,Innate,Survival Heavy Arrow,20,None,TRUE
-Shoddy Heavy Arrow,Ammunition for Combat Rolls.,Indefinite,Innate,Shoddy Heavy Arrow,20,None,TRUE
+Heavy Arrow - Standard,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Arrow - Standard,20,None,TRUE
+Heavy Arrow - Wounding,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Arrow - Wounding,20,None,TRUE
+Heavy Arrow - Anti-armor,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Arrow - Anti-armor,20,None,TRUE
+Heavy Arrow - Survival,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Arrow - Survival,20,None,TRUE
+Heavy Arrow - Shoddy,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Arrow - Shoddy,20,None,TRUE
 ,,,,,,,
-Standard Light Bolt,Ammunition for Combat Rolls.,Indefinite,Innate,Standard Light Bolt,20,None,TRUE
-Wounding Light Bolt,Ammunition for Combat Rolls.,Indefinite,Innate,Wounding Light Bolt,20,None,TRUE
-Anti-armor Light Bolt,Ammunition for Combat Rolls.,Indefinite,Innate,Anti-armor Light Bolt,20,None,TRUE
-Survival Light Bolt,Ammunition for Combat Rolls.,Indefinite,Innate,Survival Light Bolt,20,None,TRUE
-Shoddy Light Bolt,Ammunition for Combat Rolls.,Indefinite,Innate,Shoddy Light Bolt,20,None,TRUE
+Light Bolt - Standard,Ammunition for Combat Rolls.,Indefinite,Innate,Light Bolt - Standard,20,None,TRUE
+Light Bolt - Wounding,Ammunition for Combat Rolls.,Indefinite,Innate,Light Bolt - Wounding,20,None,TRUE
+Light Bolt - Anti-armor,Ammunition for Combat Rolls.,Indefinite,Innate,Light Bolt - Anti-armor,20,None,TRUE
+Light Bolt - Survival,Ammunition for Combat Rolls.,Indefinite,Innate,Light Bolt - Survival,20,None,TRUE
+Light Bolt - Shoddy,Ammunition for Combat Rolls.,Indefinite,Innate,Light Bolt - Shoddy,20,None,TRUE
 ,,,,,,,
-Standard Heavy Bolt,Ammunition for Combat Rolls.,Indefinite,Innate,Standard Heavy Bolt,20,None,TRUE
-Wounding Heavy Bolt,Ammunition for Combat Rolls.,Indefinite,Innate,Wounding Heavy Bolt,20,None,TRUE
-Anti-armor Heavy Bolt,Ammunition for Combat Rolls.,Indefinite,Innate,Anti-armor Heavy Bolt,20,None,TRUE
-Survival Heavy Bolt,Ammunition for Combat Rolls.,Indefinite,Innate,Survival Heavy Bolt,20,None,TRUE
-Shoddy Heavy Bolt,Ammunition for Combat Rolls.,Indefinite,Innate,Shoddy Heavy Bolt,20,None,TRUE
+Heavy Bolt - Standard,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Bolt - Standard,20,None,TRUE
+Heavy Bolt - Wounding,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Bolt - Wounding,20,None,TRUE
+Heavy Bolt - Anti-armor,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Bolt - Anti-armor,20,None,TRUE
+Heavy Bolt - Survival,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Bolt - Survival,20,None,TRUE
+Heavy Bolt - Shoddy,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Bolt - Shoddy,20,None,TRUE
 ,,,,,,,
 Blowgun Dart - Poison,Ammunition for Combat Rolls.,Indefinite,Innate,Blowgun Dart - Poison,20,None,TRUE
 Sling Bullet - Standard,Ammunition for Combat Rolls.,Indefinite,Innate,Sling Bullet - Standard,20,None,TRUE

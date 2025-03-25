@@ -1020,11 +1020,11 @@ Ammo Type determines the resource a weapon uses to operate.
 
 ### Dice Pool Mod
 
-Represent either an addition or subtraction of dice to the Combat Roll Dice Pool in which this Ammo is being used. This is to represent ammunition types that warrant a change effectiveness. For instance, a bomb arrow is significantly more dangerous than a Standard Light Arrow, so it would receive additional dice. However, a blunted practice arrow (such as the comical boxing glove arrow) is significantly less dangerous than a Standard Light Arrow, so it would lose dice.
+Represent either an addition or subtraction of dice to the Combat Roll Dice Pool in which this Ammo is being used. This is to represent ammunition types that warrant a change effectiveness. For instance, a bomb arrow is significantly more dangerous than a Light Arrow - Standard, so it would receive additional dice. However, a blunted practice arrow (such as the comical boxing glove arrow) is significantly less dangerous than a Light Arrow - Standard, so it would lose dice.
 
 ### Base Dice Tier Adjustment
 
-Alters a combat rolls base dice tier. For instance, if a Mundane Light Bow (Level 0, or as dice 3d6) were to use a Survival Light Arrow which has a -1 Base Dice Tier Adjustment, then the resulting combat roll would use 1d4,2d6 base dice tier (Level -1). If instead a Standard Light Arrow were used, the resulting combat roll would use 3d6 base dice tier (Level 0).
+Alters a combat rolls base dice tier. For instance, if a Mundane Light Bow (Level 0, or as dice 3d6) were to use a Light Arrow - Survival which has a -1 Base Dice Tier Adjustment, then the resulting combat roll would use 1d4,2d6 base dice tier (Level -1). If instead a Light Arrow - Standard were used, the resulting combat roll would use 3d6 base dice tier (Level 0).
 
 ### Penetration
 
@@ -1046,29 +1046,29 @@ Ammo can have an Area Of Effect that overrides the Weapon's Area Of Effect that 
 
 |                  Name                  |           Ammo Type           | Dice Pool Mod | Base Dice Tier Adjustment | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
 | :-------------------------------------: | :----------------------------: | :-----------: | :-----------------------: | :---------: | :---: | :---------------: | :-----------------: |
-|          Standard Light Arrow          |          Light Arrow          |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
-|          Wounding Light Arrow          |          Light Arrow          |     +0d6     |            +1            |      0      | None |   Pierce, Bleed   |                    |
-|         Anti-armor Light Arrow         |          Light Arrow          |     +0d6     |            +0            |      1      | None |      Pierce      |                    |
-|          Survival Light Arrow          |          Light Arrow          |     +0d6     |            -1            |     -1     | None |      Pierce      |                    |
-|           Shoddy Light Arrow           |          Light Arrow          |     +0d6     |            -1            |      0      | None |      Pierce      |                    |
+|          Light Arrow - Standard          |          Light Arrow          |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
+|          Light Arrow - Wounding           |          Light Arrow          |     +0d6     |            +1            |      0      | None |   Pierce, Bleed   |                    |
+|         Light Arrow - Anti-armor         |          Light Arrow          |     +0d6     |            +0            |      1      | None |      Pierce      |                    |
+|          Light Arrow - Survival          |          Light Arrow          |     +0d6     |            -1            |     -1     | None |      Pierce      |                    |
+|           Light Arrow - Shoddy           |          Light Arrow          |     +0d6     |            -1            |      0      | None |      Pierce      |                    |
 |                                        |                                |              |                          |            |      |                  |                    |
-|          Standard Heavy Arrow          |          Heavy Arrow          |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
-|          Wounding Heavy Arrow          |          Heavy Arrow          |     +0d6     |            +1            |      0      | None |   Pierce, Bleed   |                    |
-|         Anti-armor Heavy Arrow         |          Heavy Arrow          |     +0d6     |            +0            |      1      | None |      Pierce      |                    |
-|          Survival Heavy Arrow          |          Heavy Arrow          |     +0d6     |            -1            |     -1     | None |      Pierce      |                    |
-|           Shoddy Heavy Arrow           |          Heavy Arrow          |     +0d6     |            -1            |      0      | None |      Pierce      |                    |
+|          Heavy Arrow - Standard          |          Heavy Arrow          |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
+|          Heavy Arrow - Wounding          |          Heavy Arrow          |     +0d6     |            +1            |      0      | None |   Pierce, Bleed   |                    |
+|         Heavy Arrow - Anti-armor         |          Heavy Arrow          |     +0d6     |            +0            |      1      | None |      Pierce      |                    |
+|          Heavy Arrow - Survival          |          Heavy Arrow          |     +0d6     |            -1            |     -1     | None |      Pierce      |                    |
+|           Heavy Arrow - Shoddy           |          Heavy Arrow          |     +0d6     |            -1            |      0      | None |      Pierce      |                    |
 |                                        |                                |              |                          |            |      |                  |                    |
-|           Standard Light Bolt           |           Light Bolt           |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
-|           Wounding Light Bolt           |           Light Bolt           |     +0d6     |            +1            |      0      | None |   Pierce, Bleed   |                    |
-|          Anti-armor Light Bolt          |           Light Bolt           |     +0d6     |            +0            |      1      | None |      Pierce      |                    |
-|           Survival Light Bolt           |           Light Bolt           |     +0d6     |            -1            |     -1     | None |      Pierce      |                    |
-|            Shoddy Light Bolt            |           Light Bolt           |     +0d6     |            -1            |      0      | None |      Pierce      |                    |
+|           Light Bolt - Standard           |           Light Bolt           |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
+|           Light Bolt - Wounding           |           Light Bolt           |     +0d6     |            +1            |      0      | None |   Pierce, Bleed   |                    |
+|          Light Bolt - Anti-armor          |           Light Bolt           |     +0d6     |            +0            |      1      | None |      Pierce      |                    |
+|           Light Bolt - Survival           |           Light Bolt           |     +0d6     |            -1            |     -1     | None |      Pierce      |                    |
+|            Light Bolt - Shoddy            |           Light Bolt           |     +0d6     |            -1            |      0      | None |      Pierce      |                    |
 |                                        |                                |              |                          |            |      |                  |                    |
-|           Standard Heavy Bolt           |           Heavy Bolt           |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
-|           Wounding Heavy Bolt           |           Heavy Bolt           |     +0d6     |            +1            |      0      | None |   Pierce, Bleed   |                    |
-|          Anti-armor Heavy Bolt          |           Heavy Bolt           |     +0d6     |            +0            |      1      | None |      Pierce      |                    |
-|           Survival Heavy Bolt           |           Heavy Bolt           |     +0d6     |            -1            |     -1     | None |      Pierce      |                    |
-|            Shoddy Heavy Bolt            |           Heavy Bolt           |     +0d6     |            -1            |      0      | None |      Pierce      |                    |
+|           Heavy Bolt - Standard           |           Heavy Bolt           |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
+|           Heavy Bolt - Wounding           |           Heavy Bolt           |     +0d6     |            +1            |      0      | None |   Pierce, Bleed   |                    |
+|          Heavy Bolt - Anti-armor          |           Heavy Bolt           |     +0d6     |            +0            |      1      | None |      Pierce      |                    |
+|           Heavy Bolt - Survival           |           Heavy Bolt           |     +0d6     |            -1            |     -1     | None |      Pierce      |                    |
+|            Heavy Bolt - Shoddy            |           Heavy Bolt           |     +0d6     |            -1            |      0      | None |      Pierce      |                    |
 |                                        |                                |              |                          |            |      |                  |                    |
 |             Blowgun Dart - Poison             |          Blowgun Dart          |     +0d6     |            +0            |      0      | None |      Poison      |                    |
 |         Sling Bullet - Standard         |          Sling Bullet          |     +0d6     |            +0            |      0      | None |     Bludgeon     |                    |
@@ -1367,13 +1367,13 @@ Based on the dice above, Javk uses his sword and dagger for thrusting rolls 8d6.
 
 ### Example 2:
 
-Javk Wick the rogue has a Light Crossbow and Standard Light Bolts. He has a weapon skill of level 1 with the Crossbow Skill. He has level 1 in RFX.
+Javk Wick the rogue has a Light Crossbow and Light Bolt - Standards. He has a weapon skill of level 1 with the Crossbow Skill. He has level 1 in RFX.
 
 - +3d6 (Base Dice)
 - +1d6 (Level 1 Crossbow Skill)
 - +1d6 (Level 1 RFX)
 - +2d6 (Light Crossbow Two-Handed)
-- +0d6 (Standard Light Bolt)
+- +0d6 (Light Bolt - Standard)
 
 Based on the dice above, Javk using his Light Crossbow has a 7d6.
 
@@ -1852,7 +1852,7 @@ A containers type will be seen under the "#" or "quantity" header. This is becau
 | Backpack                | 30 lb container |                      |  5  | 2 bc |             |
 | Light Longbow           |        1        |      Light Bow      |  2  | 25 bc |             |
 | Quiver (capacity: 20)   |        1        |                      |  1  | 1 bc |             |
-| Light Arrow - Broadhead |       20       | Standard Light Arrow | 0.05 | 5 cc |             |
+| Light Arrow - Broadhead |       20       | Light Arrow - Standard | 0.05 | 5 cc |             |
 | Ring, Mundane           |        1        |                      | 0.2 | 30 cc |             |
 | Copper Coin             |       70       |                      | 0.02 | 1 cc |             |
 
