@@ -92,4 +92,4 @@ Musket,Weapon for Combat Rolls.,Indefinite,Innate,+0d6,+3d6,None,6,Sharpshooter,
 .308 Bolt Action Rifle,Weapon for Combat Rolls.,Indefinite,Innate,+1d6,+4d6,None,9,Sniper,Quick,,.308 Round,1,,Medium Guns,Marksman Rifle
 ,,,,,,,,,,,,,,,
 5.56 Machine Gun,Weapon for Combat Rolls.,Indefinite,Innate,-2,+4d6,None,8,Extreme,Rapid,,5.56 Round,10,,Heavy Guns,Machine Gun
-RPG Launcher,Weapon for Combat Rolls.,Indefinite,Innate,-2,+6d6,None,12,Sharpshooter,Paced,,RPG Round,1,,Heavy Guns,Launcher
+RPG Launcher,Weapon for Combat Rolls.,Indefinite,Innate,-2,+6d6,None,12,Sharpshooter,Paced,,RPG Round - Explosive,1,,Heavy Guns,Launcher

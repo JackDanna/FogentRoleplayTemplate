@@ -141,5 +141,5 @@ Musket (+0) (Two-handed),Musket,+0,Two-handed,+3d6,5,Sharpshooter,Painfully Slow
 5.56 Machine Gun (+0) (One-handed),5.56 Machine Gun,+0,One-handed,-2,7,Extreme,Rapid,None,"5.56 Round, 10",Ballistic,Heavy Guns,"M249, ect...",Indefinite,Innate
 5.56 Machine Gun (+0) (Two-handed),5.56 Machine Gun,+0,Two-handed,+4d6,7,Extreme,Rapid,None,"5.56 Round, 10",Ballistic,Heavy Guns,"M249, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-RPG Launcher (+0) (One-handed),RPG Launcher,+0,One-handed,-2,10,Sharpshooter,Paced,30 ft Sphere,"RPG Round, 1",Shockwave,Heavy Guns,"RPG-7, ect...",Indefinite,Innate
-RPG Launcher (+0) (Two-handed),RPG Launcher,+0,Two-handed,+6d6,10,Sharpshooter,Paced,30 ft Sphere,"RPG Round, 1",Shockwave,Heavy Guns,"RPG-7, ect...",Indefinite,Innate
+RPG Launcher (+0) (One-handed),RPG Launcher,+0,One-handed,-2,10,Sharpshooter,Paced,30 ft Sphere,"RPG Round - Explosive, 1",Shockwave,Heavy Guns,"RPG-7, ect...",Indefinite,Innate
+RPG Launcher (+0) (Two-handed),RPG Launcher,+0,Two-handed,+6d6,10,Sharpshooter,Paced,30 ft Sphere,"RPG Round - Explosive, 1",Shockwave,Heavy Guns,"RPG-7, ect...",Indefinite,Innate
