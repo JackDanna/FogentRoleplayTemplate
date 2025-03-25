@@ -1073,9 +1073,9 @@ Ammo can have an Area Of Effect that overrides the Weapon's Area Of Effect that 
 |             Poison Needle             |          Blowgun Dart          |     +0d6     |            +0            |      0      | None |      Poison      |                    |
 |         Standard Sling Bullet         |          Sling Bullet          |     +0d6     |            +0            |      0      | None |     Bludgeon     |                    |
 |                                        |                                |              |                          |            |      |                  |                    |
-| Standard Muzzleloading Pistol Cartridge | Muzzleloading Pistol Cartridge |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
-|       Standard Arquebus Cartridge       |       Arquebus Cartridge       |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
-|        Standard Musket Cartridge        |        Musket Cartridge        |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
+| Muzzleloading Pistol Cartridge - Standard | Muzzleloading Pistol Cartridge |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
+|       Arquebus Cartridge - Standard       |       Arquebus Cartridge       |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
+|        Musket Cartridge - Standard        |        Musket Cartridge        |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
 |                                        |                                |              |                          |            |      |                  |                    |
 |              9mm Round - FMJ              |            9mm Round            |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
 |              5.56 Round - FMJ              |           5.56 Round           |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
