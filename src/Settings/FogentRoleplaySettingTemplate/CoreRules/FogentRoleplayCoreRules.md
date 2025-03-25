@@ -1070,7 +1070,7 @@ Ammo can have an Area Of Effect that overrides the Weapon's Area Of Effect that 
 |           Survival Heavy Bolt           |           Heavy Bolt           |     +0d6     |            -1            |     -1     | None |      Pierce      |                    |
 |            Shoddy Heavy Bolt            |           Heavy Bolt           |     +0d6     |            -1            |      0      | None |      Pierce      |                    |
 |                                        |                                |              |                          |            |      |                  |                    |
-|             Poison Needles             |          Blowgun Dart          |     +0d6     |            +0            |      0      | None |      Poison      |                    |
+|             Poison Needle             |          Blowgun Dart          |     +0d6     |            +0            |      0      | None |      Poison      |                    |
 |         Standard Sling Bullets         |          Sling Bullet          |     +0d6     |            +0            |      0      | None |     Bludgeon     |                    |
 |                                        |                                |              |                          |            |      |                  |                    |
 | Standard Muzzleloading Pistol Cartridge | Muzzleloading Pistol Cartridge |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
