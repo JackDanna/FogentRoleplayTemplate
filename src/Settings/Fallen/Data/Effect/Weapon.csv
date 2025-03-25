@@ -111,35 +111,35 @@ Arquebus (+0) (Two-handed),Arquebus,+0,Two-handed,+2d6,5,Long,Extremely Slow,Non
 Musket (+0) (One-handed),Musket,+0,One-handed,+0d6,5,Sharpshooter,Painfully Slow,None,"Musket Cartridge, 1",Ballistic,Medium Guns,Flintlock smoothbore long guns.,Indefinite,Innate
 Musket (+0) (Two-handed),Musket,+0,Two-handed,+3d6,5,Sharpshooter,Painfully Slow,None,"Musket Cartridge, 1",Ballistic,Medium Guns,Flintlock smoothbore long guns.,Indefinite,Innate
 ,,,,,,,,,,,,,,
-9mm Semi-automatic Pistol (+0) (One-handed),9mm Semi-automatic Pistol,+0,One-handed,+2d6,6,Extended,Swift +2,None,"9mm Cartridge, 1",Ballistic,Small Guns,"Glock 17, ect...",Indefinite,Innate
-9mm Semi-automatic Pistol (+0) (Two-handed),9mm Semi-automatic Pistol,+0,Two-handed,+2d6,6,Far,Swift +2,None,"9mm Cartridge, 1",Ballistic,Small Guns,"Glock 17, ect...",Indefinite,Innate
-9mm Semi-automatic Pistol (+0) (Dual-wielded),9mm Semi-automatic Pistol,+0,Dual-wielded,+3d6,6,Extended,Swift +2,None,"9mm Cartridge, 2",Ballistic,Small Guns,"Glock 17, ect...",Indefinite,Innate
+9mm Semi-automatic Pistol (+0) (One-handed),9mm Semi-automatic Pistol,+0,One-handed,+2d6,6,Extended,Swift +2,None,"9mm Round, 1",Ballistic,Small Guns,"Glock 17, ect...",Indefinite,Innate
+9mm Semi-automatic Pistol (+0) (Two-handed),9mm Semi-automatic Pistol,+0,Two-handed,+2d6,6,Far,Swift +2,None,"9mm Round, 1",Ballistic,Small Guns,"Glock 17, ect...",Indefinite,Innate
+9mm Semi-automatic Pistol (+0) (Dual-wielded),9mm Semi-automatic Pistol,+0,Dual-wielded,+3d6,6,Extended,Swift +2,None,"9mm Round, 2",Ballistic,Small Guns,"Glock 17, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-9mm Burst-fire Pistol (+0) (One-handed),9mm Burst-fire Pistol,+0,One-handed,+3d6,6,Mediocre,Swift +2,None,"9mm Cartridge, 3",Ballistic,Small Guns,"Beretta 93R, ect...",Indefinite,Innate
-9mm Burst-fire Pistol (+0) (Two-handed),9mm Burst-fire Pistol,+0,Two-handed,+3d6,6,Medium,Swift +2,None,"9mm Cartridge, 3",Ballistic,Small Guns,"Beretta 93R, ect...",Indefinite,Innate
-9mm Burst-fire Pistol (+0) (Dual-wielded),9mm Burst-fire Pistol,+0,Dual-wielded,+4d6,6,Mediocre,Swift +2,None,"9mm Cartridge, 6",Ballistic,Small Guns,"Beretta 93R, ect...",Indefinite,Innate
+9mm Burst-fire Pistol (+0) (One-handed),9mm Burst-fire Pistol,+0,One-handed,+3d6,6,Mediocre,Swift +2,None,"9mm Round, 3",Ballistic,Small Guns,"Beretta 93R, ect...",Indefinite,Innate
+9mm Burst-fire Pistol (+0) (Two-handed),9mm Burst-fire Pistol,+0,Two-handed,+3d6,6,Medium,Swift +2,None,"9mm Round, 3",Ballistic,Small Guns,"Beretta 93R, ect...",Indefinite,Innate
+9mm Burst-fire Pistol (+0) (Dual-wielded),9mm Burst-fire Pistol,+0,Dual-wielded,+4d6,6,Mediocre,Swift +2,None,"9mm Round, 6",Ballistic,Small Guns,"Beretta 93R, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-9mm Automatic Pistol (+0) (One-handed),9mm Automatic Pistol,+0,One-handed,+3d6,6,Short,Rapid,None,"9mm Cartridge, 6",Ballistic,Small Guns,"Glock 18, ect...",Indefinite,Innate
-9mm Automatic Pistol (+0) (Two-handed),9mm Automatic Pistol,+0,Two-handed,+3d6,6,Mediocre,Rapid,None,"9mm Cartridge, 6",Ballistic,Small Guns,"Glock 18, ect...",Indefinite,Innate
-9mm Automatic Pistol (+0) (Dual-wielded),9mm Automatic Pistol,+0,Dual-wielded,+4d6,6,Short,Rapid,None,"9mm Cartridge, 12",Ballistic,Small Guns,"Glock 18, ect...",Indefinite,Innate
+9mm Automatic Pistol (+0) (One-handed),9mm Automatic Pistol,+0,One-handed,+3d6,6,Short,Rapid,None,"9mm Round, 6",Ballistic,Small Guns,"Glock 18, ect...",Indefinite,Innate
+9mm Automatic Pistol (+0) (Two-handed),9mm Automatic Pistol,+0,Two-handed,+3d6,6,Mediocre,Rapid,None,"9mm Round, 6",Ballistic,Small Guns,"Glock 18, ect...",Indefinite,Innate
+9mm Automatic Pistol (+0) (Dual-wielded),9mm Automatic Pistol,+0,Dual-wielded,+4d6,6,Short,Rapid,None,"9mm Round, 12",Ballistic,Small Guns,"Glock 18, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
 12 Gauge Pump-action Shotgun (+0) (One-handed),12 Gauge Pump-action Shotgun,+0,One-handed,+1d6,6,Extended,Swift,None,"12 Gauge Shell, 1",Ballistic,Medium Guns,"Remington 870, Mossberg 500, ect...",Indefinite,Innate
 12 Gauge Pump-action Shotgun (+0) (Two-handed),12 Gauge Pump-action Shotgun,+0,Two-handed,+3d6,6,Extended,Swift,None,"12 Gauge Shell, 1",Ballistic,Medium Guns,"Remington 870, Mossberg 500, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-5.56 Semi-automatic Rifle (+0) (One-handed),5.56 Semi-automatic Rifle,+0,One-handed,+1d6,7,Extreme,Swift +2,None,"5.56 Cartridge, 1",Ballistic,Medium Guns,"AR-15, ect...",Indefinite,Innate
-5.56 Semi-automatic Rifle (+0) (Two-handed),5.56 Semi-automatic Rifle,+0,Two-handed,+3d6,7,Extreme,Swift +2,None,"5.56 Cartridge, 1",Ballistic,Medium Guns,"AR-15, ect...",Indefinite,Innate
+5.56 Semi-automatic Rifle (+0) (One-handed),5.56 Semi-automatic Rifle,+0,One-handed,+1d6,7,Extreme,Swift +2,None,"5.56 Round, 1",Ballistic,Medium Guns,"AR-15, ect...",Indefinite,Innate
+5.56 Semi-automatic Rifle (+0) (Two-handed),5.56 Semi-automatic Rifle,+0,Two-handed,+3d6,7,Extreme,Swift +2,None,"5.56 Round, 1",Ballistic,Medium Guns,"AR-15, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-5.56 Burst Rifle (+0) (One-handed),5.56 Burst Rifle,+0,One-handed,+2d6,7,Sharpshooter,Swift +2,None,"5.56 Cartridge, 3",Ballistic,Medium Guns,"M16A2, ect...",Indefinite,Innate
-5.56 Burst Rifle (+0) (Two-handed),5.56 Burst Rifle,+0,Two-handed,+4d6,7,Sharpshooter,Swift +2,None,"5.56 Cartridge, 3",Ballistic,Medium Guns,"M16A2, ect...",Indefinite,Innate
+5.56 Burst Rifle (+0) (One-handed),5.56 Burst Rifle,+0,One-handed,+2d6,7,Sharpshooter,Swift +2,None,"5.56 Round, 3",Ballistic,Medium Guns,"M16A2, ect...",Indefinite,Innate
+5.56 Burst Rifle (+0) (Two-handed),5.56 Burst Rifle,+0,Two-handed,+4d6,7,Sharpshooter,Swift +2,None,"5.56 Round, 3",Ballistic,Medium Guns,"M16A2, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-5.56 Automatic Rifle (+0) (One-handed),5.56 Automatic Rifle,+0,One-handed,+2d6,7,Distant,Rapid,None,"5.56 Cartridge, 6",Ballistic,Medium Guns,"M4, ect...",Indefinite,Innate
-5.56 Automatic Rifle (+0) (Two-handed),5.56 Automatic Rifle,+0,Two-handed,+4d6,7,Distant,Rapid,None,"5.56 Cartridge, 6",Ballistic,Medium Guns,"M4, ect...",Indefinite,Innate
+5.56 Automatic Rifle (+0) (One-handed),5.56 Automatic Rifle,+0,One-handed,+2d6,7,Distant,Rapid,None,"5.56 Round, 6",Ballistic,Medium Guns,"M4, ect...",Indefinite,Innate
+5.56 Automatic Rifle (+0) (Two-handed),5.56 Automatic Rifle,+0,Two-handed,+4d6,7,Distant,Rapid,None,"5.56 Round, 6",Ballistic,Medium Guns,"M4, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-.308 Bolt Action Rifle (+0) (One-handed),.308 Bolt Action Rifle,+0,One-handed,+1d6,8,Sniper,Quick,None,".308 Cartridge, 1",Ballistic,Medium Guns,"Remington M700, ect...",Indefinite,Innate
-.308 Bolt Action Rifle (+0) (Two-handed),.308 Bolt Action Rifle,+0,Two-handed,+4d6,8,Sniper,Quick,None,".308 Cartridge, 1",Ballistic,Medium Guns,"Remington M700, ect...",Indefinite,Innate
+.308 Bolt Action Rifle (+0) (One-handed),.308 Bolt Action Rifle,+0,One-handed,+1d6,8,Sniper,Quick,None,".308 Round, 1",Ballistic,Medium Guns,"Remington M700, ect...",Indefinite,Innate
+.308 Bolt Action Rifle (+0) (Two-handed),.308 Bolt Action Rifle,+0,Two-handed,+4d6,8,Sniper,Quick,None,".308 Round, 1",Ballistic,Medium Guns,"Remington M700, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-5.56 Machine Gun (+0) (One-handed),5.56 Machine Gun,+0,One-handed,-2,7,Extreme,Rapid,None,"5.56 Cartridge, 10",Ballistic,Heavy Guns,"M249, ect...",Indefinite,Innate
-5.56 Machine Gun (+0) (Two-handed),5.56 Machine Gun,+0,Two-handed,+4d6,7,Extreme,Rapid,None,"5.56 Cartridge, 10",Ballistic,Heavy Guns,"M249, ect...",Indefinite,Innate
+5.56 Machine Gun (+0) (One-handed),5.56 Machine Gun,+0,One-handed,-2,7,Extreme,Rapid,None,"5.56 Round, 10",Ballistic,Heavy Guns,"M249, ect...",Indefinite,Innate
+5.56 Machine Gun (+0) (Two-handed),5.56 Machine Gun,+0,Two-handed,+4d6,7,Extreme,Rapid,None,"5.56 Round, 10",Ballistic,Heavy Guns,"M249, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
 RPG Launcher (+0) (One-handed),RPG Launcher,+0,One-handed,-2,10,Sharpshooter,Paced,30 ft Sphere,"RPG Round, 1",Shockwave,Heavy Guns,"RPG-7, ect...",Indefinite,Innate
 RPG Launcher (+0) (Two-handed),RPG Launcher,+0,Two-handed,+6d6,10,Sharpshooter,Paced,30 ft Sphere,"RPG Round, 1",Shockwave,Heavy Guns,"RPG-7, ect...",Indefinite,Innate
