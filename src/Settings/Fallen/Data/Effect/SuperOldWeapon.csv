@@ -79,17 +79,17 @@ Muzzleloading Pistol,Weapon for Combat Rolls.,Indefinite,Innate,+2d6,None,+1d6,4
 Arquebus,Weapon for Combat Rolls.,Indefinite,Innate,+0d6,+2d6,None,5,Long,Extremely Slow,,Arquebus Cartridge,1,,Medium Guns,Muzzleloading Medium Gun
 Musket,Weapon for Combat Rolls.,Indefinite,Innate,+0d6,+3d6,None,6,Sharpshooter,Painfully Slow,,Musket Cartridge,1,,Medium Guns,Muzzleloading Medium Gun
 ,,,,,,,,,,,,,,,
-9mm Semi-automatic Pistol,Weapon for Combat Rolls.,Indefinite,Innate,+2d6,None,+1d6,6,Extended,Swift +2,,9mm Ammo,1,,Small Guns,9mm Semi-automatic Pistol
-9mm Burst Pistol,Weapon for Combat Rolls.,Indefinite,Innate,+3d6,None,+1d6,6,Mediocre,Swift +2,,9mm Ammo,3,,Small Guns,9mm Burst Pistol
-9mm Automatic Pistol,Weapon for Combat Rolls.,Indefinite,Innate,+3d6,None,+1d6,6,Short,Rapid,,9mm Ammo,6,,Small Guns,9mm Automatic Pistol
+9mm Semi-automatic Pistol,Weapon for Combat Rolls.,Indefinite,Innate,+2d6,None,+1d6,6,Extended,Swift +2,,9mm Cartridge,1,,Small Guns,9mm Semi-automatic Pistol
+9mm Burst Pistol,Weapon for Combat Rolls.,Indefinite,Innate,+3d6,None,+1d6,6,Mediocre,Swift +2,,9mm Cartridge,3,,Small Guns,9mm Burst Pistol
+9mm Automatic Pistol,Weapon for Combat Rolls.,Indefinite,Innate,+3d6,None,+1d6,6,Short,Rapid,,9mm Cartridge,6,,Small Guns,9mm Automatic Pistol
 ,,,,,,,,,,,,,,,
-12 Gauge Pump-action Shotgun,Weapon for Combat Rolls.,Indefinite,Innate,+1d6,+3d6,None,6,Extended,Swift,,12 Gauge Ammo,1,,Medium Guns,Shotgun
+12 Gauge Pump-action Shotgun,Weapon for Combat Rolls.,Indefinite,Innate,+1d6,+3d6,None,6,Extended,Swift,,12 Gauge Shell,1,,Medium Guns,Shotgun
 ,,,,,,,,,,,,,,,
-5.56 Semi-automatic Rifle,Weapon for Combat Rolls.,Indefinite,Innate,+1d6,+3d6,None,8,Extreme,Swift +2,,5.56 Ammo,1,,Medium Guns,Semi-automatic Rifle
-5.56 Burst Rifle,Weapon for Combat Rolls.,Indefinite,Innate,+2d6,+4d6,None,8,Sharpshooter,Swift +2,,5.56 Ammo,3,,Medium Guns,Semi-automatic Rifle
-5.56 Automatic Rifle,Weapon for Combat Rolls.,Indefinite,Innate,+2d6,+4d6,None,8,Distant,Rapid,,5.56 Ammo,6,,Medium Guns,Semi-automatic Rifle
+5.56 Semi-automatic Rifle,Weapon for Combat Rolls.,Indefinite,Innate,+1d6,+3d6,None,8,Extreme,Swift +2,,5.56 Cartridge,1,,Medium Guns,Semi-automatic Rifle
+5.56 Burst Rifle,Weapon for Combat Rolls.,Indefinite,Innate,+2d6,+4d6,None,8,Sharpshooter,Swift +2,,5.56 Cartridge,3,,Medium Guns,Semi-automatic Rifle
+5.56 Automatic Rifle,Weapon for Combat Rolls.,Indefinite,Innate,+2d6,+4d6,None,8,Distant,Rapid,,5.56 Cartridge,6,,Medium Guns,Semi-automatic Rifle
 ,,,,,,,,,,,,,,,
-.308 Bolt Action Rifle,Weapon for Combat Rolls.,Indefinite,Innate,+1d6,+4d6,None,9,Sniper,Quick,,.308 Ammo,1,,Medium Guns,Marksman Rifle
+.308 Bolt Action Rifle,Weapon for Combat Rolls.,Indefinite,Innate,+1d6,+4d6,None,9,Sniper,Quick,,.308 Cartridge,1,,Medium Guns,Marksman Rifle
 ,,,,,,,,,,,,,,,
-5.56 Machine Gun,Weapon for Combat Rolls.,Indefinite,Innate,-2,+4d6,None,8,Extreme,Rapid,,5.56 Ammo,10,,Heavy Guns,Machine Gun
-RPG Launcher,Weapon for Combat Rolls.,Indefinite,Innate,-2,+6d6,None,12,Sharpshooter,Paced,,RPG Ammo,1,,Heavy Guns,Launcher
+5.56 Machine Gun,Weapon for Combat Rolls.,Indefinite,Innate,-2,+4d6,None,8,Extreme,Rapid,,5.56 Cartridge,10,,Heavy Guns,Machine Gun
+RPG Launcher,Weapon for Combat Rolls.,Indefinite,Innate,-2,+6d6,None,12,Sharpshooter,Paced,,RPG Round,1,,Heavy Guns,Launcher

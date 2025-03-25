@@ -30,8 +30,8 @@ Standard Muzzleloading Pistol Cartridge,Muzzleloading Pistol Cartridge,+0d6,+0,0
 Standard Arquebus Cartridge,Arquebus Cartridge,+0d6,+0,0,None,Pierce,
 Standard Musket Cartridge,Musket Cartridge,+0d6,+0,0,None,Pierce,
 ,,,,,,,
-9mm FMJ Ammo,9mm Ammo,+0d6,+0,0,None,Pierce,
-5.56 FMJ Ammo,5.56 Ammo,+0d6,+0,0,None,Pierce,
-.308 FMJ Ammo,.308 Ammo,+0d6,+0,0,None,Pierce,
-12 Gauge Buckshot Ammo,12 Gauge Ammo,+0d6,+0,0,None,Pierce,
-RPG Ammo,RPG Ammo,+0d6,+0,0,None,"Fire, Shockwave",30 ft Sphere
+9mm FMJ Ammo,9mm Cartridge,+0d6,+0,0,None,Pierce,
+5.56 FMJ Ammo,5.56 Cartridge,+0d6,+0,0,None,Pierce,
+.308 FMJ Ammo,.308 Cartridge,+0d6,+0,0,None,Pierce,
+12 Gauge Buckshot Ammo,12 Gauge Shell,+0d6,+0,0,None,Pierce,
+RPG Round,RPG Round,+0d6,+0,0,None,"Fire, Shockwave",30 ft Sphere
