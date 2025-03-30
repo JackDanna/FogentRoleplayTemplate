@@ -1,4 +1,3 @@
-
 # Table of Contents
 
 The rules are the foundation and narrative engine for your game. They are listed in the order of importance to someone learning the rules for the first time.
@@ -1018,6 +1017,8 @@ The rider's Dexterity dice pool size is used for the mounts Reaction Movement Sp
 ### Resource Type
 
 Describes a type of resource, which in ammo's case usually describes which weapons can use it.
+
+For instance, a "Light Arrow - Standard" and a "Light Arrow - Wounding" both share the Resource Typer "Light Arrow". Therefore, any Combat Roll that has an Resource Type of "Light Arrow" could use either of these arrows.
 
 ### Dice Pool Mod
 
