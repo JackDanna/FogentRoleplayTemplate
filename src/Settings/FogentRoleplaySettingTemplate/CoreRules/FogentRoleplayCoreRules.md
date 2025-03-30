@@ -1171,6 +1171,19 @@ The types of Damage a weapon inflicts when dealing injuries.
 
 The Skill that governs this combat roll.
 
+### Desc
+
+Gives some narrative description of the combat roll. Addition feature specific to the combat roll will be included here, such as being usuable in a Grapple or restricted in confined spaces.
+
+### Duration
+
+Describes how long the Combat Roll effect is usable for. For most conventional weapons, this is "Indefinite". However, if a spell were being used, this may vary.
+
+### Source
+
+Describes where this Combat Roll is coming from. If it is coming from an item the character possess, such as a sword, than the name of the item would be the source. If the Combat Roll is innate to the character, such as claws, than the source would be "Innate".
+
+
 |                      Name                      |         Weapon Type         | Base Dice Tier<br />Adjustment | Handed<br />Variation | Dice<br />Pool Mod | Penetration |    Range    | Uses Per<br />Round | Area Of<br />Effect | Resource Type and<br />Amount Per Use | Damage<br />Types | Governing<br />Skill Name |                                                                Desc                                                                |  Duration  | Source |
 | :---------------------------------------------: | :--------------------------: | :-----------------------------: | :-------------------: | :----------------: | :---------: | :----------: | :-----------------: | :-----------------: | :------------------------------------: | :---------------: | :-----------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :--------: | :----: |
 |            Unarmed (+0) (One-handed)            |           Unarmed           |               +0               |      One-handed      |         -1         |      0      |    Melee    |        Swift        |        None        |                  None                  |     Bludgeon     |        Close Melee        |                                           Just your bare hands. Can be used in a Grapple.                                           | Indefinite | Innate |
