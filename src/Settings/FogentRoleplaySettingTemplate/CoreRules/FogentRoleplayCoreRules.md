@@ -1183,7 +1183,6 @@ Describes how long the Combat Roll effect is usable for. For most conventional w
 
 Describes where this Combat Roll is coming from. If it is coming from an item the character possess, such as a sword, than the name of the item would be the source. If the Combat Roll is innate to the character, such as claws, than the source would be "Innate".
 
-
 |                      Name                      |         Weapon Type         | Base Dice Tier<br />Adjustment | Handed<br />Variation | Dice<br />Pool Mod | Penetration |    Range    | Uses Per<br />Round | Area Of<br />Effect | Resource Type and<br />Amount Per Use | Damage<br />Types | Governing<br />Skill Name |                                                                Desc                                                                |  Duration  | Source |
 | :---------------------------------------------: | :--------------------------: | :-----------------------------: | :-------------------: | :----------------: | :---------: | :----------: | :-----------------: | :-----------------: | :------------------------------------: | :---------------: | :-----------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :--------: | :----: |
 |            Unarmed (+0) (One-handed)            |           Unarmed           |               +0               |      One-handed      |         -1         |      0      |    Melee    |        Swift        |        None        |                  None                  |     Bludgeon     |        Close Melee        |                                           Just your bare hands. Can be used in a Grapple.                                           | Indefinite | Innate |
@@ -1331,6 +1330,40 @@ Describes where this Combat Roll is coming from. If it is coming from an item th
 |         RPG Launcher (+0) (One-handed)         |         RPG Launcher         |               +0               |      One-handed      |         -2         |      6      | Sharpshooter |        Paced        |    30 ft Sphere    |              RPG Round, 1              |     Shockwave     |        Heavy Guns        |                                                            RPG-7, ect...                                                            | Indefinite | Innate |
 |         RPG Launcher (+0) (Two-handed)         |         RPG Launcher         |               +0               |      Two-handed      |        +6d6        |      6      | Sharpshooter |        Paced        |    30 ft Sphere    |              RPG Round, 1              |     Shockwave     |        Heavy Guns        |                                                            RPG-7, ect...                                                            | Indefinite | Innate |
 
+
+### Combat Roll Dice Pool
+
+A Combat Roll Dice Pool is the result of the Governing Skill Dice Pool modified by the Combat Roll's "Dice Pool Mod" and "Base Dice Tier Adjustment" ( including the same stats on any Ammo being used as part of the Combat Roll ). This Dice Pool represent's the character's effectiveness in combat.
+
+- +Base Dice (defaults to 3d6, varies with Base Dice Tier Adjustments from the Combat Roll and Ammo)
+- +/- 1d6 per Weapon Skill
+- +/- 1d6 per STR, RFX, or INT if Governing Attribute of Combat Skill
+- +/- Combat Roll's Dice Pool Mods
+- +/- Ammo's Dice Pool Mods if used
+
+### Example 1:
+
+Javk Wick the rogue has a rapier he's dual-wielding with his dagger. This would be the "Medium Pierce Melee (+0) (Dual-wielded)" combat roll. He has level 2 in Medium Melee and level 1 in Small Melee. He has Level 1 RFX.
+
+- +3d6 (Base Dice)
+- +2d6 (Level 2 Medium Sword Skill)
+- +1d6 (Level 1 RFX)
+- +2d6 (Medium Pierce Melee (+0) (Dual-wielded))
+
+Based on the dice above, Javk uses his sword and dagger for thrusting rolls 8d6.
+
+### Example 2:
+
+Javk Wick the rogue has a Light Crossbow and Light Bolt - Standards. He has a weapon skill of level 1 with the Crossbow Skill. He has level 1 in RFX.
+
+- +3d6 (Base Dice)
+- +1d6 (Level 1 Light Crossbow Skill)
+- +1d6 (Level 1 RFX)
+- +2d6 (Light Crossbow Two-Handed)
+- +0d6 (Light Bolt - Standard)
+
+Based on the dice above, Javk using his Light Crossbow has a 7d6.
+
 ## Weapon Combat Skills
 
 A Weapon Combat Skill covers the use of a group of similar weapons. The tables over on the Weapons rules show which weapons are group under which Weapon Combat Skills. For instance, the "Medium Melee" Weapon Combat Skill covers the use of "Medium Hafted", "Medium Sword", and "Medium Spear".
@@ -1373,40 +1406,6 @@ Starting with the weapon skill your character currently possesses, each horizont
 Since certain weapon sizes provide more combat skill transfer than others, it is intend for the narrator to allow rebalancing skill point investments as to not waste skill levels as long as all previously know skills maintain they're skill level.
 
 For example, a character has just been given 1 skill point to spend and has a level 3 in Small Blade. They wish to invest their skill point into the Medium Sword skill to try a new magic sword they found. Since they have a 3 in Small Blade already, by the Weapon Combat Skill Transfer rules they have a level 2 in Medium Sword. If they were to invest their skill point into Medium Sword to bring it to level 3, they are technically wasting skill points as had they from the start only invested the 3 skill points from Small Blade into Medium sword, with the addition of the unspent skill point, they'd have a level 4 in Medium sword, which would also give them a level 3 in Small Blade. Instead of wasting skill points, they can take the 3 skill points from Small Blade and the 1 unspent skill point and spend it on bring Medium sword to level 4. Since having a level 4 in Medium Sword gives a level 3 in Small Blade, nothing has changed in Small Blade.
-
-## Combat Roll
-
-Combat rolls are Dice Pools that represent a character's effectiveness in combat, generally with a specific weapon.
-
-- +Base Dice (varies with Base Dice Tier, defaults to 3d6)
-- +/- 1d6 per Weapon Skill
-- +/- 1d6 per STR, RFX, or INT if Governing Attribute of Combat Skill
-- +/- Weapon Dice Pool Mods (Hand Crossbow, Medium Spear, etc...)
-- +/- Ammo Dice Pool Mods (Arrow, Bomb Arrow, etc...)
-
-### Example 1:
-
-Javk Wick the rogue has a Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Dual-wielded) dual-wielded with a dagger. He has level 2 in Medium Sword and level 1 in Small Blade. He has Level 1 RFX.
-
-- +3d6 (Base Dice)
-- +2d6 (Level 2 Medium Sword Skill)
-- +1d6 (Level 1 RFX)
-- +1d6 (Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Dual-wielded) One Handed)
-- +1d6 (Dagger Dual-Wielded)
-
-Based on the dice above, Javk uses his sword and dagger for thrusting rolls 8d6.
-
-### Example 2:
-
-Javk Wick the rogue has a Light Crossbow and Light Bolt - Standards. He has a weapon skill of level 1 with the Crossbow Skill. He has level 1 in RFX.
-
-- +3d6 (Base Dice)
-- +1d6 (Level 1 Crossbow Skill)
-- +1d6 (Level 1 RFX)
-- +2d6 (Light Crossbow Two-Handed)
-- +0d6 (Light Bolt - Standard)
-
-Based on the dice above, Javk using his Light Crossbow has a 7d6.
 
 ## Dodge Roll
 
