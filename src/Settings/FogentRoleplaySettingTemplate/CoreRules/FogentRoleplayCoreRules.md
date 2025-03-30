@@ -1,3 +1,4 @@
+
 # Table of Contents
 
 The rules are the foundation and narrative engine for your game. They are listed in the order of importance to someone learning the rules for the first time.
@@ -1020,11 +1021,13 @@ Describes a type of resource, which in ammo's case usually describes which weapo
 
 ### Dice Pool Mod
 
-Represent either an addition or subtraction of dice to the Combat Roll Dice Pool in which this Ammo is being used. This is to represent ammunition types that warrant a change effectiveness. For instance, a bomb arrow is significantly more dangerous than a standard arrow, so it would receive additional dice. However, a blunted practice arrow (such as the comical boxing glove arrow) is significantly less dangerous than a standard arrow, so it would lose dice.
+Represent either an addition or subtraction of dice to the Combat Roll Dice Pool in which this Ammo is being used. Used to represent Ammo that significantly modifies the combat effectiveness of the Combat Roll.
+
+For instance, a bomb arrow is significantly more dangerous than a standard arrow, so it would receive additional dice. However, a blunted practice arrow (such as the comical boxing glove arrow) is significantly less dangerous than a standard arrow, so it would lose dice.
 
 ### Base Dice Tier Adjustment
 
-Adjusts the Base Dice Tier level for the Combat Roll the Ammo is being used with.
+Adjusts the Base Dice Tier level for the Combat Roll the Ammo is being used with. Used to represent Ammo that adjusts the consistency and reliability of the Combat Roll.
 
 For instance, let's say a character has a "Light Bow (+0) (Two-handed)" Combat Roll (which has a level 0 Base Dice Tier meaning it's Base Dice would be 3d6 unless otherwise adjusted). If the character were to use a "Light Arrow - Survival" (which would represent a poorly constructed arrow made as a last ditch effort in a survival situation) which has a -1 Base Dice Tier Adjustment, then the Combat Roll would have a -1 Base Dice Tier ("2d6, 1d4" for it's Base Dice). If instead a "Light Arrow - Standard" were used which has a +0 Base Dice Tier Adjustment, then the Combat Roll would have a Base Dice Tier of +0 ("3d6" for it's Base Dice).
 
@@ -1040,7 +1043,7 @@ Damage Types inflicted by the Ammo.
 
 ### Range Option
 
-If "None", than default to using the Combat Roll's Range. Otherwise, overrides the Combat Roll's Range stat with the Range specified by the Ammo. 
+If "None", than default to using the Combat Roll's Range. Otherwise, overrides the Combat Roll's Range stat with the Range specified by the Ammo.
 
 This can represent self propelled projectiles or high pressure firearm rounds.
 
