@@ -1,4 +1,7 @@
 name,desc,source,duration,resource,amount,maxOption,isAmountTiedToItemStackQuantity
+Destiny Points,"A character can hold a max of 3 Destiny Points. Spending a ""Preemptive Destiny Point"" before rolling a dice pool gives Advantage on the resulting roll. Spending ""Post Roll Destiny Points"" adds additional Wins for each point spent, with the total Wins never exceeding the size of the dice pool. Destiny points are awarded when players perform actions that the narrator wants to encourage. Examples include showing up to the game on time, exceptional roleplay, accomplishing a narrative milestone, and doing something in line with their character's personality even if at the detriment of wealth or progress.",Indefinite,Given by The Narrator,Destiny Point,0,3,FALSE
+Destiny Chosen,Destiny Point Cap set to 6. Gain an additional Destiny Point whenever one is gained. Destiny begins to shape around the user's true desires.,Indefinite,Given by The Narrator,Destiny Point,0,6,FALSE
+,,,,,,,
 HP,,,,None,10,10,FALSE
 HP with Cap,,,,None,10,None,FALSE
 ,,,,,,,
