@@ -1018,29 +1018,31 @@ The rider's Dexterity dice pool size is used for the mounts Reaction Movement Sp
 
 Describes a type of resource, which in ammo's case usually describes which weapons can use it.
 
-For instance, a "Light Arrow - Standard" and a "Light Arrow - Wounding" both share the Resource Typer "Light Arrow". Therefore, any Combat Roll that has an Resource Type of "Light Arrow" could use either of these arrows.
+For example, a "Light Arrow - Standard" and a "Light Arrow - Wounding" both share the Resource Typer "Light Arrow". Therefore, any Combat Roll that has an Resource Type of "Light Arrow" could use either of these arrows.
 
 ### Dice Pool Mod
 
 Represent either an addition or subtraction of dice to the Combat Roll Dice Pool in which this Ammo is being used. Used to represent Ammo that significantly modifies the combat effectiveness of the Combat Roll.
 
-For instance, a bomb arrow is significantly more dangerous than a standard arrow, so it would receive additional dice. However, a blunted practice arrow (such as the comical boxing glove arrow) is significantly less dangerous than a standard arrow, so it would lose dice.
+For iexample, a bomb arrow is significantly more dangerous than a standard arrow, so it would receive additional dice. However, a blunted practice arrow (such as the comical boxing glove arrow) is significantly less dangerous than a standard arrow, so it would lose dice.
 
 ### Base Dice Tier Adjustment
 
 Adjusts the Base Dice Tier level for the Combat Roll the Ammo is being used with. Used to represent Ammo that adjusts the consistency and reliability of the Combat Roll.
 
-For instance, let's say a character has a "Light Bow (+0) (Two-handed)" Combat Roll (which has a level 0 Base Dice Tier meaning it's Base Dice would be 3d6 unless otherwise adjusted). If the character were to use a "Light Arrow - Survival" (which would represent a poorly constructed arrow made as a last ditch effort in a survival situation) which has a -1 Base Dice Tier Adjustment, then the Combat Roll would have a -1 Base Dice Tier ("2d6, 1d4" for it's Base Dice). If instead a "Light Arrow - Standard" were used which has a +0 Base Dice Tier Adjustment, then the Combat Roll would have a Base Dice Tier of +0 ("3d6" for it's Base Dice).
+For example, let's say a character has a "Light Bow (+0) (Two-handed)" Combat Roll (which has a level 0 Base Dice Tier meaning it's Base Dice would be 3d6 unless otherwise adjusted). If the character were to use a "Light Arrow - Survival" (which would represent a poorly constructed arrow made as a last ditch effort in a survival situation) which has a -1 Base Dice Tier Adjustment, then the Combat Roll would have a -1 Base Dice Tier ("2d6, 1d4" for it's Base Dice). If instead a "Light Arrow - Standard" were used which has a +0 Base Dice Tier Adjustment, then the Combat Roll would have a Base Dice Tier of +0 ("3d6" for it's Base Dice).
 
 ### Penetration Adjustment
 
 Adjusts the Penetration for the Combat Roll the Ammo is being used with.
 
-For instance, let's say a character has a "Light Bow (+0) (Two-handed)" Combat Roll which has a 0 Penetration. If the character were to use a "Light Arrow - Anti-armor" which has a +1 Penetration Adjustment, then the Combat Roll would have 1 Penetration.
+For example, let's say a character has a "Light Bow (+0) (Two-handed)" Combat Roll which has a 0 Penetration. If the character were to use a "Light Arrow - Anti-armor" which has a +1 Penetration Adjustment, then the Combat Roll would have 1 Penetration.
 
 ### Damage Types
 
-Damage Types inflicted by the Ammo.
+Overrides the Combat Roll's Damage Types stat with the Damage Types specified by the Ammo.
+
+For example, a flaming arrow might have a Damage Types stat of "Pierce, Fire".
 
 ### Range Option
 
