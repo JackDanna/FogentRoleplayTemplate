@@ -1173,7 +1173,7 @@ The Skill that governs this combat roll.
 
 ### Desc
 
-Gives some narrative description of the combat roll. Addition feature specific to the combat roll will be included here, such as being usuable in a Grapple or restricted in confined spaces.
+Gives some narrative description of the combat roll. Addition feature specific to the combat roll will be included here, such as being usable in a Grapple or restricted in confined spaces.
 
 ### Duration
 
