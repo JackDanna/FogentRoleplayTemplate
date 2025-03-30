@@ -1046,15 +1046,15 @@ For example, a flaming arrow might have a Damage Types stat of "Pierce, Fire".
 
 ### Range Option
 
-If "None", than default to using the Combat Roll's Range. Otherwise, overrides the Combat Roll's Range stat with the Range specified by the Ammo.
+If "None", than use the Combat Roll's Range this Ammo is being used with. Otherwise, override the Combat Roll's Range stat with the Range specified by the Ammo.
 
-This can represent self propelled projectiles or high pressure firearm rounds.
+This can represent self propelled projectiles, high pressure firearm rounds, ect...
 
 ### Area Of Effect Option
 
-If "None", than default to using the Combat Roll's Area Of Effect. Otherwise, overrides the Combat Roll's Area Of Effect Option stat with the Area Of Effect specified by the Ammo.
+If "None", than use the Combat Roll's Area Of Effect this Ammo is being used with. Otherwise, override the Combat Roll's Area Of Effect Option stat with the Area Of Effect specified by the Ammo.
 
-This can represent a bomb arrow or an explosive projectile.
+This can represent a bomb arrow, an explosive rounds, ect...
 
 |                   Name                   |         Resource Type         | Dice Pool Mod | Base Dice Tier Adjustment | Penetration Adjustment |  Damage Types  | Range Option | Area Of Effect Option |
 | :---------------------------------------: | :----------------------------: | :-----------: | :-----------------------: | :--------------------: | :-------------: | :----------: | :-------------------: |
