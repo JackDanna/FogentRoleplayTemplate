@@ -1018,13 +1018,13 @@ The rider's Dexterity dice pool size is used for the mounts Reaction Movement Sp
 
 Describes a type of resource, which in ammo's case usually describes which weapons can use it.
 
-For example, a "Light Arrow - Standard" and a "Light Arrow - Wounding" both share the Resource Typer "Light Arrow". Therefore, any Combat Roll that has an Resource Type of "Light Arrow" could use either of these arrows.
+For example, a "Light Arrow - Standard" and a "Light Arrow - Wounding" both share the Resource Type "Light Arrow". Therefore, any Combat Roll that has an Resource Type of "Light Arrow" could use either of these arrows.
 
 ### Dice Pool Mod
 
 Represent either an addition or subtraction of dice to the Combat Roll Dice Pool in which this Ammo is being used. Used to represent Ammo that significantly modifies the combat effectiveness of the Combat Roll.
 
-For iexample, a bomb arrow is significantly more dangerous than a standard arrow, so it would receive additional dice. However, a blunted practice arrow (such as the comical boxing glove arrow) is significantly less dangerous than a standard arrow, so it would lose dice.
+For example, a bomb arrow is significantly more dangerous than a standard arrow, so it would receive additional dice. However, a blunted practice arrow (such as the comical boxing glove arrow) is significantly less dangerous than a standard arrow, so it would lose dice.
 
 ### Base Dice Tier Adjustment
 
