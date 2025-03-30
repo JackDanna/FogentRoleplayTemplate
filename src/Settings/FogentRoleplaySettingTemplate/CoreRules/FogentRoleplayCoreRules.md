@@ -1012,76 +1012,82 @@ Steep mountains, ice-covered ground, swamps, etc. are difficult terrain. It take
 
 The rider's Dexterity dice pool size is used for the mounts Reaction Movement Speed calculation.Additionally, when a mounted character or their mount takes an injury in combat, a Dexterity or Riding skill check equivalent to the injury level must be succeeded to stay on horseback, or else they are knocked off.
 
-## Ammunitions
+## Ammo
 
-### Ammo Type
+### Resource Type
 
-Ammo Type determines the resource a weapon uses to operate.
+Describes a type of resource, which in ammo's case usually describes which weapons can use it.
 
 ### Dice Pool Mod
 
-Represent either an addition or subtraction of dice to the Combat Roll Dice Pool in which this Ammo is being used. This is to represent ammunition types that warrant a change effectiveness. For instance, a bomb arrow is significantly more dangerous than a Light Arrow - Standard, so it would receive additional dice. However, a blunted practice arrow (such as the comical boxing glove arrow) is significantly less dangerous than a Light Arrow - Standard, so it would lose dice.
+Represent either an addition or subtraction of dice to the Combat Roll Dice Pool in which this Ammo is being used. This is to represent ammunition types that warrant a change effectiveness. For instance, a bomb arrow is significantly more dangerous than a standard arrow, so it would receive additional dice. However, a blunted practice arrow (such as the comical boxing glove arrow) is significantly less dangerous than a standard arrow, so it would lose dice.
 
 ### Base Dice Tier Adjustment
 
-Alters a combat rolls base dice tier. For instance, if a Mundane Light Bow (Level 0, or as dice 3d6) were to use a Light Arrow - Survival which has a -1 Base Dice Tier Adjustment, then the resulting combat roll would use 1d4,2d6 base dice tier (Level -1). If instead a Light Arrow - Standard were used, the resulting combat roll would use 3d6 base dice tier (Level 0).
+Adjusts the Base Dice Tier level for the Combat Roll the Ammo is being used with.
 
-### Penetration
+For instance, let's say a character has a "Light Bow (+0) (Two-handed)" Combat Roll (which has a level 0 Base Dice Tier meaning it's Base Dice would be 3d6 unless otherwise adjusted). If the character were to use a "Light Arrow - Survival" (which would represent a poorly constructed arrow made as a last ditch effort in a survival situation) which has a -1 Base Dice Tier Adjustment, then the Combat Roll would have a -1 Base Dice Tier ("2d6, 1d4" for it's Base Dice). If instead a "Light Arrow - Standard" were used which has a +0 Base Dice Tier Adjustment, then the Combat Roll would have a Base Dice Tier of +0 ("3d6" for it's Base Dice).
 
-Additional Penetration from the Ammo. Ammo Penetration is added to Weapon Penetration results in the total Penetration for the Combat Roll.
+### Penetration Adjustment
 
-### Range
+Adjusts the Penetration for the Combat Roll the Ammo is being used with.
 
-Ammo can have a Range that overrides the Weapon's Range that it is used with. This can represent self propelled made projectiles or high pressure ballistic ammunition. If a Ammo Range is "None", then default to the Weapon's Range.
+For instance, let's say a character has a "Light Bow (+0) (Two-handed)" Combat Roll which has a 0 Penetration. If the character were to use a "Light Arrow - Anti-armor" which has a +1 Penetration Adjustment, then the Combat Roll would have 1 Penetration.
 
 ### Damage Types
 
 Damage Types inflicted by the Ammo.
 
-### Area Of Effect
+### Range Option
 
-Ammo can have an Area Of Effect that overrides the Weapon's Area Of Effect that it is used with. This can represent a bomb arrow or an explosive projectile. If a Ammo Area Of Effect is "None", then default to the Weapon's Area Of Effect.
+If "None", than default to using the Combat Roll's Range. Otherwise, overrides the Combat Roll's Range stat with the Range specified by the Ammo. 
 
-### Ammo List
+This can represent self propelled projectiles or high pressure firearm rounds.
 
-|                  Name                  |           Ammo Type           | Dice Pool Mod | Base Dice Tier Adjustment | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
-| :-------------------------------------: | :----------------------------: | :-----------: | :-----------------------: | :---------: | :---: | :---------------: | :-----------------: |
-|          Light Arrow - Standard          |          Light Arrow          |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
-|          Light Arrow - Wounding           |          Light Arrow          |     +0d6     |            +1            |      0      | None |   Pierce, Bleed   |                    |
-|         Light Arrow - Anti-armor         |          Light Arrow          |     +0d6     |            +0            |      1      | None |      Pierce      |                    |
-|          Light Arrow - Survival          |          Light Arrow          |     +0d6     |            -1            |     -1     | None |      Pierce      |                    |
-|           Light Arrow - Shoddy           |          Light Arrow          |     +0d6     |            -1            |      0      | None |      Pierce      |                    |
-|                                        |                                |              |                          |            |      |                  |                    |
-|          Heavy Arrow - Standard          |          Heavy Arrow          |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
-|          Heavy Arrow - Wounding          |          Heavy Arrow          |     +0d6     |            +1            |      0      | None |   Pierce, Bleed   |                    |
-|         Heavy Arrow - Anti-armor         |          Heavy Arrow          |     +0d6     |            +0            |      1      | None |      Pierce      |                    |
-|          Heavy Arrow - Survival          |          Heavy Arrow          |     +0d6     |            -1            |     -1     | None |      Pierce      |                    |
-|           Heavy Arrow - Shoddy           |          Heavy Arrow          |     +0d6     |            -1            |      0      | None |      Pierce      |                    |
-|                                        |                                |              |                          |            |      |                  |                    |
-|           Light Bolt - Standard           |           Light Bolt           |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
-|           Light Bolt - Wounding           |           Light Bolt           |     +0d6     |            +1            |      0      | None |   Pierce, Bleed   |                    |
-|          Light Bolt - Anti-armor          |           Light Bolt           |     +0d6     |            +0            |      1      | None |      Pierce      |                    |
-|           Light Bolt - Survival           |           Light Bolt           |     +0d6     |            -1            |     -1     | None |      Pierce      |                    |
-|            Light Bolt - Shoddy            |           Light Bolt           |     +0d6     |            -1            |      0      | None |      Pierce      |                    |
-|                                        |                                |              |                          |            |      |                  |                    |
-|           Heavy Bolt - Standard           |           Heavy Bolt           |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
-|           Heavy Bolt - Wounding           |           Heavy Bolt           |     +0d6     |            +1            |      0      | None |   Pierce, Bleed   |                    |
-|          Heavy Bolt - Anti-armor          |           Heavy Bolt           |     +0d6     |            +0            |      1      | None |      Pierce      |                    |
-|           Heavy Bolt - Survival           |           Heavy Bolt           |     +0d6     |            -1            |     -1     | None |      Pierce      |                    |
-|            Heavy Bolt - Shoddy            |           Heavy Bolt           |     +0d6     |            -1            |      0      | None |      Pierce      |                    |
-|                                        |                                |              |                          |            |      |                  |                    |
-|             Blowgun Dart - Poison             |          Blowgun Dart          |     +0d6     |            +0            |      0      | None |      Poison      |                    |
-|         Sling Bullet - Standard         |          Sling Bullet          |     +0d6     |            +0            |      0      | None |     Bludgeon     |                    |
-|                                        |                                |              |                          |            |      |                  |                    |
-| Muzzleloading Pistol Cartridge - Standard | Muzzleloading Pistol Cartridge |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
-|       Arquebus Cartridge - Standard       |       Arquebus Cartridge       |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
-|        Musket Cartridge - Standard        |        Musket Cartridge        |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
-|                                        |                                |              |                          |            |      |                  |                    |
-|              9mm Round - FMJ              |            9mm Round            |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
-|              5.56 Round - FMJ              |           5.56 Round           |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
-|              .308 Round - FMJ              |           .308 Round           |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
-|         12 Gauge Shell - Buckshot         |         12 Gauge Shell         |     +0d6     |            +0            |      0      | None |      Pierce      |                    |
-|                RPG Round - Explosive                |            RPG Round            |     +0d6     |            +0            |      0      | None |  Fire, Shockwave  |    30 ft Sphere    |
+### Area Of Effect Option
+
+If "None", than default to using the Combat Roll's Area Of Effect. Otherwise, overrides the Combat Roll's Area Of Effect Option stat with the Area Of Effect specified by the Ammo.
+
+This can represent a bomb arrow or an explosive projectile.
+
+|                   Name                   |         Resource Type         | Dice Pool Mod | Base Dice Tier Adjustment | Penetration Adjustment |  Damage Types  | Range Option | Area Of Effect Option |
+| :---------------------------------------: | :----------------------------: | :-----------: | :-----------------------: | :--------------------: | :-------------: | :----------: | :-------------------: |
+|          Light Arrow - Standard          |          Light Arrow          |     +0d6     |            +0            |           0           |     Pierce     |     None     |         None         |
+|          Light Arrow - Wounding          |          Light Arrow          |     +0d6     |            +1            |           0           |  Pierce, Bleed  |     None     |         None         |
+|         Light Arrow - Anti-armor         |          Light Arrow          |     +0d6     |            +0            |           1           |     Pierce     |     None     |         None         |
+|          Light Arrow - Survival          |          Light Arrow          |     +0d6     |            -1            |           -1           |     Pierce     |     None     |         None         |
+|           Light Arrow - Shoddy           |          Light Arrow          |     +0d6     |            -1            |           0           |     Pierce     |     None     |         None         |
+|                                          |                                |              |                          |                        |                |              |                      |
+|          Heavy Arrow - Standard          |          Heavy Arrow          |     +0d6     |            +0            |           0           |     Pierce     |     None     |         None         |
+|          Heavy Arrow - Wounding          |          Heavy Arrow          |     +0d6     |            +1            |           0           |  Pierce, Bleed  |     None     |         None         |
+|         Heavy Arrow - Anti-armor         |          Heavy Arrow          |     +0d6     |            +0            |           1           |     Pierce     |     None     |         None         |
+|          Heavy Arrow - Survival          |          Heavy Arrow          |     +0d6     |            -1            |           -1           |     Pierce     |     None     |         None         |
+|           Heavy Arrow - Shoddy           |          Heavy Arrow          |     +0d6     |            -1            |           0           |     Pierce     |     None     |         None         |
+|                                          |                                |              |                          |                        |                |              |                      |
+|           Light Bolt - Standard           |           Light Bolt           |     +0d6     |            +0            |           0           |     Pierce     |     None     |         None         |
+|           Light Bolt - Wounding           |           Light Bolt           |     +0d6     |            +1            |           0           |  Pierce, Bleed  |     None     |         None         |
+|          Light Bolt - Anti-armor          |           Light Bolt           |     +0d6     |            +0            |           1           |     Pierce     |     None     |         None         |
+|           Light Bolt - Survival           |           Light Bolt           |     +0d6     |            -1            |           -1           |     Pierce     |     None     |         None         |
+|            Light Bolt - Shoddy            |           Light Bolt           |     +0d6     |            -1            |           0           |     Pierce     |     None     |         None         |
+|                                          |                                |              |                          |                        |                |              |                      |
+|           Heavy Bolt - Standard           |           Heavy Bolt           |     +0d6     |            +0            |           0           |     Pierce     |     None     |         None         |
+|           Heavy Bolt - Wounding           |           Heavy Bolt           |     +0d6     |            +1            |           0           |  Pierce, Bleed  |     None     |         None         |
+|          Heavy Bolt - Anti-armor          |           Heavy Bolt           |     +0d6     |            +0            |           1           |     Pierce     |     None     |         None         |
+|           Heavy Bolt - Survival           |           Heavy Bolt           |     +0d6     |            -1            |           -1           |     Pierce     |     None     |         None         |
+|            Heavy Bolt - Shoddy            |           Heavy Bolt           |     +0d6     |            -1            |           0           |     Pierce     |     None     |         None         |
+|                                          |                                |              |                          |                        |                |              |                      |
+|           Blowgun Dart - Poison           |          Blowgun Dart          |     +0d6     |            +0            |           0           |     Poison     |     None     |         None         |
+|          Sling Bullet - Standard          |          Sling Bullet          |     +0d6     |            +0            |           0           |    Bludgeon    |     None     |         None         |
+|                                          |                                |              |                          |                        |                |              |                      |
+| Muzzleloading Pistol Cartridge - Standard | Muzzleloading Pistol Cartridge |     +0d6     |            +0            |           0           |     Pierce     |     None     |         None         |
+|       Arquebus Cartridge - Standard       |       Arquebus Cartridge       |     +0d6     |            +0            |           0           |     Pierce     |     None     |         None         |
+|        Musket Cartridge - Standard        |        Musket Cartridge        |     +0d6     |            +0            |           0           |     Pierce     |     None     |         None         |
+|                                          |                                |              |                          |                        |                |              |                      |
+|              9mm Round - FMJ              |           9mm Round           |     +0d6     |            +0            |           0           |     Pierce     |     None     |         None         |
+|             5.56 Round - FMJ             |           5.56 Round           |     +0d6     |            +0            |           0           |     Pierce     |     None     |         None         |
+|             .308 Round - FMJ             |           .308 Round           |     +0d6     |            +0            |           0           |     Pierce     |     None     |         None         |
+|         12 Gauge Shell - Buckshot         |         12 Gauge Shell         |     +0d6     |            +0            |           0           |     Pierce     |     None     |         None         |
+|           RPG Round - Explosive           |           RPG Round           |     +0d6     |            +0            |           0           | Fire, Shockwave |     None     |     30 ft Sphere     |
 
 ## Weapons
 
@@ -1267,16 +1273,16 @@ The types of Damage a weapon inflicts when dealing injuries.
 |            Musket (+0) (One-handed)            |            Musket            |                   +0                   |      One-handed      |        +0d6        |      1      | Sharpshooter |   Painfully Slow   |        None        |        Musket Cartridge, 1        |     Ballistic     |        Medium Guns        | Flintlock smoothbore long guns.                                                                                                     | Indefinite | Innate |
 |            Musket (+0) (Two-handed)            |            Musket            |                   +0                   |      Two-handed      |        +3d6        |      1      | Sharpshooter |   Painfully Slow   |        None        |        Musket Cartridge, 1        |     Ballistic     |        Medium Guns        | Flintlock smoothbore long guns.                                                                                                     | Indefinite | Innate |
 |                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
-|   9mm Semi-automatic Pistol (+0) (One-handed)   |  9mm Semi-automatic Pistol  |                   +0                   |      One-handed      |        +2d6        |      2      |   Extended   |      Swift +2      |        None        |            9mm Round, 1            |     Ballistic     |        Small Guns        | Glock 17, ect...                                                                                                                    | Indefinite | Innate |
-|   9mm Semi-automatic Pistol (+0) (Two-handed)   |  9mm Semi-automatic Pistol  |                   +0                   |      Two-handed      |        +2d6        |      2      |     Far     |      Swift +2      |        None        |            9mm Round, 1            |     Ballistic     |        Small Guns        | Glock 17, ect...                                                                                                                    | Indefinite | Innate |
-|  9mm Semi-automatic Pistol (+0) (Dual-wielded)  |  9mm Semi-automatic Pistol  |                   +0                   |     Dual-wielded     |        +3d6        |      2      |   Extended   |      Swift +2      |        None        |            9mm Round, 2            |     Ballistic     |        Small Guns        | Glock 17, ect...                                                                                                                    | Indefinite | Innate |
+|   9mm Semi-automatic Pistol (+0) (One-handed)   |  9mm Semi-automatic Pistol  |                   +0                   |      One-handed      |        +2d6        |      2      |   Extended   |      Swift +2      |        None        |           9mm Round, 1           |     Ballistic     |        Small Guns        | Glock 17, ect...                                                                                                                    | Indefinite | Innate |
+|   9mm Semi-automatic Pistol (+0) (Two-handed)   |  9mm Semi-automatic Pistol  |                   +0                   |      Two-handed      |        +2d6        |      2      |     Far     |      Swift +2      |        None        |           9mm Round, 1           |     Ballistic     |        Small Guns        | Glock 17, ect...                                                                                                                    | Indefinite | Innate |
+|  9mm Semi-automatic Pistol (+0) (Dual-wielded)  |  9mm Semi-automatic Pistol  |                   +0                   |     Dual-wielded     |        +3d6        |      2      |   Extended   |      Swift +2      |        None        |           9mm Round, 2           |     Ballistic     |        Small Guns        | Glock 17, ect...                                                                                                                    | Indefinite | Innate |
 |                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
-|     9mm Burst-fire Pistol (+0) (One-handed)     |    9mm Burst-fire Pistol    |                   +0                   |      One-handed      |        +3d6        |      2      |   Mediocre   |      Swift +2      |        None        |            9mm Round, 3            |     Ballistic     |        Small Guns        | Beretta 93R, ect...                                                                                                                 | Indefinite | Innate |
-|     9mm Burst-fire Pistol (+0) (Two-handed)     |    9mm Burst-fire Pistol    |                   +0                   |      Two-handed      |        +3d6        |      2      |    Medium    |      Swift +2      |        None        |            9mm Round, 3            |     Ballistic     |        Small Guns        | Beretta 93R, ect...                                                                                                                 | Indefinite | Innate |
-|    9mm Burst-fire Pistol (+0) (Dual-wielded)    |    9mm Burst-fire Pistol    |                   +0                   |     Dual-wielded     |        +4d6        |      2      |   Mediocre   |      Swift +2      |        None        |            9mm Round, 6            |     Ballistic     |        Small Guns        | Beretta 93R, ect...                                                                                                                 | Indefinite | Innate |
+|     9mm Burst-fire Pistol (+0) (One-handed)     |    9mm Burst-fire Pistol    |                   +0                   |      One-handed      |        +3d6        |      2      |   Mediocre   |      Swift +2      |        None        |           9mm Round, 3           |     Ballistic     |        Small Guns        | Beretta 93R, ect...                                                                                                                 | Indefinite | Innate |
+|     9mm Burst-fire Pistol (+0) (Two-handed)     |    9mm Burst-fire Pistol    |                   +0                   |      Two-handed      |        +3d6        |      2      |    Medium    |      Swift +2      |        None        |           9mm Round, 3           |     Ballistic     |        Small Guns        | Beretta 93R, ect...                                                                                                                 | Indefinite | Innate |
+|    9mm Burst-fire Pistol (+0) (Dual-wielded)    |    9mm Burst-fire Pistol    |                   +0                   |     Dual-wielded     |        +4d6        |      2      |   Mediocre   |      Swift +2      |        None        |           9mm Round, 6           |     Ballistic     |        Small Guns        | Beretta 93R, ect...                                                                                                                 | Indefinite | Innate |
 |                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
-|     9mm Automatic Pistol (+0) (One-handed)     |     9mm Automatic Pistol     |                   +0                   |      One-handed      |        +3d6        |      2      |    Short    |        Rapid        |        None        |            9mm Round, 6            |     Ballistic     |        Small Guns        | Glock 18, ect...                                                                                                                    | Indefinite | Innate |
-|     9mm Automatic Pistol (+0) (Two-handed)     |     9mm Automatic Pistol     |                   +0                   |      Two-handed      |        +3d6        |      2      |   Mediocre   |        Rapid        |        None        |            9mm Round, 6            |     Ballistic     |        Small Guns        | Glock 18, ect...                                                                                                                    | Indefinite | Innate |
+|     9mm Automatic Pistol (+0) (One-handed)     |     9mm Automatic Pistol     |                   +0                   |      One-handed      |        +3d6        |      2      |    Short    |        Rapid        |        None        |           9mm Round, 6           |     Ballistic     |        Small Guns        | Glock 18, ect...                                                                                                                    | Indefinite | Innate |
+|     9mm Automatic Pistol (+0) (Two-handed)     |     9mm Automatic Pistol     |                   +0                   |      Two-handed      |        +3d6        |      2      |   Mediocre   |        Rapid        |        None        |           9mm Round, 6           |     Ballistic     |        Small Guns        | Glock 18, ect...                                                                                                                    | Indefinite | Innate |
 |    9mm Automatic Pistol (+0) (Dual-wielded)    |     9mm Automatic Pistol     |                   +0                   |     Dual-wielded     |        +4d6        |      2      |    Short    |        Rapid        |        None        |           9mm Round, 12           |     Ballistic     |        Small Guns        | Glock 18, ect...                                                                                                                    | Indefinite | Innate |
 |                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
 | 12 Gauge Pump-action Shotgun (+0) (One-handed) | 12 Gauge Pump-action Shotgun |                   +0                   |      One-handed      |        +3d6        |      2      |   Extended   |        Swift        |        None        |         12 Gauge Shell, 1         |     Ballistic     |        Medium Guns        | Remington 870, Mossberg 500, ect...                                                                                                 | Indefinite | Innate |
@@ -1294,11 +1300,11 @@ The types of Damage a weapon inflicts when dealing injuries.
 |    .308 Bolt Action Rifle (+0) (One-handed)    |    .308 Bolt Action Rifle    |                   +0                   |      One-handed      |        +1d6        |      4      |    Sniper    |        Quick        |        None        |           .308 Round, 1           |     Ballistic     |        Medium Guns        | Remington M700, ect...                                                                                                              | Indefinite | Innate |
 |    .308 Bolt Action Rifle (+0) (Two-handed)    |    .308 Bolt Action Rifle    |                   +0                   |      Two-handed      |        +4d6        |      4      |    Sniper    |        Quick        |        None        |           .308 Round, 1           |     Ballistic     |        Medium Guns        | Remington M700, ect...                                                                                                              | Indefinite | Innate |
 |                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
-|       5.56 Machine Gun (+0) (One-handed)       |       5.56 Machine Gun       |                   +0                   |      One-handed      |         -2         |      3      |   Extreme   |        Rapid        |        None        |           5.56 Round, 10           |     Ballistic     |        Heavy Guns        | M249, ect...                                                                                                                        | Indefinite | Innate |
-|       5.56 Machine Gun (+0) (Two-handed)       |       5.56 Machine Gun       |                   +0                   |      Two-handed      |        +4d6        |      3      |   Extreme   |        Rapid        |        None        |           5.56 Round, 10           |     Ballistic     |        Heavy Guns        | M249, ect...                                                                                                                        | Indefinite | Innate |
+|       5.56 Machine Gun (+0) (One-handed)       |       5.56 Machine Gun       |                   +0                   |      One-handed      |         -2         |      3      |   Extreme   |        Rapid        |        None        |          5.56 Round, 10          |     Ballistic     |        Heavy Guns        | M249, ect...                                                                                                                        | Indefinite | Innate |
+|       5.56 Machine Gun (+0) (Two-handed)       |       5.56 Machine Gun       |                   +0                   |      Two-handed      |        +4d6        |      3      |   Extreme   |        Rapid        |        None        |          5.56 Round, 10          |     Ballistic     |        Heavy Guns        | M249, ect...                                                                                                                        | Indefinite | Innate |
 |                                                |                              |                                        |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
-|         RPG Launcher (+0) (One-handed)         |         RPG Launcher         |                   +0                   |      One-handed      |         -2         |      6      | Sharpshooter |        Paced        |    30 ft Sphere    |            RPG Round, 1            |     Shockwave     |        Heavy Guns        | RPG-7, ect...                                                                                                                       | Indefinite | Innate |
-|         RPG Launcher (+0) (Two-handed)         |         RPG Launcher         |                   +0                   |      Two-handed      |        +6d6        |      6      | Sharpshooter |        Paced        |    30 ft Sphere    |            RPG Round, 1            |     Shockwave     |        Heavy Guns        | RPG-7, ect...                                                                                                                       | Indefinite | Innate |
+|         RPG Launcher (+0) (One-handed)         |         RPG Launcher         |                   +0                   |      One-handed      |         -2         |      6      | Sharpshooter |        Paced        |    30 ft Sphere    |           RPG Round, 1           |     Shockwave     |        Heavy Guns        | RPG-7, ect...                                                                                                                       | Indefinite | Innate |
+|         RPG Launcher (+0) (Two-handed)         |         RPG Launcher         |                   +0                   |      Two-handed      |        +6d6        |      6      | Sharpshooter |        Paced        |    30 ft Sphere    |           RPG Round, 1           |     Shockwave     |        Heavy Guns        | RPG-7, ect...                                                                                                                       | Indefinite | Innate |
 
 ## Weapon Combat Skills
 
@@ -1847,14 +1853,14 @@ When representing a container on a character sheet, a similar table as the one b
 
 A containers type will be seen under the "#" or "quantity" header. This is because you can't have stacks of containers, only instances.
 
-| Name                    |       ##       |        Effect        |  LB  | Value | Description |
-| ----------------------- | :-------------: | :------------------: | :--: | :---: | ----------- |
-| Backpack                | 30 lb container |                      |  5  | 2 bc |             |
-| Light Longbow           |        1        |      Light Bow      |  2  | 25 bc |             |
-| Quiver (capacity: 20)   |        1        |                      |  1  | 1 bc |             |
+| Name                    |       ##       |         Effect         |  LB  | Value | Description |
+| ----------------------- | :-------------: | :--------------------: | :--: | :---: | ----------- |
+| Backpack                | 30 lb container |                        |  5  | 2 bc |             |
+| Light Longbow           |        1        |       Light Bow       |  2  | 25 bc |             |
+| Quiver (capacity: 20)   |        1        |                        |  1  | 1 bc |             |
 | Light Arrow - Broadhead |       20       | Light Arrow - Standard | 0.05 | 5 cc |             |
-| Ring, Mundane           |        1        |                      | 0.2 | 30 cc |             |
-| Copper Coin             |       70       |                      | 0.02 | 1 cc |             |
+| Ring, Mundane           |        1        |                        | 0.2 | 30 cc |             |
+| Copper Coin             |       70       |                        | 0.02 | 1 cc |             |
 
 ## Effects
 
