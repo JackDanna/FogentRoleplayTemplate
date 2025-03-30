@@ -1,37 +1,37 @@
-name,desc,duration,source,ammoType,dicePoolMod,baseDiceTierAdjustment,penetrationAdjustment,rangeOption,damageTypes,areaOfEffectOption
-Standard Light Arrow,Ammunition for Combat Rolls.,Indefinite,Innate,Light Arrow,+0d6,+0,0,None,Pierce,
-Wounding Light Arrow,Ammunition for Combat Rolls.,Indefinite,Innate,Light Arrow,+0d6,+1,0,None,"Pierce, Bleed",
-Anti-armor Light Arrow,Ammunition for Combat Rolls.,Indefinite,Innate,Light Arrow,+0d6,+0,1,None,Pierce,
-Survival Light Arrow,Ammunition for Combat Rolls.,Indefinite,Innate,Light Arrow,+0d6,-1,-1,None,Pierce,
-Shoddy Light Arrow,Ammunition for Combat Rolls.,Indefinite,Innate,Light Arrow,+0d6,-1,0,None,Pierce,
-,,,,,,,,,,
-Standard Heavy Arrow,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Arrow,+0d6,+0,0,None,Pierce,
-Wounding Heavy Arrow,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Arrow,+0d6,+1,0,None,"Pierce, Bleed",
-Anti-armor Heavy Arrow,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Arrow,+0d6,+0,1,None,Pierce,
-Survival Heavy Arrow,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Arrow,+0d6,-1,-1,None,Pierce,
-Shoddy Heavy Arrow,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Arrow,+0d6,-1,0,None,Pierce,
-,,,,,,,,,,
-Standard Light Bolt,Ammunition for Combat Rolls.,Indefinite,Innate,Light Bolt,+0d6,+0,0,None,Pierce,
-Wounding Light Bolt,Ammunition for Combat Rolls.,Indefinite,Innate,Light Bolt,+0d6,+1,0,None,"Pierce, Bleed",
-Anti-armor Light Bolt,Ammunition for Combat Rolls.,Indefinite,Innate,Light Bolt,+0d6,+0,1,None,Pierce,
-Survival Light Bolt,Ammunition for Combat Rolls.,Indefinite,Innate,Light Bolt,+0d6,-1,-1,None,Pierce,
-Shoddy Light Bolt,Ammunition for Combat Rolls.,Indefinite,Innate,Light Bolt,+0d6,-1,0,None,Pierce,
-,,,,,,,,,,
-Standard Heavy Bolt,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Bolt,+0d6,+0,0,None,Pierce,
-Wounding Heavy Bolt,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Bolt,+0d6,+1,0,None,"Pierce, Bleed",
-Anti-armor Heavy Bolt,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Bolt,+0d6,+0,1,None,Pierce,
-Survival Heavy Bolt,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Bolt,+0d6,-1,-1,None,Pierce,
-Shoddy Heavy Bolt,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Bolt,+0d6,-1,0,None,Pierce,
-,,,,,,,,,,
-Poison Needles,Ammunition for Combat Rolls.,Indefinite,Innate,Blowgun Dart,+0d6,+0,0,None,Poison,
-Standard Sling Bullets,Ammunition for Combat Rolls.,Indefinite,Innate,Sling Bullet,+0d6,+0,0,None,Bludgeon,
-,,,,,,,,,,
-Standard Muzzleloading Pistol Cartridge,Ammunition for Combat Rolls.,Indefinite,Innate,Muzzleloading Pistol Cartridge,+0d6,+0,0,None,Pierce,
-Standard Arquebus Cartridge,Ammunition for Combat Rolls.,Indefinite,Innate,Arquebus Cartridge,+0d6,+0,0,None,Pierce,
-Standard Musket Cartridge,Ammunition for Combat Rolls.,Indefinite,Innate,Musket Cartridge,+0d6,+0,0,None,Pierce,
-,,,,,,,,,,
-9mm FMJ Ammo,Ammunition for Combat Rolls.,Indefinite,Innate,9mm Ammo,+0d6,+0,0,None,Pierce,
-5.56 FMJ Ammo,Ammunition for Combat Rolls.,Indefinite,Innate,5.56 Ammo,+0d6,+0,0,None,Pierce,
-.308 FMJ Ammo,Ammunition for Combat Rolls.,Indefinite,Innate,.308 Ammo,+0d6,+0,0,None,Pierce,
-12 Gauge Buckshot Ammo,Ammunition for Combat Rolls.,Indefinite,Innate,12 Gauge Ammo,+0d6,+0,0,None,Pierce,
-RPG Ammo,Ammunition for Combat Rolls.,Indefinite,Innate,RPG Ammo,+0d6,+0,0,None,"Fire, Shockwave",30 ft Sphere
+name,resourceType,dicePoolMod,baseDiceTierAdjustment,penetrationAdjustment,damageTypes,rangeOption,areaOfEffectOption
+Light Arrow - Standard,Light Arrow,+0d6,+0,0,Pierce,None,None
+"Light Arrow - Wounding ",Light Arrow,+0d6,+1,0,"Pierce, Bleed",None,None
+Light Arrow - Anti-armor,Light Arrow,+0d6,+0,1,Pierce,None,None
+Light Arrow - Survival,Light Arrow,+0d6,-1,-1,Pierce,None,None
+Light Arrow - Shoddy,Light Arrow,+0d6,-1,0,Pierce,None,None
+,,,,,,,
+Heavy Arrow - Standard,Heavy Arrow,+0d6,+0,0,Pierce,None,None
+Heavy Arrow - Wounding,Heavy Arrow,+0d6,+1,0,"Pierce, Bleed",None,None
+Heavy Arrow - Anti-armor,Heavy Arrow,+0d6,+0,1,Pierce,None,None
+Heavy Arrow - Survival,Heavy Arrow,+0d6,-1,-1,Pierce,None,None
+Heavy Arrow - Shoddy,Heavy Arrow,+0d6,-1,0,Pierce,None,None
+,,,,,,,
+Light Bolt - Standard,Light Bolt,+0d6,+0,0,Pierce,None,None
+Light Bolt - Wounding,Light Bolt,+0d6,+1,0,"Pierce, Bleed",None,None
+Light Bolt - Anti-armor,Light Bolt,+0d6,+0,1,Pierce,None,None
+Light Bolt - Survival,Light Bolt,+0d6,-1,-1,Pierce,None,None
+Light Bolt - Shoddy,Light Bolt,+0d6,-1,0,Pierce,None,None
+,,,,,,,
+Heavy Bolt - Standard,Heavy Bolt,+0d6,+0,0,Pierce,None,None
+Heavy Bolt - Wounding,Heavy Bolt,+0d6,+1,0,"Pierce, Bleed",None,None
+Heavy Bolt - Anti-armor,Heavy Bolt,+0d6,+0,1,Pierce,None,None
+Heavy Bolt - Survival,Heavy Bolt,+0d6,-1,-1,Pierce,None,None
+Heavy Bolt - Shoddy,Heavy Bolt,+0d6,-1,0,Pierce,None,None
+,,,,,,,
+Blowgun Dart - Poison,Blowgun Dart,+0d6,+0,0,Poison,None,None
+Sling Bullet - Standard,Sling Bullet,+0d6,+0,0,Bludgeon,None,None
+,,,,,,,
+Muzzleloading Pistol Cartridge - Standard,Muzzleloading Pistol Cartridge,+0d6,+0,0,Pierce,None,None
+Arquebus Cartridge - Standard,Arquebus Cartridge,+0d6,+0,0,Pierce,None,None
+Musket Cartridge - Standard,Musket Cartridge,+0d6,+0,0,Pierce,None,None
+,,,,,,,
+9mm Round - FMJ,9mm Round,+0d6,+0,0,Pierce,None,None
+5.56 Round - FMJ,5.56 Round,+0d6,+0,0,Pierce,None,None
+.308 Round - FMJ,.308 Round,+0d6,+0,0,Pierce,None,None
+12 Gauge Shell - Buckshot,12 Gauge Shell,+0d6,+0,0,Pierce,None,None
+RPG Round - Explosive,RPG Round,+0d6,+0,0,"Fire, Shockwave",None,30 ft Sphere
