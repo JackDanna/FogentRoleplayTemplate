@@ -1095,23 +1095,21 @@ This can represent a bomb arrow, an explosive rounds, ect...
 |         12 Gauge Shell - Buckshot         |         12 Gauge Shell         |     +0d6     |            +0            |           0           |     Pierce     |     None     |         None         |
 |           RPG Round - Explosive           |           RPG Round           |     +0d6     |            +0            |           0           | Fire, Shockwave |     None     |     30 ft Sphere     |
 
-## Weapons
+## Combat Roll
 
-Examples of weapons include swords, bows, guns, or even a character's fists.
+Describes how a character is participating in combat. Is your character fist fighting a drunk. Is your character using both of their hands on their greatsword while swinging in large slashing arcs, that's a combat roll. Is a character holding a torch in one hand and firing a pistol in the other, that's a combat roll.
 
-In order to make a combat roll, a character needs to specify what weapon they will be using. Weapons can dramatically improve the chances of getting more wins on a combat roll, make it possible to engage opponents at far distances, enable rapid engagement of multiple opponents, deal various types of damages which an opponents might be weak to, etc...
+Combat Roll's come on all weapons and offensive spells. Some weapons might even have multiple combat rolls, such as a sword that can either thrust or swung.
 
-Below is a key to help you understand the weapon tables below.
+The right Combat Roll can dramatically improve the chances of getting more wins in a combat, make it possible to engage opponents at far distances, enable rapid engagement of multiple opponents, deal various types of damages which an opponents might be weak to, etc...
 
 ### Name
 
-The name of a weapon is it's Weapon Type, followed by it's Handed Variation in parentheses, followed by it's Base Dice Tier Adjustment amount in parentheses.
+The name of a Combat Roll is it's Weapon Type, followed by it's Handed Variation in parentheses, followed by it's Base Dice Tier Adjustment amount in parentheses.
 
-For example, let's say we are making rapier sword for use in our game. Rapier's logically seem to be Medium Melee weapons. In regards which Handed Variations it gets, most rapier grips only include space for one hand, thus we only use the One-handed and Dual-wielded, and not Two-handed. Next, in regards to the Base Dice Tier Adjustment amounts, we note that rapiers were designed to favor the piercing rather than slashing. Thus, we could give a +2 Base Dice Tier Adjustment Amount when piercing with this sword.
+For example, let's say we are creating a Combat Roll for one-handed thrusting with a rapier. In regards to Weapon Type, it seems that a rapier would be a "Medium Pierce Melee" weapon. Next, in regards which Handed Variations, since we are only using it in one hand and since most rapier grips only include space for one hand, thus we'd use "One-handed".  Finally, in regards to the Base Dice Tier Adjustment, we note that rapiers were designed to favor the piercing rather than slashing. To reflect this, we could give a +2 Base Dice Tier Adjustment for our one-handed thrusting Combat Roll.
 
-Thus, our rapier would have the below weapons:
-
-"Medium Pierce Melee (One-handed) (+2), Medium Pierce Melee (Dual-wielded) (+2), Medium Slash Melee (One-handed) (+0), Medium Slash Melee (Dual-wielded) (+0)"
+Thus, our rapier would have the below weapons: "Medium Pierce Melee (One-handed) (+2)"
 
 ### Weapon Type
 
@@ -1119,21 +1117,27 @@ Just describes what type of weapon.
 
 ### Base Dice Tier Adjustment
 
-Adjusts the [Base Dice Tier](./../GeneralRules/BaseDiceTiers.md) by the amount specified. This generally is used to indicate the quality of the weapon in question. For instance a "Hand Crossbow (One-handed) (+1)" will have 1d8,2d6 as it's Base Dice. The table below only shows the +0 Base Dice Tier Adjustment amount for the sake of brevity.
+Adjusts the Base Dice Tier by the amount specified.
+
+This generally is used to adjust the consitency and/or reliability of the Combat Roll. For instance a "Hand Crossbow (One-handed) (+1)" will have 1d8, 2d6 as it's Base Dice.
+
+The table below only shows the +0 Base Dice Tier Adjustment amount for the sake of brevity.
 
 ### Handed Variation
 
-#### One-handed
+Describes how a character's hands (or other appendages) will be occupied as part of the Combat Roll. This is very important when defining a Combat Roll, as some weapons would be impossible to use with one hand (such as a bow).
 
-The dice pool modifier added when wielding a weapon in one hand or equivalent appendage. This frees up the other hand to hold a shield, another weapon, an important item, etc...
+**One-handed**
 
-#### Two-handed
+One hand or equivalent appendage is being used. This frees up the other hand to hold a shield, another weapon, an important item, etc...
 
-The dice pool modifier added when wielding a weapon in two hands or equivalent appendages.
+**Two-handed**
 
-#### Dual-wielded
+Two hands or equivalent appendages are being used. For characters with only two hands, this means both their hands are required.
 
-The dice pool modifier added when dual wielding a main weapon in one hand with an off-handed weapon in the other hand. Only weapons with the "Dual-wielded" handed variation are eligible for dual wielding. To dual wield, a character must have at least one skill point in both of the weapons held.
+**Dual-wielded**
+
+One hand is being used on a main weapon and the other hand is being used on another independent weapon. Only for weapons that wouldn't encumber the user if one were held in each hand (generally Medium to small sized weapons). To dual wield, a character must have at least one skill point in both of the weapons held.
 
 ### Dice Pool Mod
 
