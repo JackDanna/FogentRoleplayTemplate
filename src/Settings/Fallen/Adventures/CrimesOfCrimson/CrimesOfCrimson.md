@@ -42,7 +42,7 @@ And taking in Reddwall for their first time, leaning against the railing stand t
 - After their infusion, they are assigned to a building in the Diligence district know as the Weeping Anvil.
 - "You walk thought the crowded city streets."
 
-### The Weapon Anvil
+### The Weeping Anvil
 
 - Upon arriving at the Weeping Anvil, you can see what appears to be some kine of conflict... 3 burrower adolescent thugs, part of the Burrowers gang, that are trying to get a young beastkin teen to join there gang. They don't seem to be taking no for an answer.
 - The fight ensues, but ends when Killroy and Sherwood returns with Killroy. The thugs are scared of Sherwood as she is know to be quite the badass.
