@@ -29,7 +29,7 @@ The rules are the foundation and narrative engine for your game. They are listed
   - [Battle Map](#battle-map)
   - [Movement Speed](#combat-speed)
   - [Ammunitions](#ammunitions)
-  - [Combat Rolls](#weapons)
+  - [Combat Roll](#combat-Roll)
   - [Weapon Combat Skills](#weapon-combat-skills)
   - [Combat Roll](#combat-roll)
   - [Dodge Roll](#dodge-roll)
@@ -1951,9 +1951,9 @@ For a specified Skill/Vocation, a Character receives an adjustment to it's level
 | ------------- | ----------------- | ---------- | ------ |
 | Enhanced Lift | +1 to Lift level. | Indefinite |        |
 
-#### Weapons
+#### Combat Roll
 
-See Weapons rules for more information.
+See Combat Roll rules for more information.
 
 #### Ammunitions
 
@@ -2441,7 +2441,7 @@ Almost all traditional offensive magic spells can be represented as Weapon Spell
 - Water Whip = Water Magic Skill + Whip
 - Earth Shield = Earth Magic + Large Shield
 
-#### [Melee Combat Roll Spells](./../../../../../CoreRules/MagicRules/Spells.md#melee-weapon-spells)
+#### [Melee Combat Roll Spells](./../../../../../CoreRules/MagicRules/Spells.md#melee-combat-roll-spells)
 
 |        Name        | [One<br />Handed](./../../../../../CoreRules/CombatRules/CombatRolls.md#one-handed) | [Two<br />Handed](./../../../../../CoreRules/CombatRules/CombatRolls.md#two-handed) | [Dual<br />Wielded](./../../../../../CoreRules/CombatRules/CombatRolls.md#dual-wielded) | [Penetration](./../../../../../CoreRules/CombatRules/Penetration.md) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Uses Per<br />Round](./../../../../../CoreRules/CombatRules/UsesPerRound.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) | [Magic<br />Resource](./../../../../../CoreRules/MagicRules/MagicResource.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) |
 | :-----------------: | :--------------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :---------------------------------------------------------------: | :---------------------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------------------------------: | ----------------------------------------------------------------------- |
@@ -2464,7 +2464,7 @@ Almost all traditional offensive magic spells can be represented as Weapon Spell
 |  Magic Reach Smash  |                                      -2                                      |                                     +2d6                                     |                                       None                                       |                                 5                                 |                         Reach                         |                                  Swift +2                                  |                                                                            |                                     2                                     |                                                                         |
 |  Magic Reach Spear  |                                      -2                                      |                                     +4d6                                     |                                       None                                       |                                 4                                 |                         Reach                         |                                   Steady                                   |                                                                            |                                     2                                     |                                                                         |
 
-#### [Ranged Combat Roll Spell](./../../../../../CoreRules/MagicRules/Spells.md#ranged-weapon-spells)
+#### [Ranged Combat Roll Spell](./../../../../../CoreRules/MagicRules/Spells.md#ranged-combat-roll-spells)
 
 |             Name             | [One<br />Handed](./../../../../../CoreRules/CombatRules/CombatRolls.md#one-handed) | [Two<br />Handed](./../../../../../CoreRules/CombatRules/CombatRolls.md#two-handed) | [Dual<br />Wielded](./../../../../../CoreRules/CombatRules/CombatRolls.md#dual-wielded) | [Penetration](./../../../../../CoreRules/CombatRules/Penetration.md) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Uses Per<br />Round](./../../../../../CoreRules/CombatRules/UsesPerRound.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) | [Magic<br />Resource](./../../../../../CoreRules/MagicRules/MagicResource.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) |
 | :---------------------------: | :--------------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :---------------------------------------------------------------: | :---------------------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------------------------------: | ----------------------------------------------------------------------- |
