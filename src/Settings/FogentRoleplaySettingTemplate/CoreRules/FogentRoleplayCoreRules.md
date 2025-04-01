@@ -32,7 +32,7 @@ The rules are the foundation and narrative engine for your game. They are listed
   - [Combat Roll](#combat-Roll)
   - [Weapon Combat Skills](#weapon-combat-skills)
   - [Combat Roll](#combat-roll)
-  - [Dodge Roll](#dodge-roll)
+  - [Evasion Roll](#evasion-roll)
   - [Combat Rounds](#combat-rounds)
   - [Conditions](#conditions)
   - [Injury and Healing](#injury-and-healing)
@@ -678,7 +678,7 @@ Most Armor has a Defense. For item creation purposes, determining what portions 
 
 A character can wear two pieces of armor on the same body part, such as wearing a gambeson shirt under chain mail shirt or a breastplate, which was most certainly done in history.
 
-Shields generally takes up one of the character's hands when in use. Characters not actively using their shield as part of their combat/dodge roll do not benefit from the additional defense. Characters that are Off Guard or being attacked while unaware also do not benefit from the shield's defense.
+Shields generally takes up one of the character's hands when in use. Characters not actively using their shield as part of their combat/evasion roll do not benefit from the additional defense. Characters that are Off Guard or being attacked while unaware also do not benefit from the shield's defense.
 
 ### What to do about attacks with Multiple damage types
 
@@ -826,7 +826,7 @@ Cases will arise when an action is performed with a combination of Effective/Ine
 
 Uses Per Round represent the number of times some skill governed action can be preformed in a round. Taking firearms as an example, the faster the fire rate and easier it is to reload, the better it's Uses Per Round should be. A flint lock pistol should have a far slower Uses Per Round as compared to a modern pistol.
 
-If a character completely depletes their Uses Per Round for a combat round they can no longer use their combat roll for that combat round and are instead forced to dodge if they are being attacked.
+If a character completely depletes their Uses Per Round for a combat round they can no longer use their combat roll for that combat round and are instead forced to use an Evasion Roll if they are being attacked.
 
 Uses Per Round is calculated using the following equation:
 
@@ -856,7 +856,7 @@ For example, if a character's' governing skill dice pool had 7 dice and their co
 
 On a round where an action IS prepared (example: your Heavy Crossbow is loaded), you can perform the action 1 time.
 
-On a round where an action is NOT prepared (example: your Heavy Crossbow is unloaded), if the Uses Per Round calculation result is greater than or equal to 0.5 and less than 1, 1 round must be spend preparing in order to use this action again. If the result is greater than 0 and less 0.5, your character must spend 2 rounds preparing. While preparing the "Off Guard" Combat Modifier is gained. If engaged during this time characters can still attempt to dodge while preparing.
+On a round where an action is NOT prepared (example: your Heavy Crossbow is unloaded), if the Uses Per Round calculation result is greater than or equal to 0.5 and less than 1, 1 round must be spend preparing in order to use this action again. If the result is greater than 0 and less 0.5, your character must spend 2 rounds preparing. While preparing the "Off Guard" Combat Modifier is gained. If engaged during this time characters can still attempt to perform an Evasion Roll.
 
 #### Uses Per Round if character is using multiple loaded weapons
 
@@ -1363,10 +1363,6 @@ Javk Wick the rogue has a Light Crossbow and Light Bolt - Standards. He has a we
 
 Based on the dice above, Javk using his Light Crossbow has a 7d6.
 
-## Dodge Roll
-
-When a combat roll is made against a character who is not capable of making an opposing combat roll, the defender can make an Dexterity Roll vs the attacker's Combat Roll. This is an assumed reflexive action, IE a character could have, as part of the Declaration Phase, declared"... and I'll try to dodge anything being shot at me" every round. Any levels over the defender's Dodge Roll wins count as victories for the attacker. The only victory level outcome a Dodge can achieve is exiting a grapple. A Combat Roll and Dodge Roll can both be made in a round.
-
 ## Combat Rounds
 
 Combat is run in a Round-by-round format. Each character can perform 1 combat roll within a round (though additional things like climbing as part of your movement or reactively dodging arrows are expected) with liberties regarding the narrative flow of the game. For instance, it doesn't take an action to shout out something to another character while fighting a monster, though it would take a round to explain something complicated.
@@ -1406,6 +1402,24 @@ Whenever losing dice of the same kind, always remove dice from left to right. Th
 #### Applying Disadvantage/Advantage to an already rolled Combat Roll Dice Pools
 
 If your character gains disadvantage (often the result of a stagger or being knocked prone) or advantage (you engage a prone opponent as your second target with a melee weapon) after you've already rolled a Combat Roll dice pool that round, you will retroactively apply said disadvantage/advantage to your those dice pools. This could turn some dice that were wins into fails and vice versa.
+
+## Evasion Roll
+
+When a combat roll is made against a character who is not capable of making an opposing combat roll (i.e. they are using a melee combat roll but are being shot at from far away), the defender can make a Evasion Roll vs the attacker's Combat Roll.
+
+An Evasion Roll will consist of a Skill Roll which represents evading getting hit.
+
+As part of the Declaration Phase, if the defending character declared they were going to use an Evasion Roll against specific attacks, than with the Narrators permission, they can choose a Skill that seems resonable.
+
+For instance, if during a round of combat while sieging a castle wall, a Player Character armed with only his greatsword needs to cross between two points of cover. The Player Character knows he is lower in turn order than the archers on the wall, but assumes they are going to fire at him as he crosses between cover. The Player asks if it would be resonalbe if he could use the "Athletics" Skill for his Evasion Roll against the assumed archer's Combat Rolls, since the faster his dash is, the harder it will be to land a shot on him. The Narrator agrees with his logic and allows it.
+
+However, as part of the Declaration Phase, if the defending character DID NOT declare they were going to use an Evasion Roll against specific attacks, than it is up to the Narrator to choose a reflexive Skill Roll that seems resonable. The Skill Roll used will be soley up to the Narrator, and will usually be a skill related to reflexive dodging, which is generally "Dexterity".
+
+For instance, if during a round of combat on a grassy field, a Player Character armed with only his greatsword is trying to get within swinging range to an enemy archer. The Player Character knows he is lower in turn order than the archer, and declares he is going to move over to the archer and attack. Since the archer is higher in turn order, declares he will simply move backwards while firing at the Player Character. The archer looses his arrow before the Player Character gets within greatsword range, so the Narrator decides the Player Character will reflexively make a Evasion Roll with "Dexterity" to try and avoid the arrow shot.
+
+Any levels over the defender's Evasion Roll wins count as victories for the attacker.
+
+The only victory level outcome a Dodge can achieve is exiting a grapple. A Combat Roll and Evasion Rolls can both be made in a round.
 
 ## Conditions
 
@@ -1637,7 +1651,7 @@ Combat Modifiers represent different circumstances and actions that can occur wi
 
 A character purely focuses on defending themselves.
 
-No victory level outcomes can be achieved for the round by the defender. Effects both to Combat Rolls and Dodge Rolls if declared. Is not applicable if Character can't solely focus on defending themselves, such as when they have Disadvantage to their Combat Rolls or Dodge Rolls. Examples include being Staggered, being attacked from outside a Grapple, getting up from being Prone, being Off Guard, Dashing, etc...
+No victory level outcomes can be achieved for the round by the defender. Effects both to Combat Rolls and Evasion Rolls if declared. Is not applicable if Character can't solely focus on defending themselves, such as when they have Disadvantage to their Combat Rolls or Evasion Rolls. Examples include being Staggered, being attacked from outside a Grapple, getting up from being Prone, being Off Guard, Dashing, etc...
 
 ### Dash (2x Movement Speed)
 
@@ -1647,9 +1661,9 @@ Instead of engaging in a combat roll, a player can choose to focus purely on the
 
 When a character is making a ranged attack, they gain Disadvantage on their ranged combat roll if they are within range of an opponent who is targeting them with a melee combat roll during that round.
 
-### Stationary Shooting (Advantage) (Disadvantage to Dodge Rolls)
+### Stationary Shooting (Advantage) (Disadvantage to Evasion Rolls)
 
-Remain stationary for an entire round to gain a more stable base for ranged attacks. Advantage on all of ranged attacks for that round, except against opponents engaging the character with a Melee or Reach Range combat roll. Due to being a stationary target, Disadvantage on Dodge Roll.
+Remain stationary for an entire round to gain a more stable base for ranged attacks. Advantage on all of ranged attacks for that round, except against opponents engaging the character with a Melee or Reach Range combat roll. Due to being a stationary target, Disadvantage on Evasion Roll.
 
 ### High ground (Advantage)
 
@@ -1657,7 +1671,7 @@ Bonus received through achieving a height advantage against an opponent, IE stan
 
 ### Off Guard (Disadvantage)
 
-Penalty to combat rolls and dodge rolls received when a character is actively engaged in something else, IE picking a lock, hacking a terminal, being distracted, etc.
+Penalty to Combat Rolls and Evasion Rolls received when a character is actively engaged in something else, IE picking a lock, hacking a terminal, being distracted, etc.
 
 ### Sneak Attack (CL in lieu of defense roll)
 
@@ -1691,13 +1705,13 @@ Usually achieved with the Perception Core Skill.
 
 While making a ranged attack, focus on a single opponent and target a weak point. Your Uses Per Round is reduced to 1 for the turn.
 
-### Charge (Advantage) (Disadvantage to Dodge Rolls)
+### Charge (Advantage) (Disadvantage to Evasion Rolls)
 
 Usually achieved with the Athletics Core Skill.
 
 If there is 10 ft between the character and an opponent, they may add their momentum to their melee attack. The character charging must move in a straight line, and once a charge is initiated as a portion of a character's movement, their directions must remain constant the entire round. Disadvantage to Dodging while charging.
 
-### Brace (Advantage versus Charge) (Disadvantage to Dodge Rolls)
+### Brace (Advantage versus Charge) (Disadvantage to Evasion Rolls)
 
 Usually achieved with the Lift Core Skill.
 
