@@ -1459,30 +1459,6 @@ Since Injuries work on a narrative severity scale, so does the healing that can 
 - Any combination of lower Victory Level outcomes is possible as long as they sum up to be less than or equal to the Victory Level achieved. For instance, with a Level 2 victory, a character could perform both a Stagger and a Minor Injury against there opponent.
 - It is mandatory that that the player dealing the Victory Level outcome must describe in awesome detail how they are performing this action. Creativity is encouraged!
 
-### Level 1 victory
-
-#### Stagger
-
-The opponent gains the Staggered condition until the end of the next round.
-
-This could be sand thrown in a character's face, being shoulder-checked, or losing their footing.
-
-#### Shove
-
-The opponent is shoved in the desired direction.
-
-The character can either roll a Lift check or take the average amount of Wins rounded down. If a character is using magic, they may use a Magic Skill instead of Lift, assuming the magic could shove someone. For each win achieved, a character can shove another character 5 feet in a straight line. For each size category the opponent is smaller than you, double the distance. For each size category, the opponent is larger than you, half the distance. The Narrator can change this distance based on unusual circumstances (i.e. humanoid-sized creature weighs as much as a Large sized creature as it is made of pure metal/stone).
-
-#### Grapple
-
-Enter/exit a Grapple. If entering into a Grapple, apply the Grappled condition to both you and your opponent.
-
-#### Grapple Move
-
-While in a grapple, you can move your opponent.
-
-The character can either roll a Lift check or take the average amount of wins rounded down. If a character is using magic, they may use a Magic Skill instead of Lift, assuming the magic could grapple someone. For each win achieved, a character can Move another character 10 feet. For each size category the opponent is smaller than you, double the distance. For each Size the opponent is larger than you, half the distance. If your character is required to move during the move, you can not exceed your normal amount of movement for that round. The Narrator can change this distance based on unusual circumstances (i.e. humanoid-sized creature weighs as much as a Large sized creature as it is made of pure metal/stone).
-
 ### Level 2 victory
 
 #### Disarm
