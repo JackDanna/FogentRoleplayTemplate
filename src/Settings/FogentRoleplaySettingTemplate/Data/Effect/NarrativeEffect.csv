@@ -31,7 +31,10 @@ Incapacitated,"- Automatically fail any check that requires moving their body (i
 Stunned,"- Incapacitated (see the Narrative Effect).
 - Can't coherently speak.",1 Round,?
 Paralyzed,"- Incapacitated (see the Narrative Effect).
-- Aware of surroundings.",Indefinite,?
+- Can't speak.
+- Aware of surroundings.
+- The character becomes rigid.",Indefinite,?
+
 Unconscious,"- Incapacitated (see the Narrative Effect).
 - Can't speak.
 - Unaware of surroundings.
