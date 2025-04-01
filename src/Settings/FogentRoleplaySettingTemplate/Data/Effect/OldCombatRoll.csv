@@ -1,4 +1,4 @@
-name,weaponType,baseDiceTierAdjustment,handedVariation,dicePoolMod,penetration,range,usesPerRound,areaOfEffect,resourceTypePoolOption,damageTypes,governingSkillName,desc,duration,source
+name,combatRollType,baseDiceTierAdjustment,handedVariation,dicePoolMod,penetration,range,usesPerRound,areaOfEffect,resourceTypePoolOption,damageTypes,governingSkillName,desc,duration,source
 Unarmed (+0) (One-handed),Unarmed,+0,One-handed,-1,0,Melee,Swift,None,None,Bludgeon,Close Melee,Just your bare hands. Can be used in a Grapple.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 Small Hew Melee (+0) (One-handed),Small Hew Melee,+0,One-handed,+0d6,2,Melee,Swift,None,None,Hew,Close Melee,"Hatchets, small axes, ect... Can be used in a Grapple.",Indefinite,Innate
@@ -105,8 +105,8 @@ Muzzleloading Pistol (+0) (One-handed),Muzzleloading Pistol,+0,One-handed,+2d6,4
 Muzzleloading Pistol (+0) (Two-handed),Muzzleloading Pistol,+0,Two-handed,+2d6,4,Medium,Extremely Slow,None,"Muzzleloading Pistol Cartridge, 1",Ballistic,Small Guns,"Flintlock pistols, ect...",Indefinite,Innate
 Muzzleloading Pistol (+0) (Dual-wielded),Muzzleloading Pistol,+0,Dual-wielded,+3d6,4,Mediocre,Painfully Slow,None,"Muzzleloading Pistol Cartridge, 2",Ballistic,Small Guns,"Flintlock pistols, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Arquebus (+0) (One-handed),Arquebus,+0,One-handed,+0d6,5,Long,Extremely Slow,None,"Arquebus Cartridge, 1",Ballistic,Medium Guns,Weapon for Combat Rolls.,Indefinite,Innate
-Arquebus (+0) (Two-handed),Arquebus,+0,Two-handed,+2d6,5,Long,Extremely Slow,None,"Arquebus Cartridge, 1",Ballistic,Medium Guns,Weapon for Combat Rolls.,Indefinite,Innate
+Arquebus (+0) (One-handed),Arquebus,+0,One-handed,+0d6,5,Long,Extremely Slow,None,"Arquebus Cartridge, 1",Ballistic,Medium Guns,Can be used as a Combat Roll.,Indefinite,Innate
+Arquebus (+0) (Two-handed),Arquebus,+0,Two-handed,+2d6,5,Long,Extremely Slow,None,"Arquebus Cartridge, 1",Ballistic,Medium Guns,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 Musket (+0) (One-handed),Musket,+0,One-handed,+0d6,5,Sharpshooter,Painfully Slow,None,"Musket Cartridge, 1",Ballistic,Medium Guns,Flintlock smoothbore long guns.,Indefinite,Innate
 Musket (+0) (Two-handed),Musket,+0,Two-handed,+3d6,5,Sharpshooter,Painfully Slow,None,"Musket Cartridge, 1",Ballistic,Medium Guns,Flintlock smoothbore long guns.,Indefinite,Innate
