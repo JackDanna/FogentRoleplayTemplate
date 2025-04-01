@@ -1340,7 +1340,7 @@ A Combat Roll Dice Pool is the result of the Governing Skill Dice Pool modified 
 - +/- Combat Roll's Dice Pool Mods
 - +/- Ammo's Dice Pool Mods if used
 
-### Example 1:
+**Example 1:**
 
 Javk Wick the rogue has a rapier he's dual-wielding with his dagger. This would be the "Medium Pierce Melee (+0) (Dual-wielded)" combat roll. He has level 2 in Medium Melee and level 1 in Small Melee. He has Level 1 RFX.
 
@@ -1351,7 +1351,7 @@ Javk Wick the rogue has a rapier he's dual-wielding with his dagger. This would 
 
 Based on the dice above, Javk uses his sword and dagger for thrusting rolls 8d6.
 
-### Example 2:
+**Example 2:**
 
 Javk Wick the rogue has a Light Crossbow and Light Bolt - Standards. He has a weapon skill of level 1 with the Crossbow Skill. He has level 1 in RFX.
 
