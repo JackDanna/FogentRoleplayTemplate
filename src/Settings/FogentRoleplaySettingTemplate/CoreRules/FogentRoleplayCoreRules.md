@@ -1459,16 +1459,6 @@ Since Injuries work on a narrative severity scale, so does the healing that can 
 - Any combination of lower Victory Level outcomes is possible as long as they sum up to be less than or equal to the Victory Level achieved. For instance, with a Level 2 victory, a character could perform both a Stagger and a Minor Injury against there opponent.
 - It is mandatory that that the player dealing the Victory Level outcome must describe in awesome detail how they are performing this action. Creativity is encouraged!
 
-### Level 2 victory
-
-#### Disarm
-
-The opponent loses their weapon. If an opponent is dual-wielding, they will only lose one of their weapons.
-
-##### Grapple Disarm
-
-Once already in a Grapple, as part of their declaration phase a character can declare they are attempting a Grapple Disarm to disarm their opponent. The character attempting the Grapple Disarm must be unarmed. They gain Advantage to Unarmed combats roll versus the armed grappled opponent. The armed opponent gains Disadvantage on their combat roll versus the character that is grappling them. The character attempting the Grapple Disarm may only take the Disarm Level 2 Victory (this means they cannot delegate their attack to inflict an injury or execute a trip regardless of how high the victory achieved.)
-
 ### Level 3 victory
 
 #### Trip
