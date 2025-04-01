@@ -1461,10 +1461,6 @@ Since Injuries work on a narrative severity scale, so does the healing that can 
 
 ### Level 1 victory
 
-#### Minor Injury
-
--1d to STR/RFX/INT governed Dice Pools. Will naturally heal over the next few days, or faster if treated actively.
-
 #### Stagger
 
 The opponent gains the Staggered condition until the end of the next round.
@@ -1489,10 +1485,6 @@ The character can either roll a Lift check or take the average amount of wins ro
 
 ### Level 2 victory
 
-#### Medium Injury
-
--2d to STR/RFX/INT governed Dice Pools. Must be treated relatively soon otherwise further penalties may apply such as infection.
-
 #### Disarm
 
 The opponent loses their weapon. If an opponent is dual-wielding, they will only lose one of their weapons.
@@ -1502,10 +1494,6 @@ The opponent loses their weapon. If an opponent is dual-wielding, they will only
 Once already in a Grapple, as part of their declaration phase a character can declare they are attempting a Grapple Disarm to disarm their opponent. The character attempting the Grapple Disarm must be unarmed. They gain Advantage to Unarmed combats roll versus the armed grappled opponent. The armed opponent gains Disadvantage on their combat roll versus the character that is grappling them. The character attempting the Grapple Disarm may only take the Disarm Level 2 Victory (this means they cannot delegate their attack to inflict an injury or execute a trip regardless of how high the victory achieved.)
 
 ### Level 3 victory
-
-#### Serious Injury
-
--3d to STR/RFX/INT governed Dice Pools.  The character will die in time if the wound is untreated.
 
 #### Trip
 
@@ -1517,10 +1505,6 @@ Instead of getting up, a character can remain prone and crawl. They use their Cl
 
 ### Level 4 Victory
 
-#### Fatal Injury
-
--4d to STR/RFX/INT governed Dice Pools. Gains the Incapacitated condition and will die very soon if untreated.
-
 #### Dismember
 
 Remove an arm or leg, which also gives a Serious Injury to the opponent. Not available to ranged combat rolls unless there is a narrative explanation of how a ranged attack could dismember (magic, explosive projectiles, etc...).
@@ -1528,12 +1512,6 @@ Remove an arm or leg, which also gives a Serious Injury to the opponent. Not ava
 #### Render Unconscious
 
 Opponent gains the Unconscious condition such as from head trauma, blood chokes, etc. Opponent receives a Medium Injury.
-
-### Level 5 victory and higher
-
-#### Death Blow
-
--5d to STR/RFX/INT governed Dice Pools. Instantly killed.
 
 ## Weakness and Resistance
 
