@@ -5,16 +5,16 @@ Staggered,"- Disadvantage on checks that require coordinated movement (i.e. Comb
 - Movement Speed is halved.",1 Round,?
 Blinded,"- Disadvantage on checks that majorly relies on sight (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics, etc...).
 - Automatically fails any check that requires sight.",1 Round,?
-Charmed,"- The charmer has Advantage on influencing the Charmed character.
+Charmed,"- Disadvantage on checks that involve resisting the charmer's influence.
 - Can't cause harm to the charmer.",1 Round,?
-Deafened,"- Automatically fails any check that requires hearing.
-- Disadvantage on checks that majorly relies on hearing.",1 Round,?
-Frightened,"- Disadvantage on all rolls while the source of the fear is within line of sight.
+Deafened,"- Disadvantage on checks that majorly relies on hearing.
+- Automatically fails any check that requires hearing.",1 Round,?
+Frightened,"- Disadvantage on all checks while the source of the fear is within line of sight.
 - Can't willingly move closer towards the source of fear.",1 Round,?
-Invisible,"- Impossible to see via traditional sight.
+Invisible,"- Disadvantage on Combat Rolls against this character if they majorly rely on sight.
 - Character is considered Heavily Obscured.
 - The character's location can be detected via hearing, touch, smell, other special senses, or magic senses.
-- Combat Rolls against this character have Disadvantage if they majorly rely on sight.",1 Round,?
+- Impossible to see via traditional sight.",1 Round,?
 Grappled,"- Can't move, unless through Grapple Move.
 - A character using a medium or larger weapon is considered unarmed against a grappler.
 - Medium weapons can be used in a Grapple against reach weapons.
@@ -146,15 +146,15 @@ Disabling: Will Overconfidence,"Extremely overconfident in Will, cannot invest i
 Disabling: Communication Overconfidence,"Extremely overconfident in Communication, cannot invest in.",Indefinite,Backstory
 Disabling: Incapable of Lying,"(Specific parameters required, see Cogent website for examples)",Indefinite,Backstory
 Disabling: Addiction,"Extreme addiction, suffers from withdrawals if not satisfied.",Indefinite,Backstory
-Disabling: Delusion,Belief of something to be real beyond the scope of simple faith. ,Indefinite,Backstory
+Disabling: Delusion,"Belief of something to be real beyond the scope of simple faith. ",Indefinite,Backstory
 Disabling: Imperceptive,Disadvantage to environmental Perception rolls.,Indefinite,Backstory
 Disabling: Blind,Unable to make sight based perception checks.,Indefinite,Backstory
 Disabling: Deaf,Unable to make hearing based perception checks.,Indefinite,Backstory
 Disabling: Anosmia,Unable to make smell based perception checks.,Indefinite,Backstory
 Disabling: Ageusia,Unable to make taste based perception checks.,Indefinite,Backstory
 Disabling: Anaphia,Unable to make touch based perception checks.,Indefinite,Backstory
-Disabling: Gullible, Disadvantage versus deceptive communication rolls.,Indefinite,Backstory
-Disabling: Impressionable, Disadvantage versus persuasive communication rolls.,Indefinite,Backstory
+Disabling: Gullible," Disadvantage versus deceptive communication rolls.",Indefinite,Backstory
+Disabling: Impressionable," Disadvantage versus persuasive communication rolls.",Indefinite,Backstory
 Disabling: People Pleaser,"Always try to make other people happy, even at their own expense.",Indefinite,Backstory
 Disabling: SKILL Overconfidence,"Extremely overconfident in SKILL, cannot invest in.",Indefinite,Backstory
 Disabling: Illiterate,Can't read or write.,Indefinite,Backstory
@@ -181,3 +181,4 @@ Medium Resistance: (Damage Type),-2 to victory levels received from damage type.
 Serious Resistance: (Damage Type),-3 to victory levels received from damage type.,Indefinite,Innate
 Fatal Resistance: (Damage Type),-4 to victory levels received from damage type.,Indefinite,Innate
 Complete Resistance: (Damage Type),Negate victory levels received from damage type.,Indefinite,Innate
+,,,
