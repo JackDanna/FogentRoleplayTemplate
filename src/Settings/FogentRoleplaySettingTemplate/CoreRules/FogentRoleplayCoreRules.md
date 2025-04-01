@@ -1459,16 +1459,6 @@ Since Injuries work on a narrative severity scale, so does the healing that can 
 - Any combination of lower Victory Level outcomes is possible as long as they sum up to be less than or equal to the Victory Level achieved. For instance, with a Level 2 victory, a character could perform both a Stagger and a Minor Injury against there opponent.
 - It is mandatory that that the player dealing the Victory Level outcome must describe in awesome detail how they are performing this action. Creativity is encouraged!
 
-### Level 3 victory
-
-#### Trip
-
-The opponent gains the Prone condition.
-
-A character can declare they are attempting to get up on a round they start prone. Getting up requires the downed opponent to use their entire movement speed. They can regain their footing and remove the Prone condition at the end of the round they were getting up.
-
-Instead of getting up, a character can remain prone and crawl. They use their Climb Movement Speed to crawl instead of their movement speed.
-
 ### Level 4 Victory
 
 #### Dismember
