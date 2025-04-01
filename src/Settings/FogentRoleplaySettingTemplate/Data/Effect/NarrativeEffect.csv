@@ -15,8 +15,8 @@ Victory Level 3: Inflict Serious Injury,Inflict a Serious Injury causing -3d to 
 Victory Level 3: Trip,"The opponent gains the Prone condition. A character can declare they are attempting to get up on a round they start prone. Getting up requires the downed opponent to use their entire movement speed. They can regain their footing and remove the Prone condition at the end of the round they were getting up. Instead of getting up, a character can remain prone and crawl. They use their Climb Movement Speed to crawl instead of their movement speed.",1 Use Per Round,3 Victory Level wins
 ,,,
 Victory Level 4: Inflict Fatal Injury,Inflict a Fatal Injury causing -4d to STR/RFX/INT governed Dice Pools. Gains the Incapacitated condition and will die very soon if untreated.,1 Use Per Round,4 Victory Level wins
-Victory Level 4: Dismember,,1 Use Per Round,4 Victory Level wins
-Victory Level 4: Render Unconscious,,1 Use Per Round,4 Victory Level wins
+Victory Level 4: Dismember,"Remove an arm or leg, which also gives a Serious Injury to the opponent. Not available to ranged combat rolls unless there is a narrative explanation of how a ranged attack could dismember (magic, explosive projectiles, etc...).",1 Use Per Round,4 Victory Level wins
+Victory Level 4: Render Unconscious,"Opponent gains the Unconscious condition such as from head trauma, blood chokes, etc. Opponent receives a Medium Injury.",1 Use Per Round,4 Victory Level wins
 ,,,
 Victory Level 5: Inflict Death Blow,Inflict a Death Blow Injury causing -5d to STR/RFX/INT governed Dice Pools. Instantly killed.,1 Use Per Round,5 Victory Level wins
 ,,,
