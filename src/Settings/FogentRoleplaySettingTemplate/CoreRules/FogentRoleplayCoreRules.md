@@ -1457,7 +1457,7 @@ Since Injuries work on a narrative severity scale, so does the healing that can 
 - Victory Levels from Physical or Bodily damage can be reduced equal to the amount of STR a character has per combat encounter. If STR is negative, the level of Victory increases by 1.
 - Victory levels from Mental or Soul damage can be reduced equal to the amount of INT a character has per combat encounter. If INT is negative, the level of Victory increases by 1.
 - Any combination of lower Victory Level outcomes is possible as long as they sum up to be less than or equal to the Victory Level achieved. For instance, with a Level 2 victory, a character could perform both a Stagger and a Minor Injury against there opponent.
-- It is mandatory that for a character to deal any Victory Level outcome, whomever control's said character must describe in awesome detail how they are preforming said Victory Level outcome. Creativity is encouraged!
+- It is mandatory that that the player dealing the Victory Level outcome must describe in awesome detail how they are performing this action. Creativity is encouraged!
 
 ### Level 1 victory
 

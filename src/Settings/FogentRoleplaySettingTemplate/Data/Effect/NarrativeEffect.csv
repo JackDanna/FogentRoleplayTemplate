@@ -1,6 +1,25 @@
 name,desc,duration,source
 Level,1,Indefinite,Player Character
 ,,,
+Victory Level 1: Inflict Minor Injury,"Inflict a Minor Injury causing -1d to STR/RFX/INT governed Dice Pools. Will naturally heal over the next few days, or faster if treated actively.",1 Use Per Round,Combat Roll
+Victory Level 1: Stagger,,,
+Victory Level 1: Shove,,,
+Victory Level 1: Grapple,,,
+Victory Level 1: Drag,,,
+,,,
+Victory Level 2: Inflict Medium Injury,Inflict a Medium Injury causing -2d to STR/RFX/INT governed Dice Pools. Must be treated relatively soon otherwise further penalties may apply such as infection.,1 Use Per Round,Combat Roll
+Victory Level 2: Disarm,,,
+Victory Level 2: Grapple Disarm,,,
+,,,
+Victory Level 3: Inflict Serious Injury,Inflict a Serious Injury causing -3d to STR/RFX/INT governed Dice Pools.  The character will die in time if the wound is untreated.,1 Use Per Round,Combat Roll
+Victory Level 3: Trip,,,
+,,,
+Victory Level 4: Inflict Fatal Injury,Inflict a Fatal Injury causing -4d to STR/RFX/INT governed Dice Pools. Gains the Incapacitated condition and will die very soon if untreated.,1 Use Per Round,Combat Roll
+Victory Level 4: Dismember,,,
+Victory Level 4: Render Unconscious,,,
+,,,
+Victory Level 5: Inflict Death Blow,Inflict a Death Blow Injury causing -5d to STR/RFX/INT governed Dice Pools. Instantly killed.,1 Use Per Round,Combat Roll
+,,,
 Condition: Staggered,"Disadvantage on checks that require coordinated movement (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics, etc...). Movement Speed is halved.",1 Round,?
 Condition: Blinded,"Disadvantage on checks that majorly relies on sight (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics, etc...). Automatically fails any check that requires sight.",1 Round,?
 Condition: Charmed,Disadvantage on checks that involve resisting the charmer's influence. Can't cause harm to the charmer.,1 Round,?
