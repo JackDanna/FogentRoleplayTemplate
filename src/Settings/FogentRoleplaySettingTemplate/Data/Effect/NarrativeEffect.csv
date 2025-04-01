@@ -1,49 +1,20 @@
 name,desc,duration,source
 Level,1,Indefinite,Player Character
 ,,,
-Staggered,"- Disadvantage on checks that require coordinated movement (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics, etc...).
-- Movement Speed is halved.",1 Round,?
-Blinded,"- Disadvantage on checks that majorly relies on sight (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics, etc...).
-- Automatically fails any check that requires sight.",1 Round,?
-Charmed,"- Disadvantage on checks that involve resisting the charmer's influence.
-- Can't cause harm to the charmer.",1 Round,?
-Deafened,"- Disadvantage on checks that majorly relies on hearing.
-- Automatically fails any check that requires hearing.",1 Round,?
-Frightened,"- Disadvantage on all checks while the source of the fear is within line of sight.
-- Can't willingly move closer towards the source of fear.",1 Round,?
-Invisible,"- Disadvantage on Combat Rolls against this character if they majorly rely on sight.
-- Impossible to see via traditional sight and is considered Heavily Obscured.
-- Can still be detected via hearing, touch, smell, other special senses, or magic senses.",1 Round,?
-Grappled,"- Disadvantage on checks that require coordinated movement (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics, etc...), except against grappler.
-- Can't move, unless through Grapple Move.
-- Close Melee Combat Rolls can be used in a Grapple.
-- Medium Melee Combat Rolls can be used against Reach Melee Combat Rolls in a Grapple.
-- All other Combat Rolls are considered an Unarmed Combat Roll in a Grapple.
-- Defense from armor is not applicable if narratively bypassable while in a Grapple.
-- Ends if the grappler is Incapacitated.",Indefinite,?
-Prone,"- Disadvantage on rolls that generally assumes a character is standing (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics, etc...).
-- Disadvantage on ranged Combat Rolls made against a Prone character if the Narrator believes they would be smaller target. For instance, shooting a prone opponent 10 feet away wouldn't have Disadvantage. However, shooting a prone sniper at range who is making themselves a small target would incur Disadvantage.
-- Only able to crawl using their Climb Movement Speed.",Indefinite,?
-Restrained,"- Disadvantage on any checks that require coordinated movement (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics,  etc...).
-- Can't move.",Indefinite,?
-Incapacitated,"- Automatically fail any check that requires moving their body (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics,  etc...).
-- Can't move.",Indefinite,?
-Stunned,"- Incapacitated (see the Narrative Effect).
-- Can't coherently speak.",1 Round,?
-Paralyzed,"- Incapacitated (see the Narrative Effect).
-- Can't speak.
-- Aware of surroundings.
-- The character becomes rigid.",Indefinite,?
-
-Unconscious,"- Incapacitated (see the Narrative Effect).
-- Can't speak.
-- Unaware of surroundings.
-- The character drops whatever they are holding and falls prone (see the Narrative Effect).",Indefinite,?
-Petrified,"- Incapacitated (see the Narrative Effect).
-- Character is transformed, along with any non-magical object it is wearing or carrying, into a solid inanimate substance (usually stone).
-- Its weight increases by a factor of ten, and it ceases aging.
-- Can't speak.
-- Serious Resistance to all damage. Complete Resistance to poison, necrosis, and disease, although a poison, necrosis, or disease already in its system is suspended, not neutralized.",Indefinite,?
+Condition: Staggered,"Disadvantage on checks that require coordinated movement (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics, etc...). Movement Speed is halved.",1 Round,?
+Condition: Blinded,"Disadvantage on checks that majorly relies on sight (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics, etc...). Automatically fails any check that requires sight.",1 Round,?
+Condition: Charmed,Disadvantage on checks that involve resisting the charmer's influence. Can't cause harm to the charmer.,1 Round,?
+Condition: Deafened,Disadvantage on checks that majorly relies on hearing. Automatically fails any check that requires hearing.,1 Round,?
+Condition: Frightened,Disadvantage on all checks while the source of the fear is within line of sight. Can't willingly move closer towards the source of fear.,1 Round,?
+Condition: Invisible,"Disadvantage on Combat Rolls against this character if they majorly rely on sight. Impossible to see via traditional sight and is considered Heavily Obscured. Can still be detected via hearing, touch, smell, other special senses, or magic senses.",1 Round,?
+Condition: Grappled,"Disadvantage on checks that require coordinated movement (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics, etc...), except against grappler. Can't move, unless through Grapple Move. Close Melee Combat Rolls can be used in a Grapple. Medium Melee Combat Rolls can be used against Reach Melee Combat Rolls in a Grapple. All other Combat Rolls are considered an Unarmed Combat Roll in a Grapple. Defense from armor is not applicable if narratively bypassable while in a Grapple. Ends if the grappler is Incapacitated.",Indefinite,?
+Condition: Prone,"Disadvantage on rolls that generally assumes a character is standing (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics, etc...). Disadvantage on ranged Combat Rolls made against a Prone character if the Narrator believes they would be smaller target. For instance, shooting a prone opponent 10 feet away wouldn't have Disadvantage. However, shooting a prone sniper at range who is making themselves a small target would incur Disadvantage. Only able to crawl using their Climb Movement Speed.",Indefinite,?
+Condition: Restrained,"Disadvantage on any checks that require coordinated movement (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics,  etc...). Can't move.",Indefinite,?
+Condition: Incapacitated,"Automatically fail any check that requires moving their body (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics,  etc...). Can't move.",Indefinite,?
+Condition: Stunned,Incapacitated (see the Narrative Effect). Can't coherently speak.,1 Round,?
+Condition: Paralyzed,Incapacitated (see the Narrative Effect). Can't speak. Aware of surroundings. The character becomes rigid.,Indefinite,?
+Condition: Unconscious,Incapacitated (see the Narrative Effect). Can't speak. Unaware of surroundings. The character drops whatever they are holding and falls prone (see the Narrative Effect).,Indefinite,?
+Condition: Petrified,"Incapacitated (see the Narrative Effect). Character is transformed, along with any non-magical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging. Can't speak. Serious Resistance to all damage. Complete Resistance to poison, necrosis, and disease, although a poison, necrosis, or disease already in its system is suspended, not neutralized.",Indefinite,?
 ,,,
 Space Vacuum Life Support,Enable the user to survive in the vacuum of space until onboard oxygen depletes.,1 hour,Innate
 ,,,
