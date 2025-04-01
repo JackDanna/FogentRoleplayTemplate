@@ -1425,34 +1425,36 @@ The only victory level outcome a Evasion Roll can achieve is exiting a grapple. 
 
 ### Staggered
 
-- Disadvantage on any checks that require coordinated movement (i.e. Combat Rolls, Dexterity, Athletics, etc... )
+- Disadvantage on any checks that require coordinated movement (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics, etc...).
 - Movement speed is halved.
 
 ### Blinded
 
 - Automatically fails any check that requires sight.
-- Disadvantage on checks that partially rely on sight (i.e. Combat Rolls)
+- Disadvantage on checks that majorly relies on sight (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics, etc...).
 
 ### Charmed
 
 - Can't cause harm to the charmer.
-- The charmer has Advantage on Communication Checks against the Charmed character.
+- The charmer has Advantage on influencing the Charmed character.
 
 ### Deafened
 
 - Automatically fails any check that requires hearing.
+- Disadvantage on checks that majorly relies on hearing.
 
 ### Frightened
 
-- Disadvantage while the source of the fear is within line of sight.
+- Disadvantage on all rolls while the source of the fear is within line of sight.
 - Can't willingly move closer towards the source of fear.
 
 ### Grappled
 
 - Can't move, unless through Grapple Move.
-- A character using a medium or larger weapon is considered unarmed against a grappler. Medium weapons can be used in a Grapple against reach weapons.
-- Injury reduction from armor is not applicable while in a Grapple.
-- Disadvantage on any checks that require coordinated movement (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics, etc... ), except against grappler.
+- A character using a medium or larger weapon is considered unarmed against a grappler.
+- Medium weapons can be used in a Grapple against reach weapons.
+- Defense from armor is not applicable while in a Grapple if bypassable.
+- Disadvantage on any checks that require coordinated movement (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics, etc...), except against grappler.
 - Ends if the grappler is Incapacitated.
 
 ### Incapacitated
@@ -1461,40 +1463,41 @@ The only victory level outcome a Evasion Roll can achieve is exiting a grapple. 
 
 ### Invisible
 
-- Impossible to see via traditional sight. Character is considered Heavily Obscured. The character's location can be detected via hearing, touch, smell, other special senses, or magic senses.
-- Combat rolls have Disadvantage against the character that relies on sight.
+- Impossible to see via traditional sight.
+- Character is considered Heavily Obscured.
+- The character's location can be detected via hearing, touch, smell, other special senses, or magic senses.
+- Combat Rolls against this character have Disadvantage if they majorly rely on sight.
 
 ### Paralyzed
 
 - Incapacitated (see the Condition).
-- Automatically fail any check that requires moving their body (i.e. Dexterity, Athletics,  etc... )
+- Automatically fail any check that requires moving their body (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics, etc...).
 
 ### Petrified
 
-* A petrified creature is transformed, along with any non-magical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
+* Character is transformed, along with any non-magical object it is wearing or carrying, into a solid inanimate substance (usually stone).
+* Its weight increases by a factor of ten, and it ceases aging.
 * Incapacitated (see the condition).
-* Can't speak.
-* Automatically fail any check that requires moving their body (i.e. Dexterity, Athletics,  etc... )
-* Serious Resistance to all damage.
-* Complete Resistance to poison, necrotic, and disease, although a poison, rot, or disease already in its system is suspended, not neutralized.
+* Can't speak. Automatically fail any check that requires moving their body (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics, etc...).
+* Serious Resistance to all damage. Complete Resistance to poison, necrosis, and disease, although a poison, necrosis, or disease already in its system is suspended, not neutralized.
 
 ### Prone
 
 - Only able to crawl using their Climb Movement Speed.
-- Disadvantage on any check that generally assumes a character is standing (i.e. Combat Rolls, Dexterity Checks, etc... )
-- Melee Combat Rolls (Melee or Reach Ranges) made by a standing character against a prone character have the [High Ground](./CombatModifiersAndCombatAssists.md#high-ground-advantage) combat modifier (Advantage).
-- Ranged attacks against a prone opponent gain Disadvantage if the Narrator believes they would be a more difficult target due to being a smaller target. For instance, shooting a prone opponent 10 feet away wouldn't have Disadvantage. However, shooting a prone sniper at range who is making themselves a small target would incur Disadvantage.
+- Disadvantage on any roll that generally assumes a character is standing (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics, etc...).
+- Melee Combat Rolls (Melee or Reach Ranges) made by a standing character against a Prone character have the High Ground combat modifier.
+- Ranged Combat Rolls against a Prone opponent gain Disadvantage if the Narrator believes they would be a more difficult target due to being a smaller target. For instance, shooting a prone opponent 10 feet away wouldn't have Disadvantage. However, shooting a prone sniper at range who is making themselves a small target would incur Disadvantage.
 
 ### Restrained
 
 - Can't move.
-- Disadvantage on any checks that require coordinated movement (i.e. Combat Rolls, Dexterity, Athletics,  etc... )
+- Disadvantage on any checks that require coordinated movement (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics,  etc...).
 
 ### Stunned
 
 * Incapacitated (see the condition).
 * Can't coherently speak.
-* Automatically fail any check that requires coordinated movement (i.e. Combat Rolls, Dexterity, Athletics,  etc... )
+* Automatically fail any check that requires coordinated movement (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics,  etc...).
 
 ### Unconscious
 
@@ -1502,7 +1505,7 @@ The only victory level outcome a Evasion Roll can achieve is exiting a grapple. 
 - Can't speak.
 - Unaware of surroundings.
 - The character drops whatever they are holding and falls prone (see the condition).
-- Automatically fail any check that requires coordinated movement (i.e. Dexterity, Athletics,  etc... )
+- Automatically fail any check that requires coordinated movement (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics,  etc...).
 
 ## Injury and Healing
 
