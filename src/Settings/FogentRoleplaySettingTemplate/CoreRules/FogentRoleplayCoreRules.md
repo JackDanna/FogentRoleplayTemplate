@@ -1419,7 +1419,7 @@ For instance, if during a round of combat on a grassy field, a Player Character 
 
 Any levels over the defender's Evasion Roll wins count as victories for the attacker.
 
-The only victory level outcome a Dodge can achieve is exiting a grapple. A Combat Roll and Evasion Rolls can both be made in a round.
+The only victory level outcome a Evasion Roll can achieve is exiting a grapple. A Combat Roll and Evasion Rolls can both be made in a round.
 
 ## Conditions
 
@@ -1452,7 +1452,7 @@ The only victory level outcome a Dodge can achieve is exiting a grapple. A Comba
 - Can't move, unless through Grapple Move.
 - A character using a medium or larger weapon is considered unarmed against a grappler. Medium weapons can be used in a Grapple against reach weapons.
 - Injury reduction from armor is not applicable while in a Grapple.
-- Disadvantage on any checks that require coordinated movement (i.e. Combat Rolls, Dexterity, Athletics, etc... ), except against grappler.
+- Disadvantage on any checks that require coordinated movement (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics, etc... ), except against grappler.
 - Ends if the grappler is Incapacitated.
 
 ### Incapacitated
@@ -1562,7 +1562,7 @@ The character can either roll a Lift check or take the average amount of Wins ro
 
 #### Grapple
 
-Enter/exit a Grapple. If entering into a Grapple, apply the Grappled condition to both you and your opponent. Exiting a Grapple can also be accomplished with a Dodge roll.
+Enter/exit a Grapple. If entering into a Grapple, apply the Grappled condition to both you and your opponent.
 
 #### Grapple Move
 
