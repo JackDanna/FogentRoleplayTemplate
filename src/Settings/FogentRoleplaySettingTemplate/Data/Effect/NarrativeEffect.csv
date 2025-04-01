@@ -15,10 +15,10 @@ Invisible,"- Disadvantage on Combat Rolls against this character if they majorly
 - Impossible to see via traditional sight and is considered Heavily Obscured.
 - Can still be detected via hearing, touch, smell, other special senses, or magic senses.",1 Round,?
 Grappled,"- Disadvantage on checks that require coordinated movement (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics, etc...), except against grappler.
-- A character using a medium or larger weapon is considered unarmed in a Grapple.
-- Medium melee weapons can be used against reach melee weapons in a Grapple.
-- Defense from armor is not applicable if narratively bypassable while in a Grapple.
 - Can't move, unless through Grapple Move.
+- All Combat Rolls, aside from Close Melee Combat Rolls, are considered as a Unarmed Combat Rolls in a Grapple.
+- Medium Melee Combat Rolls can be used against Reach Melee Combat Rolls in a Grapple.
+- Defense from armor is not applicable if narratively bypassable while in a Grapple.
 - Ends if the grappler is Incapacitated.",Indefinite,?
 Prone,"- Only able to crawl using their Climb Movement Speed.
 - Disadvantage on any roll that generally assumes a character is standing (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics, etc...).
