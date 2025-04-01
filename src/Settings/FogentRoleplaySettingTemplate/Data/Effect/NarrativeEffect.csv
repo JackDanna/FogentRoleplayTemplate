@@ -22,8 +22,8 @@ Grappled,"- Disadvantage on checks that require coordinated movement (i.e. Comba
 - Defense from armor is not applicable if narratively bypassable while in a Grapple.
 - Ends if the grappler is Incapacitated.",Indefinite,?
 Prone,"- Disadvantage on rolls that generally assumes a character is standing (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics, etc...).
-- Only able to crawl using their Climb Movement Speed.
-- Ranged Combat Rolls against a Prone opponent gain Disadvantage if the Narrator believes they would be a more difficult target due to being a smaller target. For instance, shooting a prone opponent 10 feet away wouldn't have Disadvantage. However, shooting a prone sniper at range who is making themselves a small target would incur Disadvantage.",Indefinite,?
+- Disadvantage on ranged Combat Rolls made against a Prone character if the Narrator believes they would be smaller target. For instance, shooting a prone opponent 10 feet away wouldn't have Disadvantage. However, shooting a prone sniper at range who is making themselves a small target would incur Disadvantage.
+- Only able to crawl using their Climb Movement Speed.",Indefinite,?
 Restrained,"- Can't move.
 - Disadvantage on any checks that require coordinated movement (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics,  etc...).",Indefinite,?
 Incapacitated,"- Can't move.
