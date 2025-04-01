@@ -24,10 +24,10 @@ Grappled,"- Disadvantage on checks that require coordinated movement (i.e. Comba
 Prone,"- Disadvantage on rolls that generally assumes a character is standing (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics, etc...).
 - Disadvantage on ranged Combat Rolls made against a Prone character if the Narrator believes they would be smaller target. For instance, shooting a prone opponent 10 feet away wouldn't have Disadvantage. However, shooting a prone sniper at range who is making themselves a small target would incur Disadvantage.
 - Only able to crawl using their Climb Movement Speed.",Indefinite,?
-Restrained,"- Can't move.
-- Disadvantage on any checks that require coordinated movement (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics,  etc...).",Indefinite,?
-Incapacitated,"- Can't move.
-- Automatically fail any check that requires moving their body (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics,  etc...).",Indefinite,?
+Restrained,"- Disadvantage on any checks that require coordinated movement (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics,  etc...).
+- Can't move.",Indefinite,?
+Incapacitated,"- Automatically fail any check that requires moving their body (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics,  etc...).
+- Can't move.",Indefinite,?
 Stunned,"- Incapacitated (see the Narrative Effect).
 - Can't coherently speak.",1 Round,?
 Paralyzed,"- Incapacitated (see the Narrative Effect).
