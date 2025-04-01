@@ -16,13 +16,13 @@ Invisible,"- Disadvantage on Combat Rolls against this character if they majorly
 - Can still be detected via hearing, touch, smell, other special senses, or magic senses.",1 Round,?
 Grappled,"- Disadvantage on checks that require coordinated movement (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics, etc...), except against grappler.
 - Can't move, unless through Grapple Move.
-- All Combat Rolls, aside from Close Melee Combat Rolls, are considered as a Unarmed Combat Rolls in a Grapple.
+- Close Melee Combat Rolls can be used in a Grapple.
 - Medium Melee Combat Rolls can be used against Reach Melee Combat Rolls in a Grapple.
+- All other Combat Rolls are considered an Unarmed Combat Roll in a Grapple.
 - Defense from armor is not applicable if narratively bypassable while in a Grapple.
 - Ends if the grappler is Incapacitated.",Indefinite,?
-Prone,"- Only able to crawl using their Climb Movement Speed.
-- Disadvantage on any roll that generally assumes a character is standing (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics, etc...).
-- Melee Combat Rolls (Melee or Reach Ranges) made by a standing character against a Prone character have the High Ground combat modifier.
+Prone,"- Disadvantage on rolls that generally assumes a character is standing (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics, etc...).
+- Only able to crawl using their Climb Movement Speed.
 - Ranged Combat Rolls against a Prone opponent gain Disadvantage if the Narrator believes they would be a more difficult target due to being a smaller target. For instance, shooting a prone opponent 10 feet away wouldn't have Disadvantage. However, shooting a prone sniper at range who is making themselves a small target would incur Disadvantage.",Indefinite,?
 Restrained,"- Can't move.
 - Disadvantage on any checks that require coordinated movement (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics,  etc...).",Indefinite,?
