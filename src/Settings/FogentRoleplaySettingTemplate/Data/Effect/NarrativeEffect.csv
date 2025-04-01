@@ -12,9 +12,8 @@ Deafened,"- Disadvantage on checks that majorly relies on hearing.
 Frightened,"- Disadvantage on all checks while the source of the fear is within line of sight.
 - Can't willingly move closer towards the source of fear.",1 Round,?
 Invisible,"- Disadvantage on Combat Rolls against this character if they majorly rely on sight.
-- Character is considered Heavily Obscured.
-- The character's location can be detected via hearing, touch, smell, other special senses, or magic senses.
-- Impossible to see via traditional sight.",1 Round,?
+- Impossible to see via traditional sight and is considered Heavily Obscured.
+- Can still be detected via hearing, touch, smell, other special senses, or magic senses.",1 Round,?
 Grappled,"- Can't move, unless through Grapple Move.
 - A character using a medium or larger weapon is considered unarmed against a grappler.
 - Medium weapons can be used in a Grapple against reach weapons.
