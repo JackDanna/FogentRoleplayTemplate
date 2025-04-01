@@ -32,7 +32,7 @@ The rules are the foundation and narrative engine for your game. They are listed
   - [Combat Roll](#combat-Roll)
   - [Weapon Combat Skills](#weapon-combat-skills)
   - [Combat Roll](#combat-roll)
-  - [Dodge Roll](#dodge-roll)
+  - [Evasion Roll](#evasion-roll)
   - [Combat Rounds](#combat-rounds)
   - [Conditions](#conditions)
   - [Injury and Healing](#injury-and-healing)
@@ -678,7 +678,7 @@ Most Armor has a Defense. For item creation purposes, determining what portions 
 
 A character can wear two pieces of armor on the same body part, such as wearing a gambeson shirt under chain mail shirt or a breastplate, which was most certainly done in history.
 
-Shields generally takes up one of the character's hands when in use. Characters not actively using their shield as part of their combat/dodge roll do not benefit from the additional defense. Characters that are Off Guard or being attacked while unaware also do not benefit from the shield's defense.
+Shields generally takes up one of the character's hands when in use. Characters not actively using their shield as part of their combat/evasion roll do not benefit from the additional defense. Characters that are Off Guard or being attacked while unaware also do not benefit from the shield's defense.
 
 ### What to do about attacks with Multiple damage types
 
@@ -826,7 +826,7 @@ Cases will arise when an action is performed with a combination of Effective/Ine
 
 Uses Per Round represent the number of times some skill governed action can be preformed in a round. Taking firearms as an example, the faster the fire rate and easier it is to reload, the better it's Uses Per Round should be. A flint lock pistol should have a far slower Uses Per Round as compared to a modern pistol.
 
-If a character completely depletes their Uses Per Round for a combat round they can no longer use their combat roll for that combat round and are instead forced to dodge if they are being attacked.
+If a character completely depletes their Uses Per Round for a combat round they can no longer use their combat roll for that combat round and are instead forced to use an Evasion Roll if they are being attacked.
 
 Uses Per Round is calculated using the following equation:
 
@@ -856,7 +856,7 @@ For example, if a character's' governing skill dice pool had 7 dice and their co
 
 On a round where an action IS prepared (example: your Heavy Crossbow is loaded), you can perform the action 1 time.
 
-On a round where an action is NOT prepared (example: your Heavy Crossbow is unloaded), if the Uses Per Round calculation result is greater than or equal to 0.5 and less than 1, 1 round must be spend preparing in order to use this action again. If the result is greater than 0 and less 0.5, your character must spend 2 rounds preparing. While preparing the "Off Guard" Combat Modifier is gained. If engaged during this time characters can still attempt to dodge while preparing.
+On a round where an action is NOT prepared (example: your Heavy Crossbow is unloaded), if the Uses Per Round calculation result is greater than or equal to 0.5 and less than 1, 1 round must be spend preparing in order to use this action again. If the result is greater than 0 and less 0.5, your character must spend 2 rounds preparing. While preparing the "Off Guard" Combat Modifier is gained. If engaged during this time characters can still attempt to perform an Evasion Roll.
 
 #### Uses Per Round if character is using multiple loaded weapons
 
@@ -1363,10 +1363,6 @@ Javk Wick the rogue has a Light Crossbow and Light Bolt - Standards. He has a we
 
 Based on the dice above, Javk using his Light Crossbow has a 7d6.
 
-## Dodge Roll
-
-When a combat roll is made against a character who is not capable of making an opposing combat roll, the defender can make an Dexterity Roll vs the attacker's Combat Roll. This is an assumed reflexive action, IE a character could have, as part of the Declaration Phase, declared"... and I'll try to dodge anything being shot at me" every round. Any levels over the defender's Dodge Roll wins count as victories for the attacker. The only victory level outcome a Dodge can achieve is exiting a grapple. A Combat Roll and Dodge Roll can both be made in a round.
-
 ## Combat Rounds
 
 Combat is run in a Round-by-round format. Each character can perform 1 combat roll within a round (though additional things like climbing as part of your movement or reactively dodging arrows are expected) with liberties regarding the narrative flow of the game. For instance, it doesn't take an action to shout out something to another character while fighting a monster, though it would take a round to explain something complicated.
@@ -1407,6 +1403,24 @@ Whenever losing dice of the same kind, always remove dice from left to right. Th
 
 If your character gains disadvantage (often the result of a stagger or being knocked prone) or advantage (you engage a prone opponent as your second target with a melee weapon) after you've already rolled a Combat Roll dice pool that round, you will retroactively apply said disadvantage/advantage to your those dice pools. This could turn some dice that were wins into fails and vice versa.
 
+## Evasion Roll
+
+When a Combat Roll is made against a character who is not capable of making an opposing combat roll (i.e. they are using a melee combat roll but are being shot at from far away), the defender can make a reflexive Evasion Roll vs the attacker's Combat Roll.
+
+An Evasion Roll will consist of a Skill Roll which represents reflexive dodging, which is almost always "Dexterity". Evasion Roll's can be assisted, often by "Athletics", as faster top speeds can aid in being harder to hit.
+
+As part of the Declaration Phase, if the defending character declared they were going to use an Evasion Roll against specific attacks, than with the Narrators permission, they can choose to Assist with a reasonable Skill.
+
+For instance, if during a round of combat while sieging a castle wall, a Player Character armed with only his greatsword needs to cross between two points of cover. The Player Character knows he is lower in turn order than the archers on the wall, but assumes they are going to fire at him as he crosses between cover. The Player asks if it would be reasonable if he could use the "Athletics" Skill to Assist his Evasion Roll against the assumed archer's Combat Rolls, since the faster his dash is, the harder it will be to land a shot. The Narrator agrees with the logic and allows it.
+
+However, as part of the Declaration Phase, if the defending character DID NOT declare they were going to use an Evasion Roll against specific attacks, than it is up to the Narrator to choose if they should allow an Assist or not.
+
+For instance, if during a round of combat on a grassy field, a Player Character armed with only his greatsword is trying to get within swinging range to an enemy archer. The Player Character knows he is lower in turn order than the archer, and declares he is going to move over to the archer and attack. Since the archer is higher in turn order, declares he will simply move backwards while firing at the Player Character. The archer looses his arrow before the Player Character gets within greatsword range. The Player Character ask's if he can Assist his Evasion Roll with "Athletics", but since the Player Character's declaration had said nothing of doing this with speed, the Narrator doesn't allow the Assist. The Player Character will just have to make a normal Evasion Roll.
+
+Any levels over the defender's Evasion Roll wins count as victories for the attacker.
+
+The only victory level outcome a Evasion Roll can achieve is exiting a grapple. A Combat Roll and Evasion Rolls can both be made in a round.
+
 ## Conditions
 
 ### Staggered
@@ -1438,7 +1452,7 @@ If your character gains disadvantage (often the result of a stagger or being kno
 - Can't move, unless through Grapple Move.
 - A character using a medium or larger weapon is considered unarmed against a grappler. Medium weapons can be used in a Grapple against reach weapons.
 - Injury reduction from armor is not applicable while in a Grapple.
-- Disadvantage on any checks that require coordinated movement (i.e. Combat Rolls, Dexterity, Athletics, etc... ), except against grappler.
+- Disadvantage on any checks that require coordinated movement (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics, etc... ), except against grappler.
 - Ends if the grappler is Incapacitated.
 
 ### Incapacitated
@@ -1548,7 +1562,7 @@ The character can either roll a Lift check or take the average amount of Wins ro
 
 #### Grapple
 
-Enter/exit a Grapple. If entering into a Grapple, apply the Grappled condition to both you and your opponent. Exiting a Grapple can also be accomplished with a Dodge roll.
+Enter/exit a Grapple. If entering into a Grapple, apply the Grappled condition to both you and your opponent.
 
 #### Grapple Move
 
@@ -1637,7 +1651,7 @@ Combat Modifiers represent different circumstances and actions that can occur wi
 
 A character purely focuses on defending themselves.
 
-No victory level outcomes can be achieved for the round by the defender. Effects both to Combat Rolls and Dodge Rolls if declared. Is not applicable if Character can't solely focus on defending themselves, such as when they have Disadvantage to their Combat Rolls or Dodge Rolls. Examples include being Staggered, being attacked from outside a Grapple, getting up from being Prone, being Off Guard, Dashing, etc...
+No victory level outcomes can be achieved for the round by the defender. Effects both to Combat Rolls and Evasion Rolls if declared. Is not applicable if Character can't solely focus on defending themselves, such as when they have Disadvantage to their Combat Rolls or Evasion Rolls. Examples include being Staggered, being attacked from outside a Grapple, getting up from being Prone, being Off Guard, Dashing, etc...
 
 ### Dash (2x Movement Speed)
 
@@ -1647,9 +1661,9 @@ Instead of engaging in a combat roll, a player can choose to focus purely on the
 
 When a character is making a ranged attack, they gain Disadvantage on their ranged combat roll if they are within range of an opponent who is targeting them with a melee combat roll during that round.
 
-### Stationary Shooting (Advantage) (Disadvantage to Dodge Rolls)
+### Stationary Shooting (Advantage) (Disadvantage to Evasion Rolls)
 
-Remain stationary for an entire round to gain a more stable base for ranged attacks. Advantage on all of ranged attacks for that round, except against opponents engaging the character with a Melee or Reach Range combat roll. Due to being a stationary target, Disadvantage on Dodge Roll.
+Remain stationary for an entire round to gain a more stable base for ranged attacks. Advantage on all of ranged attacks for that round, except against opponents engaging the character with a Melee or Reach Range combat roll. Due to being a stationary target, Disadvantage on Evasion Roll.
 
 ### High ground (Advantage)
 
@@ -1657,7 +1671,7 @@ Bonus received through achieving a height advantage against an opponent, IE stan
 
 ### Off Guard (Disadvantage)
 
-Penalty to combat rolls and dodge rolls received when a character is actively engaged in something else, IE picking a lock, hacking a terminal, being distracted, etc.
+Penalty to Combat Rolls and Evasion Rolls received when a character is actively engaged in something else, IE picking a lock, hacking a terminal, being distracted, etc.
 
 ### Sneak Attack (CL in lieu of defense roll)
 
@@ -1691,13 +1705,13 @@ Usually achieved with the Perception Core Skill.
 
 While making a ranged attack, focus on a single opponent and target a weak point. Your Uses Per Round is reduced to 1 for the turn.
 
-### Charge (Advantage) (Disadvantage to Dodge Rolls)
+### Charge (Advantage) (Disadvantage to Evasion Rolls)
 
 Usually achieved with the Athletics Core Skill.
 
 If there is 10 ft between the character and an opponent, they may add their momentum to their melee attack. The character charging must move in a straight line, and once a charge is initiated as a portion of a character's movement, their directions must remain constant the entire round. Disadvantage to Dodging while charging.
 
-### Brace (Advantage versus Charge) (Disadvantage to Dodge Rolls)
+### Brace (Advantage versus Charge) (Disadvantage to Evasion Rolls)
 
 Usually achieved with the Lift Core Skill.
 
@@ -2508,7 +2522,7 @@ Almost all traditional offensive magic spells can be represented as Weapon Spell
 |    Minor Hologram    |         0         |   1 action   | Mediocre | 1 minute |                Light Magic                |                                                                                                                                                                                                                                                                                                                                                         You can manifest an image of an object within a specified range, and it persists for the spell's duration. The hologram will also dissipate if you choose to dismiss it as an action or if you cast the spell again. If you choose to create an image of an object, such as a chair, muddy footprints, or a small chest, it cannot exceed a 5 foot cube. When physically interacted with, the hologram is exposed as such because objects and beings can pass through it without obstruction. If a creature dedicates its action to scrutinizing the image, it may discern that it is an hologram by succeeding in a General Knowledge check against the wins from the Magic Skill roll.                                                                                                                                                                                                                                                                                                                                                         |
 |      Minor Sound      |         0         |   1 action   | Mediocre | 1 minute |                Sound Magic                |                                                                                                                                                                                                                                                                                                  You can manifest a sound within a specified range and it persists for the spell's duration. The sound will also dissipate if you choose to dismiss it as an action or if you cast the spell again. You have control over its volume, which can vary from a mere whisper to a thunderous scream. It could resemble your own voice, another person's voice, the mighty roar of a lion, the rhythmic beat of drums, or any other sound you desire. The chosen sound will persist continuously throughout the spell's duration or you can produce discrete sounds at different moments before the spell concludes. If a creature dedicates its action to scrutinizing the sound, it may discern that it is an illusion by succeeding a General Knowledge check against the wins from the Magic Skill roll.                                                                                                                                                                                                                                                                                                  |
 |     Minor Mirage     |         0         |   1 action   | Mediocre | 1 minute |                Mind Magic                | You can manifest either a sound or an image of an object within a targets mind. It must be within the effective range of the spell and it persists for the spell's duration. The illusion will also dissipate if you choose to dismiss it as an action or if you cast the spell again. When you opt for a sound, you have control over its volume, which can vary from a mere whisper to a thunderous scream. It could resemble your own voice, another person's voice, the mighty roar of a lion, the rhythmic beat of drums, or any other sound you desire. The chosen sound will persist continuously throughout the spell's duration, or you can produce discrete sounds at different moments before the spell concludes. If you choose to create an image of an object, such as a chair, muddy footprints, or a small chest, it cannot exceed a 5 foot cube. This illusory image lacks the ability to produce sound, light, scent, or any other sensory effects. When physically interacted with, the illusion is exposed as such because objects and beings can pass through it without obstruction. If a creature dedicates its action to scrutinizing the sound or image, it may discern that it is an illusion by succeeding in an Will check against the wins from the Magic Skill roll. If a creature successfully identifies the illusion, it becomes faint and transparent to that creature. |
-|      Illuminate      |         0         |   1 action   |  Melee  |  1 hour  |                Light Magic                |                                                                                                                                                                                                                                                                                                                                                                                            You make contact with an object, its size not exceeding 10 feet in any dimension. Throughout the spell's duration, the object emits bright light in a 20-foot radius, accompanied by dim light for an additional 20 feet. You have the freedom to choose the color of the light. Should the object be fully covered with an opaque material, the emitted light is blocked. The spell concludes if cast anew or dismissed through an action. In the event that you target an object held or worn by a hostile creature, that creature must succeed in a Dodge roll or Combat Roll to evade the effects of the spell.                                                                                                                                                                                                                                                                                                                                                                                            |
+|      Illuminate      |         0         |   1 action   |  Melee  |  1 hour  |                Light Magic                |                                                                                                                                                                                                                                                                                                                                                                                           You make contact with an object, its size not exceeding 10 feet in any dimension. Throughout the spell's duration, the object emits bright light in a 20-foot radius, accompanied by dim light for an additional 20 feet. You have the freedom to choose the color of the light. Should the object be fully covered with an opaque material, the emitted light is blocked. The spell concludes if cast anew or dismissed through an action. In the event that you target an object held or worn by a hostile creature, that creature must succeed in a Evasion Roll or Combat Roll to evade the effects of the spell.                                                                                                                                                                                                                                                                                                                                                                                           |
 | Magic Weapon Infusion |         0         |   1 action   |   Self   | 1 round |                 Any Magic                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    With a weapon utilized in the casting of this spell held, you infuse it with the damage types your magic skill provides. Should the attack connect, the target is subjected to both the weapon's and magic infusions damage types.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |      Magic Hand      |         0         |   1 action   | Mediocre | 1 minute | Any Magic capable of taking physical form |                                                                                                                                                                                                                                                                                                                                                                   A magic hand materializes at a designated point within the spell's range. This apparition persists for the spell's duration or until you choose to dismiss it. The hand dissipates if it strays beyond a the spells effective range or if you cast the spell anew. You have the ability command the hand. Its functions include manipulating objects, opening unlocked doors or containers, stowing or retrieving items from open containers, and pouring the contents out of a vial. The hand's movement speed is equal to it's effective range. It is roughly as strong as the users hand. If attacks are made with it, treat it as the users own unarmed attacks.                                                                                                                                                                                                                                                                                                                                                                   |
 
