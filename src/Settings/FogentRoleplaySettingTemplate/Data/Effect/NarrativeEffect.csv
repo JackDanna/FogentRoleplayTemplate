@@ -32,7 +32,7 @@ Condition: Petrified,"- Character is transformed, along with any non-magical obj
 Condition: Prone,"- Only able to crawl using their Climb Movement Speed.
 - Disadvantage on any roll that generally assumes a character is standing (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics, etc...).
 - Melee Combat Rolls (Melee or Reach Ranges) made by a standing character against a Prone character have the High Ground combat modifier.
-- Ranged Combat Rolls against a Prone opponent gain Disadvantage if the Narrator believes they would be a more difficult target due to being a smaller target. For instance, shooting a prone opponent 10 feet away wouldn't have Disadvantage. However, shooting a prone sniper at range who is making themselves a small target would incur Disadvantage.",,
+- Ranged Combat Rolls against a Prone opponent gain Disadvantage if the Narrator believes they would be a more difficult target due to being a smaller target. For instance, shooting a prone opponent 10 feet away wouldn't have Disadvantage. However, shooting a prone sniper at range who is making themselves a small target would incur Disadvantage.",Indefinite,?
 Condition: Restrained,"- Can't move.
 - Disadvantage on any checks that require coordinated movement (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics,  etc...).",Indefinite,?
 Condition: Stunned,"- Incapacitated (see the Condition).
@@ -42,7 +42,7 @@ Condition: Unconscious,"- Incapacitated (see the Condition).
 - Can't speak.
 - Unaware of surroundings.
 - The character drops whatever they are holding and falls prone (see the condition).
-- Automatically fail any check that requires coordinated movement (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics,  etc...).",,
+- Automatically fail any check that requires coordinated movement (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics,  etc...).",Indefinite,?
 ,,,
 ,,,
 ,,,
