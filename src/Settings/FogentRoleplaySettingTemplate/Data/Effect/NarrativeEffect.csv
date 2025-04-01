@@ -14,11 +14,11 @@ Frightened,"- Disadvantage on all checks while the source of the fear is within 
 Invisible,"- Disadvantage on Combat Rolls against this character if they majorly rely on sight.
 - Impossible to see via traditional sight and is considered Heavily Obscured.
 - Can still be detected via hearing, touch, smell, other special senses, or magic senses.",1 Round,?
-Grappled,"- Can't move, unless through Grapple Move.
-- A character using a medium or larger weapon is considered unarmed against a grappler.
-- Medium weapons can be used in a Grapple against reach weapons.
-- Defense from armor is not applicable while in a Grapple if bypassable.
-- Disadvantage on any checks that require coordinated movement (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics, etc...), except against grappler.
+Grappled,"- Disadvantage on checks that require coordinated movement (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics, etc...), except against grappler.
+- A character using a medium or larger weapon is considered unarmed in a Grapple.
+- Medium melee weapons can be used against reach melee weapons in a Grapple.
+- Defense from armor is not applicable if narratively bypassable while in a Grapple.
+- Can't move, unless through Grapple Move.
 - Ends if the grappler is Incapacitated.",Indefinite,?
 Prone,"- Only able to crawl using their Climb Movement Speed.
 - Disadvantage on any roll that generally assumes a character is standing (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics, etc...).
