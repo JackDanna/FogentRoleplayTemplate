@@ -1405,7 +1405,7 @@ If your character gains disadvantage (often the result of a stagger or being kno
 
 ## Evasion Roll
 
-When a combat roll is made against a character who is not capable of making an opposing combat roll (i.e. they are using a melee combat roll but are being shot at from far away), the defender can make a reflexive Evasion Roll vs the attacker's Combat Roll.
+When a Combat Roll is made against a character who is not capable of making an opposing combat roll (i.e. they are using a melee combat roll but are being shot at from far away), the defender can make a reflexive Evasion Roll vs the attacker's Combat Roll.
 
 An Evasion Roll will consist of a Skill Roll which represents reflexive dodging, which is almost always "Dexterity". Evasion Roll's can be assisted, often by "Athletics", as faster top speeds can aid in being harder to hit.
 
