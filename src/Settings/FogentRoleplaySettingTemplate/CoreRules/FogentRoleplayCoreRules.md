@@ -1428,10 +1428,6 @@ Typical "status effects" such as being poisoned, frostbitten, bleeding, madness,
 
 Combat Modifiers represent different circumstances and actions that can occur within combat.
 
-### Dash (2x Movement Speed)
-
-Instead of engaging in a combat roll, a player can choose to focus purely on their movement in combat, doubling their movement speed. They can still Dodge.
-
 ### Ranged vs Melee (Disadvantage)
 
 When a character is making a ranged attack, they gain Disadvantage on their ranged combat roll if they are within range of an opponent who is targeting them with a melee combat roll during that round.
