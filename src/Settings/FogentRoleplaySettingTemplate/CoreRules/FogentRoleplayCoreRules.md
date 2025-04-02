@@ -545,6 +545,15 @@ Javk Wick the rogue is in combat. He wants to do some fancy foot work combined w
 
 The Narrator agrees, setting the assist to CL 3 due to the slippery oil patches cover the floor. Javk gets 4 Wins from his Assist, giving him advantage on his dagger's combat roll.
 
+|         Name         |                                                                                                                                                                      Desc                                                                                                                                                                      | Duration |        Source        |
+| :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :-------------------: |
+| Assist: Sneak Attack |                                                                                        While already hidden, prepare to execute a lethal attack, only allowing them a fraction of a second to react. Your Uses Per Round is reduced to 1 for the round.                                                                                        | 1 Round |  CL 3 Stealth Check  |
+| Assist: Focused Shot |                                                                                                    While making a ranged Combat Roll, focus on a single opponent and target a weak point. Your Uses Per Round is reduced to 1 for the round.                                                                                                    | 1 Round | CL 3 Perception Check |
+|    Assist: Charge    |     If there is 10 ft between the character and an opponent, they may add their momentum to their melee attack. The character charging must move in a straight line, and once a charge is initiated as a portion of a character's movement, their directions must remain constant the entire round. Disadvantage to Dodging while charging.     | 1 Round | CL 3 Athletics Check |
+|    Assist: Brace    | A brace is a move purely to counter a charge. Character gains Advantage versus charging opponents and charging opponents lose their Advantage versus them. No movement can be used while bracing. Bracing uses the opponent's momentum against them, enabling a prepared defender to more easily stagger, trip or injure the charging opponent. | 1 Round |    CL 3 Lift Check    |
+| Assist: Pack Tactics |                                            When two or more attackers make a combat roll against the same opponent with at least one of them within 5 feet, they can make this collaborative assist roll. If successful, they can coordinate their attacks, gaining Advantage on their attack rolls.                                            | 1 Round |  CL 3 Teamwork Check  |
+|  Assist: Formation  |                                                           When two or more allies are next to each other, they can make a collaborative assist roll. If the assist is successful, then all characters within the formation gain Advantage to their Melee or Reach range combat rolls.                                                           | 1 Round |  CL 3 Teamwork Check  |
+
 ## Base Dice Tiers
 
 Base dice are always represented by 3 dice, which by default are 3d6. However, base dice can change for better or worse depending on a Base Dice Tier.
@@ -1610,6 +1619,10 @@ See Ammunitions rules for more information.
 "Narrative Effects" can essentially be thought of as effects that do not change anything on a character sheet when added.
 
 For instance, a Size Effect doesn't change anything else on your sheet when added, though it could have a massive impact on how a character is played. A potion with a Healing Effect doesn't have any mechanical effect until a player uses it within narrative.
+
+#### Assist
+
+See Assist rules for more information.
 
 #### Combat Modifier
 
