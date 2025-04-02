@@ -434,8 +434,8 @@ Webs cannot inflict damage. Instead follow the table below.
 | Minor Binding (Lvl 1 Victory)   | -1d6 to physical skills (RFX/STR), -1d6 to Combat (RFX/STR), -¼ of combat movement  |
 | Medium Binding (Lvl 2 Victory)  | -1d6 to physical skills (RFX/STR), -1d6 to Combat (RFX/STR), -2/4 of combat movement |
 | Serious Binding (Lvl 3 Victory) | -1d6 to physical skills (RFX/STR), -1d6 to Combat (RFX/STR), -3/4 of combat movement |
-| Supreme Binding (Lvl 4 Victory) | Target is incapacitated within the binding                                           |
-| Fatal Binding (Lvl 5 Victory)   | Target is incapacitated withing binding and begins to suffocate.                     |
+| Supreme Binding (Lvl 4 Victory) | Target is Physically Incapacitated within the binding                                           |
+| Fatal Binding (Lvl 5 Victory)   | Target is Physically Incapacitated within binding and begins to suffocate.                     |
 
 ### Fellcraft Combination
 

@@ -884,7 +884,7 @@ A character who listens at this door with a successful CL 2 Perception Skill Che
 This chamber serves as a barracks, furnished with four rudimentary wooden bunks, topped with rumpled blankets, and littered with soiled dishes. An unpleasant odor of unwashed bodies and decaying food permeates the air. Among the chaos, three tall, furry humanoids lounge, sadistically issuing orders to a pitiful Vermkin who debases itself for their entertainment. The sudden appearance of your party startles the Vermkin to the point of fainting.
 ```
 
-Present in the room are three Feralkin and one Vermkin, known as Droop. The sight of your party causes Droop to lose consciousness, although another character can use an action to rouse him. Otherwise, Droop remains incapacitated for 1d10 minutes.
+Present in the room are three Feralkin and one Vermkin, known as Droop. The sight of your party causes Droop to lose consciousness, although another character can use an action to rouse him. Otherwise, Droop remains Unconscious for 1d10 minutes.
 
 These Ferralkins work under the command of the Black Spider and were dispatched here to assist Sylas in maintaining control over both the Lavender Lancers and Tuntin's citizens. The Ferralkin leader, Mosk, peculiarly sports a jeweled eye patch, despite having both his eyes intact. He wears it purely because he finds it to be a fancy and distinctive accessory.
 

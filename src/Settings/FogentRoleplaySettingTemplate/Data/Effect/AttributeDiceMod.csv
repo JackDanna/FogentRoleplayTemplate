@@ -2,7 +2,7 @@ name,desc,duration,source,attributesToEffect,dicePoolMod
 Minor Injury,"-1d to STR/RFX/INT governed Dice Pools. The injury will naturally heal over the next few days, or faster if treated actively.",Days if untreated,Source of Injury,"STR, RFX, INT",-1
 Medium Injury,-2d to STR/RFX/INT governed Dice Pools. The injury must be treated relatively soon otherwise further penalties may apply such as infection.,Weeks if untreated,Source of Injury,"STR, RFX, INT",-2
 Serious Injury,-3d to STR/RFX/INT governed Dice Pools.  The injury will lead to death in time if untreated.,Months if untreated,Source of Injury,"STR, RFX, INT",-3
-Fatal Injury,-4d to STR/RFX/INT governed Dice Pools. The injury will lead to death very soon if untreated. The character inflicted with this injury is Incapacitated (see the Narrative Effect).,Indefinite if untreated,Source of Injury,"STR, RFX, INT",-4
+Fatal Injury,-4d to STR/RFX/INT governed Dice Pools. The injury will lead to death very soon if untreated. The character inflicted with this injury is Physically Incapacitated (see the Narrative Effect).,Indefinite if untreated,Source of Injury,"STR, RFX, INT",-4
 Death Blow Injury,-5d to STR/RFX/INT governed Dice Pools. The injury causes death.,Indefinite,Source of Injury,"STR, RFX, INT",-5
 ,,,,,
 Weight Class: Light,-0d to STR/RFX governed Dice Pools,Indefinite,0% =< Equipment Weight <= 25% of Carry Weight,"STR, RFX",-0
