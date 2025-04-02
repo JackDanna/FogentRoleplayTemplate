@@ -1428,10 +1428,6 @@ Typical "status effects" such as being poisoned, frostbitten, bleeding, madness,
 
 Combat Modifiers represent different circumstances and actions that can occur within combat.
 
-### Ranged vs Melee (Disadvantage)
-
-When a character is making a ranged attack, they gain Disadvantage on their ranged combat roll if they are within range of an opponent who is targeting them with a melee combat roll during that round.
-
 ### Stationary Shooting (Advantage) (Disadvantage to Evasion Rolls)
 
 Remain stationary for an entire round to gain a more stable base for ranged attacks. Advantage on all of ranged attacks for that round, except against opponents engaging the character with a Melee or Reach Range combat roll. Due to being a stationary target, Disadvantage on Evasion Roll.
