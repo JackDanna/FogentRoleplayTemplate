@@ -48,15 +48,6 @@ Draupnir,"This ring can transform between a weapon and ring. The ring is endowed
 Cold Enchantment,Weapon additionally deals Cold damage.,Indefinite,Innate
 The Anatoli Curse,"The weapon is cursed on an individual, always return to the user no matter how the weapon is disposed. When this item is used in combat, the bearer becomes blood lusted with each subsequent kill, becoming increasingly bestially minded, possibly even attack friends.",Indefinite,Innate
 ,,,
-Gradual Healing,"Minor injuries heal in 1 day, others are downgraded in following days if maintained.",Indefinite,Treatment
-Minor Healing Factor,Minor injuries heal in a short rest. Medium injuries heal durning a long rest. A stabilized Serious injuries heal over a 24 hour rest. Cannot effect higher tier injuries.,24 hours,Treatment
-Continuous Minor Healing Factor,Minor injuries heal in a short rest. Medium injuries heal durning a long rest. A stabilized Serious injuries heal over a 24 hour rest. Cannot effect higher tier injuries.,Indefinite,Treatment
-Minor Heal,"Removes a minor injury. For a higher tier injury, reduce the dice penalty of the injury by 1. Injury remains at its current tier. Further minor heals have no effect. ",Instantaneous,Treatment
-Medium Heal,"Removes a medium or lesser injury. For a higher tier injury, reduce the dice penalty of the injury by 2. Injury remains at its current tier. Further medium healing has no effect. ",Instantaneous,Treatment
-Serious Heal,"Removes a serious or lesser injury. For a higher tier injury, reduce the dice penalty of the injury by 3. Injury remains at its current tier. Further serious healing has no effect. ",Instantaneous,Treatment
-Fatal Heal,Removes a Fatal or lesser injury. Can be used to reattach limbs as long as the limb is not destroyed.,Instantaneous,Treatment
-Revival Heal,"Return a dead character to life with a serious injury. Can only be performed within minutes of death. For living characters, it completely heals all injuries, regrowing body parts, and returning the body to peak performance.",Instantaneous,Treatment
-,,,
 Keen Hearing,Advantage on hearing based Perception checks.,Indefinite,Innate
 Keen Smell,Advantage on smell based Perception checks.,Indefinite,Innate
 Keen Sight,Advantage on sight based Perception checks.,Indefinite,Innate
