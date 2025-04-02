@@ -883,19 +883,6 @@ If characters have loaded weapons (for instance loaded muzzle loading firearms) 
 
 Combat takes place on gridded battle maps, with each square representing a 5 ft by 5 ft square.
 
-### Size
-
-A character takes up a certain amount of space on the battle map.
-
-|       Name       |          Effect          | Duration | Source |
-| :--------------: | :-----------------------: | :------: | :----: |
-|    Size: Tiny    | 2.5x2.5 ft on battle map. |          |        |
-|   Size: Small   |   5x5 ft on battle map.   |          |        |
-|   Size: Medium   |   5x5 ft on battle map.   |          |        |
-|   Size: Large   |  10x10 ft on battle map.  |          |        |
-|    Size: Huge    |  15x15 ft on battle map.  |          |        |
-| Size: Gargantuan |  20x20 ft on battle map.  |          |        |
-
 ## Movement Speed
 
 Movement Speed is used in combat to determine how quickly a character can move before others as well as the total distance they can move in a round. Movement Speed is made up of two portions, Reaction Movement Speed and Raw Movement Speed.
@@ -2000,6 +1987,8 @@ Characters can be resistant to certain sources of damage.
 |  Resistance: Complete Spiritual  |  Negate all victory levels received from Spiritual.  | Indefinite | Innate |
 
 #### Size
+
+A character takes up a certain amount of space on the battle map.
 
 |       Name       |           Desc           |  Duration  | Source |
 | :--------------: | :-----------------------: | :--------: | :----: |
