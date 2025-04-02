@@ -1940,6 +1940,19 @@ For instance, a Size Effect doesn't change anything else on your sheet when adde
 |           Fatal Heal           |                                                              Removes a Fatal or lesser injury. Can be used to reattach limbs as long as the limb is not destroyed.                                                              | Instantaneous | Treatment |
 |          Revival Heal          | Return a dead character to life with a serious injury. Can only be performed within minutes of death. For living characters, it completely heals all injuries, regrowing body parts, and returning the body to peak performance. | Instantaneous | Treatment |
 
+#### Language
+
+|          Name          |               Desc               |  Duration  | Source |
+| :--------------------: | :-------------------------------: | :--------: | :-----: |
+|   Language: Babelish   |   Can speak and write Babelish.   | Indefinite | Culture |
+| Language: Bright-speak | Can speak and write Bright-speak. | Indefinite | Culture |
+|    Language: Pirish    |    Can speak and write Pirish.    | Indefinite | Culture |
+|  Language: Deep-speak  |  Can speak and write Deep-speak.  | Indefinite | Culture |
+|    Language: Primal    |    Can speak and write Primal.    | Indefinite | Culture |
+|   Language: Kikishi   |   Can speak and write Kikishi.   | Indefinite | Culture |
+|   Language: Draconic   |   Can speak and write Draconic.   | Indefinite | Culture |
+|   Language: Demonic   |   Can speak and write Demonic.   | Indefinite | Culture |
+
 - Destiny Points
 - Size
 - Weakness and Resistance
