@@ -1428,10 +1428,6 @@ Typical "status effects" such as being poisoned, frostbitten, bleeding, madness,
 
 Combat Modifiers represent different circumstances and actions that can occur within combat.
 
-### Stationary Shooting (Advantage) (Disadvantage to Evasion Rolls)
-
-Remain stationary for an entire round to gain a more stable base for ranged attacks. Advantage on all of ranged attacks for that round, except against opponents engaging the character with a Melee or Reach Range combat roll. Due to being a stationary target, Disadvantage on Evasion Roll.
-
 ### High ground (Advantage)
 
 Bonus received through achieving a height advantage against an opponent, IE standing on a table, riding on a mount, or attacking an prone opponent with a melee weapon. High ground for ranged attacks, must have a more significant height differential than for melee attacks, such as shooting from a climbed tree or atop a castle wall.

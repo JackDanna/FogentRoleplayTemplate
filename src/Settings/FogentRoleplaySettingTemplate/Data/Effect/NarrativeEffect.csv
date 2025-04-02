@@ -55,7 +55,7 @@ Combat Modifier: Grapple Disarm,"Once already in a Grapple, as part of their dec
 Combat Modifier: Defensive,"During combat, a character can purely focuses on defending themselves. Advantage for both Combat Rolls and Evasion Rolls. No Victory Level outcomes can be achieved for the round by the character. Is not applicable if the character can't solely focus on defending themselves, such as when they have Disadvantage to their Combat Rolls or Evasion Rolls. Examples include being Staggered, being attacked from outside a Grapple, getting up from being Prone, being Off Guard, Dashing, etc...",,
 Combat Modifier: Dash,"Instead of engaging in a Combat Roll, a character can choose to focus purely on their movement, doubling their Movement Speed. They can still perform an Evasion Roll.",,
 Combat Modifier: Ranged vs Melee,"When a character is making a ranged Combat Roll vs a melee Combat Roll, they gain Disadvantage on their ranged Combat Roll if they are within range of an opponent who is targeting them with a melee Combat Roll during that round.",,
-"Combat Modifier: ",,,
+Combat Modifier: Stationary Shooting,"Remain stationary for an entire round to gain a more stable base for ranged Combat Rolls. Advantage on all of ranged Combat Rolls for that round, except against opponents engaging the character with a Melee or Reach Range Combat Roll. Due to being a stationary target, Disadvantage on Evasion Roll.",,
 "Combat Modifier: ",,,
 "Combat Modifier: ",,,
 "Combat Modifier: ",,,
