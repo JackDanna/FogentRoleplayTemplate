@@ -2066,6 +2066,7 @@ Characters can be susceptible to certain sources of damage.
 
 The ability of a character to see is crucial for various tasks. These tasks include identifying threats, locating hidden items, attacking enemies, and directing spells, among others. A character's visibility can be significantly impaired by darkness or any other factors that obscure vision.
 
+
 - Destiny Points
 - Weakness
 - Vision
