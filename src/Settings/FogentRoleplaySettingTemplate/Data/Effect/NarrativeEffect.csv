@@ -9,11 +9,11 @@ Victory Level 1: Break Grapple,Removes the Grappled condition applied by an oppo
 Victory Level 1: Drag,"The opponent, which first must be Grappled, is dragged in a desired direction. The character performing the drag can either roll a Lift check or take the average amount of wins rounded down. If the character is using magic, they may use a Magic Skill instead of Lift, assuming the magic could drag someone. For each win achieved, a character can drag another character 10 feet. For each size category the opponent is smaller than you, double the distance. For each Size the opponent is larger than you, half the distance. If the character is required to move during the drag, they may not exceed their Movement Speed for that round. The Narrator can change the drag distance based on unusual circumstances (i.e. humanoid-sized creature weighs as much as a Large sized creature as it is made of pure metal/stone).",Instant,1 Victory Level win
 ,,,
 Victory Level 2: Inflict Medium Injury,Inflict a Medium Injury causing -2d to STR/RFX/INT governed Dice Pools. The injury must be treated relatively soon otherwise further penalties may apply such as infection.,Instant,2 Victory Level wins
-Victory Level 2: Disarm,The opponent loses one of their held weapons.,Instant,2 Victory Level wins
+Victory Level 2: Disarm,The opponent loses one of their held items.,Instant,2 Victory Level wins
 Victory Level2:  Grapple,Apply the Grappled condition to the opponent.,Instant,2 Victory Level wins
 ,,,
 Victory Level 3: Inflict Serious Injury,Inflict a Serious Injury causing -3d to STR/RFX/INT governed Dice Pools.  The injury will lead to death in time if untreated.,Instant,3 Victory Level wins
-Victory Level 3: Double Disarm,The opponent loses two of their held weapons.,Instant,3 Victory Level wins
+Victory Level 3: Double Disarm,The opponent loses two of their held items.,Instant,3 Victory Level wins
 Victory Level 3: Trip,The opponent gains the Prone condition. The tripped opponent can declare they are attempting to regain their footing on a round they start Prone. Regaining their footing requires the downed opponent to use their entire movement speed for that round. At the end of the round they were regaining their footing they can remove the Prone condition.,Instant,3 Victory Level wins
 ,,,
 Victory Level 4: Inflict Fatal Injury,Inflict a Fatal Injury causing -4d to STR/RFX/INT governed Dice Pools. The injury will lead to death very soon if untreated. The character inflicted with this injury is Physically Incapacitated (see the Narrative Effect).,Instant,4 Victory Level wins
