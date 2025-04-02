@@ -1421,7 +1421,7 @@ Any levels over the defender's Evasion Roll wins count as victories for the atta
 
 The only victory level outcome a Evasion Roll can achieve is exiting a grapple. A Combat Roll and Evasion Rolls can both be made in a round.
 
-## Injury and Healing
+## Injury
 
 ### Injury
 
@@ -1436,21 +1436,6 @@ Typical "status effects" such as being poisoned, frostbitten, bleeding, madness,
 |  Serious Injury  |                                                  -3d to STR/RFX/INT governed Dice Pools.  The injury will lead to death in time if untreated.                                                  |          |        |
 |   Fatal Injury   | -4d to STR/RFX/INT governed Dice Pools. The injury will lead to death very soon if untreated. The character inflicted with this injury is Physically Incapacitated (see the Narrative Effect). |          |        |
 | Death Blow Injury |                                                                -5d to STR/RFX/INT governed Dice Pools. The injury causes death.                                                                |          |        |
-
-### Healing
-
-Since Injuries work on a narrative severity scale, so does the healing that can be performed. These could come from Magic or science-based medicine.
-
-|              Name              |                                                                                                               Desc                                                                                                               |   Duration   | Source |
-| :-----------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------: | :----: |
-|         Gradual Healing         |                                                                       Minor injuries heal in 1 day, others are downgraded in following days if maintained.                                                                       |  Indefinite  |        |
-|      Minor Healing Factor      |                            Minor injuries heal in a short rest. Medium injuries heal durning a long rest. A stabilized Serious injuries heal over a 24 hour rest. Cannot effect higher tier injuries.                            |   24 hours   |        |
-| Continuous Minor Healing Factor |                            Minor injuries heal in a short rest. Medium injuries heal durning a long rest. A stabilized Serious injuries heal over a 24 hour rest. Cannot effect higher tier injuries.                            |  Indefinite  |        |
-|           Minor Heal           |                              Removes a minor injury. For a higher tier injury, reduce the dice penalty of the injury by 1. Injury remains at its current tier. Further minor heals have no effect.                              | Instantaneous |        |
-|           Medium Heal           |                        Removes a medium or lesser injury. For a higher tier injury, reduce the dice penalty of the injury by 2. Injury remains at its current tier. Further medium healing has no effect.                        | Instantaneous |        |
-|          Serious Heal          |                       Removes a serious or lesser injury. For a higher tier injury, reduce the dice penalty of the injury by 3. Injury remains at its current tier. Further serious healing has no effect.                       | Instantaneous |        |
-|           Fatal Heal           |                                                              Removes a Fatal or lesser injury. Can be used to reattach limbs as long as the limb is not destroyed.                                                              | Instantaneous |        |
-|          Revival Heal          | Return a dead character to life with a serious injury. Can only be performed within minutes of death. For living characters, it completely heals all injuries, regrowing body parts, and returning the body to peak performance. | Instantaneous |        |
 
 ## Combat Modifiers
 
@@ -1872,6 +1857,8 @@ For instance, a Size Effect doesn't change anything else on your sheet when adde
 |         Disabling: Overly Nostalgic         |           Constantly reminiscing about the good old day.           | Indefinite | Backstory |
 
 #### Healing
+
+Since Injuries work on a narrative severity scale, so does the healing that can be performed. These could come from Magic or science-based medicine.
 
 |              Name              |                                                                                                               Desc                                                                                                               |   Duration   |  Source  |
 | :-----------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------: |
