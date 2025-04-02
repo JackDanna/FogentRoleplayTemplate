@@ -2076,6 +2076,10 @@ For instance, a Size Effect doesn't change anything else on your sheet when adde
 |    Size: Huge    |  15x15 ft on battle map.  | Indefinite | Innate |
 | Size: Gargantuan |  20x20 ft on battle map.  | Indefinite | Innate |
 
+#### Victory Level
+
+See above rule table.
+
 - Destiny Points
 - Weakness
 - Vision
