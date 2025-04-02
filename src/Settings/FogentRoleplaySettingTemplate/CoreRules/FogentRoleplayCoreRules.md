@@ -1428,12 +1428,6 @@ Typical "status effects" such as being poisoned, frostbitten, bleeding, madness,
 
 Combat Modifiers represent different circumstances and actions that can occur within combat.
 
-### High ground (Advantage)
-
-Bonus received through achieving a height advantage against an opponent, IE standing on a table, riding on a mount, or attacking an prone opponent with a melee weapon. High ground for ranged attacks, must have a more significant height differential than for melee attacks, such as shooting from a climbed tree or atop a castle wall.
-
-- Melee Combat Rolls (Melee or Reach Ranges) made by a standing character against a Prone character have the High Ground combat modifier.
-
 ### Off Guard (Disadvantage)
 
 Penalty to Combat Rolls and Evasion Rolls received when a character is actively engaged in something else, IE picking a lock, hacking a terminal, being distracted, etc.

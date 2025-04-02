@@ -56,7 +56,7 @@ Combat Modifier: Defensive,"During combat, a character can purely focuses on def
 Combat Modifier: Dash,"Instead of engaging in a Combat Roll, a character can choose to focus purely on their movement, doubling their Movement Speed. They can still perform an Evasion Roll.",,
 Combat Modifier: Ranged vs Melee,"When a character is making a ranged Combat Roll vs a melee Combat Roll, they gain Disadvantage on their ranged Combat Roll if they are within range of an opponent who is targeting them with a melee Combat Roll during that round.",,
 Combat Modifier: Stationary Shooting,"Remain stationary for an entire round to gain a more stable base for ranged Combat Rolls. Advantage on all of ranged Combat Rolls for that round, except against opponents engaging the character with a Melee or Reach Range Combat Roll. Due to being a stationary target, Disadvantage on Evasion Roll.",,
-"Combat Modifier: ",,,
+Combat Modifier: High Ground,"Advantage to Combat Rolls received through achieving a height advantage against an opponent, IE standing on a table, riding on a mount, or attacking an prone opponent with a melee weapon. High ground for ranged attacks, must have a more significant height differential than for melee attacks, such as shooting from a climbed tree or atop a castle wall. Melee Combat Rolls (Melee or Reach Ranges) made by a standing character against a Prone character have the High Ground combat modifier.",,
 "Combat Modifier: ",,,
 "Combat Modifier: ",,,
 "Combat Modifier: ",,,
