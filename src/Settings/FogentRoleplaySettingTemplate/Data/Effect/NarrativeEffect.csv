@@ -77,49 +77,6 @@ Language: Kikishi,Can speak and write Kikishi.,Indefinite,Culture
 Language: Draconic,Can speak and write Draconic.,Indefinite,Culture
 Language: Demonic,Can speak and write Demonic.,Indefinite,Culture
 ,,,
-Disabling: Amnesia,Character is missing a large portion of their past.,Indefinite,Backstory
-Disabling: Missing bodily extremity/limb,STR and RFX dice penalties when performing tasks requiring 2 hands.,Indefinite,Backstory
-Disabling: Feeble,STR is set to -1,Indefinite,Backstory
-Disabling: Heavy,RFX is set to -1,Indefinite,Backstory
-Disabling: Dim-witted,INT is set to -1,Indefinite,Backstory
-Disabling: Phobia,Debilitating fear of ?.,Indefinite,Backstory
-Disabling: Extreme Prejudice,Overwhelming hatred/disgust of ?.,Indefinite,Backstory
-Disabling: Compulsive Liar,Compulsion to lie about self-aggrandizing claims/achievements.,Indefinite,Backstory
-Disabling: Kleptomaniac,Desire to steal most things regardless of value.,Indefinite,Backstory
-Disabling: Betrayal Paranoia,Extreme belief that every person met will betray them.,Indefinite,Backstory
-Disabling: Government Paranoia,Extreme belief that the ruling class is run by an evil cult.,Indefinite,Backstory
-Disabling: Superstition Paranoia,Extreme belief in common superstition and old wives tales.,Indefinite,Backstory
-Disabling: Paranoia,Irrational belief that ...,Indefinite,Backstory
-Disabling: Over-emotional (specific emotion),,Indefinite,Backstory
-Disabling: Loose Cannon,Overwhelming predisposition towards rage/anger.,Indefinite,Backstory
-Disabling: Incontrollable Grief,Overwhelming grief that is triggered reminder of past trauma.,Indefinite,Backstory
-Disabling: Very Forgetful,"Often forgets plans, directions, people, items,  names...",Indefinite,Backstory
-Disabling: Overconfidence,"Extremely overconfident in , cannot invest in.",Indefinite,Backstory
-Disabling: Endurance Overconfidence,"Extremely overconfident in Endurance, cannot invest in.",Indefinite,Backstory
-Disabling: Athletics Overconfidence,"Extremely overconfident in Athletics, cannot invest in.",Indefinite,Backstory
-Disabling: Lift Overconfidence,"Extremely overconfident in Lift, cannot invest in.",Indefinite,Backstory
-Disabling: Perception Overconfidence,"Extremely overconfident in Perception, cannot invest in.",Indefinite,Backstory
-Disabling: Dexterity Overconfidence,"Extremely overconfident in Dexterity, cannot invest in.",Indefinite,Backstory
-Disabling: Stealth Overconfidence,"Extremely overconfident in Stealth, cannot invest in.",Indefinite,Backstory
-Disabling: General Knowledge Overconfidence,"Extremely overconfident in General Knowledge, cannot invest in.",Indefinite,Backstory
-Disabling: Will Overconfidence,"Extremely overconfident in Will, cannot invest in.",Indefinite,Backstory
-Disabling: Communication Overconfidence,"Extremely overconfident in Communication, cannot invest in.",Indefinite,Backstory
-Disabling: Incapable of Lying,"(Specific parameters required, see Cogent website for examples)",Indefinite,Backstory
-Disabling: Addiction,"Extreme addiction, suffers from withdrawals if not satisfied.",Indefinite,Backstory
-Disabling: Delusion,"Belief of something to be real beyond the scope of simple faith. ",Indefinite,Backstory
-Disabling: Imperceptive,Disadvantage to environmental Perception rolls.,Indefinite,Backstory
-Disabling: Blind,Unable to make sight based perception checks.,Indefinite,Backstory
-Disabling: Deaf,Unable to make hearing based perception checks.,Indefinite,Backstory
-Disabling: Anosmia,Unable to make smell based perception checks.,Indefinite,Backstory
-Disabling: Ageusia,Unable to make taste based perception checks.,Indefinite,Backstory
-Disabling: Anaphia,Unable to make touch based perception checks.,Indefinite,Backstory
-Disabling: Gullible," Disadvantage versus deceptive communication rolls.",Indefinite,Backstory
-Disabling: Impressionable," Disadvantage versus persuasive communication rolls.",Indefinite,Backstory
-Disabling: People Pleaser,"Always try to make other people happy, even at their own expense.",Indefinite,Backstory
-Disabling: SKILL Overconfidence,"Extremely overconfident in SKILL, cannot invest in.",Indefinite,Backstory
-Disabling: Illiterate,Can't read or write.,Indefinite,Backstory
-Disabling: Overly Nostalgic,Constantly reminiscing about the good old day.,Indefinite,Backstory
-,,,
 Size: Tiny,2.5x2.5 ft on battle map.,Indefinite,Innate
 Size: Small,5x5 ft on battle map.,Indefinite,Innate
 Size: Medium,5x5 ft on battle map.,Indefinite,Innate
