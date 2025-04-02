@@ -1550,18 +1550,6 @@ The ability of a character to see is crucial for various tasks. These tasks incl
 
 There are different levels of obscurity that a given area can have, ranging from light to heavy.
 
-#### Unobscured
-
-An area is considered unobscured if it does not impede a character's vision. In such areas, characters roll normal Perception checks that rely on sight.
-
-#### Lightly Obscured
-
-An area is considered lightly obscured if it has dim light, patchy fog, or moderate foliage. In such areas, creatures face a Disadvantage to Perception checks that rely on sight.
-
-#### Heavily Obscured
-
-An area is heavily obscured when it has darkness, opaque fog, or dense foliage. In these areas, vision is entirely blocked. Any creature trying to see something in a heavily obscured area is effectively blinded.
-
 ### Light
 
 The illumination of an environment is categorized into three types: bright light, dim light, and darkness.
@@ -1577,8 +1565,6 @@ Also referred to as shadows, creates a lightly obscured area. This area is typic
 #### Darkness (Heavily Obscured)
 
 Darkness, on the other hand, creates a heavily obscured area. Characters encounter darkness outdoors at night (excluding moonlight nights), inside an unlit dungeon or a subterranean vault, or in an area of magical darkness.
-
-
 
 ## Containers
 
