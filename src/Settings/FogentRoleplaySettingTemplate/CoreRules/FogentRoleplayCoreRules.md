@@ -1542,30 +1542,6 @@ Effects that represent the physical strain of carrying equipment. Some character
 |    Weight Class: Heavy    | -2d to STR/RFX governed Dice Pools | Indefinite | 50% < Equipment Weight <= 100% of Carry Weight |
 | Weight Class: Overburdened | -4d to STR/RFX governed Dice Pools | Indefinite |    100% < Equipment Weight of Carry Weight    |
 
-## Vision and Light
-
-The ability of a character to see is crucial for various tasks. These tasks include identifying threats, locating hidden items, attacking enemies, and directing spells, among others. A character's visibility can be significantly impaired by darkness or any other factors that obscure vision.
-
-### Vision Obscurement
-
-There are different levels of obscurity that a given area can have, ranging from light to heavy.
-
-### Light
-
-The illumination of an environment is categorized into three types: bright light, dim light, and darkness.
-
-#### Bright Light (Unobscured)
-
-Most creatures, including humans, can see normally in bright light. This light can come from various sources such as torches, lanterns, fires, or even gloomy days, and it illuminates within a specific radius.
-
-#### Dim Light (Lightly Obscured)
-
-Also referred to as shadows, creates a lightly obscured area. This area is typically a boundary between a source of bright light, like a torch, and the surrounding darkness. The soft light of twilight and dawn, or even a particularly brilliant full moon, also counts as dim light.
-
-#### Darkness (Heavily Obscured)
-
-Darkness, on the other hand, creates a heavily obscured area. Characters encounter darkness outdoors at night (excluding moonlight nights), inside an unlit dungeon or a subterranean vault, or in an area of magical darkness.
-
 ## Containers
 
 Pouches, satchel, sacks, backpacks, chest, etc... are all consider containers. Each container can hold a certain amount of weight and/or volume within.
@@ -2085,6 +2061,10 @@ Characters can be susceptible to certain sources of damage.
 |  Weakness: Medium Spiritual  |  +2 to the level of injury received from Spiritual.  | Indefinite | Innate |
 |  Weakness: Serious Spiritual  |  +3 to the level of injury received from Spiritual.  | Indefinite | Innate |
 |   Weakness: Fatal Spiritual   |  +4 to the level of injury received from Spiritual.  | Indefinite | Innate |
+
+#### Sense
+
+The ability of a character to see is crucial for various tasks. These tasks include identifying threats, locating hidden items, attacking enemies, and directing spells, among others. A character's visibility can be significantly impaired by darkness or any other factors that obscure vision.
 
 - Destiny Points
 - Weakness
