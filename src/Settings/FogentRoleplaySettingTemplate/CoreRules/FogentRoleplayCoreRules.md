@@ -1430,10 +1430,6 @@ Typical "status effects" such as being poisoned, frostbitten, bleeding, madness,
 
 An attack made while hidden that can't be defended against by the opponent. Usually proceeded by a Stealth Skill Check versus a Perception Skill Check. The Narrator will assign a CL for the attack. As an example, slitting someone's throat with a dagger is a CL 1, however, doing the same with a great sword would be far more difficult. Any wins achieved over the CL count towards the level of victory. Failing the CL or not fully incapacitating the opponent commences the next round of combat, where the opponent is then engaged.
 
-### Cover
-
-There are three degrees of cover. If a target is behind multiple sources of cover, only the most protective degree of cover applies; the degrees aren't added together. For example, if a target is behind a creature that gives half cover and a tree trunk that gives three-quarters cover, the target has three-quarters cover.
-
 ## Combat Assists
 
 These are examples of Assists that can be used in combat.
@@ -1658,6 +1654,8 @@ For instance, a Size Effect doesn't change anything else on your sheet when adde
 #### Combat Modifier
 
 Combat Modifiers represent different circumstances and actions that can occur within combat.
+
+Cover: There are three degrees of cover. If a target is behind multiple sources of cover, only the most protective degree of cover applies; the degrees aren't added together. For example, if a target is behind a creature that gives half cover and a tree trunk that gives three-quarters cover, the target has three-quarters cover.
 
 |                 Name                 |                                                                                                                                                                                                                                                                                                            Desc                                                                                                                                                                                                                                                                                                            |  Duration  |               Source               |
 | :-----------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: | :--------------------------------: |
