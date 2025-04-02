@@ -1465,18 +1465,6 @@ Characters can be susceptible to certain sources of damage.
 | Serious Weakness: (Damage Type) | +3 to the level of injury received from damage type. |          |        |
 |  Fatal Weakness: (Damage Type)  | +4 to the level of injury received from damage type. |          |        |
 
-### Resistance
-
-Characters can be resistant to certain sources of damage.
-
-|                Name                |                        Effect                        | Duration | Source |
-| :--------------------------------: | :--------------------------------------------------: | :------: | :----: |
-|  Minor Resistance: (Damage Type)  |   -1 to victory levels received from damage type.   |          |        |
-|  Medium Resistance: (Damage Type)  |   -2 to victory levels received from damage type.   |          |        |
-| Serious Resistance: (Damage Type) |   -3 to victory levels received from damage type.   |          |        |
-|  Fatal Resistance: (Damage Type)  |   -4 to victory levels received from damage type.   |          |        |
-| Complete Resistance: (Damage Type) | Negate all victory levels received from damage type. |          |        |
-
 ## Combat Modifiers
 
 Combat Modifiers represent different circumstances and actions that can occur within combat.
@@ -1924,6 +1912,8 @@ For instance, a Size Effect doesn't change anything else on your sheet when adde
 |   Language: Demonic   |   Can speak and write Demonic.   | Indefinite | Culture |
 
 #### Resistance
+
+Characters can be resistant to certain sources of damage.
 
 |               Name               |                         Desc                         |  Duration  | Source |
 | :------------------------------: | :--------------------------------------------------: | :--------: | :----: |
