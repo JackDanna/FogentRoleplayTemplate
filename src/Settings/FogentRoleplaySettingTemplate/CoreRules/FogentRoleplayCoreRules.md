@@ -2065,8 +2065,18 @@ For instance, a Size Effect doesn't change anything else on your sheet when adde
 |   Resistance: Fatal Spiritual   |    -4 to victory levels received from Spiritual.    | Indefinite | Innate |
 |  Resistance: Complete Spiritual  |  Negate all victory levels received from Spiritual.  | Indefinite | Innate |
 
+#### Size
+
+|       Name       |           Desc           |  Duration  | Source |
+| :--------------: | :-----------------------: | :--------: | :----: |
+|    Size: Tiny    | 2.5x2.5 ft on battle map. | Indefinite | Innate |
+|   Size: Small   |   5x5 ft on battle map.   | Indefinite | Innate |
+|   Size: Medium   |   5x5 ft on battle map.   | Indefinite | Innate |
+|   Size: Large   |  10x10 ft on battle map.  | Indefinite | Innate |
+|    Size: Huge    |  15x15 ft on battle map.  | Indefinite | Innate |
+| Size: Gargantuan |  20x20 ft on battle map.  | Indefinite | Innate |
+
 - Destiny Points
-- Size
 - Weakness
 - Vision
 
