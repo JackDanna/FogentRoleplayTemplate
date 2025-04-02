@@ -1,20 +1,43 @@
 name,desc,duration,source
 Level,1,Indefinite,Player Character
 ,,,
-Condition: Staggered,"Disadvantage on checks that require coordinated movement (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics, etc...). Movement Speed is halved.",1 Round,?
-Condition: Blinded,"Disadvantage on checks that majorly relies on sight (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics, etc...). Automatically fails any check that requires sight.",1 Round,?
-Condition: Charmed,Disadvantage on checks that involve resisting the charmer's influence. Can't cause harm to the charmer.,1 Round,?
-Condition: Deafened,Disadvantage on checks that majorly relies on hearing. Automatically fails any check that requires hearing.,1 Round,?
-Condition: Frightened,Disadvantage on all checks while the source of the fear is within line of sight. Can't willingly move closer towards the source of fear.,1 Round,?
+Victory Level 1: Inflict Minor Injury,"Inflict a Minor Injury causing -1d to STR/RFX/INT governed Dice Pools. The injury will naturally heal over the next few days, or faster if treated actively.",Instant,1 Victory Level win
+Victory Level 1: Stagger,"The opponent gains the Staggered condition until the end of the next round. This could be sand thrown in a character's face, being shoulder-checked, or losing their footing.",Instant,1 Victory Level win
+Victory Level 1: Shove,"The opponent is shoved in the desired direction. The character performing the shove can either roll a Lift check or take the average amount of Wins rounded down. If the character is using magic, they may use a Magic Skill instead of Lift, assuming the magic could shove someone. For each win achieved, the character can shove another character 5 feet in a straight line. For each size category the opponent is smaller than you, double the distance. For each size category, the opponent is larger than you, half the distance. The Narrator can change the shove distance based on unusual circumstances (i.e. humanoid-sized creature weighs as much as a Large sized creature as it is made of pure metal/stone).",Instant,1 Victory Level win
+Victory Level 1: Contested Grapple,Enter a contested grapple. Apply the Grappled condition to the opponent. The opponent may choose to apply the Grappled condition back.,Instant,1 Victory Level win
+Victory Level 1: Break Grapple,Removes the Grappled condition applied by an opponent.,Instant,1 Victory Level win
+Victory Level 1: Drag,"The opponent, which first must be Grappled, is dragged in a desired direction. The character performing the drag can either roll a Lift check or take the average amount of wins rounded down. If the character is using magic, they may use a Magic Skill instead of Lift, assuming the magic could drag someone. For each win achieved, a character can drag another character 10 feet. For each size category the opponent is smaller than you, double the distance. For each Size the opponent is larger than you, half the distance. If the character is required to move during the drag, they may not exceed their Movement Speed for that round. The Narrator can change the drag distance based on unusual circumstances (i.e. humanoid-sized creature weighs as much as a Large sized creature as it is made of pure metal/stone).",Instant,1 Victory Level win
+,,,
+Victory Level 2: Inflict Medium Injury,Inflict a Medium Injury causing -2d to STR/RFX/INT governed Dice Pools. The injury must be treated relatively soon otherwise further penalties may apply such as infection.,Instant,2 Victory Level wins
+Victory Level 2: Disarm,The opponent loses one of their held items.,Instant,2 Victory Level wins
+Victory Level2:  Grapple,Apply the Grappled condition to the opponent.,Instant,2 Victory Level wins
+,,,
+Victory Level 3: Inflict Serious Injury,Inflict a Serious Injury causing -3d to STR/RFX/INT governed Dice Pools.  The injury will lead to death in time if untreated.,Instant,3 Victory Level wins
+Victory Level 3: Double Disarm,The opponent loses two of their held items.,Instant,3 Victory Level wins
+Victory Level 3: Trip,The opponent gains the Prone condition. The tripped opponent can declare they are attempting to regain their footing on a round they start Prone. Regaining their footing requires the downed opponent to use their entire movement speed for that round. At the end of the round they were regaining their footing they can remove the Prone condition.,Instant,3 Victory Level wins
+,,,
+Victory Level 4: Inflict Fatal Injury,Inflict a Fatal Injury causing -4d to STR/RFX/INT governed Dice Pools. The injury will lead to death very soon if untreated. The character inflicted with this injury is Physically Incapacitated (see the Narrative Effect).,Instant,4 Victory Level wins
+Victory Level 4: Dismember,"The opponent loses an arm or leg, which counts as a Serious Injury. Not available to ranged combat rolls unless there is a narrative explanation of how a ranged attack could dismember (magic, explosive projectiles, etc...).",Instant,4 Victory Level wins
+Victory Level 4: Render Unconscious,"The opponent gains the Unconscious condition, which counts as a Medium Injury that persists even after they regain consciousness. This could be from head trauma, blood chokes, etc...",Instant,4 Victory Level wins
+,,,
+Victory Level 5: Inflict Death Blow,Inflict a Death Blow Injury causing -5d to STR/RFX/INT governed Dice Pools. The injury causes death.,Instant,5 Victory Level wins
+,,,
+Combat Modifier: Grapple Disarm,"Once already in a Grapple, as part of their declaration phase a character can declare they are attempting a Grapple Disarm to disarm their opponent. The character attempting the Grapple Disarm must be Unarmed. They gain Advantage their Unarmed combat roll versus the armed grappled opponent. The armed opponent gains Disadvantage on their combat roll versus the character grappling them. The character attempting the Grapple Disarm may only take the Disarm Level 2 Victory (this means they cannot delegate their attack to inflict an injury or execute a trip regardless of how high the victory achieved.)",Instant,2 Victory Level wins
+,,,
+Condition: Staggered,Disadvantage on STR/RFX governed Dice Pool rolls. All Movement Speeds are halved.,1 Round,?
+Condition: Blinded,"Disadvantage on Dice Pool rolls that majorly relies on sight (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics, etc...). Automatically fails any check that requires sight.",1 Round,?
+Condition: Charmed,Disadvantage on Dice Pool rolls that involve resisting the charmer's influence. Can't cause harm to the charmer.,1 Round,?
+Condition: Deafened,Disadvantage on Dice Pool rolls that majorly relies on hearing. Automatically fails any Dice Pool rolls that requires hearing.,1 Round,?
+Condition: Frightened,Disadvantage on all Dice Pool rolls while the source of the fear is within line of sight. Can't willingly move closer towards the source of fear.,1 Round,?
 Condition: Invisible,"Disadvantage on Combat Rolls against this character if they majorly rely on sight. Impossible to see via traditional sight and is considered Heavily Obscured. Can still be detected via hearing, touch, smell, other special senses, or magic senses.",1 Round,?
-Condition: Grappled,"Disadvantage on checks that require coordinated movement (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics, etc...), except against grappler. Can't move, unless through Grapple Move. Close Melee Combat Rolls can be used in a Grapple. Medium Melee Combat Rolls can be used against Reach Melee Combat Rolls in a Grapple. All other Combat Rolls are considered an Unarmed Combat Roll in a Grapple. Defense from armor is not applicable if narratively bypassable while in a Grapple. Ends if the grappler is Incapacitated.",Indefinite,?
-Condition: Prone,"Disadvantage on rolls that generally assumes a character is standing (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics, etc...). Disadvantage on ranged Combat Rolls made against a Prone character if the Narrator believes they would be smaller target. For instance, shooting a prone opponent 10 feet away wouldn't have Disadvantage. However, shooting a prone sniper at range who is making themselves a small target would incur Disadvantage. Only able to crawl using their Climb Movement Speed.",Indefinite,?
-Condition: Restrained,"Disadvantage on any checks that require coordinated movement (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics,  etc...). Can't move.",Indefinite,?
-Condition: Incapacitated,"Automatically fail any check that requires moving their body (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics,  etc...). Can't move.",Indefinite,?
-Condition: Stunned,Incapacitated (see the Narrative Effect). Can't coherently speak.,1 Round,?
-Condition: Paralyzed,Incapacitated (see the Narrative Effect). Can't speak. Aware of surroundings. The character becomes rigid.,Indefinite,?
-Condition: Unconscious,Incapacitated (see the Narrative Effect). Can't speak. Unaware of surroundings. The character drops whatever they are holding and falls prone (see the Narrative Effect).,Indefinite,?
-Condition: Petrified,"Incapacitated (see the Narrative Effect). Character is transformed, along with any non-magical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging. Can't speak. Serious Resistance to all damage. Complete Resistance to poison, necrosis, and disease, although a poison, necrosis, or disease already in its system is suspended, not neutralized.",Indefinite,?
+Condition: Grappled,"Disadvantage on STR/RFX governed Dice Pool rolls, except for contested checks against the grappler while this character is applying the Grappled condition back. Can't move, except through Victory Level outcomes or contested checks. Combat Rolls, unless otherwise specified, are considered an Unarmed Combat Roll versus the grappler. Close Melee Combat Rolls are NOT counted as Unarmed Combat Rolls versus the grappler. Medium Melee Combat Rolls are NOT counted as Unarmed Combat Rolls if the grappler is using a Reach Range Melee Combat Roll. Defense from armor is not applicable if narratively bypassable by the grappler. Ends if the grappler is Physically Incapacitated or let's go.",Indefinite,?
+Condition: Prone,"Disadvantage on STR/RFX governed Dice Pool rolls that generally assumes a character is standing (i.e. Combat Rolls, Evasion Rolls, Dexterity, Athletics, etc...). Disadvantage on ranged Combat Rolls made against a Prone character if the Narrator believes they would be smaller target. For instance, shooting a prone opponent 10 feet away wouldn't have Disadvantage. However, shooting a prone sniper at range who is making themselves a small target would incur Disadvantage. Only able to crawl using their Climb Movement Speed.",Indefinite,?
+Condition: Restrained,Disadvantage on STR/RFX governed Dice Pool rolls. Can't move.,Indefinite,?
+Condition: Physically Incapacitated,Automatically fail STR/RFX governed Dice Pool rolls. Can't move.,Indefinite,?
+Condition: Stunned,Physically Incapacitated (see the Narrative Effect). Can't coherently speak.,1 Round,?
+Condition: Paralyzed,Physically Incapacitated (see the Narrative Effect). Can't speak. Aware of surroundings. The character becomes rigid.,Indefinite,?
+Condition: Unconscious,Physically Incapacitated (see the Narrative Effect). Can't speak. Unaware of surroundings. The character drops whatever they are holding and falls prone (see the Narrative Effect).,Indefinite,?
+Condition: Petrified,"Physically Incapacitated (see the Narrative Effect). Character is transformed, along with any non-magical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging. Can't speak. Serious Resistance to all damage. Complete Resistance to poison, necrosis, and disease, although a poison, necrosis, or disease already in its system is suspended, not neutralized.",Indefinite,?
 ,,,
 Space Vacuum Life Support,Enable the user to survive in the vacuum of space until onboard oxygen depletes.,1 hour,Innate
 ,,,
@@ -28,7 +51,7 @@ Ariel Assassin,"While performing an aerial attack, gain a +1 to your victory lev
 Minorly Enhanced Vitality,Reduce up to 1d6 of total injury penalty dice.,Indefinite,Innate
 Enhanced Vitality,Reduce up to 2d6 of total injury penalty dice.,Indefinite,Innate
 Greatly Enhanced Vitality,Reduce up to 3d6 of total injury penalty dice.,Indefinite,Innate
-Enhanced Critical,+1 automatic win to sneak attacks and incapacitated opponents.,Indefinite,Innate
+Enhanced Critical,+1 automatic win to sneak attacks and Physically Incapacitated opponents.,Indefinite,Innate
 Dragon Threat Sense,The character gets an uneasy feeling when there are draconic creatures near.,Indefinite,Innate
 Dragon Breath Resistance,"Minor Resistance vs dragon elemental attacks (Dragonfire, Dragontide, Soulfire, ect)",Indefinite,Innate
 Enhanced Healing,Any healing acts as the tier above.,Indefinite,Innate
