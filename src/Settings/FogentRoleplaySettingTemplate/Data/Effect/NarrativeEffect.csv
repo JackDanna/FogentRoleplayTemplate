@@ -71,18 +71,11 @@ Light: Glow,Provides 20 ft radius bright light and 40 ft radius dim light.,Indef
 Language: Babelish,Can speak and write Babelish.,Indefinite,Culture
 Language: Bright-speak,Can speak and write Bright-speak.,Indefinite,Culture
 Language: Pirish,Can speak and write Pirish.,Indefinite,Culture
-Language - Deep-speak,Can speak and write Deep-speak.,Indefinite,Culture
+Language: Deep-speak,Can speak and write Deep-speak.,Indefinite,Culture
 Language: Primal,Can speak and write Primal.,Indefinite,Culture
 Language: Kikishi,Can speak and write Kikishi.,Indefinite,Culture
 Language: Draconic,Can speak and write Draconic.,Indefinite,Culture
 Language: Demonic,Can speak and write Demonic.,Indefinite,Culture
-,,,
-Size: Tiny,2.5x2.5 ft on battle map.,Indefinite,Innate
-Size: Small,5x5 ft on battle map.,Indefinite,Innate
-Size: Medium,5x5 ft on battle map.,Indefinite,Innate
-Size: Large,10x10 ft on battle map.,Indefinite,Innate
-Size: Huge,15x15 ft on battle map.,Indefinite,Innate
-Size: Gargantuan,20x20 ft on battle map.,Indefinite,Innate
 ,,,
 Destiny Resistance,"""Post Roll Destiny Points"" cannot be spent against this character.",Indefinite,Given by The Narrator
 Destiny Immunity,Destiny Points cannot be spent against this character.,Indefinite,Given by The Narrator
