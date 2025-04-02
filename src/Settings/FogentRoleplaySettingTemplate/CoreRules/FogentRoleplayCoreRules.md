@@ -1428,10 +1428,6 @@ Typical "status effects" such as being poisoned, frostbitten, bleeding, madness,
 
 Combat Modifiers represent different circumstances and actions that can occur within combat.
 
-### Off Guard (Disadvantage)
-
-Penalty to Combat Rolls and Evasion Rolls received when a character is actively engaged in something else, IE picking a lock, hacking a terminal, being distracted, etc.
-
 ### Sneak Attack (CL in lieu of defense roll)
 
 An attack made while hidden that can't be defended against by the opponent. Usually proceeded by a Stealth Skill Check versus a Perception Skill Check. The Narrator will assign a CL for the attack. As an example, slitting someone's throat with a dagger is a CL 1, however, doing the same with a great sword would be far more difficult. Any wins achieved over the CL count towards the level of victory. Failing the CL or not fully incapacitating the opponent commences the next round of combat, where the opponent is then engaged.
