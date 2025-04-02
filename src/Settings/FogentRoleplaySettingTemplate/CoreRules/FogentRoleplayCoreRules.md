@@ -1953,9 +1953,121 @@ For instance, a Size Effect doesn't change anything else on your sheet when adde
 |   Language: Draconic   |   Can speak and write Draconic.   | Indefinite | Culture |
 |   Language: Demonic   |   Can speak and write Demonic.   | Indefinite | Culture |
 
+#### Resistance
+
+|               Name               |                         Desc                         |  Duration  | Source |
+| :------------------------------: | :--------------------------------------------------: | :--------: | :----: |
+|     Resistance: Minor Slash     |      -1 to victory levels received from Slash.      | Indefinite | Innate |
+|     Resistance: Medium Slash     |      -2 to victory levels received from Slash.      | Indefinite | Innate |
+|    Resistance: Serious Slash    |      -3 to victory levels received from Slash.      | Indefinite | Innate |
+|     Resistance: Fatal Slash     |      -4 to victory levels received from Slash.      | Indefinite | Innate |
+|    Resistance: Complete Slash    |    Negate all victory levels received from Slash.    | Indefinite | Innate |
+|                                  |                                                      |            |        |
+|     Resistance: Minor Pierce     |      -1 to victory levels received from Pierce.      | Indefinite | Innate |
+|    Resistance: Medium Pierce    |      -2 to victory levels received from Pierce.      | Indefinite | Innate |
+|    Resistance: Serious Pierce    |      -3 to victory levels received from Pierce.      | Indefinite | Innate |
+|     Resistance: Fatal Pierce     |      -4 to victory levels received from Pierce.      | Indefinite | Innate |
+|   Resistance: Complete Pierce   |   Negate all victory levels received from Pierce.   | Indefinite | Innate |
+|                                  |                                                      |            |        |
+|    Resistance: Minor Bludgeon    |     -1 to victory levels received from Bludgeon.     | Indefinite | Innate |
+|   Resistance: Medium Bludgeon   |     -2 to victory levels received from Bludgeon.     | Indefinite | Innate |
+|   Resistance: Serious Bludgeon   |     -3 to victory levels received from Bludgeon.     | Indefinite | Innate |
+|    Resistance: Fatal Bludgeon    |     -4 to victory levels received from Bludgeon.     | Indefinite | Innate |
+|  Resistance: Complete Bludgeon  |  Negate all victory levels received from Bludgeon.  | Indefinite | Innate |
+|                                  |                                                      |            |        |
+|      Resistance: Minor Hew      |       -1 to victory levels received from Hew.       | Indefinite | Innate |
+|      Resistance: Medium Hew      |       -2 to victory levels received from Hew.       | Indefinite | Innate |
+|     Resistance: Serious Hew     |       -3 to victory levels received from Hew.       | Indefinite | Innate |
+|      Resistance: Fatal Hew      |       -4 to victory levels received from Hew.       | Indefinite | Innate |
+|     Resistance: Complete Hew     |     Negate all victory levels received from Hew.     | Indefinite | Innate |
+|                                  |                                                      |            |        |
+|   Resistance: Minor Ballistic   |    -1 to victory levels received from Ballistic.    | Indefinite | Innate |
+|   Resistance: Medium Ballistic   |    -2 to victory levels received from Ballistic.    | Indefinite | Innate |
+|  Resistance: Serious Ballistic  |    -3 to victory levels received from Ballistic.    | Indefinite | Innate |
+|   Resistance: Fatal Ballistic   |    -4 to victory levels received from Ballistic.    | Indefinite | Innate |
+|  Resistance: Complete Ballistic  |  Negate all victory levels received from Ballistic.  | Indefinite | Innate |
+|                                  |                                                      |            |        |
+|   Resistance: Minor Shockwave   |    -1 to victory levels received from Shockwave.    | Indefinite | Innate |
+|   Resistance: Medium Shockwave   |    -2 to victory levels received from Shockwave.    | Indefinite | Innate |
+|  Resistance: Serious Shockwave  |    -3 to victory levels received from Shockwave.    | Indefinite | Innate |
+|   Resistance: Fatal Shockwave   |    -4 to victory levels received from Shockwave.    | Indefinite | Innate |
+|  Resistance: Complete Shockwave  |  Negate all victory levels received from Shockwave.  | Indefinite | Innate |
+|                                  |                                                      |            |        |
+|      Resistance: Minor Fire      |       -1 to victory levels received from Fire.       | Indefinite | Innate |
+|     Resistance: Medium Fire     |       -2 to victory levels received from Fire.       | Indefinite | Innate |
+|     Resistance: Serious Fire     |       -3 to victory levels received from Fire.       | Indefinite | Innate |
+|      Resistance: Fatal Fire      |       -4 to victory levels received from Fire.       | Indefinite | Innate |
+|    Resistance: Complete Fire    |    Negate all victory levels received from Fire.    | Indefinite | Innate |
+|                                  |                                                      |            |        |
+|    Resistance: Minor Electric    |     -1 to victory levels received from Electric.     | Indefinite | Innate |
+|   Resistance: Medium Electric   |     -2 to victory levels received from Electric.     | Indefinite | Innate |
+|   Resistance: Serious Electric   |     -3 to victory levels received from Electric.     | Indefinite | Innate |
+|    Resistance: Fatal Electric    |     -4 to victory levels received from Electric.     | Indefinite | Innate |
+|  Resistance: Complete Electric  |  Negate all victory levels received from Electric.  | Indefinite | Innate |
+|                                  |                                                      |            |        |
+|    Resistance: Minor Radiant    |     -1 to victory levels received from Radiant.     | Indefinite | Innate |
+|    Resistance: Medium Radiant    |     -2 to victory levels received from Radiant.     | Indefinite | Innate |
+|   Resistance: Serious Radiant   |     -3 to victory levels received from Radiant.     | Indefinite | Innate |
+|    Resistance: Fatal Radiant    |     -4 to victory levels received from Radiant.     | Indefinite | Innate |
+|   Resistance: Complete Radiant   |   Negate all victory levels received from Radiant.   | Indefinite | Innate |
+|                                  |                                                      |            |        |
+|      Resistance: Minor Acid      |       -1 to victory levels received from Acid.       | Indefinite | Innate |
+|     Resistance: Medium Acid     |       -2 to victory levels received from Acid.       | Indefinite | Innate |
+|     Resistance: Serious Acid     |       -3 to victory levels received from Acid.       | Indefinite | Innate |
+|      Resistance: Fatal Acid      |       -4 to victory levels received from Acid.       | Indefinite | Innate |
+|    Resistance: Complete Acid    |    Negate all victory levels received from Acid.    | Indefinite | Innate |
+|                                  |                                                      |            |        |
+|      Resistance: Minor Cold      |       -1 to victory levels received from Cold.       | Indefinite | Innate |
+|     Resistance: Medium Cold     |       -2 to victory levels received from Cold.       | Indefinite | Innate |
+|     Resistance: Serious Cold     |       -3 to victory levels received from Cold.       | Indefinite | Innate |
+|      Resistance: Fatal Cold      |       -4 to victory levels received from Cold.       | Indefinite | Innate |
+|    Resistance: Complete Cold    |    Negate all victory levels received from Cold.    | Indefinite | Innate |
+|                                  |                                                      |            |        |
+|     Resistance: Minor Silver     |      -1 to victory levels received from Silver.      | Indefinite | Innate |
+|    Resistance: Medium Silver    |      -2 to victory levels received from Silver.      | Indefinite | Innate |
+|    Resistance: Serious Silver    |      -3 to victory levels received from Silver.      | Indefinite | Innate |
+|     Resistance: Fatal Silver     |      -4 to victory levels received from Silver.      | Indefinite | Innate |
+|   Resistance: Complete Silver   |   Negate all victory levels received from Silver.   | Indefinite | Innate |
+|                                  |                                                      |            |        |
+|     Resistance: Minor Poison     |      -1 to victory levels received from Poison.      | Indefinite | Innate |
+|    Resistance: Medium Poison    |      -2 to victory levels received from Poison.      | Indefinite | Innate |
+|    Resistance: Serious Poison    |      -3 to victory levels received from Poison.      | Indefinite | Innate |
+|     Resistance: Fatal Poison     |      -4 to victory levels received from Poison.      | Indefinite | Innate |
+|   Resistance: Complete Poison   |   Negate all victory levels received from Poison.   | Indefinite | Innate |
+|                                  |                                                      |            |        |
+|    Resistance: Minor Necrotic    |     -1 to victory levels received from Necrotic.     | Indefinite | Innate |
+|   Resistance: Medium Necrotic   |     -2 to victory levels received from Necrotic.     | Indefinite | Innate |
+|   Resistance: Serious Necrotic   |     -3 to victory levels received from Necrotic.     | Indefinite | Innate |
+|    Resistance: Fatal Necrotic    |     -4 to victory levels received from Necrotic.     | Indefinite | Innate |
+|  Resistance: Complete Necrotic  |  Negate all victory levels received from Necrotic.  | Indefinite | Innate |
+|                                  |                                                      |            |        |
+|     Resistance: Minor Bleed     |      -1 to victory levels received from Bleed.      | Indefinite | Innate |
+|     Resistance: Medium Bleed     |      -2 to victory levels received from Bleed.      | Indefinite | Innate |
+|    Resistance: Serious Bleed    |      -3 to victory levels received from Bleed.      | Indefinite | Innate |
+|     Resistance: Fatal Bleed     |      -4 to victory levels received from Bleed.      | Indefinite | Innate |
+|    Resistance: Complete Bleed    |    Negate all victory levels received from Bleed.    | Indefinite | Innate |
+|                                  |                                                      |            |        |
+|  Resistance: Minor Suffocation  |   -1 to victory levels received from Suffocation.   | Indefinite | Innate |
+|  Resistance: Medium Suffocation  |   -2 to victory levels received from Suffocation.   | Indefinite | Innate |
+| Resistance: Serious Suffocation |   -3 to victory levels received from Suffocation.   | Indefinite | Innate |
+|  Resistance: Fatal Suffocation  |   -4 to victory levels received from Suffocation.   | Indefinite | Innate |
+| Resistance: Complete Suffocation | Negate all victory levels received from Suffocation. | Indefinite | Innate |
+|                                  |                                                      |            |        |
+|    Resistance: Minor Psychic    |     -1 to victory levels received from Psychic.     | Indefinite | Innate |
+|    Resistance: Medium Psychic    |     -2 to victory levels received from Psychic.     | Indefinite | Innate |
+|   Resistance: Serious Psychic   |     -3 to victory levels received from Psychic.     | Indefinite | Innate |
+|    Resistance: Fatal Psychic    |     -4 to victory levels received from Psychic.     | Indefinite | Innate |
+|   Resistance: Complete Psychic   |   Negate all victory levels received from Psychic.   | Indefinite | Innate |
+|                                  |                                                      |            |        |
+|   Resistance: Minor Spiritual   |    -1 to victory levels received from Spiritual.    | Indefinite | Innate |
+|   Resistance: Medium Spiritual   |    -2 to victory levels received from Spiritual.    | Indefinite | Innate |
+|  Resistance: Serious Spiritual  |    -3 to victory levels received from Spiritual.    | Indefinite | Innate |
+|   Resistance: Fatal Spiritual   |    -4 to victory levels received from Spiritual.    | Indefinite | Innate |
+|  Resistance: Complete Spiritual  |  Negate all victory levels received from Spiritual.  | Indefinite | Innate |
+
 - Destiny Points
 - Size
-- Weakness and Resistance
+- Weakness
 - Vision
 
 ### Narrative Effect Examples
