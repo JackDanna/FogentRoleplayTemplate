@@ -1428,12 +1428,6 @@ Typical "status effects" such as being poisoned, frostbitten, bleeding, madness,
 
 Combat Modifiers represent different circumstances and actions that can occur within combat.
 
-### Defensive (Advantage) (No Victory Level Outcomes)
-
-A character purely focuses on defending themselves.
-
-No victory level outcomes can be achieved for the round by the defender. Effects both to Combat Rolls and Evasion Rolls if declared. Is not applicable if Character can't solely focus on defending themselves, such as when they have Disadvantage to their Combat Rolls or Evasion Rolls. Examples include being Staggered, being attacked from outside a Grapple, getting up from being Prone, being Off Guard, Dashing, etc...
-
 ### Dash (2x Movement Speed)
 
 Instead of engaging in a combat roll, a player can choose to focus purely on their movement in combat, doubling their movement speed. They can still Dodge.
