@@ -13,3 +13,18 @@ Condition: Stunned,Physically Incapacitated (see the Narrative Effect). Can't co
 Condition: Paralyzed,Physically Incapacitated (see the Narrative Effect). Can't speak. Aware of surroundings. The character becomes rigid.,Indefinite,?
 Condition: Unconscious,Physically Incapacitated (see the Narrative Effect). Can't speak. Unaware of surroundings. The character drops whatever they are holding and falls prone (see the Narrative Effect).,Indefinite,?
 Condition: Petrified,"Physically Incapacitated (see the Narrative Effect). Character is transformed, along with any non-magical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging. Can't speak. Serious Resistance to all damage. Complete Resistance to poison, necrosis, and disease, although a poison, necrosis, or disease already in its system is suspended, not neutralized.",Indefinite,?
+,,,
+Condition Immunity: Staggered,Character is immune to the Staggered condition.,Indefinite,Innate
+Condition Immunity: Blinded,Character is immune to the Blinded condition.,Indefinite,Innate
+Condition Immunity: Charmed,Character is immune to the Charmed condition.,Indefinite,Innate
+Condition Immunity: Deafened,Character is immune to the Deafened condition.,Indefinite,Innate
+Condition Immunity: Frightened,Character is immune to the Frightened condition.,Indefinite,Innate
+Condition Immunity: Invisible,Character is immune to the Invisible condition.,Indefinite,Innate
+Condition Immunity: Grappled,Character is immune to the Grappled condition.,Indefinite,Innate
+Condition Immunity: Prone,Character is immune to the Prone condition.,Indefinite,Innate
+Condition Immunity: Restrained,Character is immune to the Restrained condition.,Indefinite,Innate
+Condition Immunity: Physically Incapacitated,Character is immune to the Physically Incapacitated condition.,Indefinite,Innate
+Condition Immunity: Stunned,Character is immune to the Stunned condition.,Indefinite,Innate
+Condition Immunity: Paralyzed,Character is immune to the Paralyzed condition.,Indefinite,Innate
+Condition Immunity: Unconscious,Character is immune to the Unconscious condition.,Indefinite,Innate
+Condition Immunity: Petrified,Character is immune to the Petrified condition.,Indefinite,Innate

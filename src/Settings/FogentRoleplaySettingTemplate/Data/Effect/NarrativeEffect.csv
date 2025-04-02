@@ -71,5 +71,3 @@ Light: Glow,Provides 20 ft radius bright light and 40 ft radius dim light.,Indef
 Destiny Resistance,"""Post Roll Destiny Points"" cannot be spent against this character.",Indefinite,Given by The Narrator
 Destiny Immunity,Destiny Points cannot be spent against this character.,Indefinite,Given by The Narrator
 ,,,
-Condition Immunities:,Character is immune to the specified conditions.,Indefinite,Innate
-,,,
