@@ -1434,36 +1434,6 @@ Needs rework
 
 An attack made while hidden that can't be defended against by the opponent. Usually proceeded by a Stealth Skill Check versus a Perception Skill Check. The Narrator will assign a CL for the attack. As an example, slitting someone's throat with a dagger is a CL 1, however, doing the same with a great sword would be far more difficult. Any wins achieved over the CL count towards the level of victory. Failing the CL or not fully incapacitating the opponent commences the next round of combat, where the opponent is then engaged.
 
-### Focused Shot (Advantage)
-
-Usually achieved with the Perception Core Skill.
-
-While making a ranged attack, focus on a single opponent and target a weak point. Your Uses Per Round is reduced to 1 for the turn.
-
-### Charge (Advantage) (Disadvantage to Evasion Rolls)
-
-Usually achieved with the Athletics Core Skill.
-
-If there is 10 ft between the character and an opponent, they may add their momentum to their melee attack. The character charging must move in a straight line, and once a charge is initiated as a portion of a character's movement, their directions must remain constant the entire round. Disadvantage to Dodging while charging.
-
-### Brace (Advantage versus Charge) (Disadvantage to Evasion Rolls)
-
-Usually achieved with the Lift Core Skill.
-
-A brace is a move purely to counter a charge. Character gains Advantage versus charging opponents and charging opponents lose their Advantage versus them. No movement can be used while bracing. Bracing uses the opponent's momentum against them, enabling a prepared defender to more easily stagger, trip or injure the charging opponent.
-
-### Pack Tactics
-
-Usually achieved by two or more characters with a Teamwork Vocation (Like Pack Hunter or Soldier) or the Communication Core Skill.
-
-When two or more attackers make a combat roll against the same opponent with at least one of them within 5 feet, they can make this collaborative assist roll. If successful, they can coordinate their attacks, gaining Advantage on their attack rolls.
-
-### Formation
-
-Usually achieved with a "Soldier" Vocation Assist or the Communication Core Skill.
-
-When two ore more allies are next to each other, they can make a collaborative assist roll. If the assist is successful, then all characters within the formation gain Advantage to their Melee or Reach range combat rolls.
-
 # Advanced Rules
 
 ## Equipment, Carry Weight, and Weight Classes
