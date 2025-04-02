@@ -68,24 +68,16 @@ Vision: Truesight,"A being possessing truesight can, within a designated range, 
 ,,,
 Light: Glow,Provides 20 ft radius bright light and 40 ft radius dim light.,Indefinite,Innate
 ,,,
-Language: Babelish,Can speak and write Babelish.,Indefinite,Culture
-Language: Bright-speak,Can speak and write Bright-speak.,Indefinite,Culture
-Language: Pirish,Can speak and write Pirish.,Indefinite,Culture
-Language: Deep-speak,Can speak and write Deep-speak.,Indefinite,Culture
-Language: Primal,Can speak and write Primal.,Indefinite,Culture
-Language: Kikishi,Can speak and write Kikishi.,Indefinite,Culture
-Language: Draconic,Can speak and write Draconic.,Indefinite,Culture
-Language: Demonic,Can speak and write Demonic.,Indefinite,Culture
-,,,
 Destiny Resistance,"""Post Roll Destiny Points"" cannot be spent against this character.",Indefinite,Given by The Narrator
 Destiny Immunity,Destiny Points cannot be spent against this character.,Indefinite,Given by The Narrator
 ,,,
 Condition Immunities:,Character is immune to the specified conditions.,Indefinite,Innate
 ,,,
-Minor Weakness: (Damage Type),+1 to the level of injury received from damage type.,Indefinite,Innate
-Medium Weakness: (Damage Type),+2 to the level of injury received from damage type.,Indefinite,Innate
-Serious Weakness: (Damage Type),+3 to the level of injury received from damage type.,Indefinite,Innate
-Fatal Weakness: (Damage Type),+4 to the level of injury received from damage type.,Indefinite,Innate
+Weakness: Minor (Damage Type),+1 to the level of injury received from (Damage Type).,Indefinite,Innate
+Weakness: Medium (Damage Type),+2 to the level of injury received from (Damage Type).,Indefinite,Innate
+Weakness: Serious (Damage Type),+3 to the level of injury received from (Damage Type).,Indefinite,Innate
+Weakness: Fatal (Damage Type),+4 to the level of injury received from (Damage Type).,Indefinite,Innate
+,,,
 Minor Resistance: (Damage Type),-1 to victory levels received from damage type.,Indefinite,Innate
 Medium Resistance: (Damage Type),-2 to victory levels received from damage type.,Indefinite,Innate
 Serious Resistance: (Damage Type),-3 to victory levels received from damage type.,Indefinite,Innate
