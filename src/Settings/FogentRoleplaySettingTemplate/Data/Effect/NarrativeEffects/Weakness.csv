@@ -1,0 +1,90 @@
+name,desc,duration,source
+Weakness: Minor Slash,+1 to the level of injury received from Slash.,Indefinite,Innate
+Weakness: Medium Slash,+2 to the level of injury received from Slash.,Indefinite,Innate
+Weakness: Serious Slash,+3 to the level of injury received from Slash.,Indefinite,Innate
+Weakness: Fatal Slash,+4 to the level of injury received from Slash.,Indefinite,Innate
+,,,
+Weakness: Minor Pierce,+1 to the level of injury received from Pierce.,Indefinite,Innate
+Weakness: Medium Pierce,+2 to the level of injury received from Pierce.,Indefinite,Innate
+Weakness: Serious Pierce,+3 to the level of injury received from Pierce.,Indefinite,Innate
+Weakness: Fatal Pierce,+4 to the level of injury received from Pierce.,Indefinite,Innate
+,,,
+Weakness: Minor Bludgeon,+1 to the level of injury received from Bludgeon.,Indefinite,Innate
+Weakness: Medium Bludgeon,+2 to the level of injury received from Bludgeon.,Indefinite,Innate
+Weakness: Serious Bludgeon,+3 to the level of injury received from Bludgeon.,Indefinite,Innate
+Weakness: Fatal Bludgeon,+4 to the level of injury received from Bludgeon.,Indefinite,Innate
+,,,
+Weakness: Minor Hew,+1 to the level of injury received from Hew.,Indefinite,Innate
+Weakness: Medium Hew,+2 to the level of injury received from Hew.,Indefinite,Innate
+Weakness: Serious Hew,+3 to the level of injury received from Hew.,Indefinite,Innate
+Weakness: Fatal Hew,+4 to the level of injury received from Hew.,Indefinite,Innate
+,,,
+Weakness: Minor Ballistic,+1 to the level of injury received from Ballistic.,Indefinite,Innate
+Weakness: Medium Ballistic,+2 to the level of injury received from Ballistic.,Indefinite,Innate
+Weakness: Serious Ballistic,+3 to the level of injury received from Ballistic.,Indefinite,Innate
+Weakness: Fatal Ballistic,+4 to the level of injury received from Ballistic.,Indefinite,Innate
+,,,
+Weakness: Minor Shockwave,+1 to the level of injury received from Shockwave.,Indefinite,Innate
+Weakness: Medium Shockwave,+2 to the level of injury received from Shockwave.,Indefinite,Innate
+Weakness: Serious Shockwave,+3 to the level of injury received from Shockwave.,Indefinite,Innate
+Weakness: Fatal Shockwave,+4 to the level of injury received from Shockwave.,Indefinite,Innate
+,,,
+Weakness: Minor Fire,+1 to the level of injury received from Fire.,Indefinite,Innate
+Weakness: Medium Fire,+2 to the level of injury received from Fire.,Indefinite,Innate
+Weakness: Serious Fire,+3 to the level of injury received from Fire.,Indefinite,Innate
+Weakness: Fatal Fire,+4 to the level of injury received from Fire.,Indefinite,Innate
+,,,
+Weakness: Minor Electric,+1 to the level of injury received from Electric.,Indefinite,Innate
+Weakness: Medium Electric,+2 to the level of injury received from Electric.,Indefinite,Innate
+Weakness: Serious Electric,+3 to the level of injury received from Electric.,Indefinite,Innate
+Weakness: Fatal Electric,+4 to the level of injury received from Electric.,Indefinite,Innate
+,,,
+Weakness: Minor Radiant,+1 to the level of injury received from Radiant.,Indefinite,Innate
+Weakness: Medium Radiant,+2 to the level of injury received from Radiant.,Indefinite,Innate
+Weakness: Serious Radiant,+3 to the level of injury received from Radiant.,Indefinite,Innate
+Weakness: Fatal Radiant,+4 to the level of injury received from Radiant.,Indefinite,Innate
+,,,
+Weakness: Minor Acid,+1 to the level of injury received from Acid.,Indefinite,Innate
+Weakness: Medium Acid,+2 to the level of injury received from Acid.,Indefinite,Innate
+Weakness: Serious Acid,+3 to the level of injury received from Acid.,Indefinite,Innate
+Weakness: Fatal Acid,+4 to the level of injury received from Acid.,Indefinite,Innate
+,,,
+Weakness: Minor Cold,+1 to the level of injury received from Cold.,Indefinite,Innate
+Weakness: Medium Cold,+2 to the level of injury received from Cold.,Indefinite,Innate
+Weakness: Serious Cold,+3 to the level of injury received from Cold.,Indefinite,Innate
+Weakness: Fatal Cold,+4 to the level of injury received from Cold.,Indefinite,Innate
+,,,
+Weakness: Minor Silver,+1 to the level of injury received from Silver.,Indefinite,Innate
+Weakness: Medium Silver,+2 to the level of injury received from Silver.,Indefinite,Innate
+Weakness: Serious Silver,+3 to the level of injury received from Silver.,Indefinite,Innate
+Weakness: Fatal Silver,+4 to the level of injury received from Silver.,Indefinite,Innate
+,,,
+Weakness: Minor Poison,+1 to the level of injury received from Poison.,Indefinite,Innate
+Weakness: Medium Poison,+2 to the level of injury received from Poison.,Indefinite,Innate
+Weakness: Serious Poison,+3 to the level of injury received from Poison.,Indefinite,Innate
+Weakness: Fatal Poison,+4 to the level of injury received from Poison.,Indefinite,Innate
+,,,
+Weakness: Minor Necrotic,+1 to the level of injury received from Necrotic.,Indefinite,Innate
+Weakness: Medium Necrotic,+2 to the level of injury received from Necrotic.,Indefinite,Innate
+Weakness: Serious Necrotic,+3 to the level of injury received from Necrotic.,Indefinite,Innate
+Weakness: Fatal Necrotic,+4 to the level of injury received from Necrotic.,Indefinite,Innate
+,,,
+Weakness: Minor Bleed,+1 to the level of injury received from Bleed.,Indefinite,Innate
+Weakness: Medium Bleed,+2 to the level of injury received from Bleed.,Indefinite,Innate
+Weakness: Serious Bleed,+3 to the level of injury received from Bleed.,Indefinite,Innate
+Weakness: Fatal Bleed,+4 to the level of injury received from Bleed.,Indefinite,Innate
+,,,
+Weakness: Minor Suffocation,+1 to the level of injury received from Suffocation.,Indefinite,Innate
+Weakness: Medium Suffocation,+2 to the level of injury received from Suffocation.,Indefinite,Innate
+Weakness: Serious Suffocation,+3 to the level of injury received from Suffocation.,Indefinite,Innate
+Weakness: Fatal Suffocation,+4 to the level of injury received from Suffocation.,Indefinite,Innate
+,,,
+Weakness: Minor Psychic,+1 to the level of injury received from Psychic.,Indefinite,Innate
+Weakness: Medium Psychic,+2 to the level of injury received from Psychic.,Indefinite,Innate
+Weakness: Serious Psychic,+3 to the level of injury received from Psychic.,Indefinite,Innate
+Weakness: Fatal Psychic,+4 to the level of injury received from Psychic.,Indefinite,Innate
+,,,
+Weakness: Minor Spiritual,+1 to the level of injury received from Spiritual.,Indefinite,Innate
+Weakness: Medium Spiritual,+2 to the level of injury received from Spiritual.,Indefinite,Innate
+Weakness: Serious Spiritual,+3 to the level of injury received from Spiritual.,Indefinite,Innate
+Weakness: Fatal Spiritual,+4 to the level of injury received from Spiritual.,Indefinite,Innate

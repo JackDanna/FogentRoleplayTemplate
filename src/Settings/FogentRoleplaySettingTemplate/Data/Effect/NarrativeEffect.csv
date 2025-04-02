@@ -73,11 +73,6 @@ Destiny Immunity,Destiny Points cannot be spent against this character.,Indefini
 ,,,
 Condition Immunities:,Character is immune to the specified conditions.,Indefinite,Innate
 ,,,
-Weakness: Minor (Damage Type),+1 to the level of injury received from (Damage Type).,Indefinite,Innate
-Weakness: Medium (Damage Type),+2 to the level of injury received from (Damage Type).,Indefinite,Innate
-Weakness: Serious (Damage Type),+3 to the level of injury received from (Damage Type).,Indefinite,Innate
-Weakness: Fatal (Damage Type),+4 to the level of injury received from (Damage Type).,Indefinite,Innate
-,,,
 Minor Resistance: (Damage Type),-1 to victory levels received from damage type.,Indefinite,Innate
 Medium Resistance: (Damage Type),-2 to victory levels received from damage type.,Indefinite,Innate
 Serious Resistance: (Damage Type),-3 to victory levels received from damage type.,Indefinite,Innate
