@@ -1417,22 +1417,6 @@ Any levels over the defender's Evasion Roll wins count as victories for the atta
 
 The only victory level outcome a Evasion Roll can achieve is exiting a grapple. A Combat Roll and Evasion Rolls can both be made in a round.
 
-## Injury
-
-### Injury
-
-Injury is handled as part of the narrative with dice penalties being applied per injury to all a character's dice checks. A character is rendered Physically Incapacitated once they've taken a summed 5 or above injury dice.
-
-Typical "status effects" such as being poisoned, frostbitten, bleeding, madness, etc... are handled elegantly through the injury system. For instance, if you were dealt a Serious injury by mild poison mist, then narratively explain it as getting a large breath full. If the character instead was dealt a Serious injury by an extremely lethal poison mist, then narratively it would be explained as only getting a small whiff. The resulting dice penalty acts as your "status effect" debuffing your character until they are resolved. For instance, anti-venom might be able to remove the poison injury or warming up by a fire might reduce hypothermia from the cold.
-
-|       Name       |                                                                                              Desc                                                                                              | Duration | Source |
-| :---------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :----: |
-|   Minor Injury   |                                 -1d to STR/RFX/INT governed Dice Pools. The injury will naturally heal over the next few days, or faster if treated actively.                                 |          |        |
-|   Medium Injury   |                          -2d to STR/RFX/INT governed Dice Pools. The injury must be treated relatively soon otherwise further penalties may apply such as infection.                          |          |        |
-|  Serious Injury  |                                                  -3d to STR/RFX/INT governed Dice Pools.  The injury will lead to death in time if untreated.                                                  |          |        |
-|   Fatal Injury   | -4d to STR/RFX/INT governed Dice Pools. The injury will lead to death very soon if untreated. The character inflicted with this injury is Physically Incapacitated (see the Narrative Effect). |          |        |
-| Death Blow Injury |                                                                -5d to STR/RFX/INT governed Dice Pools. The injury causes death.                                                                |          |        |
-
 # Advanced Rules
 
 ## Equipment, Carry Weight, and Weight Classes
@@ -1451,17 +1435,6 @@ For each dice in a character's Lift dice pool the character gains 50 lbs of Carr
 | :--------------: | :--: | :------------: | :--------------------------------: |
 | Equipment Weight | 0 lb | While Equipped |             Equipment             |
 |   Carry Weight   | ? lb |   Indefinite   | +50 lbs Carry Weight per Lift dice |
-
-### Weight Classes
-
-Effects that represent the physical strain of carrying equipment. Some characters will purposefully be in a higher weight class to gain the benefits of heavier armor and weapons, making up for their Carry weight penalty with better gear.
-
-|            Name            |                Desc                |  Duration  |                     Source                     |
-| :------------------------: | :--------------------------------: | :--------: | :--------------------------------------------: |
-|    Weight Class: Light    | -0d to STR/RFX governed Dice Pools | Indefinite | 0% =< Equipment Weight <= 25% of Carry Weight |
-|    Weight Class: Medium    | -1d to STR/RFX governed Dice Pools | Indefinite | 25% < Equipment Weight <= 50% of Carry Weight |
-|    Weight Class: Heavy    | -2d to STR/RFX governed Dice Pools | Indefinite | 50% < Equipment Weight <= 100% of Carry Weight |
-| Weight Class: Overburdened | -4d to STR/RFX governed Dice Pools | Indefinite |    100% < Equipment Weight of Carry Weight    |
 
 ## Effects
 
@@ -1508,16 +1481,44 @@ When representing the contents of a container on a character sheet, a similar ta
 
 Characters will often stash or drop containers during combat as to not be in a heavier Weight Class. This is perfectly acceptable, but it is within the Narrators right to treat these items as fair game to be swiped by the enemy if an opportunity arises, however this might effect their Weight Class as well. Character's wishing to avoid a having their loot stolen can keep it on their backs, by a mount to stash it on, increase their equipment weight, etc...
 
+When representing a container on a character sheet, a similar table as the one below is used.
 
-|  |  |  |  |  |  |
-| - | :-: | :-: | :-: | :-: | - |
+**Backpack - 30 lb container:**
+
+| Name          | # |          Effect          |  LB  | Value | Description |
+| ------------- | :-: | :-----------------------: | :--: | :---: | ----------- |
+| Blowgun       | 1 | Blowgun (+0) (One-handed) |  1  | 10 bc |             |
+| Ring, Mundane | 1 |                          | 0.2 | 30 cc |             |
+| Copper Coin   | 70 |                          | 0.02 | 1 cc |             |
 
 #### Attribute Dice Mod
 
 Adds or subtracts dice for dice pools if they governed by at least one of the Attributes specified.
 
-- Injury
-- Weight Classes
+##### Injury
+
+Injury is handled as part of the narrative with dice penalties being applied per injury to all a character's dice checks. A character is rendered Physically Incapacitated once they've taken a summed 5 or above injury dice.
+
+Typical "status effects" such as being poisoned, frostbitten, bleeding, madness, etc... are handled elegantly through the injury system. For instance, if you were dealt a Serious injury by mild poison mist, then narratively explain it as getting a large breath full. If the character instead was dealt a Serious injury by an extremely lethal poison mist, then narratively it would be explained as only getting a small whiff. The resulting dice penalty acts as your "status effect" debuffing your character until they are resolved. For instance, anti-venom might be able to remove the poison injury or warming up by a fire might reduce hypothermia from the cold.
+
+|       Name       |                                                                                              Desc                                                                                              | Duration | Source |
+| :---------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :----: |
+|   Minor Injury   |                                 -1d to STR/RFX/INT governed Dice Pools. The injury will naturally heal over the next few days, or faster if treated actively.                                 |          |        |
+|   Medium Injury   |                          -2d to STR/RFX/INT governed Dice Pools. The injury must be treated relatively soon otherwise further penalties may apply such as infection.                          |          |        |
+|  Serious Injury  |                                                  -3d to STR/RFX/INT governed Dice Pools.  The injury will lead to death in time if untreated.                                                  |          |        |
+|   Fatal Injury   | -4d to STR/RFX/INT governed Dice Pools. The injury will lead to death very soon if untreated. The character inflicted with this injury is Physically Incapacitated (see the Narrative Effect). |          |        |
+| Death Blow Injury |                                                                -5d to STR/RFX/INT governed Dice Pools. The injury causes death.                                                                |          |        |
+
+##### Weight Classes
+
+Effects that represent the physical strain of carrying equipment. Some characters will purposefully be in a higher weight class to gain the benefits of heavier armor and weapons, making up for their Carry weight penalty with better gear.
+
+|            Name            |                Desc                |  Duration  |                     Source                     |
+| :------------------------: | :--------------------------------: | :--------: | :--------------------------------------------: |
+|    Weight Class: Light    | -0d to STR/RFX governed Dice Pools | Indefinite | 0% =< Equipment Weight <= 25% of Carry Weight |
+|    Weight Class: Medium    | -1d to STR/RFX governed Dice Pools | Indefinite | 25% < Equipment Weight <= 50% of Carry Weight |
+|    Weight Class: Heavy    | -2d to STR/RFX governed Dice Pools | Indefinite | 50% < Equipment Weight <= 100% of Carry Weight |
+| Weight Class: Overburdened | -4d to STR/RFX governed Dice Pools | Indefinite |    100% < Equipment Weight of Carry Weight    |
 
 #### Attribute Level Adjustment
 
