@@ -1,6 +1,9 @@
 name,desc,duration,source
 Level,1,Indefinite,Player Character
 ,,,
+Destiny Resistance,"""Post Roll Destiny Points"" cannot be spent against this character.",Indefinite,Given by The Narrator
+Destiny Immunity,Destiny Points cannot be spent against this character.,Indefinite,Given by The Narrator
+,,,
 Space Vacuum Life Support,Enable the user to survive in the vacuum of space until onboard oxygen depletes.,1 hour,Innate
 ,,,
 Spellcasting Focus,Acts as a Spellcasting Focus for spells.,Indefinite,Innate
@@ -47,6 +50,3 @@ Cold Enchantment,Weapon additionally deals Cold damage.,Indefinite,Innate
 The Anatoli Curse,"The weapon is cursed on an individual, always return to the user no matter how the weapon is disposed. When this item is used in combat, the bearer becomes blood lusted with each subsequent kill, becoming increasingly bestially minded, possibly even attack friends.",Indefinite,Innate
 ,,,
 Light: Glow,Provides 20 ft radius bright light and 40 ft radius dim light.,Indefinite,Innate
-,,,
-Destiny Resistance,"""Post Roll Destiny Points"" cannot be spent against this character.",Indefinite,Given by The Narrator
-Destiny Immunity,Destiny Points cannot be spent against this character.,Indefinite,Given by The Narrator
