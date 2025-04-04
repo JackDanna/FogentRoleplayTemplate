@@ -197,11 +197,11 @@ Resistance: Serious Bleed,-3 to victory levels received from Bleed.,Indefinite,I
 Resistance: Fatal Bleed,-4 to victory levels received from Bleed.,Indefinite,Innate
 Resistance: Complete Bleed,Negate all victory levels received from Bleed.,Indefinite,Innate
 ,,,
-Resistance: Minor Suffocation,-1 to victory levels received from Suffocation.,Indefinite,Innate
-Resistance: Medium Suffocation,-2 to victory levels received from Suffocation.,Indefinite,Innate
-Resistance: Serious Suffocation,-3 to victory levels received from Suffocation.,Indefinite,Innate
-Resistance: Fatal Suffocation,-4 to victory levels received from Suffocation.,Indefinite,Innate
-Resistance: Complete Suffocation,Negate all victory levels received from Suffocation.,Indefinite,Innate
+Resistance: Minor Fatigue,-1 to victory levels received from Fatigue.,Indefinite,Innate
+Resistance: Medium Fatigue,-2 to victory levels received from Fatigue.,Indefinite,Innate
+Resistance: Serious Fatigue,-3 to victory levels received from Fatigue.,Indefinite,Innate
+Resistance: Fatal Fatigue,-4 to victory levels received from Fatigue.,Indefinite,Innate
+Resistance: Complete Fatigue,Negate all victory levels received from Fatigue.,Indefinite,Innate
 ,,,
 Resistance: Minor Psychic,-1 to victory levels received from Psychic.,Indefinite,Innate
 Resistance: Medium Psychic,-2 to victory levels received from Psychic.,Indefinite,Innate
@@ -336,10 +336,10 @@ Weakness: Medium Bleed,+2 to the level of injury received from Bleed.,Indefinite
 Weakness: Serious Bleed,+3 to the level of injury received from Bleed.,Indefinite,Innate
 Weakness: Fatal Bleed,+4 to the level of injury received from Bleed.,Indefinite,Innate
 ,,,
-Weakness: Minor Suffocation,+1 to the level of injury received from Suffocation.,Indefinite,Innate
-Weakness: Medium Suffocation,+2 to the level of injury received from Suffocation.,Indefinite,Innate
-Weakness: Serious Suffocation,+3 to the level of injury received from Suffocation.,Indefinite,Innate
-Weakness: Fatal Suffocation,+4 to the level of injury received from Suffocation.,Indefinite,Innate
+Weakness: Minor Fatigue,+1 to the level of injury received from Fatigue.,Indefinite,Innate
+Weakness: Medium Fatigue,+2 to the level of injury received from Fatigue.,Indefinite,Innate
+Weakness: Serious Fatigue,+3 to the level of injury received from Fatigue.,Indefinite,Innate
+Weakness: Fatal Fatigue,+4 to the level of injury received from Fatigue.,Indefinite,Innate
 ,,,
 Weakness: Minor Psychic,+1 to the level of injury received from Psychic.,Indefinite,Innate
 Weakness: Medium Psychic,+2 to the level of injury received from Psychic.,Indefinite,Innate

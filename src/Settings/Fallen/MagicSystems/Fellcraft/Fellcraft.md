@@ -21,10 +21,10 @@ Fellcrafts that aren't natural to ones genes can be gain by consuming the spinal
 | :--------------------------------------: | :-------------------------------------: | :-----------: | :-----------: |
 |    [Polycraft](./Fellcraft.md#polycraft)    |      Slash, Bludgeon, Hew, Pierce      |     TRUE     |     TRUE     |
 |   [Blazecraft](./Fellcraft.md#blazecraft)   |                  Fire                  |     TRUE     |     TRUE     |
-|   [Hydrocraft](./Fellcraft.md#hydrocraft)   |  Suffocation, Slash, Bludgeon, Pierce  |     TRUE     |     TRUE     |
+|   [Hydrocraft](./Fellcraft.md#hydrocraft)   |  Fatigue, Slash, Bludgeon, Pierce  |     TRUE     |     TRUE     |
 | [Electrocraft](./Fellcraft.md#electrocraft) |                Electric                |     TRUE     |     TRUE     |
 |   [Terracraft](./Fellcraft.md#terracraft)   |      Slash, Bludgeon, Hew, Pierce      |     TRUE     |     TRUE     |
-|    [Galecraft](./Fellcraft.md#galecraft)    | Suffocation, Slash, Bludgeon, Shockwave |     TRUE     |     TRUE     |
+|    [Galecraft](./Fellcraft.md#galecraft)    | Fatigue, Slash, Bludgeon, Shockwave |     TRUE     |     TRUE     |
 |    [Cryocraft](./Fellcraft.md#cryocraft)    |                  Cold                  |     TRUE     |     TRUE     |
 |  [Naturecraft](./Fellcraft.md#naturecraft)  |         Slash, Bludgeon, Pierce         |     TRUE     |     TRUE     |
 |   [Toxincraft](./Fellcraft.md#toxincraft)   |                 Poison                 |     TRUE     |     TRUE     |
@@ -34,7 +34,7 @@ Fellcrafts that aren't natural to ones genes can be gain by consuming the spinal
 |   [Ferracraft](./Fellcraft.md#ferracraft)   |      Slash, Bludgeon, Hew, Pierce      |     TRUE     |     TRUE     |
 |    [Sonocraft](./Fellcraft.md#sonocraft)    |                Shockwave                |     FALSE     |     TRUE     |
 |    [Hemacraft](./Fellcraft.md#hemacraft)    |                  Bleed                  |     TRUE     |     TRUE     |
-|  [Spidercraft](./Fellcraft.md#spidercraft)  |          Suffocation, Bludgeon          |     TRUE     |     TRUE     |
+|  [Spidercraft](./Fellcraft.md#spidercraft)  |          Fatigue, Bludgeon          |     TRUE     |     TRUE     |
 |                Acidcraft                |                  Acid                  |     TRUE     |     TRUE     |
 |                Warpcraft                |                                        |     FALSE     |     TRUE     |
 |             Telekeneticraft             |      Slash, Bludgeon, Hew, Pierce      |     TRUE     |     TRUE     |

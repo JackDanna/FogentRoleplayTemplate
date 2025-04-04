@@ -4,7 +4,7 @@ Blessing,Radiant,TRUE,TRUE
 ,,,
 Polycraft,"Slash, Bludgeon, Hew, Pierce",TRUE,TRUE
 Blazecraft,Fire,TRUE,TRUE
-Hydrocraft,"Suffocation, Slash, Bludgeon, Pierce",TRUE,TRUE
+Hydrocraft,"Fatigue, Slash, Bludgeon, Pierce",TRUE,TRUE
 Electrocraft,Electric,TRUE,TRUE
 Terracraft,"Slash, Bludgeon, Hew, Pierce",TRUE,TRUE
 Galecraft,"Slash, Bludgeon, Shockwave",TRUE,TRUE
@@ -17,7 +17,7 @@ Mindcraft,Psychic,FALSE,TRUE
 Ferracraft,"Slash, Bludgeon, Hew, Pierce",TRUE,TRUE
 Sonocraft,Shockwave,FALSE,TRUE
 Hemacraft,Bleed,TRUE,TRUE
-Spidercraft,"Suffocation, Bludgeon",TRUE,TRUE
+Spidercraft,"Fatigue, Bludgeon",TRUE,TRUE
 Acidcraft,Acid,TRUE,TRUE
 Warpcraft,,FALSE,TRUE
 Telekeneticraft,"Slash, Bludgeon, Hew, Pierce",TRUE,TRUE
@@ -28,7 +28,7 @@ Blizzardcraft,"Cold, Slash, Bludgeon, Pierce",TRUE,TRUE
 ,,,
 Fire Rune,Fire,FALSE,TRUE
 Earth Rune,"Slash, Bludgeon, Hew, Pierce",FALSE,TRUE
-Water Rune,"Suffocation, Slash, Bludgeon, Pierce",FALSE,TRUE
+Water Rune,"Fatigue, Slash, Bludgeon, Pierce",FALSE,TRUE
 Air Rune,"Slash, Bludgeon, Shockwave",FALSE,TRUE
 Electricity Rune,Electric,FALSE,TRUE
 Cold Rune,Cold,FALSE,TRUE
@@ -51,7 +51,7 @@ Sporecraft,Necrotic,TRUE,TRUE
 ,,,
 Body Magic,"Slash, Bludgeon, Hew, Pierce",TRUE,TRUE
 Fire Magic,Fire,TRUE,TRUE
-Water Magic,"Suffocation, Slash, Bludgeon, Pierce",TRUE,TRUE
+Water Magic,"Fatigue, Slash, Bludgeon, Pierce",TRUE,TRUE
 Electricity Magic,Electric,TRUE,TRUE
 Earth Magic,"Slash, Bludgeon, Hew, Pierce",TRUE,TRUE
 Air Magic,"Slash, Bludgeon, Shockwave",TRUE,TRUE

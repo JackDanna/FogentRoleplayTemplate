@@ -1,4 +1,4 @@
-name,desc,duration,source,Slash,Pierce,Bludgeon,Hew,Ballistic,Shockwave,Fire,Electric,Radiant,Acid,Cold,Silver,Poison,Necrotic,Bleed,Suffocation,Psychic,Spiritual
+name,desc,duration,source,Slash,Pierce,Bludgeon,Hew,Ballistic,Shockwave,Fire,Electric,Radiant,Acid,Cold,Silver,Poison,Necrotic,Bleed,Fatigue,Psychic,Spiritual
 Engineering Suit Defense,"Works as Head Armor, Body Armor, Arm Armor, and Leg Armor.",Indefinite,Innate,4,4,4,4,4,4,4,4,4,4,0,0,0,0,0,0,0,0
 Security Suit Defense,"Works as Head Armor, Body Armor, Arm Armor, and Leg Armor.",Indefinite,Innate,5,5,5,5,5,5,5,5,5,5,0,0,0,0,0,0,0,0
 Advanced Suit Defense,"Works as Head Armor, Body Armor, Arm Armor, and Leg Armor.",Indefinite,Innate,6,6,6,6,6,6,6,6,6,6,0,0,0,0,0,0,0,0

@@ -617,7 +617,7 @@ Destiny points are awarded when players perform actions that the narrator wants 
 |   Poison   |                            Caused by poisons or toxins.                            |    Endurance    |
 |  Necrotic  |                         Caused by rot, decay, and undeath.                         |    Endurance    |
 |    Bleed    |                            Caused by the loss of blood.                            |    Endurance    |
-| Suffocation |               Caused by the lack of breathable air such as drowning.               |    Endurance    |
+| Fatigue |               Caused by the lack of nutrition, rest, drinkable water, breathable air, ect...               |    Endurance    |
 |   Psychic   |                              Caused by mental trauma.                              |      Will      |
 |  Spiritual  |           Caused by spiritual sources such as ghosts or divine entities.           |      Will      |
 
@@ -635,7 +635,7 @@ Defense is used to reduce incoming injuries from specific Damage Types by the eq
 
 If a foe has a sufficiently high Defense to certain Damage Types, then the best course of action is to circumvent it. For instance, a knight in full Plate Armor is extremely difficult to injury with Slash damage. In these circumstances, the most efficient way of defeating a person in heavy armor is grappling them or tripping them and holding them down, just like in real life. Another option is to use an attack with a different Damage Type, such as spraying poison mist at them, to completely circumvent there high Slash defense.
 
-|           Name           |                            Desc                            |  Duration  | Source | Slash | Pierce | Bludgeon |  Hew  | Ballistic | Shockwave | Fire | Electric | Radiant | Acid | Cold | Silver | Poison | Necrotic | Bleed | Suffocation | Psychic | Spiritual |
+|           Name           |                            Desc                            |  Duration  | Source | Slash | Pierce | Bludgeon |  Hew  | Ballistic | Shockwave | Fire | Electric | Radiant | Acid | Cold | Silver | Poison | Necrotic | Bleed | Fatigue | Psychic | Spiritual |
 | :-----------------------: | :--------------------------------------------------------: | :--------: | :----: | :---: | :----: | :------: | :---: | :-------: | :-------: | :---: | :------: | :-----: | :---: | :--: | :----: | :----: | :------: | :---: | :---------: | :-----: | :-------: |
 | Engineering Suit Defense | Works as Head Armor, Body Armor, Arm Armor, and Leg Armor. | Indefinite | Innate |   4   |   4   |    4    |   4   |     4     |     4     |   4   |    4    |    4    |   4   |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
 |   Security Suit Defense   | Works as Head Armor, Body Armor, Arm Armor, and Leg Armor. | Indefinite | Innate |   5   |   5   |    5    |   5   |     5     |     5     |   5   |    5    |    5    |   5   |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
@@ -1899,11 +1899,11 @@ Characters can be resistant to certain sources of damage.
 |     Resistance: Fatal Bleed     |      -4 to victory levels received from Bleed.      | Indefinite | Innate |
 |    Resistance: Complete Bleed    |    Negate all victory levels received from Bleed.    | Indefinite | Innate |
 |                                  |                                                      |            |        |
-|  Resistance: Minor Suffocation  |   -1 to victory levels received from Suffocation.   | Indefinite | Innate |
-|  Resistance: Medium Suffocation  |   -2 to victory levels received from Suffocation.   | Indefinite | Innate |
-| Resistance: Serious Suffocation |   -3 to victory levels received from Suffocation.   | Indefinite | Innate |
-|  Resistance: Fatal Suffocation  |   -4 to victory levels received from Suffocation.   | Indefinite | Innate |
-| Resistance: Complete Suffocation | Negate all victory levels received from Suffocation. | Indefinite | Innate |
+|  Resistance: Minor Fatigue  |   -1 to victory levels received from Fatigue.   | Indefinite | Innate |
+|  Resistance: Medium Fatigue  |   -2 to victory levels received from Fatigue.   | Indefinite | Innate |
+| Resistance: Serious Fatigue |   -3 to victory levels received from Fatigue.   | Indefinite | Innate |
+|  Resistance: Fatal Fatigue  |   -4 to victory levels received from Fatigue.   | Indefinite | Innate |
+| Resistance: Complete Fatigue | Negate all victory levels received from Fatigue. | Indefinite | Innate |
 |                                  |                                                      |            |        |
 |    Resistance: Minor Psychic    |     -1 to victory levels received from Psychic.     | Indefinite | Innate |
 |    Resistance: Medium Psychic    |     -2 to victory levels received from Psychic.     | Indefinite | Innate |
@@ -2061,10 +2061,10 @@ Characters can be susceptible to certain sources of damage.
 |    Weakness: Serious Bleed    |    +3 to the level of injury received from Bleed.    | Indefinite | Innate |
 |     Weakness: Fatal Bleed     |    +4 to the level of injury received from Bleed.    | Indefinite | Innate |
 |                              |                                                      |            |        |
-|  Weakness: Minor Suffocation  | +1 to the level of injury received from Suffocation. | Indefinite | Innate |
-| Weakness: Medium Suffocation | +2 to the level of injury received from Suffocation. | Indefinite | Innate |
-| Weakness: Serious Suffocation | +3 to the level of injury received from Suffocation. | Indefinite | Innate |
-|  Weakness: Fatal Suffocation  | +4 to the level of injury received from Suffocation. | Indefinite | Innate |
+|  Weakness: Minor Fatigue  | +1 to the level of injury received from Fatigue. | Indefinite | Innate |
+| Weakness: Medium Fatigue | +2 to the level of injury received from Fatigue. | Indefinite | Innate |
+| Weakness: Serious Fatigue | +3 to the level of injury received from Fatigue. | Indefinite | Innate |
+|  Weakness: Fatal Fatigue  | +4 to the level of injury received from Fatigue. | Indefinite | Innate |
 |                              |                                                      |            |        |
 |    Weakness: Minor Psychic    |   +1 to the level of injury received from Psychic.   | Indefinite | Innate |
 |   Weakness: Medium Psychic   |   +2 to the level of injury received from Psychic.   | Indefinite | Innate |
@@ -2323,10 +2323,10 @@ Determines if the Magic Skill in question is capable of affecting something at r
 | :-------------------------------------: | :-------------------------------------: | :-----------: | :-----------: |
 | Bodily Magic (Flesh, Web, Bone, etc...) |      Slash, Bludgeon, Hew, Pierce      |     TRUE     |     TRUE     |
 |           Fire or Heat Magic           |                  Fire                  |     TRUE     |     TRUE     |
-|               Water Magic               |  Suffocation, Slash, Bludgeon, Pierce  |     TRUE     |     TRUE     |
+|               Water Magic               |  Fatigue, Slash, Bludgeon, Pierce  |     TRUE     |     TRUE     |
 |            Electricity Magic            |                Electric                |     TRUE     |     TRUE     |
 |               Earth Magic               |      Slash, Bludgeon, Hew, Pierce      |     TRUE     |     TRUE     |
-|                Air Magic                | Suffocation, Slash, Bludgeon, Shockwave |     TRUE     |     TRUE     |
+|                Air Magic                | Fatigue, Slash, Bludgeon, Shockwave |     TRUE     |     TRUE     |
 |               Cold Magic               |                  Cold                  |     TRUE     |     TRUE     |
 |          Nature or Plant Magic          |         Slash, Bludgeon, Pierce         |     TRUE     |     TRUE     |
 |              Poison Magic              |                 Poison                 |     TRUE     |     TRUE     |

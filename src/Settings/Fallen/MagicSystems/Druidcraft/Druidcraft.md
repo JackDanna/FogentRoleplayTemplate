@@ -14,7 +14,7 @@ Naturecraft draws it's power from connection to the natural world.
 | :------------------------------------------: | :----------------------------------: | :-----------: | :-----------: |
 | Shapeshift Magic (Flesh, Web, Bone, etc...) |     Slash, Bludgeon, Hew, Pierce     |     TRUE     |     TRUE     |
 |                  Fire Magic                  |                 Fire                 |     TRUE     |     TRUE     |
-|                 Water Magic                 | Suffocation, Slash, Bludgeon, Pierce |     TRUE     |     TRUE     |
+|                 Water Magic                 | Fatigue, Slash, Bludgeon, Pierce |     TRUE     |     TRUE     |
 |               Lightning Magic               |               Electric               |     TRUE     |     TRUE     |
 |                 Earth Magic                 |     Slash, Bludgeon, Hew, Pierce     |     TRUE     |     TRUE     |
 |                  Air Magic                  |      Slash, Bludgeon, Shockwave      |     TRUE     |     TRUE     |
