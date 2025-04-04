@@ -5,5 +5,5 @@ name,desc,duration,source,weightCapacityOption,volumeCapacityOption,includeConte
 30 lb container,"30 lbs weight capacity and 1 ft^3 volume, such as a Backpack.",Indefinite,Innate,30,1,TRUE
 12 lb container,"12 lbs weight capacity and 0.4 ft^3 volume, such as a Stachel.",Indefinite,Innate,12,0.4,TRUE
 6 lb container,"6 lbs weight capacity and 0.2 ft^3 volume, such as a Pouch.",Indefinite,Innate,6,0.2,TRUE
-Equipment,Currently equipped items.,Indefinite,Innate,None,None,TRUE
+Equipment,Represent items a character has on their person in an easy-to-reach placement or that are being worn. This generally covers things needed in combat such as weapons, armor, quivers/arrows, potions, etc...,Indefinite,Innate,None,None,TRUE
 Off Person Stash,"A stash of items. For practical purposes, unlimited weight capacity and volume.",Indefinite,Storage Location: ?,None,None,FALSE

@@ -1419,12 +1419,6 @@ The only victory level outcome a Evasion Roll can achieve is exiting a grapple. 
 
 # Advanced Rules
 
-## Equipment, Carry Weight, and Weight Classes
-
-### Equipment
-
-Represent items a character has on their person in an easy-to-reach placement or that are being worn. This generally covers things needed in combat such as weapons, armor, quivers/arrows, potions, etc...
-
 ### Carry Weight
 
 Carry Weight represents a character's ability to carry heavier equipment while still being able to move semi-normally depending on weight class.
@@ -1458,16 +1452,16 @@ Pouches, satchel, sacks, backpacks, chest, etc... are all consider containers. E
 
 **Include Contents in Weight Calculation:** If true, then the contents of this container would be included in it's' total weight, such as a mundane backpack. If false, then then the contents of this container wouldn't be included in the total weight, such as a bag of holding were it's contents are stored in a pocket dimension.
 
-| Name             |                                      Desc                                      |  Duration  |       Source       | Weight Capacity | Volume | Include Contents In Weight Calculation |
-| ---------------- | :-----------------------------------------------------------------------------: | :--------: | :-----------------: | :-------------: | :----: | :------------------------------------: |
-| 300 lb container |          300 lbs weight capacity and 12 ft^3 volume, such as a Chest.          | Indefinite |       Innate       |       300       |   12   |                  TRUE                  |
-| 50 lb container  |        50 lbs weight capacity. and 1.6 ft^3 volume, such as Saddle Bags.        | Indefinite |       Innate       |       50       |  1.6  |                  TRUE                  |
-| 35 lb container  |     35 lbs weight capacity and 1.2 ft^3 volume, such as a Quality Backpack.     | Indefinite |       Innate       |       35       |  1.2  |                  TRUE                  |
-| 30 lb container  |          30 lbs weight capacity and 1 ft^3 volume, such as a Backpack.          | Indefinite |       Innate       |       30       |   1   |                  TRUE                  |
-| 12 lb container  |         12 lbs weight capacity and 0.4 ft^3 volume, such as a Stachel.         | Indefinite |       Innate       |       12       |  0.4  |                  TRUE                  |
-| 6 lb container   |           6 lbs weight capacity and 0.2 ft^3 volume, such as a Pouch.           | Indefinite |       Innate       |        6        |  0.2  |                  TRUE                  |
-| Equipment        |                            Currently equipped items.                            | Indefinite |       Innate       |      None      |  None  |                  TRUE                  |
-| Off Person Stash | A stash of items. For practical purposes, unlimited weight capacity and volume. | Indefinite | Storage Location: ? |      None      |  None  |                 FALSE                 |
+| Name             |                                                                                                    Desc                                                                                                    |  Duration  |       Source       | Weight Capacity | Volume | Include Contents In Weight Calculation |
+| ---------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: | :-----------------: | :-------------: | :----: | :------------------------------------: |
+| 300 lb container |                                                                        300 lbs weight capacity and 12 ft^3 volume, such as a Chest.                                                                        | Indefinite |       Innate       |       300       |   12   |                  TRUE                  |
+| 50 lb container  |                                                                      50 lbs weight capacity. and 1.6 ft^3 volume, such as Saddle Bags.                                                                      | Indefinite |       Innate       |       50       |  1.6  |                  TRUE                  |
+| 35 lb container  |                                                                   35 lbs weight capacity and 1.2 ft^3 volume, such as a Quality Backpack.                                                                   | Indefinite |       Innate       |       35       |  1.2  |                  TRUE                  |
+| 30 lb container  |                                                                        30 lbs weight capacity and 1 ft^3 volume, such as a Backpack.                                                                        | Indefinite |       Innate       |       30       |   1   |                  TRUE                  |
+| 12 lb container  |                                                                       12 lbs weight capacity and 0.4 ft^3 volume, such as a Stachel.                                                                       | Indefinite |       Innate       |       12       |  0.4  |                  TRUE                  |
+| 6 lb container   |                                                                         6 lbs weight capacity and 0.2 ft^3 volume, such as a Pouch.                                                                         | Indefinite |       Innate       |        6        |  0.2  |                  TRUE                  |
+| Equipment        | Represent items a character has on their person in an easy-to-reach placement or that are being worn. This generally covers things needed in combat such as weapons, armor, quivers/arrows, potions, etc... | Indefinite |       Innate       |      None      |  None  |                  TRUE                  |
+| Off Person Stash |                                                               A stash of items. For practical purposes, unlimited weight capacity and volume.                                                               | Indefinite | Storage Location: ? |      None      |  None  |                 FALSE                 |
 
 When representing the contents of a container on a character sheet, a similar table as the one below is used.
 
