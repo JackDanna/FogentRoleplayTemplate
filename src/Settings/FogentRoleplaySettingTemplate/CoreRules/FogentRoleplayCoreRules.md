@@ -1417,29 +1417,7 @@ Any levels over the defender's Evasion Roll wins count as victories for the atta
 
 The only victory level outcome a Evasion Roll can achieve is exiting a grapple. A Combat Roll and Evasion Rolls can both be made in a round.
 
-## Injury
-
-### Injury
-
-Injury is handled as part of the narrative with dice penalties being applied per injury to all a character's dice checks. A character is rendered Physically Incapacitated once they've taken a summed 5 or above injury dice.
-
-Typical "status effects" such as being poisoned, frostbitten, bleeding, madness, etc... are handled elegantly through the injury system. For instance, if you were dealt a Serious injury by mild poison mist, then narratively explain it as getting a large breath full. If the character instead was dealt a Serious injury by an extremely lethal poison mist, then narratively it would be explained as only getting a small whiff. The resulting dice penalty acts as your "status effect" debuffing your character until they are resolved. For instance, anti-venom might be able to remove the poison injury or warming up by a fire might reduce hypothermia from the cold.
-
-|       Name       |                                                                                              Desc                                                                                              | Duration | Source |
-| :---------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :----: |
-|   Minor Injury   |                                 -1d to STR/RFX/INT governed Dice Pools. The injury will naturally heal over the next few days, or faster if treated actively.                                 |          |        |
-|   Medium Injury   |                          -2d to STR/RFX/INT governed Dice Pools. The injury must be treated relatively soon otherwise further penalties may apply such as infection.                          |          |        |
-|  Serious Injury  |                                                  -3d to STR/RFX/INT governed Dice Pools.  The injury will lead to death in time if untreated.                                                  |          |        |
-|   Fatal Injury   | -4d to STR/RFX/INT governed Dice Pools. The injury will lead to death very soon if untreated. The character inflicted with this injury is Physically Incapacitated (see the Narrative Effect). |          |        |
-| Death Blow Injury |                                                                -5d to STR/RFX/INT governed Dice Pools. The injury causes death.                                                                |          |        |
-
 # Advanced Rules
-
-## Equipment, Carry Weight, and Weight Classes
-
-### Equipment
-
-Represent items a character has on their person in an easy-to-reach placement or that are being worn. This generally covers things needed in combat such as weapons, armor, quivers/arrows, potions, etc...
 
 ### Carry Weight
 
@@ -1451,17 +1429,6 @@ For each dice in a character's Lift dice pool the character gains 50 lbs of Carr
 | :--------------: | :--: | :------------: | :--------------------------------: |
 | Equipment Weight | 0 lb | While Equipped |             Equipment             |
 |   Carry Weight   | ? lb |   Indefinite   | +50 lbs Carry Weight per Lift dice |
-
-### Weight Classes
-
-Effects that represent the physical strain of carrying equipment. Some characters will purposefully be in a higher weight class to gain the benefits of heavier armor and weapons, making up for their Carry weight penalty with better gear.
-
-|            Name            |                Desc                |  Duration  |                     Source                     |
-| :------------------------: | :--------------------------------: | :--------: | :--------------------------------------------: |
-|    Weight Class: Light    | -0d to STR/RFX governed Dice Pools | Indefinite | 0% =< Equipment Weight <= 25% of Carry Weight |
-|    Weight Class: Medium    | -1d to STR/RFX governed Dice Pools | Indefinite | 25% < Equipment Weight <= 50% of Carry Weight |
-|    Weight Class: Heavy    | -2d to STR/RFX governed Dice Pools | Indefinite | 50% < Equipment Weight <= 100% of Carry Weight |
-| Weight Class: Overburdened | -4d to STR/RFX governed Dice Pools | Indefinite |    100% < Equipment Weight of Carry Weight    |
 
 ## Effects
 
@@ -1485,16 +1452,16 @@ Pouches, satchel, sacks, backpacks, chest, etc... are all consider containers. E
 
 **Include Contents in Weight Calculation:** If true, then the contents of this container would be included in it's' total weight, such as a mundane backpack. If false, then then the contents of this container wouldn't be included in the total weight, such as a bag of holding were it's contents are stored in a pocket dimension.
 
-| Name             |                                      Desc                                      |  Duration  |       Source       | Weight Capacity | Volume | Include Contents In Weight Calculation |
-| ---------------- | :-----------------------------------------------------------------------------: | :--------: | :-----------------: | :-------------: | :----: | :------------------------------------: |
-| 300 lb container |          300 lbs weight capacity and 12 ft^3 volume, such as a Chest.          | Indefinite |       Innate       |       300       |   12   |                  TRUE                  |
-| 50 lb container  |        50 lbs weight capacity. and 1.6 ft^3 volume, such as Saddle Bags.        | Indefinite |       Innate       |       50       |  1.6  |                  TRUE                  |
-| 35 lb container  |     35 lbs weight capacity and 1.2 ft^3 volume, such as a Quality Backpack.     | Indefinite |       Innate       |       35       |  1.2  |                  TRUE                  |
-| 30 lb container  |          30 lbs weight capacity and 1 ft^3 volume, such as a Backpack.          | Indefinite |       Innate       |       30       |   1   |                  TRUE                  |
-| 12 lb container  |         12 lbs weight capacity and 0.4 ft^3 volume, such as a Stachel.         | Indefinite |       Innate       |       12       |  0.4  |                  TRUE                  |
-| 6 lb container   |           6 lbs weight capacity and 0.2 ft^3 volume, such as a Pouch.           | Indefinite |       Innate       |        6        |  0.2  |                  TRUE                  |
-| Equipment        |                            Currently equipped items.                            | Indefinite |       Innate       |      None      |  None  |                  TRUE                  |
-| Off Person Stash | A stash of items. For practical purposes, unlimited weight capacity and volume. | Indefinite | Storage Location: ? |      None      |  None  |                 FALSE                 |
+| Name             |                                                                                                    Desc                                                                                                    |  Duration  |       Source       | Weight Capacity | Volume | Include Contents In Weight Calculation |
+| ---------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: | :-----------------: | :-------------: | :----: | :------------------------------------: |
+| 300 lb container |                                                                        300 lbs weight capacity and 12 ft^3 volume, such as a Chest.                                                                        | Indefinite |       Innate       |       300       |   12   |                  TRUE                  |
+| 50 lb container  |                                                                      50 lbs weight capacity. and 1.6 ft^3 volume, such as Saddle Bags.                                                                      | Indefinite |       Innate       |       50       |  1.6  |                  TRUE                  |
+| 35 lb container  |                                                                   35 lbs weight capacity and 1.2 ft^3 volume, such as a Quality Backpack.                                                                   | Indefinite |       Innate       |       35       |  1.2  |                  TRUE                  |
+| 30 lb container  |                                                                        30 lbs weight capacity and 1 ft^3 volume, such as a Backpack.                                                                        | Indefinite |       Innate       |       30       |   1   |                  TRUE                  |
+| 12 lb container  |                                                                       12 lbs weight capacity and 0.4 ft^3 volume, such as a Satchel.                                                                       | Indefinite |       Innate       |       12       |  0.4  |                  TRUE                  |
+| 6 lb container   |                                                                         6 lbs weight capacity and 0.2 ft^3 volume, such as a Pouch.                                                                         | Indefinite |       Innate       |        6        |  0.2  |                  TRUE                  |
+| Equipment        | Represent items a character has on their person in an easy-to-reach placement or that are being worn. This generally covers things needed in combat such as weapons, armor, quivers/arrows, potions, etc... | Indefinite |       Innate       |      None      |  None  |                  TRUE                  |
+| Off Person Stash |                                                               A stash of items. For practical purposes, unlimited weight capacity and volume.                                                               | Indefinite | Storage Location: ? |      None      |  None  |                 FALSE                 |
 
 When representing the contents of a container on a character sheet, a similar table as the one below is used.
 
@@ -1508,16 +1475,44 @@ When representing the contents of a container on a character sheet, a similar ta
 
 Characters will often stash or drop containers during combat as to not be in a heavier Weight Class. This is perfectly acceptable, but it is within the Narrators right to treat these items as fair game to be swiped by the enemy if an opportunity arises, however this might effect their Weight Class as well. Character's wishing to avoid a having their loot stolen can keep it on their backs, by a mount to stash it on, increase their equipment weight, etc...
 
+When representing a container on a character sheet, a similar table as the one below is used.
 
-|  |  |  |  |  |  |
-| - | :-: | :-: | :-: | :-: | - |
+**Backpack - 30 lb container:**
+
+| Name          | # |          Effect          |  LB  | Value | Description |
+| ------------- | :-: | :-----------------------: | :--: | :---: | ----------- |
+| Blowgun       | 1 | Blowgun (+0) (One-handed) |  1  | 10 bc |             |
+| Ring, Mundane | 1 |                          | 0.2 | 30 cc |             |
+| Copper Coin   | 70 |                          | 0.02 | 1 cc |             |
 
 #### Attribute Dice Mod
 
 Adds or subtracts dice for dice pools if they governed by at least one of the Attributes specified.
 
-- Injury
-- Weight Classes
+**Attributes To Effect:** If any skill is governed by at least one of the attribute listed, than apply the Dice Pool Mod to that Skill's Dice Pool.
+
+**Dice Pool Mod:** The Dice Pool Mod that will be applied to a Dice Pool.
+
+|            Name            |                                                                                              Desc                                                                                              |        Duration        |                     Source                     | Attributes To Effect | Dice Pool Mod |
+| :------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------: | :--------------------------------------------: | :------------------: | :-----------: |
+|        Minor Injury        |                                 -1d to STR/RFX/INT governed Dice Pools. The injury will naturally heal over the next few days, or faster if treated actively.                                 |    Days if untreated    |                Source of Injury                |    STR, RFX, INT    |      -1      |
+|       Medium Injury       |                          -2d to STR/RFX/INT governed Dice Pools. The injury must be treated relatively soon otherwise further penalties may apply such as infection.                          |   Weeks if untreated   |                Source of Injury                |    STR, RFX, INT    |      -2      |
+|       Serious Injury       |                                                  -3d to STR/RFX/INT governed Dice Pools.  The injury will lead to death in time if untreated.                                                  |   Months if untreated   |                Source of Injury                |    STR, RFX, INT    |      -3      |
+|        Fatal Injury        | -4d to STR/RFX/INT governed Dice Pools. The injury will lead to death very soon if untreated. The character inflicted with this injury is Physically Incapacitated (see the Narrative Effect). | Indefinite if untreated |                Source of Injury                |    STR, RFX, INT    |      -4      |
+|     Death Blow Injury     |                                                                -5d to STR/RFX/INT governed Dice Pools. The injury causes death.                                                                |       Indefinite       |                Source of Injury                |    STR, RFX, INT    |      -5      |
+|                            |                                                                                                                                                                                                |                        |                                                |                      |              |
+|    Weight Class: Light    |                                                                               -0d to STR/RFX governed Dice Pools                                                                               |       Indefinite       | 0% =< Equipment Weight <= 25% of Carry Weight |       STR, RFX       |      -0      |
+|    Weight Class: Medium    |                                                                               -1d to STR/RFX governed Dice Pools                                                                               |       Indefinite       | 25% < Equipment Weight <= 50% of Carry Weight |       STR, RFX       |      -1      |
+|    Weight Class: Heavy    |                                                                               -2d to STR/RFX governed Dice Pools                                                                               |       Indefinite       | 50% < Equipment Weight <= 100% of Carry Weight |       STR, RFX       |      -2      |
+| Weight Class: Overburdened |                                                                               -4d to STR/RFX governed Dice Pools                                                                               |       Indefinite       |    100% < Equipment Weight of Carry Weight    |       STR, RFX       |      -4      |
+
+**Injury:**
+
+Injury is handled as part of the narrative with dice penalties being applied per injury to all a character's dice checks. A character is rendered Physically Incapacitated once they've taken a summed 5 or above injury dice. Typical "status effects" such as being poisoned, frostbitten, bleeding, madness, etc... are handled elegantly through the injury system. For instance, if you were dealt a Serious injury by mild poison mist, then narratively explain it as getting a large breath full. If the character instead was dealt a Serious injury by an extremely lethal poison mist, then narratively it would be explained as only getting a small whiff. The resulting dice penalty acts as your "status effect" debuffing your character until they are resolved. For instance, anti-venom might be able to remove the poison injury or warming up by a fire might reduce hypothermia from the cold.
+
+**Weight Class:**
+
+Represent the physical strain of carrying equipment. Some characters will purposefully be in a higher weight class to gain the benefits of heavier armor and weapons, making up for their Carry weight penalty with better gear.
 
 #### Attribute Level Adjustment
 
@@ -1689,8 +1684,8 @@ Cover: There are three degrees of cover. If a target is behind multiple sources 
 |         Combat Modifier: Dash         |                                                                                                                                                                                                                           Instead of engaging in a Combat Roll, a character can choose to focus purely on their movement, doubling their Movement Speed. They can still perform an Evasion Roll.                                                                                                                                                                                                                           |  1 round  |    Purely focusing on movement    |
 |   Combat Modifier: Ranged vs Melee   |                                                                                                                                                                                            When a character is making a ranged Combat Roll vs a melee Combat Roll, they gain Disadvantage on their ranged Combat Roll if they are within range of an opponent who is targeting them with a melee Combat Roll during that round.                                                                                                                                                                                            | Indefinite |    Melee combatant within range    |
 | Combat Modifier: Stationary Shooting |                                                                                                                                                         Remain stationary for an entire round to gain a more stable base for ranged Combat Rolls. Advantage on all of ranged Combat Rolls for that round, except against opponents engaging the character with a Melee or Reach Range Combat Roll. Due to being a stationary target, Disadvantage on Evasion Roll.                                                                                                                                                         |  1 round  |       Stable firing position       |
-|     Combat Modifier: High Ground     |                                                          Advantage to Combat Rolls received through achieving a height advantage against an opponent, IE standing on a table, riding on a mount, or attacking an prone opponent with a melee weapon. High ground for ranged attacks, must have a more significant height differential than for melee attacks, such as shooting from a climbed tree or atop a castle wall. Melee Combat Rolls (Melee or Reach Ranges) made by a standing character against a Prone character have the High Ground combat modifier.                                                          | Indefnite |     Gaining a height advantage     |
-|      Combat Modifier: Off Guard      |                                                                                                                                                                                                                    Disadvantage to Combat Rolls and Evasion Rolls received when a character is actively distracted by something else such as picking a lock, hacking a terminal, being distracted, etc.                                                                                                                                                                                                                    | Indefnite |    Distracted by something else    |
+|     Combat Modifier: High Ground     |                                                          Advantage to Combat Rolls received through achieving a height advantage against an opponent, IE standing on a table, riding on a mount, or attacking an prone opponent with a melee weapon. High ground for ranged attacks, must have a more significant height differential than for melee attacks, such as shooting from a climbed tree or atop a castle wall. Melee Combat Rolls (Melee or Reach Ranges) made by a standing character against a Prone character have the High Ground combat modifier.                                                          | Indefinite |     Gaining a height advantage     |
+|      Combat Modifier: Off Guard      |                                                                                                                                                                                                                    Disadvantage to Combat Rolls and Evasion Rolls received when a character is actively distracted by something else such as picking a lock, hacking a terminal, being distracted, etc.                                                                                                                                                                                                                    | Indefinite |    Distracted by something else    |
 |                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |            |                                    |
 |      Combat Modifier: Half Cover      |                                                                                                                  A target can benefit from cover only when an attack or other effect originates on the opposite side of the cover. A target has half cover if an obstacle blocks at least half of its body. The obstacle might be a low wall, a large piece of furniture, a narrow tree trunk, or a character, whether that creature is an enemy or a friend. Gains Minor Resistance to all damage types.                                                                                                                  | Indefinite | Tree trunks, walls, barriers, ect. |
 | Combat Modifier: Three-quarters Cover |                                                                                                                                            A target can benefit from cover only when an attack or other effect originates on the opposite side of the cover. A target has three-quarters cover if about three-quarters of it is covered by an obstacle. The obstacle might be a portcullis, an arrow slit, or a thick tree trunk. Gains Serious Resistance to all damage types.                                                                                                                                            | Indefinite | Tree trunks, walls, barriers, ect. |
