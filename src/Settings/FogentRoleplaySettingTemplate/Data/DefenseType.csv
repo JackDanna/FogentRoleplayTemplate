@@ -1,5 +1,5 @@
 name,governingCoreSkill,damageTypesCovered
 Physical,None,"Slash, Pierce, Bludgeon, Hew, Shockwave, Fire, Electric, Radiant, Acid"
-Bodily,Endurance,"Cold, Silver, Poison, Necrotic, Bleed, Suffocation"
+Bodily,Endurance,"Cold, Silver, Poison, Necrotic, Bleed, Fatigue"
 Mental,Willpower,Psychic
 Soul,Willpower,Spiritual
