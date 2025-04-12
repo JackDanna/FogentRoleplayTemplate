@@ -1,5 +1,5 @@
 name,bottomPercentOption,topPercentOption,attributeDiceModEffect
-Light,None,0.25,Weight Class: Light
-Medium,0.25,0.5,Weight Class: Medium
-Heavy,0.5,1,Weight Class: Heavy
-Overburdened,1,None,Weight Class: Overburdened
+Light,None,25.0,Weight Class: Light
+Medium,25.0,50.0,Weight Class: Medium
+Heavy,50.0,100.0,Weight Class: Heavy
+Overburdened,100.0,None,Weight Class: Overburdened

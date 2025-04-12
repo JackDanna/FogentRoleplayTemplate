@@ -1464,10 +1464,10 @@ Each Weight Class corresponds to an Attribute Dice Mod Effect that will be appli
 
 |     Name     | Bottom Percent Option | Top Percent Option | Attribute Dice Mod Effect |
 | :----------: | :-------------------: | :----------------: | :------------------------: |
-|    Light    |         None         |        0.25        |    Weight Class: Light    |
-|    Medium    |         0.25         |        0.5        |    Weight Class: Medium    |
-|    Heavy    |          0.5          |         1         |    Weight Class: Heavy    |
-| Overburdened |           1           |        None        | Weight Class: Overburdened |
+|    Light    |         None         |        25.0        |    Weight Class: Light    |
+|    Medium    |         25.0         |        50.0        |    Weight Class: Medium    |
+|    Heavy    |         50.0         |       100.0       |    Weight Class: Heavy    |
+| Overburdened |         100.0         |        None        | Weight Class: Overburdened |
 
 **Example:**
 
@@ -1477,7 +1477,7 @@ First we calculate the Max Carry Weight, which would be ((3 * 50) + 0) = 150.
 
 Next, we need to determine what percentage of the character's Max Carry Weight their equipment currently taking up, which would be (30 / 150) = 20%.
 
-Therefore, since 20% is less than or equal to 25%, the character would have a Weight Class of "Light", which would apply the "Weight Class: Light" Attribute Dice Mod Effect.
+Therefore, since 20% is less than or equal to 25.0%, the character would have a Weight Class of "Light", which would apply the "Weight Class: Light" Attribute Dice Mod Effect.
 
 #### Containers
 
