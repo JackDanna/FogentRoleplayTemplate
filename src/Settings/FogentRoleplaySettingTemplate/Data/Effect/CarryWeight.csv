@@ -1,0 +1,2 @@
+name,desc,duration,source,governingCoreSkillName,carryWeightIncreasePerCoreSkillDice,weightClasses
+Humaniod Carry Weight,This is the desc,Indefinite,Innate,Lift,50,"Light, Medium, Heavy, Overburdened"
