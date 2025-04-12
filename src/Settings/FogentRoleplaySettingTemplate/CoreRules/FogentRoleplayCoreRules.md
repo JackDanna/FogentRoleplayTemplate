@@ -1016,7 +1016,7 @@ Describes a type of resource, which in ammo's case usually describes which weapo
 
 For example, a "Light Arrow - Standard" and a "Light Arrow - Wounding" both share the Resource Type "Light Arrow". Therefore, any Combat Roll that has an Resource Type of "Light Arrow" could use either of these arrows.
 
-### Dice Pool Mod
+### Dice Pool Modifier
 
 Represent either an addition or subtraction of dice to the Combat Roll Dice Pool in which this Ammo is being used. Used to represent Ammo that significantly modifies the combat effectiveness of the Combat Roll.
 
@@ -1052,7 +1052,7 @@ If "None", than use the Combat Roll's Area Of Effect this Ammo is being used wit
 
 This can represent a bomb arrow, an explosive rounds, ect...
 
-|                   Name                   |         Resource Type         | Dice Pool Mod | Base Dice Tier Adjustment | Penetration Adjustment |  Damage Types  | Range Option | Area Of Effect Option |
+|                   Name                   |         Resource Type         | Dice Pool Modifier | Base Dice Tier Adjustment | Penetration Adjustment |  Damage Types  | Range Option | Area Of Effect Option |
 | :---------------------------------------: | :----------------------------: | :-----------: | :-----------------------: | :--------------------: | :-------------: | :----------: | :-------------------: |
 |          Light Arrow - Standard          |          Light Arrow          |     +0d6     |            +0            |           0           |     Pierce     |     None     |         None         |
 |          Light Arrow - Wounding          |          Light Arrow          |     +0d6     |            +1            |           0           |  Pierce, Bleed  |     None     |         None         |
@@ -1135,7 +1135,7 @@ Two hands or equivalent appendages are being used. For characters with only two 
 
 One hand is being used on a main weapon and the other hand is being used on another independent weapon. Only for weapons that wouldn't encumber the user if one were held in each hand (generally Medium to small sized weapons). To dual wield, a character must have at least one skill point in both of the weapons held.
 
-### Dice Pool Mod
+### Dice Pool Modifier
 
 Represent either an addition or subtraction of dice to the Combat Roll Dice Pool. Used to represent how significant of a force multiplier a Combat Roll is. The more effective the Combat Roll, the larger the dice pool modification.
 
@@ -1328,7 +1328,7 @@ Describes where this Combat Roll is coming from. If it is coming from an item th
 
 ### Combat Roll Dice Pool
 
-A Combat Roll Dice Pool is the result of the Governing Skill Dice Pool modified by the Combat Roll's "Dice Pool Mod" and "Base Dice Tier Adjustment" ( including the same stats on any Ammo being used as part of the Combat Roll ). This Dice Pool represent's the character's effectiveness in combat.
+A Combat Roll Dice Pool is the result of the Governing Skill Dice Pool modified by the Combat Roll's "Dice Pool Modifier" and "Base Dice Tier Adjustment" ( including the same stats on any Ammo being used as part of the Combat Roll ). This Dice Pool represent's the character's effectiveness in combat.
 
 - +Base Dice (defaults to 3d6, varies with Base Dice Tier Adjustments from the Combat Roll and Ammo)
 - +/- 1d6 per Weapon Skill
@@ -1526,11 +1526,11 @@ When representing a container on a character sheet, a similar table as the one b
 
 Adds or subtracts dice for dice pools if they governed by at least one of the Attributes specified.
 
-**Attributes To Effect:** If any skill is governed by at least one of the attribute listed, than apply the Dice Pool Mod to that Skill's Dice Pool.
+**Attributes To Effect:** If any skill is governed by at least one of the attribute listed, than apply the Dice Pool Modifier to that Skill's Dice Pool.
 
-**Dice Pool Mod:** The Dice Pool Mod that will be applied to a Dice Pool.
+**Dice Pool Modifier:** The Dice Pool Modifier that will be applied to a Dice Pool.
 
-|            Name            |                                                                                              Description                                                                                              |        Duration        |                     Source                     | Attributes To Effect | Dice Pool Mod |
+|            Name            |                                                                                              Description                                                                                              |        Duration        |                     Source                     | Attributes To Effect | Dice Pool Modifier |
 | :------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------: | :--------------------------------------------: | :------------------: | :-----------: |
 |        Minor Injury        |                                 -1d to STR/RFX/INT governed Dice Pools. The injury will naturally heal over the next few days, or faster if treated actively.                                 |    Days if untreated    |                Source of Injury                |    STR, RFX, INT    |      -1      |
 |       Medium Injury       |                          -2d to STR/RFX/INT governed Dice Pools. The injury must be treated relatively soon otherwise further penalties may apply such as infection.                          |   Weeks if untreated   |                Source of Injury                |    STR, RFX, INT    |      -2      |
