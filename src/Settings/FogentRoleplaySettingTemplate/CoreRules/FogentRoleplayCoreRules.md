@@ -1458,9 +1458,7 @@ Max Carry Weight = (Max Carry Weight Base) + ((Amount of Dice in Governing Skill
 
 **Max Carry Weight Per Dice:** The amount of additional Max Carry Weight per dice in the governing skill's dice pool.
 
-**Weight Classes:**
-
-For a Carry Weight Effect, Weight Classes represent a the "classes" a character falls into depending on the percentage of their Max Carry Weight they are currently carrying. Each Weight Class corresponds to an Attribute Dice Mod Effect that will be applied. Each Attribute Dice Mod Effect will almost always effect the same Attributes that Movement Speed relies on, meaning heavier Weight Classes slow a character.
+**Weight Classes:** For a Carry Weight Effect, Weight Classes represent a the "classes" a character falls into depending on the percentage of their Max Carry Weight they are currently carrying. Each Weight Class corresponds to an Attribute Dice Mod Effect that will be applied. Each Attribute Dice Mod Effect will almost always effect the same Attributes that Movement Speed relies on, meaning heavier Weight Classes slow a character.
 
 |     Name     | Bottom Percent Option | Top Percent Option | Attribute Dice Mod Effect |
 | :----------: | :-------------------: | :----------------: | :------------------------: |
