@@ -558,7 +558,7 @@ The Narrator agrees, setting the assist to CL 3 due to the slippery oil patches 
 
 Base dice are always represented by 3 dice, which by default are 3d6. However, base dice can change for better or worse depending on a Base Dice Tier.
 
-| Level | Base Dice | Item Quality Description |
+| Tier | Base Dice | Item Quality Description |
 | :---: | :--------: | :----------------------: |
 |  -4  |    0d6    |          Broken          |
 |  -3  |    3d4    |       Compromised       |
@@ -1024,9 +1024,9 @@ For example, a bomb arrow is significantly more dangerous than a standard arrow,
 
 ### Base Dice Tier Adjustment
 
-Adjusts the Base Dice Tier level for the Combat Roll the Ammo is being used with. Used to represent Ammo that adjusts the consistency and reliability of the Combat Roll.
+Adjusts the Base Dice Tier's tier for the Combat Roll the Ammo is being used with. Used to represent Ammo that adjusts the consistency and reliability of the Combat Roll.
 
-For example, let's say a character has a "Light Bow (+0) (Two-handed)" Combat Roll (which has a level 0 Base Dice Tier meaning it's Base Dice would be 3d6 unless otherwise adjusted). If the character were to use a "Light Arrow - Survival" (which would represent a poorly constructed arrow made as a last ditch effort in a survival situation) which has a -1 Base Dice Tier Adjustment, then the Combat Roll would have a -1 Base Dice Tier ("2d6, 1d4" for it's Base Dice). If instead a "Light Arrow - Standard" were used which has a +0 Base Dice Tier Adjustment, then the Combat Roll would have a Base Dice Tier of +0 ("3d6" for it's Base Dice).
+For example, let's say a character has a "Light Bow (+0) (Two-handed)" Combat Roll (which has a tier 0 Base Dice Tier meaning it's Base Dice would be 3d6 unless otherwise adjusted). If the character were to use a "Light Arrow - Survival" (which would represent a poorly constructed arrow made as a last ditch effort in a survival situation) which has a -1 Base Dice Tier Adjustment, then the Combat Roll would have a -1 Base Dice Tier ("2d6, 1d4" for it's Base Dice). If instead a "Light Arrow - Standard" were used which has a +0 Base Dice Tier Adjustment, then the Combat Roll would have a Base Dice Tier of +0 ("3d6" for it's Base Dice).
 
 ### Penetration Adjustment
 
@@ -2965,7 +2965,7 @@ If the setting doesn't have a built economy, then the players and Narrator can w
 
 This is an optional rule for setting where the durability of ones equipment has narrative significance. Using item durability is a great way to increase immersion (such as having to go to a blacksmith or learn to repair their gear) and challenge your players. However, for players who want a more casual experience, item durability can be disregarded.
 
-With these rules, all weapons, armor, and spellcasting focuses now have durability. Whatever the Base Dice Tier associated with that item determines how much durability it has. When an item's durability falls, each time your item's durability falls to the lower tier's max durability, that lower tier's base dice are used instead. For instance, if a character had a "Legendary\" Base Dice Tier sword with only 23 durability remaining they would be rolling the "Superior" Base Dice Tier or "1d10, 2d8".
+With these rules, all weapons, armor, and spellcasting focuses now have durability. Whatever the Base Dice Tier associated with that item determines how much durability it has. When an item's durability falls, each time your item's durability falls to the lower tier's max durability, that lower tier's base dice are used instead. For instance, if a character had a "Legendary" Base Dice Tier sword with only 23 durability remaining they would be rolling the "Superior" Base Dice Tier or "1d10, 2d8".
 
 ### Weapon Durability
 
