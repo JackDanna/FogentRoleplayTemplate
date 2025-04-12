@@ -1,2 +1,2 @@
-name,desc,duration,source,attributesToEffect,adjustment
+name,desc,duration,source,attributesToEffect,levelAdjustment
 Enhanced STR,+1 to STR level.,Indefinite,Innate,STR,1

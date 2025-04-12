@@ -1555,9 +1555,9 @@ Represent the physical strain of carrying equipment. Some characters will purpos
 
 For a specified Attribute, a Character receives an adjustment to it's level. The resulting level can not go outside the upper and lower bounds for a Attribute.
 
-| Name         | Desc             | Duration   | Source |
-| ------------ | ---------------- | ---------- | ------ |
-| Enhanced STR | +1 to STR level. | Indefinite |        |
+|     Name     |       Desc       |  Duration  | Source | Attributes To Effect | Level Adjustment |
+| :----------: | :--------------: | :--------: | :----: | :------------------: | :--------------: |
+| Enhanced STR | +1 to STR level. | Indefinite | Innate |         STR         |        1        |
 
 #### Defense
 
