@@ -1,2 +1,2 @@
-name,desc,duration,source,governingCoreSkillName,carryWeightIncreasePerCoreSkillDice,weightClasses
-Humaniod Carry Weight,This is the desc,Indefinite,Innate,Lift,50,"Light, Medium, Heavy, Overburdened"
+name,desc,duration,source,governingSkillName,maxCarryWeightBase,maxCarryWeightPerDice,weightClasses
+Humanoid Carry Weight,This is the desc,Indefinite,Innate,Lift,0,50,"Light, Medium, Heavy, Overburdened"

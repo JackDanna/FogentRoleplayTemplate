@@ -1442,6 +1442,43 @@ The two large categories are "Character Sheet Effects" and "Narrative Effects".
 
 "Character Sheet Effects" can essentially be thought of as effects that change something on your character sheet. For instance, if a character gains a Weapon, then they would also gain a new combat roll. If a character gained an Injury, then they'd have to recalculate many of there dice pools with the penalties from the Injuries.
 
+#### Carry Weight
+
+Carry Weight represents a character's ability to carry heavier equipment while still being able to move semi-normally.
+
+Max Carry Weight = (Max Carry Weight Base) + ( (Amount of Dice in Governing Skill Name Dice Pool) * (Max Carry Weight Per Dice) )
+
+|         Name         |       Desc       |  Duration  | Source | Governing Skill Name | Max Carry Weight Base | Max Carry Weight Per Dice |           Weight Classes           |
+| :-------------------: | :--------------: | :--------: | :----: | :-------------------: | :-------------------: | :-----------------------: | :--------------------------------: |
+| Humanoid Carry Weight | This is the desc | Indefinite | Innate |         Lift         |           0           |            50            | Light, Medium, Heavy, Overburdened |
+
+**Governing Skill Name:** The name of the skill whose dice pool size you will use to calculate Max Carry Weight.
+
+**Max Carry Weight Base:** The base amount of Max Carry Weight for the calculation.
+
+**Max Carry Weight Per Dice:** The amount of additional Max Carry Weight per dice in the governing skill's dice pool.
+
+**Weight Classes:** For a Carry Weight Effect, Weight Classes represent the "classes" a character falls into depending on the percentage of their Max Carry Weight they are currently carrying. If the weight a character is carrying divided by their Max Carry Weight is greater than "Bottom Percent Option" and less than or equal to "Top Percent Option", than that is the character's Weight Class. If either "Bottom Percent Option" or "Top Percent Option" are "None", than they are not used in the above determination. This can be used to describe the lower or upper bond Weight Classes.
+
+Each Weight Class corresponds to an Attribute Dice Mod Effect that will be applied. Each Attribute Dice Mod Effect will almost always effect the same Attributes that Movement Speed relies on, meaning a heavier Weight Class will slow a character's Movement Speed.
+
+|     Name     | Bottom Percent Option | Top Percent Option | Attribute Dice Mod Effect |
+| :----------: | :-------------------: | :----------------: | :------------------------: |
+|    Light    |         None         |        25.0        |    Weight Class: Light    |
+|    Medium    |         25.0         |        50.0        |    Weight Class: Medium    |
+|    Heavy    |         50.0         |       100.0       |    Weight Class: Heavy    |
+| Overburdened |         100.0         |        None        | Weight Class: Overburdened |
+
+**Example:**
+
+Let's say a character has the "Humanoid Carry Weight", Lift Skill Dice Pool of "3d6", and 30 lbs of equipment on them.
+
+First we calculate the Max Carry Weight, which would be ((3 * 50) + 0) = 150.
+
+Next, we need to determine what percentage of the character's Max Carry Weight their equipment currently taking up, which would be (30 / 150) = 20%.
+
+Therefore, since 20% is less than or equal to 25.0%, the character would have a Weight Class of "Light", which would apply the "Weight Class: Light" Attribute Dice Mod Effect.
+
 #### Containers
 
 Pouches, satchel, sacks, backpacks, chest, etc... are all consider containers. Each container can hold a certain amount of weight and/or volume within.
