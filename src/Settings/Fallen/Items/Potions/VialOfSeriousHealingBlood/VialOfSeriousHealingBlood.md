@@ -8,6 +8,6 @@
 
 ## Effects
 
-| Name         |                                                                                                                                  Desc                                                                                                                                  |   Duration   |            Source            |
+| Name         |                                                                                                                                  Description                                                                                                                                  |   Duration   |            Source            |
 | :----------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------: | :---------------------------: |
 | Serious Heal | Removes a serious or lesser injury. For a higher tier injury, reduce the dice penalty of the injury by 3. Injury remains at its current tier. Further serious healing has no effect.  | Instantaneous | Vial of Serious Healing Blood |

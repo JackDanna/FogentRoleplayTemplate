@@ -24,7 +24,7 @@
 
 ## Effects
 
-|                                         Name                                         |                         Desc                         | Duration |                                                                   Source                                                                   |
+|                                         Name                                         |                         Description                         | Duration |                                                                   Source                                                                   |
 | :----------------------------------------------------------------------------------: | :--------------------------------------------------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
 |                                Minor Silver Weakness                                | +1 to the level of injury received from damage type. |          |                                                                 Fellblood                                                                 |
 |                                Physical Defense Level                                |                    Phy. Def. 2.00                    |          |                                                                  Carapace                                                                  |

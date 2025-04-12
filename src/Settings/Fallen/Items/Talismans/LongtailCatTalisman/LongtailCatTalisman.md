@@ -8,6 +8,6 @@
 
 ## Effects
 
-| Name                       |        Desc        |  Duration  |           Source           |
+| Name                       |        Description        |  Duration  |           Source           |
 | :------------------------- | :----------------: | :--------: | :------------------------: |
 | Minorly Enhanced Dexterity | +1d6 to Dexterity. | Indefinite | Minorly Enhanced Dexterity |

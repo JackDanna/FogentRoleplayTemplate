@@ -8,6 +8,6 @@
 
 ## Effects
 
-| Name                     |                        Desc                        |    Duration    |           Source           |
+| Name                     |                        Description                        |    Duration    |           Source           |
 | :----------------------- | :------------------------------------------------: | :------------: | :-------------------------: |
 | Minor Psychic Resistance | -1 to victory levels received from Psychic damage. | While equipped | Pearl Dragon Scale Talisman |

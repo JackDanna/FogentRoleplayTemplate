@@ -8,7 +8,7 @@
 
 ## Effects
 
-| Name                        |                         Desc                         |    Duration    |             Source             |
+| Name                        |                         Description                         |    Duration    |             Source             |
 | :-------------------------- | :--------------------------------------------------: | :------------: | :----------------------------: |
 | Medium Hew Resistance       |    -2 to victory levels received from Hew damage.    | While equipped | Steel Dragon Scale Talisman +1 |
 | Medium Slash Resistance     |   -2 to victory levels received from Slash damage.   | While equipped | Steel Dragon Scale Talisman +1 |

@@ -8,7 +8,7 @@
 
 ## Effects
 
-| Name                       |                         Desc                         |    Duration    |             Source             |
+| Name                       |                         Description                         |    Duration    |             Source             |
 | :------------------------- | :--------------------------------------------------: | :------------: | :----------------------------: |
 | Major Hew Resistance       |    -3 to victory levels received from Hew damage.    | While equipped | Steel Dragon Scale Talisman +2 |
 | Major Slash Resistance     |   -3 to victory levels received from Slash damage.   | While equipped | Steel Dragon Scale Talisman +2 |

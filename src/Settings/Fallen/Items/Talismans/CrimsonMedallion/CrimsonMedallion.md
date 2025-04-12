@@ -8,6 +8,6 @@
 
 ## Effects
 
-| Name                      |                      Desc                      |    Duration    |      Source      |
+| Name                      |                      Description                      |    Duration    |      Source      |
 | :------------------------ | :--------------------------------------------: | :------------: | :---------------: |
 | Minorly Enhanced Vitality | Reduce up to 1d6 of total injury penalty dice. | While equipped | Crimson Medallion |

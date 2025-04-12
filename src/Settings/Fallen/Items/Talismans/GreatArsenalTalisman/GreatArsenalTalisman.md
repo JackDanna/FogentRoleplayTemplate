@@ -8,6 +8,6 @@
 
 ## Effects
 
-| Name                  |     Desc     |  Duration  |         Source         |
+| Name                  |     Description     |  Duration  |         Source         |
 | :-------------------- | :-----------: | :--------: | :--------------------: |
 | Greatly Enhanced Lift | +3d6 to Lift. | Indefinite | Great Arsenal Talisman |

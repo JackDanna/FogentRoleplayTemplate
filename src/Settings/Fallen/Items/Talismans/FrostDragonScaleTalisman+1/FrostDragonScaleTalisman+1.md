@@ -8,6 +8,6 @@
 
 ## Effects
 
-| Name                   |                      Desc                      |    Duration    |             Source             |
+| Name                   |                      Description                      |    Duration    |             Source             |
 | ---------------------- | :---------------------------------------------: | :------------: | :----------------------------: |
 | Medium Cold Resistance | -2 to victory levels received from Cold damage. | While equipped | Frost Dragon Scale Talisman +1 |

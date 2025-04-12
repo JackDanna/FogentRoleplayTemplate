@@ -8,6 +8,6 @@
 
 ## Effects
 
-| Name                    |                                                                                    Desc                                                                                    |  Duration  |        Source        |
+| Name                    |                                                                                    Description                                                                                    |  Duration  |        Source        |
 | :---------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: | :------------------: |
 | Continuous Minor Healing Factor | Minor injuries heal in a short rest. Medium injuries heal durning a long rest. A stabilized Serious injuries heal over a 24 hour rest. Cannot effect higher tier injuries. | Indefinite | Blessed Dew Talisman |

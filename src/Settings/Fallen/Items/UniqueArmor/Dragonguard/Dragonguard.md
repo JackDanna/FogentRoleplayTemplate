@@ -8,7 +8,7 @@
 
 ## Effects
 
-| Name                     |                                         Desc                                         |    Duration    |   Source   |
+| Name                     |                                         Description                                         |    Duration    |   Source   |
 | :----------------------- | :-----------------------------------------------------------------------------------: | :------------: | :---------: |
 | Dragon Threat Sense      |     The character gets an uneasy feeling when there are draconic creatures near.     | While equipped | Dragonguard |
 | Dragon Breath Resistance | Minor Resistance vs dragon elemental attacks (Dragonfire, Dragontide, Soulfire, ect). | While equipped | Dragonguard |

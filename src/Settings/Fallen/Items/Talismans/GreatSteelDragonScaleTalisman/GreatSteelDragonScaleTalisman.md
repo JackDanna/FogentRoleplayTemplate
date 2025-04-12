@@ -8,7 +8,7 @@
 
 ## Effects
 
-| Name                         |                         Desc                         |    Duration    |              Source              |
+| Name                         |                         Description                         |    Duration    |              Source              |
 | :--------------------------- | :--------------------------------------------------: | :------------: | :-------------------------------: |
 | Extreme Hew Resistance       |    -4 to victory levels received from Hew damage.    | While equipped | Great Steel Dragon Scale Talisman |
 | Extreme Slash Resistance     |   -4 to victory levels received from Slash damage.   | While equipped | Great Steel Dragon Scale Talisman |

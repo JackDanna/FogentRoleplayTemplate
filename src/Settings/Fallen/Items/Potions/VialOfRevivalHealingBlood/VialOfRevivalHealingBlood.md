@@ -10,6 +10,6 @@
 
 ## Effects
 
-| Name         |                                                                                                             Desc                                                                                                             |   Duration   |            Source            |
+| Name         |                                                                                                             Description                                                                                                             |   Duration   |            Source            |
 | :----------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------: | :---------------------------: |
 | Revival Heal | Return a dead character to life with a serious injury. Can only be performed within minutes of death. For living characters, it completely heals all injuries, regrowing body parts, returning the body to peak performance. | Instantaneous | Vial of Revival Healing Blood |

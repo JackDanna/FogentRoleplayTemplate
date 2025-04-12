@@ -8,6 +8,6 @@
 
 ## Effects
 
-| Name          |     Desc     |  Duration  |      Source      |
+| Name          |     Description     |  Duration  |      Source      |
 | :------------ | :-----------: | :--------: | :--------------: |
 | Enhanced Lift | +2d6 to Lift. | Indefinite | Arsenal Charm +1 |

@@ -8,6 +8,6 @@
 
 ## Effects
 
-| Name       |                                                                                                                                Desc                                                                                                                                |   Duration   |           Source           |
+| Name       |                                                                                                                                Description                                                                                                                                |   Duration   |           Source           |
 | :--------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------------------: |
 | Minor Heal | Removes a minor or lesser injury. For a higher tier injury, reduce the dice penalty of the injury by 1. Injury remains at its current tier. Further minor heals have no effect.  | Instantaneous | Vial of Minor Healing Blood |

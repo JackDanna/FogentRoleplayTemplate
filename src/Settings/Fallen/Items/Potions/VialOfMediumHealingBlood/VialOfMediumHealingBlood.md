@@ -8,6 +8,6 @@
 
 ## Effects
 
-| Name        |                                                                                                                                 Desc                                                                                                                                 |   Duration   |            Source            |
+| Name        |                                                                                                                                 Description                                                                                                                                 |   Duration   |            Source            |
 | :---------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------: | :--------------------------: |
 | Medium Heal | Removes a medium or lesser injury. For a higher tier injury, reduce the dice penalty of the injury by 2. Injury remains at its current tier. Further medium healing  has no effect.  | Instantaneous | Vial of Medium Healing Blood |

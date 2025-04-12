@@ -8,5 +8,5 @@
 
 ## Effects
 
-| Name | Desc | Duration | Source |
+| Name | Description | Duration | Source |
 | :--- | :--: | :------: | :----: |

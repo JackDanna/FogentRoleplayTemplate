@@ -12,6 +12,6 @@
 
 +1 to Endurance skill.Effects
 
-| Name                       |        Desc        |    Duration    |        Source        |
+| Name                       |        Description        |    Duration    |        Source        |
 | :------------------------- | :----------------: | :------------: | :-------------------: |
 | Minorly Enhanced Endurance | +1d6 to Endurance. | While equipped | Green Turtle Talisman |

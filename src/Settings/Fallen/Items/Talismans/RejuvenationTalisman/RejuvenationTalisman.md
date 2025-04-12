@@ -8,6 +8,6 @@
 
 ## Effects
 
-| Name             |                Desc                |    Duration    |        Source        |
+| Name             |                Description                |    Duration    |        Source        |
 | :--------------- | :---------------------------------: | :------------: | :-------------------: |
 | Enhanced Healing | Any healing acts as the tier above. | While equipped | Rejuvenation Talisman |

@@ -8,6 +8,6 @@
 
 ## Effects
 
-| Name              |                      Desc                      |    Duration    |        Source        |
+| Name              |                      Description                      |    Duration    |        Source        |
 | :---------------- | :--------------------------------------------: | :------------: | :------------------: |
 | Enhanced Vitality | Reduce up to 2d6 of total injury penalty dice. | While equipped | Crimson Medallion +1 |

@@ -8,6 +8,6 @@
 
 ## Effects
 
-| Name                            |              Desc              | Duration |      Source      |
+| Name                            |              Description              | Duration |      Source      |
 | :------------------------------ | :----------------------------: | :------: | :--------------: |
 | Minorly Enhanced Magic Resource | +2 to magic Resource capacity. |          | Azulian Talisman |

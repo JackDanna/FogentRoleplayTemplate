@@ -19,7 +19,7 @@
 
 ## Effects
 
-|                                            Name                                            |                  Desc                  | Duration |                      Source                      |
+|                                            Name                                            |                  Description                  | Duration |                      Source                      |
 | :----------------------------------------------------------------------------------------: | :-------------------------------------: | :------: | :----------------------------------------------: |
 | [Physical Defense Level](./../../../../../CoreRules/CombatRules/Defense.md#physical-defense) |                    0                    |          |                  Armor & Shield                  |
 |                                                                                            |                                        |          |                                                  |

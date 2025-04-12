@@ -8,6 +8,6 @@
 
 ## Effects
 
-| Name                     |                        Desc                        |    Duration    |            Source            |
+| Name                     |                        Description                        |    Duration    |            Source            |
 | :----------------------- | :------------------------------------------------: | :------------: | :---------------------------: |
 | Minor Radiant Resistance | -1 to victory levels received from Radiant damage. | While equipped | Radiant Dragon Scale Talisman |

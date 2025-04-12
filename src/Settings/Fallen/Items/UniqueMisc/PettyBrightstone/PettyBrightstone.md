@@ -8,6 +8,6 @@
 
 ## Effects
 
-| Name          |                                                    Desc                                                    | Duration |      Source      |
+| Name          |                                                    Description                                                    | Duration |      Source      |
 | :------------ | :---------------------------------------------------------------------------------------------------------: | :------: | :---------------: |
 | Light Storage | Holds 1 Magic Resource worth of light. Can be recharged in Sunlight. Light slowly dissipates from this gem. |          | Petty Brightstone |

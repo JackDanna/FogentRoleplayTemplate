@@ -8,6 +8,6 @@
 
 ## Effects
 
-| Name             |                  Desc                  |  Duration  |  Source  |
+| Name             |                  Description                  |  Duration  |  Source  |
 | :--------------- | :------------------------------------: | :--------: | :-------: |
 | Cold Enchantment | Weapon additionally deals Cold damage. | Indefinite | Frostbark |

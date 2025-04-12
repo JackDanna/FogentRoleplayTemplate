@@ -19,7 +19,7 @@
 
 ## Effects
 
-|                                                        Name                                                        |                       Desc                       | Duration |                      Source                      |
+|                                                        Name                                                        |                       Description                       | Duration |                      Source                      |
 | :-----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------: | :------: | :----------------------------------------------: |
 |     [Equipment Weight](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#equipment)     |                       3 lb                       |          |                    Equipment                    |
 |     [Carry Weight](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#carry-weight)     |                      250 lb                      |          |        +50 lbs Carry Weight per Lift dice        |
