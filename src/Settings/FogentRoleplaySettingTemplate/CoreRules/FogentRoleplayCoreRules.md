@@ -1458,7 +1458,9 @@ Max Carry Weight = (Max Carry Weight Base) + ( (Amount of Dice in Governing Skil
 
 **Max Carry Weight Per Dice:** The amount of additional Max Carry Weight per dice in the governing skill's dice pool.
 
-**Weight Classes:** For a Carry Weight Effect, Weight Classes represent a the "classes" a character falls into depending on the percentage of their Max Carry Weight they are currently carrying. Each Weight Class corresponds to an Attribute Dice Mod Effect that will be applied. Each Attribute Dice Mod Effect will almost always effect the same Attributes that Movement Speed relies on, meaning heavier Weight Classes slow a character.
+**Weight Classes:** For a Carry Weight Effect, Weight Classes represent the "classes" a character falls into depending on the percentage of their Max Carry Weight they are currently carrying. If the weight a character is carrying divided by their Max Carry Weight is greater than "Bottom Percent Option" and less than or equal to "Top Percent Option", than that is the character's Weight Class. If either "Bottom Percent Option" or "Top Percent Option" are "None", than they are not used in the above determination. This can be used to describe the lower or upper bond Weight Classes.
+
+Each Weight Class corresponds to an Attribute Dice Mod Effect that will be applied. Each Attribute Dice Mod Effect will almost always effect the same Attributes that Movement Speed relies on, meaning a heavier Weight Class will slow a character's Movement Speed.
 
 |     Name     | Bottom Percent Option | Top Percent Option | Attribute Dice Mod Effect |
 | :----------: | :-------------------: | :----------------: | :------------------------: |
@@ -1469,13 +1471,13 @@ Max Carry Weight = (Max Carry Weight Base) + ( (Amount of Dice in Governing Skil
 
 **Example:**
 
-Let's say a character has the "Humanoid Carry Weight", Lift Skill Dice Pool of "3d6", and 20 lbs of equipment on them.
+Let's say a character has the "Humanoid Carry Weight", Lift Skill Dice Pool of "3d6", and 30 lbs of equipment on them.
 
 First we calculate the Max Carry Weight, which would be ((3 * 50) + 0) = 150.
 
-Next, we need to determine what percentage of the Max Carry Weight is our equipment currently taking up, which would be (30 / 150) = 20%.
+Next, we need to determine what percentage of the character's Max Carry Weight their equipment currently taking up, which would be (30 / 150) = 20%.
 
-Therefore, the character would have a Weight Class of "Light", which would apply the "Weight Class: Light" Attribute Dice Mod Effect.
+Therefore, since 20% is less than or equal to 25%, the character would have a Weight Class of "Light", which would apply the "Weight Class: Light" Attribute Dice Mod Effect.
 
 #### Containers
 
