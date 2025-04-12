@@ -1446,7 +1446,7 @@ The two large categories are "Character Sheet Effects" and "Narrative Effects".
 
 Carry Weight represents a character's ability to carry heavier equipment while still being able to move semi-normally.
 
-Max Carry Weight = (Max Carry Weight Base) + ((Amount of Dice in Governing Skill Name Dice Pool) * (Max Carry Weight Per Dice)
+Max Carry Weight = (Max Carry Weight Base) + ( (Amount of Dice in Governing Skill Name Dice Pool) * (Max Carry Weight Per Dice) )
 
 |         Name         |       Desc       |  Duration  | Source | Governing Skill Name | Max Carry Weight Base | Max Carry Weight Per Dice |           Weight Classes           |
 | :-------------------: | :--------------: | :--------: | :----: | :-------------------: | :-------------------: | :-----------------------: | :--------------------------------: |
