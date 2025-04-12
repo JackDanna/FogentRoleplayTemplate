@@ -1686,9 +1686,9 @@ These are literally just skill checks. This way, if there is a use of one of a c
 
 For a specified Skill/Vocation, a Character receives an adjustment to it's level. The resulting level can not go outside the upper and lower bounds for a Skill/Vocation.
 
-| Name          | Desc              | Duration   | Source |
-| ------------- | ----------------- | ---------- | ------ |
-| Enhanced Lift | +1 to Lift level. | Indefinite |        |
+|           Name           |       Desc       |  Duration  | Source | Skills To Effect | Level Adjustment |
+| :----------------------: | :---------------: | :--------: | :----: | :--------------: | :--------------: |
+| Lift Level +1 Adjustment | +1 to Lift level. | Indefinite | Innate | Lift, Perception |        1        |
 
 #### Combat Roll
 
