@@ -8,6 +8,6 @@
 
 ## Effects
 
-| Name                      |                        Desc                        |    Duration    |              Source              |
+| Name                      |                        Description                        |    Duration    |              Source              |
 | :------------------------ | :------------------------------------------------: | :------------: | :------------------------------: |
 | Medium Radiant Resistance | -2 to victory levels received from Radiant damage. | While equipped | Radiant Dragon Scale Talisman +1 |

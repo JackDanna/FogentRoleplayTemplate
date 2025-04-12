@@ -1,4 +1,4 @@
-name,defendingSkill,desc
+name,defendingSkill,description
 Slash,None,Caused by pushing or drawing a bladed edge to produce the force necessary to slice.
 Pierce,None,Caused by pointed objects.
 Bludgeon,None,Caused by blunt force.

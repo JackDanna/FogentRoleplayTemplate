@@ -8,6 +8,6 @@
 
 ## Effects
 
-| Name           |                                Desc                                | Duration |    Source    |
+| Name           |                                Description                                | Duration |    Source    |
 | :------------- | :-----------------------------------------------------------------: | :------: | :-----------: |
 | Ariel Assassin | While performing an aerial attack, gain a +1 to your victory level. |          | Claw Talisman |

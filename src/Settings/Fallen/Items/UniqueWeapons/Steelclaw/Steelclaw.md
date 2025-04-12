@@ -8,6 +8,6 @@
 
 ## Effects
 
-| Name              |                                                                                                                                   Desc                                                                                                                                   |  Duration  |  Source  |
+| Name              |                                                                                                                                   Description                                                                                                                                   |  Duration  |  Source  |
 | :---------------- | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: | :-------: |
 | The Anatoli Curse | The weapon is cursed on an individual, always return to the user no matter how the weapon is disposed. When this item is used in combat, the bearer becomes blood lusted with each subsequent kill, becoming increasingly bestially minded, possibly even attack friends. | Indefinite | Steelclaw |

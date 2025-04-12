@@ -8,6 +8,6 @@
 
 ## Effects
 
-| Name                    |              Desc              |  Duration  |       Source       |
+| Name                    |              Description              |  Duration  |       Source       |
 | :---------------------- | :----------------------------: | :--------: | :-----------------: |
 | Enhanced Magic Resource | +4 to magic Resource capacity. | Indefinite | Azulian Talisman +1 |

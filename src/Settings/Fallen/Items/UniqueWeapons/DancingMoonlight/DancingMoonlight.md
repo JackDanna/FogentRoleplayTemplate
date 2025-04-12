@@ -8,7 +8,7 @@
 
 ## Effects
 
-|         Name         |                                                                                                                                          Desc                                                                                                                                          | Duration |      Source      |
+|         Name         |                                                                                                                                          Description                                                                                                                                          | Duration |      Source      |
 | :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :---------------: |
 | Moonlight Greatsword |                                                Just by thought, this ancient sword wreathed in moonlight, becoming a greatsword wreathed in moonlight. While active, it becomes a greatsword and now additionally deals radiant damage.                                                |          | Dancing Moonlight |
 |    Indestructible    |                                                                                                                            This item can't lose durability.                                                                                                                            |          | Dancing Moonlight |

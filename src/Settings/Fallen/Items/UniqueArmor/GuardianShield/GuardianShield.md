@@ -8,6 +8,6 @@
 
 ## Effects
 
-| Name               |                           Desc                           |    Duration    |     Source     |
+| Name               |                           Description                           |    Duration    |     Source     |
 | :----------------- | :-------------------------------------------------------: | :------------: | :-------------: |
 | Retractable Shield | The user can deploy or retract the medium shield at will. | While equipped | Guardian Shield |

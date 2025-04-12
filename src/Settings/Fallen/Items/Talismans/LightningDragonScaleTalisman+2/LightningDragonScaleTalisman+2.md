@@ -8,6 +8,6 @@
 
 ## Effects
 
-| Name                      |                        Desc                        |    Duration    |               Source               |
+| Name                      |                        Description                        |    Duration    |               Source               |
 | :------------------------ | :-------------------------------------------------: | :------------: | :--------------------------------: |
 | Major Electric Resistance | -3 to victory levels received from Electric damage. | While equipped | Lightning Dragon Scale Talisman +2 |

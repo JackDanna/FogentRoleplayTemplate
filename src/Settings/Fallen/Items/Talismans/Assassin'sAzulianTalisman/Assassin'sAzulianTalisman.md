@@ -8,6 +8,6 @@
 
 ## Effects
 
-| Name                 |                            Desc                            |   Duration   |           Source           |
+| Name                 |                            Description                            |   Duration   |           Source           |
 | :------------------- | :--------------------------------------------------------: | :-----------: | :-------------------------: |
 | Magic Resource Leech | Sneak attack regain 1 Magic Resource of the user's choice. | Instantaneous | Assassin's Azulian Talisman |

@@ -1,4 +1,4 @@
-name,desc,duration,source,performanceTime,skillName,challengeLevel,rangeOption,areaOfEffectOption
+name,description,duration,source,performanceTime,skillName,challengeLevel,rangeOption,areaOfEffectOption
 Combat Assist: Sneak Attack,"As a Stealth Assist, while already hidden, prepare to execute a lethal attack, only allowing them a fraction of a second to react. Your Uses Per Round is reduced to 1 for the round.",1 Round,Innate,~seconds,Stealth,3,None,None
 Combat Assist: Focused Shot,"As a Perception Assist, while making a ranged Combat Roll, focus on a single opponent and target a weak point. Your Uses Per Round is reduced to 1 for the round.",1 Round,Innate,~seconds,Perception,3,None,None
 Combat Assist: Charge,"As a Athletics Assist, if there is 10 ft between the character and an opponent, they may add their momentum to their melee attack. The character charging must move in a straight line, and once a charge is initiated as a portion of a character's movement, their directions must remain constant the entire round. Disadvantage to Dodging while charging.",1 Round,Innate,~seconds,Athletics,3,None,None

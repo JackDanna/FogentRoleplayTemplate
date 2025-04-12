@@ -8,7 +8,7 @@
 
 ## Effects
 
-| Name                       |                         Desc                         |    Duration    |           Source           |
+| Name                       |                         Description                         |    Duration    |           Source           |
 | :------------------------- | :--------------------------------------------------: | :------------: | :-------------------------: |
 | Minor Hew Resistance       |    -1 to victory levels received from Hew damage.    | While equipped | Steel Dragon Scale Talisman |
 | Minor Slash Resistance     |   -1 to victory levels received from Slash damage.   | While equipped | Steel Dragon Scale Talisman |

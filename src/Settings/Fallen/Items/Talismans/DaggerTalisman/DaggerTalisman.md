@@ -8,6 +8,6 @@
 
 ## Effects
 
-| Name              |                              Desc                              |    Duration    |     Source     |
+| Name              |                              Description                              |    Duration    |     Source     |
 | :---------------- | :------------------------------------------------------------: | :------------: | :-------------: |
 | Enhanced Critical | +1 automatic win to sneak attacks and Physically Incapacitated opponents. | While equipped | Dagger Talisman |

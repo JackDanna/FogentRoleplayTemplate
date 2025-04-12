@@ -8,6 +8,6 @@
 
 ## Effects
 
-| Name                     |                                                                                                                                           Desc                                                                                                                                           | Duration |          Source          |
+| Name                     |                                                                                                                                           Description                                                                                                                                           | Duration |          Source          |
 | :----------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :-----------------------: |
 | Swordbreaker Blade Catch | Any weapon that could reasonably be caught in the swordbreaker can be caught with a Lvl 1 victory, entering into Close Quarters combat. The opponent's weapon is usable while bound. Your main hand weapon (Small, Medium, or Large) can be used in this Close Quarters combat scenario. |          | Asher's Arms Swordbreaker |

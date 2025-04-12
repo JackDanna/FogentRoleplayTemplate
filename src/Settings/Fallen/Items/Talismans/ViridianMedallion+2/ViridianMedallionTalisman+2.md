@@ -8,6 +8,6 @@
 
 ## Effects
 
-| Name                       |        Desc        |  Duration  |             Source             |
+| Name                       |        Description        |  Duration  |             Source             |
 | :------------------------- | :----------------: | :--------: | :----------------------------: |
 | Greatly Enhanced Endurance | +3d6 to Endurance. | Indefinite | Viridian Medallion Talisman +2 |

@@ -18,7 +18,7 @@
 
 ## Effects
 
-|                                            Name                                            |                      Desc                      | Duration |                      Source                      |
+|                                            Name                                            |                      Description                      | Duration |                      Source                      |
 | :----------------------------------------------------------------------------------------: | :--------------------------------------------: | :------: | :----------------------------------------------: |
 |                     [Language](./../../../Languages/Languages.md): Primal                     |               Can speak Primal.               |          |                                                  |
 |                                         Keen Smell                                         |  Advantage on smell based Perception checks.  |          |                                                  |

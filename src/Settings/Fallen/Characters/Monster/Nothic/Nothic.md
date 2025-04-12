@@ -23,7 +23,7 @@
 
 ## Effects
 
-|                                            Name                                            |                         Desc                         | Duration |                      Source                      |
+|                                            Name                                            |                         Description                         | Duration |                      Source                      |
 | :----------------------------------------------------------------------------------------: | :--------------------------------------------------: | :------: | :----------------------------------------------: |
 |                 [Language](./../../../Languages/Languages.md): Tunnel-tongue                 |               Can speak Tunnel-tongue.               |          |                                                  |
 |                                         Keen Sight                                         |     Advantage on sight based Perception checks.     |          |                                                  |

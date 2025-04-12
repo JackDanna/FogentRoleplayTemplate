@@ -22,7 +22,7 @@
 
 ## Effects
 
-|                                            Name                                            |                                                           Desc                                                           | Duration |                      Source                      |
+|                                            Name                                            |                                                           Description                                                           | Duration |                      Source                      |
 | :-----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: | :------: | :----------------------------------------------: |
 |                    [Language](./../../../Languages/Languages.md): Babelish                    |                                                   Can speak Babelish.                                                   |          |                                                  |
 |                    [Language](./../../../Languages/Languages.md): Draconic                    |                                                   Can speak Draconic.                                                   |          |                                                  |

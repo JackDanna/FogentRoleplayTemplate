@@ -8,6 +8,6 @@
 
 ## Effects
 
-| Name              |                                                                                       Desc                                                                                       | Duration |    Source    |
+| Name              |                                                                                       Description                                                                                       | Duration |    Source    |
 | :---------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :----------: |
 | Extendable Weapon | This weapon can shrink to the size of a small weapon, extend up to reach weapon, as well as any size between. The force of the weapon extending can be used in a variety of way. |          | Monkey Staff |

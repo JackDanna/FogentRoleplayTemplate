@@ -8,6 +8,6 @@
 
 ## Effects
 
-| Name     |                                                                            Desc                                                                            | Duration | Source |
+| Name     |                                                                            Description                                                                            | Duration | Source |
 | :------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :----: |
 | Splinter | Any weapon dice added to a combat roll are considered automatic wins when attacking a plant based creature (Leshens, Nature Dragons) or wooden structures. |          |  Hew  |

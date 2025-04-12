@@ -8,6 +8,6 @@
 
 ## Effects
 
-| Name                  |                      Desc                      |    Duration    |           Source           |
+| Name                  |                      Description                      |    Duration    |           Source           |
 | :-------------------- | :---------------------------------------------: | :------------: | :------------------------: |
 | Minor Fire Resistance | -1 to victory levels received from Fire damage. | While equipped | Fire Dragon Scale Talisman |

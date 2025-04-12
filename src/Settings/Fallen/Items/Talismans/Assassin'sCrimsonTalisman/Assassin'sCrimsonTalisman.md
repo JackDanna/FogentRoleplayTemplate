@@ -8,6 +8,6 @@
 
 ## Effects
 
-| Name       |                     Desc                     |   Duration   |            Source            |
+| Name       |                     Description                     |   Duration   |            Source            |
 | :--------- | :------------------------------------------: | :-----------: | :--------------------------: |
 | Life Leech | Sneak attacks trigger an Minor Heal to self. | Instantaneous | Assassin's Crimson Talisman |
