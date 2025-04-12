@@ -1458,11 +1458,9 @@ Max Carry Weight = (Max Carry Weight Base) + ((Amount of Dice in Governing Skill
 
 **Max Carry Weight Per Dice:** The amount of additional Max Carry Weight per dice in the governing skill's dice pool.
 
-**Weight Classes:** 
+**Weight Classes:**
 
-A Carry Weight is comprised of multiple Weight Classes. Each Weight Class represents range
-
-Weight Classes represent a "class" a character falls into depending on the percentage of their Max Carry Weight they are currently carrying. Each Weight Class corresponds to an Attribute Dice Mod Effect that will be applied.
+For a Carry Weight Effect, Weight Classes represent a the "classes" a character falls into depending on the percentage of their Max Carry Weight they are currently carrying. Each Weight Class corresponds to an Attribute Dice Mod Effect that will be applied. Each Attribute Dice Mod Effect will almost always effect the same Attributes that Movement Speed relies on, meaning heavier Weight Classes slow a character.
 
 |     Name     | Bottom Percent Option | Top Percent Option | Attribute Dice Mod Effect |
 | :----------: | :-------------------: | :----------------: | :------------------------: |
@@ -1473,9 +1471,9 @@ Weight Classes represent a "class" a character falls into depending on the perce
 
 **Example:**
 
-Let's say a character has the "Humanoid Carry Weight", Lift Skill Dice Pool of "3d6", and 20 lbs of equipment on them. 
+Let's say a character has the "Humanoid Carry Weight", Lift Skill Dice Pool of "3d6", and 20 lbs of equipment on them.
 
-First we calculate the Max Carry Weight, which would be ((3 * 50) + 0) = 150. 
+First we calculate the Max Carry Weight, which would be ((3 * 50) + 0) = 150.
 
 Next, we need to determine what percentage of the Max Carry Weight is our equipment currently taking up, which would be (30 / 150) = 20%.
 
