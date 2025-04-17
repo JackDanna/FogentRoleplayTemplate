@@ -404,7 +404,7 @@ Vocational Skills can often resolve in a single roll what without it would turn 
 
 |  Vocation  |                                                       Vocational Skills Examples                                                       |             Governing Attributes for Vocation Skills Example             |
 | :---------: | :------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|   Soldier   |                Medium Melee (Athletics, Perception, General Knowledge), Heavy Bow (Lift, Perception, General Knowledge)                |         Medium Melee (STR, RFX, INT), Heavy Bow (STR, RFX, INT)         |
+|   Soldier   |             Medium Melee (Athletics, Perception, General Knowledge), Battlefield Formations (General Knowledge and Will)             |       Medium Melee (STR, RFX, INT), Battlefield Formations (INT)       |
 |   Ranger   |                          Tracking (Perception and General Knowledge), Wilderness Survival (General Knowledge)                          |              Tracking (RFX, INT), Wilderness Survival (INT)              |
 |   Wizard   |                        Arcane Knowledge (General Knowledge), Rune Inscribing (General Knowledge and Dexterity)                        |            Arcane Knowledge (INT), Rune Inscribing (RFX, INT)            |
 |    Thief    | Heist Planning (Stealth and General Knowledge), Lock Picking (General Knowledge and Dexterity), Pickpocketing (Stealth and Dexterity) | Heist Planning (RFX, INT), Lock Picking (RFX, INT), Pickpocketing (RFX) |
