@@ -414,14 +414,22 @@ Vocational Skills can often resolve in a single roll what without it would turn 
 
 ## Vocation
 
-Vocations represent your character's job, class, or life path. You should check with your Narrator to make sure that your Vocation exists in the setting. Some traditional fantasy example Vocations include Rogue, Knight, Wizard, Paladin, Cleric, etc... Other examples include Vagrant, Chef, or Sailor. Each vocation has one or many Governing Attributes that logically would govern it.
+Vocations represent a character's job, class, or life path. A Player should check with the Narrator to make sure that their Vocation exists in the setting if they intend to use it. Some traditional fantasy example Vocations include Rogue, Knight, Wizard, Paladin, Cleric, etc... Other examples include Vagrant, Chef, or Sailor.
 
-|    Name    | Governing Attributes | Vocational Skills                                                                                                                                                                                                                                                                       |
-| :--------: | :------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  Fighter  |    STR, RFX, INT    | Hand Crossbow, Light Crossbow, Heavy Crossbow, Light Bow, Heavy Bow, Exotic Ranged, Close Melee, Medium Melee, Large Melee, Reach Melee, Exotic Melee                                                                                                                                   |
-|   Druid   |       RFX, INT       | Body Magic, Fire Magic, Water Magic, Electricity Magic, Earth Magic, Air Magic, Cold Magic, Nature Magic, Poison Magic, Soul Magic, Light Magic, Shadow Magic, Mind Magic, Magnetic Magic, Sound Magic, Blood Magic, Acid Magic, Time Magic, Teleport Magic, Force Magic                |
-| Fellcaster |    STR, RFX, INT    | Polycraft, Blazecraft, Hydrocraft, Electrocraft, Terracraft, Galecraft, Cryocraft, Naturecraft, Toxincraft, Soulcraft, Shadowcraft, Mindcraft, Ferracraft, Sonocraft, Hemacraft, Spidercraft, Acidcraft, Warpcraft, Telekeneticraft, Blizzardcraft, Magmacraft, Plasmacraft, Stormcraft |
-| Runesmith |       RFX, INT       | Fire Rune, Earth Rune, Water Rune, Air Rune, Electricity Rune, Cold Rune, Poison Rune, Blood Rune, Light Rune, Dark Rune, Sound Rune, Body Rune, Mind Rune, Soul Rune, Time Rune, Space Rune, Strength Rune, Gravity Rune, Nature Rune, Acid Rune                                       |
+|    Name    | Governing Attributes |                                                                                                                                    Vocational Skills                                                                                                                                    |                                                                         Description                                                                         |
+| :--------: | :------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  Fighter  |       STR, RFX       |                                                                  Hand Crossbow, Light Crossbow, Heavy Crossbow, Light Bow, Heavy Bow, Exotic Ranged, Close Melee, Medium Melee, Large Melee, Reach Melee, Exotic Melee                                                                  | Specializes in the use of Martial Weapons. This Vocation can serve as a template for building out other Martial Vocations like Rogue, Monk, Soldier, ect... |
+|   Druid   |       RFX, INT       |        Body Magic, Fire Magic, Water Magic, Electricity Magic, Earth Magic, Air Magic, Cold Magic, Nature Magic, Poison Magic, Soul Magic, Light Magic, Shadow Magic, Mind Magic, Magnetic Magic, Sound Magic, Blood Magic, Acid Magic, Time Magic, Teleport Magic, Force Magic        |                              Specializes in the use of Druidcraft, drawing upon a character's Nature Connection Resource Pool.                              |
+| Fellcaster |    STR, RFX, INT    | Polycraft, Blazecraft, Hydrocraft, Electrocraft, Terracraft, Galecraft, Cryocraft, Naturecraft, Toxincraft, Soulcraft, Shadowcraft, Mindcraft, Ferracraft, Sonocraft, Hemacraft, Spidercraft, Acidcraft, Warpcraft, Telekeneticraft, Blizzardcraft, Magmacraft, Plasmacraft, Stormcraft |      Specializes in the use of Fellcraft, biological magic from a character's monstrous ancestry, drawing upon a character's Fellblood Resource Pool.      |
+| Runesmith |       RFX, INT       |                    Fire Rune, Earth Rune, Water Rune, Air Rune, Electricity Rune, Cold Rune, Poison Rune, Blood Rune, Light Rune, Dark Rune, Sound Rune, Body Rune, Mind Rune, Soul Rune, Time Rune, Space Rune, Strength Rune, Gravity Rune, Nature Rune, Acid Rune                    |           Specializes in Runecraft, rune based magic by that tinkers with the fabric of reality, drawing upon a character's Focus Resource Pool.           |
+
+**Name:** The name of the Vocation.
+
+**Governing Attributes:** The Attributes that govern the Vocation in question. A Vocation can have one or many Governing Attributes that logically would govern it. Determining what Governing Attributes a Vocational Skill will have is ultimately up to the Narrator. In general, if it is logical that some change to an Attribute would meaningfully benefit/hurt the Vocation in question, than it should be added.
+
+**Vocational Skills:** These are the Vocational Skills that this Vocation enable the use of.
+
+**Description:** Describes what the Vocation is.
 
 ### Vocation Level
 
@@ -455,12 +463,12 @@ I add "Infiltration Knowledge" as a Vocational Skill, as it is something a Rogue
 
 Finally, I add "Small Melee" as a Vocational Skill, as using a knife or blackjack would be something a Rogue would do. For it's Governing Attributes, I give it STR, RFX, and INT, as being stronger, faster, and smarter would all benefit this skill. We set it's level to Level 1.
 
-| Rogue                  |   RFX, INT   | 2 | 7d6 |
-| ---------------------- | :-----------: | :-: | :-: |
-| Lock-picking           |   RFX, INT   | 2 | 7d6 |
-| Pickpocketing          |   RFX, INT   | 2 | 7d6 |
+|         Rogue         |   RFX, INT   | 2 | 7d6 |
+| :--------------------: | :-----------: | :-: | :-: |
+|      Lock-picking      |   RFX, INT   | 2 | 7d6 |
+|     Pickpocketing     |   RFX, INT   | 2 | 7d6 |
 | Infiltration Knowledge |      INT      | 2 | 6d6 |
-| Small Blade            | STR, RFX, INT | 1 | 7d6 |
+|      Small Blade      | STR, RFX, INT | 1 | 7d6 |
 
 ### Chef Example
 
@@ -480,11 +488,11 @@ I add "Small Melee" as a Vocational Skill, as using knives in a kitchen would be
 
 I try and add the "Reach Spear" Vocational Skill. I realized using a long spear is not something that a chef would do, so I can't add it under my vocation.
 
-| Chef             |   RFX, INT   | 3 | 7d6 |
-| ---------------- | :-----------: | :-: | :-: |
-| Wine Tasting     |   RFX, INT   | 3 | 7d6 |
-| Chopping Food    |      RFX      | 3 | 7d6 |
-| Small Blade      | STR, RFX, INT | 1 | 6d6 |
+|       Chef       |   RFX, INT   | 3 | 7d6 |
+| :--------------: | :-----------: | :-: | :-: |
+|   Wine Tasting   |   RFX, INT   | 3 | 7d6 |
+|  Chopping Food  |      RFX      | 3 | 7d6 |
+|   Small Blade   | STR, RFX, INT | 1 | 6d6 |
 | ~~Reach Spear~~ |              |  |    |
 
 ## Tied Contested Checks
