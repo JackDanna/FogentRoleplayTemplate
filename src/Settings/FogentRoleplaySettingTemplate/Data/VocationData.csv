@@ -1,0 +1,5 @@
+name,governingAttributes,effects,vocationalSkills
+Fighter,"STR, RFX",,"Hand Crossbow, Light Crossbow, Heavy Crossbow, Light Bow, Heavy Bow, Exotic Ranged, Close Melee, Medium Melee, Large Melee, Reach Melee, Exotic Melee"
+Druid,"RFX, INT",Nature Connection Pool,"Body Magic, Fire Magic, Water Magic, Electricity Magic, Earth Magic, Air Magic, Cold Magic, Nature Magic, Poison Magic, Soul Magic, Light Magic, Shadow Magic, Mind Magic, Magnetic Magic, Sound Magic, Blood Magic, Acid Magic, Time Magic, Teleport Magic, Force Magic"
+Fellcaster,"STR, RFX, INT",Fellblood Pool,"Polycraft, Blazecraft, Hydrocraft, Electrocraft, Terracraft, Galecraft, Cryocraft, Naturecraft, Toxincraft, Soulcraft, Shadowcraft, Mindcraft, Ferracraft, Sonocraft, Hemacraft, Spidercraft, Acidcraft, Warpcraft, Telekeneticraft, Blizzardcraft, Magmacraft, Plasmacraft, Stormcraft"
+Runesmith,"RFX, INT",Focus Pool,"Fire Rune, Earth Rune, Water Rune, Air Rune, Electricity Rune, Cold Rune, Poison Rune, Blood Rune, Light Rune, Dark Rune, Sound Rune, Body Rune, Mind Rune, Soul Rune, Time Rune, Space Rune, Strength Rune, Gravity Rune, Nature Rune, Acid Rune"

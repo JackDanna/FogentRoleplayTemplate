@@ -6,6 +6,8 @@ HP Pool,,,,HP,10,10,FALSE
 HP Pool with Cap,,,,HP,10,None,FALSE
 ,,,,,,,
 Nature Connection Pool,,,,Nature Connection,10,10,FALSE
+Fellblood Pool,,,,Fellblood,10,None,FALSE
+Focus Pool,,,,Focus,10,None,FALSE
 ,,,,,,,
 Light Arrows - Standard,Ammunition for Combat Rolls.,Indefinite,Innate,Light Arrow - Standard,20,None,TRUE
 "Light Arrows - Wounding ",Ammunition for Combat Rolls.,Indefinite,Innate,"Light Arrow - Wounding ",20,None,TRUE
