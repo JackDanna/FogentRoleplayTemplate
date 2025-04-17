@@ -1,28 +1,28 @@
 name,governingAttributes,decription
-Hand Crossbow,"STR, RFX, INT",Covers activities related using a Hand Crossbow.
-Light Crossbow,"STR, RFX, INT",Covers activities related using a Light Crossbow.
-Heavy Crossbow,"STR, RFX, INT",Covers activities related using a Heavy Crossbow.
+Hand Crossbow,"STR, RFX, INT",Covers combat activities related using a Hand Crossbow.
+Light Crossbow,"STR, RFX, INT",Covers combat activities related using a Light Crossbow.
+Heavy Crossbow,"STR, RFX, INT",Covers combat activities related using a Heavy Crossbow.
 ,,
-Light Bow,"STR, RFX, INT",Covers activities related using a Light Bow.
-Heavy Bow,"STR, RFX, INT",Covers activities related using a Heavy Bow.
+Light Bow,"STR, RFX, INT",Covers combat activities related using a Light Bow.
+Heavy Bow,"STR, RFX, INT",Covers combat activities related using a Heavy Bow.
 ,,
-Exotic Ranged,"STR, RFX, INT","Covers activities related using a Blowgun, Sling, ect..."
+Exotic Ranged,"STR, RFX, INT","Covers combat activities related using a Blowgun, Sling, ect..."
 ,,
-Close Melee,"STR, RFX, INT","Covers activities related using a dagger, hatchet, small club, ect..."
+Close Melee,"STR, RFX, INT","Covers combat activities related using a dagger, hatchet, small club, ect..."
 ,,
-Medium Melee,"STR, RFX, INT","Covers activities related using an Arming Sword, Battleaxe, mace, ect..."
+Medium Melee,"STR, RFX, INT","Covers combat activities related using an Arming Sword, Battleaxe, mace, ect..."
 ,,
-Large Melee,"STR, RFX, INT","Covers activities related using a Longsword, Waraxe, Maul, ect..."
+Large Melee,"STR, RFX, INT","Covers combat activities related using a Longsword, Waraxe, Maul, ect..."
 ,,
-Reach Melee,"STR, RFX, INT","Covers activities related using a Greatsword, Poleaxe, Pike, ect..."
+Reach Melee,"STR, RFX, INT","Covers combat activities related using a Greatsword, Poleaxe, Pike, ect..."
 ,,
-Exotic Melee,"STR, RFX, INT","Covers activities related using a Whip, ect..."
+Exotic Melee,"STR, RFX, INT","Covers combat activities related using a Whip, ect..."
 ,,
-Primal Melee,"STR, RFX, INT","Covers activities related using a Claws, Fangs, ect..."
+Primal Melee,"STR, RFX, INT","Covers combat activities related using a Claws, Fangs, ect..."
 ,,
-Small Guns,"STR, RFX, INT","Covers activities related using a Handgun, Sub-machine Gun, ect..."
-Medium Guns,"STR, RFX, INT","Covers activities related using a Rifle, ect..."
-Heavy Guns,"STR, RFX, INT","Covers activities related using a Machine Gun, Rocket launcher, ect..."
+Small Guns,"STR, RFX, INT","Covers combat activities related using a Handgun, Sub-machine Gun, ect..."
+Medium Guns,"STR, RFX, INT","Covers combat activities related using a Rifle, ect..."
+Heavy Guns,"STR, RFX, INT","Covers combat activities related using a Machine Gun, Rocket launcher, ect..."
 ,,
 Polycraft,"STR, RFX, INT",No description yet.
 Blazecraft,"STR, RFX, INT",No description yet.
