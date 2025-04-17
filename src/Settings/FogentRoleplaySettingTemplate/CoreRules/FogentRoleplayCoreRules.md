@@ -461,14 +461,14 @@ I add "Pickpocketing" as a Vocational Skill as it is something a Rogue would do.
 
 I add "Infiltration Knowledge" as a Vocational Skill, as it is something a Rogue would do. For it's Governing Attributes, I give it just INT, as being more cunning would aid me as I lay out my plan. We set it's Level to Level 2.
 
-Finally, I add "Small Melee" as a Vocational Skill, as using a knife or blackjack would be something a Rogue would do. For it's Governing Attributes, I give it STR, RFX, and INT, as being stronger, faster, and smarter would all benefit this skill. We set it's level to Level 1.
+Finally, I add "Close Melee" as a Vocational Skill, as using a knife or blackjack would be something a Rogue would do. For it's Governing Attributes, I give it STR, RFX, and INT, as being stronger, faster, and smarter would all benefit this skill. We set it's level to Level 1.
 
 |         Rogue         |   RFX, INT   | 2 | 7d6 |
 | :--------------------: | :-----------: | :-: | :-: |
 |      Lock-picking      |   RFX, INT   | 2 | 7d6 |
 |     Pickpocketing     |   RFX, INT   | 2 | 7d6 |
 | Infiltration Knowledge |      INT      | 2 | 6d6 |
-|      Small Blade      | STR, RFX, INT | 1 | 7d6 |
+|      Close Melee      | STR, RFX, INT | 1 | 7d6 |
 
 ### Chef Example
 
@@ -492,8 +492,8 @@ I try and add the "Reach Spear" Vocational Skill. I realized using a long spear 
 | :--------------: | :-----------: | :-: | :-: |
 |   Wine Tasting   |   RFX, INT   | 3 | 7d6 |
 |  Chopping Food  |      RFX      | 3 | 7d6 |
-|   Small Blade   | STR, RFX, INT | 1 | 6d6 |
-| ~~Reach Spear~~ |              |  |    |
+|   Close Melee   | STR, RFX, INT | 1 | 6d6 |
+| ~~Reach Melee~~ |              |  |    |
 
 ## Tied Contested Checks
 
