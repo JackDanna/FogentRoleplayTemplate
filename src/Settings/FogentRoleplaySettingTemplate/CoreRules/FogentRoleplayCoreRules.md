@@ -275,95 +275,161 @@ After a short rest, both the original character and one of there teammates decid
 
 ## Core Skill
 
-Core Skills are skills that cover the majority of what most creatures can perform outside of Combat Skills. Core Skills are each governed by an Attribute that it would logically fall under.
+Core Skills are skills that cover the majority of what most creatures can perform. What follows is a list of example Core Skills.
 
-### Strength Core Skills
+|       Name       | Governing Attributes |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| :---------------: | :------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|     Athletics     |         STR         |                                                                                                                                                                                                                                                                                                                                                                                                       Covers activities related to sprinting, jumping, swimming, climbing, crawling, general movement, throwing/catching objects, ect... Examples include chasing someone, jumping over a pit, swimming in turbulent water, climbing a rock face, descending a rope, crawling if prone, and throwing/catching a ball. Commonly used by track athletes, swimmers, rock climbers, and professional athletes.                                                                                                                                                                                                                                                                                                                                                                                                       |
+|     Endurance     |         STR         |                                                                                                                                                                                                                                                                                                                                                                                                           Covers activities related to cardiovascular endurance, pain tolerance, resisting exhaustion/extreme cold/extreme heat/toxins/diseases/bleeding out/physical wounds worsening out, ect... Examples include staying conscious as you are bleeding out from an injury, resisting poisoning, enduring hot/cold weather, and pushing on past exhaustion. Commonly used by ultra-marathon runners.                                                                                                                                                                                                                                                                                                                                                                                                           |
+|       Lift       |         STR         |                                                                                                                                                                                                                                                                                                                                                                                                                                            Covers physical activity related to moving heavy objects, carrying heavy objects, generating mechanical force with the body, ect... Examples include shouldering a door open, carrying heavy equipment, throwing heavy objects, or crushing/tearing something in your hands. Commonly used by strongmen and power lifters.                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|                  |                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|     Dexterity     |         RFX         |                                                                                                                                                                                                                                                                                                                                                                    Covers activities related to dodging, balance, flexibility, parkour, acrobatics, falling safely, highly dexterous control over ones body, ect... Examples include dodging blades/arrows/traps/pitfalls, walking tightropes, contorting the body to squeezing through tight gaps, parkouring across difficult terrain, back flipping off a table, breaking a fall with a roll, moving fluidly while riding a mount. Commonly used by acrobats, parkourists or cat burglars.                                                                                                                                                                                                                                                                                                                                                                    |
+|    Perception    |         RFX         |                                                                                                                                                                                                                                                                                        Covers activities related to seeing, smelling, feeling, hearing, tasting, sensing, noticing, ect... Examples include spotting a roadblock far off in the distance, smelling a unique perfume at the scene of a crime, hearing an approaching monsters as it stalks you, tasting the small hint of poison in your food, sensing you are being watched, noticing a bandit hiding as you approach their ambush. Commonly used by spotters and scouts. It will be common for the Narrator to require players to make environmental 'Perception Checks' to gauge how much the characters notice regarding current happenings or places.                                                                                                                                                                                                                                                                                        |
+|      Stealth      |         RFX         |                                                                                                                                                                                                                                                                                                                                     Covers activities related to sneaking, hiding from others, moving quietly, ambushing an opponent, performing actions unnoticed, ect... Examples include sneaking past a group of city watchmen, hiding within a bush, moving through the forest without stepping on any twigs, remaining motionless as your victim walks into your ambush, snatching a nobleman's coin pouch unnoticed. Commonly used by thieves, ninjas, and assassins. Stealth is often countered by Perception, and the two forces of hide and seek clash constantly.                                                                                                                                                                                                                                                                                                                                     |
+|                  |                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|   Communication   |         INT         |                                                                                                                                                                                                                                                                                                                              Covers activities related to persuading, deceiving, bartering, seducing, intimidating, catching when someone is deceiving you, ect... Examples include persuading a king to go to war, deceiving a guard as to your whereabouts the previous night, bartering for a better price on a sword, seducing a party guest to gain access to the royal ball, intimidating a street thug trying to mug you, or catching that your travel guide isn't being truthful about how safe the old rope bridge is. Commonly used by politicians, traders, or con men.                                                                                                                                                                                                                                                                                                                              |
+| General Knowledge |         INT         | Covers activities related to reading ability, absorbing knowledge, recalling information, performing deductive analysis, thinking logically, ect... Examples include reading quickly through an ancient tomb for a clue as the walls close around you, absorbing the knowledge of the local area from a map, recalling why the symbol on the slain cultists robe looks familiar, deducing that only the butler would have had access to the murder weapon, thinking through what the best way to avoid the local gangs territories in a bad part of town. Commonly used by historians, bookworms, detectives or street smart individuals. A character with a specific knowledge skill (such as a Vocational Skill) strongly related to the task being attempted would always have an easier skill check than a character using General Knowledge. For instance, a baker and a detective are trying to determine which pastry shop made the poisoned box of pastries at a crime scene. The baker using his "Baker Knowledge" skill might only be required to achieve a Common skill check (CL 1) were as the detective using his General Knowledge skill might be required to make a Uncommon skill check (CL 2). |
+|       Will       |         INT         |                                                                                                                                                                                                                                                                                                                                                                                                                                          Covers activities related to resisting fear, mental control/strength, spiritual control/strength, restrain impulse, resist being verbally/mentally/spiritually manipulated/attacked. Measures a character's mental and spiritual control/strength, exerted to do something or restrain impulses. Commonly used by Navy SEALs.                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
-#### Athletics
+**Name:** This is the name of the Core Skill.
 
-Covers activities related to sprinting, jumping, swimming, climbing, crawling, general movement, throwing/catching objects, ect...
+**Governing Attributes:** The Attributes that govern the Core Skill in question. Generally Core Skill's will only be governed by one Attribute.
 
-Examples include chasing someone, jumping over a pit, swimming in turbulent water, climbing a rock face, descending a rope, crawling if prone, and throwing/catching a ball.
+**Description:** Describes how the Core Skill can be used.
 
-Commonly used by track athletes, swimmers, rock climbers, and professional athletes.
+## Vocational Skill
 
-#### Endurance
+Vocational Skills are skills that fall under a Vocation. These skills have their levels capped by the level of the Vocation they fall under. For instance, if a character had a level 2 Vocation, any Vocational Skill under it couldn't increase above level 2 until its Vocation level increased. In general, most weapon combat Vocational Skill are governed by STR, RFX, and INT. Being stronger, faster, and smarter is almost always better when fighting. What follows is a list of example Vocational Skills.
 
-Covers activities related to cardiovascular endurance, pain tolerance, resisting exhaustion/extreme cold/extreme heat/toxins/diseases/bleeding out/physical wounds worsening out, ect...
+|       Name       | Governing Attributes |                                   Decription                                   |
+| :---------------: | :------------------: | :-----------------------------------------------------------------------------: |
+|   Hand Crossbow   |    STR, RFX, INT    |             Covers combat activities related using a Hand Crossbow.             |
+|  Light Crossbow  |    STR, RFX, INT    |            Covers combat activities related using a Light Crossbow.            |
+|  Heavy Crossbow  |    STR, RFX, INT    |            Covers combat activities related using a Heavy Crossbow.            |
+|                  |                      |                                                                                |
+|     Light Bow     |    STR, RFX, INT    |               Covers combat activities related using a Light Bow.               |
+|     Heavy Bow     |    STR, RFX, INT    |               Covers combat activities related using a Heavy Bow.               |
+|                  |                      |                                                                                |
+|   Exotic Ranged   |    STR, RFX, INT    |         Covers combat activities related using a Blowgun, Sling, ect...         |
+|                  |                      |                                                                                |
+|    Close Melee    |    STR, RFX, INT    |  Covers combat activities related using a dagger, hatchet, small club, ect...  |
+|                  |                      |                                                                                |
+|   Medium Melee   |    STR, RFX, INT    | Covers combat activities related using an Arming Sword, Battleaxe, mace, ect... |
+|                  |                      |                                                                                |
+|    Large Melee    |    STR, RFX, INT    |    Covers combat activities related using a Longsword, Waraxe, Maul, ect...    |
+|                  |                      |                                                                                |
+|    Reach Melee    |    STR, RFX, INT    |   Covers combat activities related using a Greatsword, Poleaxe, Pike, ect...   |
+|                  |                      |                                                                                |
+|   Exotic Melee   |    STR, RFX, INT    |              Covers combat activities related using a Whip, ect...              |
+|                  |                      |                                                                                |
+|   Primal Melee   |    STR, RFX, INT    |          Covers combat activities related using a Claws, Fangs, ect...          |
+|                  |                      |                                                                                |
+|    Small Guns    |    STR, RFX, INT    |    Covers combat activities related using a Handgun, Sub-machine Gun, ect...    |
+|    Medium Guns    |    STR, RFX, INT    |             Covers combat activities related using a Rifle, ect...             |
+|    Heavy Guns    |    STR, RFX, INT    |  Covers combat activities related using a Machine Gun, Rocket launcher, ect...  |
+|                  |                      |                                                                                |
+|     Polycraft     |    STR, RFX, INT    |                               No description yet.                               |
+|    Blazecraft    |    STR, RFX, INT    |                               No description yet.                               |
+|    Hydrocraft    |    STR, RFX, INT    |                               No description yet.                               |
+|   Electrocraft   |    STR, RFX, INT    |                               No description yet.                               |
+|    Terracraft    |    STR, RFX, INT    |                               No description yet.                               |
+|     Galecraft     |    STR, RFX, INT    |                               No description yet.                               |
+|     Cryocraft     |    STR, RFX, INT    |                               No description yet.                               |
+|    Naturecraft    |    STR, RFX, INT    |                               No description yet.                               |
+|    Toxincraft    |    STR, RFX, INT    |                               No description yet.                               |
+|     Soulcraft     |    STR, RFX, INT    |                               No description yet.                               |
+|    Shadowcraft    |    STR, RFX, INT    |                               No description yet.                               |
+|     Mindcraft     |    STR, RFX, INT    |                               No description yet.                               |
+|    Ferracraft    |    STR, RFX, INT    |                               No description yet.                               |
+|     Sonocraft     |    STR, RFX, INT    |                               No description yet.                               |
+|     Hemacraft     |    STR, RFX, INT    |                               No description yet.                               |
+|    Spidercraft    |    STR, RFX, INT    |                               No description yet.                               |
+|     Acidcraft     |    STR, RFX, INT    |                               No description yet.                               |
+|     Warpcraft     |    STR, RFX, INT    |                               No description yet.                               |
+|  Telekeneticraft  |    STR, RFX, INT    |                               No description yet.                               |
+|   Blizzardcraft   |    STR, RFX, INT    |                               No description yet.                               |
+|    Magmacraft    |    STR, RFX, INT    |                               No description yet.                               |
+|    Plasmacraft    |    STR, RFX, INT    |                               No description yet.                               |
+|    Stormcraft    |    STR, RFX, INT    |                               No description yet.                               |
+|                  |                      |                                                                                |
+|    Body Magic    |       RFX, INT       |                               No description yet.                               |
+|    Fire Magic    |       RFX, INT       |                               No description yet.                               |
+|    Water Magic    |       RFX, INT       |                               No description yet.                               |
+| Electricity Magic |       RFX, INT       |                               No description yet.                               |
+|    Earth Magic    |       RFX, INT       |                               No description yet.                               |
+|     Air Magic     |       RFX, INT       |                               No description yet.                               |
+|    Cold Magic    |       RFX, INT       |                               No description yet.                               |
+|   Nature Magic   |       RFX, INT       |                               No description yet.                               |
+|   Poison Magic   |       RFX, INT       |                               No description yet.                               |
+|    Soul Magic    |       RFX, INT       |                               No description yet.                               |
+|    Light Magic    |       RFX, INT       |                               No description yet.                               |
+|   Shadow Magic   |       RFX, INT       |                               No description yet.                               |
+|    Mind Magic    |       RFX, INT       |                               No description yet.                               |
+|  Magnetic Magic  |       RFX, INT       |                               No description yet.                               |
+|    Sound Magic    |       RFX, INT       |                               No description yet.                               |
+|    Blood Magic    |       RFX, INT       |                               No description yet.                               |
+|    Acid Magic    |       RFX, INT       |                               No description yet.                               |
+|    Time Magic    |       RFX, INT       |                               No description yet.                               |
+|  Teleport Magic  |       RFX, INT       |                               No description yet.                               |
+|    Force Magic    |       RFX, INT       |                               No description yet.                               |
+|                  |                      |                                                                                |
+|     Fire Rune     |       RFX, INT       |                               No description yet.                               |
+|    Earth Rune    |       RFX, INT       |                               No description yet.                               |
+|    Water Rune    |       RFX, INT       |                               No description yet.                               |
+|     Air Rune     |       RFX, INT       |                               No description yet.                               |
+| Electricity Rune |       RFX, INT       |                               No description yet.                               |
+|     Cold Rune     |       RFX, INT       |                               No description yet.                               |
+|    Poison Rune    |       RFX, INT       |                               No description yet.                               |
+|    Blood Rune    |       RFX, INT       |                               No description yet.                               |
+|    Light Rune    |       RFX, INT       |                               No description yet.                               |
+|     Dark Rune     |       RFX, INT       |                               No description yet.                               |
+|    Sound Rune    |       RFX, INT       |                               No description yet.                               |
+|     Body Rune     |       RFX, INT       |                               No description yet.                               |
+|     Mind Rune     |       RFX, INT       |                               No description yet.                               |
+|     Soul Rune     |       RFX, INT       |                               No description yet.                               |
+|     Time Rune     |       RFX, INT       |                               No description yet.                               |
+|    Space Rune    |       RFX, INT       |                               No description yet.                               |
+|   Strength Rune   |       RFX, INT       |                               No description yet.                               |
+|   Gravity Rune   |       RFX, INT       |                               No description yet.                               |
+|    Nature Rune    |       RFX, INT       |                               No description yet.                               |
+|     Acid Rune     |       RFX, INT       |                               No description yet.                               |
 
-Examples include staying conscious as you are bleeding out from an injury, resisting poisoning, enduring hot/cold weather, and pushing on past exhaustion.
+**Name:** This is the name of the Vocational Skill.
 
-Commonly used by ultra-marathon runners.
+**Governing Attributes:** The Attributes that govern the Vocational Skill in question. A Vocational Skill can have one or many Governing Attributes that logically would govern it, which can differ from the Vocation's Governing Attributes. Determining what Governing Attributes a Vocational Skill will have is ultimately up to the Narrator. In general, if it is logical that some change to an Attribute would meaningfully benefit/hurt the skill in question, than it should be added.
 
-#### Lift
+**Description:** Describes how the Vocational Skill can be used.
 
-Covers physical activity related to moving heavy objects, carrying heavy objects, generating mechanical force with the body, ect...
+Vocational Skills can often resolve in a single roll what without it would turn into a sequence of possibly more difficult Core Skill checks, which opens up more possibilities for failure. When determining what a Vocational Skills Governing Attributes would be, it is often handy to ask what sequence of Core Skills would be required to attempt the same thing. Based off what Core Skills a character would've had to performed, you can usually infer what Governing Attributes the Vocational Skill will have. Below are some examples of Vocational Skills for certain Vocations.
 
-Examples include shouldering a door open, carrying heavy equipment, throwing heavy objects, or crushing/tearing something in your hands.
-
-Commonly used by strongmen and power lifters.
-
-### Reflex Core Skills
-
-#### Dexterity
-
-Covers activities related to dodging, balance, flexibility, parkour, acrobatics, falling safely, highly dexterous control over ones body, ect...
-
-Examples include dodging blades/arrows/traps/pitfalls, walking tightropes, contorting the body to squeezing through tight gaps, parkouring across difficult terrain, back flipping off a table, breaking a fall with a roll, moving fluidly while riding a mount.
-
-Commonly used by acrobats, parkourists or cat burglars.
-
-#### Perception
-
-Covers activities related to seeing, smelling, feeling, hearing, tasting, sensing, noticing, ect...
-
-Examples include spotting a roadblock far off in the distance, smelling a unique perfume at the scene of a crime, hearing an approaching monsters as it stalks you, tasting the small hint of poison in your food, sensing you are being watched, noticing a bandit hiding as you approach their ambush.
-
-Commonly used by spotters and scouts.
-
-It will be common for the Narrator to require players to make environmental 'Perception Checks' to gauge how much the characters notice regarding current happenings or places.
-
-#### Stealth
-
-Covers activities related to sneaking, hiding from others, moving quietly, ambushing an opponent, performing actions unnoticed, ect...
-
-Examples include sneaking past a group of city watchmen, hiding within a bush, moving through the forest without stepping on any twigs, remaining motionless as your victim walks into your ambush, snatching a nobleman's coin pouch unnoticed.
-
-Commonly used by thieves, ninjas, and assassins.
-
-Stealth is often countered by Perception, and the two forces of hide and seek clash constantly.
-
-### Intelligence Core Skills
-
-#### Communication
-
-Covers activities related to persuading, deceiving, bartering, seducing, intimidating, catching when someone is deceiving you, ect...
-
-Examples include persuading a king to go to war, deceiving a guard as to your whereabouts the previous night, bartering for a better price on a sword, seducing a party guest to gain access to the royal ball, intimidating a street thug trying to mug you, or catching that your travel guide isn't being truthful about how safe the old rope bridge is.
-
-Commonly used by politicians, traders, or con men.
-
-#### General Knowledge
-
-Covers activities related to reading ability, absorbing knowledge, recalling information, performing deductive analysis, thinking logically, ect...
-
-Examples include reading quickly through an ancient tomb for a clue as the walls close around you, absorbing the knowledge of the local area from a map, recalling why the symbol on the slain cultists robe looks familiar, deducing that only the butler would have had access to the murder weapon, thinking through what the best way to avoid the local gangs territories in a bad part of town.
-
-Commonly used by historians, bookworms, detectives or street smart individuals.
-
-A character with a specific knowledge skill (such as a Vocational Skill) strongly related to the task being attempted would always have an easier skill check than a character using General Knowledge. For instance, a baker and a detective are trying to determine which pastry shop made the poisoned box of pastries at a crime scene. The baker using his "Baker Knowledge" skill might only be required to achieve a Common skill check (CL 1) were as the detective using his General Knowledge skill might be required to make a Uncommon skill check (CL 2).
-
-#### Will
-
-Covers activities related to resisting fear, mental control/strength, spiritual control/strength, restrain impulse, resist being verbally/mentally/spiritually manipulated/attacked.
-
-Measures a character's mental and spiritual control/strength, exerted to do something or restrain impulses.
-
-Commonly used by Navy SEALs.
+|  Vocation  |                                                       Vocational Skills Examples                                                       |             Governing Attributes for Vocation Skills Example             |
+| :---------: | :------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------: |
+|   Soldier   |             Medium Melee (Athletics, Perception, General Knowledge), Battlefield Formations (General Knowledge and Will)             |       Medium Melee (STR, RFX, INT), Battlefield Formations (INT)       |
+|   Ranger   |                          Tracking (Perception and General Knowledge), Wilderness Survival (General Knowledge)                          |              Tracking (RFX, INT), Wilderness Survival (INT)              |
+|   Wizard   |                        Arcane Knowledge (General Knowledge), Rune Inscribing (General Knowledge and Dexterity)                        |            Arcane Knowledge (INT), Rune Inscribing (RFX, INT)            |
+|    Thief    | Heist Planning (Stealth and General Knowledge), Lock Picking (General Knowledge and Dexterity), Pickpocketing (Stealth and Dexterity) | Heist Planning (RFX, INT), Lock Picking (RFX, INT), Pickpocketing (RFX) |
+| Necromancer |                                                 Seance Ritual (Communication and Will)                                                 |                           Seance Ritual (INT)                           |
+|    Baker    |                                                Baking (Dexterity and General Knowledge)                                                |                            Baking (RFX, INT)                            |
+| Black Smith |                                            Forging (Lift, Dexterity, and General Knowledge)                                            |                         Forging (STR, RFX, INT)                         |
 
 ## Vocation
 
-Vocations represent your character's job, class, or life path. You should check with your Narrator to make sure that your Vocation exists in the setting. Some traditional fantasy example Vocations include Rogue, Knight, Wizard, Paladin, Cleric, etc... Other examples include Vagrant, Chef, or Sailor. Each vocation has one or many Governing Attributes that logically would govern it.
+Vocations represent a character's job, class, or life path. A Player should check with the Narrator to make sure that their Vocation exists in the setting if they intend to use it. Some traditional fantasy example Vocations include Rogue, Knight, Wizard, Paladin, Cleric, etc... Other examples include Vagrant, Chef, or Sailor.
+
+|    Name    | Governing Attributes |                                                                                                                                    Vocational Skills                                                                                                                                    |                                                                         Description                                                                         |
+| :--------: | :------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  Fighter  |       STR, RFX       |                                                                  Hand Crossbow, Light Crossbow, Heavy Crossbow, Light Bow, Heavy Bow, Exotic Ranged, Close Melee, Medium Melee, Large Melee, Reach Melee, Exotic Melee                                                                  | Specializes in the use of Martial Weapons. This Vocation can serve as a template for building out other Martial Vocations like Rogue, Monk, Soldier, ect... |
+|   Druid   |       RFX, INT       |        Body Magic, Fire Magic, Water Magic, Electricity Magic, Earth Magic, Air Magic, Cold Magic, Nature Magic, Poison Magic, Soul Magic, Light Magic, Shadow Magic, Mind Magic, Magnetic Magic, Sound Magic, Blood Magic, Acid Magic, Time Magic, Teleport Magic, Force Magic        |                              Specializes in the use of Druidcraft, drawing upon a character's Nature Connection Resource Pool.                              |
+| Fellcaster |    STR, RFX, INT    | Polycraft, Blazecraft, Hydrocraft, Electrocraft, Terracraft, Galecraft, Cryocraft, Naturecraft, Toxincraft, Soulcraft, Shadowcraft, Mindcraft, Ferracraft, Sonocraft, Hemacraft, Spidercraft, Acidcraft, Warpcraft, Telekeneticraft, Blizzardcraft, Magmacraft, Plasmacraft, Stormcraft |      Specializes in the use of Fellcraft, biological magic from a character's monstrous ancestry, drawing upon a character's Fellblood Resource Pool.      |
+| Runesmith |       RFX, INT       |                    Fire Rune, Earth Rune, Water Rune, Air Rune, Electricity Rune, Cold Rune, Poison Rune, Blood Rune, Light Rune, Dark Rune, Sound Rune, Body Rune, Mind Rune, Soul Rune, Time Rune, Space Rune, Strength Rune, Gravity Rune, Nature Rune, Acid Rune                    |           Specializes in Runecraft, rune based magic by that tinkers with the fabric of reality, drawing upon a character's Focus Resource Pool.           |
+
+**Name:** The name of the Vocation.
+
+**Governing Attributes:** The Attributes that govern the Vocation in question. A Vocation can have one or many Governing Attributes that logically would govern it. Determining what Governing Attributes a Vocational Skill will have is ultimately up to the Narrator. In general, if it is logical that some change to an Attribute would meaningfully benefit/hurt the Vocation in question, than it should be added.
+
+**Vocational Skills:** These are the Vocational Skills that this Vocation enable the use of.
+
+**Description:** Describes what the Vocation is.
 
 ### Vocation Level
 
@@ -378,30 +444,6 @@ Vocation Level measures how good a character is at a specific vocation. Vocation
 |   3   |      Expert      | Advanced concepts have been fully understood and master level concepts are beginning to be introduced. |
 |   4   |      Master      |                    Character would be well know in local region for their vocation.                    |
 |   5   |      Legend      |                         Character would be a living legend for their vocation.                         |
-
-### Vocational Skills
-
-Vocational Skills are skills that fall under your Vocation. These skills have their levels capped by the level of the Vocation they fall under. For instance, if a character had a level 2 Vocation, any skill under it couldn't increase above level 2, until its Vocation level increased.
-
-A Vocation Skill can have one or many Governing Attributes that logically would govern it, which can differ from the Vocation's Governing Attributes. Determining what Governing Attributes a Vocational Skill will have is ultimately up to the Narrator. In general, if it is logical that some change to an Attribute would benefit/hurt the skill in question, than it should be added.
-
-Vocational Skills can often resolve in a single roll what without it would turn into a sequence of possibly more difficult Core Skill checks, which opens up more possibilities for failure. When determining what a Vocational Skills Governing Attributes would be, it is often handy to ask what sequence of Core Skills would be required to attempt the same thing. Based off what Core Skills a character would've had to performed, you can usually infer what Governing Attributes the Vocational Skill will have.
-
-In general, most weapon combat Vocational Skill are governed by STR, RFX, and INT. Being stronger, faster, and smarter is almost always better when fighting.
-
-**Examples:**
-
-Below are some examples of Vocational Skills for certain Vocations.
-
-|  Vocation  |                                                       Vocational Skills Examples                                                       |               Governing Attributes for Vocation Skills Example               |
-| :---------: | :------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
-|   Soldier   |                Medium Melee (Athletics, Perception, General Knowledge), Heavy Bow (Lift, Perception, General Knowledge)                | Medium Melee (STR, RFX, INT), Heavy Bow (Lift, Perception, General Knowledge) |
-|   Ranger   |                          Tracking (Perception and General Knowledge), Wilderness Survival (General Knowledge)                          |                Tracking (RFX, INT), Wilderness Survival (INT)                |
-|   Wizard   |                        Arcane Knowledge (General Knowledge), Rune Inscribing (General Knowledge and Dexterity)                        |              Arcane Knowledge (INT), Rune Inscribing (RFX, INT)              |
-|    Thief    | Heist Planning (Stealth and General Knowledge), Lock Picking (General Knowledge and Dexterity), Pickpocketing (Stealth and Dexterity) |   Heist Planning (RFX, INT), Lock Picking (RFX, INT), Pickpocketing (RFX)   |
-| Necromancer |                                                 Seance Ritual (Communication and Will)                                                 |                              Seance Ritual (INT)                              |
-|    Baker    |                                                Baking (Dexterity and General Knowledge)                                                |                              Baking (RFX, INT)                              |
-| Black Smith |                                            Forging (Lift, Dexterity, and General Knowledge)                                            |                            Forging (STR, RFX, INT)                            |
 
 ### Rogue Example
 
@@ -419,14 +461,14 @@ I add "Pickpocketing" as a Vocational Skill as it is something a Rogue would do.
 
 I add "Infiltration Knowledge" as a Vocational Skill, as it is something a Rogue would do. For it's Governing Attributes, I give it just INT, as being more cunning would aid me as I lay out my plan. We set it's Level to Level 2.
 
-Finally, I add "Small Melee" as a Vocational Skill, as using a knife or blackjack would be something a Rogue would do. For it's Governing Attributes, I give it STR, RFX, and INT, as being stronger, faster, and smarter would all benefit this skill. We set it's level to Level 1.
+Finally, I add "Close Melee" as a Vocational Skill, as using a knife or blackjack would be something a Rogue would do. For it's Governing Attributes, I give it STR, RFX, and INT, as being stronger, faster, and smarter would all benefit this skill. We set it's level to Level 1.
 
-| Rogue                  |   RFX, INT   | 2 | 7d6 |
-| ---------------------- | :-----------: | :-: | :-: |
-| Lock-picking           |   RFX, INT   | 2 | 7d6 |
-| Pickpocketing          |   RFX, INT   | 2 | 7d6 |
+|         Rogue         |   RFX, INT   | 2 | 7d6 |
+| :--------------------: | :-----------: | :-: | :-: |
+|      Lock-picking      |   RFX, INT   | 2 | 7d6 |
+|     Pickpocketing     |   RFX, INT   | 2 | 7d6 |
 | Infiltration Knowledge |      INT      | 2 | 6d6 |
-| Small Blade            | STR, RFX, INT | 1 | 7d6 |
+|      Close Melee      | STR, RFX, INT | 1 | 7d6 |
 
 ### Chef Example
 
@@ -446,12 +488,12 @@ I add "Small Melee" as a Vocational Skill, as using knives in a kitchen would be
 
 I try and add the "Reach Spear" Vocational Skill. I realized using a long spear is not something that a chef would do, so I can't add it under my vocation.
 
-| Chef             |   RFX, INT   | 3 | 7d6 |
-| ---------------- | :-----------: | :-: | :-: |
-| Wine Tasting     |   RFX, INT   | 3 | 7d6 |
-| Chopping Food    |      RFX      | 3 | 7d6 |
-| Small Blade      | STR, RFX, INT | 1 | 6d6 |
-| ~~Reach Spear~~ |              |  |    |
+|       Chef       |   RFX, INT   | 3 | 7d6 |
+| :--------------: | :-----------: | :-: | :-: |
+|   Wine Tasting   |   RFX, INT   | 3 | 7d6 |
+|  Chopping Food  |      RFX      | 3 | 7d6 |
+|   Close Melee   | STR, RFX, INT | 1 | 6d6 |
+| ~~Reach Melee~~ |              |  |    |
 
 ## Tied Contested Checks
 
