@@ -85,21 +85,21 @@ Blowgun (+0) (One-handed),Blowgun,+0,One-handed,+0d6,0,Mediocre,Quick,None,"Blow
 ,,,,,,,,,,,,,,
 Sling (+0) (Two-handed),Sling,+0,Two-handed,+0d6,0,Mediocre,Quick,None,"Sling Bullet, 1",Bludgeon,Exotic Ranged,A flexible strap used to hurl small objects.,Indefinite,Innate
 ,,,,,,,,,,,,,,
-Thrown Small Slash Melee (+0) (One-handed),Thrown Small Slash Melee,+0,One-handed,+0d6,0,Short,Swift,None,"Self, 1",Slash,Close Melee,"Ninja stars, ect...",Indefinite,Innate
-Thrown Small Slash Melee (+0) (Dual-wielded),Thrown Small Slash Melee,+0,Dual-wielded,+1d6,0,Short,Quick,None,"Self, 2",Slash,Close Melee,"Ninja stars, ect...",Indefinite,Innate
+Thrown Small Slash Melee (+0) (One-handed),Thrown Small Slash Melee,+0,One-handed,+0d6,0,Short,Swift,None,"Thrown Small Slash Melee (+0), 1",Slash,Close Melee,"Ninja stars, ect...",Indefinite,Innate
+Thrown Small Slash Melee (+0) (Dual-wielded),Thrown Small Slash Melee,+0,Dual-wielded,+1d6,0,Short,Quick,None,"Thrown Small Slash Melee (+0), 2",Slash,Close Melee,"Ninja stars, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Thrown Small Pierce Melee (+0) (One-handed),Thrown Small Pierce Melee,+0,One-handed,+0d6,0,Short,Swift,None,"Self, 1",Pierce,Close Melee,"Throwing daggers, ect...",Indefinite,Innate
-Thrown Small Pierce Melee (+0) (Dual-wielded),Thrown Small Pierce Melee,+0,Dual-wielded,+1d6,0,Short,Quick,None,"Self, 2",Pierce,Close Melee,"Throwing daggers, ect...",Indefinite,Innate
+Thrown Small Pierce Melee (+0) (One-handed),Thrown Small Pierce Melee,+0,One-handed,+0d6,0,Short,Swift,None,"Thrown Small Pierce Melee (+0), 1",Pierce,Close Melee,"Throwing daggers, ect...",Indefinite,Innate
+Thrown Small Pierce Melee (+0) (Dual-wielded),Thrown Small Pierce Melee,+0,Dual-wielded,+1d6,0,Short,Quick,None,"Thrown Small Pierce Melee (+0), 2",Pierce,Close Melee,"Throwing daggers, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Thrown Small Hew Melee (+0) (One-handed),Thrown Small Hew Melee,+0,One-handed,+0d6,0,Short,Swift,None,"Self, 1",Hew,Close Melee,"Throwing hatchet, ect...",Indefinite,Innate
-Thrown Small Hew Melee (+0) (Dual-wielded),Thrown Small Hew Melee,+0,Dual-wielded,+1d6,0,Short,Quick,None,"Self, 2",Hew,Close Melee,"Throwing hatchet, ect...",Indefinite,Innate
+Thrown Small Hew Melee (+0) (One-handed),Thrown Small Hew Melee,+0,One-handed,+0d6,0,Short,Swift,None,"Thrown Small Hew Melee (+0) , 1",Hew,Close Melee,"Throwing hatchet, ect...",Indefinite,Innate
+Thrown Small Hew Melee (+0) (Dual-wielded),Thrown Small Hew Melee,+0,Dual-wielded,+1d6,0,Short,Quick,None,"Thrown Small Hew Melee (+0) , 2",Hew,Close Melee,"Throwing hatchet, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Thrown Small Bludgeon Melee (+0) (One-handed),Thrown Small Bludgeon Melee,+0,One-handed,+0d6,0,Short,Swift,None,"Self, 1",Bludgeon,Close Melee,"Thrown small club, rocks, ect...",Indefinite,Innate
-Thrown Small Bludgeon Melee (+0) (Dual-wielded),Thrown Small Bludgeon Melee,+0,Dual-wielded,+1d6,0,Short,Quick,None,"Self, 2",Bludgeon,Close Melee,"Thrown small club, rocks, ect...",Indefinite,Innate
+Thrown Small Bludgeon Melee (+0) (One-handed),Thrown Small Bludgeon Melee,+0,One-handed,+0d6,0,Short,Swift,None,"Thrown Small Bludgeon Melee (+0), 1",Bludgeon,Close Melee,"Thrown small club, rocks, ect...",Indefinite,Innate
+Thrown Small Bludgeon Melee (+0) (Dual-wielded),Thrown Small Bludgeon Melee,+0,Dual-wielded,+1d6,0,Short,Quick,None,"Thrown Small Bludgeon Melee (+0), 2",Bludgeon,Close Melee,"Thrown small club, rocks, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Thrown Medium Spear (+0) (One-handed),Thrown Medium Spear,+0,One-handed,+1d6,1,Mediocre,Quick,None,"Self, 1",Pierce,Medium Melee,"Thrown Javelins, ect...",Indefinite,Innate
+Thrown Medium Spear (+0) (One-handed),Thrown Medium Spear,+0,One-handed,+1d6,1,Mediocre,Quick,None,"Thrown Medium Spear (+0), 1",Pierce,Medium Melee,"Thrown Javelins, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Thrown Large Spear (+0) (One-handed),Thrown Large Spear,+0,One-handed,+1d6,2,Short,Quick,None,"Self, 1",Pierce,Large Melee,Thrown two-handed spears.,Indefinite,Innate
+Thrown Large Spear (+0) (One-handed),Thrown Large Spear,+0,One-handed,+1d6,2,Short,Quick,None,"Thrown Large Spear (+0), 1",Pierce,Large Melee,Thrown two-handed spears.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 Muzzleloading Pistol (+0) (One-handed),Muzzleloading Pistol,+0,One-handed,+2d6,0,Mediocre,Extremely Slow,None,"Muzzleloading Pistol Cartridge, 1",Ballistic,Small Guns,"Flintlock pistols, ect...",Indefinite,Innate
 Muzzleloading Pistol (+0) (Two-handed),Muzzleloading Pistol,+0,Two-handed,+2d6,0,Medium,Extremely Slow,None,"Muzzleloading Pistol Cartridge, 1",Ballistic,Small Guns,"Flintlock pistols, ect...",Indefinite,Innate
