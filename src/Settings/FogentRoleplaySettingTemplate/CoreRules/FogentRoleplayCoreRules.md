@@ -1777,6 +1777,17 @@ See Ammunitions rules for more information.
 
 For instance, a Size Effect doesn't change anything else on your sheet when added, though it could have a massive impact on how a character is played. A potion with a Healing Effect doesn't have any mechanical effect until a player uses it within narrative.
 
+#### Character Information
+
+|         Name         | Description |  Duration  |    Source    |
+| :-------------------: | :---------: | :--------: | :----------: |
+|         Notes         |            | Indefinite | The Narrator |
+|      Appearance      |            | Indefinite | The Narrator |
+|      Disposition      |            | Indefinite | The Narrator |
+| Beliefs and Morality |            | Indefinite | The Narrator |
+| Goals and Aspirations |            | Indefinite | The Narrator |
+|       Backstory       |            | Indefinite | The Narrator |
+
 #### Assist
 
 See Assist rules for more information.
