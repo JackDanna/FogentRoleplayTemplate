@@ -936,19 +936,35 @@ Combat takes place on gridded battle maps, with each square representing a 5 ft 
 
 ## Movement Speed
 
-Movement Speed is used in combat to determine how quickly a character can move before others as well as the total distance they can move in a round. Movement Speed is made up of two portions, Reaction Movement Speed and Raw Movement Speed.
+Movement Speed is used in combat to determine how quickly a character can move before others as well as the total distance they can move in a round.
 
-Raw Movement Speed = (Raw Movement Speed Base) + ( (Amount From Governing Skill Dice) * (Raw Movement Speed Per Skill Dice) )
+Movement Speed Per Dice Pair Result = (Size of Governing Dice Pool) * (Movement Speed Per Dice)
 
-Total Movement Speed (Reaction Movement Speed) + (Raw Movement Speed)
+Movement Speed = (Movement Speed Base) + (#1 Movement Speed Per Dice Pair Result) + (#2 Movement Speed Per Dice Pair Result) + ect...
 
-|            Name            | Reaction Movement Speed Base | Reaction Movement Speed Per Skill Dice Option | Raw Movement Speed Base | Raw Movement Speed Per Skill Dice Option |                                         Description                                         |  Duration  | Source |
-| :-------------------------: | :--------------------------: | :-------------------------------------------: | :---------------------: | :--------------------------------------: | :-----------------------------------------------------------------------------------------: | :--------: | :----: |
-| Movement Speed: Terrestrial |              0              |                (Dexterity,2.5)                |            0            |             (Athletics,7.5)             | +2.5 Reaction Movement Speed per Dexterity Dice, +7.5 Raw Movement Speed per Athletics Dice | Indefinite | Innate |
-|    Movement Speed: Swim    |              0              |                (Dexterity,2.5)                |            0            |              (Athletics,5)              |  +2.5 Reaction Movement Speed per Dexterity Dice, +5 Raw Movement Speed per Athletics Dice  | Indefinite | Innate |
-|    Movement Speed: Climb    |              0              |                (Dexterity,2.5)                |            0            |              (Athletics,5)              |  +2.5 Reaction Movement Speed per Dexterity Dice, +5 Raw Movement Speed per Athletics Dice  | Indefinite | Innate |
-|   Movement Speed: Flight   |              0              |                 (Dexterity,5)                 |            0            |              (Athletics,10)              |  +5 Reaction Movement Speed per Dexterity Dice, +10 Raw Movement Speed per Athletics Dice  | Indefinite | Innate |
-|   Movement Speed: Aquatic   |              0              |                (Dexterity,2.5)                |            0            |             (Athletics,7.5)             | +2.5 Reaction Movement Speed per Dexterity Dice, +7.5 Raw Movement Speed per Athletics Dice | Indefinite | Innate |
+|                 Name                 |                                         Description                                         |  Duration  | Source | Movement Speed Base |  Movement Speed Per Dice Pairs  |
+| :----------------------------------: | :-----------------------------------------------------------------------------------------: | :--------: | :----: | :-----------------: | :------------------------------: |
+|  Movement Speed: Terrestrial Total  | +2.5 Reaction Movement Speed per Dexterity Dice, +7.5 Raw Movement Speed per Athletics Dice | Indefinite | Innate |          0          | (Dexterity,2.5), (Athletics,7.5) |
+| Movement Speed: Terrestrial Reaction |                       +2.5 Reaction Movement Speed per Dexterity Dice                       | Indefinite | Innate |          0          |         (Dexterity,2.5)         |
+|   Movement Speed: Terrestrial Raw   |                         +7.5 Raw Movement Speed per Athletics Dice                         | Indefinite | Innate |          0          |         (Athletics,7.5)         |
+|                                      |                                                                                            |            |        |                    |                                  |
+|      Movement Speed: Swim Total      | +2.5 Reaction Movement Speed per Dexterity Dice, +5.0 Raw Movement Speed per Athletics Dice | Indefinite | Innate |          0          |  (Dexterity,2.5), (Athletics,5)  |
+|    Movement Speed: Swim Reaction    |                       +2.5 Reaction Movement Speed per Dexterity Dice                       | Indefinite | Innate |          0          |         (Dexterity,2.5)         |
+|       Movement Speed: Swim Raw       |                         +5.0 Raw Movement Speed per Athletics Dice                         | Indefinite | Innate |          0          |          (Athletics,5)          |
+|                                      |                                                                                            |            |        |                    |                                  |
+|     Movement Speed: Climb Total     |  +2.5 Reaction Movement Speed per Dexterity Dice, +5 Raw Movement Speed per Athletics Dice  | Indefinite | Innate |          0          |  (Dexterity,2.5), (Athletics,5)  |
+|    Movement Speed: Climb Reaction    |                       +2.5 Reaction Movement Speed per Dexterity Dice                       | Indefinite | Innate |          0          |         (Dexterity,2.5)         |
+|      Movement Speed: Climb Raw      |                          +5 Raw Movement Speed per Athletics Dice                          | Indefinite | Innate |          0          |          (Athletics,5)          |
+|                                      |                                                                                            |            |        |                    |                                  |
+|     Movement Speed: Flight Total     |  +5 Reaction Movement Speed per Dexterity Dice, +10 Raw Movement Speed per Athletics Dice  | Indefinite | Innate |          0          |  (Dexterity,5), (Athletics,10)  |
+|   Movement Speed: Flight Reaction   |                        +5 Reaction Movement Speed per Dexterity Dice                        | Indefinite | Innate |          0          |          (Dexterity,5)          |
+|      Movement Speed: Flight Raw      |                          +10 Raw Movement Speed per Athletics Dice                          | Indefinite | Innate |          0          |          (Athletics,10)          |
+|                                      |                                                                                            |            |        |                    |                                  |
+|    Movement Speed: Aquatic Total    | +2.5 Reaction Movement Speed per Dexterity Dice, +7.5 Raw Movement Speed per Athletics Dice | Indefinite | Innate |          0          | (Dexterity,2.5), (Athletics,7.5) |
+|   Movement Speed: Aquatic Reaction   |                       +2.5 Reaction Movement Speed per Dexterity Dice                       | Indefinite | Innate |          0          |         (Dexterity,2.5)         |
+|     Movement Speed: Aquatic Raw     |                         +7.5 Raw Movement Speed per Athletics Dice                         | Indefinite | Innate |          0          |         (Athletics,7.5)         |
+
+Movement Speed is made up of two portions, Reaction Movement Speed and Raw Movement Speed.
 
 ### Reaction Movement Speed
 
@@ -1604,17 +1620,17 @@ Adds or subtracts dice for dice pools if they governed by at least one of the At
 **Dice Pool Modifier:** The Dice Pool Modifier that will be applied to a Dice Pool.
 
 |            Name            |                                                                                          Description                                                                                          |        Duration        |                     Source                     | Affected Attributes | Dice Pool Modifier |
-| :------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------: | :--------------------------------------------: | :------------------: | :----------------: |
+| :------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------: | :--------------------------------------------: | :-----------------: | :----------------: |
 |        Minor Injury        |                                 -1d to STR/RFX/INT governed Dice Pools. The injury will naturally heal over the next few days, or faster if treated actively.                                 |    Days if untreated    |                Source of Injury                |    STR, RFX, INT    |         -1         |
 |       Medium Injury       |                          -2d to STR/RFX/INT governed Dice Pools. The injury must be treated relatively soon otherwise further penalties may apply such as infection.                          |   Weeks if untreated   |                Source of Injury                |    STR, RFX, INT    |         -2         |
 |       Serious Injury       |                                                  -3d to STR/RFX/INT governed Dice Pools.  The injury will lead to death in time if untreated.                                                  |   Months if untreated   |                Source of Injury                |    STR, RFX, INT    |         -3         |
 |        Fatal Injury        | -4d to STR/RFX/INT governed Dice Pools. The injury will lead to death very soon if untreated. The character inflicted with this injury is Physically Incapacitated (see the Narrative Effect). | Indefinite if untreated |                Source of Injury                |    STR, RFX, INT    |         -4         |
 |     Death Blow Injury     |                                                                -5d to STR/RFX/INT governed Dice Pools. The injury causes death.                                                                |       Indefinite       |                Source of Injury                |    STR, RFX, INT    |         -5         |
-|                            |                                                                                                                                                                                                |                        |                                                |                      |                    |
-|    Weight Class: Light    |                                                                               -0d to STR/RFX governed Dice Pools                                                                               |       Indefinite       | 0% =< Equipment Weight <= 25% of Carry Weight |       STR, RFX       |         -0         |
-|    Weight Class: Medium    |                                                                               -1d to STR/RFX governed Dice Pools                                                                               |       Indefinite       | 25% < Equipment Weight <= 50% of Carry Weight |       STR, RFX       |         -1         |
-|    Weight Class: Heavy    |                                                                               -2d to STR/RFX governed Dice Pools                                                                               |       Indefinite       | 50% < Equipment Weight <= 100% of Carry Weight |       STR, RFX       |         -2         |
-| Weight Class: Overburdened |                                                                               -4d to STR/RFX governed Dice Pools                                                                               |       Indefinite       |    100% < Equipment Weight of Carry Weight    |       STR, RFX       |         -4         |
+|                            |                                                                                                                                                                                                |                        |                                                |                    |                    |
+|    Weight Class: Light    |                                                                               -0d to STR/RFX governed Dice Pools                                                                               |       Indefinite       | 0% =< Equipment Weight <= 25% of Carry Weight |      STR, RFX      |         -0         |
+|    Weight Class: Medium    |                                                                               -1d to STR/RFX governed Dice Pools                                                                               |       Indefinite       | 25% < Equipment Weight <= 50% of Carry Weight |      STR, RFX      |         -1         |
+|    Weight Class: Heavy    |                                                                               -2d to STR/RFX governed Dice Pools                                                                               |       Indefinite       | 50% < Equipment Weight <= 100% of Carry Weight |      STR, RFX      |         -2         |
+| Weight Class: Overburdened |                                                                               -4d to STR/RFX governed Dice Pools                                                                               |       Indefinite       |    100% < Equipment Weight of Carry Weight    |      STR, RFX      |         -4         |
 
 **Injury:**
 
@@ -1629,7 +1645,7 @@ Represent the physical strain of carrying equipment. Some characters will purpos
 For a specified Attribute, a Character receives an adjustment to it's level. The resulting level can not go outside the upper and lower bounds for a Attribute.
 
 |     Name     |   Description   |  Duration  | Source | Affected Attributes | Level Adjustment |
-| :----------: | :--------------: | :--------: | :----: | :------------------: | :--------------: |
+| :----------: | :--------------: | :--------: | :----: | :-----------------: | :--------------: |
 | Enhanced STR | +1 to STR level. | Indefinite | Innate |         STR         |        1        |
 
 #### Defense
