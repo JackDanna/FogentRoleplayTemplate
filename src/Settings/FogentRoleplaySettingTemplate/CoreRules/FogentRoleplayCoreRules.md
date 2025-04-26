@@ -942,7 +942,7 @@ Raw Movement Speed = (Raw Movement Speed Base) + ( (Amount From Governing Skill 
 
 Total Movement Speed (Reaction Movement Speed) + (Raw Movement Speed)
 
-|            Name            | Reaction Movement Speed Base | Reaction Movement Speed Per Skill Dice Option | Raw Movement Speed Base | Raw Movement Speed Per Skill Dice Option |                                         Description                                         |  Duration  | Source |
+|            Name            | Reaction Movement Speed Base | Optional Reaction Movement Speed Per Dice | Raw Movement Speed Base | Raw Movement Speed Per Skill Dice Option |                                         Description                                         |  Duration  | Source |
 | :-------------------------: | :--------------------------: | :-------------------------------------------: | :---------------------: | :--------------------------------------: | :-----------------------------------------------------------------------------------------: | :--------: | :----: |
 | Movement Speed: Terrestrial |              0              |                (Dexterity,2.5)                |            0            |             (Athletics,7.5)             | +2.5 Reaction Movement Speed per Dexterity Dice, +7.5 Raw Movement Speed per Athletics Dice | Indefinite | Innate |
 |    Movement Speed: Swim    |              0              |                (Dexterity,2.5)                |            0            |              (Athletics,5)              |  +2.5 Reaction Movement Speed per Dexterity Dice, +5 Raw Movement Speed per Athletics Dice  | Indefinite | Innate |
