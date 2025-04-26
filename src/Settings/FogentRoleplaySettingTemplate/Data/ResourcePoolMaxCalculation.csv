@@ -1,4 +1,4 @@
-name,baseAmount,governingSkillNameOption,governingVocationNameOption
+name,baseAmount,optionalGoverningSkillName,governingVocationNameOption
 Nature Connection Resource Pool Max,0,Will,Druid
 Fellblood Resource Pool Max,0,Endurance,Fellcaster
 Focus Resource Pool Max,0,Will,Runesmith
