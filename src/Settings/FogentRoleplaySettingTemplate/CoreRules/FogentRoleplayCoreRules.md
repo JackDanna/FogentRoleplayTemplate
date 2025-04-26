@@ -821,7 +821,7 @@ Ineffective Radius = (Ineffective Radius Base) + ( (Size of governing skill dice
 
 Max Radius = (Max Radius Base) + ( (Size of governing skill dice pool) * (Max Radius Per Dice) )
 
-|           Name           | Effective Radius Base | Effective Radius Per Dice | Optional Ineffective Radius Base | Ineffective Radius Per Dice Option | Max Radius Base Option | Max Radius Per Dice Option |
+|           Name           | Effective Radius Base | Effective Radius Per Dice | Optional Ineffective Radius Base | Optional Ineffective Radius Per Dice | Max Radius Base Option | Max Radius Per Dice Option |
 | :-----------------------: | :-------------------: | :-----------------------: | :----------------------------: | :--------------------------------: | :--------------------: | :------------------------: |
 |        5 ft Sphere        |           5           |             0             |              None              |                None                |          None          |            None            |
 |       10 ft Sphere       |          10          |             0             |              None              |                None                |          None          |            None            |
