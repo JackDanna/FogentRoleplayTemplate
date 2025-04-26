@@ -1547,11 +1547,11 @@ Max Carry Weight = (Max Carry Weight Base) + ( (Amount of Dice in Governing Skil
 
 **Max Carry Weight Per Dice:** The amount of additional Max Carry Weight per dice in the governing skill's dice pool.
 
-**Weight Classes:** For a Carry Weight Effect, Weight Classes represent the "classes" a character falls into depending on the percentage of their Max Carry Weight they are currently carrying. If the weight a character is carrying divided by their Max Carry Weight is greater than "Optional Bottom Percent" and less than or equal to "Top Percent Option", than that is the character's Weight Class. If either "Optional Bottom Percent" or "Top Percent Option" are "None", than they are not used in the above determination. This can be used to describe the lower or upper bond Weight Classes.
+**Weight Classes:** For a Carry Weight Effect, Weight Classes represent the "classes" a character falls into depending on the percentage of their Max Carry Weight they are currently carrying. If the weight a character is carrying divided by their Max Carry Weight is greater than "Optional Bottom Percent" and less than or equal to "Optional Top Percent", than that is the character's Weight Class. If either "Optional Bottom Percent" or "Optional Top Percent" are "None", than they are not used in the above determination. This can be used to describe the lower or upper bond Weight Classes.
 
 Each Weight Class corresponds to an Attribute Dice Mod Effect that will be applied. Each Attribute Dice Mod Effect will almost always effect the same Attributes that Movement Speed relies on, meaning a heavier Weight Class will slow a character's Movement Speed.
 
-|     Name     | Optional Bottom Percent | Top Percent Option | Attribute Dice Mod Effect |
+|     Name     | Optional Bottom Percent | Optional Top Percent | Attribute Dice Mod Effect |
 | :----------: | :-------------------: | :----------------: | :------------------------: |
 |    Light    |         None         |        25.0        |    Weight Class: Light    |
 |    Medium    |         25.0         |        50.0        |    Weight Class: Medium    |

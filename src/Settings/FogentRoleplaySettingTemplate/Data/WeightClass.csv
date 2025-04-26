@@ -1,4 +1,4 @@
-name,optionalBottomPercent,topPercentOption,attributeDiceModEffect
+name,optionalBottomPercent,optionalTopPercent,attributeDiceModEffect
 Light,None,25.0,Weight Class: Light
 Medium,25.0,50.0,Weight Class: Medium
 Heavy,50.0,100.0,Weight Class: Heavy
