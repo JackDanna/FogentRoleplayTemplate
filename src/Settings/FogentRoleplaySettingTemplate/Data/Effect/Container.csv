@@ -1,4 +1,4 @@
-name,description,duration,source,optionalWeightCapacity,volumeCapacityOption,weightlessContents
+name,description,duration,source,optionalWeightCapacity,optionalVolumeCapacity,weightlessContents
 300 lb container,"300 lbs weight capacity and 12 ft^3 volume, such as a Chest.",Indefinite,Innate,300,12,FALSE
 50 lb container,"50 lbs weight capacity. and 1.6 ft^3 volume, such as Saddle Bags.",Indefinite,Innate,50,1.6,FALSE
 35 lb container,"35 lbs weight capacity and 1.2 ft^3 volume, such as a Quality Backpack.",Indefinite,Innate,35,1.2,FALSE

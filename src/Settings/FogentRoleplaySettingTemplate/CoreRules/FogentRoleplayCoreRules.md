@@ -1574,7 +1574,7 @@ Pouches, satchel, sacks, backpacks, chest, etc... are all consider containers. E
 
 **Optional Weight Capacity:** The weight the container is capable of holding. If "None", than it has unlimited capacity for weight.
 
-**Volume Capacity Option:** The volume the container is capable of holding. If "None", than it has unlimited capacity for volume.
+**Optional Volume Capacity:** The volume the container is capable of holding. If "None", than it has unlimited capacity for volume.
 
 **Weightless Contents:** If false, then the contents of this container would be included in it's' total weight, such as a mundane backpack. If true, then then the contents of this container wouldn't be included in the total weight, such as a bag of holding were it's contents are stored in a pocket dimension.
 
