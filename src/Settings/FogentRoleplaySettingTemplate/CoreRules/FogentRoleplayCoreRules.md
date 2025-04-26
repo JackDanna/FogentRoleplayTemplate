@@ -881,13 +881,13 @@ If a character completely depletes their Uses Per Round for a combat round they 
 
 Uses Per Round is calculated using the following equation:
 
-Amount From Governing Skill Dice = if Divisor Option is "None" then 0 else ( (Size of governing skill dice pool) / (Divisor) )
+Amount From Governing Skill Dice = if Optional Divisor is "None" then 0 else ( (Size of governing skill dice pool) / (Divisor) )
 
 Uses Per Round = (Base) + (Amount From Governing Skill Dice), rounded down to the nearest whole number only if above 1, up to the value of Optional Max if not "None"
 
 For example, if a character's' governing skill dice pool had 7 dice and their combat roll has a Uses Per Round of "Quick", then 7 + 0 is 7, divided by 3 is 2.333, which rounded down is 2. There is no "Optional Max" for "Quick" so they would have 2 Uses Per Round for that round.
 
-|         Name         | Base | Divisor Option | Optional Max |
+|         Name         | Base | Optional Divisor | Optional Max |
 | :------------------: | :--: | :------------: | :--------: |
 |        Rapid        |  0  |       1       |    None    |
 |       Swift +2       |  0  |       2       |    None    |
