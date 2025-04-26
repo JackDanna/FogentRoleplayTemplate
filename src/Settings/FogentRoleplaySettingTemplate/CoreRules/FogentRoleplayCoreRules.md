@@ -1572,7 +1572,7 @@ Therefore, since 20% is less than or equal to 25.0%, the character would have a 
 
 Pouches, satchel, sacks, backpacks, chest, etc... are all consider containers. Each container can hold a certain amount of weight and/or volume within.
 
-**Weight Capacity Option:** The weight the container is capable of holding. If "None", than it has unlimited capacity for weight.
+**Optional Weight Capacity:** The weight the container is capable of holding. If "None", than it has unlimited capacity for weight.
 
 **Volume Capacity Option:** The volume the container is capable of holding. If "None", than it has unlimited capacity for volume.
 
