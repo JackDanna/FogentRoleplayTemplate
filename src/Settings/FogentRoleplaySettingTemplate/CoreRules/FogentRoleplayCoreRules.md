@@ -843,7 +843,7 @@ Ineffective Length = (Ineffective Length Base) + ( (Size of governing skill dice
 
 Max Length = (Max Length Base) + ( (Size of governing skill dice pool) * (Max Length Per Dice) )
 
-|          Name          | Angle | Effective Length Base | Effective Length Per Dice | Optional Ineffective Length Base | Optional Ineffective Length Per Dice | Optional Max Length Base | Max Length Per Dice Option |
+|          Name          | Angle | Effective Length Base | Effective Length Per Dice | Optional Ineffective Length Base | Optional Ineffective Length Per Dice | Optional Max Length Base | Optional Max Length Per Dice |
 | :---------------------: | :---: | :-------------------: | :-----------------------: | :----------------------------: | :--------------------------------: | :--------------------: | :------------------------: |
 |       10 ft Cone       | 53.13 |          10          |           None           |              None              |                None                |          None          |            None            |
 |       15 ft Cone       | 53.13 |          15          |           None           |              None              |                None                |          None          |            None            |
