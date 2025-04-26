@@ -1,4 +1,4 @@
-name,usesPerRoundBase,divisorOption,maxOption
+name,usesPerRoundBase,optionalDivisor,optionalMax
 Rapid,0,1,None
 Swift +2,0,2,None
 Swift +1,0,2,None

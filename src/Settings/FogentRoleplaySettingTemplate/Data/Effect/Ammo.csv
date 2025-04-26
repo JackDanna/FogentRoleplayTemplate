@@ -1,4 +1,4 @@
-name,resourceType,dicePoolModifier,baseDiceTierAdjustment,penetrationAdjustment,damageTypes,rangeOption,areaOfEffectOption
+name,resourceType,dicePoolModifier,baseDiceTierAdjustment,penetrationAdjustment,damageTypes,optionalRange,optionalAreaOfEffect
 Light Arrow - Standard,Light Arrow,+0d6,+0,0,Pierce,None,None
 "Light Arrow - Wounding ",Light Arrow,+0d6,+1,0,"Pierce, Bleed",None,None
 Light Arrow - Anti-armor,Light Arrow,+0d6,+0,1,Pierce,None,None
