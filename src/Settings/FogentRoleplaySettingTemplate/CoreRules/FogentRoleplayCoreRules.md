@@ -773,7 +773,7 @@ Ineffective Range = (Ineffective Range Base) + ( (Size of governing skill dice p
 
 Max Range = (Max Range Base) + ( (Size of governing skill dice pool) * (Max Range Per Dice) )
 
-|     Name     | Effective Range Base | Effective Range Per Dice | Optional Ineffective Range Base | Ineffective Range Per Dice Option | Max Range Base Option | Max Range Per Dice Option |
+|     Name     | Effective Range Base | Effective Range Per Dice | Optional Ineffective Range Base | Optional Ineffective Range Per Dice | Max Range Base Option | Max Range Per Dice Option |
 | :----------: | :------------------: | :----------------------: | :---------------------------: | :-------------------------------: | :-------------------: | :-----------------------: |
 |     Self     |          0          |            0            |             None             |               None               |         None         |           None           |
 |    Melee    |          5          |            0            |             None             |               None               |         None         |           None           |
