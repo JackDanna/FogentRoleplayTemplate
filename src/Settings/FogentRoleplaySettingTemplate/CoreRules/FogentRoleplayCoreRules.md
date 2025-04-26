@@ -1599,11 +1599,11 @@ When representing a container on a character sheet, a similar table as the one b
 
 Adds or subtracts dice for dice pools if they governed by at least one of the Attributes specified.
 
-**Attributes To Effect:** If any skill is governed by at least one of the attribute listed, than apply the Dice Pool Modifier to that Skill's Dice Pool.
+**Affected Attributes:** If any skill is governed by at least one of the attribute listed, than apply the Dice Pool Modifier to that Skill's Dice Pool.
 
 **Dice Pool Modifier:** The Dice Pool Modifier that will be applied to a Dice Pool.
 
-|            Name            |                                                                                          Description                                                                                          |        Duration        |                     Source                     | Attributes To Effect | Dice Pool Modifier |
+|            Name            |                                                                                          Description                                                                                          |        Duration        |                     Source                     | Affected Attributes | Dice Pool Modifier |
 | :------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------: | :--------------------------------------------: | :------------------: | :----------------: |
 |        Minor Injury        |                                 -1d to STR/RFX/INT governed Dice Pools. The injury will naturally heal over the next few days, or faster if treated actively.                                 |    Days if untreated    |                Source of Injury                |    STR, RFX, INT    |         -1         |
 |       Medium Injury       |                          -2d to STR/RFX/INT governed Dice Pools. The injury must be treated relatively soon otherwise further penalties may apply such as infection.                          |   Weeks if untreated   |                Source of Injury                |    STR, RFX, INT    |         -2         |
@@ -1628,7 +1628,7 @@ Represent the physical strain of carrying equipment. Some characters will purpos
 
 For a specified Attribute, a Character receives an adjustment to it's level. The resulting level can not go outside the upper and lower bounds for a Attribute.
 
-|     Name     |   Description   |  Duration  | Source | Attributes To Effect | Level Adjustment |
+|     Name     |   Description   |  Duration  | Source | Affected Attributes | Level Adjustment |
 | :----------: | :--------------: | :--------: | :----: | :------------------: | :--------------: |
 | Enhanced STR | +1 to STR level. | Indefinite | Innate |         STR         |        1        |
 
@@ -1759,7 +1759,7 @@ These are literally just skill checks. This way, if there is a use of one of a c
 
 For a specified Skill/Vocation, a Character receives an adjustment to it's level. The resulting level can not go outside the upper and lower bounds for a Skill/Vocation.
 
-|           Name           |    Description    |  Duration  | Source | Skills To Effect | Level Adjustment |
+|           Name           |    Description    |  Duration  | Source | Affected Skills | Level Adjustment |
 | :----------------------: | :---------------: | :--------: | :----: | :--------------: | :--------------: |
 | Lift Level +1 Adjustment | +1 to Lift level. | Indefinite | Innate | Lift, Perception |        1        |
 
