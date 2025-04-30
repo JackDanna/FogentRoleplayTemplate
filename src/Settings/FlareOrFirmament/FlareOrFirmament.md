@@ -1,1 +1,0 @@
-- Space Opera, firefly like setting
