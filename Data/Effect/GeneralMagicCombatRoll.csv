@@ -1,94 +1,94 @@
-name,combatRollTypeToInheriet,OldName,baseDiceTierAdjustment,handedVariation,dicePoolModifier,penetration,range,usesPerRound,areaOfEffect,optionalResourceTypeAndAmount,damageTypes,governingSkillName,description,duration,source
-,Unarmed,Unarmed (+0) (Dual-wielded),+0,Dual-wielded,-1,0,Melee,Swift,None,None,Bludgeon,Close Melee,Just your bare hands. Can be used in a Grapple.,Indefinite,Innate
+name,combatRollType,baseDiceTierAdjustment,handedVariation,optionalResourceTypeAndAmount,damageTypes,governingSkillName,description,duration,source,OldName,dicePoolModifier,penetration,range,usesPerRound,areaOfEffect
+Glove - {Magic Skill},Unarmed,+0,Dual-wielded,None,{Magic Skill Damage Type},{Magic Skill Damage Type},Just your bare hands. Can be used in a Grapple.,Indefinite,Innate,Unarmed (+0) (Dual-wielded),-1,0,Melee,Swift,None
 ,,,,,,,,,,,,,,,
-,Small Slash Melee,Small Slash Melee (+0) (One-handed),+0,One-handed,+0d6,0,Melee,Swift,None,None,Slash,Close Melee,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
-,Small Slash Melee,Small Slash Melee (+0) (Dual-wielded),+0,Dual-wielded,+1d6,0,Melee,Swift +1,None,None,Slash,Close Melee,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
+Small Melee - {Magic Skill},Small Slash Melee,+0,One-handed,None,{Magic Skill Damage Type},{Magic Skill},"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate,Small Slash Melee (+0) (One-handed),+0d6,0,Melee,Swift,None
+Small Melee - {Magic Skill},Small Slash Melee,+0,Dual-wielded,None,{Magic Skill Damage Type},{Magic Skill},"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate,Small Slash Melee (+0) (Dual-wielded),+1d6,0,Melee,Swift +1,None
 ,,,,,,,,,,,,,,,
-,Medium Slash Melee,Medium Slash Melee (+0) (One-handed),+0,One-handed,+1d6,1,Melee,Swift,None,None,Slash,Medium Melee,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",Indefinite,Innate
-,Medium Slash Melee,Medium Slash Melee (+0) (Two-handed),+0,Two-handed,+2d6,1,Melee,Swift,None,None,Slash,Medium Melee,"Bastard Sword, Medium swords with two-handed grips, ect...",Indefinite,Innate
-,Medium Slash Melee,Medium Slash Melee (+0) (Dual-wielded),+0,Dual-wielded,+2d6,1,Melee,Swift +1,None,None,Slash,Medium Melee,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",Indefinite,Innate
+Medium Melee - {Magic Skill},Medium Slash Melee,+0,One-handed,None,{Magic Skill Damage Type},{Magic Skill},"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",Indefinite,Innate,Medium Slash Melee (+0) (One-handed),+1d6,1,Melee,Swift,None
+Medium Melee - {Magic Skill},Medium Slash Melee,+0,Two-handed,None,{Magic Skill Damage Type},{Magic Skill},"Bastard Sword, Medium swords with two-handed grips, ect...",Indefinite,Innate,Medium Slash Melee (+0) (Two-handed),+2d6,1,Melee,Swift,None
+Medium Melee - {Magic Skill},Medium Slash Melee,+0,Dual-wielded,None,{Magic Skill Damage Type},{Magic Skill},"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",Indefinite,Innate,Medium Slash Melee (+0) (Dual-wielded),+2d6,1,Melee,Swift +1,None
 ,,,,,,,,,,,,,,,
-,Medium Spear,Medium Spear (+0) (One-handed),+0,One-handed,+1d8,1,Melee,Quick,None,None,Pierce,Medium Melee,"Javelin, short spear, large creature horns, ect...",Indefinite,Innate
-,Medium Spear,Medium Spear (+0) (Dual-wielded),+0,Dual-wielded,"+1d8, 1d6",1,Melee,Quick,None,None,Pierce,Medium Melee,"Javelin, short spear, large creature horns, ect...",Indefinite,Innate
+Medium Spear - {Magic Skill},Medium Spear,+0,One-handed,None,{Magic Skill Damage Type},{Magic Skill},"Javelin, short spear, large creature horns, ect...",Indefinite,Innate,Medium Spear (+0) (One-handed),+1d8,1,Melee,Quick,None
+Medium Spear - {Magic Skill},Medium Spear,+0,Dual-wielded,None,{Magic Skill Damage Type},{Magic Skill},"Javelin, short spear, large creature horns, ect...",Indefinite,Innate,Medium Spear (+0) (Dual-wielded),"+1d8, 1d6",1,Melee,Quick,None
 ,,,,,,,,,,,,,,,
-,Large Slash Melee,Large Slash Melee (+0) (One-handed),+0,One-handed,+0d6,1,Melee,Swift,None,None,Slash,Large Melee,"Longsword, Ōdachi, ect...",Indefinite,Innate
-,Large Slash Melee,Large Slash Melee (+0) (Two-handed),+0,Two-handed,+2d6,2,Melee,Swift,None,None,Slash,Large Melee,"Longsword, Ōdachi, ect...",Indefinite,Innate
+Large Melee - {Magic Skill},Large Slash Melee,+0,One-handed,None,{Magic Skill Damage Type},{Magic Skill},"Longsword, Ōdachi, ect...",Indefinite,Innate,Large Slash Melee (+0) (One-handed),+0d6,1,Melee,Swift,None
+Large Melee - {Magic Skill},Large Slash Melee,+0,Two-handed,None,{Magic Skill Damage Type},{Magic Skill},"Longsword, Ōdachi, ect...",Indefinite,Innate,Large Slash Melee (+0) (Two-handed),+2d6,2,Melee,Swift,None
 ,,,,,,,,,,,,,,,
-,Large Spear,Large Spear (+0) (One-handed),+0,One-handed,+0d6,1,Melee,Quick,None,None,Pierce,Large Melee,"Two-handed spear, ect...",Indefinite,Innate
-,Large Spear,Large Spear (+0) (Two-handed),+0,Two-handed,"+1d8, 1d6",2,Melee,Quick,None,None,Pierce,Large Melee,"Two-handed spear, ect...",Indefinite,Innate
+Large Spear - {Magic Skill},Large Spear,+0,One-handed,None,{Magic Skill Damage Type},{Magic Skill},"Two-handed spear, ect...",Indefinite,Innate,Large Spear (+0) (One-handed),+0d6,1,Melee,Quick,None
+Large Spear - {Magic Skill},Large Spear,+0,Two-handed,None,{Magic Skill Damage Type},{Magic Skill},"Two-handed spear, ect...",Indefinite,Innate,Large Spear (+0) (Two-handed),"+1d8, 1d6",2,Melee,Quick,None
 ,,,,,,,,,,,,,,,
-,Reach Slash Melee,Reach Slash Melee (+0) (One-handed),+0,One-handed,-1,1,Reach,Swift +2,None,None,Slash,Reach Melee,"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",Indefinite,Innate
-,Reach Slash Melee,Reach Slash Melee (+0) (Two-handed),+0,Two-handed,+3d6,3,Reach,Swift +2,None,None,Slash,Reach Melee,"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",Indefinite,Innate
+Reach Melee - {Magic Skill},Reach Slash Melee,+0,One-handed,None,{Magic Skill Damage Type},{Magic Skill},"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",Indefinite,Innate,Reach Slash Melee (+0) (One-handed),-1,1,Reach,Swift +2,None
+Reach Melee - {Magic Skill},Reach Slash Melee,+0,Two-handed,None,{Magic Skill Damage Type},{Magic Skill},"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",Indefinite,Innate,Reach Slash Melee (+0) (Two-handed),+3d6,3,Reach,Swift +2,None
 ,,,,,,,,,,,,,,,
-,Reach Spear,Reach Spear (+0) (One-handed),+0,One-handed,-1,1,Reach,Steady,None,None,Pierce,Reach Melee,"Pike, lance, ect... Disadvantage while in confined spaces.",Indefinite,Innate
-,Reach Spear,Reach Spear (+0) (Two-handed),+0,Two-handed,"+1d8, 2d6",3,Reach,Steady,None,None,Pierce,Reach Melee,"Pike, lance, ect... Disadvantage while in confined spaces.",Indefinite,Innate
+Reach Spear - {Magic Skill},Reach Spear,+0,One-handed,None,{Magic Skill Damage Type},{Magic Skill},"Pike, lance, ect... Disadvantage while in confined spaces.",Indefinite,Innate,Reach Spear (+0) (One-handed),-1,1,Reach,Steady,None
+Reach Spear - {Magic Skill},Reach Spear,+0,Two-handed,None,{Magic Skill Damage Type},{Magic Skill},"Pike, lance, ect... Disadvantage while in confined spaces.",Indefinite,Innate,Reach Spear (+0) (Two-handed),"+1d8, 2d6",3,Reach,Steady,None
 ,,,,,,,,,,,,,,,
-,Whip,Whip (+0) (One-handed),+0,One-handed,+0d6,0,Reach,Swift,None,None,Slash,Exotic Melee,"Bullwhips, ect... Disadvantage while in confined spaces.",Indefinite,Innate
-,Whip,Whip (+0) (Dual-wielded),+0,Dual-wielded,+1d6,0,Reach,Swift +1,None,None,Slash,Exotic Melee,"Bullwhips, ect... Disadvantage while in confined spaces.",Indefinite,Innate
+Whip - {Magic Skill},Whip,+0,One-handed,None,{Magic Skill Damage Type},{Magic Skill},"Bullwhips, ect... Disadvantage while in confined spaces.",Indefinite,Innate,Whip (+0) (One-handed),+0d6,0,Reach,Swift,None
+Whip - {Magic Skill},Whip,+0,Dual-wielded,None,{Magic Skill Damage Type},{Magic Skill},"Bullwhips, ect... Disadvantage while in confined spaces.",Indefinite,Innate,Whip (+0) (Dual-wielded),+1d6,0,Reach,Swift +1,None
 ,,,,,,,,,,,,,,,
-,Hand Crossbow,Hand Crossbow (+0) (One-handed),+0,One-handed,+1d6,0,Mediocre,Quick,None,"Light Bolt, 1",Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
-,Hand Crossbow,Hand Crossbow (+0) (Two-handed),+0,Two-handed,+1d6,0,Medium,Quick,None,"Light Bolt, 1",Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
-,Hand Crossbow,Hand Crossbow (+0) (Dual-wielded),+0,Dual-wielded,+2d6,0,Mediocre,Steady,None,"Light Bolt, 2",Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
+Hand Crossbow - {Magic Skill},Hand Crossbow,+0,One-handed,"Light Bolt, 1",{Magic Skill Damage Type},{Magic Skill},Small crossbows designed to be held in one hand.,Indefinite,Innate,Hand Crossbow (+0) (One-handed),+1d6,0,Mediocre,Quick,None
+Hand Crossbow - {Magic Skill},Hand Crossbow,+0,Two-handed,"Light Bolt, 1",{Magic Skill Damage Type},{Magic Skill},Small crossbows designed to be held in one hand.,Indefinite,Innate,Hand Crossbow (+0) (Two-handed),+1d6,0,Medium,Quick,None
+Hand Crossbow,Hand Crossbow,+0,Dual-wielded,"Light Bolt, 2",{Magic Skill Damage Type},{Magic Skill},Small crossbows designed to be held in one hand.,Indefinite,Innate,Hand Crossbow (+0) (Dual-wielded),+2d6,0,Mediocre,Steady,None
 ,,,,,,,,,,,,,,,
-,Light Crossbow,Light Crossbow (+0) (One-handed),+0,One-handed,+0d6,1,Far,Steady,None,"Light Bolt, 1",Pierce,Light Crossbow,"Crossbows balancing power and reload time. ",Indefinite,Innate
-,Light Crossbow,Light Crossbow (+0) (Two-handed),+0,Two-handed,+1d6,1,Far,Steady,None,"Light Bolt, 1",Pierce,Light Crossbow,"Crossbows balancing power and reload time. ",Indefinite,Innate
+Light Crossbow - {Magic Skill},Light Crossbow,+0,One-handed,"Light Bolt, 1",{Magic Skill Damage Type},{Magic Skill},"Crossbows balancing power and reload time. ",Indefinite,Innate,Light Crossbow (+0) (One-handed),+0d6,1,Far,Steady,None
+Light Crossbow - {Magic Skill},Light Crossbow,+0,Two-handed,"Light Bolt, 1",{Magic Skill Damage Type},{Magic Skill},"Crossbows balancing power and reload time. ",Indefinite,Innate,Light Crossbow (+0) (Two-handed),+1d6,1,Far,Steady,None
 ,,,,,,,,,,,,,,,
-,Heavy Crossbow,Heavy Crossbow (+0) (Two-handed),+0,Two-handed,+2d6,2,Long,Extremely Slow,None,"Heavy Bolt, 1",Pierce,Heavy Crossbow,Crossbows designed for maximum power disregarding reload time.,Indefinite,Innate
+Heavy Crossbow - {Magic Skill},Heavy Crossbow,+0,Two-handed,"Heavy Bolt, 1",{Magic Skill Damage Type},{Magic Skill},Crossbows designed for maximum power disregarding reload time.,Indefinite,Innate,Heavy Crossbow (+0) (Two-handed),+2d6,2,Long,Extremely Slow,None
 ,,,,,,,,,,,,,,,
-,Light Bow,Light Bow (+0) (Two-handed),+0,Two-handed,+1d6,0,Far,Swift,None,"Light Arrow, 1",Pierce,Light Bow,Bows favoring easier drawing versus power.,Indefinite,Innate
+Light Bow - {Magic Skill},Light Bow,+0,Two-handed,"Light Arrow, 1",{Magic Skill Damage Type},{Magic Skill},Bows favoring easier drawing versus power.,Indefinite,Innate,Light Bow (+0) (Two-handed),+1d6,0,Far,Swift,None
 ,,,,,,,,,,,,,,,
-,Heavy Bow,Heavy Bow (+0) (Two-handed),+0,Two-handed,+2d6,2,Sharpshooter,Quick,None,"Heavy Arrow, 1",Pierce,Heavy Bow,Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,Indefinite,Innate
+Heavy Bow - {Magic Skill},Heavy Bow,+0,Two-handed,"Heavy Arrow, 1",{Magic Skill Damage Type},{Magic Skill},Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,Indefinite,Innate,Heavy Bow (+0) (Two-handed),+2d6,2,Sharpshooter,Quick,None
 ,,,,,,,,,,,,,,,
-,Blowgun,Blowgun (+0) (One-handed),+0,One-handed,+0d6,0,Mediocre,Quick,None,"Blowgun Dart, 1",Pierce,Exotic Ranged,A long narrow tube that propels darts using the force of the force of the users's breath.,Indefinite,Innate
+Blowgun - {Magic Skill},Blowgun,+0,One-handed,"Blowgun Dart, 1",{Magic Skill Damage Type},{Magic Skill},A long narrow tube that propels darts using the force of the force of the users's breath.,Indefinite,Innate,Blowgun (+0) (One-handed),+0d6,0,Mediocre,Quick,None
 ,,,,,,,,,,,,,,,
-,Sling,Sling (+0) (Two-handed),+0,Two-handed,+0d6,0,Mediocre,Quick,None,"Sling Bullet, 1",Bludgeon,Exotic Ranged,A flexible strap used to hurl small objects.,Indefinite,Innate
+Sling - {Magic Skill},Sling,+0,Two-handed,"Sling Bullet, 1",{Magic Skill Damage Type},{Magic Skill},A flexible strap used to hurl small objects.,Indefinite,Innate,Sling (+0) (Two-handed),+0d6,0,Mediocre,Quick,None
 ,,,,,,,,,,,,,,,
-,Thrown Small Slash Melee,Thrown Small Slash Melee (+0) (One-handed),+0,One-handed,+0d6,0,Short,Swift,None,"Thrown Small Slash Melee (+0), 1",Slash,Close Melee,"Ninja stars, ect...",Indefinite,Innate
-,Thrown Small Slash Melee,Thrown Small Slash Melee (+0) (Dual-wielded),+0,Dual-wielded,+1d6,0,Short,Quick,None,"Thrown Small Slash Melee (+0), 2",Slash,Close Melee,"Ninja stars, ect...",Indefinite,Innate
+Thrown Small - {Magic Skill},Thrown Small Slash Melee,+0,One-handed,"Thrown Small Slash Melee (+0), 1",{Magic Skill Damage Type},{Magic Skill},"Ninja stars, ect...",Indefinite,Innate,Thrown Small Slash Melee (+0) (One-handed),+0d6,0,Short,Swift,None
+Thrown Small - {Magic Skill},Thrown Small Slash Melee,+0,Dual-wielded,"Thrown Small Slash Melee (+0), 2",{Magic Skill Damage Type},{Magic Skill},"Ninja stars, ect...",Indefinite,Innate,Thrown Small Slash Melee (+0) (Dual-wielded),+1d6,0,Short,Quick,None
 ,,,,,,,,,,,,,,,
-,Thrown Medium Spear,Thrown Medium Spear (+0) (One-handed),+0,One-handed,+1d6,1,Mediocre,Quick,None,"Thrown Medium Spear (+0), 1",Pierce,Medium Melee,"Thrown Javelins, ect...",Indefinite,Innate
+Thrown Medium Spear - {Magic Skill},Thrown Medium Spear,+0,One-handed,"Thrown Medium Spear (+0), 1",{Magic Skill Damage Type},{Magic Skill},"Thrown Javelins, ect...",Indefinite,Innate,Thrown Medium Spear (+0) (One-handed),+1d6,1,Mediocre,Quick,None
 ,,,,,,,,,,,,,,,
-,Thrown Large Spear,Thrown Large Spear (+0) (One-handed),+0,One-handed,+1d6,2,Short,Quick,None,"Thrown Large Spear (+0), 1",Pierce,Large Melee,Thrown two-handed spears.,Indefinite,Innate
+Thrown Large Spear - {Magic Skill},Thrown Large Spear,+0,One-handed,"Thrown Large Spear (+0), 1",{Magic Skill Damage Type},{Magic Skill},Thrown two-handed spears.,Indefinite,Innate,Thrown Large Spear (+0) (One-handed),+1d6,2,Short,Quick,None
 ,,,,,,,,,,,,,,,
-,Muzzleloading Pistol,Muzzleloading Pistol (+0) (One-handed),+0,One-handed,+2d6,0,Mediocre,Extremely Slow,None,"Muzzleloading Pistol Cartridge, 1",Ballistic,Small Guns,"Flintlock pistols, ect...",Indefinite,Innate
-,Muzzleloading Pistol,Muzzleloading Pistol (+0) (Two-handed),+0,Two-handed,+2d6,0,Medium,Extremely Slow,None,"Muzzleloading Pistol Cartridge, 1",Ballistic,Small Guns,"Flintlock pistols, ect...",Indefinite,Innate
-,Muzzleloading Pistol,Muzzleloading Pistol (+0) (Dual-wielded),+0,Dual-wielded,+3d6,0,Mediocre,Painfully Slow,None,"Muzzleloading Pistol Cartridge, 2",Ballistic,Small Guns,"Flintlock pistols, ect...",Indefinite,Innate
+Muzzleloading Pistol - {Magic Skill},Muzzleloading Pistol,+0,One-handed,"Muzzleloading Pistol Cartridge, 1",{Magic Skill Damage Type},{Magic Skill},"Flintlock pistols, ect...",Indefinite,Innate,Muzzleloading Pistol (+0) (One-handed),+2d6,0,Mediocre,Extremely Slow,None
+Muzzleloading Pistol - {Magic Skill},Muzzleloading Pistol,+0,Two-handed,"Muzzleloading Pistol Cartridge, 1",{Magic Skill Damage Type},{Magic Skill},"Flintlock pistols, ect...",Indefinite,Innate,Muzzleloading Pistol (+0) (Two-handed),+2d6,0,Medium,Extremely Slow,None
+Muzzleloading Pistol - {Magic Skill},Muzzleloading Pistol,+0,Dual-wielded,"Muzzleloading Pistol Cartridge, 2",{Magic Skill Damage Type},{Magic Skill},"Flintlock pistols, ect...",Indefinite,Innate,Muzzleloading Pistol (+0) (Dual-wielded),+3d6,0,Mediocre,Painfully Slow,None
 ,,,,,,,,,,,,,,,
-,Arquebus,Arquebus (+0) (One-handed),+0,One-handed,+0d6,1,Long,Extremely Slow,None,"Arquebus Cartridge, 1",Ballistic,Medium Guns,Can be used as a Combat Roll.,Indefinite,Innate
-,Arquebus,Arquebus (+0) (Two-handed),+0,Two-handed,+2d6,1,Long,Extremely Slow,None,"Arquebus Cartridge, 1",Ballistic,Medium Guns,Can be used as a Combat Roll.,Indefinite,Innate
+Arquebus - {Magic Skill},Arquebus,+0,One-handed,"Arquebus Cartridge, 1",{Magic Skill Damage Type},{Magic Skill},Can be used as a Combat Roll.,Indefinite,Innate,Arquebus (+0) (One-handed),+0d6,1,Long,Extremely Slow,None
+Arquebus - {Magic Skill},Arquebus,+0,Two-handed,"Arquebus Cartridge, 1",{Magic Skill Damage Type},{Magic Skill},Can be used as a Combat Roll.,Indefinite,Innate,Arquebus (+0) (Two-handed),+2d6,1,Long,Extremely Slow,None
 ,,,,,,,,,,,,,,,
-,Musket,Musket (+0) (One-handed),+0,One-handed,+0d6,1,Sharpshooter,Painfully Slow,None,"Musket Cartridge, 1",Ballistic,Medium Guns,Flintlock smoothbore long guns.,Indefinite,Innate
-,Musket,Musket (+0) (Two-handed),+0,Two-handed,+3d6,1,Sharpshooter,Painfully Slow,None,"Musket Cartridge, 1",Ballistic,Medium Guns,Flintlock smoothbore long guns.,Indefinite,Innate
+Musket - {Magic Skill},Musket,+0,One-handed,"Musket Cartridge, 1",{Magic Skill Damage Type},{Magic Skill},Flintlock smoothbore long guns.,Indefinite,Innate,Musket (+0) (One-handed),+0d6,1,Sharpshooter,Painfully Slow,None
+Musket - {Magic Skill},Musket,+0,Two-handed,"Musket Cartridge, 1",{Magic Skill Damage Type},{Magic Skill},Flintlock smoothbore long guns.,Indefinite,Innate,Musket (+0) (Two-handed),+3d6,1,Sharpshooter,Painfully Slow,None
 ,,,,,,,,,,,,,,,
-,9mm Semi-automatic Pistol,9mm Semi-automatic Pistol (+0) (One-handed),+0,One-handed,+2d6,2,Extended,Swift +2,None,"9mm Round, 1",Ballistic,Small Guns,"Glock 17, ect...",Indefinite,Innate
-,9mm Semi-automatic Pistol,9mm Semi-automatic Pistol (+0) (Two-handed),+0,Two-handed,+2d6,2,Far,Swift +2,None,"9mm Round, 1",Ballistic,Small Guns,"Glock 17, ect...",Indefinite,Innate
-,9mm Semi-automatic Pistol,9mm Semi-automatic Pistol (+0) (Dual-wielded),+0,Dual-wielded,+3d6,2,Extended,Swift +2,None,"9mm Round, 2",Ballistic,Small Guns,"Glock 17, ect...",Indefinite,Innate
+9mm Semi-automatic Pistol  - {Magic Skill},9mm Semi-automatic Pistol,+0,One-handed,"9mm Round, 1",{Magic Skill Damage Type},{Magic Skill},"Glock 17, ect...",Indefinite,Innate,9mm Semi-automatic Pistol (+0) (One-handed),+2d6,2,Extended,Swift +2,None
+9mm Semi-automatic Pistol - {Magic Skill},9mm Semi-automatic Pistol,+0,Two-handed,"9mm Round, 1",{Magic Skill Damage Type},{Magic Skill},"Glock 17, ect...",Indefinite,Innate,9mm Semi-automatic Pistol (+0) (Two-handed),+2d6,2,Far,Swift +2,None
+9mm Semi-automatic Pistol - {Magic Skill},9mm Semi-automatic Pistol,+0,Dual-wielded,"9mm Round, 2",{Magic Skill Damage Type},{Magic Skill},"Glock 17, ect...",Indefinite,Innate,9mm Semi-automatic Pistol (+0) (Dual-wielded),+3d6,2,Extended,Swift +2,None
 ,,,,,,,,,,,,,,,
-,9mm Burst-fire Pistol,9mm Burst-fire Pistol (+0) (One-handed),+0,One-handed,+3d6,2,Mediocre,Swift +2,None,"9mm Round, 3",Ballistic,Small Guns,"Beretta 93R, ect...",Indefinite,Innate
-,9mm Burst-fire Pistol,9mm Burst-fire Pistol (+0) (Two-handed),+0,Two-handed,+3d6,2,Medium,Swift +2,None,"9mm Round, 3",Ballistic,Small Guns,"Beretta 93R, ect...",Indefinite,Innate
-,9mm Burst-fire Pistol,9mm Burst-fire Pistol (+0) (Dual-wielded),+0,Dual-wielded,+4d6,2,Mediocre,Swift +2,None,"9mm Round, 6",Ballistic,Small Guns,"Beretta 93R, ect...",Indefinite,Innate
+9mm Burst-fire Pistol - {Magic Skill},9mm Burst-fire Pistol,+0,One-handed,"9mm Round, 3",{Magic Skill Damage Type},{Magic Skill},"Beretta 93R, ect...",Indefinite,Innate,9mm Burst-fire Pistol (+0) (One-handed),+3d6,2,Mediocre,Swift +2,None
+9mm Burst-fire Pistol - {Magic Skill},9mm Burst-fire Pistol,+0,Two-handed,"9mm Round, 3",{Magic Skill Damage Type},{Magic Skill},"Beretta 93R, ect...",Indefinite,Innate,9mm Burst-fire Pistol (+0) (Two-handed),+3d6,2,Medium,Swift +2,None
+9mm Burst-fire Pistol - {Magic Skill},9mm Burst-fire Pistol,+0,Dual-wielded,"9mm Round, 6",{Magic Skill Damage Type},{Magic Skill},"Beretta 93R, ect...",Indefinite,Innate,9mm Burst-fire Pistol (+0) (Dual-wielded),+4d6,2,Mediocre,Swift +2,None
 ,,,,,,,,,,,,,,,
-,9mm Automatic Pistol,9mm Automatic Pistol (+0) (One-handed),+0,One-handed,+3d6,2,Short,Rapid,None,"9mm Round, 6",Ballistic,Small Guns,"Glock 18, ect...",Indefinite,Innate
-,9mm Automatic Pistol,9mm Automatic Pistol (+0) (Two-handed),+0,Two-handed,+3d6,2,Mediocre,Rapid,None,"9mm Round, 6",Ballistic,Small Guns,"Glock 18, ect...",Indefinite,Innate
-,9mm Automatic Pistol,9mm Automatic Pistol (+0) (Dual-wielded),+0,Dual-wielded,+4d6,2,Short,Rapid,None,"9mm Round, 12",Ballistic,Small Guns,"Glock 18, ect...",Indefinite,Innate
+9mm Automatic Pistol - {Magic Skill},9mm Automatic Pistol,+0,One-handed,"9mm Round, 6",{Magic Skill Damage Type},{Magic Skill},"Glock 18, ect...",Indefinite,Innate,9mm Automatic Pistol (+0) (One-handed),+3d6,2,Short,Rapid,None
+9mm Automatic Pistol - {Magic Skill},9mm Automatic Pistol,+0,Two-handed,"9mm Round, 6",{Magic Skill Damage Type},{Magic Skill},"Glock 18, ect...",Indefinite,Innate,9mm Automatic Pistol (+0) (Two-handed),+3d6,2,Mediocre,Rapid,None
+9mm Automatic Pistol - {Magic Skill},9mm Automatic Pistol,+0,Dual-wielded,"9mm Round, 12",{Magic Skill Damage Type},{Magic Skill},"Glock 18, ect...",Indefinite,Innate,9mm Automatic Pistol (+0) (Dual-wielded),+4d6,2,Short,Rapid,None
 ,,,,,,,,,,,,,,,
-,12 Gauge Pump-action Shotgun,12 Gauge Pump-action Shotgun (+0) (One-handed),+0,One-handed,+1d6,2,Extended,Swift,None,"12 Gauge Shell, 1",Ballistic,Medium Guns,"Remington 870, Mossberg 500, ect...",Indefinite,Innate
-,12 Gauge Pump-action Shotgun,12 Gauge Pump-action Shotgun (+0) (Two-handed),+0,Two-handed,+3d6,2,Extended,Swift,None,"12 Gauge Shell, 1",Ballistic,Medium Guns,"Remington 870, Mossberg 500, ect...",Indefinite,Innate
+12 Gauge Pump-action Shotgun - {Magic Skill},12 Gauge Pump-action Shotgun,+0,One-handed,"12 Gauge Shell, 1",{Magic Skill Damage Type},{Magic Skill},"Remington 870, Mossberg 500, ect...",Indefinite,Innate,12 Gauge Pump-action Shotgun (+0) (One-handed),+1d6,2,Extended,Swift,None
+12 Gauge Pump-action Shotgun - {Magic Skill},12 Gauge Pump-action Shotgun,+0,Two-handed,"12 Gauge Shell, 1",{Magic Skill Damage Type},{Magic Skill},"Remington 870, Mossberg 500, ect...",Indefinite,Innate,12 Gauge Pump-action Shotgun (+0) (Two-handed),+3d6,2,Extended,Swift,None
 ,,,,,,,,,,,,,,,
-,5.56 Semi-automatic Rifle,5.56 Semi-automatic Rifle (+0) (One-handed),+0,One-handed,+1d6,3,Extreme,Swift +2,None,"5.56 Round, 1",Ballistic,Medium Guns,"AR-15, ect...",Indefinite,Innate
-,5.56 Semi-automatic Rifle,5.56 Semi-automatic Rifle (+0) (Two-handed),+0,Two-handed,+3d6,3,Extreme,Swift +2,None,"5.56 Round, 1",Ballistic,Medium Guns,"AR-15, ect...",Indefinite,Innate
+5.56 Semi-automatic Rifle - {Magic Skill},5.56 Semi-automatic Rifle,+0,One-handed,"5.56 Round, 1",{Magic Skill Damage Type},{Magic Skill},"AR-15, ect...",Indefinite,Innate,5.56 Semi-automatic Rifle (+0) (One-handed),+1d6,3,Extreme,Swift +2,None
+5.56 Semi-automatic Rifle - {Magic Skill},5.56 Semi-automatic Rifle,+0,Two-handed,"5.56 Round, 1",{Magic Skill Damage Type},{Magic Skill},"AR-15, ect...",Indefinite,Innate,5.56 Semi-automatic Rifle (+0) (Two-handed),+3d6,3,Extreme,Swift +2,None
 ,,,,,,,,,,,,,,,
-,5.56 Burst Rifle,5.56 Burst Rifle (+0) (One-handed),+0,One-handed,+2d6,3,Sharpshooter,Swift +2,None,"5.56 Round, 3",Ballistic,Medium Guns,"M16A2, ect...",Indefinite,Innate
-,5.56 Burst Rifle,5.56 Burst Rifle (+0) (Two-handed),+0,Two-handed,+4d6,3,Sharpshooter,Swift +2,None,"5.56 Round, 3",Ballistic,Medium Guns,"M16A2, ect...",Indefinite,Innate
+5.56 Burst Rifle - {Magic Skill},5.56 Burst Rifle,+0,One-handed,"5.56 Round, 3",{Magic Skill Damage Type},{Magic Skill},"M16A2, ect...",Indefinite,Innate,5.56 Burst Rifle (+0) (One-handed),+2d6,3,Sharpshooter,Swift +2,None
+5.56 Burst Rifle - {Magic Skill},5.56 Burst Rifle,+0,Two-handed,"5.56 Round, 3",{Magic Skill Damage Type},{Magic Skill},"M16A2, ect...",Indefinite,Innate,5.56 Burst Rifle (+0) (Two-handed),+4d6,3,Sharpshooter,Swift +2,None
 ,,,,,,,,,,,,,,,
-,5.56 Automatic Rifle,5.56 Automatic Rifle (+0) (One-handed),+0,One-handed,+2d6,3,Distant,Rapid,None,"5.56 Round, 6",Ballistic,Medium Guns,"M4, ect...",Indefinite,Innate
-,5.56 Automatic Rifle,5.56 Automatic Rifle (+0) (Two-handed),+0,Two-handed,+4d6,3,Distant,Rapid,None,"5.56 Round, 6",Ballistic,Medium Guns,"M4, ect...",Indefinite,Innate
+5.56 Automatic Rifle - {Magic Skill},5.56 Automatic Rifle,+0,One-handed,"5.56 Round, 6",{Magic Skill Damage Type},{Magic Skill},"M4, ect...",Indefinite,Innate,5.56 Automatic Rifle (+0) (One-handed),+2d6,3,Distant,Rapid,None
+5.56 Automatic Rifle - {Magic Skill},5.56 Automatic Rifle,+0,Two-handed,"5.56 Round, 6",{Magic Skill Damage Type},{Magic Skill},"M4, ect...",Indefinite,Innate,5.56 Automatic Rifle (+0) (Two-handed),+4d6,3,Distant,Rapid,None
 ,,,,,,,,,,,,,,,
-,.308 Bolt Action Rifle,.308 Bolt Action Rifle (+0) (One-handed),+0,One-handed,+1d6,4,Sniper,Quick,None,".308 Round, 1",Ballistic,Medium Guns,"Remington M700, ect...",Indefinite,Innate
-,.308 Bolt Action Rifle,.308 Bolt Action Rifle (+0) (Two-handed),+0,Two-handed,+4d6,4,Sniper,Quick,None,".308 Round, 1",Ballistic,Medium Guns,"Remington M700, ect...",Indefinite,Innate
+.308 Bolt Action Rifle - {Magic Skill},.308 Bolt Action Rifle,+0,One-handed,".308 Round, 1",{Magic Skill Damage Type},{Magic Skill},"Remington M700, ect...",Indefinite,Innate,.308 Bolt Action Rifle (+0) (One-handed),+1d6,4,Sniper,Quick,None
+.308 Bolt Action Rifle - {Magic Skill},.308 Bolt Action Rifle,+0,Two-handed,".308 Round, 1",{Magic Skill Damage Type},{Magic Skill},"Remington M700, ect...",Indefinite,Innate,.308 Bolt Action Rifle (+0) (Two-handed),+4d6,4,Sniper,Quick,None
 ,,,,,,,,,,,,,,,
-,5.56 Machine Gun,5.56 Machine Gun (+0) (One-handed),+0,One-handed,-2,3,Extreme,Rapid,None,"5.56 Round, 10",Ballistic,Heavy Guns,"M249, ect...",Indefinite,Innate
-,5.56 Machine Gun,5.56 Machine Gun (+0) (Two-handed),+0,Two-handed,+4d6,3,Extreme,Rapid,None,"5.56 Round, 10",Ballistic,Heavy Guns,"M249, ect...",Indefinite,Innate
+5.56 Machine Gun - {Magic Skill},5.56 Machine Gun,+0,One-handed,"5.56 Round, 10",{Magic Skill Damage Type},{Magic Skill},"M249, ect...",Indefinite,Innate,5.56 Machine Gun (+0) (One-handed),-2,3,Extreme,Rapid,None
+5.56 Machine Gun - {Magic Skill},5.56 Machine Gun,+0,Two-handed,"5.56 Round, 10",{Magic Skill Damage Type},{Magic Skill},"M249, ect...",Indefinite,Innate,5.56 Machine Gun (+0) (Two-handed),+4d6,3,Extreme,Rapid,None
 ,,,,,,,,,,,,,,,
-,RPG Launcher,RPG Launcher (+0) (One-handed),+0,One-handed,-2,4,Sharpshooter,Paced,30 ft Sphere,"RPG Round, 1",Shockwave,Heavy Guns,"RPG-7, ect...",Indefinite,Innate
-,RPG Launcher,RPG Launcher (+0) (Two-handed),+0,Two-handed,+6d6,4,Sharpshooter,Paced,30 ft Sphere,"RPG Round, 1",Shockwave,Heavy Guns,"RPG-7, ect...",Indefinite,Innate
+RPG Launcher - {Magic Skill},RPG Launcher,+0,One-handed,"RPG Round, 1",{Magic Skill Damage Type},{Magic Skill},"RPG-7, ect...",Indefinite,Innate,RPG Launcher (+0) (One-handed),-2,4,Sharpshooter,Paced,30 ft Sphere
+RPG Launcher - {Magic Skill},RPG Launcher,+0,Two-handed,"RPG Round, 1",{Magic Skill Damage Type},{Magic Skill},"RPG-7, ect...",Indefinite,Innate,RPG Launcher (+0) (Two-handed),+6d6,4,Sharpshooter,Paced,30 ft Sphere
