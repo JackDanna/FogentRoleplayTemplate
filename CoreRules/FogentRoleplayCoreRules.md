@@ -137,7 +137,7 @@ Challenge Level represents the difficulty of a task set by the narrator proporti
 
 |      Difficulty      | Challenge Level |
 | :------------------: | :-------------: |
-|       Trivial       |      CL 0      |
+|       Trivial       |      CL 0      |
 |        Common        |      CL 1      |
 |       Uncommon       |      CL 2      |
 |     Specialized     |      CL 3      |
@@ -158,7 +158,7 @@ An Attribute represent the innate characteristics of a character. An attribute c
 
 | Attribute Level |                      Narrative Meaning                      |
 | :-------------: | :---------------------------------------------------------: |
-|       -2       |            Painfully lacking in the attribute.            |
+|       -2       |            Painfully lacking in the attribute.            |
 |       -1       |            Below an average person in our world.            |
 |        0        |               An average person in our world.               |
 |        1        |              Professional or naturally gifted.              |
@@ -178,7 +178,7 @@ Represents a character's innate muscle strength, bone density, tendon strength, 
 |        0        |      An average person in our world      |
 |        1        |      Professional soldier or knight      |
 |        2        | World's strongest man champion or Batman |
-|        3        |     Bear, Ogre, or Captain America     |
+|        3        |     Bear, Ogre, or Captain America     |
 |        4        |                 Hercules                 |
 |        5        |                 Superman                 |
 
@@ -221,7 +221,7 @@ Represents a character's innate raw mental horsepower, IQ, consciousness, and me
 |        2        | Award-winning particle physicist or 'Sherlock Holmes' level detective |               3               |
 |        3        |                              Tony Stark                              |               6               |
 |        4        |                           Ultron or Skynet                           |               10               |
-|        5        |                       Dr. Manhattan or Athena                       |               15               |
+|        5        |                       Dr. Manhattan or Athena                       |               15               |
 
 INT has the following effects:
 
@@ -404,12 +404,12 @@ Vocational Skills can often resolve in a single roll what without it would turn 
 
 |  Vocation  |                                                       Vocational Skills Examples                                                       |             Governing Attributes for Vocation Skills Example             |
 | :---------: | :------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|   Soldier   |             Medium Melee (Athletics, Perception, General Knowledge), Battlefield Formations (General Knowledge and Will)             |       Medium Melee (STR, RFX, INT), Battlefield Formations (INT)       |
+|   Soldier   |             Medium Melee (Athletics, Perception, General Knowledge), Battlefield Formations (General Knowledge and Will)             |       Medium Melee (STR, RFX, INT), Battlefield Formations (INT)       |
 |   Ranger   |                          Tracking (Perception and General Knowledge), Wilderness Survival (General Knowledge)                          |              Tracking (RFX, INT), Wilderness Survival (INT)              |
-|   Wizard   |                        Arcane Knowledge (General Knowledge), Rune Inscribing (General Knowledge and Dexterity)                        |            Arcane Knowledge (INT), Rune Inscribing (RFX, INT)            |
-|    Thief    | Heist Planning (Stealth and General Knowledge), Lock Picking (General Knowledge and Dexterity), Pickpocketing (Stealth and Dexterity) | Heist Planning (RFX, INT), Lock Picking (RFX, INT), Pickpocketing (RFX) |
+|   Wizard   |                        Arcane Knowledge (General Knowledge), Rune Inscribing (General Knowledge and Dexterity)                        |            Arcane Knowledge (INT), Rune Inscribing (RFX, INT)            |
+|    Thief    | Heist Planning (Stealth and General Knowledge), Lock Picking (General Knowledge and Dexterity), Pickpocketing (Stealth and Dexterity) | Heist Planning (RFX, INT), Lock Picking (RFX, INT), Pickpocketing (RFX) |
 | Necromancer |                                                 Seance Ritual (Communication and Will)                                                 |                           Seance Ritual (INT)                           |
-|    Baker    |                                                Baking (Dexterity and General Knowledge)                                                |                            Baking (RFX, INT)                            |
+|    Baker    |                                                Baking (Dexterity and General Knowledge)                                                |                            Baking (RFX, INT)                            |
 | Black Smith |                                            Forging (Lift, Dexterity, and General Knowledge)                                            |                         Forging (STR, RFX, INT)                         |
 
 ## Vocation
@@ -463,7 +463,7 @@ I add "Infiltration Knowledge" as a Vocational Skill, as it is something a Rogue
 
 Finally, I add "Close Melee" as a Vocational Skill, as using a knife or blackjack would be something a Rogue would do. For it's Governing Attributes, I give it STR, RFX, and INT, as being stronger, faster, and smarter would all benefit this skill. We set it's level to Level 1.
 
-|         Rogue         |   RFX, INT   | 2 | 7d6 |
+|         Rogue         |   RFX, INT   | 2 | 7d6 |
 | :--------------------: | :-----------: | :-: | :-: |
 |      Lock-picking      |   RFX, INT   | 2 | 7d6 |
 |     Pickpocketing     |   RFX, INT   | 2 | 7d6 |
@@ -488,7 +488,7 @@ I add "Small Melee" as a Vocational Skill, as using knives in a kitchen would be
 
 I try and add the "Reach Spear" Vocational Skill. I realized using a long spear is not something that a chef would do, so I can't add it under my vocation.
 
-|       Chef       |   RFX, INT   | 3 | 7d6 |
+|       Chef       |   RFX, INT   | 3 | 7d6 |
 | :--------------: | :-----------: | :-: | :-: |
 |   Wine Tasting   |   RFX, INT   | 3 | 7d6 |
 |  Chopping Food  |      RFX      | 3 | 7d6 |
@@ -915,7 +915,7 @@ If characters have loaded weapons (for instance loaded muzzle loading firearms) 
 
 #### Uses Per Round Calculation Examples
 
-| Users Per Round Type/Number of Skill Dice | 1 Dice | 2 Dice | 3 Dice | 4 Dice | 5 Dice | 6 Dice | 7 Dice | 8 Dice | 9 Dice | 10 Dice | 11 Dice | 12 Dice |
+| Users Per Round Type/Number of Skill Dice | 1 Dice | 2 Dice | 3 Dice | 4 Dice | 5 Dice | 6 Dice | 7 Dice | 8 Dice | 9 Dice | 10 Dice | 11 Dice | 12 Dice |
 | :---------------------------------------: | :----: | :-----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: | :-----: | :-----: |
 |                   Rapid                   |   1   |    2    |   3   |   4   |   5   |   6   |   7   |   8   |   9   |   10   |   11   |   12   |
 |                Reach Swift                |   1   |    2    |   2   |   3   |   3   |   4   |   4   |   5   |   5   |    6    |    6    |    7    |
@@ -1537,7 +1537,7 @@ Carry Weight represents a character's ability to carry heavier equipment while s
 
 Max Carry Weight = (Max Carry Weight Base) + ( (Amount of Dice in Governing Skill Name Dice Pool) * (Max Carry Weight Per Dice) )
 
-|         Name         |       Description       |  Duration  | Source | Governing Skill Name | Max Carry Weight Base | Max Carry Weight Per Dice |           Weight Classes           |
+|         Name         |       Description       |  Duration  | Source | Governing Skill Name | Max Carry Weight Base | Max Carry Weight Per Dice |           Weight Classes           |
 | :-------------------: | :---------------------: | :--------: | :----: | :-------------------: | :-------------------: | :-----------------------: | :--------------------------------: |
 | Humanoid Carry Weight | This is the description | Indefinite | Innate |         Lift         |           0           |            50            | Light, Medium, Heavy, Overburdened |
 
@@ -2704,9 +2704,9 @@ Almost all traditional offensive magic spells can be represented as Weapon Spell
 
 |     Name     |                                   Effect                                   | Magic<br />Resource |
 | :-----------: | :-------------------------------------------------------------------------: | :-----------------: |
-| Small Shield | Phy. Def. 1.00, Bodily Def. 1.00, Spiritual Def. 1.00, or Mental Def. 1.00 |          0          |
-| Medium Shield | Phy. Def. 2.00, Bodily Def. 2.00, Spiritual Def. 2.00, or Mental Def. 2.00 |          1          |
-| Large Shield | Phy. Def. 3.00, Bodily Def. 3.00, Spiritual Def. 3.00, or Mental Def. 3.00 |          2          |
+| Small Shield | Phy. Def. 1.00, Bodily Def. 1.00, Spiritual Def. 1.00, or Mental Def. 1.00 |          0          |
+| Medium Shield | Phy. Def. 2.00, Bodily Def. 2.00, Spiritual Def. 2.00, or Mental Def. 2.00 |          1          |
+| Large Shield | Phy. Def. 3.00, Bodily Def. 3.00, Spiritual Def. 3.00, or Mental Def. 3.00 |          2          |
 
 ### Novice Spells (CL 0)
 
@@ -2932,7 +2932,7 @@ Represents a group of adept characters who have already made a name for themselv
 
 | Level |                                               Reward Gained                                               | Total<br />Vocation<br />Points | Total<br />Skill<br />Points | Total<br />Attribute<br />Points | Vocation/Skill<br />Cap |
 | :---: | :--------------------------------------------------------------------------------------------------------: | :-----------------------------: | :--------------------------: | :------------------------------: | :---------------------: |
-|   6   | Vocation/Skill Cap set to 2<br />+1 Vocation Point<br />+1 Skill Point<br />+New Disabling Characteristic |                2                |              8              |                2                |            2            |
+|   6   | Vocation/Skill Cap set to 2<br />+1 Vocation Point<br />+1 Skill Point<br />+New Disabling Characteristic |                2                |              8              |                2                |            2            |
 |   7   |                                               +1 Skill Point                                               |                2                |              9              |                2                |            2            |
 |   8   |                                               +1 Skill Point                                               |                2                |              10              |                2                |            2            |
 |   9   |                                               +1 Skill Point                                               |                2                |              11              |                2                |            2            |
@@ -2947,7 +2947,7 @@ Represents a group of veteran characters who made a name for themselves in their
 
 | Level |                                               Reward Gained                                               | Total<br />Vocation<br />Points | Total<br />Skill<br />Points | Total<br />Attribute<br />Points | Vocation/Skill<br />Cap |
 | :---: | :--------------------------------------------------------------------------------------------------------: | :-----------------------------: | :--------------------------: | :------------------------------: | :---------------------: |
-|  14  | Vocation/Skill Cap set to 3<br />+1 Vocation Point<br />+1 Skill Point<br />+New Disabling Characteristic |                3                |              15              |                3                |            3            |
+|  14  | Vocation/Skill Cap set to 3<br />+1 Vocation Point<br />+1 Skill Point<br />+New Disabling Characteristic |                3                |              15              |                3                |            3            |
 |  15  |                                               +1 Skill Point                                               |                3                |              16              |                3                |            3            |
 |  16  |                                               +1 Skill Point                                               |                3                |              17              |                3                |            3            |
 |  17  |                                               +1 Skill Point                                               |                3                |              18              |                3                |            3            |
@@ -2965,7 +2965,7 @@ Represents a group of characters known between countries that are regarded for t
 
 | Level |                                               Reward Gained                                               | Total<br />Vocation<br />Points | Total<br />Skill<br />Points | Total<br />Attribute<br />Points | Vocation/Skill<br />Cap |
 | :---: | :--------------------------------------------------------------------------------------------------------: | :-----------------------------: | :--------------------------: | :------------------------------: | :---------------------: |
-|  25  | Vocation/Skill Cap set to 4<br />+1 Vocation Point<br />+1 Skill Point<br />+New Disabling Characteristic |                4                |              25              |                4                |            4            |
+|  25  | Vocation/Skill Cap set to 4<br />+1 Vocation Point<br />+1 Skill Point<br />+New Disabling Characteristic |                4                |              25              |                4                |            4            |
 |  26  |                                               +1 Skill Point                                               |                4                |              26              |                4                |            4            |
 |  27  |                                               +1 Skill Point                                               |                4                |              27              |                4                |            4            |
 |  28  |                                               +1 Skill Point                                               |                4                |              28              |                4                |            4            |
@@ -2986,7 +2986,7 @@ Represented by a group of legendary characters who have made their mark on histo
 
 | Level |                                               Reward Gained                                               | Total<br />Vocation<br />Points | Total<br />Skill<br />Points | Total<br />Attribute<br />Points | Vocation/Skill<br />Cap |
 | :---: | :--------------------------------------------------------------------------------------------------------: | :-----------------------------: | :--------------------------: | :------------------------------: | :---------------------: |
-|  39  | Vocation/Skill Cap set to 5<br />+1 Vocation Point<br />+1 Skill Point<br />+New Disabling Characteristic |                5                |              38              |                5                |            5            |
+|  39  | Vocation/Skill Cap set to 5<br />+1 Vocation Point<br />+1 Skill Point<br />+New Disabling Characteristic |                5                |              38              |                5                |            5            |
 |  40  |                                               +1 Skill Point                                               |                5                |              39              |                5                |            5            |
 |  41  |                                               +1 Skill Point                                               |                5                |              40              |                5                |            5            |
 |  42  |                                               +1 Skill Point                                               |                5                |              41              |                5                |            5            |
