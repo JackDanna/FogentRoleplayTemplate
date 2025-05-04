@@ -1,7 +1,7 @@
 name,description,duration,source,movementSpeedBase,movementSpeedPerDicePairs
-Movement Speed: Terrestrial Total,"+2.5 Reaction Movement Speed per Dexterity Dice, +7.5 Raw Movement Speed per Athletics Dice",Indefinite,Innate,0,"(Dexterity,2.5), (Athletics,7.5)"
+Movement Speed: Terrestrial Total,"+2.5 Reaction Movement Speed per Dexterity Dice, +7.5 Raw Movement Speed per Athletics Dice",Indefinite,Innate,0,"(Dexterity,2.5), (Athletics,7.5)"
 Movement Speed: Terrestrial Reaction,+2.5 Reaction Movement Speed per Dexterity Dice,Indefinite,Innate,0,"(Dexterity,2.5)"
-Movement Speed: Terrestrial Raw,+7.5 Raw Movement Speed per Athletics Dice,Indefinite,Innate,0,"(Athletics,7.5)"
+Movement Speed: Terrestrial Raw,+7.5 Raw Movement Speed per Athletics Dice,Indefinite,Innate,0,"(Athletics,7.5)"
 ,,,,,
 Movement Speed: Swim Total,"+2.5 Reaction Movement Speed per Dexterity Dice, +5.0 Raw Movement Speed per Athletics Dice",Indefinite,Innate,0,"(Dexterity,2.5), (Athletics,5)"
 Movement Speed: Swim Reaction,+2.5 Reaction Movement Speed per Dexterity Dice,Indefinite,Innate,0,"(Dexterity,2.5)"

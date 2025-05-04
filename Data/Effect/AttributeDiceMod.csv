@@ -5,7 +5,7 @@ Serious Injury,-3d to STR/RFX/INT governed Dice Pools.  The injury will lead to 
 Fatal Injury,-4d to STR/RFX/INT governed Dice Pools. The injury will lead to death very soon if untreated. The character inflicted with this injury is Physically Incapacitated (see the Narrative Effect).,Indefinite if untreated,Source of Injury,"STR, RFX, INT",-4
 Death Blow Injury,-5d to STR/RFX/INT governed Dice Pools. The injury causes death.,Indefinite,Source of Injury,"STR, RFX, INT",-5
 ,,,,,
-Weight Class: Light,-0d to STR/RFX governed Dice Pools,Indefinite,0% =< Equipment Weight <= 25% of Carry Weight,"STR, RFX",-0
+Weight Class: Light,-0d to STR/RFX governed Dice Pools,Indefinite,0% =< Equipment Weight <= 25% of Carry Weight,"STR, RFX",-0
 Weight Class: Medium,-1d to STR/RFX governed Dice Pools,Indefinite,25% < Equipment Weight <= 50% of Carry Weight,"STR, RFX",-1
-Weight Class: Heavy,-2d to STR/RFX governed Dice Pools,Indefinite,50% < Equipment Weight <= 100% of Carry Weight,"STR, RFX",-2
-Weight Class: Overburdened,-4d to STR/RFX governed Dice Pools,Indefinite,100% < Equipment Weight of Carry Weight,"STR, RFX",-4
+Weight Class: Heavy,-2d to STR/RFX governed Dice Pools,Indefinite,50% < Equipment Weight <= 100% of Carry Weight,"STR, RFX",-2
+Weight Class: Overburdened,-4d to STR/RFX governed Dice Pools,Indefinite,100% < Equipment Weight of Carry Weight,"STR, RFX",-4
