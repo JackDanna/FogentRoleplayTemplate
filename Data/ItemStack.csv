@@ -5,6 +5,9 @@ Advanced Suit,1,"Advanced Suit Defense, Space Vacuum Life Support",12,10 bc,"Hea
 Soldier Suit,1,"Soldier Suit Defense, Space Vacuum Life Support",12,10 bc,"Head Armor, Body Armor, Arm Armor, Leg Armor"
 ,,,,,
 Engineering Multi-tool,1,"Repair Base Dice Tier Adjustment (+2), Muzzleloading Pistol (+0) (One-handed), Muzzleloading Pistol (+0) (Two-handed), Muzzleloading Pistol (+0) (Dual-wielded)",3,?,
+Vibro-sword,1,"Medium Pierce Melee (+3) (One-handed), Medium Pierce Melee (+3) (Dual-wielded), Medium Slash Melee (+3) (One-handed), Medium Slash Melee (+3) (Dual-wielded)",2,10 bc,
+Vibro-knife,1,"Small Pierce Melee (+3) (One-handed), Small Pierce Melee (+3) (Dual-wielded), Small Slash Melee (+3) (One-handed), Small Slash Melee (+3) (Dual-wielded), Thrown Small Pierce Melee (+3) (One-handed), Thrown Small Pierce Melee (+3) (Dual-wielded), Resource Pool: Thrown Small Pierce Melee (+3)",1,2 bc,
+Medpack,1,,1,?,
 ,,,,,
 Muzzleloading Pistol,1,"Muzzleloading Pistol (+0) (One-handed), Muzzleloading Pistol (+0) (Two-handed), Muzzleloading Pistol (+0) (Dual-wielded)",3,?,
 Arquebus,1,"Arquebus (+0) (One-handed), Arquebus (+0) (Two-handed)",7,?,
