@@ -1,15 +1,15 @@
 combatRollToOverwrite,combatRollType,optionalResourceTypeAndAmount,description,source,duration,combatRollTypeOld,handedVariation,baseDiceTierAdjustment,governingSkillName,damageTypes,dicePoolModifier,penetration,range,usesPerRound,areaOfEffect
-Unarmed (+0) (Dual-wielded),Glove - {Magic Skill},None,Just your bare hands. Can be used in a Grapple.,Innate,Indefinite,Unarmed,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},-1,0,Melee,Swift,None
+Unarmed (Dual-wielded) (+0),Glove - {Magic Skill},None,Just your bare hands. Can be used in a Grapple.,Innate,Indefinite,Unarmed,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},-1,0,Melee,Swift,None
 ,,,,,,,,,,,,,,,
 Small Slash Melee (One-handed) (+0),Small Melee - {Magic Skill},None,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,Small Slash Melee,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,0,Melee,Swift,None
-Small Slash Melee (+0) (Dual-wielded),Small Melee - {Magic Skill},None,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,Small Slash Melee,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,0,Melee,Swift +1,None
+Small Slash Melee (Dual-wielded) (+0),Small Melee - {Magic Skill},None,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,Small Slash Melee,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,0,Melee,Swift +1,None
 ,,,,,,,,,,,,,,,
 Medium Slash Melee (One-handed) (+0),Medium Melee - {Magic Skill},None,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",Innate,Indefinite,Medium Slash Melee,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,1,Melee,Swift,None
 Medium Slash Melee (+0) (Two-handed),Medium Melee - {Magic Skill},None,"Bastard Sword, Medium swords with two-handed grips, ect...",Innate,Indefinite,Medium Slash Melee,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+2d6,1,Melee,Swift,None
-Medium Slash Melee (+0) (Dual-wielded),Medium Melee - {Magic Skill},None,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",Innate,Indefinite,Medium Slash Melee,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},+2d6,1,Melee,Swift +1,None
+Medium Slash Melee (Dual-wielded) (+0),Medium Melee - {Magic Skill},None,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",Innate,Indefinite,Medium Slash Melee,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},+2d6,1,Melee,Swift +1,None
 ,,,,,,,,,,,,,,,
 Medium Spear (One-handed) (+0),Medium Spear - {Magic Skill},None,"Javelin, short spear, large creature horns, ect...",Innate,Indefinite,Medium Spear,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+1d8,1,Melee,Quick,None
-Medium Spear (+0) (Dual-wielded),Medium Spear - {Magic Skill},None,"Javelin, short spear, large creature horns, ect...",Innate,Indefinite,Medium Spear,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},"+1d8, 1d6",1,Melee,Quick,None
+Medium Spear (Dual-wielded) (+0),Medium Spear - {Magic Skill},None,"Javelin, short spear, large creature horns, ect...",Innate,Indefinite,Medium Spear,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},"+1d8, 1d6",1,Melee,Quick,None
 ,,,,,,,,,,,,,,,
 Large Slash Melee (One-handed) (+0),Large Melee - {Magic Skill},None,"Longsword, Ōdachi, ect...",Innate,Indefinite,Large Slash Melee,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,1,Melee,Swift,None
 Large Slash Melee (+0) (Two-handed),Large Melee - {Magic Skill},None,"Longsword, Ōdachi, ect...",Innate,Indefinite,Large Slash Melee,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+2d6,2,Melee,Swift,None
@@ -24,11 +24,11 @@ Reach Spear (One-handed) (+0),Reach Spear - {Magic Skill},None,"Pike, lance, ect
 Reach Spear (+0) (Two-handed),Reach Spear - {Magic Skill},None,"Pike, lance, ect... Disadvantage while in confined spaces.",Innate,Indefinite,Reach Spear,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},"+1d8, 2d6",3,Reach,Steady,None
 ,,,,,,,,,,,,,,,
 Whip (One-handed) (+0),Whip - {Magic Skill},None,"Bullwhips, ect... Disadvantage while in confined spaces.",Innate,Indefinite,Whip,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,0,Reach,Swift,None
-Whip (+0) (Dual-wielded),Whip - {Magic Skill},None,"Bullwhips, ect... Disadvantage while in confined spaces.",Innate,Indefinite,Whip,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,0,Reach,Swift +1,None
+Whip (Dual-wielded) (+0),Whip - {Magic Skill},None,"Bullwhips, ect... Disadvantage while in confined spaces.",Innate,Indefinite,Whip,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,0,Reach,Swift +1,None
 ,,,,,,,,,,,,,,,
 Hand Crossbow (One-handed) (+0),Hand Crossbow - {Magic Skill},"{Magic Resource Type}, 1",Small crossbows designed to be held in one hand.,Innate,Indefinite,Hand Crossbow,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,0,Mediocre,Quick,None
 Hand Crossbow (+0) (Two-handed),Hand Crossbow - {Magic Skill},"{Magic Resource Type}, 1",Small crossbows designed to be held in one hand.,Innate,Indefinite,Hand Crossbow,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,0,Medium,Quick,None
-Hand Crossbow (+0) (Dual-wielded),Hand Crossbow,"{Magic Resource Type}, 2",Small crossbows designed to be held in one hand.,Innate,Indefinite,Hand Crossbow,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},+2d6,0,Mediocre,Steady,None
+Hand Crossbow (Dual-wielded) (+0),Hand Crossbow,"{Magic Resource Type}, 2",Small crossbows designed to be held in one hand.,Innate,Indefinite,Hand Crossbow,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},+2d6,0,Mediocre,Steady,None
 ,,,,,,,,,,,,,,,
 Light Crossbow (One-handed) (+0),Light Crossbow - {Magic Skill},"{Magic Resource Type}, 1","Crossbows balancing power and reload time. ",Innate,Indefinite,Light Crossbow,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,1,Far,Steady,None
 Light Crossbow (+0) (Two-handed),Light Crossbow - {Magic Skill},"{Magic Resource Type}, 1","Crossbows balancing power and reload time. ",Innate,Indefinite,Light Crossbow,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,1,Far,Steady,None
@@ -44,7 +44,7 @@ Blowgun (One-handed) (+0),Blowgun - {Magic Skill},"{Magic Resource Type}, 1",A l
 Sling (+0) (Two-handed),Sling - {Magic Skill},"{Magic Resource Type}, 1",A flexible strap used to hurl small objects.,Innate,Indefinite,Sling,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,0,Mediocre,Quick,None
 ,,,,,,,,,,,,,,,
 Thrown Small Slash Melee (One-handed) (+0),Thrown Small - {Magic Skill},"{Magic Resource Type}, 1","Ninja stars, ect...",Innate,Indefinite,Thrown Small Slash Melee,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,0,Short,Swift,None
-Thrown Small Slash Melee (+0) (Dual-wielded),Thrown Small - {Magic Skill},"{Magic Resource Type}, 2","Ninja stars, ect...",Innate,Indefinite,Thrown Small Slash Melee,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,0,Short,Quick,None
+Thrown Small Slash Melee (Dual-wielded) (+0),Thrown Small - {Magic Skill},"{Magic Resource Type}, 2","Ninja stars, ect...",Innate,Indefinite,Thrown Small Slash Melee,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,0,Short,Quick,None
 ,,,,,,,,,,,,,,,
 Thrown Medium Spear (One-handed) (+0),Thrown Medium Spear - {Magic Skill},"{Magic Resource Type}, 1","Thrown Javelins, ect...",Innate,Indefinite,Thrown Medium Spear,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,1,Mediocre,Quick,None
 ,,,,,,,,,,,,,,,
@@ -52,7 +52,7 @@ Thrown Large Spear (One-handed) (+0),Thrown Large Spear - {Magic Skill},"{Magic 
 ,,,,,,,,,,,,,,,
 Muzzleloading Pistol (One-handed) (+0),Muzzleloading Pistol - {Magic Skill},"{Magic Resource Type}, 1","Flintlock pistols, ect...",Innate,Indefinite,Muzzleloading Pistol,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+2d6,0,Mediocre,Extremely Slow,None
 Muzzleloading Pistol (+0) (Two-handed),Muzzleloading Pistol - {Magic Skill},"{Magic Resource Type}, 1","Flintlock pistols, ect...",Innate,Indefinite,Muzzleloading Pistol,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+2d6,0,Medium,Extremely Slow,None
-Muzzleloading Pistol (+0) (Dual-wielded),Muzzleloading Pistol - {Magic Skill},"{Magic Resource Type}, 2","Flintlock pistols, ect...",Innate,Indefinite,Muzzleloading Pistol,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},+3d6,0,Mediocre,Painfully Slow,None
+Muzzleloading Pistol (Dual-wielded) (+0),Muzzleloading Pistol - {Magic Skill},"{Magic Resource Type}, 2","Flintlock pistols, ect...",Innate,Indefinite,Muzzleloading Pistol,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},+3d6,0,Mediocre,Painfully Slow,None
 ,,,,,,,,,,,,,,,
 Arquebus (One-handed) (+0),Arquebus - {Magic Skill},"{Magic Resource Type}, 1",Can be used as a Combat Roll.,Innate,Indefinite,Arquebus,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,1,Long,Extremely Slow,None
 Arquebus (+0) (Two-handed),Arquebus - {Magic Skill},"{Magic Resource Type}, 1",Can be used as a Combat Roll.,Innate,Indefinite,Arquebus,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+2d6,1,Long,Extremely Slow,None
@@ -62,15 +62,15 @@ Musket (+0) (Two-handed),Musket - {Magic Skill},"Musket Cartridge, 1",Flintlock 
 ,,,,,,,,,,,,,,,
 9mm Semi-automatic Pistol (One-handed) (+0),9mm Semi-automatic Pistol  - {Magic Skill},"{Magic Resource Type}, 1","Glock 17, ect...",Innate,Indefinite,9mm Semi-automatic Pistol,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+2d6,2,Extended,Swift +2,None
 9mm Semi-automatic Pistol (+0) (Two-handed),9mm Semi-automatic Pistol - {Magic Skill},"{Magic Resource Type}, 1","Glock 17, ect...",Innate,Indefinite,9mm Semi-automatic Pistol,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+2d6,2,Far,Swift +2,None
-9mm Semi-automatic Pistol (+0) (Dual-wielded),9mm Semi-automatic Pistol - {Magic Skill},"{Magic Resource Type}, 2","Glock 17, ect...",Innate,Indefinite,9mm Semi-automatic Pistol,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},+3d6,2,Extended,Swift +2,None
+9mm Semi-automatic Pistol (Dual-wielded) (+0),9mm Semi-automatic Pistol - {Magic Skill},"{Magic Resource Type}, 2","Glock 17, ect...",Innate,Indefinite,9mm Semi-automatic Pistol,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},+3d6,2,Extended,Swift +2,None
 ,,,,,,,,,,,,,,,
 9mm Burst-fire Pistol (One-handed) (+0),9mm Burst-fire Pistol - {Magic Skill},"{Magic Resource Type}, 3","Beretta 93R, ect...",Innate,Indefinite,9mm Burst-fire Pistol,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+3d6,2,Mediocre,Swift +2,None
 9mm Burst-fire Pistol (+0) (Two-handed),9mm Burst-fire Pistol - {Magic Skill},"{Magic Resource Type}, 3","Beretta 93R, ect...",Innate,Indefinite,9mm Burst-fire Pistol,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+3d6,2,Medium,Swift +2,None
-9mm Burst-fire Pistol (+0) (Dual-wielded),9mm Burst-fire Pistol - {Magic Skill},"{Magic Resource Type}, 6","Beretta 93R, ect...",Innate,Indefinite,9mm Burst-fire Pistol,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},+4d6,2,Mediocre,Swift +2,None
+9mm Burst-fire Pistol (Dual-wielded) (+0),9mm Burst-fire Pistol - {Magic Skill},"{Magic Resource Type}, 6","Beretta 93R, ect...",Innate,Indefinite,9mm Burst-fire Pistol,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},+4d6,2,Mediocre,Swift +2,None
 ,,,,,,,,,,,,,,,
 9mm Automatic Pistol (One-handed) (+0),9mm Automatic Pistol - {Magic Skill},"{Magic Resource Type}, 6","Glock 18, ect...",Innate,Indefinite,9mm Automatic Pistol,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+3d6,2,Short,Rapid,None
 9mm Automatic Pistol (+0) (Two-handed),9mm Automatic Pistol - {Magic Skill},"{Magic Resource Type}, 6","Glock 18, ect...",Innate,Indefinite,9mm Automatic Pistol,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+3d6,2,Mediocre,Rapid,None
-9mm Automatic Pistol (+0) (Dual-wielded),9mm Automatic Pistol - {Magic Skill},"{Magic Resource Type}, 12","Glock 18, ect...",Innate,Indefinite,9mm Automatic Pistol,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},+4d6,2,Short,Rapid,None
+9mm Automatic Pistol (Dual-wielded) (+0),9mm Automatic Pistol - {Magic Skill},"{Magic Resource Type}, 12","Glock 18, ect...",Innate,Indefinite,9mm Automatic Pistol,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},+4d6,2,Short,Rapid,None
 ,,,,,,,,,,,,,,,
 12 Gauge Pump-action Shotgun (One-handed) (+0),12 Gauge Pump-action Shotgun - {Magic Skill},"{Magic Resource Type}, 1","Remington 870, Mossberg 500, ect...",Innate,Indefinite,12 Gauge Pump-action Shotgun,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,2,Extended,Swift,None
 12 Gauge Pump-action Shotgun (+0) (Two-handed),12 Gauge Pump-action Shotgun - {Magic Skill},"{Magic Resource Type}, 1","Remington 870, Mossberg 500, ect...",Innate,Indefinite,12 Gauge Pump-action Shotgun,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+3d6,2,Extended,Swift,None
