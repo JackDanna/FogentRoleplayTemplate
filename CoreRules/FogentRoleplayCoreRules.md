@@ -246,7 +246,7 @@ Represents a character's innate personal magnetism, persuasiveness, appearance, 
 CHA has the following effects:
 
 * CHA is factored into all CHA Governed Skills (Persuasion, Deception, Intimidation, Leadership, Performance, Bartering, etc...).
-* Starting at level 0, for each level in CHA, a character can give themselves advantage once per day on a social skill check that has Charisma as one of it's governing attrtibutes.
+* For each level above 0 in CHA, a character can give themselves advantage once per day on a social skill check that has CHA as one of it's governing attrtibutes. For each level below 0 in CHA, the narrator can give a character disadvantageonce per day on a social skill check that has CHA as one of it's governing attrtibutes.
 
 ## Skill
 
