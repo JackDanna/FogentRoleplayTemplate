@@ -155,7 +155,7 @@ For example, Javk Wick the Rogue hoist his unconscious injured ally onto his sho
 
 An Attribute represent the innate characteristics of a character. An attribute can go from level -2 to level 5. Each level corresponds with a narrative significance.
 
-| Attribute Level |                      Narrative Meaning                      |
+| Attribute Level |                         Description                         |
 | :-------------: | :---------------------------------------------------------: |
 |       -2       |             Painfully lacking in the attribute.             |
 |       -1       |            Below an average person in our world.            |
@@ -170,7 +170,7 @@ An Attribute represent the innate characteristics of a character. An attribute c
 
 Represents a character's innate muscle strength, bone density, tendon strength, physical durability, etc...
 
-| Attribute Level |            Narrative Meaning            |
+| Attribute Level |               Description               |
 | :-------------: | :--------------------------------------: |
 |       -2       |                A squirrel                |
 |       -1       |   Below an average person in our world   |
@@ -178,7 +178,7 @@ Represents a character's innate muscle strength, bone density, tendon strength, 
 |        1        |      Professional soldier or knight      |
 |        2        | World's strongest man champion or Batman |
 |        3        |      Bear, Ogre, or Captain America      |
-|        4        |                 Hercules                 |
+|        4        |         Hercules, Hulk, or Thor         |
 |        5        |                 Superman                 |
 
 STR has the following effects:
@@ -190,7 +190,7 @@ STR has the following effects:
 
 Represents a character's innate reflexes, reaction speed, nervous system, fine motor control, nimbleness, agility, quickness...
 
-| Attribute Level |                 Narrative Meaning                 |
+| Attribute Level |                    Description                    |
 | :-------------: | :-----------------------------------------------: |
 |       -2       |                  A sea cucumber                  |
 |       -1       |       Below an average person in our world       |
@@ -211,7 +211,7 @@ RFX has the following effects:
 
 Represents a character's innate raw mental horsepower, IQ, consciousness, and mental/spiritual durability.
 
-| Attribute Level |                           Narrative Meaning                           | Skill Points Gained/Lost Total |
+| Attribute Level |                              Description                              | Skill Points Gained/Lost Total |
 | :-------------: | :-------------------------------------------------------------------: | :----------------------------: |
 |       -2       |                               A zombie                               |               -3               |
 |       -1       |                 Below an average person in our world                 |               -1               |
@@ -225,8 +225,28 @@ Represents a character's innate raw mental horsepower, IQ, consciousness, and me
 INT has the following effects:
 
 - INT is factored into all INT Governed Skills (Knowledge, Logic, Willpower, etc...).
-- Starting at 0, for every INT point a player receives, they gain the same amount of additional skill points to spend. This effect is cumulative, refer to the "Skill Points Gained/Lost" to the total amount of skill points for a given INT level.
+- Starting at level 0, for every increase/decrease in INT level a player receives, they gain/lose skill points. This effect is cumulative, refer to the "Skill Points Gained/Lost" to the total amount of skill points for a given INT level.
 - INT is a measure of how durable a character's consciousness is to mental and spiritual attacks. In combat, for every point in INT a character can reduce a victory level achieved against them from spiritual or psychic damage types once every combat encounter. Outside of combat, for every point in INT a character can reduce a spiritual or psychic damage type injury against them as many times as they want, granted there is a couple minutes of respite between each injury.
+
+### Charisma (CHA)
+
+Represents a character's innate personal magnetism, persuasiveness, appearance, force of personality, social grace, and ability to lead and inspire others.
+
+| Attribute Level |                            Description                            |
+| :-------------: | :---------------------------------------------------------------: |
+|       -2       |                Social pariah or utterly repellent                |
+|       -1       |             Awkward, easily ignored, or unconvincing             |
+|        0        |                  An average person in our world                  |
+|        1        |  Influential leader or captivating performer (e.g., Cult Leader)  |
+|        2        |    Nation-swaying icon or legendary diplomat (e.g., Cleopatra)    |
+|        3        |   Supernatural allure or universally enchanting (e.g., Siren)   |
+|        4        | Demi-god-tier manipulator or reality-bending charm (e.g., Loki) |
+|        5        | Divine-level influence or irresistible presence (e.g., Aphrodite) |
+
+CHA has the following effects:
+
+* CHA is factored into all CHA Governed Skills (Persuasion, Deception, Intimidation, Leadership, Performance, Bartering, etc...).
+* Starting at level 0, for each level in CHA, a character can give themselves advantage once per day on a social skill check that has Charisma as one of it's governing attrtibutes.
 
 ## Skill
 
