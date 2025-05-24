@@ -17,14 +17,14 @@ combatRollToOverwrite,combatRollType,optionalResourceTypeAndAmount,description,s
 (One-handed) Large Spear (+0),Large Spear - {Magic Skill},None,"Two-handed spear, ect...",Innate,Indefinite,Large Spear,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,1,Melee,Quick,None
 (Two-handed) Large Spear (+0),Large Spear - {Magic Skill},None,"Two-handed spear, ect...",Innate,Indefinite,Large Spear,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},"+1d8, 1d6",2,Melee,Quick,None
 ,,,,,,,,,,,,,,,
-Reach Slash Melee (One-handed) (+0),Reach Melee - {Magic Skill},None,"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",Innate,Indefinite,Reach Slash Melee,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},-1,1,Reach,Swift +2,None
-Reach Slash Melee (Two-handed) (+0),Reach Melee - {Magic Skill},None,"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",Innate,Indefinite,Reach Slash Melee,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+3d6,3,Reach,Swift +2,None
+(One-handed) Reach Slash Melee (+0),Reach Melee - {Magic Skill},None,"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",Innate,Indefinite,Reach Slash Melee,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},-1,1,Reach,Swift +2,None
+(Two-handed) Reach Slash Melee (+0),Reach Melee - {Magic Skill},None,"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",Innate,Indefinite,Reach Slash Melee,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+3d6,3,Reach,Swift +2,None
 ,,,,,,,,,,,,,,,
-Reach Spear (One-handed) (+0),Reach Spear - {Magic Skill},None,"Pike, lance, ect... Disadvantage while in confined spaces.",Innate,Indefinite,Reach Spear,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},-1,1,Reach,Steady,None
-Reach Spear (Two-handed) (+0),Reach Spear - {Magic Skill},None,"Pike, lance, ect... Disadvantage while in confined spaces.",Innate,Indefinite,Reach Spear,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},"+1d8, 2d6",3,Reach,Steady,None
+(One-handed) Reach Spear (+0),Reach Spear - {Magic Skill},None,"Pike, lance, ect... Disadvantage while in confined spaces.",Innate,Indefinite,Reach Spear,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},-1,1,Reach,Steady,None
+(Two-handed) Reach Spear (+0),Reach Spear - {Magic Skill},None,"Pike, lance, ect... Disadvantage while in confined spaces.",Innate,Indefinite,Reach Spear,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},"+1d8, 2d6",3,Reach,Steady,None
 ,,,,,,,,,,,,,,,
-Whip (One-handed) (+0),Whip - {Magic Skill},None,"Bullwhips, ect... Disadvantage while in confined spaces.",Innate,Indefinite,Whip,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,0,Reach,Swift,None
-Whip (Dual-wielded) (+0),Whip - {Magic Skill},None,"Bullwhips, ect... Disadvantage while in confined spaces.",Innate,Indefinite,Whip,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,0,Reach,Swift +1,None
+(One-handed) Whip (+0),Whip - {Magic Skill},None,"Bullwhips, ect... Disadvantage while in confined spaces.",Innate,Indefinite,Whip,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,0,Reach,Swift,None
+(Dual-wielded) Whip (+0),Whip - {Magic Skill},None,"Bullwhips, ect... Disadvantage while in confined spaces.",Innate,Indefinite,Whip,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,0,Reach,Swift +1,None
 ,,,,,,,,,,,,,,,
 Hand Crossbow (One-handed) (+0),Hand Crossbow - {Magic Skill},"{Magic Resource Type}, 1",Small crossbows designed to be held in one hand.,Innate,Indefinite,Hand Crossbow,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,0,Mediocre,Quick,None
 Hand Crossbow (Two-handed) (+0),Hand Crossbow - {Magic Skill},"{Magic Resource Type}, 1",Small crossbows designed to be held in one hand.,Innate,Indefinite,Hand Crossbow,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,0,Medium,Quick,None
