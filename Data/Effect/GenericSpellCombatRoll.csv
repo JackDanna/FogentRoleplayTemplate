@@ -11,11 +11,11 @@ combatRollToOverwrite,combatRollType,optionalResourceTypeAndAmount,description,s
 (One-handed) Medium Spear (+0),Medium Spear - {Magic Skill},None,"Javelin, short spear, large creature horns, ect...",Innate,Indefinite,Medium Spear,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+1d8,1,Melee,Quick,None
 (Dual-wielded) Medium Spear (+0),Medium Spear - {Magic Skill},None,"Javelin, short spear, large creature horns, ect...",Innate,Indefinite,Medium Spear,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},"+1d8, 1d6",1,Melee,Quick,None
 ,,,,,,,,,,,,,,,
-Large Slash Melee (One-handed) (+0),Large Melee - {Magic Skill},None,"Longsword, Ōdachi, ect...",Innate,Indefinite,Large Slash Melee,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,1,Melee,Swift,None
-Large Slash Melee (Two-handed) (+0),Large Melee - {Magic Skill},None,"Longsword, Ōdachi, ect...",Innate,Indefinite,Large Slash Melee,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+2d6,2,Melee,Swift,None
+(One-handed) Large Slash Melee (+0),Large Melee - {Magic Skill},None,"Longsword, Ōdachi, ect...",Innate,Indefinite,Large Slash Melee,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,1,Melee,Swift,None
+(Two-handed) Large Slash Melee (+0),Large Melee - {Magic Skill},None,"Longsword, Ōdachi, ect...",Innate,Indefinite,Large Slash Melee,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+2d6,2,Melee,Swift,None
 ,,,,,,,,,,,,,,,
-Large Spear (One-handed) (+0),Large Spear - {Magic Skill},None,"Two-handed spear, ect...",Innate,Indefinite,Large Spear,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,1,Melee,Quick,None
-Large Spear (Two-handed) (+0),Large Spear - {Magic Skill},None,"Two-handed spear, ect...",Innate,Indefinite,Large Spear,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},"+1d8, 1d6",2,Melee,Quick,None
+(One-handed) Large Spear (+0),Large Spear - {Magic Skill},None,"Two-handed spear, ect...",Innate,Indefinite,Large Spear,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,1,Melee,Quick,None
+(Two-handed) Large Spear (+0),Large Spear - {Magic Skill},None,"Two-handed spear, ect...",Innate,Indefinite,Large Spear,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},"+1d8, 1d6",2,Melee,Quick,None
 ,,,,,,,,,,,,,,,
 Reach Slash Melee (One-handed) (+0),Reach Melee - {Magic Skill},None,"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",Innate,Indefinite,Reach Slash Melee,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},-1,1,Reach,Swift +2,None
 Reach Slash Melee (Two-handed) (+0),Reach Melee - {Magic Skill},None,"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",Innate,Indefinite,Reach Slash Melee,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+3d6,3,Reach,Swift +2,None
@@ -48,7 +48,7 @@ Thrown (Dual-wielded) Small Slash Melee (+0),Thrown Small - {Magic Skill},"{Magi
 ,,,,,,,,,,,,,,,
 Thrown (One-handed) Medium Spear (+0),Thrown Medium Spear - {Magic Skill},"{Magic Resource Type}, 1","Thrown Javelins, ect...",Innate,Indefinite,Thrown Medium Spear,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,1,Mediocre,Quick,None
 ,,,,,,,,,,,,,,,
-Thrown Large Spear (One-handed) (+0),Thrown Large Spear - {Magic Skill},"{Magic Resource Type}, 1",Thrown two-handed spears.,Innate,Indefinite,Thrown Large Spear,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,2,Short,Quick,None
+Thrown (One-handed) Large Spear (+0),Thrown Large Spear - {Magic Skill},"{Magic Resource Type}, 1",Thrown two-handed spears.,Innate,Indefinite,Thrown Large Spear,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,2,Short,Quick,None
 ,,,,,,,,,,,,,,,
 Muzzleloading Pistol (One-handed) (+0),Muzzleloading Pistol - {Magic Skill},"{Magic Resource Type}, 1","Flintlock pistols, ect...",Innate,Indefinite,Muzzleloading Pistol,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+2d6,0,Mediocre,Extremely Slow,None
 Muzzleloading Pistol (Two-handed) (+0),Muzzleloading Pistol - {Magic Skill},"{Magic Resource Type}, 1","Flintlock pistols, ect...",Innate,Indefinite,Muzzleloading Pistol,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+2d6,0,Medium,Extremely Slow,None
