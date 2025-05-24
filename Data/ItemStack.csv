@@ -60,7 +60,7 @@ Greatsword,1,"One-handed Reach Pierce Melee +0, Two-handed Reach Pierce Melee +0
 ,,,,,
 Handaxe,1,"One-handed Small Hew Melee +0, Dual-wielded Small Hew Melee +0, One-handed Thrown Small Hew Melee +0, Dual-wielded Thrown Small Hew Melee +0, Resource Pool: Thrown Small Hew Melee +0",2,5 bc,
 Shoddy Sickle,1,"One-handed Small Slash Melee -1, Dual-wielded Small Slash Melee -1, One-handed Thrown Small Slash Melee -1, Dual-wielded Thrown Small Slash Melee -1",2,50 cc,
-Sickle,1,"Small Hafted Blade, Thrown Small Hafted Blade",2,1 bc,
+Sickle,1,"One-handed Small Slash Melee +0, Dual-wielded Small Slash Melee +0, One-handed Thrown Small Slash Melee +0, Dual-wielded Thrown Small Slash Melee +0",2,1 bc,
 Light Hammer,1,"One-handed Small Bludgeon Melee +0, Dual-wielded Small Bludgeon Melee +0, One-handed Thrown Small Bludgeon Melee +0, Dual-wielded Thrown Small Bludgeon Melee +0, Resource Pool: Thrown Small Bludgeon Melee +0",2,2 bc,
 Rapier,1,"One-handed Medium Pierce Melee +2, Dual-wielded Medium Pierce Melee +2, One-handed Medium Slash Melee +0, Dual-wielded Medium Slash Melee +0",2,25 bc,
 Scimitar,1,"One-handed Medium Pierce Melee +0, Dual-wielded Medium Pierce Melee +0, One-handed Medium Slash Melee +2, Dual-wielded Medium Slash Melee +2",2,25 bc,
