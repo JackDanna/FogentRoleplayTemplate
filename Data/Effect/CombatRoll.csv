@@ -1,5 +1,5 @@
 name,handedVariation,combatRollType,baseDiceTierAdjustment,dicePoolModifier,penetration,range,usesPerRound,areaOfEffect,optionalResourceTypeAndAmount,damageTypes,governingSkillName,description,duration,source
-Unarmed (Dual-wielded) (+0),Dual-wielded,Unarmed,+0,-1,0,Melee,Swift,None,None,Bludgeon,Close Melee,Just your bare hands. Can be used in a Grapple.,Indefinite,Innate
+(Dual-wielded) Unarmed (+0),Dual-wielded,Unarmed,+0,-1,0,Melee,Swift,None,None,Bludgeon,Close Melee,Just your bare hands. Can be used in a Grapple.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 Small Hew Melee (One-handed) (+0),One-handed,Small Hew Melee,+0,+0d6,0,Melee,Swift,None,None,Hew,Close Melee,"Hatchets, small axes, ect... Can be used in a Grapple.",Indefinite,Innate
 Small Hew Melee (Dual-wielded) (+0),Dual-wielded,Small Hew Melee,+0,+1d6,0,Melee,Swift +1,None,None,Hew,Close Melee,"Hatchets, small axes, ect... Can be used in a Grapple.",Indefinite,Innate

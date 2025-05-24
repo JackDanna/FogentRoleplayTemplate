@@ -1,5 +1,5 @@
 combatRollToOverwrite,combatRollType,optionalResourceTypeAndAmount,description,source,duration,combatRollTypeOld,handedVariation,baseDiceTierAdjustment,governingSkillName,damageTypes,dicePoolModifier,penetration,range,usesPerRound,areaOfEffect
-Unarmed (Dual-wielded) (+0),Glove - {Magic Skill},None,Just your bare hands. Can be used in a Grapple.,Innate,Indefinite,Unarmed,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},-1,0,Melee,Swift,None
+(Dual-wielded) Unarmed (+0),Glove - {Magic Skill},None,Just your bare hands. Can be used in a Grapple.,Innate,Indefinite,Unarmed,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},-1,0,Melee,Swift,None
 ,,,,,,,,,,,,,,,
 Small Slash Melee (One-handed) (+0),Small Melee - {Magic Skill},None,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,Small Slash Melee,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,0,Melee,Swift,None
 Small Slash Melee (Dual-wielded) (+0),Small Melee - {Magic Skill},None,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,Small Slash Melee,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,0,Melee,Swift +1,None
