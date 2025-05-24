@@ -64,7 +64,7 @@ Sickle,1,"One-handed Small Slash Melee +0, Dual-wielded Small Slash Melee +0, On
 Light Hammer,1,"One-handed Small Bludgeon Melee +0, Dual-wielded Small Bludgeon Melee +0, One-handed Thrown Small Bludgeon Melee +0, Dual-wielded Thrown Small Bludgeon Melee +0, Resource Pool: Thrown Small Bludgeon Melee +0",2,2 bc,
 Rapier,1,"One-handed Medium Pierce Melee +2, Dual-wielded Medium Pierce Melee +2, One-handed Medium Slash Melee +0, Dual-wielded Medium Slash Melee +0",2,25 bc,
 Scimitar,1,"One-handed Medium Pierce Melee +0, Dual-wielded Medium Pierce Melee +0, One-handed Medium Slash Melee +2, Dual-wielded Medium Slash Melee +2",2,25 bc,
-Shoddy Scimitar,1,"Medium Pierce Melee -1 One-handed, Dual-wielded Medium Pierce Melee -1, One-handed Medium Slash Melee +1, Dual-wielded Medium Slash Melee +1",2,5 bc,
+Shoddy Scimitar,1,"One-handed Medium Pierce Melee -1, Dual-wielded Medium Pierce Melee -1, One-handed Medium Slash Melee +1, Dual-wielded Medium Slash Melee +1",2,5 bc,
 Battleaxe,1,"One-handed Medium Hew Melee +0, Two-handed Medium Hew Melee +0, Dual-wielded Medium Hew Melee +0",3,10 bc,
 Flail,1,"One-handed Medium Bludgeon Melee +0, Two-handed Medium Bludgeon Melee +0, Dual-wielded Medium Bludgeon Melee +0",3,10 bc,
 Morning Star,1,"One-handed Medium Bludgeon Melee +0, Two-handed Medium Bludgeon Melee +0, Dual-wielded Medium Bludgeon Melee +0, One-handed Medium Pierce Melee +0, Two-handed Medium Pierce Melee +0, Dual-wielded Medium Pierce Melee +0",4,15 bc,
@@ -76,10 +76,10 @@ Maul,1,"One-handed Large Bludgeon Melee +0, Two-handed Large Bludgeon Melee +0",
 Spear,1,"One-handed Large Spear +0, Two-handed Large Spear +0, One-handed Thrown Large Spear +0, Resource Pool: Thrown Large Spear +0",3,1 bc,
 Trident,1,"One-handed Large Spear +1, Two-handed Large Spear +1, One-handed Thrown Large Spear +1, Resource Pool: Thrown Large Spear +1",3,5 bc,
 Poleaxe,1,"One-handed Large Bludgeon Melee +0, Two-handed Large Bludgeon Melee +0, One-handed Large Hew Melee +0, Two-handed Large Hew Melee +0, One-handed Large Spear +0, Two-handed Large Spear +0",6,40 bc,
-Wooden Javelin,1,"Medium Spear -1 One-handed, Dual-wielded Medium Spear -1, Thrown Medium Spear -1 One-handed, Resource Pool: Thrown Medium Spear -1",2,25 cc,
+Wooden Javelin,1,"One-handed Medium Spear -1, Dual-wielded Medium Spear -1, One-handed Thrown Medium Spear -1, Resource Pool: Thrown Medium Spear -1",2,25 cc,
 Javelin,1,"One-handed Medium Spear +0, Dual-wielded Medium Spear +0, One-handed Thrown Medium Spear +0, Resource Pool: Thrown Medium Spear +0",2,50 cc,
 Swordstaff,1,"One-handed Reach Slash Melee +0, Two-handed Reach Slash Melee +0, One-handed Reach Spear +0, Two-handed Reach Spear +0",6,50 bc,
-Halberd,1,"One-handed Reach Slash Melee +0, Two-handed Reach Slash Melee +0, Reach Hafted Point, One-handed Reach Spear +0, Two-handed Reach Spear +0",7,20 bc,
+Halberd,1,"One-handed Reach Slash Melee +0, Two-handed Reach Slash Melee +0, One-handed Reach Pierce Melee +0, Two-handed Reach Pierce Melee +0, One-handed Reach Spear +0, Two-handed Reach Spear +0",7,20 bc,
 Long Poleaxe,1,"One-handed Reach Bludgeon Melee +0, Two-handed Reach Bludgeon Melee +0, One-handed Reach Hew Melee +0, Two-handed Reach Hew Melee +0, One-handed Reach Spear +0, Two-handed Reach Spear +0",7,41 bc,
 Lance,1,"One-handed Reach Spear +0, Two-handed Reach Spear +0",11,10 bc,
 Pike,1,"One-handed Reach Spear +0, Two-handed Reach Spear +0",5,5 bc,
@@ -100,7 +100,7 @@ Quarterstaff with Hidden Spear,1,"One-handed Large Bludgeon Melee +0, Two-handed
 Club,1,"One-handed Small Bludgeon Melee +0, Dual-wielded Small Bludgeon Melee +0, One-handed Thrown Small Bludgeon Melee +0, Dual-wielded Thrown Small Bludgeon Melee +0, Resource Pool: Thrown Small Bludgeon Melee +0",2,10 cc,
 Great Club,1,"One-handed Large Bludgeon Melee +0, Two-handed Large Bludgeon Melee +0",10,20 cc,
 Whip,1,"One-handed Whip +0,  Dual-wielded Whip +0",3,2 bc,
-Plumbata/Dart,1,"Small Pierce Melee -1 One-handed, Dual-wielded Small Pierce Melee -1, One-handed Thrown Small Pierce Melee +0, Dual-wielded Thrown Small Pierce Melee +0, Resource Pool: Thrown Small Pierce Melee +0",5,5 cc,
+Plumbata/Dart,1,"One-handed Small Pierce Melee -1, Dual-wielded Small Pierce Melee -1, One-handed Thrown Small Pierce Melee +0, Dual-wielded Thrown Small Pierce Melee +0, Resource Pool: Thrown Small Pierce Melee +0",5,5 cc,
 Blowgun,1,One-handed Blowgun +0,1,10 bc,
 ,,,,,
 Steelclaw,1,"One-handed Large Pierce Melee +2, Two-handed Large Pierce Melee +2, One-handed Large Slash Melee +2, Two-handed Large Slash Melee +2",3,25 bc,This sword was cursed upon Vasilii Anatoli after using it to kill his eldest brother. It is a constant reminder of his shame.
@@ -108,7 +108,7 @@ Frostbark,1,"One-handed Large Hew Melee +3, Two-handed Large Hew Melee +3, Spell
 Draupnir Spear,1,"One-handed Medium Spear +3, Dual-wielded Medium Spear +3, One-handed Thrown Medium Spear +3, Resource Pool: Thrown Medium Spear +3, One-handed Large Spear +3, Two-handed Large Spear +3, One-handed Thrown Large Spear +3, Resource Pool: Thrown Large Spear +3, One-handed Reach Spear +3, Two-handed Reach Spear +3, Spellcasting Focus, Draupnir",3,? bc,"Said to have been crafted by Siren smith long ago with the blood of a god...
 
 This spear can be used as a Air Spellcasting Focus."
-Asher's Arms Swordbreaker,1,"One-handed Small Slash Melee +2, Dual-wielded Small Slash Melee +2, Small Pierce Melee -1 One-handed, Dual-wielded Small Pierce Melee -1, Thrown Small Pierce Melee -1 One-handed, Dual-wielded Thrown Small Pierce Melee -1, Resource Pool: Thrown Small Pierce Melee -1, Swordbreaker Blade Catch",1,?,"A fine swordbreaker purchased from Asher’s Arm, a well regarded establishment in Reddwall known for their grayish blue steel. Swordbreakers were a favorite weapon of Lord Flint Reddington. He commissioned many swordbreakers just like this one for use in dueling.
+Asher's Arms Swordbreaker,1,"One-handed Small Slash Melee +2, Dual-wielded Small Slash Melee +2, One-handed Small Pierce Melee -1, Dual-wielded Small Pierce Melee -1, One-handed Thrown Small Pierce Melee -1, Dual-wielded Thrown Small Pierce Melee -1, Resource Pool: Thrown Small Pierce Melee -1, Swordbreaker Blade Catch",1,?,"A fine swordbreaker purchased from Asher’s Arm, a well regarded establishment in Reddwall known for their grayish blue steel. Swordbreakers were a favorite weapon of Lord Flint Reddington. He commissioned many swordbreakers just like this one for use in dueling.
 
 Swordbreakers, often wielded offhand to a main hand sword. They are designed to catch and bind the opponent's blade, leaving the opponent open for a decisive attack from the main hand weapon."
 Talon - Replica,1,"One-handed Small Pierce Melee +1, Dual-wielded Small Pierce Melee +1, One-handed Small Slash Melee +1, Dual-wielded Small Slash Melee +1",1.5,?,"Quality shortsword taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Talon short sword, a Despereaux family heirloom."
@@ -125,7 +125,7 @@ Hew,1,"One-handed Medium Hew Melee +3, Two-handed Medium Hew Melee +3, Dual-wiel
 An unassuming double bladed, rusty, yet excellently crafted battleaxe both as versatile at chopping wood as chopping skulls.
 
 Runecraft scholars have traced the origin of this axe to the first Fellkin who began harvesting the great iron woods of Reddland. Needing a tool that was both capable of felling the great iron woods and fending back the monstrous Leshens that roamed the forest, this weapon was forged."
-Char - Damaged,1,"Reach Pierce Melee -2 One-handed, Two-handed Reach Pierce Melee -2, Reach Slash Melee -2 One-handed, Two-handed Reach Slash Melee -2, Fire Repair and Enhancement",6,?,"""It has been in the family for a bit, passed down from father to son. It’ll be yours one day junior. Who knows, you might need it someday."" -Destin Shaffer Sr.
+Char - Damaged,1,"One-handed Reach Pierce Melee -2, Two-handed Reach Pierce Melee -2, One-handed Reach Slash Melee -2, Two-handed Reach Slash Melee -2, Fire Repair and Enhancement",6,?,"""It has been in the family for a bit, passed down from father to son. It’ll be yours one day junior. Who knows, you might need it someday."" -Destin Shaffer Sr.
 
 An apparently mundane greatsword with a partially shattered tip “acquired” and used by Destin Shaffer. Destin took this sword when he left his mother and father. Taken because it was the least valuable weapon at his parents' blacksmith shop as his guilt prevented him from taking anything nicer. He always wondered why his step-father kept the hunk of junk leaning up against the wall.
 
@@ -134,7 +134,7 @@ Destin used this blade in his time as a mercenary. He had plenty of opportunitie
 During Destin's confrontation with the Demon Helena, he sacrificed the damaged blade for one more powerful strike to in a desperate attempt defend the fleeing prisoner’s and his friends. The sword shattered, though somehow managed to hold itself together, surging with red heat visible through the cracks. Recently, Destin has discovered that the weapon seems capable of repairing itself under extreme heat.
 
 Shattered and broken, Destin continues to carry this blade."
-Char - Shoddy,1,"Reach Pierce Melee -1 One-handed, Reach Pierce Melee (1-) Two-handed, Reach Slash Melee -1 One-handed, Two-handed Reach Slash Melee -1, Fire Repair and Enhancement",6,?,"""It has been in the family for a bit, passed down from father to son. It’ll be yours one day junior. Who knows, you might need it someday."" -Destin Shaffer Sr.
+Char - Shoddy,1,"One-handed Reach Pierce Melee -1, Two-handed Reach Pierce Melee -1, One-handed Reach Slash Melee -1, Two-handed Reach Slash Melee -1, Fire Repair and Enhancement",6,?,"""It has been in the family for a bit, passed down from father to son. It’ll be yours one day junior. Who knows, you might need it someday."" -Destin Shaffer Sr.
 
 An apparently mundane greatsword with a partially shattered tip “acquired” and used by Destin Shaffer. Destin took this sword when he left his mother and father. Taken because it was the least valuable weapon at his parents' blacksmith shop as his guilt prevented him from taking anything nicer. He always wondered why his step-father kept the hunk of junk leaning up against the wall.
 
@@ -161,7 +161,7 @@ A relatively unknown Runecraft to the wider populace, this sword is highly debat
 Killing with this weapon seems to mysteriously decapitate the victim's head from their bodies. In some tales it is only when the user of the sword deals a killing blow, while in older tales a single nick from the blade would lead to instant decapitation. Users report seeing flashes of the life they’ve cut off and all the generations in an instant.
 
  Appearing in various forms throughout history such as a rapier or slender long sword. This has led some scholars to argue that this sword is in fact multiple swords with similar effects. The Battle Scholars of the Dawn Empire had this weapon in their great collection in Crossroads long ago, and it was mysteriously lost. They recorded the weapon as only decapitating on a death blow, testing it on condemned criminals. Such a weak effect led to reduced research on the weapon while it was in their possession. However, they never were able to replicate its Runecraft, odd for such a weak effect. No weapon has ever been recorded as having a similar effect, leaving some scholars to ponder if there is more to this Runecraft…"
-Echo,1,"One-handed Medium Pierce Melee +5, Two-handed Medium Pierce Melee +5, Dual-wielded Medium Pierce Melee +5, Two-handed Medium Slash Melee +5, One-handed Medium Slash Melee +5, Dual-wielded Medium Slash Melee +5",2,?,"""What is a myth? An echo of the past in the future. I can hear it dear sister, can't you…"" - Lord Maxwell Reddington
+Echo,1,"One-handed Medium Pierce Melee +5, Two-handed Medium Pierce Melee +5, Dual-wielded Medium Pierce Melee +5, One-handed Medium Slash Melee +5, Two-handed Medium Slash Melee +5, Dual-wielded Medium Slash Melee +5",2,?,"""What is a myth? An echo of the past in the future. I can hear it dear sister, can't you…"" - Lord Maxwell Reddington
 
 The arming sword of Lord Maxwell Reddington, taken from the crypt underneath Castle Tearstone.
 
@@ -176,7 +176,7 @@ The Laughing Storm, one of the greatest pirate lords and outlaws to have ever li
 Veronica and Flint tried for children many times, but tragedy struck every time. After years of trying, Veronica eventually bore a sickly heir, a daughter with hair as white as the full moons."
 Asclepius,1,"One-handed Medium Spear +7, Dual-wielded Medium Spear +7, One-handed Thrown Medium Spear +7, Resource Pool: Thrown Medium Spear +7, One-handed Large Spear +7, Two-handed Large Spear +7, One-handed Thrown Large Spear +7, Resource Pool: Thrown Large Spear +7, One-handed Reach Spear +7, Two-handed Reach Spear +7, One-handed Whip +7, Dual-wielded Whip +7, Metal Feeding, Command Asclepius",3,?,This mastercrafted 5 foot golden snake was crafted by those that worshiped the Great Leviathan.
 Soot and Ash,1,"One-handed Medium Pierce Melee +9, Dual-wielded Medium Pierce Melee +9, One-handed Medium Slash Melee +9, Dual-wielded Medium Slash Melee +9, One-handed Small Pierce Melee +9, Dual-wielded Small Pierce Melee +9, One-handed Small Slash Melee +9, Dual-wielded Small Slash Melee +9",0.2,?,
-The Spear of Destiny,1,"One-handed Reach Slash Melee +12, Slash Melee Two-handed +12, One-handed Reach Spear +12, Two-handed Reach Spear +12, Spellcasting Focus, Destiny Chosen, Super Strength, Super Reflex, Indestructible",14,?,"""Long ago, before the time of Fellkin or Brightkin, this weapon is said to have killed a piece of a god. The Bright Lord bestowed this weapon on his most loyal ally to do the same again."" - Ancient texts
+The Spear of Destiny,1,"One-handed Reach Slash Melee +12, Two-handed Slash Melee +12, One-handed Reach Spear +12, Two-handed Reach Spear +12, Spellcasting Focus, Destiny Chosen, Super Strength, Super Reflex, Indestructible",14,?,"""Long ago, before the time of Fellkin or Brightkin, this weapon is said to have killed a piece of a god. The Bright Lord bestowed this weapon on his most loyal ally to do the same again."" - Ancient texts
 
 The Spear of Destiny, a massive artifact Swordspear,  is the most famous artifact on the continent. The Spear was first wielded by the Amon, Spear of the Brights, in service of The Bright Lord. Though in time, Amon would use the Spear in an attempt to overthrow The Bright Lord.
 
@@ -206,12 +206,12 @@ Bodkin Knife,1,"One-handed Small Pierce Melee +0, Dual-wielded Small Pierce Mele
 War Axe,1,"One-handed Large Hew Melee +0, Two-handed Large Hew Melee +0",5,5 bc,
 Asher’s Arms Bollock Dagger,1,"One-handed Small Pierce Melee +5, Dual-wielded Small Pierce Melee +5, One-handed Small Slash Melee +5, Dual-wielded Small Slash Melee +5, One-handed Thrown Small Pierce Melee +5, Dual-wielded Thrown Small Pierce Melee +5, Resource Pool: Thrown Small Pierce Melee +5",1,10 bc,
 Dragon Torch,1,"One-handed Small Torch +12, Dual-wielded Small Torch +12, Spellcasting Focus",3,9999 bc,
-Shovel,1,"Large Bludgeon Melee -1 One-handed, Two-handed Large Bludgeon Melee -1",5,2 bc,
+Shovel,1,"One-handed Large Bludgeon Melee -1, Two-handed Large Bludgeon Melee -1",5,2 bc,
 Excellent Light Longbow,1,Two-handed Light Bow +3,2,25 bc,
-Quality Swordbreaker,1,"One-handed Small Slash Melee +1, Dual-wielded Small Slash Melee +1, Small Pierce Melee -1 One-handed, Dual-wielded Small Pierce Melee -1, Thrown Small Pierce Melee -1 One-handed, Dual-wielded Thrown Small Pierce Melee -1, Resource Pool: Thrown Small Pierce Melee -1, Swordbreaker Blade Catch",1,28 bc,
+Quality Swordbreaker,1,"One-handed Small Slash Melee +1, Dual-wielded Small Slash Melee +1, One-handed Small Pierce Melee -1, Dual-wielded Small Pierce Melee -1, One-handed Thrown Small Pierce Melee -1, Dual-wielded Thrown Small Pierce Melee -1, Resource Pool: Thrown Small Pierce Melee -1, Swordbreaker Blade Catch",1,28 bc,
 Torch,1,"One-handed Small Torch +0, Dual-wielded Small Torch +0",1,1 cc,
-Shiv,1,"Small Pierce Melee -1 One-handed, Dual-wielded Small Pierce Melee -1, One-handed Small Slash Melee -1, Dual-wielded Small Slash Melee -1, Thrown Small Pierce Melee -1 One-handed, Dual-wielded Thrown Small Pierce Melee -1, Resource Pool: Thrown Small Pierce Melee -1",1,70 cc,
-Shoddy Club,1,"Shoddy One-handed Small Bludgeon Melee +0, Dual-wielded Small Bludgeon Melee +0, Shoddy One-handed Thrown Small Bludgeon Melee +0, Dual-wielded Thrown Small Bludgeon Melee +0, Resource Pool: Thrown Small Bludgeon Melee +0",2,10 cc,
+Shiv,1,"One-handed Small Pierce Melee -1, Dual-wielded Small Pierce Melee -1, One-handed Small Slash Melee -1, Dual-wielded Small Slash Melee -1, One-handed Thrown Small Pierce Melee -1, Dual-wielded Thrown Small Pierce Melee -1, Resource Pool: Thrown Small Pierce Melee -1",1,70 cc,
+Shoddy Club,1,"One-handed Small Bludgeon Melee +0, Dual-wielded Small Bludgeon Melee +0, One-handed Thrown Small Bludgeon Melee +0, Dual-wielded Thrown Small Bludgeon Melee +0, Resource Pool: Thrown Small Bludgeon Melee +0",2,10 cc,
 Caestus,1,"One-handed Small Bludgeon Melee +0, Dual-wielded Small Bludgeon Melee +0",2,1.66 bc,
 Spiked Caestus,1,"One-handed Small Pierce Melee +0, Dual-wielded Small Pierce Melee +0",2,3 bc,
 ,,,,,
