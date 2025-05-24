@@ -30,25 +30,25 @@ Hand Crossbow (One-handed) (+0),Hand Crossbow - {Magic Skill},"{Magic Resource T
 Hand Crossbow (Two-handed) (+0),Hand Crossbow - {Magic Skill},"{Magic Resource Type}, 1",Small crossbows designed to be held in one hand.,Innate,Indefinite,Hand Crossbow,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,0,Medium,Quick,None
 Hand Crossbow (Dual-wielded) (+0),Hand Crossbow,"{Magic Resource Type}, 2",Small crossbows designed to be held in one hand.,Innate,Indefinite,Hand Crossbow,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},+2d6,0,Mediocre,Steady,None
 ,,,,,,,,,,,,,,,
-Light Crossbow (One-handed) (+0),Light Crossbow - {Magic Skill},"{Magic Resource Type}, 1","Crossbows balancing power and reload time. ",Innate,Indefinite,Light Crossbow,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,1,Far,Steady,None
-Light Crossbow (Two-handed) (+0),Light Crossbow - {Magic Skill},"{Magic Resource Type}, 1","Crossbows balancing power and reload time. ",Innate,Indefinite,Light Crossbow,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,1,Far,Steady,None
+(One-handed) Light Crossbow (+0),Light Crossbow - {Magic Skill},"{Magic Resource Type}, 1","Crossbows balancing power and reload time. ",Innate,Indefinite,Light Crossbow,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,1,Far,Steady,None
+(Two-handed) Light Crossbow (+0),Light Crossbow - {Magic Skill},"{Magic Resource Type}, 1","Crossbows balancing power and reload time. ",Innate,Indefinite,Light Crossbow,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,1,Far,Steady,None
 ,,,,,,,,,,,,,,,
-Heavy Crossbow (Two-handed) (+0),Heavy Crossbow - {Magic Skill},"{Magic Resource Type}, 1",Crossbows designed for maximum power disregarding reload time.,Innate,Indefinite,Heavy Crossbow,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+2d6,2,Long,Extremely Slow,None
+(Two-handed) Heavy Crossbow (+0),Heavy Crossbow - {Magic Skill},"{Magic Resource Type}, 1",Crossbows designed for maximum power disregarding reload time.,Innate,Indefinite,Heavy Crossbow,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+2d6,2,Long,Extremely Slow,None
 ,,,,,,,,,,,,,,,
-Light Bow (Two-handed) (+0),Light Bow - {Magic Skill},"{Magic Resource Type}, 1",Bows favoring easier drawing versus power.,Innate,Indefinite,Light Bow,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,0,Far,Swift,None
+(Two-handed) Light Bow (+0),Light Bow - {Magic Skill},"{Magic Resource Type}, 1",Bows favoring easier drawing versus power.,Innate,Indefinite,Light Bow,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,0,Far,Swift,None
 ,,,,,,,,,,,,,,,
-Heavy Bow (Two-handed) (+0),Heavy Bow - {Magic Skill},"{Magic Resource Type}, 1",Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,Innate,Indefinite,Heavy Bow,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+2d6,2,Sharpshooter,Quick,None
+(Two-handed) Heavy Bow (+0),Heavy Bow - {Magic Skill},"{Magic Resource Type}, 1",Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,Innate,Indefinite,Heavy Bow,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+2d6,2,Sharpshooter,Quick,None
 ,,,,,,,,,,,,,,,
-Blowgun (One-handed) (+0),Blowgun - {Magic Skill},"{Magic Resource Type}, 1",A long narrow tube that propels darts using the force of the force of the users's breath.,Innate,Indefinite,Blowgun,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,0,Mediocre,Quick,None
+(One-handed) Blowgun (+0),Blowgun - {Magic Skill},"{Magic Resource Type}, 1",A long narrow tube that propels darts using the force of the force of the users's breath.,Innate,Indefinite,Blowgun,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,0,Mediocre,Quick,None
 ,,,,,,,,,,,,,,,
-Sling (Two-handed) (+0),Sling - {Magic Skill},"{Magic Resource Type}, 1",A flexible strap used to hurl small objects.,Innate,Indefinite,Sling,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,0,Mediocre,Quick,None
+(Two-handed) Sling (+0),Sling - {Magic Skill},"{Magic Resource Type}, 1",A flexible strap used to hurl small objects.,Innate,Indefinite,Sling,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,0,Mediocre,Quick,None
 ,,,,,,,,,,,,,,,
-Thrown (One-handed) Small Slash Melee (+0),Thrown Small - {Magic Skill},"{Magic Resource Type}, 1","Ninja stars, ect...",Innate,Indefinite,Thrown Small Slash Melee,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,0,Short,Swift,None
-Thrown (Dual-wielded) Small Slash Melee (+0),Thrown Small - {Magic Skill},"{Magic Resource Type}, 2","Ninja stars, ect...",Innate,Indefinite,Thrown Small Slash Melee,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,0,Short,Quick,None
+(One-handed) Thrown Small Slash Melee (+0),Thrown Small - {Magic Skill},"{Magic Resource Type}, 1","Ninja stars, ect...",Innate,Indefinite,Thrown Small Slash Melee,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,0,Short,Swift,None
+(Dual-wielded) Thrown Small Slash Melee (+0),Thrown Small - {Magic Skill},"{Magic Resource Type}, 2","Ninja stars, ect...",Innate,Indefinite,Thrown Small Slash Melee,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,0,Short,Quick,None
 ,,,,,,,,,,,,,,,
-Thrown (One-handed) Medium Spear (+0),Thrown Medium Spear - {Magic Skill},"{Magic Resource Type}, 1","Thrown Javelins, ect...",Innate,Indefinite,Thrown Medium Spear,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,1,Mediocre,Quick,None
+(One-handed) Thrown Medium Spear (+0),Thrown Medium Spear - {Magic Skill},"{Magic Resource Type}, 1","Thrown Javelins, ect...",Innate,Indefinite,Thrown Medium Spear,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,1,Mediocre,Quick,None
 ,,,,,,,,,,,,,,,
-Thrown (One-handed) Large Spear (+0),Thrown Large Spear - {Magic Skill},"{Magic Resource Type}, 1",Thrown two-handed spears.,Innate,Indefinite,Thrown Large Spear,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,2,Short,Quick,None
+(One-handed) Thrown Large Spear (+0),Thrown Large Spear - {Magic Skill},"{Magic Resource Type}, 1",Thrown two-handed spears.,Innate,Indefinite,Thrown Large Spear,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,2,Short,Quick,None
 ,,,,,,,,,,,,,,,
 Muzzleloading Pistol (One-handed) (+0),Muzzleloading Pistol - {Magic Skill},"{Magic Resource Type}, 1","Flintlock pistols, ect...",Innate,Indefinite,Muzzleloading Pistol,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+2d6,0,Mediocre,Extremely Slow,None
 Muzzleloading Pistol (Two-handed) (+0),Muzzleloading Pistol - {Magic Skill},"{Magic Resource Type}, 1","Flintlock pistols, ect...",Innate,Indefinite,Muzzleloading Pistol,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+2d6,0,Medium,Extremely Slow,None

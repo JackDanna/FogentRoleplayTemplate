@@ -72,34 +72,34 @@ Hand Crossbow (One-handed) (+0),Hand Crossbow,+0,One-handed,+1d6,0,Mediocre,Quic
 Hand Crossbow (Two-handed) (+0),Hand Crossbow,+0,Two-handed,+1d6,0,Medium,Quick,None,"Light Bolt, 1",Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
 Hand Crossbow (Dual-wielded) (+0),Hand Crossbow,+0,Dual-wielded,+2d6,0,Mediocre,Steady,None,"Light Bolt, 2",Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
 ,,,,,,,,,,,,,,
-Light Crossbow (One-handed) (+0),Light Crossbow,+0,One-handed,+0d6,1,Far,Steady,None,"Light Bolt, 1",Pierce,Light Crossbow,"Crossbows balancing power and reload time. ",Indefinite,Innate
-Light Crossbow (Two-handed) (+0),Light Crossbow,+0,Two-handed,+1d6,1,Far,Steady,None,"Light Bolt, 1",Pierce,Light Crossbow,"Crossbows balancing power and reload time. ",Indefinite,Innate
+(One-handed) Light Crossbow (+0),Light Crossbow,+0,One-handed,+0d6,1,Far,Steady,None,"Light Bolt, 1",Pierce,Light Crossbow,"Crossbows balancing power and reload time. ",Indefinite,Innate
+(Two-handed) Light Crossbow (+0),Light Crossbow,+0,Two-handed,+1d6,1,Far,Steady,None,"Light Bolt, 1",Pierce,Light Crossbow,"Crossbows balancing power and reload time. ",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Heavy Crossbow (Two-handed) (+0),Heavy Crossbow,+0,Two-handed,+2d6,2,Long,Extremely Slow,None,"Heavy Bolt, 1",Pierce,Heavy Crossbow,Crossbows designed for maximum power disregarding reload time.,Indefinite,Innate
+(Two-handed) Heavy Crossbow (+0),Heavy Crossbow,+0,Two-handed,+2d6,2,Long,Extremely Slow,None,"Heavy Bolt, 1",Pierce,Heavy Crossbow,Crossbows designed for maximum power disregarding reload time.,Indefinite,Innate
 ,,,,,,,,,,,,,,
-Light Bow (Two-handed) (+0),Light Bow,+0,Two-handed,+1d6,0,Far,Swift,None,"Light Arrow, 1",Pierce,Light Bow,Bows favoring easier drawing versus power.,Indefinite,Innate
+(Two-handed) Light Bow (+0),Light Bow,+0,Two-handed,+1d6,0,Far,Swift,None,"Light Arrow, 1",Pierce,Light Bow,Bows favoring easier drawing versus power.,Indefinite,Innate
 ,,,,,,,,,,,,,,
-Heavy Bow (Two-handed) (+0),Heavy Bow,+0,Two-handed,+2d6,2,Sharpshooter,Quick,None,"Heavy Arrow, 1",Pierce,Heavy Bow,Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,Indefinite,Innate
+(Two-handed) Heavy Bow (+0),Heavy Bow,+0,Two-handed,+2d6,2,Sharpshooter,Quick,None,"Heavy Arrow, 1",Pierce,Heavy Bow,Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,Indefinite,Innate
 ,,,,,,,,,,,,,,
-Blowgun (One-handed) (+0),Blowgun,+0,One-handed,+0d6,0,Mediocre,Quick,None,"Blowgun Dart, 1",Pierce,Exotic Ranged,A long narrow tube that propels darts using the force of the force of the users's breath.,Indefinite,Innate
+(One-handed) Blowgun (+0),Blowgun,+0,One-handed,+0d6,0,Mediocre,Quick,None,"Blowgun Dart, 1",Pierce,Exotic Ranged,A long narrow tube that propels darts using the force of the force of the users's breath.,Indefinite,Innate
 ,,,,,,,,,,,,,,
-Sling (Two-handed) (+0),Sling,+0,Two-handed,+0d6,0,Mediocre,Quick,None,"Sling Bullet, 1",Bludgeon,Exotic Ranged,A flexible strap used to hurl small objects.,Indefinite,Innate
+(Two-handed) Sling (+0),Sling,+0,Two-handed,+0d6,0,Mediocre,Quick,None,"Sling Bullet, 1",Bludgeon,Exotic Ranged,A flexible strap used to hurl small objects.,Indefinite,Innate
 ,,,,,,,,,,,,,,
-Thrown (One-handed) Small Slash Melee (+0),Thrown Small Slash Melee,+0,One-handed,+0d6,0,Short,Swift,None,"Self, 1",Slash,Close Melee,"Ninja stars, ect...",Indefinite,Innate
-Thrown (Dual-wielded) Small Slash Melee (+0),Thrown Small Slash Melee,+0,Dual-wielded,+1d6,0,Short,Quick,None,"Self, 2",Slash,Close Melee,"Ninja stars, ect...",Indefinite,Innate
+(One-handed) Thrown Small Slash Melee (+0),Thrown Small Slash Melee,+0,One-handed,+0d6,0,Short,Swift,None,"Self, 1",Slash,Close Melee,"Ninja stars, ect...",Indefinite,Innate
+(Dual-wielded) Thrown Small Slash Melee (+0),Thrown Small Slash Melee,+0,Dual-wielded,+1d6,0,Short,Quick,None,"Self, 2",Slash,Close Melee,"Ninja stars, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Thrown (One-handed) Small Pierce Melee (+0),Thrown Small Pierce Melee,+0,One-handed,+0d6,0,Short,Swift,None,"Self, 1",Pierce,Close Melee,"Throwing daggers, ect...",Indefinite,Innate
-Thrown (Dual-wielded) Small Pierce Melee (+0),Thrown Small Pierce Melee,+0,Dual-wielded,+1d6,0,Short,Quick,None,"Self, 2",Pierce,Close Melee,"Throwing daggers, ect...",Indefinite,Innate
+(One-handed) Thrown Small Pierce Melee (+0),Thrown Small Pierce Melee,+0,One-handed,+0d6,0,Short,Swift,None,"Self, 1",Pierce,Close Melee,"Throwing daggers, ect...",Indefinite,Innate
+(Dual-wielded) Thrown Small Pierce Melee (+0),Thrown Small Pierce Melee,+0,Dual-wielded,+1d6,0,Short,Quick,None,"Self, 2",Pierce,Close Melee,"Throwing daggers, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Thrown (One-handed) Small Hew Melee (+0),Thrown Small Hew Melee,+0,One-handed,+0d6,0,Short,Swift,None,"Self, 1",Hew,Close Melee,"Throwing hatchet, ect...",Indefinite,Innate
-Thrown (Dual-wielded) Small Hew Melee (+0),Thrown Small Hew Melee,+0,Dual-wielded,+1d6,0,Short,Quick,None,"Self, 2",Hew,Close Melee,"Throwing hatchet, ect...",Indefinite,Innate
+(One-handed) Thrown Small Hew Melee (+0),Thrown Small Hew Melee,+0,One-handed,+0d6,0,Short,Swift,None,"Self, 1",Hew,Close Melee,"Throwing hatchet, ect...",Indefinite,Innate
+(Dual-wielded) Thrown Small Hew Melee (+0),Thrown Small Hew Melee,+0,Dual-wielded,+1d6,0,Short,Quick,None,"Self, 2",Hew,Close Melee,"Throwing hatchet, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Thrown (One-handed) Small Bludgeon Melee (+0),Thrown Small Bludgeon Melee,+0,One-handed,+0d6,0,Short,Swift,None,"Self, 1",Bludgeon,Close Melee,"Thrown small club, rocks, ect...",Indefinite,Innate
-Thrown (Dual-wielded) Small Bludgeon Melee (+0),Thrown Small Bludgeon Melee,+0,Dual-wielded,+1d6,0,Short,Quick,None,"Self, 2",Bludgeon,Close Melee,"Thrown small club, rocks, ect...",Indefinite,Innate
+(One-handed) Thrown Small Bludgeon Melee (+0),Thrown Small Bludgeon Melee,+0,One-handed,+0d6,0,Short,Swift,None,"Self, 1",Bludgeon,Close Melee,"Thrown small club, rocks, ect...",Indefinite,Innate
+(Dual-wielded) Thrown Small Bludgeon Melee (+0),Thrown Small Bludgeon Melee,+0,Dual-wielded,+1d6,0,Short,Quick,None,"Self, 2",Bludgeon,Close Melee,"Thrown small club, rocks, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Thrown (One-handed) Medium Spear (+0),Thrown Medium Spear,+0,One-handed,+1d6,1,Mediocre,Quick,None,"Self, 1",Pierce,Medium Melee,"Thrown Javelins, ect...",Indefinite,Innate
+(One-handed) Thrown Medium Spear (+0),Thrown Medium Spear,+0,One-handed,+1d6,1,Mediocre,Quick,None,"Self, 1",Pierce,Medium Melee,"Thrown Javelins, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Thrown (One-handed) Large Spear (+0),Thrown Large Spear,+0,One-handed,+1d6,2,Short,Quick,None,"Self, 1",Pierce,Large Melee,Thrown two-handed spears.,Indefinite,Innate
+(One-handed) Thrown Large Spear (+0),Thrown Large Spear,+0,One-handed,+1d6,2,Short,Quick,None,"Self, 1",Pierce,Large Melee,Thrown two-handed spears.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 Muzzleloading Pistol (One-handed) (+0),Muzzleloading Pistol,+0,One-handed,+2d6,4,Mediocre,Extremely Slow,None,"Muzzleloading Pistol Cartridge, 1",Ballistic,Small Guns,"Flintlock pistols, ect...",Indefinite,Innate
 Muzzleloading Pistol (Two-handed) (+0),Muzzleloading Pistol,+0,Two-handed,+2d6,4,Medium,Extremely Slow,None,"Muzzleloading Pistol Cartridge, 1",Ballistic,Small Guns,"Flintlock pistols, ect...",Indefinite,Innate
