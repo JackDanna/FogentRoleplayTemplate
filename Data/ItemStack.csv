@@ -5,7 +5,7 @@ Advanced Suit,1,"Advanced Suit Defense, Space Vacuum Life Support",12,10 bc,"Hea
 Soldier Suit,1,"Soldier Suit Defense, Space Vacuum Life Support",12,10 bc,"Head Armor, Body Armor, Arm Armor, Leg Armor"
 ,,,,,
 Engineering Multi-tool,1,"Repair Base Dice Tier Adjustment (+2), Muzzleloading Pistol (One-handed) (+0), Muzzleloading Pistol (Two-handed) (+0), Muzzleloading Pistol (Dual-wielded) (+0)",3,?,
-Vibro-sword,1,"Medium Pierce Melee (One-handed) (+3), Medium Pierce Melee (Dual-wielded) (+3), Medium Slash Melee (One-handed) (+3), Medium Slash Melee (Dual-wielded) (+3)",2,10 bc,
+Vibro-sword,1,"(One-handed) Medium Pierce Melee (+3), (Dual-wielded) Medium Pierce Melee (+3), (One-handed) Medium Slash Melee (+3), (Dual-wielded) Medium Slash Melee (+3)",2,10 bc,
 Vibro-knife,1,"(One-handed) Small Pierce Melee (+3), (Dual-wielded) Small Pierce Melee (+3), (One-handed) Small Slash Melee (+3), (Dual-wielded) Small Slash Melee (+3), Thrown (One-handed) Small Pierce Melee (+3), Thrown (Dual-wielded) Small Pierce Melee (+3), Resource Pool: Thrown Small Pierce Melee (+3)",1,2 bc,
 Medpack,1,,1,?,
 ,,,,,
@@ -53,8 +53,8 @@ Platinum Coin,1,,0.02," 1 pc",
 ,,,,,
 Dagger,1,"(One-handed) Small Pierce Melee (+0), (Dual-wielded) Small Pierce Melee (+0), (One-handed) Small Slash Melee (+0), (Dual-wielded) Small Slash Melee (+0), Thrown (One-handed) Small Pierce Melee (+0), Thrown (Dual-wielded) Small Pierce Melee (+0), Resource Pool: Thrown Small Pierce Melee (+0)",1,2 bc,
 Shortsword,1,"(One-handed) Small Pierce Melee (+1), (Dual-wielded) Small Pierce Melee (+1), (One-handed) Small Slash Melee (+1), (Dual-wielded) Small Slash Melee (+1)",1.5,5 bc,
-Arming Sword,1,"Medium Pierce Melee (One-handed) (+0), Medium Pierce Melee (Dual-wielded) (+0), Medium Slash Melee (One-handed) (+0), Medium Slash Melee (Dual-wielded) (+0)",2,10 bc,
-Bastard Sword,1,"Medium Pierce Melee (One-handed) (+0), Medium Pierce Melee (Two-handed) (+0), Medium Pierce Melee (Dual-wielded) (+0), Medium Slash Melee (One-handed) (+0), Medium Slash Melee (Two-handed) (+0), Medium Slash Melee (Dual-wielded) (+0)",2.5,15 bc,
+Arming Sword,1,"(One-handed) Medium Pierce Melee (+0), (Dual-wielded) Medium Pierce Melee (+0), (One-handed) Medium Slash Melee (+0), (Dual-wielded) Medium Slash Melee (+0)",2,10 bc,
+Bastard Sword,1,"(One-handed) Medium Pierce Melee (+0), (Two-handed) Medium Pierce Melee (+0), (Dual-wielded) Medium Pierce Melee (+0), (One-handed) Medium Slash Melee (+0), (Two-handed) Medium Slash Melee (+0), (Dual-wielded) Medium Slash Melee (+0)",2.5,15 bc,
 Longsword,1,"Large Pierce Melee (One-handed) (+0), Large Pierce Melee (Two-handed) (+0), Large Slash Melee (One-handed) (+0), Large Slash Melee (Two-handed) (+0)",3,25 bc,
 Greatsword,1,"Reach Pierce Melee (One-handed) (+0), Reach Pierce Melee (Two-handed) (+0), Reach Slash Melee (One-handed) (+0), Reach Slash Melee (Two-handed) (+0)",6,50 bc,
 ,,,,,
@@ -62,22 +62,22 @@ Handaxe,1,"(One-handed) Small Hew Melee (+0), (Dual-wielded) Small Hew Melee (+0
 Shoddy Sickle,1,"Small Slash Melee (-1) (One-handed), (Dual-wielded) Small Slash Melee (-1), Thrown Small Slash Melee (-1) (One-handed), Thrown (Dual-wielded) Small Slash Melee (-1)",2,50 cc,
 Sickle,1,"Small Hafted Blade, Thrown Small Hafted Blade",2,1 bc,
 Light Hammer,1,"(One-handed) Small Bludgeon Melee (+0), (Dual-wielded) Small Bludgeon Melee (+0), Thrown (One-handed) Small Bludgeon Melee (+0), Thrown (Dual-wielded) Small Bludgeon Melee (+0), Resource Pool: Thrown Small Bludgeon Melee (+0)",2,2 bc,
-Rapier,1,"Medium Pierce Melee (One-handed) (+2), Medium Pierce Melee (Dual-wielded) (+2), Medium Slash Melee (One-handed) (+0), Medium Slash Melee (Dual-wielded) (+0)",2,25 bc,
-Scimitar,1,"Medium Pierce Melee (One-handed) (+0), Medium Pierce Melee (Dual-wielded) (+0), Medium Slash Melee (One-handed) (+2), Medium Slash Melee (Dual-wielded) (+2)",2,25 bc,
-Shoddy Scimitar,1,"Medium Pierce Melee (-1) (One-handed), Medium Pierce Melee (Dual-wielded) (-1), Medium Slash Melee (One-handed) (+1), Medium Slash Melee (Dual-wielded) (+1)",2,5 bc,
-Battleaxe,1,"Medium Hew Melee (One-handed) (+0), Medium Hew Melee (Two-handed) (+0), Medium Hew Melee (Dual-wielded) (+0)",3,10 bc,
-Flail,1,"Medium Bludgeon Melee (One-handed) (+0), Medium Bludgeon Melee (Two-handed) (+0), Medium Bludgeon Melee (Dual-wielded) (+0)",3,10 bc,
-Morning Star,1,"Medium Bludgeon Melee (One-handed) (+0), Medium Bludgeon Melee (Two-handed) (+0), Medium Bludgeon Melee (Dual-wielded) (+0), Medium Pierce Melee (One-handed) (+0), Medium Pierce Melee (Two-handed) (+0), Medium Pierce Melee (Dual-wielded) (+0)",4,15 bc,
-Mace,1,"Medium Bludgeon Melee (One-handed) (+0), Medium Bludgeon Melee (Two-handed) (+0), Medium Bludgeon Melee (Dual-wielded) (+0)",3,5 bc,
-Warhammer/pick,1,"Medium Bludgeon Melee (One-handed) (+0), Medium Bludgeon Melee (Two-handed) (+0), Medium Bludgeon Melee (Dual-wielded) (+0), Medium Pierce Melee (One-handed) (+0), Medium Pierce Melee (Two-handed) (+0), Medium Pierce Melee (Dual-wielded) (+0)",2,15 bc,
+Rapier,1,"(One-handed) Medium Pierce Melee (+2), (Dual-wielded) Medium Pierce Melee (+2), (One-handed) Medium Slash Melee (+0), (Dual-wielded) Medium Slash Melee (+0)",2,25 bc,
+Scimitar,1,"(One-handed) Medium Pierce Melee (+0), (Dual-wielded) Medium Pierce Melee (+0), (One-handed) Medium Slash Melee (+2), (Dual-wielded) Medium Slash Melee (+2)",2,25 bc,
+Shoddy Scimitar,1,"Medium Pierce Melee (-1) (One-handed), (Dual-wielded) Medium Pierce Melee (-1), (One-handed) Medium Slash Melee (+1), (Dual-wielded) Medium Slash Melee (+1)",2,5 bc,
+Battleaxe,1,"(One-handed) Medium Hew Melee (+0), (Two-handed) Medium Hew Melee (+0), (Dual-wielded) Medium Hew Melee (+0)",3,10 bc,
+Flail,1,"(One-handed) Medium Bludgeon Melee (+0), (Two-handed) Medium Bludgeon Melee (+0), (Dual-wielded) Medium Bludgeon Melee (+0)",3,10 bc,
+Morning Star,1,"(One-handed) Medium Bludgeon Melee (+0), (Two-handed) Medium Bludgeon Melee (+0), (Dual-wielded) Medium Bludgeon Melee (+0), (One-handed) Medium Pierce Melee (+0), (Two-handed) Medium Pierce Melee (+0), (Dual-wielded) Medium Pierce Melee (+0)",4,15 bc,
+Mace,1,"(One-handed) Medium Bludgeon Melee (+0), (Two-handed) Medium Bludgeon Melee (+0), (Dual-wielded) Medium Bludgeon Melee (+0)",3,5 bc,
+Warhammer/pick,1,"(One-handed) Medium Bludgeon Melee (+0), (Two-handed) Medium Bludgeon Melee (+0), (Dual-wielded) Medium Bludgeon Melee (+0), (One-handed) Medium Pierce Melee (+0), (Two-handed) Medium Pierce Melee (+0), (Dual-wielded) Medium Pierce Melee (+0)",2,15 bc,
 Glaive,1,"Large Slash Melee (One-handed) (+0), Large Slash Melee (Two-handed) (+0)",6,20 bc,
 Dane Axe,1,"Large Hew Melee (One-handed) (+0), Large Hew Melee (Two-handed) (+0)",4,11 bc,
 Maul,1,"Large Bludgeon Melee (One-handed) (+0), Large Bludgeon Melee (Two-handed) (+0)",7,10 bc,
 Spear,1,"Large Spear (One-handed) (+0), Large Spear (Two-handed) (+0), Thrown Large Spear (One-handed) (+0), Resource Pool: Thrown Large Spear (+0)",3,1 bc,
 Trident,1,"Large Spear (One-handed) (+1), Large Spear (Two-handed) (+1), Thrown Large Spear (One-handed) (+1), Resource Pool: Thrown Large Spear (+1)",3,5 bc,
 Poleaxe,1,"Large Bludgeon Melee (One-handed) (+0), Large Bludgeon Melee (Two-handed) (+0), Large Hew Melee (One-handed) (+0), Large Hew Melee (Two-handed) (+0), Large Spear (One-handed) (+0), Large Spear (Two-handed) (+0)",6,40 bc,
-Wooden Javelin,1,"Medium Spear (-1) (One-handed), Medium Spear (Dual-wielded) (-1), Thrown Medium Spear (-1) (One-handed), Resource Pool: Thrown Medium Spear (-1)",2,25 cc,
-Javelin,1,"Medium Spear (One-handed) (+0), Medium Spear (Dual-wielded) (+0), Thrown Medium Spear (One-handed) (+0), Resource Pool: Thrown Medium Spear (+0)",2,50 cc,
+Wooden Javelin,1,"Medium Spear (-1) (One-handed), (Dual-wielded) Medium Spear (-1), Thrown Medium Spear (-1) (One-handed), Resource Pool: Thrown Medium Spear (-1)",2,25 cc,
+Javelin,1,"(One-handed) Medium Spear (+0), (Dual-wielded) Medium Spear (+0), Thrown (One-handed) Medium Spear (+0), Resource Pool: Thrown Medium Spear (+0)",2,50 cc,
 Swordstaff,1,"Reach Slash Melee (One-handed) (+0), Reach Slash Melee (Two-handed) (+0), Reach Spear (One-handed) (+0), Reach Spear (Two-handed) (+0)",6,50 bc,
 Halberd,1,"Reach Slash Melee (One-handed) (+0), Reach Slash Melee (Two-handed) (+0), Reach Hafted Point, Reach Spear (One-handed) (+0), Reach Spear (Two-handed) (+0)",7,20 bc,
 Long Poleaxe,1,"Reach Bludgeon Melee (One-handed) (+0), Reach Bludgeon Melee (Two-handed) (+0), Reach Hew Melee (One-handed) (+0), Reach Hew Melee (Two-handed) (+0), Reach Spear (One-handed) (+0), Reach Spear (Two-handed) (+0)",7,41 bc,
@@ -105,7 +105,7 @@ Blowgun,1,Blowgun (One-handed) (+0),1,10 bc,
 ,,,,,
 Steelclaw,1,"Large Pierce Melee (One-handed) (+2), Large Pierce Melee (Two-handed) (+2), Large Slash Melee (One-handed) (+2), Large Slash Melee (Two-handed) (+2)",3,25 bc,This sword was cursed upon Vasilii Anatoli after using it to kill his eldest brother. It is a constant reminder of his shame.
 Frostbark,1,"Large Hew Melee (One-handed) (+3), Large Hew Melee (Two-handed) (+3), Spellcasting Focus, Cold Enchantment",4,? bc,"A Dane axe imbued with the frost found on the high peaks of the Spine of the World. Its solid oak handle appears grown into the axe head, securing it solidly in place. Latent nature and cold magic is present within the handle."
-Draupnir Spear,1,"Medium Spear (One-handed) (+3), Medium Spear (Dual-wielded) (+3), Thrown Medium Spear (One-handed) (+3), Resource Pool: Thrown Medium Spear (+3), Large Spear (One-handed) (+3), Large Spear (Two-handed) (+3), Thrown Large Spear (One-handed) (+3), Resource Pool: Thrown Large Spear (+3), Reach Spear (One-handed) (+3), Reach Spear (Two-handed) (+3), Spellcasting Focus, Draupnir",3,? bc,"Said to have been crafted by Siren smith long ago with the blood of a god...
+Draupnir Spear,1,"(One-handed) Medium Spear (+3), (Dual-wielded) Medium Spear (+3), Thrown (One-handed) Medium Spear (+3), Resource Pool: Thrown Medium Spear (+3), Large Spear (One-handed) (+3), Large Spear (Two-handed) (+3), Thrown Large Spear (One-handed) (+3), Resource Pool: Thrown Large Spear (+3), Reach Spear (One-handed) (+3), Reach Spear (Two-handed) (+3), Spellcasting Focus, Draupnir",3,? bc,"Said to have been crafted by Siren smith long ago with the blood of a god...
 
 This spear can be used as a Air Spellcasting Focus."
 Asher's Arms Swordbreaker,1,"(One-handed) Small Slash Melee (+2), (Dual-wielded) Small Slash Melee (+2), Small Pierce Melee (-1) (One-handed), (Dual-wielded) Small Pierce Melee (-1), Thrown Small Pierce Melee (-1) (One-handed), Thrown (Dual-wielded) Small Pierce Melee (-1), Resource Pool: Thrown Small Pierce Melee (-1), Swordbreaker Blade Catch",1,?,"A fine swordbreaker purchased from Asher’s Arm, a well regarded establishment in Reddwall known for their grayish blue steel. Swordbreakers were a favorite weapon of Lord Flint Reddington. He commissioned many swordbreakers just like this one for use in dueling.
@@ -113,14 +113,14 @@ Asher's Arms Swordbreaker,1,"(One-handed) Small Slash Melee (+2), (Dual-wielded)
 Swordbreakers, often wielded offhand to a main hand sword. They are designed to catch and bind the opponent's blade, leaving the opponent open for a decisive attack from the main hand weapon."
 Talon - Replica,1,"(One-handed) Small Pierce Melee (+1), (Dual-wielded) Small Pierce Melee (+1), (One-handed) Small Slash Melee (+1), (Dual-wielded) Small Slash Melee (+1)",1.5,?,"Quality shortsword taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Talon short sword, a Despereaux family heirloom."
 Fang - Replica,1,"(One-handed) Small Pierce Melee (+1), (Dual-wielded) Small Pierce Melee (+1), (One-handed) Small Slash Melee (+1), (Dual-wielded) Small Slash Melee (+1), Thrown (One-handed) Small Pierce Melee (+1), Thrown (Dual-wielded) Small Pierce Melee (+1)",1,?,"Quality karambit knife taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Fang karambit knife, a Despereaux family heirloom."
-Sirius’s Sword,1,"Medium Pierce Melee (One-handed) (+2), Medium Pierce Melee (Dual-wielded) (+2), Medium Slash Melee (One-handed) (+2), Medium Slash Melee (Dual-wielded) (+2)",2,?,"Fine arming sword of Sirius Roseblood, first of his name. A fine sword, marked with the emblem of the dwindling House Roseblood on the crossguard.
+Sirius’s Sword,1,"(One-handed) Medium Pierce Melee (+2), (Dual-wielded) Medium Pierce Melee (+2), (One-handed) Medium Slash Melee (+2), (Dual-wielded) Medium Slash Melee (+2)",2,?,"Fine arming sword of Sirius Roseblood, first of his name. A fine sword, marked with the emblem of the dwindling House Roseblood on the crossguard.
 
 House Roseblood isn't as wealthy as it once was during the height of the witch queen's reign. As a result, they do not have the coin for the finest craftsmen for children’s swords, owing to the more modest nature of this sword."
 Staff of Defense,1,"Large Bludgeon Melee (One-handed) (+3), Large Bludgeon Melee (Two-handed) (+3), Spellcasting Focus, Defense Spells, Physical Defense 1.00",3,?,
-Monkey Staff,1,"(One-handed) Small Bludgeon Melee (+3), (Dual-wielded) Small Bludgeon Melee (+3), Thrown (One-handed) Small Bludgeon Melee (+3), Thrown (Dual-wielded) Small Bludgeon Melee (+3), Resource Pool: Thrown Small Bludgeon Melee (+3), Medium Bludgeon Melee (One-handed) (+3), Medium Bludgeon Melee (Two-handed) (+3), Medium Bludgeon Melee (Dual-wielded) (+3), Large Bludgeon Melee (One-handed) (+3), Large Bludgeon Melee (Two-handed) (+3), Reach Bludgeon Melee (One-handed) (+3), Reach Bludgeon Melee (Two-handed) (+3), Extendable Weapon",4,?,"""Monkey see, Monkey do"" - Arinoth the Enlightened
+Monkey Staff,1,"(One-handed) Small Bludgeon Melee (+3), (Dual-wielded) Small Bludgeon Melee (+3), Thrown (One-handed) Small Bludgeon Melee (+3), Thrown (Dual-wielded) Small Bludgeon Melee (+3), Resource Pool: Thrown Small Bludgeon Melee (+3), (One-handed) Medium Bludgeon Melee (+3), (Two-handed) Medium Bludgeon Melee (+3), (Dual-wielded) Medium Bludgeon Melee (+3), Large Bludgeon Melee (One-handed) (+3), Large Bludgeon Melee (Two-handed) (+3), Reach Bludgeon Melee (One-handed) (+3), Reach Bludgeon Melee (Two-handed) (+3), Extendable Weapon",4,?,"""Monkey see, Monkey do"" - Arinoth the Enlightened
 
 A staff from the Jungles of Leodelphia. This is all that remains of Arinoth the Enlightened's home."
-Hew,1,"Medium Hew Melee (One-handed) (+3), Medium Hew Melee (Two-handed) (+3), Medium Hew Melee (Dual-wielded) (+3), Splinter",4,?,"""When you chop wood, splinters fly.""  - Anonymous
+Hew,1,"(One-handed) Medium Hew Melee (+3), (Two-handed) Medium Hew Melee (+3), (Dual-wielded) Medium Hew Melee (+3), Splinter",4,?,"""When you chop wood, splinters fly.""  - Anonymous
 
 An unassuming double bladed, rusty, yet excellently crafted battleaxe both as versatile at chopping wood as chopping skulls.
 
@@ -152,7 +152,7 @@ Destin used this blade in his time as a mercenary. He had plenty of opportunitie
 During Destin's confrontation with the Demon Helena, he sacrificed the damaged blade for one more powerful strike to in a desperate attempt defend the fleeing prisoner’s and his friends. The sword shattered, though somehow managed to hold itself together, surging with red heat visible through the cracks. Recently, Destin has discovered that the weapon seems capable of repairing itself under extreme heat.
 
 Shattered and broken, Destin continues to carry this blade."
-Epilogue,1,"Medium Pierce Melee (One-handed) (+3), Medium Pierce Melee (Dual-wielded) (+3), Medium Slash Melee (One-handed) (+3), Medium Slash Melee (Dual-wielded) (+3), Ending",2,?,"""There is no real ending. It's just a place where you stop the story.""
+Epilogue,1,"(One-handed) Medium Pierce Melee (+3), (Dual-wielded) Medium Pierce Melee (+3), (One-handed) Medium Slash Melee (+3), (Dual-wielded) Medium Slash Melee (+3), Ending",2,?,"""There is no real ending. It's just a place where you stop the story.""
 
 This excellent slender bastard sword is perfectly balanced. Nimble, thin, and razor sharp.
 
@@ -161,7 +161,7 @@ A relatively unknown Runecraft to the wider populace, this sword is highly debat
 Killing with this weapon seems to mysteriously decapitate the victim's head from their bodies. In some tales it is only when the user of the sword deals a killing blow, while in older tales a single nick from the blade would lead to instant decapitation. Users report seeing flashes of the life they’ve cut off and all the generations in an instant.
 
  Appearing in various forms throughout history such as a rapier or slender long sword. This has led some scholars to argue that this sword is in fact multiple swords with similar effects. The Battle Scholars of the Dawn Empire had this weapon in their great collection in Crossroads long ago, and it was mysteriously lost. They recorded the weapon as only decapitating on a death blow, testing it on condemned criminals. Such a weak effect led to reduced research on the weapon while it was in their possession. However, they never were able to replicate its Runecraft, odd for such a weak effect. No weapon has ever been recorded as having a similar effect, leaving some scholars to ponder if there is more to this Runecraft…"
-Echo,1,"Medium Pierce Melee (One-handed) (+5), Medium Pierce Melee (Two-handed) (+5), Medium Pierce Melee (Dual-wielded) (+5), Medium Slash Melee (Two-handed) (+5), Medium Slash Melee (One-handed) (+5), Medium Slash Melee (Dual-wielded) (+5)",2,?,"""What is a myth? An echo of the past in the future. I can hear it dear sister, can't you…"" - Lord Maxwell Reddington
+Echo,1,"(One-handed) Medium Pierce Melee (+5), (Two-handed) Medium Pierce Melee (+5), (Dual-wielded) Medium Pierce Melee (+5), (Two-handed) Medium Slash Melee (+5), (One-handed) Medium Slash Melee (+5), (Dual-wielded) Medium Slash Melee (+5)",2,?,"""What is a myth? An echo of the past in the future. I can hear it dear sister, can't you…"" - Lord Maxwell Reddington
 
 The arming sword of Lord Maxwell Reddington, taken from the crypt underneath Castle Tearstone.
 
@@ -174,8 +174,8 @@ In the end, peace was agreed upon between the two powers. Veronica was barren, s
 The Laughing Storm, one of the greatest pirate lords and outlaws to have ever lived, turned himself over to the Reddland navy voluntarily. Sentenced to death, he was pardoned by the now Lady Veronica Reddington for his efforts in her rescue but was indebted to serve Lady Veronica for the rest of his life. Flint Storm served faithfully as Veronica’s advisor and admiral of the Reddland Navy, until their eventual unexpected marriage.
 
 Veronica and Flint tried for children many times, but tragedy struck every time. After years of trying, Veronica eventually bore a sickly heir, a daughter with hair as white as the full moons."
-Asclepius,1,"Medium Spear (One-handed) (+7), Medium Spear (Dual-wielded) (+7), Thrown Medium Spear (One-handed) (+7), Resource Pool: Thrown Medium Spear (+7), Large Spear (One-handed) (+7), Large Spear (Two-handed) (+7), Thrown Large Spear (One-handed) (+7), Resource Pool: Thrown Large Spear (+7), Reach Spear (One-handed) (+7), Reach Spear (Two-handed) (+7), Whip (One-handed) (+7), Whip (Dual-wielded) (+7), Metal Feeding, Command Asclepius",3,?,This mastercrafted 5 foot golden snake was crafted by those that worshiped the Great Leviathan.
-Soot and Ash,1,"Medium Pierce Melee (One-handed) (+9), Medium Pierce Melee (Dual-wielded) (+9), Medium Slash Melee (One-handed) (+9), Medium Slash Melee (Dual-wielded) (+9), (One-handed) Small Pierce Melee (+9), (Dual-wielded) Small Pierce Melee (+9), (One-handed) Small Slash Melee (+9), (Dual-wielded) Small Slash Melee (+9)",0.2,?,
+Asclepius,1,"(One-handed) Medium Spear (+7), (Dual-wielded) Medium Spear (+7), Thrown (One-handed) Medium Spear (+7), Resource Pool: Thrown Medium Spear (+7), Large Spear (One-handed) (+7), Large Spear (Two-handed) (+7), Thrown Large Spear (One-handed) (+7), Resource Pool: Thrown Large Spear (+7), Reach Spear (One-handed) (+7), Reach Spear (Two-handed) (+7), Whip (One-handed) (+7), Whip (Dual-wielded) (+7), Metal Feeding, Command Asclepius",3,?,This mastercrafted 5 foot golden snake was crafted by those that worshiped the Great Leviathan.
+Soot and Ash,1,"(One-handed) Medium Pierce Melee (+9), (Dual-wielded) Medium Pierce Melee (+9), (One-handed) Medium Slash Melee (+9), (Dual-wielded) Medium Slash Melee (+9), (One-handed) Small Pierce Melee (+9), (Dual-wielded) Small Pierce Melee (+9), (One-handed) Small Slash Melee (+9), (Dual-wielded) Small Slash Melee (+9)",0.2,?,
 The Spear of Destiny,1,"Reach Slash Melee (One-handed) (+12), Slash Melee (Two-handed) (+12), Reach Spear (One-handed) (+12), Reach Spear (Two-handed) (+12), Spellcasting Focus, Destiny Chosen, Super Strength, Super Reflex, Indestructible",14,?,"""Long ago, before the time of Fellkin or Brightkin, this weapon is said to have killed a piece of a god. The Bright Lord bestowed this weapon on his most loyal ally to do the same again."" - Ancient texts
 
 The Spear of Destiny, a massive artifact Swordspear,  is the most famous artifact on the continent. The Spear was first wielded by the Amon, Spear of the Brights, in service of The Bright Lord. Though in time, Amon would use the Spear in an attempt to overthrow The Bright Lord.

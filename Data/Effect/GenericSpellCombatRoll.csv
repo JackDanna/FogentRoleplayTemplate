@@ -4,12 +4,12 @@ combatRollToOverwrite,combatRollType,optionalResourceTypeAndAmount,description,s
 (One-handed) Small Slash Melee (+0),Small Melee - {Magic Skill},None,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,Small Slash Melee,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,0,Melee,Swift,None
 (Dual-wielded) Small Slash Melee (+0),Small Melee - {Magic Skill},None,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,Small Slash Melee,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,0,Melee,Swift +1,None
 ,,,,,,,,,,,,,,,
-Medium Slash Melee (One-handed) (+0),Medium Melee - {Magic Skill},None,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",Innate,Indefinite,Medium Slash Melee,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,1,Melee,Swift,None
-Medium Slash Melee (Two-handed) (+0),Medium Melee - {Magic Skill},None,"Bastard Sword, Medium swords with two-handed grips, ect...",Innate,Indefinite,Medium Slash Melee,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+2d6,1,Melee,Swift,None
-Medium Slash Melee (Dual-wielded) (+0),Medium Melee - {Magic Skill},None,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",Innate,Indefinite,Medium Slash Melee,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},+2d6,1,Melee,Swift +1,None
+(One-handed) Medium Slash Melee (+0),Medium Melee - {Magic Skill},None,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",Innate,Indefinite,Medium Slash Melee,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,1,Melee,Swift,None
+(Two-handed) Medium Slash Melee (+0),Medium Melee - {Magic Skill},None,"Bastard Sword, Medium swords with two-handed grips, ect...",Innate,Indefinite,Medium Slash Melee,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+2d6,1,Melee,Swift,None
+(Dual-wielded) Medium Slash Melee (+0),Medium Melee - {Magic Skill},None,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",Innate,Indefinite,Medium Slash Melee,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},+2d6,1,Melee,Swift +1,None
 ,,,,,,,,,,,,,,,
-Medium Spear (One-handed) (+0),Medium Spear - {Magic Skill},None,"Javelin, short spear, large creature horns, ect...",Innate,Indefinite,Medium Spear,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+1d8,1,Melee,Quick,None
-Medium Spear (Dual-wielded) (+0),Medium Spear - {Magic Skill},None,"Javelin, short spear, large creature horns, ect...",Innate,Indefinite,Medium Spear,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},"+1d8, 1d6",1,Melee,Quick,None
+(One-handed) Medium Spear (+0),Medium Spear - {Magic Skill},None,"Javelin, short spear, large creature horns, ect...",Innate,Indefinite,Medium Spear,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+1d8,1,Melee,Quick,None
+(Dual-wielded) Medium Spear (+0),Medium Spear - {Magic Skill},None,"Javelin, short spear, large creature horns, ect...",Innate,Indefinite,Medium Spear,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},"+1d8, 1d6",1,Melee,Quick,None
 ,,,,,,,,,,,,,,,
 Large Slash Melee (One-handed) (+0),Large Melee - {Magic Skill},None,"Longsword, Ōdachi, ect...",Innate,Indefinite,Large Slash Melee,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,1,Melee,Swift,None
 Large Slash Melee (Two-handed) (+0),Large Melee - {Magic Skill},None,"Longsword, Ōdachi, ect...",Innate,Indefinite,Large Slash Melee,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+2d6,2,Melee,Swift,None
@@ -46,7 +46,7 @@ Sling (Two-handed) (+0),Sling - {Magic Skill},"{Magic Resource Type}, 1",A flexi
 Thrown (One-handed) Small Slash Melee (+0),Thrown Small - {Magic Skill},"{Magic Resource Type}, 1","Ninja stars, ect...",Innate,Indefinite,Thrown Small Slash Melee,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,0,Short,Swift,None
 Thrown (Dual-wielded) Small Slash Melee (+0),Thrown Small - {Magic Skill},"{Magic Resource Type}, 2","Ninja stars, ect...",Innate,Indefinite,Thrown Small Slash Melee,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,0,Short,Quick,None
 ,,,,,,,,,,,,,,,
-Thrown Medium Spear (One-handed) (+0),Thrown Medium Spear - {Magic Skill},"{Magic Resource Type}, 1","Thrown Javelins, ect...",Innate,Indefinite,Thrown Medium Spear,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,1,Mediocre,Quick,None
+Thrown (One-handed) Medium Spear (+0),Thrown Medium Spear - {Magic Skill},"{Magic Resource Type}, 1","Thrown Javelins, ect...",Innate,Indefinite,Thrown Medium Spear,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,1,Mediocre,Quick,None
 ,,,,,,,,,,,,,,,
 Thrown Large Spear (One-handed) (+0),Thrown Large Spear - {Magic Skill},"{Magic Resource Type}, 1",Thrown two-handed spears.,Innate,Indefinite,Thrown Large Spear,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,2,Short,Quick,None
 ,,,,,,,,,,,,,,,
