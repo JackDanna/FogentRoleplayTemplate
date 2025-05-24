@@ -1,4 +1,4 @@
-handedVariation,combatRollType,baseDiceTierAdjustment,dicePoolModifier,penetration,range,usesPerRound,areaOfEffect,optionalResourceTypeAndAmount,damageTypes,governingSkillName,description,duration,source
+variation,combatRollType,baseDiceTierAdjustment,dicePoolModifier,penetration,range,usesPerRound,areaOfEffect,optionalResourceTypeAndAmount,damageTypes,governingSkillName,description,duration,source
 One-handed,Magic Dart,+0,+0d6,0,Short,Swift,None,"Generic, 0",,,"Can be used as a Combat Roll. Disadvantage while within range of ",Indefinite,Innate
 Dual-wielded,Magic Dart,+0,+1d6,0,Short,Swift,None,"Generic, 0",,,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,
