@@ -91,7 +91,7 @@ Hammer,1,"One-handed Small Bludgeon Melee +0, Dual-wielded Small Bludgeon Melee 
 Light Crossbow,1,"One-handed Light Crossbow +0, Two-handed Light Crossbow +0",5,25 bc,
 Light Longbow,1,Two-handed Light Bow +0,2,25 bc,
 Shoddy Light Longbow,1,Two-handed Light Bow -1,2,15 bc,
-Hand Crossbow,1,"Hand Crossbow One-handed +0, Hand Crossbow Two-handed +0, Hand Crossbow Dual-wielded +0",3,75 bc,
+Hand Crossbow,1,"One-handed Hand Crossbow +0, Two-handed Hand Crossbow +0, Dual-wielded Hand Crossbow +0",3,75 bc,
 Heavy Crossbow,1,Two-handed Heavy Crossbow +0,11,50 bc,
 Heavy Longbow,1,Two-handed Heavy Bow +0,4,50 bc,
 Sling,1,Two-handed Sling +0,0.5,10 cc,

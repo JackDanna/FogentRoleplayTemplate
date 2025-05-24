@@ -68,9 +68,9 @@ Two-handed Reach Spear +0,Reach Spear,+0,Two-handed,+4d6,4,Reach,Steady,None,Non
 One-handed Whip +0,Whip,+0,One-handed,+0d6,0,Reach,Swift,None,None,Slash,Exotic Melee,"Bullwhips, ect... Disadvantage while in confined spaces.",Indefinite,Innate
 Dual-wielded Whip +0,Whip,+0,Dual-wielded,+1d6,0,Reach,Swift +1,None,None,Slash,Exotic Melee,"Bullwhips, ect... Disadvantage while in confined spaces.",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Hand Crossbow One-handed +0,Hand Crossbow,+0,One-handed,+1d6,0,Mediocre,Quick,None,"Light Bolt, 1",Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
-Hand Crossbow Two-handed +0,Hand Crossbow,+0,Two-handed,+1d6,0,Medium,Quick,None,"Light Bolt, 1",Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
-Hand Crossbow Dual-wielded +0,Hand Crossbow,+0,Dual-wielded,+2d6,0,Mediocre,Steady,None,"Light Bolt, 2",Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
+One-handed Hand Crossbow +0,Hand Crossbow,+0,One-handed,+1d6,0,Mediocre,Quick,None,"Light Bolt, 1",Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
+Two-handed Hand Crossbow +0,Hand Crossbow,+0,Two-handed,+1d6,0,Medium,Quick,None,"Light Bolt, 1",Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
+Dual-wielded Hand Crossbow +0,Hand Crossbow,+0,Dual-wielded,+2d6,0,Mediocre,Steady,None,"Light Bolt, 2",Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 One-handed Light Crossbow +0,Light Crossbow,+0,One-handed,+0d6,1,Far,Steady,None,"Light Bolt, 1",Pierce,Light Crossbow,"Crossbows balancing power and reload time. ",Indefinite,Innate
 Two-handed Light Crossbow +0,Light Crossbow,+0,Two-handed,+1d6,1,Far,Steady,None,"Light Bolt, 1",Pierce,Light Crossbow,"Crossbows balancing power and reload time. ",Indefinite,Innate

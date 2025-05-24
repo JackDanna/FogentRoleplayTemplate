@@ -26,9 +26,9 @@ Two-handed Reach Spear +0,Reach Spear - {Magic Skill},None,"Pike, lance, ect... 
 One-handed Whip +0,Whip - {Magic Skill},None,"Bullwhips, ect... Disadvantage while in confined spaces.",Innate,Indefinite,Whip,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,0,Reach,Swift,None
 Dual-wielded Whip +0,Whip - {Magic Skill},None,"Bullwhips, ect... Disadvantage while in confined spaces.",Innate,Indefinite,Whip,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,0,Reach,Swift +1,None
 ,,,,,,,,,,,,,,,
-Hand Crossbow One-handed +0,Hand Crossbow - {Magic Skill},"{Magic Resource Type}, 1",Small crossbows designed to be held in one hand.,Innate,Indefinite,Hand Crossbow,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,0,Mediocre,Quick,None
-Hand Crossbow Two-handed +0,Hand Crossbow - {Magic Skill},"{Magic Resource Type}, 1",Small crossbows designed to be held in one hand.,Innate,Indefinite,Hand Crossbow,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,0,Medium,Quick,None
-Hand Crossbow Dual-wielded +0,Hand Crossbow,"{Magic Resource Type}, 2",Small crossbows designed to be held in one hand.,Innate,Indefinite,Hand Crossbow,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},+2d6,0,Mediocre,Steady,None
+One-handed Hand Crossbow +0,Hand Crossbow - {Magic Skill},"{Magic Resource Type}, 1",Small crossbows designed to be held in one hand.,Innate,Indefinite,Hand Crossbow,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,0,Mediocre,Quick,None
+Two-handed Hand Crossbow +0,Hand Crossbow - {Magic Skill},"{Magic Resource Type}, 1",Small crossbows designed to be held in one hand.,Innate,Indefinite,Hand Crossbow,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,0,Medium,Quick,None
+Dual-wielded Hand Crossbow +0,Hand Crossbow,"{Magic Resource Type}, 2",Small crossbows designed to be held in one hand.,Innate,Indefinite,Hand Crossbow,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},+2d6,0,Mediocre,Steady,None
 ,,,,,,,,,,,,,,,
 One-handed Light Crossbow +0,Light Crossbow - {Magic Skill},"{Magic Resource Type}, 1","Crossbows balancing power and reload time. ",Innate,Indefinite,Light Crossbow,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,1,Far,Steady,None
 Two-handed Light Crossbow +0,Light Crossbow - {Magic Skill},"{Magic Resource Type}, 1","Crossbows balancing power and reload time. ",Innate,Indefinite,Light Crossbow,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,1,Far,Steady,None
