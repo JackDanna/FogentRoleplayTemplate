@@ -1235,7 +1235,7 @@ One hand is being used on a main weapon and the other hand is being used on anot
 
 Just describes what type of weapon.
 
-### Base Dice Tier Adjustment
+### Base Dice Tier Adjustments
 
 Adjusts the Base Dice Tier by the amount specified.
 
@@ -1285,7 +1285,7 @@ Describes how long the Combat Roll effect is usable for. For most conventional w
 
 Describes where this Combat Roll is coming from. If it is coming from an item the character possess, such as a sword, than the name of the item would be the source. If the Combat Roll is innate to the character, such as claws, than the source would be "Innate".
 
-|                    Name                    |   Varation   |       Combat Roll Type       | Base Dice Tier Adjustment | Dice Pool Modifier | Penetration |    Range    | Uses Per Round | Area Of Effect | Optional Resource Type And Amount |  Damage Types  | Governing SkillName |                                                             Description                                                             | Duration   | Source |
+|                    Name                    |   Varation   |       Combat Roll Type       | Base Dice Tier Adjustments | Dice Pool Modifier | Penetration |    Range    | Uses Per Round | Area Of Effect | Optional Resource Type And Amount |  Damage Types  | Governing SkillName |                                                             Description                                                             | Duration   | Source |
 | :-----------------------------------------: | :----------: | :--------------------------: | :------------------------: | :----------------: | :---------: | :----------: | :------------: | :------------: | :-------------------------------: | :------------: | :-----------------: | :---------------------------------------------------------------------------------------------------------------------------------: | ---------- | :----: |
 |           Dual-wielded Unarmed +0           | Dual-wielded |           Unarmed           |             +0             |         -1         |      0      |    Melee    |     Swift     |      None      |               None               |    Bludgeon    |     Close Melee     |                                           Just your bare hands. Can be used in a Grapple.                                           | Indefinite | Innate |
 |                                            |              |                              |                            |                    |            |              |                |                |                                  |                |                    |                                                                                                                                    |            |        |
