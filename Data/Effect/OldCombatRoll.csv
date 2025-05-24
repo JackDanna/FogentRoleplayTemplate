@@ -1,20 +1,20 @@
 name,combatRollType,baseDiceTierAdjustment,handedVariation,dicePoolModifier,penetration,range,usesPerRound,areaOfEffect,optionalResourceTypeAndAmount,damageTypes,governingSkillName,description,duration,source
 Unarmed (One-handed) (+0),Unarmed,+0,One-handed,-1,0,Melee,Swift,None,None,Bludgeon,Close Melee,Just your bare hands. Can be used in a Grapple.,Indefinite,Innate
 ,,,,,,,,,,,,,,
-Small Hew Melee (One-handed) (+0),Small Hew Melee,+0,One-handed,+0d6,2,Melee,Swift,None,None,Hew,Close Melee,"Hatchets, small axes, ect... Can be used in a Grapple.",Indefinite,Innate
-Small Hew Melee (Dual-wielded) (+0),Small Hew Melee,+0,Dual-wielded,+1d6,2,Melee,Swift +1,None,None,Hew,Close Melee,"Hatchets, small axes, ect... Can be used in a Grapple.",Indefinite,Innate
+(One-handed) Small Hew Melee (+0),Small Hew Melee,+0,One-handed,+0d6,2,Melee,Swift,None,None,Hew,Close Melee,"Hatchets, small axes, ect... Can be used in a Grapple.",Indefinite,Innate
+(Dual-wielded) Small Hew Melee (+0),Small Hew Melee,+0,Dual-wielded,+1d6,2,Melee,Swift +1,None,None,Hew,Close Melee,"Hatchets, small axes, ect... Can be used in a Grapple.",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Small Slash Melee (One-handed) (+0),Small Slash Melee,+0,One-handed,+1d6,0,Melee,Swift,None,None,Slash,Close Melee,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
-Small Slash Melee (Dual-wielded) (+0),Small Slash Melee,+0,Dual-wielded,+2d6,0,Melee,Swift +1,None,None,Slash,Close Melee,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
+(One-handed) Small Slash Melee (+0),Small Slash Melee,+0,One-handed,+1d6,0,Melee,Swift,None,None,Slash,Close Melee,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
+(Dual-wielded) Small Slash Melee (+0),Small Slash Melee,+0,Dual-wielded,+2d6,0,Melee,Swift +1,None,None,Slash,Close Melee,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Small Pierce Melee (One-handed) (+0),Small Pierce Melee,+0,One-handed,+0d6,2,Melee,Swift,None,None,Pierce,Close Melee,"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
-Small Pierce Melee (Dual-wielded) (+0),Small Pierce Melee,+0,Dual-wielded,+1d6,2,Melee,Swift +1,None,None,Pierce,Close Melee,"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
+(One-handed) Small Pierce Melee (+0),Small Pierce Melee,+0,One-handed,+0d6,2,Melee,Swift,None,None,Pierce,Close Melee,"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
+(Dual-wielded) Small Pierce Melee (+0),Small Pierce Melee,+0,Dual-wielded,+1d6,2,Melee,Swift +1,None,None,Pierce,Close Melee,"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Small Bludgeon Melee (One-handed) (+0),Small Bludgeon Melee,+0,One-handed,+0d6,2,Melee,Swift,None,None,Bludgeon,Close Melee,"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",Indefinite,Innate
-Small Bludgeon Melee (Dual-wielded) (+0),Small Bludgeon Melee,+0,Dual-wielded,+1d6,2,Melee,Swift +1,None,None,Bludgeon,Close Melee,"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",Indefinite,Innate
+(One-handed) Small Bludgeon Melee (+0),Small Bludgeon Melee,+0,One-handed,+0d6,2,Melee,Swift,None,None,Bludgeon,Close Melee,"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",Indefinite,Innate
+(Dual-wielded) Small Bludgeon Melee (+0),Small Bludgeon Melee,+0,Dual-wielded,+1d6,2,Melee,Swift +1,None,None,Bludgeon,Close Melee,"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Small Torch (One-handed) (+0),Small Torch,+0,One-handed,+1d6,0,Melee,Swift,None,None,"Bludgeon, Fire",Close Melee,"Torches, ect... Can be used in a Grapple.",Indefinite,Innate
-Small Torch (Dual-wielded) (+0),Small Torch,+0,Dual-wielded,+2d6,0,Melee,Swift +1,None,None,"Bludgeon, Fire",Close Melee,"Torches, ect... Can be used in a Grapple.",Indefinite,Innate
+(One-handed) Small Torch (+0),Small Torch,+0,One-handed,+1d6,0,Melee,Swift,None,None,"Bludgeon, Fire",Close Melee,"Torches, ect... Can be used in a Grapple.",Indefinite,Innate
+(Dual-wielded) Small Torch (+0),Small Torch,+0,Dual-wielded,+2d6,0,Melee,Swift +1,None,None,"Bludgeon, Fire",Close Melee,"Torches, ect... Can be used in a Grapple.",Indefinite,Innate
 ,,,,,,,,,,,,,,
 Medium Hew Melee (One-handed) (+0),Medium Hew Melee,+0,One-handed,+1d6,2,Melee,Swift,None,None,Hew,Medium Melee,"Battleaxes, large creature claws, ect...",Indefinite,Innate
 Medium Hew Melee (Two-handed) (+0),Medium Hew Melee,+0,Two-handed,+2d6,2,Melee,Swift,None,None,Hew,Medium Melee,"Battleaxes, large creature claws, ect...",Indefinite,Innate
@@ -85,17 +85,17 @@ Blowgun (One-handed) (+0),Blowgun,+0,One-handed,+0d6,0,Mediocre,Quick,None,"Blow
 ,,,,,,,,,,,,,,
 Sling (Two-handed) (+0),Sling,+0,Two-handed,+0d6,0,Mediocre,Quick,None,"Sling Bullet, 1",Bludgeon,Exotic Ranged,A flexible strap used to hurl small objects.,Indefinite,Innate
 ,,,,,,,,,,,,,,
-Thrown Small Slash Melee (One-handed) (+0),Thrown Small Slash Melee,+0,One-handed,+0d6,0,Short,Swift,None,"Self, 1",Slash,Close Melee,"Ninja stars, ect...",Indefinite,Innate
-Thrown Small Slash Melee (Dual-wielded) (+0),Thrown Small Slash Melee,+0,Dual-wielded,+1d6,0,Short,Quick,None,"Self, 2",Slash,Close Melee,"Ninja stars, ect...",Indefinite,Innate
+Thrown (One-handed) Small Slash Melee (+0),Thrown Small Slash Melee,+0,One-handed,+0d6,0,Short,Swift,None,"Self, 1",Slash,Close Melee,"Ninja stars, ect...",Indefinite,Innate
+Thrown (Dual-wielded) Small Slash Melee (+0),Thrown Small Slash Melee,+0,Dual-wielded,+1d6,0,Short,Quick,None,"Self, 2",Slash,Close Melee,"Ninja stars, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Thrown Small Pierce Melee (One-handed) (+0),Thrown Small Pierce Melee,+0,One-handed,+0d6,0,Short,Swift,None,"Self, 1",Pierce,Close Melee,"Throwing daggers, ect...",Indefinite,Innate
-Thrown Small Pierce Melee (Dual-wielded) (+0),Thrown Small Pierce Melee,+0,Dual-wielded,+1d6,0,Short,Quick,None,"Self, 2",Pierce,Close Melee,"Throwing daggers, ect...",Indefinite,Innate
+Thrown (One-handed) Small Pierce Melee (+0),Thrown Small Pierce Melee,+0,One-handed,+0d6,0,Short,Swift,None,"Self, 1",Pierce,Close Melee,"Throwing daggers, ect...",Indefinite,Innate
+Thrown (Dual-wielded) Small Pierce Melee (+0),Thrown Small Pierce Melee,+0,Dual-wielded,+1d6,0,Short,Quick,None,"Self, 2",Pierce,Close Melee,"Throwing daggers, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Thrown Small Hew Melee (One-handed) (+0),Thrown Small Hew Melee,+0,One-handed,+0d6,0,Short,Swift,None,"Self, 1",Hew,Close Melee,"Throwing hatchet, ect...",Indefinite,Innate
-Thrown Small Hew Melee (Dual-wielded) (+0),Thrown Small Hew Melee,+0,Dual-wielded,+1d6,0,Short,Quick,None,"Self, 2",Hew,Close Melee,"Throwing hatchet, ect...",Indefinite,Innate
+Thrown (One-handed) Small Hew Melee (+0),Thrown Small Hew Melee,+0,One-handed,+0d6,0,Short,Swift,None,"Self, 1",Hew,Close Melee,"Throwing hatchet, ect...",Indefinite,Innate
+Thrown (Dual-wielded) Small Hew Melee (+0),Thrown Small Hew Melee,+0,Dual-wielded,+1d6,0,Short,Quick,None,"Self, 2",Hew,Close Melee,"Throwing hatchet, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Thrown Small Bludgeon Melee (One-handed) (+0),Thrown Small Bludgeon Melee,+0,One-handed,+0d6,0,Short,Swift,None,"Self, 1",Bludgeon,Close Melee,"Thrown small club, rocks, ect...",Indefinite,Innate
-Thrown Small Bludgeon Melee (Dual-wielded) (+0),Thrown Small Bludgeon Melee,+0,Dual-wielded,+1d6,0,Short,Quick,None,"Self, 2",Bludgeon,Close Melee,"Thrown small club, rocks, ect...",Indefinite,Innate
+Thrown (One-handed) Small Bludgeon Melee (+0),Thrown Small Bludgeon Melee,+0,One-handed,+0d6,0,Short,Swift,None,"Self, 1",Bludgeon,Close Melee,"Thrown small club, rocks, ect...",Indefinite,Innate
+Thrown (Dual-wielded) Small Bludgeon Melee (+0),Thrown Small Bludgeon Melee,+0,Dual-wielded,+1d6,0,Short,Quick,None,"Self, 2",Bludgeon,Close Melee,"Thrown small club, rocks, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
 Thrown Medium Spear (One-handed) (+0),Thrown Medium Spear,+0,One-handed,+1d6,1,Mediocre,Quick,None,"Self, 1",Pierce,Medium Melee,"Thrown Javelins, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
