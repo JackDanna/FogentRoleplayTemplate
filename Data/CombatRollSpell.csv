@@ -60,13 +60,13 @@ Two-handed,5.56 Automatic Rifle,+0,+4d6,3,Distant,Rapid,None,"Generic, 5",,,Can 
 One-handed,.308 Bolt Action Rifle,+0,+1d6,4,Sniper,Quick,None,"Generic, 5",,,Can be used as a Combat Roll.,Indefinite,Innate
 Two-handed,.308 Bolt Action Rifle,+0,+4d6,4,Sniper,Quick,None,"Generic, 5",,,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,
-One-handed,5.56 Machine Gun,+0,-2,3,Extreme,Rapid,None,"Generic, 5",,,Can be used as a Combat Roll.,Indefinite,Innate
+One-handed,5.56 Machine Gun,+0,-2d,3,Extreme,Rapid,None,"Generic, 5",,,Can be used as a Combat Roll.,Indefinite,Innate
 Two-handed,5.56 Machine Gun,+0,+4d6,3,Extreme,Rapid,None,"Generic, 5",,,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,
-One-handed,RPG Launcher,+0,-2,6,Sharpshooter,Paced,30 ft Sphere,"Generic, 5",,,Can be used as a Combat Roll.,Indefinite,Innate
+One-handed,RPG Launcher,+0,-2d,6,Sharpshooter,Paced,30 ft Sphere,"Generic, 5",,,Can be used as a Combat Roll.,Indefinite,Innate
 Two-handed,RPG Launcher,+0,+6d6,6,Sharpshooter,Paced,30 ft Sphere,"Generic, 5",,,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,
-One-handed,Magic Glove,+0,-1,0,Melee,Swift,None,"Generic, 0",,,Can be used as a Combat Roll.,Indefinite,Innate
+One-handed,Magic Glove,+0,-1d,0,Melee,Swift,None,"Generic, 0",,,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,
 One-handed,Small Melee,+0,+0d6,0,Melee,Swift,None,"Generic, 0",,,Can be used as a Combat Roll.,Indefinite,Innate
 Dual-wielded,Small Melee,+0,+1d6,0,Melee,Swift,None,"Generic, 0",,,Can be used as a Combat Roll.,Indefinite,Innate
@@ -87,8 +87,8 @@ Two-handed,Large Melee Magic,+0,+2d6,2,Melee,Swift,None,"Generic, 1",,,Can be us
 One-handed,Large Spear Magic,+0,+0d6,1,Melee,Quick,None,"Generic, 1",,,Can be used as a Combat Roll.,Indefinite,Innate
 Two-handed,Large Spear Magic,+0,+2d6,2,Melee,Quick,None,"Generic, 1",,,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,
-One-handed,Reach Melee Magic,+0,-2,1,Reach,Swift +2,None,"Generic, 2",,,Can be used as a Combat Roll.,Indefinite,Innate
+One-handed,Reach Melee Magic,+0,-2d,1,Reach,Swift +2,None,"Generic, 2",,,Can be used as a Combat Roll.,Indefinite,Innate
 Two-handed,Reach Melee Magic,+0,+3d6,3,Reach,Swift +2,None,"Generic, 2",,,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,
-One-handed,Reach Spear,+0,-2,1,Reach,Steady,None,"Generic, 2",,,Can be used as a Combat Roll.,Indefinite,Innate
+One-handed,Reach Spear,+0,-2d,1,Reach,Steady,None,"Generic, 2",,,Can be used as a Combat Roll.,Indefinite,Innate
 Two-handed,Reach Spear,+0,+3d6,3,Reach,Steady,None,"Generic, 2",,,Can be used as a Combat Roll.,Indefinite,Innate
