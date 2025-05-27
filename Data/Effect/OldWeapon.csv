@@ -1,5 +1,5 @@
 name,combatRollType,baseDiceTierAdjustment,variation,dicePoolModifier,penetration,range,usesPerRound,areaOfEffect,optionalResourceTypeAndAmount,damageTypes,governingSkillName,description,duration,source
-Unarmed One-handed +0,Unarmed,+0,One-handed,-1,0,Melee,Swift,None,None,Bludgeon,Close Melee,Just your bare hands. Can be used in a Grapple.,Indefinite,Innate
+Unarmed One-handed +0,Unarmed,+0,One-handed,-1d,0,Melee,Swift,None,None,Bludgeon,Close Melee,Just your bare hands. Can be used in a Grapple.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 One-handed Small Hew Melee +0,Small Hew Melee,+0,One-handed,+0d6,0,Melee,Swift,None,None,Hew,Close Melee,"Hatchets, small axes, ect... Can be used in a Grapple.",Indefinite,Innate
 Dual-wielded Small Hew Melee +0,Small Hew Melee,+0,Dual-wielded,+1d6,0,Melee,Swift +1,None,None,Hew,Close Melee,"Hatchets, small axes, ect... Can be used in a Grapple.",Indefinite,Innate
@@ -50,19 +50,19 @@ Two-handed Large Bludgeon Melee +0,Large Bludgeon Melee,+0,Two-handed,+2d6,2,Mel
 One-handed Large Spear +0,Large Spear,+0,One-handed,+0d6,1,Melee,Quick,None,None,Pierce,Large Melee,"Two-handed spear, ect...",Indefinite,Innate
 Two-handed Large Spear +0,Large Spear,+0,Two-handed,+2d6,2,Melee,Quick,None,None,Pierce,Large Melee,"Two-handed spear, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Reach Hew Melee +0,Reach Hew Melee,+0,One-handed,-2,1,Reach,Swift +2,None,None,Hew,Reach Melee,"Poleaxe's axe head, halberd's axe head, glaive, ect...  Disadvantage while in confined spaces.",Indefinite,Innate
+One-handed Reach Hew Melee +0,Reach Hew Melee,+0,One-handed,-2d,1,Reach,Swift +2,None,None,Hew,Reach Melee,"Poleaxe's axe head, halberd's axe head, glaive, ect...  Disadvantage while in confined spaces.",Indefinite,Innate
 Two-handed Reach Hew Melee +0,Reach Hew Melee,+0,Two-handed,+3d6,3,Reach,Swift +2,None,None,Hew,Reach Melee,"Poleaxe's axe head, halberd's axe head, glaive, ect...  Disadvantage while in confined spaces.",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Reach Slash Melee +0,Reach Slash Melee,+0,One-handed,-2,1,Reach,Swift +2,None,None,Slash,Reach Melee,"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",Indefinite,Innate
+One-handed Reach Slash Melee +0,Reach Slash Melee,+0,One-handed,-2d,1,Reach,Swift +2,None,None,Slash,Reach Melee,"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",Indefinite,Innate
 Two-handed Reach Slash Melee +0,Reach Slash Melee,+0,Two-handed,+3d6,3,Reach,Swift +2,None,None,Slash,Reach Melee,"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Reach Pierce Melee +0,Reach Pierce Melee,+0,One-handed,-2,1,Reach,Swift +2,None,None,Pierce,Reach Melee,"Greatsword, zweihänder, naginata, halberd's spike, ect... Disadvantage while in confined spaces.",Indefinite,Innate
+One-handed Reach Pierce Melee +0,Reach Pierce Melee,+0,One-handed,-2d,1,Reach,Swift +2,None,None,Pierce,Reach Melee,"Greatsword, zweihänder, naginata, halberd's spike, ect... Disadvantage while in confined spaces.",Indefinite,Innate
 Two-handed Reach Pierce Melee +0,Reach Pierce Melee,+0,Two-handed,+3d6,3,Reach,Swift +2,None,None,Pierce,Reach Melee,"Greatsword, zweihänder, naginata, halberd's spike, ect... Disadvantage while in confined spaces.",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Reach Bludgeon Melee +0,Reach Bludgeon Melee,+0,One-handed,-2,1,Reach,Swift +2,None,None,Bludgeon,Reach Melee,"Poleaxe hammer, ect... Disadvantage while in confined spaces.",Indefinite,Innate
+One-handed Reach Bludgeon Melee +0,Reach Bludgeon Melee,+0,One-handed,-2d,1,Reach,Swift +2,None,None,Bludgeon,Reach Melee,"Poleaxe hammer, ect... Disadvantage while in confined spaces.",Indefinite,Innate
 Two-handed Reach Bludgeon Melee +0,Reach Bludgeon Melee,+0,Two-handed,+3d6,3,Reach,Swift +2,None,None,Bludgeon,Reach Melee,"Poleaxe hammer, ect... Disadvantage while in confined spaces.",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Reach Spear +0,Reach Spear,+0,One-handed,-2,1,Reach,Steady,None,None,Pierce,Reach Melee,"Pike, lance, ect... Disadvantage while in confined spaces.",Indefinite,Innate
+One-handed Reach Spear +0,Reach Spear,+0,One-handed,-2d,1,Reach,Steady,None,None,Pierce,Reach Melee,"Pike, lance, ect... Disadvantage while in confined spaces.",Indefinite,Innate
 Two-handed Reach Spear +0,Reach Spear,+0,Two-handed,+3d6,3,Reach,Steady,None,None,Pierce,Reach Melee,"Pike, lance, ect... Disadvantage while in confined spaces.",Indefinite,Innate
 ,,,,,,,,,,,,,,
 One-handed Whip +0,Whip,+0,One-handed,+0d6,0,Reach,Swift,None,None,Slash,Exotic Melee,"Bullwhips, ect... Disadvantage while in confined spaces.",Indefinite,Innate
@@ -138,8 +138,8 @@ Two-handed 5.56 Automatic Rifle +0,5.56 Automatic Rifle,+0,Two-handed,+4d6,3,Dis
 One-handed .308 Bolt Action Rifle +0,.308 Bolt Action Rifle,+0,One-handed,+1d6,4,Sniper,Quick,None,".308 Round, 1",Ballistic,Medium Guns,"Remington M700, ect...",Indefinite,Innate
 Two-handed .308 Bolt Action Rifle +0,.308 Bolt Action Rifle,+0,Two-handed,+4d6,4,Sniper,Quick,None,".308 Round, 1",Ballistic,Medium Guns,"Remington M700, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed 5.56 Machine Gun +0,5.56 Machine Gun,+0,One-handed,-2,3,Extreme,Rapid,None,"5.56 Round, 10",Ballistic,Heavy Guns,"M249, ect...",Indefinite,Innate
+One-handed 5.56 Machine Gun +0,5.56 Machine Gun,+0,One-handed,-2d,3,Extreme,Rapid,None,"5.56 Round, 10",Ballistic,Heavy Guns,"M249, ect...",Indefinite,Innate
 Two-handed 5.56 Machine Gun +0,5.56 Machine Gun,+0,Two-handed,+4d6,3,Extreme,Rapid,None,"5.56 Round, 10",Ballistic,Heavy Guns,"M249, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed RPG Launcher +0,RPG Launcher,+0,One-handed,-2,6,Sharpshooter,Paced,30 ft Sphere,"RPG Round, 1",Shockwave,Heavy Guns,"RPG-7, ect...",Indefinite,Innate
+One-handed RPG Launcher +0,RPG Launcher,+0,One-handed,-2d,6,Sharpshooter,Paced,30 ft Sphere,"RPG Round, 1",Shockwave,Heavy Guns,"RPG-7, ect...",Indefinite,Innate
 Two-handed RPG Launcher +0,RPG Launcher,+0,Two-handed,+6d6,6,Sharpshooter,Paced,30 ft Sphere,"RPG Round, 1",Shockwave,Heavy Guns,"RPG-7, ect...",Indefinite,Innate

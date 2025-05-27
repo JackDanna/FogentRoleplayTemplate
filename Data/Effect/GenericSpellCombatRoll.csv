@@ -1,5 +1,5 @@
 combatRollToOverwrite,combatRollType,optionalResourceTypeAndAmount,description,source,duration,combatRollTypeOld,variation,baseDiceTierAdjustment,governingSkillName,damageTypes,dicePoolModifier,penetration,range,usesPerRound,areaOfEffect
-Dual-wielded Unarmed +0,Glove,None,Just your bare hands. Can be used in a Grapple.,Innate,Indefinite,Unarmed,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},-1,0,Melee,Swift,None
+Dual-wielded Unarmed +0,Glove,None,Just your bare hands. Can be used in a Grapple.,Innate,Indefinite,Unarmed,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},-1d,0,Melee,Swift,None
 ,,,,,,,,,,,,,,,
 One-handed Small Slash Melee +0,Small Melee,None,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,Small Slash Melee,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,0,Melee,Swift,None
 Dual-wielded Small Slash Melee +0,Small Melee,None,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,Small Slash Melee,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,0,Melee,Swift +1,None
@@ -17,10 +17,10 @@ Two-handed Large Slash Melee +0,Large Melee,None,"Longsword, Ōdachi, ect...",In
 One-handed Large Spear +0,Large Spear,None,"Two-handed spear, ect...",Innate,Indefinite,Large Spear,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,1,Melee,Quick,None
 Two-handed Large Spear +0,Large Spear,None,"Two-handed spear, ect...",Innate,Indefinite,Large Spear,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},"+1d8, 1d6",2,Melee,Quick,None
 ,,,,,,,,,,,,,,,
-One-handed Reach Slash Melee +0,Reach Melee,None,"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",Innate,Indefinite,Reach Slash Melee,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},-1,1,Reach,Swift +2,None
+One-handed Reach Slash Melee +0,Reach Melee,None,"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",Innate,Indefinite,Reach Slash Melee,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},-1d,1,Reach,Swift +2,None
 Two-handed Reach Slash Melee +0,Reach Melee,None,"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",Innate,Indefinite,Reach Slash Melee,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+3d6,3,Reach,Swift +2,None
 ,,,,,,,,,,,,,,,
-One-handed Reach Spear +0,Reach Spear,None,"Pike, lance, ect... Disadvantage while in confined spaces.",Innate,Indefinite,Reach Spear,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},-1,1,Reach,Steady,None
+One-handed Reach Spear +0,Reach Spear,None,"Pike, lance, ect... Disadvantage while in confined spaces.",Innate,Indefinite,Reach Spear,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},-1d,1,Reach,Steady,None
 Two-handed Reach Spear +0,Reach Spear,None,"Pike, lance, ect... Disadvantage while in confined spaces.",Innate,Indefinite,Reach Spear,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},"+1d8, 2d6",3,Reach,Steady,None
 ,,,,,,,,,,,,,,,
 One-handed Whip +0,Whip,None,"Bullwhips, ect... Disadvantage while in confined spaces.",Innate,Indefinite,Whip,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,0,Reach,Swift,None
@@ -87,8 +87,8 @@ Two-handed 5.56 Automatic Rifle +0,5.56 Automatic Rifle,"{Magic Resource Type}, 
 One-handed .308 Bolt Action Rifle +0,.308 Bolt Action Rifle,"{Magic Resource Type}, 1","Remington M700, ect...",Innate,Indefinite,.308 Bolt Action Rifle,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,4,Sniper,Quick,None
 Two-handed .308 Bolt Action Rifle +0,.308 Bolt Action Rifle,"{Magic Resource Type}, 1","Remington M700, ect...",Innate,Indefinite,.308 Bolt Action Rifle,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+4d6,4,Sniper,Quick,None
 ,,,,,,,,,,,,,,,
-One-handed 5.56 Machine Gun +0,5.56 Machine Gun,"{Magic Resource Type}, 10","M249, ect...",Innate,Indefinite,5.56 Machine Gun,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},-2,3,Extreme,Rapid,None
+One-handed 5.56 Machine Gun +0,5.56 Machine Gun,"{Magic Resource Type}, 10","M249, ect...",Innate,Indefinite,5.56 Machine Gun,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},-2d,3,Extreme,Rapid,None
 Two-handed 5.56 Machine Gun +0,5.56 Machine Gun,"{Magic Resource Type}, 10","M249, ect...",Innate,Indefinite,5.56 Machine Gun,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+4d6,3,Extreme,Rapid,None
 ,,,,,,,,,,,,,,,
-One-handed RPG Launcher +0,RPG Launcher,"{Magic Resource Type}, 1","RPG-7, ect...",Innate,Indefinite,RPG Launcher,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},-2,4,Sharpshooter,Paced,30 ft Sphere
+One-handed RPG Launcher +0,RPG Launcher,"{Magic Resource Type}, 1","RPG-7, ect...",Innate,Indefinite,RPG Launcher,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},-2d,4,Sharpshooter,Paced,30 ft Sphere
 Two-handed RPG Launcher +0,RPG Launcher,"{Magic Resource Type}, 1","RPG-7, ect...",Innate,Indefinite,RPG Launcher,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+6d6,4,Sharpshooter,Paced,30 ft Sphere
