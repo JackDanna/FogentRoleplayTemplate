@@ -105,7 +105,7 @@ Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentrol
 
 ## Dice Pool
 
-A Dice Pool is a collection of dice that when rolled determines how many "Wins" where achieved for whatever task was being attempted. D6 dice (otherwise known as six-sided dice) are the most common dice used, though D4, D8, D10, D12, and D20 are also used.
+A Dice Pool is a collection of dice that when rolled determines how many "wins" where achieved. D6 dice (otherwise known as six-sided dice) are the most common dice used, though D4, D8, D10, D12, and D20 are also used.
 
 After the Dice Pool has been rolled, the amount of "wins" from the roll are counted. Any rolled dice that gets a 4 or greater counts as a win. D6 dice have a 50% chance of rolling a win, as 4, 5, and 6 on the D6 are wins. D4s only have a 25% chance of a win, since only the 4 on the dice counts as a win. In general, the more dice and the more faces the dice have, the better the chances are of getting more wins.
 
