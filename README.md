@@ -101,7 +101,7 @@ Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentrol
 - [Hardcore Rules](#hardcore-rules)
   - [Item Durability (Optional)](#item-durability-optional)
 
-# General Rules
+# Core Rules
 
 ## Dice Pool
 
