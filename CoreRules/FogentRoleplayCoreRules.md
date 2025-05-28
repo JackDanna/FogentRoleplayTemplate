@@ -2,7 +2,7 @@
 
 ![Alt text](https://file+.vscode-resource.vscode-cdn.net/home/jackd/repos/FogentRoleplayCharacterSheet/FogentRoleplay/FogentRoleplayTemplate/FogentRoleplayLogo.png)
 
-Fogent Roleplay is an open source TTRPG (Table Top Roleplay Game) intended to remove the unneeded complexity common in many TTRPGs while not sacrificing emergent/tactical gameplay. If you love the simplicity, flexibility, and narrative focus of Cogent Roleplay, but love tactical battle map combat, magic items, campaign progression, and sweet loot, then you are in the right place.
+Fogent Roleplay is an open source TTRPG (Table Top Roleplay Game) intended to remove the unneeded complexity common in many TTRPGs while not sacrificing emergent/tactical gameplay. It acts as the foundation and narrative engine for your game. If you love the simplicity, flexibility, and narrative focus of Cogent Roleplay, but love tactical battle map combat, magic items, campaign progression, and sweet loot, then you are in the right place.
 
 What makes Fogent Roleplay different then D&D:
 
@@ -22,13 +22,13 @@ What makes Fogent Roleplay different then Cogent Roleplay:
 
 To close, Fogent Roleplay was born out of the frustration of other popular TTRPG's steadily increasing rule complexity just to have a reason to sell you stuff you didn't need and punishing creators who built content into their systems. However, many years into it's development now, is driven by the love of spending quality time with friends, collabratively exploring our imaginations, and telling awesome stories.
 
-May your stories be epic and your dice rolls true,
+Long live open-source fun,
 
 -Javk "The Forever Narrator" Wick
 
 ## Join Our Community
 
-Join the Fogent Roleplay Community Discord or subscribe to the Javk Wick YouTube channel. Your feedback and experience mean a lot!
+Join the Fogent Roleplay Community Discord or subscribe to the Javk Wick YouTube channel to get plugged in and stay up to date on the project. We love collaboration and encourages people to reach out if they would like to help contribute to this project. Your feedback and experience mean a lot!
 
 Discord: [Fogent Roleplay Discord](https://discord.gg/PYNTGqxh6a)
 
@@ -36,23 +36,15 @@ YouTube: [Javk Wick Youtube Channel](https://www.youtube.com/channel/UCIozVe_NJI
 
 ## Cogent Roleplay Open License
 
-Fogent Roleplay is developed based on Cogent Roleplay and with appreciation to its creators is under the the Cogent Roleplay Open License.
+Fogent Roleplay is developed based on Cogent Roleplay and with appreciation to its creators is under the the Cogent Roleplay Open License. All game mechanics and game systems built on top of Cogent Roleplay within this document are open and freely available for anyone to re-use, include, adapt or develop, in their projects that are also based on Cogent Roleplay. Any use of game mechanics and game systems from this document requires attribution to this document for the said mechanics/systems, along with a link back to Fogent Roleplay.
 
-All game mechanics and game systems built on top of Cogent Roleplay within this document are open and freely available for anyone to re-use, include, adapt or develop, in their projects that are also based on Cogent Roleplay.
-
-Any use of game mechanics and game systems from this document requires attribution to this document for the said mechanics/systems, along with a link back to Fogent Roleplay.
-
-All intellectual property (characters, brands, stories, designs, etc) contained within the settings section are entirely owned by creator of said setting and are not subject to the Cogent Roleplay Open Source license.
-
-The creator of this document loves collaboration and encourages people to reach out if they would like to help contribute to this project. Long live open-source fun.
+All intellectual property (characters, brands, stories, designs, etc) contained within the settings section are entirely owned by the creator of said setting and are not subject to the Cogent Roleplay Open Source license.
 
 Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentroleplay.com/)
 
 ![Alt text](./images/CogentRoleplayAttribution_Wide.png)
 
 # Table of Contents
-
-The rules are the foundation and narrative engine for your game. They are listed in the order of importance to someone learning the rules for the first time.
 
 - [Contents](#contents)
 - [Introduction](#introduction)
