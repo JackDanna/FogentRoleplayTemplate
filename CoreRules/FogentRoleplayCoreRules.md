@@ -2,7 +2,7 @@
 
 ![Alt text](https://file+.vscode-resource.vscode-cdn.net/home/jackd/repos/FogentRoleplayCharacterSheet/FogentRoleplay/FogentRoleplayTemplate/FogentRoleplayLogo.png)
 
-Fogent Roleplay is an open source Table Top Roleplay Game intended to remove the unneeded complexity common in many TTRPGs while not sacrificing emergent/tactical gameplay. If you love the simplicity, flexibility, and narrative focus of Cogent Roleplay, but love tactical battle map combat, magic items, campaign progression, and sweet loot, then you are in the right place.
+Fogent Roleplay is an open source TTRPG (Table Top Roleplay Game) intended to remove the unneeded complexity common in many TTRPGs while not sacrificing emergent/tactical gameplay. If you love the simplicity, flexibility, and narrative focus of Cogent Roleplay, but love tactical battle map combat, magic items, campaign progression, and sweet loot, then you are in the right place.
 
 What makes Fogent Roleplay different then D&D:
 
@@ -15,10 +15,10 @@ What makes Fogent Roleplay different then D&D:
 What makes Fogent Roleplay different then Cogent Roleplay:
 
 * **Innovation:** Whether it be rebalanced Core Skills, reworked Vocations, rebalanced weapons, an Advantage/Disadvantage system, rebalanced destiny point rules, automated character sheet support, etc... Fogent Roleplay has taken the best ideas of Cogent Roleplay to their logical conclusions while embracing innovation.
-* **Tactical Battlemap Combat:** Fogent Roleplay has rules to be run on a battlemap. This allows for awesome tactical fight scenes where a character's positioning and surrounding environment factor into combat. While Fogent Roleplay can be run in the theater of the mind, it works even better on a battlemap.
-* **Mature Ruleset:** Fogent Roleplay provides a mature and robust ruleset with no mechanical edge cases (if you can find one, please let us know). Not only were the rules battle-tested via 100+ sessions durning it's development, most of the rules have been converted into code equivalent logic. Since the resulting software works, the rules are mechanically robust.
+* **Tactical Battlemap Combat:** Fogent Roleplay has rules to be run on a battlemap. This allows for awesome tactical fight scenes where a character's positioning and surrounding environment factor into combat. While Fogent Roleplay combat can be run in the theater of the mind, it works even better on a battlemap.
 * **Dice Pool Scaling:** Fogent Roleplay wants players to feel like ever small improvement has a tangible impact. To this end, whenever possible we scale off the size of dice pools of the various skills a character has for just about everything. If your character has a big Athletics dice pool, they are really fast both in and out of combat. Did you just improve your magic skill, we'll now all your lower level spells just got slightly increased range, area of effect, uses per round, ect...
 * **Pre-made Settings:** If you don't have the time to come up with an entire setting for your players to play in, Fogent Roleplay comes with pre-made campaign settings. This is an ongoing effort with more becoming available over time.
+* **Mature Ruleset:** Fogent Roleplay provides a mature and robust ruleset with no mechanical edge cases (if you can find one, please let us know). Not only were the rules battle-tested via 100+ sessions durning it's development, most of the rules have been converted into code equivalent logic. Since the resulting software works, the rules are mechanically robust.
 
 To close, Fogent Roleplay was born out of the frustration of other popular TTRPG's steadily increasing rule complexity just to have a reason to sell you stuff you didn't need and punishing creators who built content into their systems. However, many years into it's development now, is driven by the love of spending quality time with friends, collabratively exploring our imaginations, and telling awesome stories.
 
