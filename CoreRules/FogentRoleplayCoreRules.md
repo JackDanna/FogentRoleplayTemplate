@@ -26,6 +26,8 @@ May your stories be epic and your dice rolls true,
 
 -Javk "The Forever Narrator" Wick
 
+![Alt text](https://file+.vscode-resource.vscode-cdn.net/home/jackd/repos/FogentRoleplayCharacterSheet/FogentRoleplay/FogentRoleplayTemplate/FogentRoleplayLogo.png)
+
 ## Join Our Community
 
 Join the Fogent Roleplay Community Discord or subscribe to the Javk Wick YouTube channel. Your feedback and experience mean a lot!
@@ -49,7 +51,6 @@ The creator of this document loves collaboration and encourages people to reach 
 Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentroleplay.com/)
 
 ![Alt text](./images/CogentRoleplayAttribution_Wide.png)
-![Alt text](./../FogentRoleplayLogo.png)
 
 # Table of Contents
 
