@@ -164,11 +164,11 @@ An Attribute represent the innate characteristics of a character. An attribute c
 
 Represents a character's innate muscle strength, bone density, tendon strength, physical durability, etc...
 
-| Attribute Level |               Description               |
+| Attribute Level |                 Example                 |
 | :-------------: | :--------------------------------------: |
 |       -2       |                A squirrel                |
-|       -1       |   Below an average person in our world   |
-|        0        |      An average person in our world      |
+|       -1       |             A feeble old man             |
+|        0        |      An average human in our world      |
 |        1        |      Professional soldier or knight      |
 |        2        | World's strongest man champion or Batman |
 |        3        |      Bear, Ogre, or Captain America      |
@@ -177,18 +177,19 @@ Represents a character's innate muscle strength, bone density, tendon strength, 
 
 STR has the following effects:
 
-- STR is factored into all STR Governed Skills (Athletics, Endurance, Lift, etc...). Greater STR can help a character move more in a combat round and carry heavier gear without being penalized.
-- STR is a character's physical and bodily durability. In combat, for every point in STR a character can reduce a victory level achieved against them from physical (bludgeon, slash, pierce, etc...) or bodily (poisons, cold, etc...) damage types once every combat encounter. Outside of combat, for every point in STR a character can reduce a physical or bodily damage type injury against them as many times as they want, granted there is a couple minutes of respite between each injury.
+- STR is factored into all STR Governed Skills (Athletics, Endurance, Lift, etc...).
+- STR is a character's physical and bodily durability. In combat, for every point in STR a character can reduce a victory level achieved against them from physical or bodily damage types once every combat encounter. Outside of combat, for every point in STR a character can reduce a physical or bodily damage type injury against them as many times as they want, granted there is a couple minutes of respite between each injury.
+- Greater STR can help a character move more in a combat round and carry heavier gear without being penalized.
 
 ### Reflex (RFX)
 
 Represents a character's innate reflexes, reaction speed, nervous system, fine motor control, nimbleness, agility, quickness...
 
-| Attribute Level |                    Description                    |
+| Attribute Level |                      Example                      |
 | :-------------: | :-----------------------------------------------: |
-|       -2       |                  A sea cucumber                  |
-|       -1       |       Below an average person in our world       |
-|        0        |          An average person in our world          |
+|       -2       |                    A tortoise                    |
+|       -1       |                  A slow old man                  |
+|        0        |          An average human in our world          |
 |        1        | Professional thief, parkourist, or circus acrobat |
 |        2        |    Gold medal gymnast or master martial artist    |
 |        3        |                      Legolas                      |
@@ -199,34 +200,34 @@ RFX has the following effects:
 
 - RFX is factored into all RFX Governed Skills (Dexterity, Perception, Stealth, etc...).
 - As combat is conducted in a round-by-round format, the player with the highest RFX gets priority in that round.
-- Character with higher RFX have better Reaction Movement Speed, which allows an amount of movement before slower characters within a combat round and increases all Movement Speeds.
+- Character with higher RFX have better Reaction Movement Speed, which allows an amount of movement before slower characters within a combat round.
 
 ### Intelligence (INT)
 
 Represents a character's innate raw mental horsepower, IQ, consciousness, and mental/spiritual durability.
 
-| Attribute Level |                              Description                              | Skill Points Gained/Lost Total |
-| :-------------: | :-------------------------------------------------------------------: | :----------------------------: |
-|       -2       |                               A zombie                               |               -3               |
-|       -1       |                 Below an average person in our world                 |               -1               |
-|        0        |                    An average person in our world                    |               0               |
-|        1        |           University science professor or career politician           |               1               |
-|        2        | Award-winning particle physicist or 'Sherlock Holmes' level detective |               3               |
-|        3        |                              Tony Stark                              |               6               |
-|        4        |                           Ultron or Skynet                           |               10               |
-|        5        |                        Dr. Manhattan or Athena                        |               15               |
+| Attribute Level |                                Example                                |
+| :-------------: | :-------------------------------------------------------------------: |
+|       -2       |                               A zombie                               |
+|       -1       |                   A person with a mental disability                   |
+|        0        |                    An average person in our world                    |
+|        1        |           University science professor or career politician           |
+|        2        | Award-winning particle physicist or 'Sherlock Holmes' level detective |
+|        3        |                              Tony Stark                              |
+|        4        |                           Ultron or Skynet                           |
+|        5        |                        Dr. Manhattan or Athena                        |
 
 INT has the following effects:
 
 - INT is factored into all INT Governed Skills (Knowledge, Logic, Willpower, etc...).
-- Starting at level 0, for every increase/decrease in INT level a player receives, they gain/lose skill points. This effect is cumulative, refer to the "Skill Points Gained/Lost" to the total amount of skill points for a given INT level.
 - INT is a measure of how durable a character's consciousness is to mental and spiritual attacks. In combat, for every point in INT a character can reduce a victory level achieved against them from spiritual or psychic damage types once every combat encounter. Outside of combat, for every point in INT a character can reduce a spiritual or psychic damage type injury against them as many times as they want, granted there is a couple minutes of respite between each injury.
+- Starting at level 0, for every increase/decrease in INT level a player character receives, they gain/lose skill points equal their new INT level. For example, a character who increases their INT to level 1 would have gained skill point. If they then increased their INT to Level 2, they would gain 2 skill points, for a total of 3 gained skill points from their INT.
 
 ### Charisma (CHA)
 
 Represents a character's innate personal magnetism, persuasiveness, appearance, force of personality, social grace, and ability to lead and inspire others.
 
-| Attribute Level |                            Description                            |
+| Attribute Level |                              Example                              |
 | :-------------: | :---------------------------------------------------------------: |
 |       -2       |                Social pariah or utterly repellent                |
 |       -1       |             Awkward, easily ignored, or unconvincing             |
