@@ -49,6 +49,7 @@ The creator of this document loves collaboration and encourages people to reach 
 Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentroleplay.com/)
 
 ![Alt text](./images/CogentRoleplayAttribution_Wide.png)
+![Alt text](./../FogentRoleplayLogo.png)
 
 # Table of Contents
 
