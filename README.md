@@ -120,7 +120,9 @@ After the Dice Pool has been rolled, the amount of "wins" from the roll are coun
 
 All Dice Pools start with their "Base Dice", which by default are 3d6.
 
-Sometimes a Dice Pool may have a penalty that removes dice. If so, first add up the Dice Pool without any of the penatlties. Then, to remove dice, always remove the lowest-sided dice first. For instance, d4 dice are always removed first, then d6, and so on.
+A Dice Pool may have a penalty that removes dice. If so, first add up the Dice Pool without any of the penatlties. Then, to remove dice, always remove the lowest-sided dice first. For instance, d4 dice are always removed first, then d6, and so on.
+
+Sometimes, a Dice Pool that has already been rolled might incur penalties retroactively. Use the same rule as above to determine which dice types get removed first. However, when deciding which dice to remove when they have the same type, always remove dice from left to right. This is to leave it up to chance if the dice removed punishes or are is indifferent to the wins achieved. With physical dice, you can just roughly straighten out the dice and begin removing in that order.
 
 ## Challenge Level
 
@@ -1457,10 +1459,6 @@ At the beginning of the Action Phase, all players can roll their dice pools for 
 ### Keep your Combat Rolls for the round
 
 Combat Rolls made with them should be held onto during combat after they've been rolled. This is to remember your current victory levels for the round. This is also in case your character loses dice due to injury or they gain Disadvantage/Advantage in that round, which will affect the already rolled dice pool.
-
-#### Removing Dice to an already rolled Dice Pool
-
-Whenever losing dice of the same kind, always remove dice from left to right. This is to leave it up to chance if the dice they lost that round punish or are indifferent to their wins for that round. With physical dice, you can just roughly straighten out the dice and begin removing in that order.
 
 #### Applying Disadvantage/Advantage to an already rolled Combat Roll Dice Pools
 
