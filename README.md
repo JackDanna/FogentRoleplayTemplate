@@ -120,9 +120,9 @@ After the Dice Pool has been rolled, the amount of "wins" from the roll are coun
 
 All Dice Pools start with their "Base Dice", which by default are 3d6.
 
-A Dice Pool may have a penalty that removes dice. If so, first add up the Dice Pool without any of the penatlties. Then, to remove dice, always remove the lowest-sided dice first. For instance, d4 dice are always removed first, then d6, and so on.
+A Dice Pool may have incur a penalty that removes dice. If so, first add up the Dice Pool without any of the penatlties. Then, to remove dice, always remove the lowest-sided dice first. For instance, d4 dice are always removed first, then d6, and so on. 
 
-Sometimes, a Dice Pool that has already been rolled might incur penalties retroactively. Use the same rule as above to determine which dice types get removed first. However, when deciding which dice to remove when they have the same type, always remove dice from left to right. This is to leave it up to chance if the dice removed punishes or are is indifferent to the wins achieved. With physical dice, you can just roughly straighten out the dice and begin removing in that order.
+A "Standing Dice Pool" refers to a Dice Pool that has already rolled, where it results will "stand" within the narrative until the Narrator determines otherwise. This means nobody should alter the rolled dice pool until the Narrator says so, as it will be used determine multiple narrative outcomes. The same rules for removing dice apply to a Standing Dice Pool, however, when deciding which dice to remove of the same type, always remove dice from left to right. This is to leave it up to chance if the dice removed was a win or not. With physical dice, you can just roughly straighten out the dice and begin removing in that order.
 
 ## Challenge Level
 
