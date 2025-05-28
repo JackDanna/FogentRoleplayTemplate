@@ -118,9 +118,9 @@ After the Dice Pool has been rolled, the amount of "wins" from the roll are coun
 |    D12    |        75%        |
 |    D20    |        85%        |
 
-All Dice Pools start with their "Base Dice", which by default are 3d6. You then add a D6 for each skill point or attribute point that governs the Dice Pool.
+All Dice Pools start with their "Base Dice", which by default are 3d6.
 
-Whenever you are removing dice from a Dice Pool (often done after taking an injury), always remove the lowest-sided dice first. For instance, d4 dice are always removed first, then d6, and so on.
+Sometimes a Dice Pool may have a penalty that removes dice. If so, first add up the Dice Pool without any of the penatlties. Then, to remove dice, always remove the lowest-sided dice first. For instance, d4 dice are always removed first, then d6, and so on.
 
 ## Challenge Level
 
@@ -243,6 +243,8 @@ CHA has the following effects:
 ## Skill
 
 A Skill represent a proficiency of certain tasks a character can perform.
+
+You then add a D6 for each skill point or attribute point that governs the Dice Pool.
 
 ### Skill Level
 
