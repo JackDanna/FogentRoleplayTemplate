@@ -120,7 +120,7 @@ After the Dice Pool has been rolled, the amount of "wins" from the roll are coun
 
 All Dice Pools start with their "Base Dice", which by default are 3d6.
 
-A Dice Pool may have incur a penalty that removes dice. If so, first add up the Dice Pool without any of the penatlties. Then, to remove dice, always remove the lowest-sided dice first. For instance, d4 dice are always removed first, then d6, and so on. 
+A Dice Pool may have incur a penalty that removes dice. If so, first add up the Dice Pool without any of the penatlties. Then, to remove dice, always remove the lowest-sided dice first. For instance, d4 dice are always removed first, then d6, and so on.
 
 A "Standing Dice Pool" refers to a Dice Pool that has already rolled, where it results will "stand" within the narrative until the Narrator determines otherwise. This means nobody should alter the rolled dice pool until the Narrator says so, as it will be used determine multiple narrative outcomes. The same rules for removing dice apply to a Standing Dice Pool, however, when deciding which dice to remove of the same type, always remove dice from left to right. This is to leave it up to chance if the dice removed was a win or not. With physical dice, you can just roughly straighten out the dice and begin removing in that order.
 
@@ -128,20 +128,20 @@ A "Standing Dice Pool" refers to a Dice Pool that has already rolled, where it r
 
 Challenge Level represents the difficulty of a task set by the narrator proportionate to an **AVERAGE PERSON OF THE WORLD**. If a character is able to get enough wins to meet or beat the Challenge Level, they succeeded.
 
-|      Difficulty      | Challenge Level |
-| :------------------: | :-------------: |
-|       Trivial       |      CL 0      |
-|        Common        |      CL 1      |
-|       Uncommon       |      CL 2      |
-|     Specialized     |      CL 3      |
-|      Difficult      |      CL 4      |
-| Extremely Difficult |      CL 5      |
-|     Unrealistic     |      CL 6      |
-| Virtually Impossible |      CL 7      |
-|    Inconceivable    |      CL 8      |
-|      Legendary      |      CL 9      |
+| Level |     Description     |
+| :---: | :------------------: |
+|   0   |       Trivial       |
+|   1   |        Common        |
+|   2   |       Uncommon       |
+|   3   |     Specialized     |
+|   4   |      Difficult      |
+|   5   | Extremely Difficult |
+|   6   |     Unrealistic     |
+|   7   | Virtually Impossible |
+|   8   |    Inconveivable    |
+|   9   |      Legendary      |
 
-Pay attention the names of each Challenge Level. They are intended help Narrators and Players both intuitively understand how hard something should be within the narrative of the story.
+Pay attention the description of each Challenge Level. They are intended help Narrators and Players both intuitively understand how hard something should be within the narrative of the story.
 
 For example, Javk Wick the Rogue hoist his unconscious injured ally onto his shoulders to get them both to safety. The Narrator determines that picking up someones limp body and getting them to your shoulders is neither a "Trivial" or "Common" thing for the average person to do. The Narrator sets the Challenge Level at "Uncommon" (CL 2) using the Lift Skill. If the ally was instead conscious, the Narrator might only set the Challenge Level to "Common" (CL 1) as hoisting an unconscious limp is far harder than a conscious compliant one.
 
