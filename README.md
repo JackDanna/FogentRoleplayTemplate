@@ -143,7 +143,7 @@ Challenge Level represents the difficulty of a task set by the Narrator proporti
 
 Pay attention the description of each Challenge Level. They are intended help Narrators and Players both intuitively understand how hard something should be within the narrative of the story.
 
-For example, Javk Wick the Rogue hoist his unconscious injured ally onto his shoulders to get them both to safety. The Narrator determines that picking up someones limp body and getting them to your shoulders is neither a "Trivial" or "Common" thing for the average person to do. The Narrator sets the Challenge Level at "Uncommon" (CL 2) using the Lift Skill. If the ally was instead conscious, the Narrator might only set the Challenge Level to "Common" (CL 1) as hoisting an unconscious limp is far harder than a conscious compliant one.
+For example, Javk Wick the Rogue hoist his unconscious injured ally onto his shoulders to get them both to safety. The Narrator determines that picking up someones limp body and getting them to your shoulders is neither a "Trivial" or "Common" thing to do for the average person. The Narrator sets the Challenge Level at "Uncommon" (CL 2) using the Lift Skill. If the ally was instead conscious, the Narrator might only set the Challenge Level to "Common" (CL 1) as hoisting an unconscious limp body is far harder than a conscious compliant one.
 
 ## Attribute
 
