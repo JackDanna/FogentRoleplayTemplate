@@ -103,6 +103,14 @@ Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentrol
 
 # Core Rules
 
+## The Fate Roll
+
+The Fate Roll can be used by the Narrator to let the roll of a dice decide what direction the story will move in, be that for or against goals and desires of the players.
+
+A Fate Roll is made with a D20 and is made by the Narrator, or designated to a Player by the Narrator. The higher the roll is, and the closer the roll is to 20, the better the result is to the party or player. Conversely, the lower the roll and closer it is to 1, the worse the result. Furthermore, rolling a 20 is considered a critical success, and may allow the Narrator to assign exceptionally advantageous circumstances to the party or player. Likewise, rolling a 1 is always to be considered a critical failure, and will result in an extremely unfavorable ourcome for the party or player. Whether they be revealed as immediate or delayed consequences is up to the Narrator.
+
+These rolls may be used in situations of great intensity, to help the Narrator guide the path of the action. They may be used to help break up monotony at random times to see if something good or bad encounters the player, or even what the weather is, and they may also be used to determine the intensity of consequence of a players choice.
+
 ## Dice Pool
 
 A Dice Pool is a collection of dice that when rolled determines how many "wins" where achieved. D6 dice (otherwise known as six-sided dice) are the most common dice used, though D4, D8, D10, D12, and D20 are also used.
