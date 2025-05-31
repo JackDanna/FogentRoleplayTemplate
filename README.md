@@ -126,7 +126,7 @@ A "Standing Dice Pool" refers to a Dice Pool that has already rolled, where it r
 
 ## Challenge Level
 
-Challenge Level represents the difficulty of a task set by the Narrator proportionate to an **AVERAGE PERSON OF THE WORLD**. If a character is able to get enough wins to meet or beat the Challenge Level, they succeeded.
+Challenge Level represents the difficulty of a task set by the Narrator proportionate to an **AVERAGE PERSON OF THE WORLD**. If a character is able to get enough wins to match or exceed the Challenge Level, they succeed.
 
 | Level |     Description     |
 | :---: | :------------------: |
