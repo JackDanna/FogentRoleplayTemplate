@@ -126,7 +126,7 @@ A "Standing Dice Pool" refers to a Dice Pool that has already rolled, where it r
 
 ## Challenge Level
 
-Challenge Level represents the difficulty of a task set by the narrator proportionate to an **AVERAGE PERSON OF THE WORLD**. If a character is able to get enough wins to meet or beat the Challenge Level, they succeeded.
+Challenge Level represents the difficulty of a task set by the Narrator proportionate to an **AVERAGE PERSON OF THE WORLD**. If a character is able to get enough wins to meet or beat the Challenge Level, they succeeded.
 
 | Level |     Description     |
 | :---: | :------------------: |
@@ -147,18 +147,18 @@ For example, Javk Wick the Rogue hoist his unconscious injured ally onto his sho
 
 ## Attribute
 
-An Attribute represent the innate characteristics of a character. An attribute can go from level -2 to level 5. Each level corresponds with a narrative significance.
+An Attribute represent the innate characteristics of a character. Each level of an attribute corresponds with a narrative significance. Level 0 in an atribute should reffer to an average person in the world.
 
-| Attribute Level |                         Description                         |
-| :-------------: | :---------------------------------------------------------: |
-|       -2       |             Painfully lacking in the attribute.             |
-|       -1       |            Below an average person in our world.            |
-|        0        |               An average person in our world.               |
-|        1        |              Professional or naturally gifted.              |
-|        2        | Elite or 'world-class'. Peak of real world human potential. |
-|        3        |                Meta-human or genetic anomaly                |
-|        4        |                        Demigod like                        |
-|        5        |                Peak achievable or god like.                |
+| Level | Description |
+| :---: | :---------: |
+|  -2  | Negligible |
+|  -1  |   Subpar   |
+|   0   |   Average   |
+|   1   |   Gifted   |
+|   2   |    Elite    |
+|   3   |    Super    |
+|   4   | Demigodlike |
+|   5   |   Godlike   |
 
 ### Strength (STR)
 
@@ -168,7 +168,7 @@ Represents a character's innate muscle strength, bone density, tendon strength, 
 | :-------------: | :--------------------------------------: |
 |       -2       |                A squirrel                |
 |       -1       |             A feeble old man             |
-|        0        |      An average human in our world      |
+|        0        |             An average human             |
 |        1        |      Professional soldier or knight      |
 |        2        | World's strongest man champion or Batman |
 |        3        |      Bear, Ogre, or Captain America      |
@@ -209,7 +209,7 @@ Represents a character's innate raw mental horsepower, IQ, consciousness, and me
 | Attribute Level |                                Example                                |
 | :-------------: | :-------------------------------------------------------------------: |
 |       -2       |                               A zombie                               |
-|       -1       |                   A person with a mental disability                   |
+|       -1       |                             A dog or cat                             |
 |        0        |                    An average person in our world                    |
 |        1        |           University science professor or career politician           |
 |        2        | Award-winning particle physicist or 'Sherlock Holmes' level detective |
