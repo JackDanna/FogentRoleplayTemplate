@@ -103,14 +103,6 @@ Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentrol
 
 # Core Rules
 
-## The Fate Roll
-
-The Fate Roll can be used by the Narrator to let the roll of a dice decide what direction the story will move in, be that for or against goals and desires of the players.
-
-A Fate Roll is made with a D20 and is made by the Narrator, or designated to a Player by the Narrator. The higher the roll is, and the closer the roll is to 20, the better the result is to the party or player. Conversely, the lower the roll and closer it is to 1, the worse the result. Furthermore, rolling a 20 is considered a critical success, and may allow the Narrator to assign exceptionally advantageous circumstances to the party or player. Likewise, rolling a 1 is always to be considered a critical failure, and will result in an extremely unfavorable ourcome for the party or player. Whether they be revealed as immediate or delayed consequences is up to the Narrator.
-
-These rolls may be used in situations of great intensity, to help the Narrator guide the path of the action. They may be used to help break up monotony at random times to see if something good or bad encounters the player, or even what the weather is, and they may also be used to determine the intensity of consequence of a players choice.
-
 ## Dice Pool
 
 A Dice Pool is a collection of dice that when rolled determines how many "wins" where achieved. D6 dice (otherwise known as six-sided dice) are the most common dice used, though D4, D8, D10, D12, and D20 are also used.
@@ -128,9 +120,9 @@ After the Dice Pool has been rolled, the amount of "wins" from the roll are coun
 
 All Dice Pools start with their "Base Dice", which by default are 3d6.
 
-A Dice Pool may have incur a penalty that removes dice. If so, first add up the Dice Pool without any of the penatlties. Then, to remove dice, always remove the lowest-sided dice first. For instance, d4 dice are always removed first, then d6, and so on.
+A Dice Pool may incur a penalty that removes dice. If so, first add up the Dice Pool without any of the penatlties. Then, to remove dice, always remove the lowest-sided dice first. For instance, d4 dice are always removed first, then d6, and so on.
 
-A "Standing Dice Pool" refers to a Dice Pool that has already rolled, where it results will "stand" within the narrative until the Narrator determines otherwise. This means nobody should alter the rolled dice pool until the Narrator says so, as it will be used determine multiple narrative outcomes. The same rules for removing dice apply to a Standing Dice Pool, however, when deciding which dice to remove of the same type, always remove dice from left to right. This is to leave it up to chance if the dice removed was a win or not. With physical dice, you can just roughly straighten out the dice and begin removing in that order.
+A "Standing Dice Pool" refers to a Dice Pool that has already rolled, where it results will "stand" within the narrative until the Narrator determines otherwise. The rolled Dice Pool shouldn't be altered until the Narrator determines otherwise, as it will be used determine multiple narrative outcomes. The same rules for removing dice apply to a Standing Dice Pool, however, when deciding which dice to remove of the same type, always remove dice from left to right. This is to leave it up to chance if the dice removed was a win or not. With physical dice, you can just roughly straighten out the dice and begin removing in that order.
 
 ## Challenge Level
 
@@ -659,6 +651,14 @@ Destiny points are awarded when players perform actions that the narrator wants 
 | Destiny Resistance |                                                                                                                                                                                                                                                                                  "Post Roll Destiny Points" cannot be spent against this character.                                                                                                                                                                                                                                                                                  |          | The Narrator |
 |  Destiny Immunity  |                                                                                                                                                                                                                                                                                        Destiny Points cannot be spent against this character.                                                                                                                                                                                                                                                                                        |          | The Narrator |
 |   Destiny Chosen   |                                                                                                                                                                                                                                             Destiny Point Cap set to 6. Gain an additional Destiny Point whenever one is gained. Destiny begins to shape around the user's true desires.                                                                                                                                                                                                                                             |          | The Narrator |
+
+## The Fate Roll
+
+The Fate Roll can be used by the Narrator to let the roll of a dice decide what direction the story will move in, be that for or against the goals and desires of the players.
+
+A Fate Roll is made with a D20 and is made by the Narrator or designated to a Player by the Narrator. The higher the roll is, the better the result is for the players. Rolling a 20 is considered a critical success, and may allow the Narrator to assign exceptionally advantageous circumstances to the players. The lower the roll is, the worse the result is for the players. Rolling a 1 is always to be considered a critical failure, and will result in an extremely unfavorable ourcome for the players. Whether they be revealed as immediate or delayed consequences is up to the Narrator.
+
+These rolls may be used in situations of great intensity to help the Narrator guide the path of the action. They may be used to help break up monotony at random times to see if something good or bad occurs or even what the weather is.
 
 # Combat Rules
 
