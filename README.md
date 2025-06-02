@@ -162,7 +162,7 @@ An Attribute represent the innate characteristics of a character. Each level of 
 
 ### Strength (STR)
 
-Represents a character's innate muscle strength, bone density, tendon strength, physical durability, etc...
+Represents a character's innate muscle strength, bone density, tendon strength, physical/bodily durability, etc...
 
 | Attribute Level |                 Example                 |
 | :-------------: | :--------------------------------------: |
@@ -175,11 +175,8 @@ Represents a character's innate muscle strength, bone density, tendon strength, 
 |        4        |         Hercules, Hulk, or Thor         |
 |        5        |                 Superman                 |
 
-STR is a character's physical and bodily durability/resistance from physical or bodily damage types.
-
-In combat, for every positive point in STR a character can reduce a Victory Level achieved against them once every combat encounter. For every negative point in STR the Narrator can increase a Victory Level achieved against them once every combat encounter.
-
-Outside of combat, for every positive point in STR a character can reduce an injury against them as many times as they want, granted there is a couple minutes of downtime between each injury. For every negative point in STR the Narrator can increase an injury against a character as many times as they want.
+- A character with positive STR is more resistant/durable against physical/bodily damage types. In combat, for every positive point in STR a character can reduce a Victory Level achieved against them once every combat encounter. Outside of combat, for every positive point in STR a character can reduce an injury against them as many times as they want, granted there is a couple minutes of downtime between each injury.
+- A character with negative STR is less resistant/durable against physical/bodily damage types. In combat, for every negative point in STR the Narrator can increase a Victory Level achieved against them once every combat encounter. Outside of combat, for every negative point in STR the Narrator can increase an injury against a character as many times as they want.
 
 ### Reflex (RFX)
 
@@ -196,7 +193,7 @@ Represents a character's innate reflexes, reaction speed, nervous system, fine m
 |        4        |                     Spiderman                     |
 |        5        |                The Flash or Hermes                |
 
-- As combat is conducted in a round-by-round format, the player with the highest RFX gets priority in that round.
+- A character with higher RFX permently gets higher priority in combat round turn order over character's with lower RFX.
 
 ### Intelligence (INT)
 
@@ -213,8 +210,9 @@ Represents a character's innate raw mental horsepower, IQ, consciousness, and me
 |        4        |                           Ultron or Skynet                           |
 |        5        |                        Dr. Manhattan or Athena                        |
 
-- INT is a character's mental and spiritual durability. In combat, for every point in INT a character can reduce a victory level achieved against them from a spiritual or psychic damage type once every combat encounter. Outside of combat, a character can reduce a spiritual or psychic damage type injury against them as many times as they want, granted there is a couple minutes of downtime between each injury.
 - Starting at level 0, for every increase/decrease in INT level a player character receives, they gain/lose skill points equal their new INT level. For example, a character who increases their INT from 0 to 1 would have gained skill point. If they then increased their INT to Level 2, they would gain 2 skill points, for a total of 3 gained skill points from their INT.
+- A character with positive INT is more resistant/durable against psychic/spiritual damage types. In combat, for every positive point in INT a character can reduce a Victory Level achieved against them once every combat encounter. Outside of combat, for every positive point in INT a character can reduce an injury against them as many times as they want, granted there is a couple minutes of downtime between each injury.
+- A character with negative INT is less resistant/durable against psychic/spiritual damage types. In combat, for every negative point in INT the Narrator can increase a Victory Level achieved against them once every combat encounter. Outside of combat, for every negative point in INT the Narrator can increase an injury against a character as many times as they want.
 
 ### Charisma (CHA)
 
@@ -231,7 +229,8 @@ Represents a character's innate personal magnetism, persuasiveness, appearance, 
 |        4        | Demi-god-tier manipulator or reality-bending charm (e.g., Loki) |
 |        5        | Divine-level influence or irresistible presence (e.g., Aphrodite) |
 
-* For each level above 0 in CHA, a character can give themselves advantage once per day on a social skill check that has CHA as one of it's governing attrtibutes. For each level below 0 in CHA, the narrator can give a character disadvantageonce per day on a social skill check that has CHA as one of it's governing attrtibutes.
+* A character with positive CHA is more capable of leveraging their force of personality within social situations. For each level above 0 in CHA, a character can give themselves advantage once per day on a social skill check that has CHA as one of it's governing attrtibutes.
+* A character with negative CHA is less capable of leveraging their force of personality within social situations. For each level below 0 in CHA, the narrator can give a character disadvantageonce per day on a social skill check that has CHA as one of it's governing attrtibutes.
 
 ## Skill
 
