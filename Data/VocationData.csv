@@ -5,7 +5,7 @@ Fellcaster,"STR, RFX, INT","Polycraft, Blazecraft, Hydrocraft, Electrocraft, Ter
 Runesmith,"RFX, INT","Fire Rune, Earth Rune, Water Rune, Air Rune, Electricity Rune, Cold Rune, Poison Rune, Blood Rune, Light Rune, Dark Rune, Sound Rune, Body Rune, Mind Rune, Soul Rune, Time Rune, Space Rune, Strength Rune, Gravity Rune, Nature Rune, Acid Rune","Specializes in Runecraft, rune based magic by that tinkers with the fabric of reality, drawing upon a character's Focus Resource Pool."
 Brightkin,"STR, RFX, INT, CHA","Blessing, Radiance",
 ,,,
-Smith,"STR, RFX, INT",,
+Smith,"STR, RFX, INT",Smithing,
 Rogue,"RFX, INT, CHA","Criminal Knowledge, Hand Crossbow, Light Crossbow, Heavy Crossbow, Light Bow, Heavy Bow, Exotic Ranged, Close Melee, Medium Melee, Large Melee, Reach Melee, Exotic Melee",
 Scholar,"INT, CHA","Performance, Homesteading, Drawing",
 ,,,

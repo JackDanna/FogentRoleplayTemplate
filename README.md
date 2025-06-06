@@ -412,14 +412,14 @@ For example, a Warrior and Rogue are trying to pickpocket a letter from a courie
 
 When determining what a Vocational Skill's Governing Attributes would be, it is often handy to ask what sequence of Core Skills would be required to attempt the same thing. Based off what Core Skills a character would've had to performed, you can usually infer what Governing Attributes the Vocational Skill will have. Below are some examples of Vocational Skills for certain Vocations.
 
-|  Vocation  |                                                  Vocational Skills Examples                                                  |               Governing Attributes for Vocation Skills Example               |
-| :---------: | :--------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
-|   Soldier   |               Medium Melee (Athletics, Perception, Logic), Battlefield Formations (Logic, Knowledge, and Will)               |          Medium Melee (STR, RFX, INT), Battlefield Formations (INT)          |
-|   Ranger   |                               Tracking (Perception and Logic), Wilderness Survival (Knowledge)                               |                Tracking (RFX, INT), Wilderness Survival (INT)                |
-|   Wizard   |                           Arcane Knowledge (Knowledge), Rune Inscribing (Knowledge and Dexterity)                           |              Arcane Knowledge (INT), Rune Inscribing (RFX, INT)              |
-|    Rogue    | Heist Planning (Stealth Logic, and Knowledge), Lock Picking (Knowledge and Dexterity), Pickpocketing (Stealth and Dexterity) | Heist Planning (INT), Lock Picking (RFX, INT), Pickpocketing (RFX, INT, CHA) |
+|  Vocation  |                                                 Vocational Skills Examples                                                 |              Governing Attributes for Vocation Skills Example              |
+| :---------: | :-------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------: |
+|   Soldier   |              Medium Melee (Athletics, Perception, Logic), Battlefield Formations (Logic, Knowledge, and Will)              |         Medium Melee (STR, RFX, INT), Battlefield Formations (INT)         |
+|   Ranger   |                              Tracking (Perception and Logic), Wilderness Survival (Knowledge)                              |               Tracking (RFX, INT), Wilderness Survival (INT)               |
+|   Wizard   |                           Arcane Knowledge (Knowledge), Rune Inscribing (Knowledge and Dexterity)                           |             Arcane Knowledge (INT), Rune Inscribing (RFX, INT)             |
+|    Rogue    | Heist Planning (Stealth Logic, and Knowledge), Lockpicking (Knowledge and Dexterity), Pickpocketing (Stealth and Dexterity) | Heist Planning (INT), Lockpicking (RFX, INT), Pickpocketing (RFX, INT, CHA) |
 | Necromancer |                                             Seance Ritual (Persuasion and Will)                                             |                             Seance Ritual (INT)                             |
-|    Baker    |                                               Baking (Dexterity and Knowledge)                                               |                              Baking (RFX, INT)                              |
+|    Baker    |                                              Baking (Dexterity and Knowledge)                                              |                              Baking (RFX, INT)                              |
 | Black Smith |                                        Forging (Endurance, Dexterity, and Knowledge)                                        |                           Forging (STR, RFX, INT)                           |
 |  Merchant  |                                               Trading (Knowledge, Persuasion)                                               |                              Trading(INT, CHA)                              |
 
@@ -460,24 +460,24 @@ Vocation Level measures how good a character is at a specific vocation. Vocation
 
 Let's make a Rogue vocation.
 
-Our character has 0 STR, 1 RFX, and 1 INT.
+Our character has 0 STR, 1 RFX, 1 INT, and 0 CHA.
 
-We set our "Rogue" Vocation to Level 2, meaning we are an adept rogue.
+We set our "Rogue" Vocation to Level 2, meaning we are an Adept Rogue.
 
-For the Governing Attributes of Rogue, we take RFX and INT as our vocation would benefit from us being quick, dexterous, and cunning.
+For the Governing Attributes of Rogue, we take RFX, INT, and CHA as our vocation would benefit from us being dexterous, cunning, and charming.
 
-I add "Lock-picking" as a Vocational Skill as it is something a Rogue would do. For it's Governing Attributes I give it RFX and INT, as being nimble with my fingers and understanding the mechanics of the lock would benefit this skill. We set it's level to Level 2.
+I add "Lockpicking" as a Vocational Skill as it is something a Rogue would do. For it's Governing Attributes I give it RFX and INT, as being nimble with my fingers and understanding the mechanics of the lock would benefit this skill. We set it's level to Level 2.
 
-I add "Pickpocketing" as a Vocational Skill as it is something a Rogue would do. For it's Governing Attributes I give it RFX and INT, as being nimble with my fingers and understanding deceptive misdirection would benefit this skill. We set it's level to Level 2.
+I add "Pickpocketing" as a Vocational Skill as it is something a Rogue would do. For it's Governing Attributes I give it RFX, INT, and CHA as being nimble with my fingers, planning the perfect place to intercept the target, and using deceptive misdirection would benefit this Skill. We set it's level to Level 2.
 
 I add "Infiltration Knowledge" as a Vocational Skill, as it is something a Rogue would do. For it's Governing Attributes, I give it just INT, as being more cunning would aid me as I lay out my plan. We set it's Level to Level 2.
 
 Finally, I add "Close Melee" as a Vocational Skill, as using a knife or blackjack would be something a Rogue would do. For it's Governing Attributes, I give it STR, RFX, and INT, as being stronger, faster, and smarter would all benefit this skill. We set it's level to Level 1.
 
-|         Rogue         |   RFX, INT   | 2 | 7d6 |
+|         Rogue         | RFX, INT, CHA | 2 | 7d6 |
 | :--------------------: | :-----------: | :-: | :-: |
 |      Lock-picking      |   RFX, INT   | 2 | 7d6 |
-|     Pickpocketing     |   RFX, INT   | 2 | 7d6 |
+|     Pickpocketing     | RFX, INT, CHA | 2 | 7d6 |
 | Infiltration Knowledge |      INT      | 2 | 6d6 |
 |      Close Melee      | STR, RFX, INT | 1 | 7d6 |
 
@@ -485,7 +485,7 @@ Finally, I add "Close Melee" as a Vocational Skill, as using a knife or blackjac
 
 Let's make a Chef vocation.
 
-Our Character has 1 STR, 1 RFX, and 0 INT.
+Our Character has 1 STR, 1 RFX, 0 INT, and 0 CHA.
 
 We set our Chef Vocation to Level 3, meaning we are an expert chef.
 
