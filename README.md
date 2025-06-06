@@ -303,7 +303,9 @@ Core Skills are skills that cover the majority of what most creatures can perfor
 
 ## Vocational Skill
 
-Vocational Skills are skills that fall under a Vocation. These skills have their levels capped by the level of the Vocation they fall under. For instance, if a character had a level 2 Vocation, any Vocational Skill under it couldn't increase above level 2 until its Vocation level increased. In general, most weapon combat Vocational Skill are governed by STR, RFX, and INT. Being stronger, faster, and smarter is almost always better when fighting. What follows is a list of example Vocational Skills.
+A Vocational Skill is a Skill that fall under a Vocation. They have their levels capped by the level of the Vocation they fall under. For instance, if a character had a level 2 Vocation, any Vocational Skill under it couldn't increase above level 2 until its Vocation level increased. 
+
+In general, most weapon combat Vocational Skill are governed by STR, RFX, and INT. Being stronger, faster, and smarter is almost always better when fighting.
 
 |       Name       | Governing Attributes |                                   Decription                                   |
 | :---------------: | :------------------: | :-----------------------------------------------------------------------------: |
