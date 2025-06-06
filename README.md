@@ -267,15 +267,15 @@ Multiple characters may contribute to the same skill check. The Narrator should 
 
 **Example:**
 
-A character wants to pick up an entire large sturdy treasure chest by themselves and take it up a flight of stairs.
+A character wants to pick up an entire large heavy treasure chest by themselves and take it up a flight of stairs.
 
-The Narrator assigns this a Specialized task (CL 3), not only for the weight of the chest but for how cumbersome it is for one person to move. The character gets 2 Wins on their Lift check. They are not able to get the chest up the stairs.
+The Narrator determines this a Specialized task (CL 3), not only for the weight of the chest but for how cumbersome it is for one person to move. The character gets 2 Wins on their Lift check. They are not able to get the chest up the stairs.
 
 After a short rest, both the original character and one of there teammates decide to pick up the chest together. The Narrator assigns this a Common task (CL 1) since people do this every day. The two characters both roll their Lift check. One gets 2 wins and the other gets 1 win. The average is 1.5, which rounds down to 1. They can move the chest up the stairs.
 
 ## Core Skill
 
-Core Skills are skills that cover the majority of what most creatures can perform. What follows is a list of example Core Skills.
+Core Skills are skills that cover the majority of what most creatures can perform.
 
 |     Name     | Governing Attributes |                                                                                                                                                                                                                                                                                                                                             Description                                                                                                                                                                                                                                                                                                                                             |
 | :----------: | :------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
