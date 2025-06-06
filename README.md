@@ -242,15 +242,15 @@ You then add a D6 for each skill point or attribute point that governs the Dice 
 
 Skill Level measures how good a character is at a specific skill. Skill Level ranges from level -1 to level 5.
 
-| Level | Narrative Meaning |                                              Description                                              |
-| :---: | :---------------: | :----------------------------------------------------------------------------------------------------: |
-|  -1  |    Incompetent    |                                      Incompetent level of skill.                                      |
-|   0   |      Novice      |                                     Inexperienced level of skill.                                     |
-|   1   |    Apprentice    |                                     The basics have been learned.                                     |
-|   2   |       Adept       |        The basics have been fully understood and the more advanced concepts are being learned.        |
-|   3   |      Expert      | Advanced concepts have been fully understood and master level concepts are beginning to be introduced. |
-|   4   |      Master      |                     Character would be well know in local region for their skill.                     |
-|   5   |      Legend      |                          Character would be a living legend for their skill.                          |
+| Level | Description |
+| :---: | :---------: |
+|  -1  | Incompetent |
+|   0   |   Novice   |
+|   1   | Apprentice |
+|   2   |    Adept    |
+|   3   |   Expert   |
+|   4   |   Master   |
+|   5   |   Legend   |
 
 ### Skill Specialty
 
