@@ -240,7 +240,7 @@ You then add a D6 for each skill point or attribute point that governs the Dice 
 
 ### Skill Level
 
-Skill Level measures how good a character is at a specific skill. Skill Level ranges from level -1 to level 5.
+Skill Level measures how good a character is at a specific skill.
 
 | Level | Description |
 | :---: | :---------: |
