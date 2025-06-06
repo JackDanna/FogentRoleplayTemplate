@@ -444,17 +444,17 @@ Vocations represent a character's job, class, or life path. A Player should chec
 
 ### Vocation Level
 
-Vocation Level measures how good a character is at a specific vocation. Vocation Level ranges from level -1 to level 5.
+Vocation Level measures how good a character is at a specific vocation. Vocation Level options should be identical to the Skill Level options.
 
-| Level | Narrative Meaning |                                              Description                                              |
-| :---: | :---------------: | :----------------------------------------------------------------------------------------------------: |
-|  -1  |    Incompetent    |                                     Incompetent level of vocation.                                     |
-|   0   |      Novice      |                                    Inexperienced level of vocation.                                    |
-|   1   |    Apprentice    |                                     The basics have been learned.                                     |
-|   2   |       Adept       |        The basics have been fully understood and the more advanced concepts are being learned.        |
-|   3   |      Expert      | Advanced concepts have been fully understood and master level concepts are beginning to be introduced. |
-|   4   |      Master      |                    Character would be well know in local region for their vocation.                    |
-|   5   |      Legend      |                         Character would be a living legend for their vocation.                         |
+| Level | Description |
+| :---: | :---------: |
+|  -1  | Incompetent |
+|   0   |   Novice   |
+|   1   | Apprentice |
+|   2   |    Adept    |
+|   3   |   Expert   |
+|   4   |   Master   |
+|   5   |   Legend   |
 
 ### Rogue Example
 
