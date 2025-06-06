@@ -417,6 +417,7 @@ Vocational Skills can often resolve in a single roll what without it would turn 
 | Necromancer |                                             Seance Ritual (Persuasion and Will)                                             |                        Seance Ritual (INT)                        |
 |    Baker    |                                               Baking (Dexterity and Knowledge)                                               |                         Baking (RFX, INT)                         |
 | Black Smith |                                        Forging (Endurance, Dexterity, and Knowledge)                                        |                      Forging (STR, RFX, INT)                      |
+|  Merchant  |                                               Trading (Knowledge, Persuasion)                                               |                         Trading(INT, CHA)                         |
 
 ## Vocation
 
