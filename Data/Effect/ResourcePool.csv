@@ -33,10 +33,12 @@ Nature Connection Pool,,,,Nature Connection,10,Nature Connection Resource Pool M
 Fellblood Pool,,,,Fellblood,10,Fellblood Resource Pool Max,FALSE
 Focus Pool,,,,Focus,10,Focus Resource Pool Max,FALSE
 ,,,,,,,
+Resource Pool: Thrown Small Slash Melee -1,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Small Slash Melee -1,1,None,TRUE
 Resource Pool: Thrown Small Slash Melee +0,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Small Slash Melee +0,1,None,TRUE
 ,,,,,,,
 Resource Pool: Thrown Small Pierce Melee -1,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Small Pierce Melee -1,1,None,TRUE
 Resource Pool: Thrown Small Pierce Melee +0,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Small Pierce Melee +0,1,None,TRUE
+Resource Pool: Thrown Small Pierce Melee +3,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Small Pierce Melee +3,1,None,TRUE
 Resource Pool: Thrown Small Pierce Melee +5,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Small Pierce Melee +5,1,None,TRUE
 ,,,,,,,
 Resource Pool: Thrown Small Hew Melee +0,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Small Hew Melee +0,1,None,TRUE
