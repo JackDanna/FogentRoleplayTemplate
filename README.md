@@ -234,9 +234,7 @@ Represents a character's innate personal magnetism, persuasiveness, appearance, 
 
 ## Skill
 
-A Skill represent a proficiency of certain tasks a character can perform.
-
-You then add a D6 for each skill point or attribute point that governs the Dice Pool.
+A Skill represent certain tasks or actions a character can perform.
 
 ### Skill Level
 
@@ -251,6 +249,17 @@ Skill Level measures how good a character is at a specific skill.
 |   3   |   Expert   |
 |   4   |   Master   |
 |   5   |   Legend   |
+
+### Skill Dice Pool
+
+The Dice Pool of a Skill is determined as follows:
+
+- Base Dice, which are generally 3d6 but can vary based Effects
+- +1d6 for each increament in Skill Level above 0
+- -1d for each decrement in Skill Level below if below 0
+- +1d6 for each increament in Attribute Level above 0, assuming the Attribute governs the skill
+- -1d for each decrement in Attribute Level below 0, assuming the Attribute governs the skill
+- Plus/minus dice from any Effects that modify the skill in question
 
 ### Multiple Character Skill Check
 
