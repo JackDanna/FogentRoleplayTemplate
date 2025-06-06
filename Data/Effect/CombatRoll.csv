@@ -2,6 +2,7 @@ name,variation,combatRollType,baseDiceTierAdjustments,dicePoolModifier,penetrati
 Dual-wielded Unarmed +0,Dual-wielded,Unarmed,+0,-1d,0,Melee,Swift,None,None,Bludgeon,Close Melee,Just your bare hands. Can be used in a Grapple.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 One-handed Small Hew Melee +0,One-handed,Small Hew Melee,+0,+0d6,0,Melee,Swift,None,None,Hew,Close Melee,"Hatchets, small axes, ect... Can be used in a Grapple.",Indefinite,Innate
+,,,,,,,,,,,,,,
 Dual-wielded Small Hew Melee +0,Dual-wielded,Small Hew Melee,+0,+1d6,0,Melee,Swift +1,None,None,Hew,Close Melee,"Hatchets, small axes, ect... Can be used in a Grapple.",Indefinite,Innate
 ,,,,,,,,,,,,,,
 One-handed Small Slash Melee -1,One-handed,Small Slash Melee,-1,+0d6,0,Melee,Swift,None,None,Slash,Close Melee,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
