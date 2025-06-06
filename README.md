@@ -147,39 +147,36 @@ For example, Javk Wick the Rogue hoist his unconscious injured ally onto his sho
 
 ## Attribute
 
-An Attribute represent the innate characteristics of a character. An attribute can go from level -2 to level 5. Each level corresponds with a narrative significance.
+An Attribute represent the innate characteristics of a character. Each level of an attribute corresponds with a narrative significance. Level 0 in an atribute should reffer to an average person in the world.
 
-| Attribute Level |                         Description                         |
-| :-------------: | :---------------------------------------------------------: |
-|       -2       |             Painfully lacking in the attribute.             |
-|       -1       |            Below an average person in our world.            |
-|        0        |               An average person in our world.               |
-|        1        |              Professional or naturally gifted.              |
-|        2        | Elite or 'world-class'. Peak of real world human potential. |
-|        3        |                Meta-human or genetic anomaly                |
-|        4        |                        Demigod like                        |
-|        5        |                Peak achievable or god like.                |
+| Level | Description |
+| :---: | :---------: |
+|  -2  | Negligible |
+|  -1  |   Subpar   |
+|   0   |   Average   |
+|   1   |   Gifted   |
+|   2   |    Elite    |
+|   3   |    Super    |
+|   4   | Demigodlike |
+|   5   |   Godlike   |
 
 ### Strength (STR)
 
-Represents a character's innate muscle strength, bone density, tendon strength, physical durability, etc...
+Represents a character's innate muscle strength, bone density, tendon strength, physical/bodily durability, etc...
 
 | Attribute Level |                 Example                 |
 | :-------------: | :--------------------------------------: |
 |       -2       |                A squirrel                |
 |       -1       |             A feeble old man             |
-|        0        |      An average human in our world      |
+|        0        |             An average human             |
 |        1        |      Professional soldier or knight      |
 |        2        | World's strongest man champion or Batman |
 |        3        |      Bear, Ogre, or Captain America      |
 |        4        |         Hercules, Hulk, or Thor         |
 |        5        |                 Superman                 |
 
-STR has the following effects:
-
-- STR is factored into all STR Governed Skills (Athletics, Endurance, Lift, etc...).
-- STR is a character's physical and bodily durability. In combat, for every point in STR a character can reduce a victory level achieved against them from physical or bodily damage types once every combat encounter. Outside of combat, for every point in STR a character can reduce a physical or bodily damage type injury against them as many times as they want, granted there is a couple minutes of respite between each injury.
-- Greater STR can help a character move more in a combat round and carry heavier gear without being penalized.
+- A character with positive STR is more resistant/durable against physical/bodily damage types. In combat, for every positive point in STR a character can reduce a Victory Level achieved against them once every combat encounter. Outside of combat, for every positive point in STR a character can reduce an injury against them as many times as they want, granted there is a couple minutes of downtime between each injury.
+- A character with negative STR is less resistant/durable against physical/bodily damage types. In combat, for every negative point in STR the Narrator can increase a Victory Level achieved against them once every combat encounter. Outside of combat, for every negative point in STR the Narrator can increase an injury against a character as many times as they want.
 
 ### Reflex (RFX)
 
@@ -189,18 +186,14 @@ Represents a character's innate reflexes, reaction speed, nervous system, fine m
 | :-------------: | :-----------------------------------------------: |
 |       -2       |                    A tortoise                    |
 |       -1       |                  A slow old man                  |
-|        0        |          An average human in our world          |
+|        0        |                 An average human                 |
 |        1        | Professional thief, parkourist, or circus acrobat |
 |        2        |    Gold medal gymnast or master martial artist    |
 |        3        |                      Legolas                      |
 |        4        |                     Spiderman                     |
 |        5        |                The Flash or Hermes                |
 
-RFX has the following effects:
-
-- RFX is factored into all RFX Governed Skills (Dexterity, Perception, Stealth, etc...).
-- As combat is conducted in a round-by-round format, the player with the highest RFX gets priority in that round.
-- Character with higher RFX have better Reaction Movement Speed, which allows an amount of movement before slower characters within a combat round.
+- A character with higher RFX permently gets higher priority in combat round turn order over character's with lower RFX.
 
 ### Intelligence (INT)
 
@@ -209,19 +202,17 @@ Represents a character's innate raw mental horsepower, IQ, consciousness, and me
 | Attribute Level |                                Example                                |
 | :-------------: | :-------------------------------------------------------------------: |
 |       -2       |                               A zombie                               |
-|       -1       |                   A person with a mental disability                   |
-|        0        |                    An average person in our world                    |
-|        1        |           University science professor or career politician           |
+|       -1       |                             A dog or cat                             |
+|        0        |                           An average human                           |
+|        1        |                     University science professor                     |
 |        2        | Award-winning particle physicist or 'Sherlock Holmes' level detective |
 |        3        |                              Tony Stark                              |
 |        4        |                           Ultron or Skynet                           |
 |        5        |                        Dr. Manhattan or Athena                        |
 
-INT has the following effects:
-
-- INT is factored into all INT Governed Skills (Knowledge, Logic, Willpower, etc...).
-- INT is a measure of how durable a character's consciousness is to mental and spiritual attacks. In combat, for every point in INT a character can reduce a victory level achieved against them from spiritual or psychic damage types once every combat encounter. Outside of combat, for every point in INT a character can reduce a spiritual or psychic damage type injury against them as many times as they want, granted there is a couple minutes of respite between each injury.
-- Starting at level 0, for every increase/decrease in INT level a player character receives, they gain/lose skill points equal their new INT level. For example, a character who increases their INT to level 1 would have gained skill point. If they then increased their INT to Level 2, they would gain 2 skill points, for a total of 3 gained skill points from their INT.
+- Starting at level 0, for every increase/decrease in INT level a player character receives, they gain/lose skill points equal their new INT level. For example, a character who increases their INT from 0 to 1 would have gained skill point. If they then increased their INT to Level 2, they would gain 2 skill points, for a total of 3 gained skill points from their INT.
+- A character with positive INT is more resistant/durable against psychic/spiritual damage types. In combat, for every positive point in INT a character can reduce a Victory Level achieved against them once every combat encounter. Outside of combat, for every positive point in INT a character can reduce an injury against them as many times as they want, granted there is a couple minutes of downtime between each injury.
+- A character with negative INT is less resistant/durable against psychic/spiritual damage types. In combat, for every negative point in INT the Narrator can increase a Victory Level achieved against them once every combat encounter. Outside of combat, for every negative point in INT the Narrator can increase an injury against a character as many times as they want.
 
 ### Charisma (CHA)
 
@@ -231,17 +222,15 @@ Represents a character's innate personal magnetism, persuasiveness, appearance, 
 | :-------------: | :---------------------------------------------------------------: |
 |       -2       |                Social pariah or utterly repellent                |
 |       -1       |             Awkward, easily ignored, or unconvincing             |
-|        0        |                  An average person in our world                  |
+|        0        |                         An average human                         |
 |        1        |  Influential leader or captivating performer (e.g., Cult Leader)  |
 |        2        |    Nation-swaying icon or legendary diplomat (e.g., Cleopatra)    |
 |        3        |   Supernatural allure or universally enchanting (e.g., Siren)   |
 |        4        | Demi-god-tier manipulator or reality-bending charm (e.g., Loki) |
 |        5        | Divine-level influence or irresistible presence (e.g., Aphrodite) |
 
-CHA has the following effects:
-
-* CHA is factored into all CHA Governed Skills (Persuasion, Deception, Intimidation, Leadership, Performance, Bartering, etc...).
-* For each level above 0 in CHA, a character can give themselves advantage once per day on a social skill check that has CHA as one of it's governing attrtibutes. For each level below 0 in CHA, the Narrator can give a character disadvantageonce per day on a social skill check that has CHA as one of it's governing attrtibutes.
+* A character with positive CHA is more capable of leveraging their force of personality within social situations. For each level above 0 in CHA, a character can give themselves advantage once per day on a social skill check that has CHA as one of it's governing attrtibutes.
+* A character with negative CHA is less capable of leveraging their force of personality within social situations. For each level below 0 in CHA, the narrator can give a character disadvantageonce per day on a social skill check that has CHA as one of it's governing attrtibutes.
 
 ## Skill
 
@@ -251,17 +240,17 @@ You then add a D6 for each skill point or attribute point that governs the Dice 
 
 ### Skill Level
 
-Skill Level measures how good a character is at a specific skill. Skill Level ranges from level -1 to level 5.
+Skill Level measures how good a character is at a specific skill.
 
-| Level | Narrative Meaning |                                              Description                                              |
-| :---: | :---------------: | :----------------------------------------------------------------------------------------------------: |
-|  -1  |    Incompetent    |                                      Incompetent level of skill.                                      |
-|   0   |      Novice      |                                     Inexperienced level of skill.                                     |
-|   1   |    Apprentice    |                                     The basics have been learned.                                     |
-|   2   |       Adept       |        The basics have been fully understood and the more advanced concepts are being learned.        |
-|   3   |      Expert      | Advanced concepts have been fully understood and master level concepts are beginning to be introduced. |
-|   4   |      Master      |                     Character would be well know in local region for their skill.                     |
-|   5   |      Legend      |                          Character would be a living legend for their skill.                          |
+| Level | Description |
+| :---: | :---------: |
+|  -1  | Incompetent |
+|   0   |   Novice   |
+|   1   | Apprentice |
+|   2   |    Adept    |
+|   3   |   Expert   |
+|   4   |   Master   |
+|   5   |   Legend   |
 
 ### Skill Specialty
 
