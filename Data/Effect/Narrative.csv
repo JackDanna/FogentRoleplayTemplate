@@ -99,6 +99,7 @@ Disabling: People Pleaser,"Always try to make other people happy, even at their 
 Disabling: SKILL Overconfidence,"Extremely overconfident in SKILL, cannot invest in.",Indefinite,Backstory
 Disabling: Illiterate,Can't read or write.,Indefinite,Backstory
 Disabling: Overly Nostalgic,Constantly reminiscing about the good old day.,Indefinite,Backstory
+Disabling: Nerve Damage,Character has suffered severe damage theirs nerves. The Perception Skill is locked at level -1.,Indefinite,Backstory
 ,,,
 ,,,
 Gradual Healing,"Minor injuries heal in 1 day, others are downgraded in following days if maintained.",Indefinite,Treatment
