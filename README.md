@@ -252,14 +252,6 @@ Skill Level measures how good a character is at a specific skill.
 |   4   |   Master   |
 |   5   |   Legend   |
 
-### Skill Specialty
-
-Once a skill's Dice Pool is equal to or greater than 8 dice you are considered a specialist in that skill. If you are a specialist for a skill, when asked to make a check utilizing that skill with a Challenge Level of 3 or less, you automatically pass if all of the following are true.
-
-- You are not under duress (No time pressure, no outside influences or aggression such as combat.)
-- The check is not contested.
-- The check is not a reflexive action.
-
 ### Multiple Character Skill Check
 
 Multiple characters may contribute to the same skill check. The Narrator should then evaluate the Challenge Level in the context of if multiple characters were performing it. All characters make their skill check, from which the average is taken, always rounding down to the nearest whole number. The average will then determine success or failure.
@@ -3091,3 +3083,15 @@ If an injury is not fully negated by the defender's armor, then all pieces of ar
 |  Legendary  |  10  | 1d20, 2d12 |       42       |
 |   Mythic   |  11  | 2d20, 1d12 |       45       |
 |  Artifact  |  12  |    3d20    |       48       |
+
+# Variant Rule
+
+These are optional rules that aren't required and are up to the Narrator if they will be used.
+
+### Skill Specialty
+
+Once a skill's Dice Pool is equal to or greater than 8 dice you are considered a specialist in that skill. If you are a specialist for a skill, when asked to make a check utilizing that skill with a Challenge Level of 3 or less, you automatically pass if all of the following are true.
+
+- You are not under duress (No time pressure, no outside influences or aggression such as combat.)
+- The check is not contested.
+- The check is not a reflexive action.
