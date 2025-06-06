@@ -4,7 +4,14 @@ Dual-wielded Unarmed +0,Dual-wielded,Unarmed,+0,-1d,0,Melee,Swift,None,None,Blud
 One-handed Small Hew Melee +0,One-handed,Small Hew Melee,+0,+0d6,0,Melee,Swift,None,None,Hew,Close Melee,"Hatchets, small axes, ect... Can be used in a Grapple.",Indefinite,Innate
 Dual-wielded Small Hew Melee +0,Dual-wielded,Small Hew Melee,+0,+1d6,0,Melee,Swift +1,None,None,Hew,Close Melee,"Hatchets, small axes, ect... Can be used in a Grapple.",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Small Slash Melee +0,One-handed,Small Slash Melee,"-1, +0, +1, +2, +3, +5, +9",+0d6,0,Melee,Swift,None,None,Slash,Close Melee,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
+One-handed Small Slash Melee -1,One-handed,Small Slash Melee,-1,+0d6,0,Melee,Swift,None,None,Slash,Close Melee,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
+One-handed Small Slash Melee +0,One-handed,Small Slash Melee,+0,+0d6,0,Melee,Swift,None,None,Slash,Close Melee,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
+One-handed Small Slash Melee +1,One-handed,Small Slash Melee,+1,+0d6,0,Melee,Swift,None,None,Slash,Close Melee,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
+One-handed Small Slash Melee +2,One-handed,Small Slash Melee,+2,+0d6,0,Melee,Swift,None,None,Slash,Close Melee,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
+One-handed Small Slash Melee +3,One-handed,Small Slash Melee,+3,+0d6,0,Melee,Swift,None,None,Slash,Close Melee,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
+One-handed Small Slash Melee +5,One-handed,Small Slash Melee,+5,+0d6,0,Melee,Swift,None,None,Slash,Close Melee,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
+One-handed Small Slash Melee +9,One-handed,Small Slash Melee,+9,+0d6,0,Melee,Swift,None,None,Slash,Close Melee,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
+,,,,,,,,,,,,,,
 Dual-wielded Small Slash Melee +0,Dual-wielded,Small Slash Melee,"-1, +0, +1, +2, +3, +5, +9",+1d6,0,Melee,Swift +1,None,None,Slash,Close Melee,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
 ,,,,,,,,,,,,,,
 One-handed Small Pierce Melee +0,One-handed,Small Pierce Melee,"+0, +1, +3, +5, +9",+0d6,0,Melee,Swift,None,None,Pierce,Close Melee,"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
