@@ -406,17 +406,17 @@ In general, most weapon combat Vocational Skill are governed by STR, RFX, and IN
 
 **Description:** Describes how the Vocational Skill can be used.
 
-Vocational Skills can often resolve in a single roll what without it would turn into a sequence of possibly more difficult Core Skill checks, which opens up more possibilities for failure. When determining what a Vocational Skills Governing Attributes would be, it is often handy to ask what sequence of Core Skills would be required to attempt the same thing. Based off what Core Skills a character would've had to performed, you can usually infer what Governing Attributes the Vocational Skill will have. Below are some examples of Vocational Skills for certain Vocations.
+Vocational Skills can often resolve in a single roll what without it would turn into a sequence of possibly more difficult Core Skill checks, which opens up more possibilities for failure. When determining what a Vocational Skill's Governing Attributes would be, it is often handy to ask what sequence of Core Skills would be required to attempt the same thing. Based off what Core Skills a character would've had to performed, you can usually infer what Governing Attributes the Vocational Skill will have. Below are some examples of Vocational Skills for certain Vocations.
 
-|  Vocation  |                                                  Vocational Skills Examples                                                  |            Governing Attributes for Vocation Skills Example            |
-| :---------: | :--------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------: |
-|   Soldier   |               Medium Melee (Athletics, Perception, Logic), Battlefield Formations (Logic, Knowledge, and Will)               |       Medium Melee (STR, RFX, INT), Battlefield Formations (INT)       |
-|   Ranger   |                               Tracking (Perception and Logic), Wilderness Survival (Knowledge)                               |             Tracking (RFX, INT), Wilderness Survival (INT)             |
-|   Wizard   |                           Arcane Knowledge (Knowledge), Rune Inscribing (Knowledge and Dexterity)                           |           Arcane Knowledge (INT), Rune Inscribing (RFX, INT)           |
-|    Thief    | Heist Planning (Stealth Logic, and Knowledge), Lock Picking (Knowledge and Dexterity), Pickpocketing (Stealth and Dexterity) | Heist Planning (RFX, INT), Lock Picking (RFX, INT), Pickpocketing (RFX) |
-| Necromancer |                                             Seance Ritual (Persuasion and Will)                                             |                           Seance Ritual (INT)                           |
-|    Baker    |                                               Baking (Dexterity and Knowledge)                                               |                            Baking (RFX, INT)                            |
-| Black Smith |                                           Forging (Lift, Dexterity, and Knowledge)                                           |                         Forging (STR, RFX, INT)                         |
+|  Vocation  |                                                  Vocational Skills Examples                                                  |          Governing Attributes for Vocation Skills Example          |
+| :---------: | :--------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------: |
+|   Soldier   |               Medium Melee (Athletics, Perception, Logic), Battlefield Formations (Logic, Knowledge, and Will)               |     Medium Melee (STR, RFX, INT), Battlefield Formations (INT)     |
+|   Ranger   |                               Tracking (Perception and Logic), Wilderness Survival (Knowledge)                               |           Tracking (RFX, INT), Wilderness Survival (INT)           |
+|   Wizard   |                           Arcane Knowledge (Knowledge), Rune Inscribing (Knowledge and Dexterity)                           |         Arcane Knowledge (INT), Rune Inscribing (RFX, INT)         |
+|    Thief    | Heist Planning (Stealth Logic, and Knowledge), Lock Picking (Knowledge and Dexterity), Pickpocketing (Stealth and Dexterity) | Heist Planning (INT), Lock Picking (RFX, INT), Pickpocketing (RFX) |
+| Necromancer |                                             Seance Ritual (Persuasion and Will)                                             |                        Seance Ritual (INT)                        |
+|    Baker    |                                               Baking (Dexterity and Knowledge)                                               |                         Baking (RFX, INT)                         |
+| Black Smith |                                        Forging (Endurance, Dexterity, and Knowledge)                                        |                      Forging (STR, RFX, INT)                      |
 
 ## Vocation
 
