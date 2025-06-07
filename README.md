@@ -61,7 +61,7 @@ Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentrol
   - [Tied Contested Checks](#tied-contested-checks)
   - [Advantage and Disadvantage](#advantage-and-disadvantage)
   - [Assists](#assists)
-  - [Base Dice Tiers](#base-dice-tiers)
+  - [Base Dices](#base-dice-tiers)
   - [Destiny Points](#destiny-points)
 - [Combat Rules](#combat-rules)
   - [Damage Types](#damage-types)
@@ -1058,11 +1058,11 @@ Represent either an addition or subtraction of dice to the Combat Roll Dice Pool
 
 For example, a bomb arrow is significantly more dangerous than a standard arrow, so it would receive additional dice. However, a blunted practice arrow (such as the comical boxing glove arrow) is significantly less dangerous than a standard arrow, so it would lose dice.
 
-### Base Dice Tier Adjustment
+### Base Dice Adjustment
 
-Adjusts the Base Dice Tier's tier for the Combat Roll the Ammo is being used with. Used to represent Ammo that adjusts the consistency and reliability of the Combat Roll.
+Adjusts the Base Dice's tier for the Combat Roll the Ammo is being used with. Used to represent Ammo that adjusts the consistency and reliability of the Combat Roll.
 
-For example, let's say a character has a "Two-handed Light Bow +0" Combat Roll (which has a tier 0 Base Dice Tier meaning it's Base Dice would be 3d6 unless otherwise adjusted). If the character were to use a "Light Arrow - Survival" (which would represent a poorly constructed arrow made as a last ditch effort in a survival situation) which has a -1 Base Dice Tier Adjustment, then the Combat Roll would have a -1 Base Dice Tier ("2d6, 1d4" for it's Base Dice). If instead a "Light Arrow - Standard" were used which has a +0 Base Dice Tier Adjustment, then the Combat Roll would have a Base Dice Tier of +0 ("3d6" for it's Base Dice).
+For example, let's say a character has a "Two-handed Light Bow +0" Combat Roll (which has a tier 0 Base Dice meaning it's Base Dice would be 3d6 unless otherwise adjusted). If the character were to use a "Light Arrow - Survival" (which would represent a poorly constructed arrow made as a last ditch effort in a survival situation) which has a -1 Base Dice Adjustment, then the Combat Roll would have a -1 Base Dice ("2d6, 1d4" for it's Base Dice). If instead a "Light Arrow - Standard" were used which has a +0 Base Dice Adjustment, then the Combat Roll would have a Base Dice of +0 ("3d6" for it's Base Dice).
 
 ### Penetration Adjustment
 
@@ -1088,7 +1088,7 @@ If "None", than use the Combat Roll's Area Of Effect this Ammo is being used wit
 
 This can represent a bomb arrow, an explosive rounds, ect...
 
-|                   Name                   |         Resource Type         | Dice Pool Modifier | Base Dice Tier Adjustment | Penetration Adjustment |  Damage Types  | Optional Range | Optional Area Of Effect |
+|                   Name                   |         Resource Type         | Dice Pool Modifier | Base Dice Adjustment | Penetration Adjustment |  Damage Types  | Optional Range | Optional Area Of Effect |
 | :---------------------------------------: | :----------------------------: | :----------------: | :-----------------------: | :--------------------: | :-------------: | :------------: | :---------------------: |
 |          Light Arrow - Standard          |          Light Arrow          |        +0d6        |            +0            |           0           |     Pierce     |      None      |          None          |
 |          Light Arrow - Wounding          |          Light Arrow          |        +0d6        |            +1            |           0           |  Pierce, Bleed  |      None      |          None          |
@@ -1144,9 +1144,9 @@ The right Combat Roll can dramatically improve the chances of getting more wins 
 
 ### Name
 
-The name of a Combat Roll formatted the following way: "(Varation) (Combat Roll Type) (Base Dice Tier Adjustment)"
+The name of a Combat Roll formatted the following way: "(Varation) (Combat Roll Type) (Base Dice Adjustment)"
 
-For example, let's say we are creating a Combat Roll for a one-handed thrusting rapier. For Variation, since most rapier grips only include space for one hand, thus we'd use "One-handed". Next, for Combat Roll Type, it seems that a rapier would be a "Medium Pierce Melee" weapon. Finally, in regards to the Base Dice Tier Adjustment, we note that rapiers were designed to sacrifice slashing for piercing capabilities. To reflect this, we could give a +2 Base Dice Tier Adjustment for our one-handed thrusting Combat Roll.
+For example, let's say we are creating a Combat Roll for a one-handed thrusting rapier. For Variation, since most rapier grips only include space for one hand, thus we'd use "One-handed". Next, for Combat Roll Type, it seems that a rapier would be a "Medium Pierce Melee" weapon. Finally, in regards to the Base Dice Adjustment, we note that rapiers were designed to sacrifice slashing for piercing capabilities. To reflect this, we could give a +2 Base Dice Adjustment for our one-handed thrusting Combat Roll.
 
 Thus, our rapier would have the below weapons: "One-handed Medium Pierce Melee +2"
 
@@ -1170,9 +1170,9 @@ One hand is being used on a main weapon and the other hand is being used on anot
 
 Just describes type of the combat roll.
 
-### Base Dice Tier Adjustments
+### Base Dice Adjustments
 
-Adjusts the Base Dice Tier by the amount specified.
+Adjusts the Base Dice by the amount specified.
 
 This generally is used to adjust the consistency and/or reliability of the Combat Roll.
 
@@ -1220,7 +1220,7 @@ Describes how long the Combat Roll effect is usable for. For most conventional w
 
 Describes where this Combat Roll is coming from. If it is coming from an item the character possess, such as a sword, than the name of the item would be the source. If the Combat Roll is innate to the character, such as claws, than the source would be "Innate".
 
-|                    Name                    |  Variation  |       Combat Roll Type       | Base Dice Tier Adjustment | Dice Pool Modifier | Penetration |    Range    | Uses Per Round | Area Of Effect | Optional Resource Type And Amount |  Damage Types  | Governing Skill Name |                                                             Description                                                             |  Duration  | Source |
+|                    Name                    |  Variation  |       Combat Roll Type       | Base Dice Adjustment | Dice Pool Modifier | Penetration |    Range    | Uses Per Round | Area Of Effect | Optional Resource Type And Amount |  Damage Types  | Governing Skill Name |                                                             Description                                                             |  Duration  | Source |
 | :-----------------------------------------: | :----------: | :--------------------------: | :-----------------------: | :----------------: | :---------: | :----------: | :------------: | :------------: | :-------------------------------: | :------------: | :------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :--------: | :----: |
 |           Dual-wielded Unarmed +0           | Dual-wielded |           Unarmed           |            +0            |        -1d        |      0      |    Melee    |     Swift     |      None      |               None               |    Bludgeon    |     Close Melee     |                                           Just your bare hands. Can be used in a Grapple.                                           | Indefinite | Innate |
 |                                            |              |                              |                          |                    |            |              |                |                |                                  |                |                      |                                                                                                                                    |            |        |
@@ -1369,9 +1369,9 @@ Describes where this Combat Roll is coming from. If it is coming from an item th
 
 ### Combat Roll Dice Pool
 
-A Combat Roll Dice Pool is the result of the Governing Skill Dice Pool modified by the Combat Roll's "Dice Pool Modifier" and "Base Dice Tier Adjustment" ( including the same stats on any Ammo being used as part of the Combat Roll ). This Dice Pool represent's the character's effectiveness in combat.
+A Combat Roll Dice Pool is the result of the Governing Skill Dice Pool modified by the Combat Roll's "Dice Pool Modifier" and "Base Dice Adjustment" ( including the same stats on any Ammo being used as part of the Combat Roll ). This Dice Pool represent's the character's effectiveness in combat.
 
-- +Base Dice (defaults to 3d6, varies with Base Dice Tier Adjustments from the Combat Roll and Ammo)
+- +Base Dice (defaults to 3d6, varies with Base Dice Adjustments from the Combat Roll and Ammo)
 - +/- 1d6 per Weapon Skill
 - +/- 1d6 per STR, RFX, or INT if Governing Attribute of Combat Skill
 - +/- Combat Roll's Dice Pool Mods
@@ -1617,18 +1617,18 @@ Sets a specified Skill/Vocation of a character to a new value. If the character'
 | :--------------: | :------------------------: | :--------: | :----: |
 | Super Perception | Perception set to level 5. | Indefinite |        |
 
-#### Skill Base Dice Tier
+#### Skill Base Dice
 
 Sets the base dice of specific skills or vocations dice pools.
 
-For instance, if a Mundane Fire Magic Spellcasting Focus is used, all uses of the Fire Magic Skill have 3d6. With a Excellent Fire Magic Spellcasting Focus, all uses of the Fire magic Skill have 3d8 instead. Base Dice Tiers also apply to tools/gear used in skill rolls (high-quality climbing equipment for use with Athletics), and is meant to apply both in and out of combat.
+For instance, if a Mundane Fire Magic Spellcasting Focus is used, all uses of the Fire Magic Skill have 3d6. With a Excellent Fire Magic Spellcasting Focus, all uses of the Fire magic Skill have 3d8 instead. Base Dices also apply to tools/gear used in skill rolls (high-quality climbing equipment for use with Athletics), and is meant to apply both in and out of combat.
 
 |                  Name                  |                                Description                                |  Duration  | Source |
 | :-------------------------------------: | :------------------------------------------------------------------------: | :--------: | :----: |
 | Excellent Nature Fellcraft Arcane Focus | 3d8 base dice for Terracraft, Hydrocraft, Naturecraft and Galecraft skill. | Indefinite |        |
 |          Fine Endurance Charm          |                  1d6, 2d8 base dice for Endurance skill.                  | Indefinite |        |
 
-#### Base Dice Tier Adjustment
+#### Base Dice Adjustment
 
 Adjusts the base dice of a specific skill or vocation dice pools.
 
@@ -2464,7 +2464,7 @@ Examples of unlocking Incompetent Magic Skills:
 
 Magic Skill Roll =
 
-- 3d6 (Base Dice, varies with Spellcasting Focus Base Dice Tier)
+- 3d6 (Base Dice, varies with Spellcasting Focus Base Dice)
 - +Xd6 (per Magic Skill)
 - +Xd6 (per Magic Skill Governing Attributes)
 
@@ -2525,7 +2525,7 @@ Another avenue to explore is how magic skills could be combined.
 
 All magic needs a Spellcasting Focus to be cast through wether a wizard's staff, a druid's focus, or even a character's own body. Just about anything can be made into a Spellcasting Focus from a narrative perspective, but it is up to the Narrator to decide if their are any restrictions in their magic system/setting.
 
-Spellcasting Focuses often have Skill Base Dice Tier Effects on them that influence the magic skills cast through it, assuming they apply to that skill.
+Spellcasting Focuses often have Skill Base Dice Effects on them that influence the magic skills cast through it, assuming they apply to that skill.
 
 ## Spells
 
@@ -3028,7 +3028,7 @@ If the setting doesn't have a built economy, then the players and Narrator can w
 
 This is an optional rule for setting where the durability of ones equipment has narrative significance. Using item durability is a great way to increase immersion (such as having to go to a blacksmith or learn to repair their gear) and challenge your players. However, for players who want a more casual experience, item durability can be disregarded.
 
-With these rules, all weapons, armor, and spellcasting focuses now have durability. Whatever the Base Dice Tier associated with that item determines how much durability it has. When an item's durability falls, each time your item's durability falls to the lower tier's max durability, that lower tier's base dice are used instead. For instance, if a character had a "Legendary" Base Dice Tier sword with only 23 durability remaining they would be rolling the "Superior" Base Dice Tier or "1d10, 2d8".
+With these rules, all weapons, armor, and spellcasting focuses now have durability. Whatever the Base Dice associated with that item determines how much durability it has. When an item's durability falls, each time your item's durability falls to the lower tier's max durability, that lower tier's base dice are used instead. For instance, if a character had a "Legendary" Base Dice sword with only 23 durability remaining they would be rolling the "Superior" Base Dice or "1d10, 2d8".
 
 ### Weapon Durability
 
