@@ -24,14 +24,21 @@ Heavy Bolt - Survival,Heavy Bolt,+0d6,-1,-1,Pierce,None,None
 Heavy Bolt - Shoddy,Heavy Bolt,+0d6,-1,0,Pierce,None,None
 ,,,,,,,
 Blowgun Dart - Poison,Blowgun Dart,+0d6,+0,0,Poison,None,None
+,,,,,,,
 Sling Bullet - Standard,Sling Bullet,+0d6,+0,0,Bludgeon,None,None
 ,,,,,,,
 Muzzleloading Pistol Cartridge - Standard,Muzzleloading Pistol Cartridge,+0d6,+0,0,Pierce,None,None
+,,,,,,,
 Arquebus Cartridge - Standard,Arquebus Cartridge,+0d6,+0,0,Pierce,None,None
+,,,,,,,
 Musket Cartridge - Standard,Musket Cartridge,+0d6,+0,0,Pierce,None,None
 ,,,,,,,
 9mm Round - FMJ,9mm Round,+0d6,+0,0,Pierce,None,None
+,,,,,,,
 5.56 Round - FMJ,5.56 Round,+0d6,+0,0,Pierce,None,None
+,,,,,,,
 .308 Round - FMJ,.308 Round,+0d6,+0,0,Pierce,None,None
+,,,,,,,
 12 Gauge Shell - Buckshot,12 Gauge Shell,+0d6,+0,0,Pierce,None,None
+,,,,,,,
 RPG Round - Explosive,RPG Round,+0d6,+0,0,"Fire, Shockwave",None,30 ft Sphere
