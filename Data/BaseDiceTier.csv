@@ -1,6 +1,5 @@
 tier,baseDice,itemQualityDescription
--4,0d6,Broken
--3,3d4,Compromised
+-3,3d4,Broken
 -2,"1d6, 2d4",Damaged
 -1,"2d6, 1d4",Shoddy
 0,3d6,Mundane

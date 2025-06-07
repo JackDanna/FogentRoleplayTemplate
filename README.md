@@ -118,7 +118,26 @@ After the Dice Pool has been rolled, the amount of "wins" from the roll are coun
 |    D12    |        75%        |
 |    D20    |        85%        |
 
-All Dice Pools start with their "Base Dice", which by default are 3d6.
+All Dice Pools start with Base Dice. Base Dice are always represented by 3 dice. By default Base Dice for Dice Pools start at Tier 0 ( or 3d6).
+
+| Tier | Base Dice | Item Quality Description |
+| :--: | :--------: | :----------------------: |
+|  -3  |    3d4    |          Broken          |
+|  -2  |  1d6, 2d4  |         Damaged         |
+|  -1  |  2d6, 1d4  |          Shoddy          |
+|  0  |    3d6    |         Mundane         |
+|  1  |  1d8, 2d6  |         Quality         |
+|  2  |  2d8, 1d6  |           Fine           |
+|  3  |    3d8    |        Excellent        |
+|  4  | 1d10, 2d8 |         Superior         |
+|  5  | 2d10, 1d8 |        Exquisite        |
+|  6  |    3d10    |         Flawless         |
+|  7  | 1d12, 2d10 |       Mastercraft       |
+|  8  | 2d12, 1d10 |          Fabled          |
+|  9  |    3d12    |           Epic           |
+|  10  | 1d20, 2d12 |        Legendary        |
+|  11  | 2d20, 1d12 |          Mythic          |
+|  12  |    3d20    |         Artifact         |
 
 A Dice Pool may incur a penalty that removes dice. If so, first add up the Dice Pool without any of the penatlties. Then, to remove dice, always remove the lowest-sided dice first. For instance, d4 dice are always removed first, then d6, and so on.
 
@@ -571,30 +590,6 @@ The Narrator agrees, setting the Assist to CL 3 due to the slippery oil patches 
 |    Assist: Brace    | A brace is a move purely to counter a charge. Character gains Advantage versus charging opponents and charging opponents lose their Advantage versus them. No movement can be used while bracing. Bracing uses the opponent's momentum against them, enabling a prepared defender to more easily stagger, trip or injure the charging opponent. | 1 Round |    CL 3 Lift Check    |
 | Assist: Pack Tactics |                                            When two or more attackers make a combat roll against the same opponent with at least one of them within 5 feet, they can make this collaborative assist roll. If successful, they can coordinate their attacks, gaining Advantage on their attack rolls.                                            | 1 Round |  CL 3 Teamwork Check  |
 |  Assist: Formation  |                                                           When two or more allies are next to each other, they can make a collaborative assist roll. If the assist is successful, then all characters within the formation gain Advantage to their Melee or Reach range combat rolls.                                                           | 1 Round |  CL 3 Teamwork Check  |
-
-## Base Dice Tiers
-
-Base dice are always represented by 3 dice, which by default are 3d6. However, base dice can change for better or worse depending on a Base Dice Tier.
-
-| Tier | Base Dice | Item Quality Description |
-| :--: | :--------: | :----------------------: |
-|  -4  |    0d6    |          Broken          |
-|  -3  |    3d4    |       Compromised       |
-|  -2  |  1d6, 2d4  |         Damaged         |
-|  -1  |  2d6, 1d4  |          Shoddy          |
-|  0  |    3d6    |         Mundane         |
-|  1  |  1d8, 2d6  |         Quality         |
-|  2  |  2d8, 1d6  |           Fine           |
-|  3  |    3d8    |        Excellent        |
-|  4  | 1d10, 2d8 |         Superior         |
-|  5  | 2d10, 1d8 |        Exquisite        |
-|  6  |    3d10    |         Flawless         |
-|  7  | 1d12, 2d10 |       Mastercraft       |
-|  8  | 2d12, 1d10 |          Fabled          |
-|  9  |    3d12    |           Epic           |
-|  10  | 1d20, 2d12 |        Legendary        |
-|  11  | 2d20, 1d12 |          Mythic          |
-|  12  |    3d20    |         Artifact         |
 
 ## Destiny Points
 
