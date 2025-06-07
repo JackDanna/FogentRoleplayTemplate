@@ -261,7 +261,7 @@ The Dice Pool of a Skill is determined as follows:
 - -1d for each decrement in a Governing Attribute Level below 0, assuming the Attribute governs the Skill
 - Plus/minus dice from any Effects that modify the Skill in question
 
-### Multiple Character Skill Check
+### Collaboration Skill Check
 
 Multiple characters may contribute to the same skill check. The Narrator should then evaluate the Challenge Level in the context of if multiple characters were performing it. All characters make their skill check, from which the average is taken, always rounding down to the nearest whole number. The average will then determine success or failure.
 
@@ -481,31 +481,6 @@ Finally, I add "Close Melee" as a Vocational Skill, as using a knife or blackjac
 | Infiltration Knowledge |      INT      | 2 | 6d6 |
 |      Close Melee      | STR, RFX, INT | 1 | 7d6 |
 
-### Chef Example
-
-Let's make a Chef vocation.
-
-Our Character has 1 STR, 1 RFX, 0 INT, and 0 CHA.
-
-We set our Chef Vocation to Level 3, meaning we are an expert chef.
-
-For the Governing Attributes of Chef, we take RFX and INT. RFX as chefs use their senses to smell, taste, and quick fine motor control of their hands. INT makes sense as they have to have a vast knowledge of recipes and flavor combinations.
-
-I add "Wine Tasting" as a Vocational Skill, as it is something a Chef would do. For it's Governing Attributes, I give it RFX and INT. RFX makes sense as a Chef would have to use their sense to smell and taste for the wine. INT makes sense as they'd have to have a vast knowledge of wine types and have knowledge of what were good years when the grapes were grown. We set it's Level to 3.
-
-I add "Chopping Food" as a Vocational Skill, as it is something a Chef would do. For it's Governing Attributes, I give it just RFX. RFX makes sense as they'd have to use fine motor control with their hands to chop quickly. We set it's level to 3.
-
-I add "Small Melee" as a Vocational Skill, as using knives in a kitchen would be something a Chef would do. This Vocational Skill could be disputed by a Narrator, as Chefs generally aren't stabbing people, but depending on how serious their setting is this might be fine. For it's Governing Attributes, I give it STR, RFX, and INT, as being stronger, faster, and smarter would all benefit this skill. We set it's level to Level 1.
-
-I try and add the "Reach Spear" Vocational Skill. I realized using a long spear is not something that a chef would do, so I can't add it under my vocation.
-
-|       Chef       |   RFX, INT   | 3 | 7d6 |
-| :--------------: | :-----------: | :-: | :-: |
-|   Wine Tasting   |   RFX, INT   | 3 | 7d6 |
-|  Chopping Food  |      RFX      | 3 | 7d6 |
-|   Close Melee   | STR, RFX, INT | 1 | 6d6 |
-| ~~Reach Melee~~ |              |  |    |
-
 ## Tied Contested Checks
 
 Contested Checks occur when two character's actions conflict. The most obvious example of this is fighting, though other examples include drinking contests, arm wrestling, or stealth vs perception.
@@ -532,29 +507,19 @@ A rogue and a knight are fighting each other in combat. The rogue has already us
 
 **Non-combat example:**
 
-Outside of combat, a rogue is trying to sneak up on a knight. The rogue rolls stealth and the knight rolls perception. They both get 2 wins. The guard thinks to himself that maybe it was just the wind as he peers into the darkness. The round holds his breath, heart pounding as he tries to remain motionless. They reroll to determine a clear winner.
+Outside of combat, a rogue is trying to sneak up on a knight. The rogue rolls stealth and the knight rolls perception. They both get 2 wins. The guard thinks to himself that maybe it was just the wind as he peers into the darkness. The rogue holds his breath, heart pounding as he tries to remain motionless. They reroll to determine a clear winner.
 
 ## Advantage and Disadvantage
 
-Advantage and Disadvantage represent circumstances that favor or disfavor a character, resulting in better or worse odds of achieving Wins on a dice pool roll.
+Advantage and Disadvantage represent circumstances that favor or disfavor a character, resulting in better or worse odds of achieving wins on a Dice Pool roll.
 
-### Advantage
+**Advantage** is gained when circumstance favors a character. For any dice rolled, 3's count as wins for that roll.
 
-Advantage is gained when circumstance favors a character. For any dice rolled, 3's count as wins for that roll.
+**Disadvantage** is gained when circumstance disfavors a character. For any dice rolled, 4's count as failures for that roll.
 
-### Disadvantage
+**Super Advantage** is gained under very specific conditions when the stars have aligned for a character. For any dice rolled, 3s and 2s count as wins for that roll.
 
-Disadvantage is gained when circumstance disfavors a character. For any dice rolled, 4's count as failures for that roll.
-
-### Super Advantage
-
-Gained under very specific conditions when the stars have aligned for a character. For any dice rolled, 3s and 2s count as wins for that roll.
-
-### Super Disadvantage
-
-Gained under very specific conditions when a character has truly drawn the short straw. For any dice rolled, 4's and 5's count as failures for that roll.
-
-### Super Advantage/Disadvantage overriding Advantage/Disadvantage
+**Super Disadvantage** is gained under very specific conditions when a character has truly drawn the short straw. For any dice rolled, 4's and 5's count as failures for that roll.
 
 Super Advantage/Disadvantage completely overrides Advantage and Disadvantage on any roll.
 
@@ -562,19 +527,19 @@ Super Advantage/Disadvantage completely overrides Advantage and Disadvantage on 
 
 For a given roll, one source of Advantage will cancel out with one source of Disadvantage, and vice versa.
 
-If after canceling out Advantage and Disadvantage a character is left with neither Advantage or Disadvantage, then they would roll normally. Else if a character is left with one or multiple sources of Advantage, then they would roll with Advantage. Else if a character is left with one or multiple sources of Disadvantage, then they would roll with Disadvantage.
+If after canceling out Advantage and Disadvantage a character is left with neither Advantage or Disadvantage, then they would roll normally. Otherwise, if a character is left with one or multiple sources of Advantage, then they would roll with Advantage. Finally, if a character is left with one or multiple sources of Disadvantage, then they would roll with Disadvantage.
 
 In the extreme case that a character has Super Advantage and Super Disadvantage, they cancel out the same way Advantage and Disadvantage do.
 
 ## Assists
 
-With Assists, a character can give Advantage (or if rolled poorly, Disadvantage) with an "assisting" Dice Pool Skill Check to a "primary" Dice Pool Skill Check. Characters can Assist themselves or another character. The "assisting" Dice Pools must be rolled first. The "assisting" Dice Pool can be a Skill or Vocation. The "primary" Dice Pool can be a Skill.
+With Assists, a character can give Advantage (or if rolled poorly, Disadvantage) with an "assisting" Dice Pool Skill Check to a "primary" Dice Pool Skill Check. Characters can Assist themselves or another character. The "assisting" Dice Pools must be rolled first.
 
 It must make logical sense to the Narrator as to why the "assisting" Dice Pool would aid the "primary" Dice Pool. Player's should recognize when they are stretching logic and Narrators should recognize when the player's come up with creative applications of Assists. It's up to the players and the Narrator to explain/negotiate how these assists make logical sense for the current circumstance.
 
-Assists can never use the same Skill for the "assisting" and "primary" Dice Pools. For instance, a character could never assist another character's Lift Check with their own Lift Check, they would instead use the Multiple Character Skill Check rules.
+Assists can never use the same Skill for the "assisting" and "primary" Dice Pools. For instance, a character could never assist another character's Lift Check with their own Lift Check, they would instead use the Collaboration Skill Check rules.
 
-Multiple characters can assist the same "primary" Dice Pool. If they are assisting using the same skill, then there assists rolls will use the Multiple Character Skill Check rules for that assist. If they are using different skills/vocations as assists, handle each assist roll separately before seeing if the resulting Advantages/Disadvantages cancel out, with whatever remains being applied to the "primary" Dice Pool.
+Multiple characters can assist the same "primary" Dice Pool. If they are assisting using the same skill, then there assists rolls will use the Collaboration Skill Check rules for that assist. If they are using different Skills as Assists, handle each assist roll separately before seeing if the resulting Advantages/Disadvantages cancel out, with whatever remains being applied to the "primary" Dice Pool.
 
 **The CL for Assists starts at CL 3 and should RARELY be lower than that.** However, it is up to the Narrator to decide if it should be higher than CL 3. In general, most Assists, unless extremely unlikely to aid the current situation, will be made at CL 3.
 
