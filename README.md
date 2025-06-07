@@ -734,7 +734,6 @@ If a foe has a sufficiently high Defense to certain Damage Types, then the best 
 |       Small Shield       |                           Shield                           | Indefinite | Innate |   1   |   1   |    1    |   1   |     0     |     0     |   0   |    0    |    0    |   0   |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
 |       Medium Shield       |                           Shield                           | Indefinite | Innate |   2   |   2   |    2    |   2   |     0     |     0     |   1   |    1    |    1    |   1   |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
 |       Large Shield       |                           Shield                           | Indefinite | Innate |   3   |   3   |    3    |   3   |     0     |     0     |   2   |    2    |    2    |   2   |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
-|      Massive Shield      |                           Shield                           | Indefinite | Innate |   4   |   4   |    4    |   4   |     4     |     4     |   4   |    4    |    4    |   4   |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
 
 ### Armor
 
