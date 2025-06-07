@@ -320,11 +320,34 @@ Core Skills are skills that cover the majority of what most creatures can perfor
 
 **Description:** Describes how the Core Skill can be used.
 
+## Vocation
+
+Vocations represent a character's job, class, or life path. A Player should check with the Narrator to make sure that their Vocation exists in the setting if they intend to use it. Some traditional fantasy example Vocations include Rogue, Knight, Wizard, Paladin, Cleric, etc... Other examples include Vagrant, Chef, or Sailor.
+
+|    Name    | Governing Attributes |                                                                                                                                    Vocational Skills                                                                                                                                    |                                                                         Description                                                                         |
+| :--------: | :------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  Fighter  |       STR, RFX       |                                                                  Hand Crossbow, Light Crossbow, Heavy Crossbow, Light Bow, Heavy Bow, Exotic Ranged, Close Melee, Medium Melee, Large Melee, Reach Melee, Exotic Melee                                                                  | Specializes in the use of Martial Weapons. This Vocation can serve as a template for building out other Martial Vocations like Rogue, Monk, Soldier, ect... |
+|   Druid   |       RFX, INT       |        Body Magic, Fire Magic, Water Magic, Electricity Magic, Earth Magic, Air Magic, Cold Magic, Nature Magic, Poison Magic, Soul Magic, Light Magic, Shadow Magic, Mind Magic, Magnetic Magic, Sound Magic, Blood Magic, Acid Magic, Time Magic, Teleport Magic, Force Magic        |                              Specializes in the use of Druidcraft, drawing upon a character's Nature Connection Resource Pool.                              |
+| Fellcaster |    STR, RFX, INT    | Polycraft, Blazecraft, Hydrocraft, Electrocraft, Terracraft, Galecraft, Cryocraft, Naturecraft, Toxincraft, Soulcraft, Shadowcraft, Mindcraft, Ferracraft, Sonocraft, Hemacraft, Spidercraft, Acidcraft, Warpcraft, Telekeneticraft, Blizzardcraft, Magmacraft, Plasmacraft, Stormcraft |      Specializes in the use of Fellcraft, biological magic from a character's monstrous ancestry, drawing upon a character's Fellblood Resource Pool.      |
+| Runesmith |       RFX, INT       |                    Fire Rune, Earth Rune, Water Rune, Air Rune, Electricity Rune, Cold Rune, Poison Rune, Blood Rune, Light Rune, Dark Rune, Sound Rune, Body Rune, Mind Rune, Soul Rune, Time Rune, Space Rune, Strength Rune, Gravity Rune, Nature Rune, Acid Rune                    |           Specializes in Runecraft, rune based magic by that tinkers with the fabric of reality, drawing upon a character's Focus Resource Pool.           |
+
+**Name:** The name of the Vocation.
+
+**Governing Attributes:** The Attributes that govern the Vocation in question. A Vocation can have one or many Governing Attributes that logically would govern it. Determining what Governing Attributes a Vocational Skill will have is ultimately up to the Narrator. In general, if it is logical that some change to an Attribute would meaningfully benefit/hurt the Vocation in question, than it should be added.
+
+**Vocational Skills:** These are the Vocational Skills that this Vocation enable the use of.
+
+**Description:** Describes what the Vocation is.
+
 ## Vocational Skill
 
-A Vocational Skill is a Skill that fall under a Vocation. They have their levels capped by the level of the Vocation they fall under. For instance, if a character had a level 2 Vocation, any Vocational Skill under it couldn't increase above level 2 until its Vocation level increased.
+A Vocational Skill is a Skill that fall under a Vocation. The Skill Level of a Vocational Skill cannot exceed the Vocation Level of the Vocation it falls under.
 
-In general, most weapon combat Vocational Skill are governed by STR, RFX, and INT. Being stronger, faster, and smarter is almost always better when fighting.
+**Name:** This is the name of the Vocational Skill.
+
+**Governing Attributes:** The Attributes that govern the Vocational Skill in question. A Vocational Skill can have one or many Governing Attributes that logically would govern it, which can differ from the Vocation's Governing Attributes. Determining what Governing Attributes a Vocational Skill will have is ultimately up to the Narrator. In general, if it is logical that some change to an Attribute would meaningfully benefit/hurt the skill in question, than it should be added.
+
+**Description:** Describes how the Vocational Skill can be used.
 
 |       Name       | Governing Attributes |                                   Decription                                   |
 | :---------------: | :------------------: | :-----------------------------------------------------------------------------: |
@@ -419,12 +442,6 @@ In general, most weapon combat Vocational Skill are governed by STR, RFX, and IN
 |    Nature Rune    |       RFX, INT       |                               No description yet.                               |
 |     Acid Rune     |       RFX, INT       |                               No description yet.                               |
 
-**Name:** This is the name of the Vocational Skill.
-
-**Governing Attributes:** The Attributes that govern the Vocational Skill in question. A Vocational Skill can have one or many Governing Attributes that logically would govern it, which can differ from the Vocation's Governing Attributes. Determining what Governing Attributes a Vocational Skill will have is ultimately up to the Narrator. In general, if it is logical that some change to an Attribute would meaningfully benefit/hurt the skill in question, than it should be added.
-
-**Description:** Describes how the Vocational Skill can be used.
-
 Vocational Skills can often resolve in a single roll what without it would turn into a sequence of possibly more difficult Core Skill checks, which opens up more possibilities for failure.
 
 For example, a Warrior and Rogue are trying to pickpocket a letter from a courier. The Warrior wants to try first, so the Narrator has the Warrior describe how he will accomplish this. The Warrior first say he will try to determine the optimal spot along the courier's path to get close without raising suspicion, then he will roughly bump into the courier feigning an apology and help while picking up the now scattered letters, and finally quickly swiping and pocketting the letter in question before the courier can notice. The Narrator first asks the Warrior to make a series of checks starting with a Knowledge Check, than a Deception Check, and finally a Dexterity check. If at any point during the checks, if the Warrior had failed a check his plan could've been ruined. However, if the Rogue has the Pickpocketing Vocational Skill, he would have had to only roll one check in a Skill he is likely more proficient at since he didn't have to invest into 3 different Skills.
@@ -441,25 +458,6 @@ When determining what a Vocational Skill's Governing Attributes would be, it is 
 |    Baker    |                                              Baking (Dexterity and Knowledge)                                              |                              Baking (RFX, INT)                              |
 | Black Smith |                                        Forging (Endurance, Dexterity, and Knowledge)                                        |                           Forging (STR, RFX, INT)                           |
 |  Merchant  |                                               Trading (Knowledge, Persuasion)                                               |                              Trading(INT, CHA)                              |
-
-## Vocation
-
-Vocations represent a character's job, class, or life path. A Player should check with the Narrator to make sure that their Vocation exists in the setting if they intend to use it. Some traditional fantasy example Vocations include Rogue, Knight, Wizard, Paladin, Cleric, etc... Other examples include Vagrant, Chef, or Sailor.
-
-|    Name    | Governing Attributes |                                                                                                                                    Vocational Skills                                                                                                                                    |                                                                         Description                                                                         |
-| :--------: | :------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  Fighter  |       STR, RFX       |                                                                  Hand Crossbow, Light Crossbow, Heavy Crossbow, Light Bow, Heavy Bow, Exotic Ranged, Close Melee, Medium Melee, Large Melee, Reach Melee, Exotic Melee                                                                  | Specializes in the use of Martial Weapons. This Vocation can serve as a template for building out other Martial Vocations like Rogue, Monk, Soldier, ect... |
-|   Druid   |       RFX, INT       |        Body Magic, Fire Magic, Water Magic, Electricity Magic, Earth Magic, Air Magic, Cold Magic, Nature Magic, Poison Magic, Soul Magic, Light Magic, Shadow Magic, Mind Magic, Magnetic Magic, Sound Magic, Blood Magic, Acid Magic, Time Magic, Teleport Magic, Force Magic        |                              Specializes in the use of Druidcraft, drawing upon a character's Nature Connection Resource Pool.                              |
-| Fellcaster |    STR, RFX, INT    | Polycraft, Blazecraft, Hydrocraft, Electrocraft, Terracraft, Galecraft, Cryocraft, Naturecraft, Toxincraft, Soulcraft, Shadowcraft, Mindcraft, Ferracraft, Sonocraft, Hemacraft, Spidercraft, Acidcraft, Warpcraft, Telekeneticraft, Blizzardcraft, Magmacraft, Plasmacraft, Stormcraft |      Specializes in the use of Fellcraft, biological magic from a character's monstrous ancestry, drawing upon a character's Fellblood Resource Pool.      |
-| Runesmith |       RFX, INT       |                    Fire Rune, Earth Rune, Water Rune, Air Rune, Electricity Rune, Cold Rune, Poison Rune, Blood Rune, Light Rune, Dark Rune, Sound Rune, Body Rune, Mind Rune, Soul Rune, Time Rune, Space Rune, Strength Rune, Gravity Rune, Nature Rune, Acid Rune                    |           Specializes in Runecraft, rune based magic by that tinkers with the fabric of reality, drawing upon a character's Focus Resource Pool.           |
-
-**Name:** The name of the Vocation.
-
-**Governing Attributes:** The Attributes that govern the Vocation in question. A Vocation can have one or many Governing Attributes that logically would govern it. Determining what Governing Attributes a Vocational Skill will have is ultimately up to the Narrator. In general, if it is logical that some change to an Attribute would meaningfully benefit/hurt the Vocation in question, than it should be added.
-
-**Vocational Skills:** These are the Vocational Skills that this Vocation enable the use of.
-
-**Description:** Describes what the Vocation is.
 
 ### Vocation Level
 
