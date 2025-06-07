@@ -539,29 +539,29 @@ It must make logical sense to the Narrator as to why the "assisting" Dice Pool w
 
 Assists can never use the same Skill for the "assisting" and "primary" Dice Pools. For instance, a character could never assist another character's Lift Check with their own Lift Check, they would instead use the Collaboration Skill Check rules.
 
-Multiple characters can assist the same "primary" Dice Pool. If they are assisting using the same skill, then there assists rolls will use the Collaboration Skill Check rules for that assist. If they are using different Skills as Assists, handle each assist roll separately before seeing if the resulting Advantages/Disadvantages cancel out, with whatever remains being applied to the "primary" Dice Pool.
+Multiple characters can assist the same "primary" Dice Pool. If they are assisting using the same Skill their assists rolls will use the Collaboration Skill Check rules for that assist. If they are using different Skills as Assists, handle each assist roll separately before seeing if the resulting Advantages/Disadvantages cancel out, with whatever remains being applied to the "primary" Dice Pool.
 
 **The CL for Assists starts at CL 3 and should RARELY be lower than that.** However, it is up to the Narrator to decide if it should be higher than CL 3. In general, most Assists, unless extremely unlikely to aid the current situation, will be made at CL 3.
 
-If the "assisting" Dice Pool achieved more Wins than the Assist CL, Advantage is gained on the "primary" Dice Pool. If the "assisting" Dice Pool achieved Wins equal to the Assist CL, neither advantage or disadvantage is gained on the "primary" Dice Pool. If the Assist check achieved fewer Wins than the Assists CL, Disadvantage is gained on the "primary" Dice Pool.
+If the "assisting" Dice Pool achieved more wins than the Assist CL, Advantage is gained on the "primary" Dice Pool. If the "assisting" Dice Pool achieved Wins equal to the Assist CL, neither Advantage or Disadvantage is gained on the "primary" Dice Pool. If the Assist check achieved fewer wins than the Assists CL, Disadvantage is gained on the "primary" Dice Pool.
 
 **Example 1:**
 
 Thrak the Barbarian is trying to lift a big rock. Bob the Bard decides he is going to play some motivational music on his guitar to Assist Thrak. In this example, Thrak's Lift is the "primary" Dice Pool and Bob's Performance Vocational Skill is the "assisting" Dice Pool.
 
-The Narrator agrees as it makes logical sense. The Narrator sets a CL 3 Performance Check for the assists. Bob rolls his Performance Vocational skill and gets 4 wins, resulting in Advantage for Thrak's Lift Check. In a parallel reality, Bob only gets 3 wins, and his song doesn't help or hurt Thrak's Check. In another parallel reality, Bob only gets 2 wins on his Performance Check, which produces such horrible music it distracts Thrak resulting in Disadvantage to Thrak's Lift Check.
+The Narrator agrees as it makes logical sense. The Narrator sets a CL 3 Performance Check for the Assists. Bob rolls his Performance Vocational skill and gets 4 wins, resulting in Advantage for Thrak's Lift Check. In a parallel reality, Bob only gets 3 wins, and his song doesn't help or hurt Thrak's Check. In another parallel reality, Bob only gets 2 wins on his Performance Check, which produces such horrible music it distracts Thrak resulting in Disadvantage to Thrak's Lift Check.
 
 **Example 2:**
 
-Javk Wick the rogue is sneaking up on a guard. Javk's player asks the Narrator if he could assist his Stealth check to sneak up with his Rogue Vocation. He asks the Narrator if he could Assist his Stealth check with his Rogue Vocation since being a good Rogue would aid his sneakiness. In this example, Stealth is the "primary" Dice Pool and Rogue is the "assisting" Dice Pool.
+Javk Wick the rogue is sneak his way into a guarded castle. Javk's player asks the Narrator if he could assist his Stealth check to sneak up with his Infiltration Knowledge Vocational Skill. In this example, Stealth is the "primary" Dice Pool and Infiltration Knowledge is the "assisting" Dice Pool.
 
 The Narrator agrees as it makes logical sense. The Narrator sets the CL of the Assist at 3. Javk gets 4 Wins from his Assist, giving him advantage on his Stealth check.
 
 **Example 3:**
 
-Javk Wick the rogue is in combat. He wants to do some fancy foot work combined with acrobatic maneuvers to give him an edge as he uses his dagger in a melee clash as slippery oil patches cover the floor. Javk's player asks the Narrator if he could assist his dagger's combat roll with his Dexterity skill. In this example, Dexterity is the "primary" Dice Pool and the dagger's combat roll is the "assisting" Dice Pool.
+Javk Wick the rogue is in combat. Javk and his enemy are in melee combat and the ground is covered in oil. The Narrator declares that anyone standing in the slick oil has Disadvantage on their combat roll. Javk's player asks the Narrator if he could Assist his combat roll with his dagger with Dexterity. Javk's player wants to use his character's balance and fancy foot work to nullify the Disadvantage from the slippery oil.
 
-The Narrator agrees, setting the assist to CL 3 due to the slippery oil patches cover the floor. Javk gets 4 Wins from his Assist, giving him advantage on his dagger's combat roll.
+The Narrator agrees, setting the Assist to CL 3 due to the slippery oil patches cover the floor. Javk gets 4 Wins from his Assist, giving him advantage on his dagger's combat roll. The Advantage and Disadvantage cancel out leaving him with a normal roll.
 
 |         Name         |                                                                                                                                                                   Description                                                                                                                                                                   | Duration |        Source        |
 | :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :-------------------: |
