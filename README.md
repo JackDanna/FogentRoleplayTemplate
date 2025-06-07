@@ -118,7 +118,7 @@ After the Dice Pool has been rolled, the amount of "wins" from the roll are coun
 |    D12    |        75%        |
 |    D20    |        85%        |
 
-All Dice Pools start with Base Dice. Base Dice are always represented by 3 dice. By default Base Dice for Dice Pools start at Tier 0.
+Base Dice make up that base of every Dice Pool. Base Dice are always represented by 3 dice. By default Base Dice start at Tier 0.
 
 | Tier | Base Dice | Item Quality Description |
 | :--: | :--------: | :----------------------: |
