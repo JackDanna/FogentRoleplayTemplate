@@ -475,23 +475,25 @@ Vocation Level measures how good a character is at a specific vocation. Vocation
 |   4   |   Master   |
 |   5   |   Legend   |
 
-### Rogue Example
+### Example of creating a Vocation
 
 Let's make a Rogue vocation.
-
-Our character has 0 STR, 1 RFX, 1 INT, and 0 CHA.
 
 We set our "Rogue" Vocation to Level 2, meaning we are an Adept Rogue.
 
 For the Governing Attributes of Rogue, we take RFX, INT, and CHA as our vocation would benefit from us being dexterous, cunning, and charming.
 
-I add "Lockpicking" as a Vocational Skill as it is something a Rogue would do. For it's Governing Attributes I give it RFX and INT, as being nimble with my fingers and understanding the mechanics of the lock would benefit this skill. We set it's level to Level 2.
+We add "Lockpicking" as a Vocational Skill as it is something a Rogue would do. For it's Governing Attributes I give it RFX and INT, as being nimble with my fingers and understanding the mechanics of the lock would benefit this skill. We set it's level to Level 2.
 
-I add "Pickpocketing" as a Vocational Skill as it is something a Rogue would do. For it's Governing Attributes I give it RFX, INT, and CHA as being nimble with my fingers, planning the perfect place to intercept the target, and using deceptive misdirection would benefit this Skill. We set it's level to Level 2.
+We add "Pickpocketing" as a Vocational Skill as it is something a Rogue would do. For it's Governing Attributes I give it RFX, INT, and CHA as being nimble with my fingers, planning the perfect place to intercept the target, and using deceptive misdirection would benefit this Skill. We set it's level to Level 2.
 
-I add "Infiltration Knowledge" as a Vocational Skill, as it is something a Rogue would do. For it's Governing Attributes, I give it just INT, as being more cunning would aid me as I lay out my plan. We set it's Level to Level 2.
+We add "Infiltration Knowledge" as a Vocational Skill, as it is something a Rogue would do. For it's Governing Attributes, I give it just INT, as being more cunning would aid me as I lay out my plan. We set it's Level to Level 2.
 
-Finally, I add "Close Melee" as a Vocational Skill, as using a knife or blackjack would be something a Rogue would do. For it's Governing Attributes, I give it STR, RFX, and INT, as being stronger, faster, and smarter would all benefit this skill. We set it's level to Level 1.
+We add "Close Melee" as a Vocational Skill, as using a knife or blackjack would be something a Rogue would do. For it's Governing Attributes, I give it STR, RFX, and INT, as being stronger, faster, and smarter would all benefit this skill. We set it's level to Level 1.
+
+Finally, I try to add "Fire Magic" as a Vocational Skill. After talking with the Narrator, we determine this is way outside of the scope of what a Rogue can do in their world. If we wanted a "Fire Magic" Vocational Skill, we'd have to spec into a Vocation like "Wizard" or "Mage".
+
+Our character has 0 STR, 1 RFX, 1 INT, and 0 CHA.
 
 |         Rogue         | RFX, INT, CHA | 2 | 7d6 |
 | :--------------------: | :-----------: | :-: | :-: |
