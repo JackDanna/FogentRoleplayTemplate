@@ -254,12 +254,12 @@ Skill Level measures how good a character is at a specific skill.
 
 The Dice Pool of a Skill is determined as follows:
 
-- Base Dice, which are generally 3d6 but can vary based Effects
+- Base Dice, which are generally 3d6 but can vary based on Effects
 - +1d6 for each increament in Skill Level above 0
 - -1d for each decrement in Skill Level below if below 0
-- +1d6 for each increament in a Governing Attribute Level above 0, assuming the Attribute governs the skill
-- -1d for each decrement in Governing Attribute Level below 0, assuming the Attribute governs the skill
-- Plus/minus dice from any Effects that modify the skill in question
+- +1d6 for each increament in a Governing Attribute Level above 0, assuming the Attribute governs the Skill
+- -1d for each decrement in a Governing Attribute Level below 0, assuming the Attribute governs the Skill
+- Plus/minus dice from any Effects that modify the Skill in question
 
 ### Multiple Character Skill Check
 
