@@ -7,5 +7,6 @@ Death Blow Injury,-5d to STR/RFX/INT/CHA governed Dice Pools. The injury causes 
 ,,,,,
 Weight Class: Light,-0d to STR/RFX governed Dice Pools,Indefinite,0% =< Equipment Weight <= 25% of Carry Weight,"STR, RFX",-0d
 Weight Class: Medium,-1d to STR/RFX governed Dice Pools,Indefinite,25% < Equipment Weight <= 50% of Carry Weight,"STR, RFX",-1d
-Weight Class: Heavy,-2d to STR/RFX governed Dice Pools,Indefinite,50% < Equipment Weight <= 100% of Carry Weight,"STR, RFX",-2d
+Weight Class: Heavy,-2d to STR/RFX governed Dice Pools,Indefinite,50% < Equipment Weight <= 75% of Carry Weight,"STR, RFX",-2d
+Weight Class: Very Heavy,-3d to STR/RFX governed Dice Pools,Indefinite,75% < Equipment Weight <= 100% of Carry Weight,"STR, RFX",-3d
 Weight Class: Overburdened,-4d to STR/RFX governed Dice Pools,Indefinite,100% < Equipment Weight of Carry Weight,"STR, RFX",-4d
