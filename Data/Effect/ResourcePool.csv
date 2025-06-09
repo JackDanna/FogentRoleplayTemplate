@@ -29,9 +29,10 @@ Destiny Chosen,Destiny Point Cap set to 6. Gain an additional Destiny Point when
 HP Pool,,,,HP,10,10,FALSE
 HP Pool with Cap,,,,HP,10,None,FALSE
 ,,,,,,,
-Nature Connection Pool,,,,Nature Connection,10,Nature Connection Resource Pool Max,FALSE
-Fellblood Pool,,,,Fellblood,10,Fellblood Resource Pool Max,FALSE
-Focus Pool,,,,Focus,10,Focus Resource Pool Max,FALSE
+Nature Connection Pool,,Innate,Indefinite,Nature Connection,10,Nature Connection Resource Pool Max,FALSE
+Fellblood Pool,,Innate,Indefinite,Fellblood,10,Fellblood Resource Pool Max,FALSE
+Focus Pool,,Innate,Indefinite,Focus,10,Focus Resource Pool Max,FALSE
+Ichor Pool,,Innate,Indefinite,Ichor,10,Ichor Resource Pool Max,FALSE
 ,,,,,,,
 Resource Pool: Thrown Small Slash Melee -1,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Small Slash Melee -1,1,None,TRUE
 Resource Pool: Thrown Small Slash Melee +0,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Small Slash Melee +0,1,None,TRUE
