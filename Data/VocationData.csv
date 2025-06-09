@@ -3,7 +3,7 @@ Fighter,"STR, RFX","Hand Crossbow, Light Crossbow, Heavy Crossbow, Light Bow, He
 Druid,"RFX, INT","Body Magic, Fire Magic, Water Magic, Electricity Magic, Earth Magic, Air Magic, Cold Magic, Nature Magic, Poison Magic, Soul Magic, Light Magic, Shadow Magic, Mind Magic, Magnetic Magic, Sound Magic, Blood Magic, Acid Magic, Time Magic, Teleport Magic, Force Magic","Specializes in the use of Druidcraft, drawing upon a character's Nature Connection Resource Pool."
 Fellcaster,"STR, RFX, INT","Polycraft, Blazecraft, Hydrocraft, Electrocraft, Terracraft, Galecraft, Cryocraft, Naturecraft, Toxincraft, Soulcraft, Shadowcraft, Mindcraft, Ferracraft, Sonocraft, Hemacraft, Spidercraft, Acidcraft, Warpcraft, Telekeneticraft, Blizzardcraft, Magmacraft, Plasmacraft, Stormcraft","Specializes in the use of Fellcraft, biological magic from a character's monstrous ancestry, drawing upon a character's Fellblood Resource Pool."
 Runesmith,"RFX, INT","Fire Rune, Earth Rune, Water Rune, Air Rune, Electricity Rune, Cold Rune, Poison Rune, Blood Rune, Light Rune, Dark Rune, Sound Rune, Body Rune, Mind Rune, Soul Rune, Time Rune, Space Rune, Strength Rune, Gravity Rune, Nature Rune, Acid Rune","Specializes in Runecraft, rune based magic by that tinkers with the fabric of reality, drawing upon a character's Focus Resource Pool."
-Brightkin,"STR, RFX, INT, CHA","Blessing, Radiance",
+Brightkin,"STR, RFX, INT, CHA","Blessing, Radiance","Specializes in the use of Miracles, drawing upon a charater's innate Ichor Resource Pool."
 ,,,
 Smith,"STR, RFX, INT",Smithing,
 Rogue,"RFX, INT, CHA","Criminal Knowledge, Hand Crossbow, Light Crossbow, Heavy Crossbow, Light Bow, Heavy Bow, Exotic Ranged, Close Melee, Medium Melee, Large Melee, Reach Melee, Exotic Melee",
