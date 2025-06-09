@@ -656,40 +656,34 @@ These rolls may be used in situations of great intensity to help the Narrator gu
 
 ## Damage Types
 
-|    Name    |                                     Description                                     | Defending Skill |
-| :---------: | :---------------------------------------------------------------------------------: | :-------------: |
-|    Slash    | Caused by pushing or drawing a bladed edge to produce the force necessary to slice. |      None      |
-|   Pierce   |                             Caused by pointed objects.                             |      None      |
-|  Bludgeon  |                               Caused by blunt force.                               |      None      |
-|     Hew     |  Caused by the pressing of a bladed edge to produce the force necessary to shear.  |      None      |
-|  Ballistic  |                          Caused by bullets from firearms.                          |      None      |
-|  Shockwave  |                          Caused by shock waves and sound.                          |      None      |
-|    Fire    |                        Caused by intense heat or combustion.                        |      None      |
-|  Electric  |                Caused by lightning or other sources of electricity.                |      None      |
-|   Radiant   |                  Caused specifically by divine power or sunlight.                  |      None      |
-|    Acid    |                           Caused by corrosive substances.                           |      None      |
-|    Cold    |                        Caused by extremely low temperatures.                        |    Endurance    |
-|   Silver   |                            Caused by a Silvered weapon.                            |    Endurance    |
-|   Poison   |                            Caused by poisons or toxins.                            |    Endurance    |
-|  Necrotic  |                         Caused by rot, decay, and undeath.                         |    Endurance    |
-|    Bleed    |                            Caused by the loss of blood.                            |    Endurance    |
-| Suffocation |               Caused by the lack of breathable air such as drowning.               |    Endurance    |
-|   Psychic   |                              Caused by mental trauma.                              |      Will      |
-|  Spiritual  |           Caused by spiritual sources such as ghosts or divine entities.           |      Will      |
+Damage Types are the various sources a character can recieve an injury from.
 
-### Defending Skill
-
-Certain Damage Types can be defended against with a skill check.
-
-Wins determined by a Defending Skill Check plus any Defense you might have against this specific damage source act as your Total Defense against that injury.
-
-The character may also abstain from rolling, choosing to take the average number of wins given the size of the dice pool. This can be calculated by dividing the number of dice rolled by 2 and then rounding down.
+|   Name   |                                     Description                                     |
+| :-------: | :---------------------------------------------------------------------------------: |
+|   Slash   | Caused by pushing or drawing a bladed edge to produce the force necessary to slice. |
+|  Pierce  |                             Caused by pointed objects.                             |
+| Bludgeon |                               Caused by blunt force.                               |
+|    Hew    |  Caused by the pressing of a bladed edge to produce the force necessary to shear.  |
+| Ballistic |                          Caused by bullets from firearms.                          |
+| Shockwave |                          Caused by shock waves and sound.                          |
+|   Fire   |                        Caused by intense heat or combustion.                        |
+| Electric |                Caused by lightning or other sources of electricity.                |
+|  Radiant  |                  Caused specifically by divine power or sunlight.                  |
+|   Acid   |                           Caused by corrosive substances.                           |
+|   Cold   |                        Caused by extremely low temperatures.                        |
+|  Silver  |                            Caused by a Silvered weapon.                            |
+|  Poison  |                            Caused by poisons or toxins.                            |
+| Necrotic |                         Caused by rot, decay, and undeath.                         |
+|   Bleed   |                            Caused by the loss of blood.                            |
+|  Fatigue  |   Caused by the lack of nutrition, rest, drinkable water, breathable air, ect...   |
+|  Psychic  |                              Caused by mental trauma.                              |
+| Spiritual |           Caused by spiritual sources such as ghosts or divine entities.           |
 
 ## Defense
 
 Defense is used to reduce incoming injuries from specific Damage Types by the equivalent amount of Defense against it. If a character has multiple Defenses, then add the values of the Defenses together for each Damage Type to get their Total Defense. If a Totaled Defense to a specific Damage Type has a decimal place remainder, you'll round it down to the nearest whole number when reducing an injury with it.
 
-If a foe has a sufficiently high Defense to certain Damage Types, then the best course of action is to circumvent it. For instance, a knight in full Plate Armor is extremely difficult to injury with Slash damage. In these circumstances, the most efficient way of defeating a person in heavy armor is grappling them or tripping them and holding them down, just like in real life. Another option is to use an attack with a different Damage Type, such as spraying poison mist at them, to completely circumvent there high Slash defense.
+If a foe has a sufficiently high Defense to certain Damage Types, then the best course of action is to circumvent it. For instance, a knight in full plate armor is extremely difficult to injury with Slash damage. In these circumstances, the most efficient way of defeating a person in heavy armor is grappling them or tripping them and holding them down, just like in real life. Another option is to use an attack with a different Damage Type, such as spraying poison mist at them, to completely circumvent there high Slash defense.
 
 |           Name           |                        Description                        |  Duration  | Source | Slash | Pierce | Bludgeon |  Hew  | Ballistic | Shockwave | Fire | Electric | Radiant | Acid | Cold | Silver | Poison | Necrotic | Bleed | Suffocation | Psychic | Spiritual |
 | :-----------------------: | :--------------------------------------------------------: | :--------: | :----: | :---: | :----: | :------: | :---: | :-------: | :-------: | :---: | :------: | :-----: | :---: | :--: | :----: | :----: | :------: | :---: | :---------: | :-----: | :-------: |
@@ -729,6 +723,14 @@ If a foe has a sufficiently high Defense to certain Damage Types, then the best 
 |       Small Shield       |                           Shield                           | Indefinite | Innate |   1   |   1   |    1    |   1   |     0     |     0     |   0   |    0    |    0    |   0   |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
 |       Medium Shield       |                           Shield                           | Indefinite | Innate |   2   |   2   |    2    |   2   |     0     |     0     |   1   |    1    |    1    |   1   |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
 |       Large Shield       |                           Shield                           | Indefinite | Innate |   3   |   3   |    3    |   3   |     0     |     0     |   2   |    2    |    2    |   2   |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
+
+### Defending Skill
+
+Certain Damage Types can be defended against with a skill check.
+
+Wins determined by a Defending Skill Check plus any Defense you might have against this specific damage source act as your Total Defense against that injury.
+
+The character may also abstain from rolling, choosing to take the average number of wins given the size of the dice pool. This can be calculated by dividing the number of dice rolled by 2 and then rounding down.
 
 ### Armor
 
