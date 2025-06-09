@@ -24,6 +24,39 @@ Small Guns,"STR, RFX, INT","Covers combat activities related using a Handgun, Su
 Medium Guns,"STR, RFX, INT","Covers combat activities related using a Rifle, ect...",None,None
 Heavy Guns,"STR, RFX, INT","Covers combat activities related using a Machine Gun, Rocket launcher, ect...",None,None
 ,,,,
+Body Magic,"RFX, INT",No description yet.,"Slash, Bludgeon, Hew, Pierce",Mana
+Fire Magic,"RFX, INT",No description yet.,Fire,Mana
+Water Magic,"RFX, INT",No description yet.,"Fatigue, Slash, Bludgeon, Pierce",Mana
+Electricity Magic,"RFX, INT",No description yet.,Electric,Mana
+Earth Magic,"RFX, INT",No description yet.,"Slash, Bludgeon, Hew, Pierce",Mana
+Air Magic,"RFX, INT",No description yet.,"Slash, Bludgeon, Shockwave",Mana
+Cold Magic,"RFX, INT",No description yet.,Cold,Mana
+Nature Magic,"RFX, INT",No description yet.,"Slash, Bludgeon, Pierce",Mana
+Poison Magic,"RFX, INT",No description yet.,Poison,Mana
+Soul Magic,"RFX, INT",No description yet.,Spiritual,Mana
+Light Magic,"RFX, INT",No description yet.,Radiant,Mana
+Shadow Magic,"RFX, INT",No description yet.,Necrotic,Mana
+Mind Magic,"RFX, INT",No description yet.,Psychic,Mana
+Magnetic Magic,"RFX, INT",No description yet.,"Slash, Bludgeon, Hew, Pierce",Mana
+Sound Magic,"RFX, INT",No description yet.,Shockwave,Mana
+Blood Magic,"RFX, INT",No description yet.,Bleed,Mana
+Acid Magic,"RFX, INT",No description yet.,Acid,Mana
+Time Magic,"RFX, INT",No description yet.,,Mana
+Teleport Magic,"RFX, INT",No description yet.,,Mana
+Force Magic,"RFX, INT",No description yet.,"Slash, Bludgeon, Hew, Pierce",Mana
+,,,,
+Shapeshifting Druidcraft,"RFX, INT",No description yet.,"Slash, Bludgeon, Hew, Pierce",Nature Connection
+Fire Druidcraft,"RFX, INT",No description yet.,Fire,Nature Connection
+Water Druidcraft,"RFX, INT",No description yet.,"Fatigue, Slash, Bludgeon, Pierce",Nature Connection
+Lightning Druidcraft,"RFX, INT",No description yet.,Electric,Nature Connection
+Earth Druidcraft,"RFX, INT",No description yet.,"Slash, Bludgeon, Hew, Pierce",Nature Connection
+Air Druidcraft,"RFX, INT",No description yet.,"Slash, Bludgeon, Shockwave",Nature Connection
+Cold Druidcraft,"RFX, INT",No description yet.,Cold,Nature Connection
+Plant Druidcraft,"RFX, INT",No description yet.,"Slash, Bludgeon, Pierce, Poison",Nature Connection
+Solar Druidcraft,"RFX, INT",No description yet.,Radiant,Nature Connection
+Lunar Druidcraft,"RFX, INT",No description yet.,Necrotic,Nature Connection
+Thunder Druidcraft,"RFX, INT",No description yet.,Shockwave,Nature Connection
+,,,,
 Polycraft,"STR, RFX, INT",No description yet.,"Slash, Bludgeon, Hew, Pierce",Fellblood
 Blazecraft,"STR, RFX, INT",No description yet.,Fire,Fellblood
 Hydrocraft,"STR, RFX, INT",No description yet.,"Fatigue, Slash, Bludgeon, Pierce",Fellblood
@@ -47,27 +80,6 @@ Plasmacraft,"STR, RFX, INT",No description yet.,Fire,Fellblood
 Stormcraft,"STR, RFX, INT",No description yet.,"Electric, Shockwave",Fellblood
 Magmacraft,"STR, RFX, INT",No description yet.,"Fire, Bludgeon",Fellblood
 Blizzardcraft,"STR, RFX, INT",No description yet.,"Cold, Slash, Bludgeon, Pierce",Fellblood
-,,,,
-Body Magic,"RFX, INT",No description yet.,"Slash, Bludgeon, Hew, Pierce",Nature Connection
-Fire Magic,"RFX, INT",No description yet.,Fire,Nature Connection
-Water Magic,"RFX, INT",No description yet.,"Fatigue, Slash, Bludgeon, Pierce",Nature Connection
-Electricity Magic,"RFX, INT",No description yet.,Electric,Nature Connection
-Earth Magic,"RFX, INT",No description yet.,"Slash, Bludgeon, Hew, Pierce",Nature Connection
-Air Magic,"RFX, INT",No description yet.,"Slash, Bludgeon, Shockwave",Nature Connection
-Cold Magic,"RFX, INT",No description yet.,Cold,Nature Connection
-Nature Magic,"RFX, INT",No description yet.,"Slash, Bludgeon, Pierce",Nature Connection
-Poison Magic,"RFX, INT",No description yet.,Poison,Nature Connection
-Soul Magic,"RFX, INT",No description yet.,Spiritual,Nature Connection
-Light Magic,"RFX, INT",No description yet.,Radiant,Nature Connection
-Shadow Magic,"RFX, INT",No description yet.,Necrotic,Nature Connection
-Mind Magic,"RFX, INT",No description yet.,Psychic,Nature Connection
-Magnetic Magic,"RFX, INT",No description yet.,"Slash, Bludgeon, Hew, Pierce",Nature Connection
-Sound Magic,"RFX, INT",No description yet.,Shockwave,Nature Connection
-Blood Magic,"RFX, INT",No description yet.,Bleed,Nature Connection
-Acid Magic,"RFX, INT",No description yet.,Acid,Nature Connection
-Time Magic,"RFX, INT",No description yet.,,Nature Connection
-Teleport Magic,"RFX, INT",No description yet.,,Nature Connection
-Force Magic,"RFX, INT",No description yet.,"Slash, Bludgeon, Hew, Pierce",Nature Connection
 ,,,,
 Fire Rune,"RFX, INT",No description yet.,Fire,Focus
 Earth Rune,"RFX, INT",No description yet.,"Slash, Bludgeon, Hew, Pierce",Focus
