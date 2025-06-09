@@ -332,19 +332,21 @@ Vocations represent a character's job, class, or life path. A Player should chec
 
 **Description:** Describes what the Vocation is.
 
-|    Name    | Governing Attributes |                                                                                                                                    Vocational Skills                                                                                                                                    |                                                                   Description                                                                   |
-| :--------: | :------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: |
-|  Warrior  |    STR, RFX, INT    |                                                        Hand Crossbow, Light Crossbow, Heavy Crossbow, Light Bow, Heavy Bow, Exotic Ranged, Close Melee, Medium Melee, Large Melee, Reach Melee, Exotic Melee, Warrior Knowledge                                                        |                                             A battle-hardened fighter who excels in martial combat.                                             |
-|   Rogue   |    RFX, INT, CHA    |                                                         Hand Crossbow, Light Crossbow, Heavy Crossbow, Light Bow, Heavy Bow, Exotic Ranged, Close Melee, Medium Melee, Large Melee, Reach Melee, Exotic Melee, Rogue Knowledge                                                         |                                              A cunning and agile specialist who thrives in shadows.                                              |
-|   Wizard   |       RFX, INT       |        Body Magic, Fire Magic, Water Magic, Electricity Magic, Earth Magic, Air Magic, Cold Magic, Nature Magic, Poison Magic, Soul Magic, Light Magic, Shadow Magic, Mind Magic, Magnetic Magic, Sound Magic, Blood Magic, Acid Magic, Time Magic, Teleport Magic, Force Magic        |                                             A scholar of the arcane arts, wielding powerful spells.                                             |
-|   Druid   |    RFX, INT, CHA    |                                     Shapeshifting Druidcraft, Fire Druidcraft, Water Druidcraft, Lightning Druidcraft, Earth Druidcraft, Air Druidcraft, Cold Druidcraft, Plant Druidcraft, Solar Druidcraft, Lunar Druidcraft, Thunder Druidcraft                                     |                                  A mystical wielder of nature’s power, shaping the world through primal magic.                                  |
-|            |                      |                                                                                                                                                                                                                                                                                        |                                                                                                                                                  |
-|   Smith   |    STR, RFX, INT    |                                                                                                                                        Smithing                                                                                                                                        |                                                                                                                                                  |
-|  Scholar  |       INT, CHA       |                                                                                                                           Performance, Homesteading, Drawing                                                                                                                           |                                                                                                                                                  |
-|            |                      |                                                                                                                                                                                                                                                                                        |                                                                                                                                                  |
-| Fellcaster |    STR, RFX, INT    | Polycraft, Blazecraft, Hydrocraft, Electrocraft, Terracraft, Galecraft, Cryocraft, Naturecraft, Toxincraft, Soulcraft, Shadowcraft, Mindcraft, Ferracraft, Sonocraft, Hemacraft, Spidercraft, Acidcraft, Warpcraft, Telekeneticraft, Blizzardcraft, Magmacraft, Plasmacraft, Stormcraft | Specializes in the use of Fellcraft, biological magic from a character's monstrous ancestry, drawing upon a character's Fellblood Resource Pool. |
-| Runesmith |       RFX, INT       |                    Fire Rune, Earth Rune, Water Rune, Air Rune, Electricity Rune, Cold Rune, Poison Rune, Blood Rune, Light Rune, Dark Rune, Sound Rune, Body Rune, Mind Rune, Soul Rune, Time Rune, Space Rune, Strength Rune, Gravity Rune, Nature Rune, Acid Rune                    |      Specializes in Runecraft, rune based magic by that tinkers with the fabric of reality, drawing upon a character's Focus Resource Pool.      |
-| Brightkin |  STR, RFX, INT, CHA  |                                                                                                                                   Blessing, Radiance                                                                                                                                   |                            Specializes in the use of Miracles, drawing upon a charater's innate Ichor Resource Pool.                            |
+|    Name    | Governing Attributes |                                                                                                                                     Vocational Skills                                                                                                                                     |                                                                   Description                                                                   |
+| :--------: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: |
+|  Warrior  |    STR, RFX, INT    |                                                   Hand Crossbow, Light Crossbow, Heavy Crossbow, Light Bow, Heavy Bow, Exotic Ranged, Close Melee, Medium Melee, Large Melee, Reach Melee, Exotic Melee, Battlefield Formation Knowledge                                                   |                                             A battle-hardened fighter who excels in martial combat.                                             |
+|   Ranger   |    STR, RFX, INT    |                                                         Hand Crossbow, Light Crossbow, Heavy Crossbow, Light Bow, Heavy Bow, Exotic Ranged, Close Melee, Medium Melee, Large Melee, Reach Melee, Exotic Melee, Tracking, Survival                                                         |                                           A skilled hunter and tracker who thrives in the wilderness.                                           |
+|   Rogue   |       RFX, INT       |                                         Hand Crossbow, Light Crossbow, Heavy Crossbow, Light Bow, Heavy Bow, Exotic Ranged, Close Melee, Medium Melee, Large Melee, Reach Melee, Exotic Melee, Lockpicking, Pickpocketing, Infiltration Knowledge                                         |                                              A cunning and agile specialist who thrives in shadows.                                              |
+|   Wizard   |       RFX, INT       | Body Magic, Fire Magic, Water Magic, Electricity Magic, Earth Magic, Air Magic, Cold Magic, Nature Magic, Poison Magic, Soul Magic, Light Magic, Shadow Magic, Mind Magic, Magnetic Magic, Sound Magic, Blood Magic, Acid Magic, Time Magic, Teleport Magic, Force Magic, Arcane Knowledge |                                             A scholar of the arcane arts, wielding powerful spells.                                             |
+|   Druid   |    RFX, INT, CHA    |                                       Shapeshifting Druidcraft, Fire Druidcraft, Water Druidcraft, Lightning Druidcraft, Earth Druidcraft, Air Druidcraft, Cold Druidcraft, Plant Druidcraft, Solar Druidcraft, Lunar Druidcraft, Thunder Druidcraft                                       |                                  A mystical wielder of nature’s power, shaping the world through primal magic.                                  |
+|            |                      |                                                                                                                                                                                                                                                                                            |                                                                                                                                                  |
+|   Smith   |    STR, RFX, INT    |                                                                                                                                          Smithing                                                                                                                                          |                                       A craftsman who shapes raw materials into weapons, armor, and tools                                       |
+|  Scholar  |       INT, CHA       |                                                                                                                             Performance, Homesteading, Drawing                                                                                                                             |                                            A learned mind devoted to uncovering knowledge and truth.                                            |
+|  Merchant  |       INT, CHA       |                                                                                                                                           Barter                                                                                                                                           |                                                         A shrewd negotiator and trader.                                                         |
+|            |                      |                                                                                                                                                                                                                                                                                            |                                                                                                                                                  |
+| Fellcaster |    STR, RFX, INT    |  Polycraft, Blazecraft, Hydrocraft, Electrocraft, Terracraft, Galecraft, Cryocraft, Naturecraft, Toxincraft, Soulcraft, Shadowcraft, Mindcraft, Ferracraft, Sonocraft, Hemacraft, Spidercraft, Acidcraft, Warpcraft, Telekeneticraft, Blizzardcraft, Magmacraft, Plasmacraft, Stormcraft  | Specializes in the use of Fellcraft, biological magic from a character's monstrous ancestry, drawing upon a character's Fellblood Resource Pool. |
+| Runesmith |       RFX, INT       |                     Fire Rune, Earth Rune, Water Rune, Air Rune, Electricity Rune, Cold Rune, Poison Rune, Blood Rune, Light Rune, Dark Rune, Sound Rune, Body Rune, Mind Rune, Soul Rune, Time Rune, Space Rune, Strength Rune, Gravity Rune, Nature Rune, Acid Rune                     |      Specializes in Runecraft, rune based magic by that tinkers with the fabric of reality, drawing upon a character's Focus Resource Pool.      |
+| Brightkin |  STR, RFX, INT, CHA  |                                                                                                                                     Blessing, Radiance                                                                                                                                     |                            Specializes in the use of Miracles, drawing upon a charater's innate Ichor Resource Pool.                            |
 
 ### Vocation Level
 
@@ -370,155 +372,166 @@ A Vocational Skill is a Skill that fall under a Vocation. The Skill Level of a V
 
 **Description:** Describes how the Vocational Skill can be used.
 
-|           Name           | Governing Attributes |                                   Decription                                   |
-| :----------------------: | :------------------: | :-----------------------------------------------------------------------------: |
-|      Hand Crossbow      |    STR, RFX, INT    |             Covers combat activities related using a Hand Crossbow.             |
-|      Light Crossbow      |    STR, RFX, INT    |            Covers combat activities related using a Light Crossbow.            |
-|      Heavy Crossbow      |    STR, RFX, INT    |            Covers combat activities related using a Heavy Crossbow.            |
-|                          |                      |                                                                                |
-|        Light Bow        |    STR, RFX, INT    |               Covers combat activities related using a Light Bow.               |
-|        Heavy Bow        |    STR, RFX, INT    |               Covers combat activities related using a Heavy Bow.               |
-|                          |                      |                                                                                |
-|      Exotic Ranged      |    STR, RFX, INT    |         Covers combat activities related using a Blowgun, Sling, ect...         |
-|                          |                      |                                                                                |
-|       Close Melee       |    STR, RFX, INT    |  Covers combat activities related using a dagger, hatchet, small club, ect...  |
-|                          |                      |                                                                                |
-|       Medium Melee       |    STR, RFX, INT    | Covers combat activities related using an Arming Sword, Battleaxe, mace, ect... |
-|                          |                      |                                                                                |
-|       Large Melee       |    STR, RFX, INT    |    Covers combat activities related using a Longsword, Waraxe, Maul, ect...    |
-|                          |                      |                                                                                |
-|       Reach Melee       |    STR, RFX, INT    |   Covers combat activities related using a Greatsword, Poleaxe, Pike, ect...   |
-|                          |                      |                                                                                |
-|       Exotic Melee       |    STR, RFX, INT    |              Covers combat activities related using a Whip, ect...              |
-|                          |                      |                                                                                |
-|       Primal Melee       |    STR, RFX, INT    |          Covers combat activities related using a Claws, Fangs, ect...          |
-|                          |                      |                                                                                |
-|        Small Guns        |    STR, RFX, INT    |    Covers combat activities related using a Handgun, Sub-machine Gun, ect...    |
-|       Medium Guns       |    STR, RFX, INT    |             Covers combat activities related using a Rifle, ect...             |
-|        Heavy Guns        |    STR, RFX, INT    |  Covers combat activities related using a Machine Gun, Rocket launcher, ect...  |
-|                          |                      |                                                                                |
-|        Body Magic        |       RFX, INT       |                               No description yet.                               |
-|        Fire Magic        |       RFX, INT       |                               No description yet.                               |
-|       Water Magic       |       RFX, INT       |                               No description yet.                               |
-|    Electricity Magic    |       RFX, INT       |                               No description yet.                               |
-|       Earth Magic       |       RFX, INT       |                               No description yet.                               |
-|        Air Magic        |       RFX, INT       |                               No description yet.                               |
-|        Cold Magic        |       RFX, INT       |                               No description yet.                               |
-|       Nature Magic       |       RFX, INT       |                               No description yet.                               |
-|       Poison Magic       |       RFX, INT       |                               No description yet.                               |
-|        Soul Magic        |       RFX, INT       |                               No description yet.                               |
-|       Light Magic       |       RFX, INT       |                               No description yet.                               |
-|       Shadow Magic       |       RFX, INT       |                               No description yet.                               |
-|        Mind Magic        |       RFX, INT       |                               No description yet.                               |
-|      Magnetic Magic      |       RFX, INT       |                               No description yet.                               |
-|       Sound Magic       |       RFX, INT       |                               No description yet.                               |
-|       Blood Magic       |       RFX, INT       |                               No description yet.                               |
-|        Acid Magic        |       RFX, INT       |                               No description yet.                               |
-|        Time Magic        |       RFX, INT       |                               No description yet.                               |
-|      Teleport Magic      |       RFX, INT       |                               No description yet.                               |
-|       Force Magic       |       RFX, INT       |                               No description yet.                               |
-|                          |                      |                                                                                |
-| Shapeshifting Druidcraft |       RFX, INT       |                               No description yet.                               |
-|     Fire Druidcraft     |       RFX, INT       |                               No description yet.                               |
-|     Water Druidcraft     |       RFX, INT       |                               No description yet.                               |
-|   Lightning Druidcraft   |       RFX, INT       |                               No description yet.                               |
-|     Earth Druidcraft     |       RFX, INT       |                               No description yet.                               |
-|      Air Druidcraft      |       RFX, INT       |                               No description yet.                               |
-|     Cold Druidcraft     |       RFX, INT       |                               No description yet.                               |
-|     Plant Druidcraft     |       RFX, INT       |                               No description yet.                               |
-|     Solar Druidcraft     |       RFX, INT       |                               No description yet.                               |
-|     Lunar Druidcraft     |       RFX, INT       |                               No description yet.                               |
-|    Thunder Druidcraft    |       RFX, INT       |                               No description yet.                               |
-|                          |                      |                                                                                |
-|        Polycraft        |    STR, RFX, INT    |                               No description yet.                               |
-|        Blazecraft        |    STR, RFX, INT    |                               No description yet.                               |
-|        Hydrocraft        |    STR, RFX, INT    |                               No description yet.                               |
-|       Electrocraft       |    STR, RFX, INT    |                               No description yet.                               |
-|        Terracraft        |    STR, RFX, INT    |                               No description yet.                               |
-|        Galecraft        |    STR, RFX, INT    |                               No description yet.                               |
-|        Cryocraft        |    STR, RFX, INT    |                               No description yet.                               |
-|       Naturecraft       |    STR, RFX, INT    |                               No description yet.                               |
-|        Toxincraft        |    STR, RFX, INT    |                               No description yet.                               |
-|        Soulcraft        |    STR, RFX, INT    |                               No description yet.                               |
-|       Shadowcraft       |    STR, RFX, INT    |                               No description yet.                               |
-|        Mindcraft        |    STR, RFX, INT    |                               No description yet.                               |
-|        Ferracraft        |    STR, RFX, INT    |                               No description yet.                               |
-|        Sonocraft        |    STR, RFX, INT    |                               No description yet.                               |
-|        Hemacraft        |    STR, RFX, INT    |                               No description yet.                               |
-|       Spidercraft       |    STR, RFX, INT    |                               No description yet.                               |
-|        Acidcraft        |    STR, RFX, INT    |                               No description yet.                               |
-|        Warpcraft        |    STR, RFX, INT    |                               No description yet.                               |
-|     Telekeneticraft     |    STR, RFX, INT    |                               No description yet.                               |
-|       Plasmacraft       |    STR, RFX, INT    |                               No description yet.                               |
-|        Stormcraft        |    STR, RFX, INT    |                               No description yet.                               |
-|        Magmacraft        |    STR, RFX, INT    |                               No description yet.                               |
-|      Blizzardcraft      |    STR, RFX, INT    |                               No description yet.                               |
-|                          |                      |                                                                                |
-|        Fire Rune        |       RFX, INT       |                               No description yet.                               |
-|        Earth Rune        |       RFX, INT       |                               No description yet.                               |
-|        Water Rune        |       RFX, INT       |                               No description yet.                               |
-|         Air Rune         |       RFX, INT       |                               No description yet.                               |
-|     Electricity Rune     |       RFX, INT       |                               No description yet.                               |
-|        Cold Rune        |       RFX, INT       |                               No description yet.                               |
-|       Poison Rune       |       RFX, INT       |                               No description yet.                               |
-|        Blood Rune        |       RFX, INT       |                               No description yet.                               |
-|        Light Rune        |       RFX, INT       |                               No description yet.                               |
-|        Dark Rune        |       RFX, INT       |                               No description yet.                               |
-|        Sound Rune        |       RFX, INT       |                               No description yet.                               |
-|        Body Rune        |       RFX, INT       |                               No description yet.                               |
-|        Mind Rune        |       RFX, INT       |                               No description yet.                               |
-|        Soul Rune        |       RFX, INT       |                               No description yet.                               |
-|        Time Rune        |       RFX, INT       |                               No description yet.                               |
-|        Space Rune        |       RFX, INT       |                               No description yet.                               |
-|      Strength Rune      |       RFX, INT       |                               No description yet.                               |
-|       Gravity Rune       |       RFX, INT       |                               No description yet.                               |
-|       Nature Rune       |       RFX, INT       |                               No description yet.                               |
-|        Acid Rune        |       RFX, INT       |                               No description yet.                               |
-|                          |                      |                                                                                |
-|         Radiance         |  STR, RFX, INT, CHA  |                               No description yet.                               |
-|         Blessing         |  STR, RFX, INT, CHA  |                               No description yet.                               |
+|              Name              | Governing Attributes |                                   Decription                                   |
+| :-----------------------------: | :------------------: | :-----------------------------------------------------------------------------: |
+|          Hand Crossbow          |    STR, RFX, INT    |             Covers combat activities related using a Hand Crossbow.             |
+|         Light Crossbow         |    STR, RFX, INT    |            Covers combat activities related using a Light Crossbow.            |
+|         Heavy Crossbow         |    STR, RFX, INT    |            Covers combat activities related using a Heavy Crossbow.            |
+|                                |                      |                                                                                |
+|            Light Bow            |    STR, RFX, INT    |               Covers combat activities related using a Light Bow.               |
+|            Heavy Bow            |    STR, RFX, INT    |               Covers combat activities related using a Heavy Bow.               |
+|                                |                      |                                                                                |
+|          Exotic Ranged          |    STR, RFX, INT    |         Covers combat activities related using a Blowgun, Sling, ect...         |
+|                                |                      |                                                                                |
+|           Close Melee           |    STR, RFX, INT    |  Covers combat activities related using a dagger, hatchet, small club, ect...  |
+|                                |                      |                                                                                |
+|          Medium Melee          |    STR, RFX, INT    | Covers combat activities related using an Arming Sword, Battleaxe, mace, ect... |
+|                                |                      |                                                                                |
+|           Large Melee           |    STR, RFX, INT    |    Covers combat activities related using a Longsword, Waraxe, Maul, ect...    |
+|                                |                      |                                                                                |
+|           Reach Melee           |    STR, RFX, INT    |   Covers combat activities related using a Greatsword, Poleaxe, Pike, ect...   |
+|                                |                      |                                                                                |
+|          Exotic Melee          |    STR, RFX, INT    |              Covers combat activities related using a Whip, ect...              |
+|                                |                      |                                                                                |
+|          Primal Melee          |    STR, RFX, INT    |          Covers combat activities related using a Claws, Fangs, ect...          |
+|                                |                      |                                                                                |
+|           Small Guns           |    STR, RFX, INT    |    Covers combat activities related using a Handgun, Sub-machine Gun, ect...    |
+|           Medium Guns           |    STR, RFX, INT    |             Covers combat activities related using a Rifle, ect...             |
+|           Heavy Guns           |    STR, RFX, INT    |  Covers combat activities related using a Machine Gun, Rocket launcher, ect...  |
+|                                |                      |                                                                                |
+| Battlefield Formation Knowledge |         INT         |             Knowledge around the tactics and formations of troops.             |
+|            Tracking            |       RFX, INT       |                     Covers activities related to tracking.                     |
+|       Survival Knowledge       |         INT         |            Covers activities related to surviving in the wilderness.            |
+|           Lockpicking           |       RFX, INT       |              The ability to bypass locks using tools and finesse.              |
+|          Pickpocketing          |       RFX, INT       |     The art of stealthily lifting items from a person without their notice.     |
+|     Infiltration Knowledge     |         INT         |       Expertise in planning and executing covert entry into secure areas.       |
+|             Barter             |       INT, CHA       |                        Covers acts related to bartering                        |
+|            Smithing            |    STR, RFX, INT    |                Covers acts related to smithing, forging, ect...                |
+|        Arcane Knowledge        |         INT         |                   Knowledge related to the arcane and magic.                   |
+|           Performance           |    RFX, INT, CHA    |                       Covers acts related to performance.                       |
+|          Homesteading          |       RFX, INT       |                Covers acts related to cooking, cleaning, ect...                |
+|             Drawing             |       RFX, INT       |                           Covers the act of drawing.                           |
+|                                |                      |                                                                                |
+|           Body Magic           |       RFX, INT       |                               No description yet.                               |
+|           Fire Magic           |       RFX, INT       |                               No description yet.                               |
+|           Water Magic           |       RFX, INT       |                               No description yet.                               |
+|        Electricity Magic        |       RFX, INT       |                               No description yet.                               |
+|           Earth Magic           |       RFX, INT       |                               No description yet.                               |
+|            Air Magic            |       RFX, INT       |                               No description yet.                               |
+|           Cold Magic           |       RFX, INT       |                               No description yet.                               |
+|          Nature Magic          |       RFX, INT       |                               No description yet.                               |
+|          Poison Magic          |       RFX, INT       |                               No description yet.                               |
+|           Soul Magic           |       RFX, INT       |                               No description yet.                               |
+|           Light Magic           |       RFX, INT       |                               No description yet.                               |
+|          Shadow Magic          |       RFX, INT       |                               No description yet.                               |
+|           Mind Magic           |       RFX, INT       |                               No description yet.                               |
+|         Magnetic Magic         |       RFX, INT       |                               No description yet.                               |
+|           Sound Magic           |       RFX, INT       |                               No description yet.                               |
+|           Blood Magic           |       RFX, INT       |                               No description yet.                               |
+|           Acid Magic           |       RFX, INT       |                               No description yet.                               |
+|           Time Magic           |       RFX, INT       |                               No description yet.                               |
+|         Teleport Magic         |       RFX, INT       |                               No description yet.                               |
+|           Force Magic           |       RFX, INT       |                               No description yet.                               |
+|                                |                      |                                                                                |
+|    Shapeshifting Druidcraft    |       RFX, INT       |                               No description yet.                               |
+|         Fire Druidcraft         |       RFX, INT       |                               No description yet.                               |
+|        Water Druidcraft        |       RFX, INT       |                               No description yet.                               |
+|      Lightning Druidcraft      |       RFX, INT       |                               No description yet.                               |
+|        Earth Druidcraft        |       RFX, INT       |                               No description yet.                               |
+|         Air Druidcraft         |       RFX, INT       |                               No description yet.                               |
+|         Cold Druidcraft         |       RFX, INT       |                               No description yet.                               |
+|        Plant Druidcraft        |       RFX, INT       |                               No description yet.                               |
+|        Solar Druidcraft        |       RFX, INT       |                               No description yet.                               |
+|        Lunar Druidcraft        |       RFX, INT       |                               No description yet.                               |
+|       Thunder Druidcraft       |       RFX, INT       |                               No description yet.                               |
+|                                |                      |                                                                                |
+|            Polycraft            |    STR, RFX, INT    |                               No description yet.                               |
+|           Blazecraft           |    STR, RFX, INT    |                               No description yet.                               |
+|           Hydrocraft           |    STR, RFX, INT    |                               No description yet.                               |
+|          Electrocraft          |    STR, RFX, INT    |                               No description yet.                               |
+|           Terracraft           |    STR, RFX, INT    |                               No description yet.                               |
+|            Galecraft            |    STR, RFX, INT    |                               No description yet.                               |
+|            Cryocraft            |    STR, RFX, INT    |                               No description yet.                               |
+|           Naturecraft           |    STR, RFX, INT    |                               No description yet.                               |
+|           Toxincraft           |    STR, RFX, INT    |                               No description yet.                               |
+|            Soulcraft            |    STR, RFX, INT    |                               No description yet.                               |
+|           Shadowcraft           |    STR, RFX, INT    |                               No description yet.                               |
+|            Mindcraft            |    STR, RFX, INT    |                               No description yet.                               |
+|           Ferracraft           |    STR, RFX, INT    |                               No description yet.                               |
+|            Sonocraft            |    STR, RFX, INT    |                               No description yet.                               |
+|            Hemacraft            |    STR, RFX, INT    |                               No description yet.                               |
+|           Spidercraft           |    STR, RFX, INT    |                               No description yet.                               |
+|            Acidcraft            |    STR, RFX, INT    |                               No description yet.                               |
+|            Warpcraft            |    STR, RFX, INT    |                               No description yet.                               |
+|         Telekeneticraft         |    STR, RFX, INT    |                               No description yet.                               |
+|           Plasmacraft           |    STR, RFX, INT    |                               No description yet.                               |
+|           Stormcraft           |    STR, RFX, INT    |                               No description yet.                               |
+|           Magmacraft           |    STR, RFX, INT    |                               No description yet.                               |
+|          Blizzardcraft          |    STR, RFX, INT    |                               No description yet.                               |
+|                                |                      |                                                                                |
+|            Fire Rune            |       RFX, INT       |                               No description yet.                               |
+|           Earth Rune           |       RFX, INT       |                               No description yet.                               |
+|           Water Rune           |       RFX, INT       |                               No description yet.                               |
+|            Air Rune            |       RFX, INT       |                               No description yet.                               |
+|        Electricity Rune        |       RFX, INT       |                               No description yet.                               |
+|            Cold Rune            |       RFX, INT       |                               No description yet.                               |
+|           Poison Rune           |       RFX, INT       |                               No description yet.                               |
+|           Blood Rune           |       RFX, INT       |                               No description yet.                               |
+|           Light Rune           |       RFX, INT       |                               No description yet.                               |
+|            Dark Rune            |       RFX, INT       |                               No description yet.                               |
+|           Sound Rune           |       RFX, INT       |                               No description yet.                               |
+|            Body Rune            |       RFX, INT       |                               No description yet.                               |
+|            Mind Rune            |       RFX, INT       |                               No description yet.                               |
+|            Soul Rune            |       RFX, INT       |                               No description yet.                               |
+|            Time Rune            |       RFX, INT       |                               No description yet.                               |
+|           Space Rune           |       RFX, INT       |                               No description yet.                               |
+|          Strength Rune          |       RFX, INT       |                               No description yet.                               |
+|          Gravity Rune          |       RFX, INT       |                               No description yet.                               |
+|           Nature Rune           |       RFX, INT       |                               No description yet.                               |
+|            Acid Rune            |       RFX, INT       |                               No description yet.                               |
+|                                |                      |                                                                                |
+|            Radiance            |  STR, RFX, INT, CHA  |                               No description yet.                               |
+|            Blessing            |  STR, RFX, INT, CHA  |                               No description yet.                               |
 
 Vocational Skills can often resolve in a single roll what without it would turn into a sequence of possibly more difficult Core Skill checks, which opens up more possibilities for failure.
 
-For example, a Warrior and Rogue are trying to pickpocket a letter from a courier. The Warrior wants to try first, so the Narrator has the Warrior describe how he will accomplish this. The Warrior first say he will try to determine the optimal spot along the courier's path to get close without raising suspicion, then he will roughly bump into the courier feigning an apology and help while picking up the now scattered letters, and finally quickly swiping and pocketting the letter in question before the courier can notice. The Narrator first asks the Warrior to make a series of checks starting with a Knowledge Check, than a Deception Check, and finally a Dexterity check. If at any point during the checks, if the Warrior had failed a check his plan could've been ruined. However, if the Rogue has the Pickpocketing Vocational Skill, he would have had to only roll one check in a Skill he is likely more proficient at since he didn't have to invest into 3 different Skills.
+For example, a Warrior and Rogue are trying to pickpocket a letter from a courier. The Warrior wants to try first, so the Narrator has the Warrior describe how he will accomplish this. The Warrior first say he will try to determine the optimal spot along the courier's path to get close without raising suspicion, then he will roughly bump into the courier, help pick up the now scattered letters, then quickly pocket the letter in question before the courier can notice. The Narrator first asks the Warrior to make a series of checks starting with a Knowledge Check, and then a Dexterity check. If at any point during the checks, if the Warrior had failed a check his plan could've been ruined. However, if the Rogue has the Pickpocketing Vocational Skill, he would have had to only roll one check in a Skill he is likely more proficient at since he didn't have to invest into 2 different Skills.
 
 When determining what a Vocational Skill's Governing Attributes would be, it is often handy to ask what sequence of Core Skills would be required to attempt the same thing. Based off what Core Skills a character would've had to performed, you can usually infer what Governing Attributes the Vocational Skill will have. Below are some examples of Vocational Skills for certain Vocations.
 
-|  Vocation  |                                                 Vocational Skills Examples                                                 |              Governing Attributes for Vocation Skills Example              |
-| :---------: | :-------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------: |
-|   Soldier   |              Medium Melee (Athletics, Perception, Logic), Battlefield Formations (Logic, Knowledge, and Will)              |         Medium Melee (STR, RFX, INT), Battlefield Formations (INT)         |
-|   Ranger   |                              Tracking (Perception and Logic), Wilderness Survival (Knowledge)                              |               Tracking (RFX, INT), Wilderness Survival (INT)               |
-|   Wizard   |                           Arcane Knowledge (Knowledge), Rune Inscribing (Knowledge and Dexterity)                           |             Arcane Knowledge (INT), Rune Inscribing (RFX, INT)             |
-|    Rogue    | Heist Planning (Stealth Logic, and Knowledge), Lockpicking (Knowledge and Dexterity), Pickpocketing (Stealth and Dexterity) | Heist Planning (INT), Lockpicking (RFX, INT), Pickpocketing (RFX, INT, CHA) |
-| Necromancer |                                             Seance Ritual (Will and Persuasion)                                             |                             Seance Ritual (INT)                             |
-|    Baker    |                                              Baking (Dexterity and Knowledge)                                              |                              Baking (RFX, INT)                              |
-| Black Smith |                                        Forging (Endurance, Dexterity, and Knowledge)                                        |                           Forging (STR, RFX, INT)                           |
-|  Merchant  |                                               Trading (Knowledge, Persuasion)                                               |                              Trading(INT, CHA)                              |
+| Vocation |                                                        Vocational Skills Examples                                                        |                   Governing Attributes for Vocation Skills Example                   |
+| :------: | :--------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: |
+| Warrior |                     Medium Melee (Athletics, Perception, Logic), Battlefield Formation Knowledge (Logic, Knowledge)                     |         Medium Melee (STR, RFX, INT), Battlefield Formation Knowledge (INT)         |
+|  Ranger  |                                            Barter (Perception, Logic), Survival (Knowledge)                                            |                     Barter (RFX, INT), Wilderness Survival (INT)                     |
+|  Wizard  |                                                       Arcane Knowledge (Knowledge)                                                       |                                Arcane Knowledge (INT)                                |
+|  Rogue  | Lockpicking (Dexterity, Knowledge), Pickpocketing (Stealth, Dexterity, Knowledge, Logic), Infiltration Knowledge (Logic, Knowledge) | Lockpicking (RFX, INT), Pickpocketing (RFX, INT, CHA), Infiltration Knowledge (INT) |
+|  Smith  |                                               Smithing (Endurance, Dexterity, Knowledge)                                               |                               Smithing (STR, RFX, INT)                               |
+| Merchant |                                                     Barter (Knowledge, Persuasion)                                                     |                                   Trading(INT, CHA)                                   |
 
 ### Example of creating a Vocation
 
 Let's make a Rogue vocation.
 
-We set our "Rogue" Vocation to Level 2, meaning we are an Adept Rogue.
+We set our "Rogue" Vocation Level to 2.
 
-For the Governing Attributes of Rogue, we take RFX, INT, and CHA as our vocation would benefit from us being dexterous, cunning, and charming.
+For the Governing Attributes of Rogue, we take RFX and INT as our vocation would benefit from us being dexterous and cunning.
 
-We add "Lockpicking" as a Vocational Skill as it is something a Rogue would do. For it's Governing Attributes I give it RFX and INT, as being nimble with my fingers and understanding the mechanics of the lock would benefit this skill. We set it's level to Level 2.
+We add "Lockpicking" as a Vocational Skill as it is something a Rogue would do. For it's Governing Attributes I give it RFX and INT, as being nimble with my fingers and understanding the mechanics of the lock would benefit this skill. We set the Skill Level to 2.
 
-We add "Pickpocketing" as a Vocational Skill as it is something a Rogue would do. For it's Governing Attributes I give it RFX, INT, and CHA as being nimble with my fingers, planning the perfect place to intercept the target, and using deceptive misdirection would benefit this Skill. We set it's level to Level 2.
+We add "Pickpocketing" as a Vocational Skill as it is something a Rogue would do. For it's Governing Attributes I give it RFX and INT as being nimble with my fingers and planning the perfect place to intercept the target would benefit this Skill. We set the Skill Level to 2.
 
-We add "Infiltration Knowledge" as a Vocational Skill, as it is something a Rogue would do. For it's Governing Attributes, I give it just INT, as being more cunning would aid me as I lay out my plan. We set it's Level to Level 2.
+We add "Infiltration Knowledge" as a Vocational Skill, as it is something a Rogue would do. For it's Governing Attributes, I give it just INT, as being more cunning would aid me as I lay out my plan. We set the Skill Level to 2.
 
-We add "Close Melee" as a Vocational Skill, as using a knife or blackjack would be something a Rogue would do. For it's Governing Attributes, I give it STR, RFX, and INT, as being stronger, faster, and smarter would all benefit this skill. We set it's level to Level 1.
+We add "Close Melee" as a Vocational Skill, as using a knife or blackjack would be something a Rogue would do. For it's Governing Attributes, I give it STR, RFX, and INT, as being stronger, faster, and smarter would all benefit this skill. We set the Skill Level to 1.
 
 Finally, I try to add "Fire Magic" as a Vocational Skill. After talking with the Narrator, we determine this is way outside of the scope of what a Rogue can do in their world. If we wanted a "Fire Magic" Vocational Skill, we'd have to spec into a Vocation like "Wizard" or "Mage".
 
 Our character has 0 STR, 1 RFX, 1 INT, and 0 CHA.
 
-|         Rogue         | RFX, INT, CHA | 2 | 7d6 |
+|         Rogue         |   RFX, INT   | 2 | 7d6 |
 | :--------------------: | :-----------: | :-: | :-: |
-|      Lock-picking      |   RFX, INT   | 2 | 7d6 |
-|     Pickpocketing     | RFX, INT, CHA | 2 | 7d6 |
+|      Lockpicking      |   RFX, INT   | 2 | 7d6 |
+|     Pickpocketing     |   RFX, INT   | 2 | 7d6 |
 | Infiltration Knowledge |      INT      | 2 | 6d6 |
 |      Close Melee      | STR, RFX, INT | 1 | 7d6 |
 

@@ -24,6 +24,19 @@ Small Guns,"STR, RFX, INT","Covers combat activities related using a Handgun, Su
 Medium Guns,"STR, RFX, INT","Covers combat activities related using a Rifle, ect...",None,None
 Heavy Guns,"STR, RFX, INT","Covers combat activities related using a Machine Gun, Rocket launcher, ect...",None,None
 ,,,,
+Battlefield Formation Knowledge,INT,Knowledge around the tactics and formations of troops.,None,None
+Tracking,"RFX, INT",Covers activities related to tracking.,None,None
+Survival Knowledge,INT,Covers activities related to surviving in the wilderness.,None,None
+Lockpicking,"RFX, INT",The ability to bypass locks using tools and finesse.,None,None
+Pickpocketing,"RFX, INT",The art of stealthily lifting items from a person without their notice.,None,None
+Infiltration Knowledge,INT,Expertise in planning and executing covert entry into secure areas.,None,None
+Barter,"INT, CHA",Covers acts related to bartering,None,None
+Smithing,"STR, RFX, INT","Covers acts related to smithing, forging, ect...",None,None
+Arcane Knowledge,INT,Knowledge related to the arcane and magic.,None,None
+Performance,"RFX, INT, CHA",Covers acts related to performance.,None,None
+Homesteading,"RFX, INT","Covers acts related to cooking, cleaning, ect...",None,None
+Drawing,"RFX, INT",Covers the act of drawing.,None,None
+,,,,
 Body Magic,"RFX, INT",No description yet.,"Slash, Bludgeon, Hew, Pierce",Mana
 Fire Magic,"RFX, INT",No description yet.,Fire,Mana
 Water Magic,"RFX, INT",No description yet.,"Fatigue, Slash, Bludgeon, Pierce",Mana
