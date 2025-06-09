@@ -1503,7 +1503,8 @@ Each Weight Class corresponds to an Attribute Dice Mod Effect that will be appli
 | :----------: | :---------------------: | :------------------: | :------------------------: |
 |    Light    |          None          |         25.0         |    Weight Class: Light    |
 |    Medium    |          25.0          |         50.0         |    Weight Class: Medium    |
-|    Heavy    |          50.0          |        100.0        |    Weight Class: Heavy    |
+|    Heavy    |          50.0          |         75.0         |    Weight Class: Heavy    |
+|  Very Heavy  |          75.0          |        100.0        |  Weight Class: Very Heavy  |
 | Overburdened |          100.0          |         None         | Weight Class: Overburdened |
 
 **Example:**
