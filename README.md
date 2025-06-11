@@ -732,11 +732,17 @@ Examples of narratively describing better penetration:
 - Poison shot vs poison aerosolized spray, making it far more likely to penetrate the bodies natural defenses.
 - Arming Sword swing vs Great Sword swing, which just give you more leverage and mass because if you can't cut through at least you'll crunch what's underneath.
 
+## Unit of Measure
+
+This section defines the different units of measure that a game will use.
+
+| Length | Area | Volume | Weight | Angle |
+| :----: | ---- | :----: | :----: | :---: |
+|   ft   | ft^2 |  ft^3  |   lb   |  °  |
+
 ## Range
 
 A Range determines the distance at which some action can be performed.
-
-Length is measured in ft.
 
 A Range has an Effective, optional Ineffective, and optional Max component to it.
 
