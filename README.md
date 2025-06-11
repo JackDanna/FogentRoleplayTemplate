@@ -432,66 +432,6 @@ A Vocational Skill is a Skill that fall under a Vocation. The Skill Level of a V
 |           Time Magic           |       RFX, INT       |                               No description yet.                               |
 |         Teleport Magic         |       RFX, INT       |                               No description yet.                               |
 |           Force Magic           |       RFX, INT       |                               No description yet.                               |
-|                                |                      |                                                                                |
-|    Shapeshifting Druidcraft    |       RFX, INT       |                               No description yet.                               |
-|         Fire Druidcraft         |       RFX, INT       |                               No description yet.                               |
-|        Water Druidcraft        |       RFX, INT       |                               No description yet.                               |
-|      Lightning Druidcraft      |       RFX, INT       |                               No description yet.                               |
-|        Earth Druidcraft        |       RFX, INT       |                               No description yet.                               |
-|         Air Druidcraft         |       RFX, INT       |                               No description yet.                               |
-|         Cold Druidcraft         |       RFX, INT       |                               No description yet.                               |
-|        Plant Druidcraft        |       RFX, INT       |                               No description yet.                               |
-|        Solar Druidcraft        |       RFX, INT       |                               No description yet.                               |
-|        Lunar Druidcraft        |       RFX, INT       |                               No description yet.                               |
-|       Thunder Druidcraft       |       RFX, INT       |                               No description yet.                               |
-|                                |                      |                                                                                |
-|            Polycraft            |    STR, RFX, INT    |                               No description yet.                               |
-|           Blazecraft           |    STR, RFX, INT    |                               No description yet.                               |
-|           Hydrocraft           |    STR, RFX, INT    |                               No description yet.                               |
-|          Electrocraft          |    STR, RFX, INT    |                               No description yet.                               |
-|           Terracraft           |    STR, RFX, INT    |                               No description yet.                               |
-|            Galecraft            |    STR, RFX, INT    |                               No description yet.                               |
-|            Cryocraft            |    STR, RFX, INT    |                               No description yet.                               |
-|           Naturecraft           |    STR, RFX, INT    |                               No description yet.                               |
-|           Toxincraft           |    STR, RFX, INT    |                               No description yet.                               |
-|            Soulcraft            |    STR, RFX, INT    |                               No description yet.                               |
-|           Shadowcraft           |    STR, RFX, INT    |                               No description yet.                               |
-|            Mindcraft            |    STR, RFX, INT    |                               No description yet.                               |
-|           Ferracraft           |    STR, RFX, INT    |                               No description yet.                               |
-|            Sonocraft            |    STR, RFX, INT    |                               No description yet.                               |
-|            Hemacraft            |    STR, RFX, INT    |                               No description yet.                               |
-|           Spidercraft           |    STR, RFX, INT    |                               No description yet.                               |
-|            Acidcraft            |    STR, RFX, INT    |                               No description yet.                               |
-|            Warpcraft            |    STR, RFX, INT    |                               No description yet.                               |
-|         Telekeneticraft         |    STR, RFX, INT    |                               No description yet.                               |
-|           Plasmacraft           |    STR, RFX, INT    |                               No description yet.                               |
-|           Stormcraft           |    STR, RFX, INT    |                               No description yet.                               |
-|           Magmacraft           |    STR, RFX, INT    |                               No description yet.                               |
-|          Blizzardcraft          |    STR, RFX, INT    |                               No description yet.                               |
-|                                |                      |                                                                                |
-|            Fire Rune            |       RFX, INT       |                               No description yet.                               |
-|           Earth Rune           |       RFX, INT       |                               No description yet.                               |
-|           Water Rune           |       RFX, INT       |                               No description yet.                               |
-|            Air Rune            |       RFX, INT       |                               No description yet.                               |
-|        Electricity Rune        |       RFX, INT       |                               No description yet.                               |
-|            Cold Rune            |       RFX, INT       |                               No description yet.                               |
-|           Poison Rune           |       RFX, INT       |                               No description yet.                               |
-|           Blood Rune           |       RFX, INT       |                               No description yet.                               |
-|           Light Rune           |       RFX, INT       |                               No description yet.                               |
-|            Dark Rune            |       RFX, INT       |                               No description yet.                               |
-|           Sound Rune           |       RFX, INT       |                               No description yet.                               |
-|            Body Rune            |       RFX, INT       |                               No description yet.                               |
-|            Mind Rune            |       RFX, INT       |                               No description yet.                               |
-|            Soul Rune            |       RFX, INT       |                               No description yet.                               |
-|            Time Rune            |       RFX, INT       |                               No description yet.                               |
-|           Space Rune           |       RFX, INT       |                               No description yet.                               |
-|          Strength Rune          |       RFX, INT       |                               No description yet.                               |
-|          Gravity Rune          |       RFX, INT       |                               No description yet.                               |
-|           Nature Rune           |       RFX, INT       |                               No description yet.                               |
-|            Acid Rune            |       RFX, INT       |                               No description yet.                               |
-|                                |                      |                                                                                |
-|            Radiance            |  STR, RFX, INT, CHA  |                               No description yet.                               |
-|            Blessing            |  STR, RFX, INT, CHA  |                               No description yet.                               |
 
 Vocational Skills can often resolve in a single roll what without it would turn into a sequence of possibly more difficult Core Skill checks, which opens up more possibilities for failure.
 
