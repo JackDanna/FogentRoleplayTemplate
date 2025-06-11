@@ -732,11 +732,21 @@ Examples of narratively describing better penetration:
 - Poison shot vs poison aerosolized spray, making it far more likely to penetrate the bodies natural defenses.
 - Arming Sword swing vs Great Sword swing, which just give you more leverage and mass because if you can't cut through at least you'll crunch what's underneath.
 
+## Unit of Measure
+
+This section defines the different units of measure that a game will use.
+
+| Length | Area | Volume | Weight | Angle |
+| :----: | ---- | :----: | :----: | :---: |
+|   ft   | ft^2 |  ft^3  |   lb   |  °  |
+
+### Using a Battle Map
+
+When using a grid Battle Map for combat, it is important to inform your players the dimensions of each part of the grid. For instance, most grided battle maps have each square represent a 5 ft x 5 ft square.
+
 ## Range
 
 A Range determines the distance at which some action can be performed.
-
-Length is measured in ft.
 
 A Range has an Effective, optional Ineffective, and optional Max component to it.
 
@@ -916,10 +926,6 @@ If characters have loaded weapons (for instance loaded muzzle loading firearms) 
 |              One Use Example              |   1   |   1   |   1   |   1   |   1   |   1   |   1   |   1   |   1   |    1    |    1    |    1    |
 |            One Round To Reload            |  0.7  |  0.7  |  0.7  |  0.7  |  0.7  |  0.7  |  0.7  |  0.7  |  0.7  |   0.7   |   0.7   |   0.7   |
 |           Two Rounds To Reload           |  0.4  |  0.4  |  0.4  |  0.4  |  0.4  |  0.4  |  0.4  |  0.4  |  0.4  |   0.4   |   0.4   |   0.4   |
-
-## Battle Map
-
-Combat takes place on gridded battle maps, with each square representing a 5 ft by 5 ft square.
 
 ## Movement Speed
 
