@@ -1,4 +1,4 @@
-name,description,defendingSkill
+name,description,optionalDefendingSkill
 Slash,Caused by pushing or drawing a bladed edge to produce the force necessary to slice.,None
 Pierce,Caused by pointed objects.,None
 Bludgeon,Caused by blunt force.,None

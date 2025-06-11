@@ -598,32 +598,52 @@ These rolls may be used in situations of great intensity to help the Narrator gu
 
 Damage Types are the various sources a character can recieve an injury from.
 
-|   Name   |                                     Description                                     |
-| :-------: | :---------------------------------------------------------------------------------: |
-|   Slash   | Caused by pushing or drawing a bladed edge to produce the force necessary to slice. |
-|  Pierce  |                             Caused by pointed objects.                             |
-| Bludgeon |                               Caused by blunt force.                               |
-|    Hew    |  Caused by the pressing of a bladed edge to produce the force necessary to shear.  |
-| Ballistic |                          Caused by bullets from firearms.                          |
-| Shockwave |                          Caused by shock waves and sound.                          |
-|   Fire   |                        Caused by intense heat or combustion.                        |
-| Electric |                Caused by lightning or other sources of electricity.                |
-|  Radiant  |                  Caused specifically by divine power or sunlight.                  |
-|   Acid   |                           Caused by corrosive substances.                           |
-|   Cold   |                        Caused by extremely low temperatures.                        |
-|  Silver  |                            Caused by a Silvered weapon.                            |
-|  Poison  |                            Caused by poisons or toxins.                            |
-| Necrotic |                         Caused by rot, decay, and undeath.                         |
-|   Bleed   |                            Caused by the loss of blood.                            |
-|  Fatigue  |   Caused by the lack of nutrition, rest, drinkable water, breathable air, ect...   |
-|  Psychic  |                              Caused by mental trauma.                              |
-| Spiritual |           Caused by spiritual sources such as ghosts or divine entities.           |
+**Name:** The name of the Damage Type.
+
+**Description:** A brief description of the Damage Type.
+
+**Optional Defending Skill:** The Skill that directly defends against the Damage Type. If it is "None", than no skill directly defends against the Damage Type.
+
+|   Name   |                                     Description                                     | Optional Defending Skill |
+| :-------: | :---------------------------------------------------------------------------------: | :----------------------: |
+|   Slash   | Caused by pushing or drawing a bladed edge to produce the force necessary to slice. |           None           |
+|  Pierce  |                             Caused by pointed objects.                             |           None           |
+| Bludgeon |                               Caused by blunt force.                               |           None           |
+|    Hew    |  Caused by the pressing of a bladed edge to produce the force necessary to shear.  |           None           |
+| Ballistic |                          Caused by bullets from firearms.                          |           None           |
+| Shockwave |                          Caused by shock waves and sound.                          |           None           |
+|   Fire   |                        Caused by intense heat or combustion.                        |           None           |
+| Electric |                Caused by lightning or other sources of electricity.                |           None           |
+|  Radiant  |                  Caused specifically by divine power or sunlight.                  |           None           |
+|   Acid   |                           Caused by corrosive substances.                           |           None           |
+|   Cold   |                        Caused by extremely low temperatures.                        |        Endurance        |
+|  Silver  |                            Caused by a Silvered weapon.                            |        Endurance        |
+|  Poison  |                            Caused by poisons or toxins.                            |        Endurance        |
+| Necrotic |                         Caused by rot, decay, and undeath.                         |        Endurance        |
+|   Bleed   |                            Caused by the loss of blood.                            |        Endurance        |
+|  Fatigue  |   Caused by the lack of nutrition, rest, drinkable water, breathable air, ect...   |        Endurance        |
+|  Psychic  |                              Caused by mental trauma.                              |        Willpower        |
+| Spiritual |           Caused by spiritual sources such as ghosts or divine entities.           |        Willpower        |
+
+## Injury
+
+Injury is handled as part of the narrative with dice penalties being applied per injury to a character's dice checks.
+
+|       Name       |                                                                                            Description                                                                                            |        Duration        |      Source      | Affected Attributes | Dice Pool Modifier |
+| :---------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------: | :--------------: | :-----------------: | :----------------: |
+|   Minor Injury   |                                 -1d to STR/RFX/INT/CHA governed Dice Pools. The injury will naturally heal over the next few days, or faster if treated actively.                                 |    Days if untreated    | Source of Injury | STR, RFX, INT, CHA |        -1d        |
+|   Medium Injury   |                          -2d to STR/RFX/INT/CHA governed Dice Pools. The injury must be treated relatively soon otherwise further penalties may apply such as infection.                          |   Weeks if untreated   | Source of Injury | STR, RFX, INT, CHA |        -2d        |
+|  Serious Injury  |                                                  -3d to STR/RFX/INT/CHA governed Dice Pools.  The injury will lead to death in time if untreated.                                                  |   Months if untreated   | Source of Injury | STR, RFX, INT, CHA |        -3d        |
+|   Fatal Injury   | -4d to STR/RFX/INT/CHA governed Dice Pools. The injury will lead to death very soon if untreated. The character inflicted with this injury is Physically Incapacitated (see the Narrative Effect). | Indefinite if untreated | Source of Injury | STR, RFX, INT, CHA |        -4d        |
+| Death Blow Injury |                                                                -5d to STR/RFX/INT/CHA governed Dice Pools. The injury causes death.                                                                |       Indefinite       | Source of Injury | STR, RFX, INT, CHA |        -5d        |
+
+Typical "status effects" such as being poisoned, frostbitten, bleeding, madness, etc... are handled elegantly through the injury system. For instance, if you were dealt a Serious Injury by mild poison mist, then narratively explain it as getting a large breath full. If the character instead was dealt a Serious injury by an extremely lethal poison mist, then narratively it would be explained as only getting a small whiff. The resulting dice penalty acts as your "status effect" debuffing your character until they are resolved. For instance, anti-venom might be able to remove the poison injury or warming up by a fire might reduce hypothermia from the cold.
 
 ## Defense
 
-Defense is used to reduce incoming injuries from specific Damage Types by the equivalent amount of Defense against it. If a character has multiple Defenses, then add the values of the Defenses together for each Damage Type to get their Total Defense. If a Totaled Defense to a specific Damage Type has a decimal place remainder, you'll round it down to the nearest whole number when reducing an injury with it.
+Defense is used to reduce incoming injuries from Damage Types by the equivalent amount of Defense against itIf a character has multiple Defenses, then add the values of the Defenses together for each Damage Type to get their Total Defense. If a Totaled Defense to a specific Damage Type has a decimal place remainder, you'll round it down to the nearest whole number when reducing an injury with it.
 
-If a foe has a sufficiently high Defense to certain Damage Types, then the best course of action is to circumvent it. For instance, a knight in full plate armor is extremely difficult to injury with Slash damage. In these circumstances, the most efficient way of defeating a person in heavy armor is grappling them or tripping them and holding them down, just like in real life. Another option is to use an attack with a different Damage Type, such as spraying poison mist at them, to completely circumvent there high Slash defense.
+If a foe has a sufficiently high Defense to a certain Damage Type, then the best course of action is to circumvent it. For instance, a knight in full plate armor would be extremely difficult to injury from injuries caused by the Slash Damage Type. In these circumstances, the most efficient way of defeating a character in heavy armor is grappling them or tripping them and holding them down, just like in real life. Another option is to use an attack with a different Damage Type, such as spraying poison mist at them, to completely circumvent there high Slash defense.
 
 |           Name           |                        Description                        |  Duration  | Source | Slash | Pierce | Bludgeon |  Hew  | Ballistic | Shockwave | Fire | Electric | Radiant | Acid | Cold | Silver | Poison | Necrotic | Bleed | Suffocation | Psychic | Spiritual |
 | :-----------------------: | :--------------------------------------------------------: | :--------: | :----: | :---: | :----: | :------: | :---: | :-------: | :-------: | :---: | :------: | :-----: | :---: | :--: | :----: | :----: | :------: | :---: | :---------: | :-----: | :-------: |
@@ -666,11 +686,23 @@ If a foe has a sufficiently high Defense to certain Damage Types, then the best 
 
 ### Defending Skill
 
-Certain Damage Types can be defended against with a skill check.
+When a character is taking an injury from a Damage Type that has a Defending Skill, the can add the wins gained from their Defending Skill's Dice Pool to their Defense.
 
-Wins determined by a Defending Skill Check plus any Defense you might have against this specific damage source act as your Total Defense against that injury.
+The character can choose to take the static amount of wins or roll.
 
-The character may also abstain from rolling, choosing to take the average number of wins given the size of the dice pool. This can be calculated by dividing the number of dice rolled by 2 and then rounding down.
+**Static Wins:** For the Defending Skill, take the size of the Dice Pool, divide it by 2, and then round down to the nearst whole number.
+
+**Rolled Wins:** The wins achieved by rolling the Defending Skill's Dice Pool count as count as Defense.
+
+If in combat, the amount of wins gained from a Defending Skill remain for an entire round.
+
+#### Example
+
+A character takes a Serious Injury (level 3) from a poison spray. The Poison Damge Type's' Defending Skill is "Endurance". The character's Endurance Dice Pool is "5d6".
+
+**Choosing the Static Wins:** If the character takes the static wins, they have 2.5 wins. That means they are able to scale down the injury to a Minor Injury (level 1).
+
+**Choosing to Roll for Wins:** If the character wants to roll, they have the chance of negating the injury completely. If they rolled and got 3 wins, they would completely resist the injury. However, if they for instance only got 1 win, they would take a Medium Injury (level 2).
 
 ### Armor
 
@@ -1547,20 +1579,17 @@ Adds or subtracts dice for dice pools if they governed by at least one of the At
 
 |            Name            |                                                                                            Description                                                                                            |        Duration        |                     Source                     | Affected Attributes | Dice Pool Modifier |
 | :------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------: | :--------------------------------------------: | :-----------------: | :----------------: |
-|        Minor Injury        |                                 -1d to STR/RFX/INT/CHA governed Dice Pools. The injury will naturally heal over the next few days, or faster if treated actively.                                 |    Days if untreated    |                Source of Injury                |    STR, RFX, INT    |        -1d        |
-|       Medium Injury       |                          -2d to STR/RFX/INT/CHA governed Dice Pools. The injury must be treated relatively soon otherwise further penalties may apply such as infection.                          |   Weeks if untreated   |                Source of Injury                |    STR, RFX, INT    |        -2d        |
-|       Serious Injury       |                                                  -3d to STR/RFX/INT/CHA governed Dice Pools.  The injury will lead to death in time if untreated.                                                  |   Months if untreated   |                Source of Injury                |    STR, RFX, INT    |        -3d        |
-|        Fatal Injury        | -4d to STR/RFX/INT/CHA governed Dice Pools. The injury will lead to death very soon if untreated. The character inflicted with this injury is Physically Incapacitated (see the Narrative Effect). | Indefinite if untreated |                Source of Injury                |    STR, RFX, INT    |        -4d        |
-|     Death Blow Injury     |                                                                -5d to STR/RFX/INT/CHA governed Dice Pools. The injury causes death.                                                                |       Indefinite       |                Source of Injury                |    STR, RFX, INT    |        -5d        |
+|        Minor Injury        |                                 -1d to STR/RFX/INT/CHA governed Dice Pools. The injury will naturally heal over the next few days, or faster if treated actively.                                 |    Days if untreated    |                Source of Injury                | STR, RFX, INT, CHA |        -1d        |
+|       Medium Injury       |                          -2d to STR/RFX/INT/CHA governed Dice Pools. The injury must be treated relatively soon otherwise further penalties may apply such as infection.                          |   Weeks if untreated   |                Source of Injury                | STR, RFX, INT, CHA |        -2d        |
+|       Serious Injury       |                                                  -3d to STR/RFX/INT/CHA governed Dice Pools.  The injury will lead to death in time if untreated.                                                  |   Months if untreated   |                Source of Injury                | STR, RFX, INT, CHA |        -3d        |
+|        Fatal Injury        | -4d to STR/RFX/INT/CHA governed Dice Pools. The injury will lead to death very soon if untreated. The character inflicted with this injury is Physically Incapacitated (see the Narrative Effect). | Indefinite if untreated |                Source of Injury                | STR, RFX, INT, CHA |        -4d        |
+|     Death Blow Injury     |                                                                -5d to STR/RFX/INT/CHA governed Dice Pools. The injury causes death.                                                                |       Indefinite       |                Source of Injury                | STR, RFX, INT, CHA |        -5d        |
 |                            |                                                                                                                                                                                                    |                        |                                                |                    |                    |
 |    Weight Class: Light    |                                                                                 -0d to STR/RFX governed Dice Pools                                                                                 |       Indefinite       | 0% =< Equipment Weight <= 25% of Carry Weight |      STR, RFX      |        -0d        |
 |    Weight Class: Medium    |                                                                                 -1d to STR/RFX governed Dice Pools                                                                                 |       Indefinite       | 25% < Equipment Weight <= 50% of Carry Weight |      STR, RFX      |        -1d        |
-|    Weight Class: Heavy    |                                                                                 -2d to STR/RFX governed Dice Pools                                                                                 |       Indefinite       | 50% < Equipment Weight <= 100% of Carry Weight |      STR, RFX      |        -2d        |
+|    Weight Class: Heavy    |                                                                                 -2d to STR/RFX governed Dice Pools                                                                                 |       Indefinite       | 50% < Equipment Weight <= 75% of Carry Weight |      STR, RFX      |        -2d        |
+|  Weight Class: Very Heavy  |                                                                                 -3d to STR/RFX governed Dice Pools                                                                                 |       Indefinite       | 75% < Equipment Weight <= 100% of Carry Weight |      STR, RFX      |        -3d        |
 | Weight Class: Overburdened |                                                                                 -4d to STR/RFX governed Dice Pools                                                                                 |       Indefinite       |    100% < Equipment Weight of Carry Weight    |      STR, RFX      |        -4d        |
-
-**Injury:**
-
-Injury is handled as part of the narrative with dice penalties being applied per injury to all a character's dice checks. A character is rendered Physically Incapacitated once they've taken a summed 5 or above injury dice. Typical "status effects" such as being poisoned, frostbitten, bleeding, madness, etc... are handled elegantly through the injury system. For instance, if you were dealt a Serious injury by mild poison mist, then narratively explain it as getting a large breath full. If the character instead was dealt a Serious injury by an extremely lethal poison mist, then narratively it would be explained as only getting a small whiff. The resulting dice penalty acts as your "status effect" debuffing your character until they are resolved. For instance, anti-venom might be able to remove the poison injury or warming up by a fire might reduce hypothermia from the cold.
 
 **Weight Class:**
 
@@ -3106,6 +3135,10 @@ If an injury is not fully negated by the defender's armor, then all pieces of ar
 # Variant Rule
 
 These are optional rules that aren't required and are up to the Narrator if they will be used.
+
+### 5 Summed injury dice causes Incapacitated
+
+A character is rendered Physically Incapacitated once they've taken a summed 5 or above injury dice.
 
 ### Skill Specialty
 
