@@ -1,19 +1,19 @@
-name,defendingSkill,description
-Slash,None,Caused by pushing or drawing a bladed edge to produce the force necessary to slice.
-Pierce,None,Caused by pointed objects.
-Bludgeon,None,Caused by blunt force.
-Hew,None,Caused by the pressing of a bladed edge to produce the force necessary to shear.
-Ballistic,None,Caused by bullets from firearms.
-Shockwave,None,Caused by shock waves and sound.
-Fire,None,Caused by intense heat or combustion.
-Electric,None,Caused by lightning or other sources of electricity.
-Radiant,None,Caused specifically by divine power or sunlight.
-Acid,None,Caused by corrosive substances.
-Cold,Endurance,Caused by extremely low temperatures.
-Silver,Endurance,Caused by a Silvered weapon.
-Poison,Endurance,Caused by poisons or toxins.
-Necrotic,Endurance,"Caused by rot, decay, and undeath."
-Bleed,Endurance,Caused by the loss of blood.
-Fatigue,Endurance,"Caused by the lack of nutrition, rest, drinkable water, breathable air, ect..."
-Psychic,Willpower,Caused by mental trauma.
-Spiritual,Willpower,Caused by spiritual sources such as ghosts or divine entities.
+name,description,defendingSkill
+Slash,Caused by pushing or drawing a bladed edge to produce the force necessary to slice.,None
+Pierce,Caused by pointed objects.,None
+Bludgeon,Caused by blunt force.,None
+Hew,Caused by the pressing of a bladed edge to produce the force necessary to shear.,None
+Ballistic,Caused by bullets from firearms.,None
+Shockwave,Caused by shock waves and sound.,None
+Fire,Caused by intense heat or combustion.,None
+Electric,Caused by lightning or other sources of electricity.,None
+Radiant,Caused specifically by divine power or sunlight.,None
+Acid,Caused by corrosive substances.,None
+Cold,Caused by extremely low temperatures.,Endurance
+Silver,Caused by a Silvered weapon.,Endurance
+Poison,Caused by poisons or toxins.,Endurance
+Necrotic,"Caused by rot, decay, and undeath.",Endurance
+Bleed,Caused by the loss of blood.,Endurance
+Fatigue,"Caused by the lack of nutrition, rest, drinkable water, breathable air, ect...",Endurance
+Psychic,Caused by mental trauma.,Willpower
+Spiritual,Caused by spiritual sources such as ghosts or divine entities.,Willpower
