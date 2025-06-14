@@ -742,29 +742,29 @@ When using a grid Battle Map for combat, it is important to inform your players 
 
 ## Range
 
-A Range specifies at what distance an action can be performed. The Start Range specifies the shortest distance the Range covers. The End Range specifies the furthest distance the Range covers.
+A Range specifies at what distance an action can be performed. The Min Range specifies the shortest distance the Range covers. The Max Range specifies the furthest distance the Range covers.
 
-Start Range = (Start Range Base) + ((Size of governing Skill Dice Pool) * (Start Range Per Dice))
+Min Range = (Min Range Base) + ((Size of governing Skill Dice Pool) * (Min Range Per Dice))
 
-End Range = (End Range Base) + ((Size of governing Skill Dice Pool) * (End Range Per Dice))
+Max Range = (Max Range Base) + ((Size of governing Skill Dice Pool) * (Max Range Per Dice))
 
-The result of calculating a range can be written as "(Range Name): (Start Range) - (End Range) (Length Unit of Mesure)", for example "Melee: 0 - 5 ft".
+The result of calculating a range can be written as "(Range Name): (Min Range) - (Max Range) (Length Unit of Measure)", for example "Melee: 0 - 5 ft".
 
 If a Range specifies "(Normal)" as part of it's name, than the Dice Pool rolled for the action will do so normally. If "(Disadvantage)" is specified than the Dice Pool rolled for the action does so at Disadvantage. If "(Super Disadvantage)" is specified than the Dice Pool rolled for the action does so at Super Disadvantage.
 
-Often, an action will have multiple Ranges, usually done to denote different behavior. If the Ranges overlap eachother, than the most advantegous Range can be used.
+Often, an action will have multiple Ranges, usually done to denote different behavior. If the Ranges overlap each other, than the most advantageous Range can be used.
 
 **Name:** The name of the range.
 
-**Start Range Base:** The base amount for the Start Range.
+**Min Range Base:** The base amount for the Min Range.
 
-**Start Range Per Dice:** The amount of additional Start Range per dice in the governing Skill's Dice Pool.
+**Min Range Per Dice:** The amount of additional Min Range per dice in the governing Skill's Dice Pool.
 
-**End Range Base:** The base amount for the End Range.
+**Max Range Base:** The base amount for the Max Range.
 
-**End Range Base:** The amount of additional End Range per dice in the governing Skill's Dice Pool.
+**Max Range Base:** The amount of additional Max Range per dice in the governing Skill's Dice Pool.
 
-|               Name               | Start Range Base | Start Range Per Dice | End Range Base | End Range Per Dice |
+|               Name               | Min Range Base | Min Range Per Dice | Max Range Base | Max Range Per Dice |
 | :-------------------------------: | :--------------: | :------------------: | :------------: | :----------------: |
 |               Self               |        0        |          0          |       0       |         0         |
 |               Melee               |        0        |          0          |       5       |         0         |
@@ -818,7 +818,7 @@ Often, an action will have multiple Ranges, usually done to denote different beh
 
 A character is trying to determine how far away they can shoot their fireball spell. It has the Ranges "Long (Normal), Long (Disadvantage), Long (Super Disadvantage)". The governing Skill's Dice Pool is 7d6.
 
-We'd calcualte the "Long (Normal)" Range as follows. It's Start Range would 0 + (7 * 0) = 0. It's End Range would be 0 + (7 * 20) = 140. So the result would be "Long (Normal): 0 - 140 ft".
+We'd calcualte the "Long (Normal)" Range as follows. It's Min Range would 0 + (7 * 0) = 0. It's Max Range would be 0 + (7 * 20) = 140. So the result would be "Long (Normal): 0 - 140 ft".
 
 The final result of all of the Ranges would be "Long (Normal): 0 - 140 ft, Long (Disadvantage): 140 - 280 ft, Long (Super Disadvantage): 280 - 420 ft". Since "Long (Normal)" and "Long (Disadvantage)" overlap at 140 ft, if a target were engaged at that distance than we'd use "Long (Normal)" since it is the most adventageous.
 

@@ -1,4 +1,4 @@
-name,startRangeBase,startRangePerDice,endRangeBase,endRangePerDice
+name,minRangeBase,minRangePerDice,maxRangeBase,maxRangePerDice
 Self,0,0,0,0
 Melee,0,0,5,0
 Reach,0,0,10,0
