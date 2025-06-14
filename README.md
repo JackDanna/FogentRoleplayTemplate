@@ -637,7 +637,7 @@ Typical "status effects" such as being poisoned, frostbitten, bleeding, madness,
 
 ## Defense
 
-Defense is used to reduce incoming injuries from Damage Types by the equivalent amount of Defense against itIf a character has multiple Defenses, then add the values of the Defenses together for each Damage Type to get their Total Defense. If a Totaled Defense to a specific Damage Type has a decimal place remainder, you'll round it down to the nearest whole number when reducing an injury with it.
+Defense is used to reduce incoming injuries from Damage Types by the equivalent amount of Defense against it. If a character has multiple Defenses, then add the values of the Defenses together for each Damage Type to get their Total Defense. If a Totaled Defense to a specific Damage Type has a decimal place remainder, you'll round it down to the nearest whole number when reducing an injury with it.
 
 If a foe has a sufficiently high Defense to a certain Damage Type, then the best course of action is to circumvent it. For instance, a knight in full plate armor would be extremely difficult to injury from injuries caused by the Slash Damage Type. In these circumstances, the most efficient way of defeating a character in heavy armor is grappling them or tripping them and holding them down, just like in real life. Another option is to use an attack with a different Damage Type, such as spraying poison mist at them, to completely circumvent there high Slash defense.
 
