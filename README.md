@@ -592,7 +592,7 @@ These rolls may be used in situations of great intensity to help the Narrator gu
 
 ## Damage Types
 
-Damage Types are the various sources a character can recieve an injury from.
+Damage Types represent the various sources of injuries a character can receive.
 
 **Name:** The name of the Damage Type.
 
