@@ -748,7 +748,7 @@ A Range specifies at what distance an action can be performed. The startRange sp
 
 startRange = (startRangeBase) + ((Size of governing Skill Dice Pool) * (startRangePerDice))
 
-endRange = (startRangeBase) + ((Size of governing Skill Dice Pool) * (startRangePerDice))
+endRange = (endRangeBase) + ((Size of governing Skill Dice Pool) * (endRangePerDice))
 
 The result of calculating a range can be written as "(Range Name): (startRange) - (endRange) (Length Unit of Mesure)", for example "Melee: 0 - 5 ft".
 
@@ -764,7 +764,7 @@ Often, an action will have multiple Ranges, usually done to denote different beh
 
 **endRangeBase:** The base amount for the endRange.
 
-**endRangeBase:** The amount of additional endRange per dice in the governing Skill's Dice Pool.y
+**endRangeBase:** The amount of additional endRange per dice in the governing Skill's Dice Pool.
 
 |               Name               | startRangeBase | startRangePerDice | endRangeBase | endRangePerDice |
 | :-------------------------------: | :------------: | :---------------: | :----------: | :-------------: |

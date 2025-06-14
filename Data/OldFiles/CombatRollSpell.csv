@@ -1,70 +1,70 @@
 variation,combatRollType,baseDiceAdjustment,dicePoolModifier,penetration,range,usesPerRound,areaOfEffect,optionalResourceTypeAndAmount,damageTypes,governingSkillName,description,duration,source
-One-handed,Magic Dart,+0,+0d6,0,Short,Swift,None,"Generic, 0",,,"Can be used as a Combat Roll. Disadvantage while within range of ",Indefinite,Innate
-Dual-wielded,Magic Dart,+0,+1d6,0,Short,Swift,None,"Generic, 0",,,Can be used as a Combat Roll.,Indefinite,Innate
+One-handed,Magic Dart,+0,+0d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,"Generic, 0",,,"Can be used as a Combat Roll. Disadvantage while within range of ",Indefinite,Innate
+Dual-wielded,Magic Dart,+0,+1d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,"Generic, 0",,,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,
-Two-handed,Magic Sling,+0,+0d6,0,Mediocre,Quick,None,"Generic, 0",,,Can be used as a Combat Roll.,Indefinite,Innate
+Two-handed,Magic Sling,+0,+0d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,"Generic, 0",,,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,
-One-handed,Magic Javelin,+0,+1d6,1,Mediocre,Quick,None,"Generic, 1",,,Can be used as a Combat Roll.,Indefinite,Innate
+One-handed,Magic Javelin,+0,+1d6,1,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,"Generic, 1",,,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,
-One-handed,Magic Great Javelin,+0,+1d6,2,Short,Quick,None,"Generic, 1",,,Can be used as a Combat Roll.,Indefinite,Innate
+One-handed,Magic Great Javelin,+0,+1d6,2,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,"Generic, 1",,,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,
-One-handed,Magic Hand Bolt,+0,+1d6,0,Mediocre,Quick,None,"Generic, 1",,,Can be used as a Combat Roll.,Indefinite,Innate
-Dual-wielded,Magic Hand Bolt,+0,+2d6,0,Mediocre,Quick,None,"Generic, 1",,,Can be used as a Combat Roll.,Indefinite,Innate
+One-handed,Magic Hand Bolt,+0,+1d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,"Generic, 1",,,Can be used as a Combat Roll.,Indefinite,Innate
+Dual-wielded,Magic Hand Bolt,+0,+2d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,"Generic, 1",,,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,
-Two-handed,Magic Bolt,+0,+1d6,1,Far,Steady,None,"Generic, 1",,,Can be used as a Combat Roll.,Indefinite,Innate
+Two-handed,Magic Bolt,+0,+1d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,"Generic, 1",,,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,
-Two-handed,Magic Great Bolt,+0,+2d6,2,Long,Extremely Slow,None,"Generic, 1",,,Can be used as a Combat Roll.,Indefinite,Innate
+Two-handed,Magic Great Bolt,+0,+2d6,2,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,"Generic, 1",,,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,
-Two-handed,Magic Arrow,+0,+1d6,0,Far,Swift,None,"Generic, 1",,,Can be used as a Combat Roll.,Indefinite,Innate
+Two-handed,Magic Arrow,+0,+1d6,0,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift,None,"Generic, 1",,,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,
-One-handed,Magic Penetrating Hand Bolt,+0,+1d6,1,Mediocre,Quick,None,"Generic, 2",,,Can be used as a Combat Roll.,Indefinite,Innate
-Dual-wielded,Magic Penetrating Hand Bolt,+0,+2d6,1,Mediocre,Quick,None,"Generic, 2",,,Can be used as a Combat Roll.,Indefinite,Innate
+One-handed,Magic Penetrating Hand Bolt,+0,+1d6,1,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,"Generic, 2",,,Can be used as a Combat Roll.,Indefinite,Innate
+Dual-wielded,Magic Penetrating Hand Bolt,+0,+2d6,1,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,"Generic, 2",,,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,
-Two-handed,Magic Penetrating Bolt,+0,+1d6,2,Far,Steady,None,"Generic, 2",,,Can be used as a Combat Roll.,Indefinite,Innate
+Two-handed,Magic Penetrating Bolt,+0,+1d6,2,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,"Generic, 2",,,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,
-Two-handed,Magic Penetrating Great Bolt,+0,+2d6,3,Long,Extremely Slow,None,"Generic, 2",,,Can be used as a Combat Roll.,Indefinite,Innate
+Two-handed,Magic Penetrating Great Bolt,+0,+2d6,3,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,"Generic, 2",,,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,
-Two-handed,Magic Penetrating Arrow,+0,+1d6,1,Far,Swift,None,"Generic, 2",,,Can be used as a Combat Roll.,Indefinite,Innate
+Two-handed,Magic Penetrating Arrow,+0,+1d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift,None,"Generic, 2",,,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,
-Two-handed,Magic Great Arrow,+0,+2d6,2,Sharpshooter,Quick,None,"Generic, 2",,,Can be used as a Combat Roll.,Indefinite,Innate
+Two-handed,Magic Great Arrow,+0,+2d6,2,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Quick,None,"Generic, 2",,,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,
-Two-handed,Magic Penetrating Great Arrow,+0,+2d6,3,Sharpshooter,Quick,None,"Generic, 3",,,Can be used as a Combat Roll.,Indefinite,Innate
+Two-handed,Magic Penetrating Great Arrow,+0,+2d6,3,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Quick,None,"Generic, 3",,,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,
-One-handed,Magic Hand Discharge,+0,+2d6,0,Mediocre,Extremely Slow,None,"Generic, 3",,,Can be used as a Combat Roll.,Indefinite,Innate
-Dual-wielded,Magic Hand Discharge,+0,+3d6,0,Mediocre,Extremely Slow,None,"Generic, 3",,,Can be used as a Combat Roll.,Indefinite,Innate
+One-handed,Magic Hand Discharge,+0,+2d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Extremely Slow,None,"Generic, 3",,,Can be used as a Combat Roll.,Indefinite,Innate
+Dual-wielded,Magic Hand Discharge,+0,+3d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Extremely Slow,None,"Generic, 3",,,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,
-One-handed,Magic Discharge,+0,+0d6,0,Long,Extremely Slow,None,"Generic, 3",,,Can be used as a Combat Roll.,Indefinite,Innate
-Two-handed,Magic Discharge,+0,+2d6,0,Long,Extremely Slow,None,"Generic, 3",,,Can be used as a Combat Roll.,Indefinite,Innate
+One-handed,Magic Discharge,+0,+0d6,0,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,"Generic, 3",,,Can be used as a Combat Roll.,Indefinite,Innate
+Two-handed,Magic Discharge,+0,+2d6,0,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,"Generic, 3",,,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,
-One-handed,Magic Great Discharge,+0,+0d6,1,Sharpshooter,Painfully Slow,None,"Generic, 3",,,Can be used as a Combat Roll.,Indefinite,Innate
-Two-handed,Magic Great Discharge,+0,+3d6,1,Sharpshooter,Painfully Slow,None,"Generic, 3",,,Can be used as a Combat Roll.,Indefinite,Innate
+One-handed,Magic Great Discharge,+0,+0d6,1,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Painfully Slow,None,"Generic, 3",,,Can be used as a Combat Roll.,Indefinite,Innate
+Two-handed,Magic Great Discharge,+0,+3d6,1,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Painfully Slow,None,"Generic, 3",,,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,
-One-handed,Magic Blast,+0,+2d6,2,Extended,Swift +2,None,"Generic, 4",,,Can be used as a Combat Roll.,Indefinite,Innate
-Dual-wielded,Magic Blast,+0,+3d6,2,Extended,Swift +2,None,"Generic, 4",,,Can be used as a Combat Roll.,Indefinite,Innate
+One-handed,Magic Blast,+0,+2d6,2,"Extended (Normal), Extended (Disadvantage), Extended (Super Disadvantage)",Swift +2,None,"Generic, 4",,,Can be used as a Combat Roll.,Indefinite,Innate
+Dual-wielded,Magic Blast,+0,+3d6,2,"Extended (Normal), Extended (Disadvantage), Extended (Super Disadvantage)",Swift +2,None,"Generic, 4",,,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,
-One-handed,Magic Burst Blast,+0,+3d6,2,Mediocre,Swift +2,None,"Generic, 4",,,Can be used as a Combat Roll.,Indefinite,Innate
-Dual-wielded,Magic Burst Blast,+0,+4d6,2,Mediocre,Swift +2,None,"Generic, 4",,,Can be used as a Combat Roll.,Indefinite,Innate
+One-handed,Magic Burst Blast,+0,+3d6,2,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Swift +2,None,"Generic, 4",,,Can be used as a Combat Roll.,Indefinite,Innate
+Dual-wielded,Magic Burst Blast,+0,+4d6,2,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Swift +2,None,"Generic, 4",,,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,
-One-handed,Magic Rapid Blast,+0,+3d6,2,Short,Rapid,None,"Generic, 4",,,Can be used as a Combat Roll.,Indefinite,Innate
-Dual-wielded,Magic Rapid Blast,+0,+4d6,2,Short,Rapid,None,"Generic, 4",,,Can be used as a Combat Roll.,Indefinite,Innate
+One-handed,Magic Rapid Blast,+0,+3d6,2,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Rapid,None,"Generic, 4",,,Can be used as a Combat Roll.,Indefinite,Innate
+Dual-wielded,Magic Rapid Blast,+0,+4d6,2,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Rapid,None,"Generic, 4",,,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,
-One-handed,5.56 Semi-automatic Rifle,+0,+1d6,3,Extreme,Swift +2,None,"Generic, 5",,,Can be used as a Combat Roll.,Indefinite,Innate
-Two-handed,5.56 Semi-automatic Rifle,+0,+3d6,3,Extreme,Swift +2,None,"Generic, 5",,,Can be used as a Combat Roll.,Indefinite,Innate
+One-handed,5.56 Semi-automatic Rifle,+0,+1d6,3,"Extreme (Normal), Extreme (Disadvantage), Extreme (Super Disadvantage)",Swift +2,None,"Generic, 5",,,Can be used as a Combat Roll.,Indefinite,Innate
+Two-handed,5.56 Semi-automatic Rifle,+0,+3d6,3,"Extreme (Normal), Extreme (Disadvantage), Extreme (Super Disadvantage)",Swift +2,None,"Generic, 5",,,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,
-One-handed,5.56 Burst Rifle,+0,+2d6,3,Sharpshooter,Swift +2,None,"Generic, 5",,,Can be used as a Combat Roll.,Indefinite,Innate
-Two-handed,5.56 Burst Rifle,+0,+4d6,3,Sharpshooter,Swift +2,None,"Generic, 5",,,Can be used as a Combat Roll.,Indefinite,Innate
+One-handed,5.56 Burst Rifle,+0,+2d6,3,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Swift +2,None,"Generic, 5",,,Can be used as a Combat Roll.,Indefinite,Innate
+Two-handed,5.56 Burst Rifle,+0,+4d6,3,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Swift +2,None,"Generic, 5",,,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,
-One-handed,5.56 Automatic Rifle,+0,+2d6,3,Distant,Rapid,None,"Generic, 5",,,Can be used as a Combat Roll.,Indefinite,Innate
-Two-handed,5.56 Automatic Rifle,+0,+4d6,3,Distant,Rapid,None,"Generic, 5",,,Can be used as a Combat Roll.,Indefinite,Innate
+One-handed,5.56 Automatic Rifle,+0,+2d6,3,"Distant (Normal), Distant (Disadvantage), Distant (Super Disadvantage)",Rapid,None,"Generic, 5",,,Can be used as a Combat Roll.,Indefinite,Innate
+Two-handed,5.56 Automatic Rifle,+0,+4d6,3,"Distant (Normal), Distant (Disadvantage), Distant (Super Disadvantage)",Rapid,None,"Generic, 5",,,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,
-One-handed,.308 Bolt Action Rifle,+0,+1d6,4,Sniper,Quick,None,"Generic, 5",,,Can be used as a Combat Roll.,Indefinite,Innate
-Two-handed,.308 Bolt Action Rifle,+0,+4d6,4,Sniper,Quick,None,"Generic, 5",,,Can be used as a Combat Roll.,Indefinite,Innate
+One-handed,.308 Bolt Action Rifle,+0,+1d6,4,"Sniper (Normal), Sniper (Disadvantage), Sniper (Super Disadvantage)",Quick,None,"Generic, 5",,,Can be used as a Combat Roll.,Indefinite,Innate
+Two-handed,.308 Bolt Action Rifle,+0,+4d6,4,"Sniper (Normal), Sniper (Disadvantage), Sniper (Super Disadvantage)",Quick,None,"Generic, 5",,,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,
-One-handed,5.56 Machine Gun,+0,-2d,3,Extreme,Rapid,None,"Generic, 5",,,Can be used as a Combat Roll.,Indefinite,Innate
-Two-handed,5.56 Machine Gun,+0,+4d6,3,Extreme,Rapid,None,"Generic, 5",,,Can be used as a Combat Roll.,Indefinite,Innate
+One-handed,5.56 Machine Gun,+0,-2d,3,"Extreme (Normal), Extreme (Disadvantage), Extreme (Super Disadvantage)",Rapid,None,"Generic, 5",,,Can be used as a Combat Roll.,Indefinite,Innate
+Two-handed,5.56 Machine Gun,+0,+4d6,3,"Extreme (Normal), Extreme (Disadvantage), Extreme (Super Disadvantage)",Rapid,None,"Generic, 5",,,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,
-One-handed,RPG Launcher,+0,-2d,6,Sharpshooter,Paced,30 ft Sphere,"Generic, 5",,,Can be used as a Combat Roll.,Indefinite,Innate
-Two-handed,RPG Launcher,+0,+6d6,6,Sharpshooter,Paced,30 ft Sphere,"Generic, 5",,,Can be used as a Combat Roll.,Indefinite,Innate
+One-handed,RPG Launcher,+0,-2d,6,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Paced,30 ft Sphere,"Generic, 5",,,Can be used as a Combat Roll.,Indefinite,Innate
+Two-handed,RPG Launcher,+0,+6d6,6,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Paced,30 ft Sphere,"Generic, 5",,,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,
 One-handed,Magic Glove,+0,-1d,0,Melee,Swift,None,"Generic, 0",,,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,
