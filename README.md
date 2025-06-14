@@ -782,9 +782,9 @@ Often, an action will have multiple Ranges, usually done to denote different beh
 |      Mediocre (Disadvantage)      |        0        |          5          |       0       |         10         |
 |   Mediocre (Super Disadvantage)   |        0        |          10          |       0       |         15         |
 |                                  |                  |                      |                |                    |
-|         Medium  (Normal)         |        0        |          0          |       0       |        7.5        |
-|      Medium  (Disadvantage)      |        0        |         7.5         |       0       |         15         |
-|   Medium  (Super Disadvantage)   |        0        |          15          |       0       |        22.5        |
+|         Medium (Normal)         |        0        |          0          |       0       |        7.5        |
+|      Medium (Disadvantage)      |        0        |         7.5         |       0       |         15         |
+|   Medium (Super Disadvantage)   |        0        |          15          |       0       |        22.5        |
 |                                  |                  |                      |                |                    |
 |         Extended (Normal)         |        0        |          0          |       0       |         10         |
 |      Extended (Disadvantage)      |        0        |          10          |       0       |         20         |
