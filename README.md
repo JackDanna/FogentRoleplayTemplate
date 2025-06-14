@@ -746,47 +746,87 @@ When using a grid Battle Map for combat, it is important to inform your players 
 
 ## Range
 
-A Range determines the distance at which some action can be performed.
+*When using a Range on a battlemap, if any of the components of the Range have a decimal remainder, round down to the nearest multiple of 5 ft.
 
-A Range has an Effective, optional Ineffective, and optional Max component to it.
+A Range specifies at what distance an action can be performed. The startRange specifies the shortest distance the Range covers. The endRange specifies the furthest distance the Range covers.
 
-The Effective, Ineffective, and Max components of a Range are usually represented on a character sheet in the "Effective/Ineffective/Max" format. For example, "100/200/300" translates to an Effective Range of 100 ft, an Ineffective Range of 200 ft, and a Max Range of 300 ft. If a Range doesn't have a Ineffective or Max component, you would simply write "None", such as "100/None/None"
+startRange = (startRangeBase) + ((Size of governing Skill Dice Pool) * (startRangePerDice))
 
-When using a Range on a battlemap, if any of the components of the Range have a decimal remainder, round down to the nearest multiple of 5 ft.
+endRange = (startRangeBase) + ((Size of governing Skill Dice Pool) * (startRangePerDice))
 
-**Effective Range:** Less than or equal to the Effective component of a Range, dice pool rolls are unchanged.
+The result of calculating a range can be written as "(Range Name): (startRange) - (endRange) (Length Unit of Mesure)", for example "Melee: 0 - 5 ft".
 
-**Ineffective Range:** Greater than the Effective component of a Range but less than or equal to the Ineffective component of a Range, dice pool rolls gain Disadvantage.
+If a Range specifies "(Normal)" as part of it's name, than the Dice Pool rolled for the action will do so normally. If "(Disadvantage)" is specified than the Dice Pool rolled for the action does so at Disadvantage. If "(Super Disadvantage)" is specified than the Dice Pool rolled for the action does so at Super Disadvantage.
 
-**Max Range:** Greater than the Ineffective component of a Range but less than or equal to the Max component of a Range, dice pool rolls gain Super Disadvantage.
+Often, an action will have multiple Ranges, usually done to denote different behavior. If the Ranges overlap eachother, than the most advantegous Range can be used.
 
-Ranges with "... Per Dice" parts of there components scales with the size of the Skill Dice Pool they are associated with. This could be used for magic users, with the size of their area of effects scaling with their proficiency with their magic. This could also just be getting more skillful with a weapon.
+**Name:** The name of the range.
 
-When calculating a component of a Range, for example Effective Range, you first multiply "Effective Range Per Dice" by the current size of the governing skill dice pool. You than take that result and add it to the "Effective Range Base".
+**startRangeBase:** The base amount for the startRange.
 
-Effective Range = (Effective Range Base) + ( (Size of governing skill dice pool) * (Effective Range Per Dice) )
+**startRangePerDice:** The amount of additional startRange per dice in the governing Skill's Dice Pool.
 
-Ineffective Range = (Ineffective Range Base) + ( (Size of governing skill dice pool) * (Ineffective Range Per Dice) )
+**endRangeBase:** The base amount for the endRange.
 
-Max Range = (Max Range Base) + ( (Size of governing skill dice pool) * (Max Range Per Dice) )
+**endRangeBase:** The amount of additional endRange per dice in the governing Skill's Dice Pool.y
 
-|     Name     | Effective Range Base | Effective Range Per Dice | Optional Ineffective Range Base | Optional Ineffective Range Per Dice | Optional Max Range Base | Optional Max Range Per Dice |
-| :----------: | :------------------: | :----------------------: | :-----------------------------: | :---------------------------------: | :---------------------: | :-------------------------: |
-|     Self     |          0          |            0            |              None              |                None                |          None          |            None            |
-|    Melee    |          5          |            0            |              None              |                None                |          None          |            None            |
-|    Reach    |          10          |            0            |              None              |                None                |          None          |            None            |
-|     Near     |          0          |           1.67           |                0                |                3.34                |            0            |            5.01            |
-|    Close    |          0          |           2.5           |                0                |                  5                  |            0            |             7.5             |
-|    Short    |          0          |           3.34           |                0                |                6.68                |            0            |            10.02            |
-|   Mediocre   |          0          |            5            |                0                |                 10                 |            0            |             15             |
-|    Medium    |          0          |           7.5           |                0                |                 15                 |            0            |            22.5            |
-|   Extended   |          0          |            10            |                0                |                 20                 |            0            |             30             |
-|     Far     |          0          |            15            |                0                |                 30                 |            0            |             45             |
-|     Long     |          0          |            20            |                0                |                 40                 |            0            |             60             |
-|   Distant   |          0          |            25            |                0                |                 50                 |            0            |             75             |
-| Sharpshooter |          0          |            30            |                0                |                 60                 |            0            |             90             |
-|   Extreme   |          0          |            35            |                0                |                 70                 |            0            |             105             |
-|    Sniper    |          0          |            50            |                0                |                 100                 |            0            |             150             |
+|               Name               | startRangeBase | startRangePerDice | endRangeBase | endRangePerDice |
+| :-------------------------------: | :------------: | :---------------: | :----------: | :-------------: |
+|               Self               |       0       |         0         |      0      |        0        |
+|               Melee               |       0       |         0         |      5      |        0        |
+|               Reach               |       0       |         0         |      10      |        0        |
+|                                  |                |                  |              |                |
+|           Near (Normal)           |       0       |         0         |      0      |      1.67      |
+|        Near (Disadvantage)        |       0       |       1.67       |      0      |      3.34      |
+|     Near (Super Disadvantage)     |       0       |       3.34       |      0      |      5.01      |
+|                                  |                |                  |              |                |
+|          Short (Normal)          |       0       |         0         |      0      |      3.34      |
+|       Short (Disadvantage)       |       0       |       3.34       |      0      |      6.68      |
+|    Short (Super Disadvantage)    |       0       |       6.68       |      0      |      10.02      |
+|                                  |                |                  |              |                |
+|         Mediocre (Normal)         |       0       |         0         |      0      |        5        |
+|      Mediocre (Disadvantage)      |       0       |         5         |      0      |       10       |
+|   Mediocre (Super Disadvantage)   |       0       |        10        |      0      |       15       |
+|                                  |                |                  |              |                |
+|         Medium  (Normal)         |       0       |         0         |      0      |       7.5       |
+|      Medium  (Disadvantage)      |       0       |        7.5        |      0      |       15       |
+|   Medium  (Super Disadvantage)   |       0       |        15        |      0      |      22.5      |
+|                                  |                |                  |              |                |
+|         Extended (Normal)         |       0       |         0         |      0      |       10       |
+|      Extended (Disadvantage)      |       0       |        10        |      0      |       20       |
+|   Extended (Super Disadvantage)   |       0       |        20        |      0      |       30       |
+|                                  |                |                  |              |                |
+|           Far (Normal)           |       0       |         0         |      0      |       15       |
+|        Far (Disadvantage)        |       0       |        15        |      0      |       30       |
+|     Far (Super Disadvantage)     |       0       |        30        |      0      |       45       |
+|                                  |                |                  |              |                |
+|           Long (Normal)           |       0       |         0         |      0      |       20       |
+|        Long (Disadvantage)        |       0       |        20        |      0      |       40       |
+|     Long (Super Disadvantage)     |       0       |        40        |      0      |       60       |
+|                                  |                |                  |              |                |
+|         Distant (Normal)         |       0       |         0         |      0      |       25       |
+|      Distant (Disadvantage)      |       0       |        25        |      0      |       50       |
+|   Distant (Super Disadvantage)   |       0       |        50        |      0      |       75       |
+|                                  |                |                  |              |                |
+|       Sharpshooter (Normal)       |       0       |         0         |      0      |       30       |
+|    Sharpshooter (Disadvantage)    |       0       |        30        |      0      |       60       |
+| Sharpshooter (Super Disadvantage) |       0       |        60        |      0      |       90       |
+|                                  |                |                  |              |                |
+|         Extreme (Normal)         |       0       |         0         |      0      |       35       |
+|      Extreme (Disadvantage)      |       0       |        35        |      0      |       70       |
+|   Extreme (Super Disadvantage)   |       0       |        70        |      0      |       105       |
+|                                  |                |                  |              |                |
+|          Sniper (Normal)          |       0       |         0         |      0      |       50       |
+|       Sniper (Disadvantage)       |       0       |        50        |      0      |       100       |
+|    Sniper (Super Disadvantage)    |       0       |        100        |      0      |       150       |
+
+### Example
+
+A character is trying to determine how far away they can shoot their fireball spell. It has the Ranges "Long (Normal), Long (Disadvantage), Long (Super Disadvantage)". The governing Skill's Dice Pool is 7d6.
+
+We'd calcualte the "Long (Normal)" Range as follows. It's startRange would 0 + (7 * 0) = 0. It's endRange would be 0 + (7 * 20) = 140. So the result would be "Long (Normal): 0 - 140 ft".
+
+The final result of all of the Ranges would be "Long (Normal): 0 - 140 ft, Long (Disadvantage): 140 - 280 ft, Long (Super Disadvantage): 280 - 420 ft". Since "Long (Normal)" and "Long (Disadvantage)" overlap at 140 ft, if a target were engaged at that distance than we'd use "Long (Normal)" since it is the most adventageous.
 
 ## Area Of Effect
 
