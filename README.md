@@ -742,8 +742,6 @@ When using a grid Battle Map for combat, it is important to inform your players 
 
 ## Range
 
-*When using a Range on a battlemap, if any of the components of the Range have a decimal remainder, round down to the nearest multiple of 5 ft.
-
 A Range specifies at what distance an action can be performed. The Start Range specifies the shortest distance the Range covers. The End Range specifies the furthest distance the Range covers.
 
 Start Range = (Start Range Base) + ((Size of governing Skill Dice Pool) * (Start Range Per Dice))
@@ -767,54 +765,54 @@ Often, an action will have multiple Ranges, usually done to denote different beh
 **End Range Base:** The amount of additional End Range per dice in the governing Skill's Dice Pool.
 
 |               Name               | Start Range Base | Start Range Per Dice | End Range Base | End Range Per Dice |
-| :-------------------------------: | :------------: | :---------------: | :----------: | :-------------: |
-|               Self               |       0       |         0         |      0      |        0        |
-|               Melee               |       0       |         0         |      5      |        0        |
-|               Reach               |       0       |         0         |      10      |        0        |
-|                                  |                |                  |              |                |
-|           Near (Normal)           |       0       |         0         |      0      |      1.67      |
-|        Near (Disadvantage)        |       0       |       1.67       |      0      |      3.34      |
-|     Near (Super Disadvantage)     |       0       |       3.34       |      0      |      5.01      |
-|                                  |                |                  |              |                |
-|          Short (Normal)          |       0       |         0         |      0      |      3.34      |
-|       Short (Disadvantage)       |       0       |       3.34       |      0      |      6.68      |
-|    Short (Super Disadvantage)    |       0       |       6.68       |      0      |      10.02      |
-|                                  |                |                  |              |                |
-|         Mediocre (Normal)         |       0       |         0         |      0      |        5        |
-|      Mediocre (Disadvantage)      |       0       |         5         |      0      |       10       |
-|   Mediocre (Super Disadvantage)   |       0       |        10        |      0      |       15       |
-|                                  |                |                  |              |                |
-|         Medium  (Normal)         |       0       |         0         |      0      |       7.5       |
-|      Medium  (Disadvantage)      |       0       |        7.5        |      0      |       15       |
-|   Medium  (Super Disadvantage)   |       0       |        15        |      0      |      22.5      |
-|                                  |                |                  |              |                |
-|         Extended (Normal)         |       0       |         0         |      0      |       10       |
-|      Extended (Disadvantage)      |       0       |        10        |      0      |       20       |
-|   Extended (Super Disadvantage)   |       0       |        20        |      0      |       30       |
-|                                  |                |                  |              |                |
-|           Far (Normal)           |       0       |         0         |      0      |       15       |
-|        Far (Disadvantage)        |       0       |        15        |      0      |       30       |
-|     Far (Super Disadvantage)     |       0       |        30        |      0      |       45       |
-|                                  |                |                  |              |                |
-|           Long (Normal)           |       0       |         0         |      0      |       20       |
-|        Long (Disadvantage)        |       0       |        20        |      0      |       40       |
-|     Long (Super Disadvantage)     |       0       |        40        |      0      |       60       |
-|                                  |                |                  |              |                |
-|         Distant (Normal)         |       0       |         0         |      0      |       25       |
-|      Distant (Disadvantage)      |       0       |        25        |      0      |       50       |
-|   Distant (Super Disadvantage)   |       0       |        50        |      0      |       75       |
-|                                  |                |                  |              |                |
-|       Sharpshooter (Normal)       |       0       |         0         |      0      |       30       |
-|    Sharpshooter (Disadvantage)    |       0       |        30        |      0      |       60       |
-| Sharpshooter (Super Disadvantage) |       0       |        60        |      0      |       90       |
-|                                  |                |                  |              |                |
-|         Extreme (Normal)         |       0       |         0         |      0      |       35       |
-|      Extreme (Disadvantage)      |       0       |        35        |      0      |       70       |
-|   Extreme (Super Disadvantage)   |       0       |        70        |      0      |       105       |
-|                                  |                |                  |              |                |
-|          Sniper (Normal)          |       0       |         0         |      0      |       50       |
-|       Sniper (Disadvantage)       |       0       |        50        |      0      |       100       |
-|    Sniper (Super Disadvantage)    |       0       |        100        |      0      |       150       |
+| :-------------------------------: | :--------------: | :------------------: | :------------: | :----------------: |
+|               Self               |        0        |          0          |       0       |         0         |
+|               Melee               |        0        |          0          |       5       |         0         |
+|               Reach               |        0        |          0          |       10       |         0         |
+|                                  |                  |                      |                |                    |
+|           Near (Normal)           |        0        |          0          |       0       |        1.67        |
+|        Near (Disadvantage)        |        0        |         1.67         |       0       |        3.34        |
+|     Near (Super Disadvantage)     |        0        |         3.34         |       0       |        5.01        |
+|                                  |                  |                      |                |                    |
+|          Short (Normal)          |        0        |          0          |       0       |        3.34        |
+|       Short (Disadvantage)       |        0        |         3.34         |       0       |        6.68        |
+|    Short (Super Disadvantage)    |        0        |         6.68         |       0       |       10.02       |
+|                                  |                  |                      |                |                    |
+|         Mediocre (Normal)         |        0        |          0          |       0       |         5         |
+|      Mediocre (Disadvantage)      |        0        |          5          |       0       |         10         |
+|   Mediocre (Super Disadvantage)   |        0        |          10          |       0       |         15         |
+|                                  |                  |                      |                |                    |
+|         Medium  (Normal)         |        0        |          0          |       0       |        7.5        |
+|      Medium  (Disadvantage)      |        0        |         7.5         |       0       |         15         |
+|   Medium  (Super Disadvantage)   |        0        |          15          |       0       |        22.5        |
+|                                  |                  |                      |                |                    |
+|         Extended (Normal)         |        0        |          0          |       0       |         10         |
+|      Extended (Disadvantage)      |        0        |          10          |       0       |         20         |
+|   Extended (Super Disadvantage)   |        0        |          20          |       0       |         30         |
+|                                  |                  |                      |                |                    |
+|           Far (Normal)           |        0        |          0          |       0       |         15         |
+|        Far (Disadvantage)        |        0        |          15          |       0       |         30         |
+|     Far (Super Disadvantage)     |        0        |          30          |       0       |         45         |
+|                                  |                  |                      |                |                    |
+|           Long (Normal)           |        0        |          0          |       0       |         20         |
+|        Long (Disadvantage)        |        0        |          20          |       0       |         40         |
+|     Long (Super Disadvantage)     |        0        |          40          |       0       |         60         |
+|                                  |                  |                      |                |                    |
+|         Distant (Normal)         |        0        |          0          |       0       |         25         |
+|      Distant (Disadvantage)      |        0        |          25          |       0       |         50         |
+|   Distant (Super Disadvantage)   |        0        |          50          |       0       |         75         |
+|                                  |                  |                      |                |                    |
+|       Sharpshooter (Normal)       |        0        |          0          |       0       |         30         |
+|    Sharpshooter (Disadvantage)    |        0        |          30          |       0       |         60         |
+| Sharpshooter (Super Disadvantage) |        0        |          60          |       0       |         90         |
+|                                  |                  |                      |                |                    |
+|         Extreme (Normal)         |        0        |          0          |       0       |         35         |
+|      Extreme (Disadvantage)      |        0        |          35          |       0       |         70         |
+|   Extreme (Super Disadvantage)   |        0        |          70          |       0       |        105        |
+|                                  |                  |                      |                |                    |
+|          Sniper (Normal)          |        0        |          0          |       0       |         50         |
+|       Sniper (Disadvantage)       |        0        |          50          |       0       |        100        |
+|    Sniper (Super Disadvantage)    |        0        |         100         |       0       |        150        |
 
 ### Example
 
@@ -3177,6 +3175,10 @@ If an injury is not fully negated by the defender's armor, then all pieces of ar
 # Variant Rule
 
 These are optional rules that aren't required and are up to the Narrator if they will be used.
+
+### Rounding Range to work on battle map
+
+*When using a Range on a battlemap, if any of the components of the Range have a decimal remainder, round down to the nearest multiple of 5 ft.
 
 ### 5 Summed injury dice causes Incapacitated
 
