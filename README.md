@@ -744,13 +744,13 @@ When using a grid Battle Map for combat, it is important to inform your players 
 
 *When using a Range on a battlemap, if any of the components of the Range have a decimal remainder, round down to the nearest multiple of 5 ft.
 
-A Range specifies at what distance an action can be performed. The startRange specifies the shortest distance the Range covers. The endRange specifies the furthest distance the Range covers.
+A Range specifies at what distance an action can be performed. The Start Range specifies the shortest distance the Range covers. The End Range specifies the furthest distance the Range covers.
 
-startRange = (startRangeBase) + ((Size of governing Skill Dice Pool) * (startRangePerDice))
+Start Range = (Start Range Base) + ((Size of governing Skill Dice Pool) * (Start Range Per Dice))
 
-endRange = (endRangeBase) + ((Size of governing Skill Dice Pool) * (endRangePerDice))
+End Range = (End Range Base) + ((Size of governing Skill Dice Pool) * (End Range Per Dice))
 
-The result of calculating a range can be written as "(Range Name): (startRange) - (endRange) (Length Unit of Mesure)", for example "Melee: 0 - 5 ft".
+The result of calculating a range can be written as "(Range Name): (Start Range) - (End Range) (Length Unit of Mesure)", for example "Melee: 0 - 5 ft".
 
 If a Range specifies "(Normal)" as part of it's name, than the Dice Pool rolled for the action will do so normally. If "(Disadvantage)" is specified than the Dice Pool rolled for the action does so at Disadvantage. If "(Super Disadvantage)" is specified than the Dice Pool rolled for the action does so at Super Disadvantage.
 
@@ -758,15 +758,15 @@ Often, an action will have multiple Ranges, usually done to denote different beh
 
 **Name:** The name of the range.
 
-**startRangeBase:** The base amount for the startRange.
+**Start Range Base:** The base amount for the Start Range.
 
-**startRangePerDice:** The amount of additional startRange per dice in the governing Skill's Dice Pool.
+**Start Range Per Dice:** The amount of additional Start Range per dice in the governing Skill's Dice Pool.
 
-**endRangeBase:** The base amount for the endRange.
+**End Range Base:** The base amount for the End Range.
 
-**endRangeBase:** The amount of additional endRange per dice in the governing Skill's Dice Pool.
+**End Range Base:** The amount of additional End Range per dice in the governing Skill's Dice Pool.
 
-|               Name               | startRangeBase | startRangePerDice | endRangeBase | endRangePerDice |
+|               Name               | Start Range Base | Start Range Per Dice | End Range Base | End Range Per Dice |
 | :-------------------------------: | :------------: | :---------------: | :----------: | :-------------: |
 |               Self               |       0       |         0         |      0      |        0        |
 |               Melee               |       0       |         0         |      5      |        0        |
@@ -820,7 +820,7 @@ Often, an action will have multiple Ranges, usually done to denote different beh
 
 A character is trying to determine how far away they can shoot their fireball spell. It has the Ranges "Long (Normal), Long (Disadvantage), Long (Super Disadvantage)". The governing Skill's Dice Pool is 7d6.
 
-We'd calcualte the "Long (Normal)" Range as follows. It's startRange would 0 + (7 * 0) = 0. It's endRange would be 0 + (7 * 20) = 140. So the result would be "Long (Normal): 0 - 140 ft".
+We'd calcualte the "Long (Normal)" Range as follows. It's Start Range would 0 + (7 * 0) = 0. It's End Range would be 0 + (7 * 20) = 140. So the result would be "Long (Normal): 0 - 140 ft".
 
 The final result of all of the Ranges would be "Long (Normal): 0 - 140 ft, Long (Disadvantage): 140 - 280 ft, Long (Super Disadvantage): 280 - 420 ft". Since "Long (Normal)" and "Long (Disadvantage)" overlap at 140 ft, if a target were engaged at that distance than we'd use "Long (Normal)" since it is the most adventageous.
 
