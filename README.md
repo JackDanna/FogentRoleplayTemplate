@@ -332,21 +332,17 @@ Vocations represent a character's job, class, or life path. A Player should chec
 
 **Description:** Describes what the Vocation is.
 
-|    Name    | Governing Attributes |                                                                                                                                     Vocational Skills                                                                                                                                     |                                                                   Description                                                                   |
-| :--------: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: |
-|  Warrior  |    STR, RFX, INT    |                                                   Hand Crossbow, Light Crossbow, Heavy Crossbow, Light Bow, Heavy Bow, Exotic Ranged, Close Melee, Medium Melee, Large Melee, Reach Melee, Exotic Melee, Battlefield Formation Knowledge                                                   |                                             A battle-hardened fighter who excels in martial combat.                                             |
-|   Ranger   |    STR, RFX, INT    |                                                         Hand Crossbow, Light Crossbow, Heavy Crossbow, Light Bow, Heavy Bow, Exotic Ranged, Close Melee, Medium Melee, Large Melee, Reach Melee, Exotic Melee, Tracking, Survival                                                         |                                           A skilled hunter and tracker who thrives in the wilderness.                                           |
-|   Rogue   |       RFX, INT       |                                         Hand Crossbow, Light Crossbow, Heavy Crossbow, Light Bow, Heavy Bow, Exotic Ranged, Close Melee, Medium Melee, Large Melee, Reach Melee, Exotic Melee, Lockpicking, Pickpocketing, Infiltration Knowledge                                         |                                              A cunning and agile specialist who thrives in shadows.                                              |
-|   Wizard   |       RFX, INT       | Body Magic, Fire Magic, Water Magic, Electricity Magic, Earth Magic, Air Magic, Cold Magic, Nature Magic, Poison Magic, Soul Magic, Light Magic, Shadow Magic, Mind Magic, Magnetic Magic, Sound Magic, Blood Magic, Acid Magic, Time Magic, Teleport Magic, Force Magic, Arcane Knowledge |                                             A scholar of the arcane arts, wielding powerful spells.                                             |
-|   Druid   |    RFX, INT, CHA    |                                       Shapeshifting Druidcraft, Fire Druidcraft, Water Druidcraft, Lightning Druidcraft, Earth Druidcraft, Air Druidcraft, Cold Druidcraft, Plant Druidcraft, Solar Druidcraft, Lunar Druidcraft, Thunder Druidcraft                                       |                                  A mystical wielder of nature’s power, shaping the world through primal magic.                                  |
-|            |                      |                                                                                                                                                                                                                                                                                            |                                                                                                                                                  |
-|   Smith   |    STR, RFX, INT    |                                                                                                                                          Smithing                                                                                                                                          |                                       A craftsman who shapes raw materials into weapons, armor, and tools                                       |
-|  Scholar  |       INT, CHA       |                                                                                                                             Performance, Homesteading, Drawing                                                                                                                             |                                            A learned mind devoted to uncovering knowledge and truth.                                            |
-|  Merchant  |       INT, CHA       |                                                                                                                                           Barter                                                                                                                                           |                                                         A shrewd negotiator and trader.                                                         |
-|            |                      |                                                                                                                                                                                                                                                                                            |                                                                                                                                                  |
-| Fellcaster |    STR, RFX, INT    |  Polycraft, Blazecraft, Hydrocraft, Electrocraft, Terracraft, Galecraft, Cryocraft, Naturecraft, Toxincraft, Soulcraft, Shadowcraft, Mindcraft, Ferracraft, Sonocraft, Hemacraft, Spidercraft, Acidcraft, Warpcraft, Telekeneticraft, Blizzardcraft, Magmacraft, Plasmacraft, Stormcraft  | Specializes in the use of Fellcraft, biological magic from a character's monstrous ancestry, drawing upon a character's Fellblood Resource Pool. |
-| Runesmith |       RFX, INT       |                     Fire Rune, Earth Rune, Water Rune, Air Rune, Electricity Rune, Cold Rune, Poison Rune, Blood Rune, Light Rune, Dark Rune, Sound Rune, Body Rune, Mind Rune, Soul Rune, Time Rune, Space Rune, Strength Rune, Gravity Rune, Nature Rune, Acid Rune                     |      Specializes in Runecraft, rune based magic by that tinkers with the fabric of reality, drawing upon a character's Focus Resource Pool.      |
-| Brightkin |  STR, RFX, INT, CHA  |                                                                                                                                     Blessing, Radiance                                                                                                                                     |                            Specializes in the use of Miracles, drawing upon a charater's innate Ichor Resource Pool.                            |
+|   Name   | Governing Attributes |                                                                                                                                     Vocational Skills                                                                                                                                     |                                  Description                                  |
+| :------: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
+| Warrior |    STR, RFX, INT    |                                                   Hand Crossbow, Light Crossbow, Heavy Crossbow, Light Bow, Heavy Bow, Exotic Ranged, Close Melee, Medium Melee, Large Melee, Reach Melee, Exotic Melee, Battlefield Formation Knowledge                                                   |            A battle-hardened fighter who excels in martial combat.            |
+|  Ranger  |    STR, RFX, INT    |                                                         Hand Crossbow, Light Crossbow, Heavy Crossbow, Light Bow, Heavy Bow, Exotic Ranged, Close Melee, Medium Melee, Large Melee, Reach Melee, Exotic Melee, Tracking, Survival                                                         |          A skilled hunter and tracker who thrives in the wilderness.          |
+|  Rogue  |       RFX, INT       |                                         Hand Crossbow, Light Crossbow, Heavy Crossbow, Light Bow, Heavy Bow, Exotic Ranged, Close Melee, Medium Melee, Large Melee, Reach Melee, Exotic Melee, Lockpicking, Pickpocketing, Infiltration Knowledge                                         |             A cunning and agile specialist who thrives in shadows.             |
+|  Wizard  |       RFX, INT       | Body Magic, Fire Magic, Water Magic, Electricity Magic, Earth Magic, Air Magic, Cold Magic, Nature Magic, Poison Magic, Soul Magic, Light Magic, Shadow Magic, Mind Magic, Magnetic Magic, Sound Magic, Blood Magic, Acid Magic, Time Magic, Teleport Magic, Force Magic, Arcane Knowledge |            A scholar of the arcane arts, wielding powerful spells.            |
+|  Druid  |    RFX, INT, CHA    |                                       Shapeshifting Druidcraft, Fire Druidcraft, Water Druidcraft, Lightning Druidcraft, Earth Druidcraft, Air Druidcraft, Cold Druidcraft, Plant Druidcraft, Solar Druidcraft, Lunar Druidcraft, Thunder Druidcraft                                       | A mystical wielder of nature’s power, shaping the world through primal magic. |
+|          |                      |                                                                                                                                                                                                                                                                                            |                                                                                |
+|  Smith  |    STR, RFX, INT    |                                                                                                                                          Smithing                                                                                                                                          |      A craftsman who shapes raw materials into weapons, armor, and tools      |
+| Scholar |       INT, CHA       |                                                                                                                             Performance, Homesteading, Drawing                                                                                                                             |           A learned mind devoted to uncovering knowledge and truth.           |
+| Merchant |       INT, CHA       |                                                                                                                                           Barter                                                                                                                                           |                        A shrewd negotiator and trader.                        |
 
 ### Vocation Level
 
@@ -596,7 +592,7 @@ These rolls may be used in situations of great intensity to help the Narrator gu
 
 ## Damage Types
 
-Damage Types are the various sources a character can recieve an injury from.
+Damage Types represent the various sources of injuries a character can receive.
 
 **Name:** The name of the Damage Type.
 
@@ -641,7 +637,7 @@ Typical "status effects" such as being poisoned, frostbitten, bleeding, madness,
 
 ## Defense
 
-Defense is used to reduce incoming injuries from Damage Types by the equivalent amount of Defense against itIf a character has multiple Defenses, then add the values of the Defenses together for each Damage Type to get their Total Defense. If a Totaled Defense to a specific Damage Type has a decimal place remainder, you'll round it down to the nearest whole number when reducing an injury with it.
+Defense is used to reduce incoming injuries from Damage Types by the equivalent amount of Defense against it. If a character has multiple Defenses, then add the values of the Defenses together for each Damage Type to get their Total Defense. If a Totaled Defense to a specific Damage Type has a decimal place remainder, you'll round it down to the nearest whole number when reducing an injury with it.
 
 If a foe has a sufficiently high Defense to a certain Damage Type, then the best course of action is to circumvent it. For instance, a knight in full plate armor would be extremely difficult to injury from injuries caused by the Slash Damage Type. In these circumstances, the most efficient way of defeating a character in heavy armor is grappling them or tripping them and holding them down, just like in real life. Another option is to use an attack with a different Damage Type, such as spraying poison mist at them, to completely circumvent there high Slash defense.
 
@@ -746,47 +742,85 @@ When using a grid Battle Map for combat, it is important to inform your players 
 
 ## Range
 
-A Range determines the distance at which some action can be performed.
+A Range specifies at what distance an action can be performed. The Min Range specifies the shortest distance the Range covers. The Max Range specifies the furthest distance the Range covers.
 
-A Range has an Effective, optional Ineffective, and optional Max component to it.
+Min Range = (Min Range Base) + ((Size of governing Skill Dice Pool) * (Min Range Per Dice))
 
-The Effective, Ineffective, and Max components of a Range are usually represented on a character sheet in the "Effective/Ineffective/Max" format. For example, "100/200/300" translates to an Effective Range of 100 ft, an Ineffective Range of 200 ft, and a Max Range of 300 ft. If a Range doesn't have a Ineffective or Max component, you would simply write "None", such as "100/None/None"
+Max Range = (Max Range Base) + ((Size of governing Skill Dice Pool) * (Max Range Per Dice))
 
-When using a Range on a battlemap, if any of the components of the Range have a decimal remainder, round down to the nearest multiple of 5 ft.
+The result of calculating a range can be written as "(Range Name): (Min Range) - (Max Range) (Length Unit of Measure)", for example "Melee: 0 - 5 ft".
 
-**Effective Range:** Less than or equal to the Effective component of a Range, dice pool rolls are unchanged.
+If a Range specifies "(Normal)" as part of it's name, than the Dice Pool rolled for the action will do so normally. If "(Disadvantage)" is specified than the Dice Pool rolled for the action does so at Disadvantage. If "(Super Disadvantage)" is specified than the Dice Pool rolled for the action does so at Super Disadvantage.
 
-**Ineffective Range:** Greater than the Effective component of a Range but less than or equal to the Ineffective component of a Range, dice pool rolls gain Disadvantage.
+Often, an action will have multiple Ranges, usually done to denote different behavior. If the Ranges overlap each other, than the most advantageous Range can be used.
 
-**Max Range:** Greater than the Ineffective component of a Range but less than or equal to the Max component of a Range, dice pool rolls gain Super Disadvantage.
+**Name:** The name of the range.
 
-Ranges with "... Per Dice" parts of there components scales with the size of the Skill Dice Pool they are associated with. This could be used for magic users, with the size of their area of effects scaling with their proficiency with their magic. This could also just be getting more skillful with a weapon.
+**Min Range Base:** The base amount for the Min Range.
 
-When calculating a component of a Range, for example Effective Range, you first multiply "Effective Range Per Dice" by the current size of the governing skill dice pool. You than take that result and add it to the "Effective Range Base".
+**Min Range Per Dice:** The amount of additional Min Range per dice in the governing Skill's Dice Pool.
 
-Effective Range = (Effective Range Base) + ( (Size of governing skill dice pool) * (Effective Range Per Dice) )
+**Max Range Base:** The base amount for the Max Range.
 
-Ineffective Range = (Ineffective Range Base) + ( (Size of governing skill dice pool) * (Ineffective Range Per Dice) )
+**Max Range Base:** The amount of additional Max Range per dice in the governing Skill's Dice Pool.
 
-Max Range = (Max Range Base) + ( (Size of governing skill dice pool) * (Max Range Per Dice) )
+|               Name               | Min Range Base | Min Range Per Dice | Max Range Base | Max Range Per Dice |
+| :-------------------------------: | :--------------: | :------------------: | :------------: | :----------------: |
+|               Self               |        0        |          0          |       0       |         0         |
+|               Melee               |        0        |          0          |       5       |         0         |
+|               Reach               |        0        |          0          |       10       |         0         |
+|                                  |                  |                      |                |                    |
+|           Near (Normal)           |        0        |          0          |       0       |        1.67        |
+|        Near (Disadvantage)        |        0        |         1.67         |       0       |        3.34        |
+|     Near (Super Disadvantage)     |        0        |         3.34         |       0       |        5.01        |
+|                                  |                  |                      |                |                    |
+|          Short (Normal)          |        0        |          0          |       0       |        3.34        |
+|       Short (Disadvantage)       |        0        |         3.34         |       0       |        6.68        |
+|    Short (Super Disadvantage)    |        0        |         6.68         |       0       |       10.02       |
+|                                  |                  |                      |                |                    |
+|         Mediocre (Normal)         |        0        |          0          |       0       |         5         |
+|      Mediocre (Disadvantage)      |        0        |          5          |       0       |         10         |
+|   Mediocre (Super Disadvantage)   |        0        |          10          |       0       |         15         |
+|                                  |                  |                      |                |                    |
+|         Medium (Normal)         |        0        |          0          |       0       |        7.5        |
+|      Medium (Disadvantage)      |        0        |         7.5         |       0       |         15         |
+|   Medium (Super Disadvantage)   |        0        |          15          |       0       |        22.5        |
+|                                  |                  |                      |                |                    |
+|         Extended (Normal)         |        0        |          0          |       0       |         10         |
+|      Extended (Disadvantage)      |        0        |          10          |       0       |         20         |
+|   Extended (Super Disadvantage)   |        0        |          20          |       0       |         30         |
+|                                  |                  |                      |                |                    |
+|           Far (Normal)           |        0        |          0          |       0       |         15         |
+|        Far (Disadvantage)        |        0        |          15          |       0       |         30         |
+|     Far (Super Disadvantage)     |        0        |          30          |       0       |         45         |
+|                                  |                  |                      |                |                    |
+|           Long (Normal)           |        0        |          0          |       0       |         20         |
+|        Long (Disadvantage)        |        0        |          20          |       0       |         40         |
+|     Long (Super Disadvantage)     |        0        |          40          |       0       |         60         |
+|                                  |                  |                      |                |                    |
+|         Distant (Normal)         |        0        |          0          |       0       |         25         |
+|      Distant (Disadvantage)      |        0        |          25          |       0       |         50         |
+|   Distant (Super Disadvantage)   |        0        |          50          |       0       |         75         |
+|                                  |                  |                      |                |                    |
+|       Sharpshooter (Normal)       |        0        |          0          |       0       |         30         |
+|    Sharpshooter (Disadvantage)    |        0        |          30          |       0       |         60         |
+| Sharpshooter (Super Disadvantage) |        0        |          60          |       0       |         90         |
+|                                  |                  |                      |                |                    |
+|         Extreme (Normal)         |        0        |          0          |       0       |         35         |
+|      Extreme (Disadvantage)      |        0        |          35          |       0       |         70         |
+|   Extreme (Super Disadvantage)   |        0        |          70          |       0       |        105        |
+|                                  |                  |                      |                |                    |
+|          Sniper (Normal)          |        0        |          0          |       0       |         50         |
+|       Sniper (Disadvantage)       |        0        |          50          |       0       |        100        |
+|    Sniper (Super Disadvantage)    |        0        |         100         |       0       |        150        |
 
-|     Name     | Effective Range Base | Effective Range Per Dice | Optional Ineffective Range Base | Optional Ineffective Range Per Dice | Optional Max Range Base | Optional Max Range Per Dice |
-| :----------: | :------------------: | :----------------------: | :-----------------------------: | :---------------------------------: | :---------------------: | :-------------------------: |
-|     Self     |          0          |            0            |              None              |                None                |          None          |            None            |
-|    Melee    |          5          |            0            |              None              |                None                |          None          |            None            |
-|    Reach    |          10          |            0            |              None              |                None                |          None          |            None            |
-|     Near     |          0          |           1.67           |                0                |                3.34                |            0            |            5.01            |
-|    Close    |          0          |           2.5           |                0                |                  5                  |            0            |             7.5             |
-|    Short    |          0          |           3.34           |                0                |                6.68                |            0            |            10.02            |
-|   Mediocre   |          0          |            5            |                0                |                 10                 |            0            |             15             |
-|    Medium    |          0          |           7.5           |                0                |                 15                 |            0            |            22.5            |
-|   Extended   |          0          |            10            |                0                |                 20                 |            0            |             30             |
-|     Far     |          0          |            15            |                0                |                 30                 |            0            |             45             |
-|     Long     |          0          |            20            |                0                |                 40                 |            0            |             60             |
-|   Distant   |          0          |            25            |                0                |                 50                 |            0            |             75             |
-| Sharpshooter |          0          |            30            |                0                |                 60                 |            0            |             90             |
-|   Extreme   |          0          |            35            |                0                |                 70                 |            0            |             105             |
-|    Sniper    |          0          |            50            |                0                |                 100                 |            0            |             150             |
+### Example
+
+A character is trying to determine how far away they can shoot their fireball spell. It has the Ranges "Long (Normal), Long (Disadvantage), Long (Super Disadvantage)". The governing Skill's Dice Pool is 7d6.
+
+We'd calcualte the "Long (Normal)" Range as follows. It's Min Range would 0 + (7 * 0) = 0. It's Max Range would be 0 + (7 * 20) = 140. So the result would be "Long (Normal): 0 - 140 ft".
+
+The final result of all of the Ranges would be "Long (Normal): 0 - 140 ft, Long (Disadvantage): 140 - 280 ft, Long (Super Disadvantage): 280 - 420 ft". Since "Long (Normal)" and "Long (Disadvantage)" overlap at 140 ft, if a target were engaged at that distance than we'd use "Long (Normal)" since it is the most adventageous.
 
 ## Area Of Effect
 
@@ -3141,6 +3175,10 @@ If an injury is not fully negated by the defender's armor, then all pieces of ar
 # Variant Rule
 
 These are optional rules that aren't required and are up to the Narrator if they will be used.
+
+### Rounding Range to work on battle map
+
+*When using a Range on a battlemap, if any of the components of the Range have a decimal remainder, round down to the nearest multiple of 5 ft.
 
 ### 5 Summed injury dice causes Incapacitated
 

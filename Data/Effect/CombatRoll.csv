@@ -1,4 +1,4 @@
-name,variation,combatRollType,baseDiceAdjustment,dicePoolModifier,penetration,range,usesPerRound,areaOfEffect,optionalResourceTypeAndAmount,damageTypes,governingSkillName,description,duration,source
+name,variation,combatRollType,baseDiceAdjustment,dicePoolModifier,penetration,ranges,usesPerRound,areaOfEffect,optionalResourceTypeAndAmount,damageTypes,governingSkillName,description,duration,source
 Dual-wielded Unarmed +0,Dual-wielded,Unarmed,+0,-1d,0,Melee,Swift,None,None,Bludgeon,Close Melee,Just your bare hands. Can be used in a Grapple.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 One-handed Small Hew Melee +0,One-handed,Small Hew Melee,+0,+0d6,0,Melee,Swift,None,None,Hew,Close Melee,"Hatchets, small axes, ect... Can be used in a Grapple.",Indefinite,Innate
@@ -195,122 +195,122 @@ One-handed Whip +7,One-handed,Whip,+7,+0d6,0,Reach,Swift,None,None,Slash,Exotic 
 Dual-wielded Whip +0,Dual-wielded,Whip,+0,+1d6,0,Reach,Swift +1,None,None,Slash,Exotic Melee,"Bullwhips, ect... Disadvantage while in confined spaces.",Indefinite,Innate
 Dual-wielded Whip +7,Dual-wielded,Whip,+7,+1d6,0,Reach,Swift +1,None,None,Slash,Exotic Melee,"Bullwhips, ect... Disadvantage while in confined spaces.",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Hand Crossbow +0,One-handed,Hand Crossbow,+0,+1d6,0,Mediocre,Quick,None,"Light Bolt, 1",Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
+One-handed Hand Crossbow +0,One-handed,Hand Crossbow,+0,+1d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,"Light Bolt, 1",Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
 ,,,,,,,,,,,,,,
-Two-handed Hand Crossbow +0,Two-handed,Hand Crossbow,+0,+1d6,0,Medium,Quick,None,"Light Bolt, 1",Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
+Two-handed Hand Crossbow +0,Two-handed,Hand Crossbow,+0,+1d6,0,"Medium (Normal), Medium (Disadvantage), Medium (Super Disadvantage)",Quick,None,"Light Bolt, 1",Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
 ,,,,,,,,,,,,,,
-Dual-wielded Hand Crossbow +0,Dual-wielded,Hand Crossbow,+0,+2d6,0,Mediocre,Steady,None,"Light Bolt, 2",Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
+Dual-wielded Hand Crossbow +0,Dual-wielded,Hand Crossbow,+0,+2d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Steady,None,"Light Bolt, 2",Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Light Crossbow +0,One-handed,Light Crossbow,+0,+0d6,1,Far,Steady,None,"Light Bolt, 1",Pierce,Light Crossbow,"Crossbows balancing power and reload time. ",Indefinite,Innate
+One-handed Light Crossbow +0,One-handed,Light Crossbow,+0,+0d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,"Light Bolt, 1",Pierce,Light Crossbow,"Crossbows balancing power and reload time. ",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Two-handed Light Crossbow +0,Two-handed,Light Crossbow,+0,+1d6,1,Far,Steady,None,"Light Bolt, 1",Pierce,Light Crossbow,"Crossbows balancing power and reload time. ",Indefinite,Innate
+Two-handed Light Crossbow +0,Two-handed,Light Crossbow,+0,+1d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,"Light Bolt, 1",Pierce,Light Crossbow,"Crossbows balancing power and reload time. ",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Two-handed Heavy Crossbow +0,Two-handed,Heavy Crossbow,+0,+2d6,2,Long,Extremely Slow,None,"Heavy Bolt, 1",Pierce,Heavy Crossbow,Crossbows designed for maximum power disregarding reload time.,Indefinite,Innate
+Two-handed Heavy Crossbow +0,Two-handed,Heavy Crossbow,+0,+2d6,2,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,"Heavy Bolt, 1",Pierce,Heavy Crossbow,Crossbows designed for maximum power disregarding reload time.,Indefinite,Innate
 ,,,,,,,,,,,,,,
-Two-handed Light Bow -1,Two-handed,Light Bow,-1,+1d6,0,Far,Swift,None,"Light Arrow, 1",Pierce,Light Bow,Bows favoring easier drawing versus power.,Indefinite,Innate
-Two-handed Light Bow +0,Two-handed,Light Bow,+0,+1d6,0,Far,Swift,None,"Light Arrow, 1",Pierce,Light Bow,Bows favoring easier drawing versus power.,Indefinite,Innate
-Two-handed Light Bow +3,Two-handed,Light Bow,+3,+1d6,0,Far,Swift,None,"Light Arrow, 1",Pierce,Light Bow,Bows favoring easier drawing versus power.,Indefinite,Innate
+Two-handed Light Bow -1,Two-handed,Light Bow,-1,+1d6,0,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift,None,"Light Arrow, 1",Pierce,Light Bow,Bows favoring easier drawing versus power.,Indefinite,Innate
+Two-handed Light Bow +0,Two-handed,Light Bow,+0,+1d6,0,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift,None,"Light Arrow, 1",Pierce,Light Bow,Bows favoring easier drawing versus power.,Indefinite,Innate
+Two-handed Light Bow +3,Two-handed,Light Bow,+3,+1d6,0,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift,None,"Light Arrow, 1",Pierce,Light Bow,Bows favoring easier drawing versus power.,Indefinite,Innate
 ,,,,,,,,,,,,,,
-Two-handed Heavy Bow +0,Two-handed,Heavy Bow,+0,+2d6,2,Sharpshooter,Quick,None,"Heavy Arrow, 1",Pierce,Heavy Bow,Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,Indefinite,Innate
+Two-handed Heavy Bow +0,Two-handed,Heavy Bow,+0,+2d6,2,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Quick,None,"Heavy Arrow, 1",Pierce,Heavy Bow,Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Blowgun +0,One-handed,Blowgun,+0,+0d6,0,Mediocre,Quick,None,"Blowgun Dart, 1",Pierce,Exotic Ranged,A long narrow tube that propels darts using the force of the force of the users's breath.,Indefinite,Innate
+One-handed Blowgun +0,One-handed,Blowgun,+0,+0d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,"Blowgun Dart, 1",Pierce,Exotic Ranged,A long narrow tube that propels darts using the force of the force of the users's breath.,Indefinite,Innate
 ,,,,,,,,,,,,,,
-Two-handed Sling +0,Two-handed,Sling,+0,+0d6,0,Mediocre,Quick,None,"Sling Bullet, 1",Bludgeon,Exotic Ranged,A flexible strap used to hurl small objects.,Indefinite,Innate
+Two-handed Sling +0,Two-handed,Sling,+0,+0d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,"Sling Bullet, 1",Bludgeon,Exotic Ranged,A flexible strap used to hurl small objects.,Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Thrown Small Slash Melee -1,One-handed,Thrown Small Slash Melee,-1,+0d6,0,Short,Swift,None,"Thrown Small Slash Melee -1, 1",Slash,Close Melee,"Ninja stars, ect...",Indefinite,Innate
-One-handed Thrown Small Slash Melee +0,One-handed,Thrown Small Slash Melee,+0,+0d6,0,Short,Swift,None,"Thrown Small Slash Melee +0, 1",Slash,Close Melee,"Ninja stars, ect...",Indefinite,Innate
+One-handed Thrown Small Slash Melee -1,One-handed,Thrown Small Slash Melee,-1,+0d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,"Thrown Small Slash Melee -1, 1",Slash,Close Melee,"Ninja stars, ect...",Indefinite,Innate
+One-handed Thrown Small Slash Melee +0,One-handed,Thrown Small Slash Melee,+0,+0d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,"Thrown Small Slash Melee +0, 1",Slash,Close Melee,"Ninja stars, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Dual-wielded Thrown Small Slash Melee -1,Dual-wielded,Thrown Small Slash Melee,-1,+1d6,0,Short,Quick,None,"Thrown Small Slash Melee -1, 2",Slash,Close Melee,"Ninja stars, ect...",Indefinite,Innate
-Dual-wielded Thrown Small Slash Melee +0,Dual-wielded,Thrown Small Slash Melee,+0,+1d6,0,Short,Quick,None,"Thrown Small Slash Melee +0, 2",Slash,Close Melee,"Ninja stars, ect...",Indefinite,Innate
+Dual-wielded Thrown Small Slash Melee -1,Dual-wielded,Thrown Small Slash Melee,-1,+1d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,"Thrown Small Slash Melee -1, 2",Slash,Close Melee,"Ninja stars, ect...",Indefinite,Innate
+Dual-wielded Thrown Small Slash Melee +0,Dual-wielded,Thrown Small Slash Melee,+0,+1d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,"Thrown Small Slash Melee +0, 2",Slash,Close Melee,"Ninja stars, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Thrown Small Pierce Melee -1,One-handed,Thrown Small Pierce Melee,-1,+0d6,0,Short,Swift,None,"Thrown Small Pierce Melee -1, 1",Pierce,Close Melee,"Throwing daggers, ect...",Indefinite,Innate
-One-handed Thrown Small Pierce Melee +0,One-handed,Thrown Small Pierce Melee,+0,+0d6,0,Short,Swift,None,"Thrown Small Pierce Melee +0, 1",Pierce,Close Melee,"Throwing daggers, ect...",Indefinite,Innate
-One-handed Thrown Small Pierce Melee +1,One-handed,Thrown Small Pierce Melee,+1,+0d6,0,Short,Swift,None,"Thrown Small Pierce Melee +1, 1",Pierce,Close Melee,"Throwing daggers, ect...",Indefinite,Innate
-One-handed Thrown Small Pierce Melee +3,One-handed,Thrown Small Pierce Melee,+3,+0d6,0,Short,Swift,None,"Thrown Small Pierce Melee +3, 1",Pierce,Close Melee,"Throwing daggers, ect...",Indefinite,Innate
-One-handed Thrown Small Pierce Melee +5,One-handed,Thrown Small Pierce Melee,+5,+0d6,0,Short,Swift,None,"Thrown Small Pierce Melee +5, 1",Pierce,Close Melee,"Throwing daggers, ect...",Indefinite,Innate
+One-handed Thrown Small Pierce Melee -1,One-handed,Thrown Small Pierce Melee,-1,+0d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,"Thrown Small Pierce Melee -1, 1",Pierce,Close Melee,"Throwing daggers, ect...",Indefinite,Innate
+One-handed Thrown Small Pierce Melee +0,One-handed,Thrown Small Pierce Melee,+0,+0d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,"Thrown Small Pierce Melee +0, 1",Pierce,Close Melee,"Throwing daggers, ect...",Indefinite,Innate
+One-handed Thrown Small Pierce Melee +1,One-handed,Thrown Small Pierce Melee,+1,+0d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,"Thrown Small Pierce Melee +1, 1",Pierce,Close Melee,"Throwing daggers, ect...",Indefinite,Innate
+One-handed Thrown Small Pierce Melee +3,One-handed,Thrown Small Pierce Melee,+3,+0d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,"Thrown Small Pierce Melee +3, 1",Pierce,Close Melee,"Throwing daggers, ect...",Indefinite,Innate
+One-handed Thrown Small Pierce Melee +5,One-handed,Thrown Small Pierce Melee,+5,+0d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,"Thrown Small Pierce Melee +5, 1",Pierce,Close Melee,"Throwing daggers, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Dual-wielded Thrown Small Pierce Melee -1,Dual-wielded,Thrown Small Pierce Melee,-1,+1d6,0,Short,Quick,None,"Thrown Small Pierce Melee -1, 2",Pierce,Close Melee,"Throwing daggers, ect...",Indefinite,Innate
-Dual-wielded Thrown Small Pierce Melee +0,Dual-wielded,Thrown Small Pierce Melee,+0,+1d6,0,Short,Quick,None,"Thrown Small Pierce Melee +0, 2",Pierce,Close Melee,"Throwing daggers, ect...",Indefinite,Innate
-Dual-wielded Thrown Small Pierce Melee +1,Dual-wielded,Thrown Small Pierce Melee,+1,+1d6,0,Short,Quick,None,"Thrown Small Pierce Melee +1, 2",Pierce,Close Melee,"Throwing daggers, ect...",Indefinite,Innate
-Dual-wielded Thrown Small Pierce Melee +3,Dual-wielded,Thrown Small Pierce Melee,+3,+1d6,0,Short,Quick,None,"Thrown Small Pierce Melee +3, 2",Pierce,Close Melee,"Throwing daggers, ect...",Indefinite,Innate
-Dual-wielded Thrown Small Pierce Melee +5,Dual-wielded,Thrown Small Pierce Melee,+5,+1d6,0,Short,Quick,None,"Thrown Small Pierce Melee +5, 2",Pierce,Close Melee,"Throwing daggers, ect...",Indefinite,Innate
+Dual-wielded Thrown Small Pierce Melee -1,Dual-wielded,Thrown Small Pierce Melee,-1,+1d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,"Thrown Small Pierce Melee -1, 2",Pierce,Close Melee,"Throwing daggers, ect...",Indefinite,Innate
+Dual-wielded Thrown Small Pierce Melee +0,Dual-wielded,Thrown Small Pierce Melee,+0,+1d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,"Thrown Small Pierce Melee +0, 2",Pierce,Close Melee,"Throwing daggers, ect...",Indefinite,Innate
+Dual-wielded Thrown Small Pierce Melee +1,Dual-wielded,Thrown Small Pierce Melee,+1,+1d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,"Thrown Small Pierce Melee +1, 2",Pierce,Close Melee,"Throwing daggers, ect...",Indefinite,Innate
+Dual-wielded Thrown Small Pierce Melee +3,Dual-wielded,Thrown Small Pierce Melee,+3,+1d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,"Thrown Small Pierce Melee +3, 2",Pierce,Close Melee,"Throwing daggers, ect...",Indefinite,Innate
+Dual-wielded Thrown Small Pierce Melee +5,Dual-wielded,Thrown Small Pierce Melee,+5,+1d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,"Thrown Small Pierce Melee +5, 2",Pierce,Close Melee,"Throwing daggers, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Thrown Small Hew Melee +0,One-handed,Thrown Small Hew Melee,+0,+0d6,0,Short,Swift,None,"Thrown Small Hew Melee +0 , 1",Hew,Close Melee,"Throwing hatchet, ect...",Indefinite,Innate
+One-handed Thrown Small Hew Melee +0,One-handed,Thrown Small Hew Melee,+0,+0d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,"Thrown Small Hew Melee +0 , 1",Hew,Close Melee,"Throwing hatchet, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Dual-wielded Thrown Small Hew Melee +0,Dual-wielded,Thrown Small Hew Melee,+0,+1d6,0,Short,Quick,None,"Thrown Small Hew Melee +0 , 2",Hew,Close Melee,"Throwing hatchet, ect...",Indefinite,Innate
+Dual-wielded Thrown Small Hew Melee +0,Dual-wielded,Thrown Small Hew Melee,+0,+1d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,"Thrown Small Hew Melee +0 , 2",Hew,Close Melee,"Throwing hatchet, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Thrown Small Bludgeon Melee +0,One-handed,Thrown Small Bludgeon Melee,+0,+0d6,0,Short,Swift,None,"Thrown Small Bludgeon Melee +0, 1",Bludgeon,Close Melee,"Thrown small club, rocks, ect...",Indefinite,Innate
-One-handed Thrown Small Bludgeon Melee +3,One-handed,Thrown Small Bludgeon Melee,+3,+0d6,0,Short,Swift,None,"Thrown Small Bludgeon Melee +3, 1",Bludgeon,Close Melee,"Thrown small club, rocks, ect...",Indefinite,Innate
+One-handed Thrown Small Bludgeon Melee +0,One-handed,Thrown Small Bludgeon Melee,+0,+0d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,"Thrown Small Bludgeon Melee +0, 1",Bludgeon,Close Melee,"Thrown small club, rocks, ect...",Indefinite,Innate
+One-handed Thrown Small Bludgeon Melee +3,One-handed,Thrown Small Bludgeon Melee,+3,+0d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,"Thrown Small Bludgeon Melee +3, 1",Bludgeon,Close Melee,"Thrown small club, rocks, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Dual-wielded Thrown Small Bludgeon Melee +0,Dual-wielded,Thrown Small Bludgeon Melee,+0,+1d6,0,Short,Quick,None,"Thrown Small Bludgeon Melee +0, 2",Bludgeon,Close Melee,"Thrown small club, rocks, ect...",Indefinite,Innate
-Dual-wielded Thrown Small Bludgeon Melee +3,Dual-wielded,Thrown Small Bludgeon Melee,+3,+1d6,0,Short,Quick,None,"Thrown Small Bludgeon Melee +3, 2",Bludgeon,Close Melee,"Thrown small club, rocks, ect...",Indefinite,Innate
+Dual-wielded Thrown Small Bludgeon Melee +0,Dual-wielded,Thrown Small Bludgeon Melee,+0,+1d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,"Thrown Small Bludgeon Melee +0, 2",Bludgeon,Close Melee,"Thrown small club, rocks, ect...",Indefinite,Innate
+Dual-wielded Thrown Small Bludgeon Melee +3,Dual-wielded,Thrown Small Bludgeon Melee,+3,+1d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,"Thrown Small Bludgeon Melee +3, 2",Bludgeon,Close Melee,"Thrown small club, rocks, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Thrown Medium Spear -1,One-handed,Thrown Medium Spear,-1,+1d6,1,Mediocre,Quick,None,"Thrown Medium Spear -1, 1",Pierce,Medium Melee,"Thrown Javelins, ect...",Indefinite,Innate
-One-handed Thrown Medium Spear +0,One-handed,Thrown Medium Spear,+0,+1d6,1,Mediocre,Quick,None,"Thrown Medium Spear +0, 1",Pierce,Medium Melee,"Thrown Javelins, ect...",Indefinite,Innate
-One-handed Thrown Medium Spear +3,One-handed,Thrown Medium Spear,+3,+1d6,1,Mediocre,Quick,None,"Thrown Medium Spear +3, 1",Pierce,Medium Melee,"Thrown Javelins, ect...",Indefinite,Innate
-One-handed Thrown Medium Spear +7,One-handed,Thrown Medium Spear,+7,+1d6,1,Mediocre,Quick,None,"Thrown Medium Spear +7, 1",Pierce,Medium Melee,"Thrown Javelins, ect...",Indefinite,Innate
+One-handed Thrown Medium Spear -1,One-handed,Thrown Medium Spear,-1,+1d6,1,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,"Thrown Medium Spear -1, 1",Pierce,Medium Melee,"Thrown Javelins, ect...",Indefinite,Innate
+One-handed Thrown Medium Spear +0,One-handed,Thrown Medium Spear,+0,+1d6,1,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,"Thrown Medium Spear +0, 1",Pierce,Medium Melee,"Thrown Javelins, ect...",Indefinite,Innate
+One-handed Thrown Medium Spear +3,One-handed,Thrown Medium Spear,+3,+1d6,1,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,"Thrown Medium Spear +3, 1",Pierce,Medium Melee,"Thrown Javelins, ect...",Indefinite,Innate
+One-handed Thrown Medium Spear +7,One-handed,Thrown Medium Spear,+7,+1d6,1,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,"Thrown Medium Spear +7, 1",Pierce,Medium Melee,"Thrown Javelins, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Thrown Large Spear +0,One-handed,Thrown Large Spear,+0,+1d6,2,Short,Quick,None,"Thrown Large Spear +0, 1",Pierce,Large Melee,Thrown two-handed spears.,Indefinite,Innate
-One-handed Thrown Large Spear +1,One-handed,Thrown Large Spear,+1,+1d6,2,Short,Quick,None,"Thrown Large Spear +1, 1",Pierce,Large Melee,Thrown two-handed spears.,Indefinite,Innate
-One-handed Thrown Large Spear +3,One-handed,Thrown Large Spear,+3,+1d6,2,Short,Quick,None,"Thrown Large Spear +3, 1",Pierce,Large Melee,Thrown two-handed spears.,Indefinite,Innate
-One-handed Thrown Large Spear +7,One-handed,Thrown Large Spear,+7,+1d6,2,Short,Quick,None,"Thrown Large Spear +7, 1",Pierce,Large Melee,Thrown two-handed spears.,Indefinite,Innate
+One-handed Thrown Large Spear +0,One-handed,Thrown Large Spear,+0,+1d6,2,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,"Thrown Large Spear +0, 1",Pierce,Large Melee,Thrown two-handed spears.,Indefinite,Innate
+One-handed Thrown Large Spear +1,One-handed,Thrown Large Spear,+1,+1d6,2,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,"Thrown Large Spear +1, 1",Pierce,Large Melee,Thrown two-handed spears.,Indefinite,Innate
+One-handed Thrown Large Spear +3,One-handed,Thrown Large Spear,+3,+1d6,2,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,"Thrown Large Spear +3, 1",Pierce,Large Melee,Thrown two-handed spears.,Indefinite,Innate
+One-handed Thrown Large Spear +7,One-handed,Thrown Large Spear,+7,+1d6,2,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,"Thrown Large Spear +7, 1",Pierce,Large Melee,Thrown two-handed spears.,Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Muzzleloading Pistol +0,One-handed,Muzzleloading Pistol,+0,+2d6,0,Mediocre,Extremely Slow,None,"Muzzleloading Pistol Cartridge, 1",Ballistic,Small Guns,"Flintlock pistols, ect...",Indefinite,Innate
+One-handed Muzzleloading Pistol +0,One-handed,Muzzleloading Pistol,+0,+2d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Extremely Slow,None,"Muzzleloading Pistol Cartridge, 1",Ballistic,Small Guns,"Flintlock pistols, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Two-handed Muzzleloading Pistol +0,Two-handed,Muzzleloading Pistol,+0,+2d6,0,Medium,Extremely Slow,None,"Muzzleloading Pistol Cartridge, 1",Ballistic,Small Guns,"Flintlock pistols, ect...",Indefinite,Innate
+Two-handed Muzzleloading Pistol +0,Two-handed,Muzzleloading Pistol,+0,+2d6,0,"Medium (Normal), Medium (Disadvantage), Medium (Super Disadvantage)",Extremely Slow,None,"Muzzleloading Pistol Cartridge, 1",Ballistic,Small Guns,"Flintlock pistols, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Dual-wielded Muzzleloading Pistol +0,Dual-wielded,Muzzleloading Pistol,+0,+3d6,0,Mediocre,Painfully Slow,None,"Muzzleloading Pistol Cartridge, 2",Ballistic,Small Guns,"Flintlock pistols, ect...",Indefinite,Innate
+Dual-wielded Muzzleloading Pistol +0,Dual-wielded,Muzzleloading Pistol,+0,+3d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Painfully Slow,None,"Muzzleloading Pistol Cartridge, 2",Ballistic,Small Guns,"Flintlock pistols, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Arquebus +0,One-handed,Arquebus,+0,+0d6,1,Long,Extremely Slow,None,"Arquebus Cartridge, 1",Ballistic,Medium Guns,Can be used as a Combat Roll.,Indefinite,Innate
+One-handed Arquebus +0,One-handed,Arquebus,+0,+0d6,1,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,"Arquebus Cartridge, 1",Ballistic,Medium Guns,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,,
-Two-handed Arquebus +0,Two-handed,Arquebus,+0,+2d6,1,Long,Extremely Slow,None,"Arquebus Cartridge, 1",Ballistic,Medium Guns,Can be used as a Combat Roll.,Indefinite,Innate
+Two-handed Arquebus +0,Two-handed,Arquebus,+0,+2d6,1,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,"Arquebus Cartridge, 1",Ballistic,Medium Guns,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Musket +0,One-handed,Musket,+0,+0d6,1,Sharpshooter,Painfully Slow,None,"Musket Cartridge, 1",Ballistic,Medium Guns,Flintlock smoothbore long guns.,Indefinite,Innate
+One-handed Musket +0,One-handed,Musket,+0,+0d6,1,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Painfully Slow,None,"Musket Cartridge, 1",Ballistic,Medium Guns,Flintlock smoothbore long guns.,Indefinite,Innate
 ,,,,,,,,,,,,,,
-Two-handed Musket +0,Two-handed,Musket,+0,+3d6,1,Sharpshooter,Painfully Slow,None,"Musket Cartridge, 1",Ballistic,Medium Guns,Flintlock smoothbore long guns.,Indefinite,Innate
+Two-handed Musket +0,Two-handed,Musket,+0,+3d6,1,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Painfully Slow,None,"Musket Cartridge, 1",Ballistic,Medium Guns,Flintlock smoothbore long guns.,Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed 9mm Semi-automatic Pistol +0,One-handed,9mm Semi-automatic Pistol,+0,+2d6,2,Extended,Swift +2,None,"9mm Round, 1",Ballistic,Small Guns,"Glock 17, ect...",Indefinite,Innate
+One-handed 9mm Semi-automatic Pistol +0,One-handed,9mm Semi-automatic Pistol,+0,+2d6,2,"Extended (Normal), Extended (Disadvantage), Extended (Super Disadvantage)",Swift +2,None,"9mm Round, 1",Ballistic,Small Guns,"Glock 17, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Two-handed 9mm Semi-automatic Pistol +0,Two-handed,9mm Semi-automatic Pistol,+0,+2d6,2,Far,Swift +2,None,"9mm Round, 1",Ballistic,Small Guns,"Glock 17, ect...",Indefinite,Innate
+Two-handed 9mm Semi-automatic Pistol +0,Two-handed,9mm Semi-automatic Pistol,+0,+2d6,2,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift +2,None,"9mm Round, 1",Ballistic,Small Guns,"Glock 17, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Dual-wielded 9mm Semi-automatic Pistol +0,Dual-wielded,9mm Semi-automatic Pistol,+0,+3d6,2,Extended,Swift +2,None,"9mm Round, 2",Ballistic,Small Guns,"Glock 17, ect...",Indefinite,Innate
+Dual-wielded 9mm Semi-automatic Pistol +0,Dual-wielded,9mm Semi-automatic Pistol,+0,+3d6,2,"Extended (Normal), Extended (Disadvantage), Extended (Super Disadvantage)",Swift +2,None,"9mm Round, 2",Ballistic,Small Guns,"Glock 17, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed 9mm Burst-fire Pistol +0,One-handed,9mm Burst-fire Pistol,+0,+3d6,2,Mediocre,Swift +2,None,"9mm Round, 3",Ballistic,Small Guns,"Beretta 93R, ect...",Indefinite,Innate
+One-handed 9mm Burst-fire Pistol +0,One-handed,9mm Burst-fire Pistol,+0,+3d6,2,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Swift +2,None,"9mm Round, 3",Ballistic,Small Guns,"Beretta 93R, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Two-handed 9mm Burst-fire Pistol +0,Two-handed,9mm Burst-fire Pistol,+0,+3d6,2,Medium,Swift +2,None,"9mm Round, 3",Ballistic,Small Guns,"Beretta 93R, ect...",Indefinite,Innate
+Two-handed 9mm Burst-fire Pistol +0,Two-handed,9mm Burst-fire Pistol,+0,+3d6,2,"Medium (Normal), Medium (Disadvantage), Medium (Super Disadvantage)",Swift +2,None,"9mm Round, 3",Ballistic,Small Guns,"Beretta 93R, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Dual-wielded 9mm Burst-fire Pistol +0,Dual-wielded,9mm Burst-fire Pistol,+0,+4d6,2,Mediocre,Swift +2,None,"9mm Round, 6",Ballistic,Small Guns,"Beretta 93R, ect...",Indefinite,Innate
+Dual-wielded 9mm Burst-fire Pistol +0,Dual-wielded,9mm Burst-fire Pistol,+0,+4d6,2,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Swift +2,None,"9mm Round, 6",Ballistic,Small Guns,"Beretta 93R, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed 9mm Automatic Pistol +0,One-handed,9mm Automatic Pistol,+0,+3d6,2,Short,Rapid,None,"9mm Round, 6",Ballistic,Small Guns,"Glock 18, ect...",Indefinite,Innate
+One-handed 9mm Automatic Pistol +0,One-handed,9mm Automatic Pistol,+0,+3d6,2,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Rapid,None,"9mm Round, 6",Ballistic,Small Guns,"Glock 18, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Two-handed 9mm Automatic Pistol +0,Two-handed,9mm Automatic Pistol,+0,+3d6,2,Mediocre,Rapid,None,"9mm Round, 6",Ballistic,Small Guns,"Glock 18, ect...",Indefinite,Innate
+Two-handed 9mm Automatic Pistol +0,Two-handed,9mm Automatic Pistol,+0,+3d6,2,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Rapid,None,"9mm Round, 6",Ballistic,Small Guns,"Glock 18, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Dual-wielded 9mm Automatic Pistol +0,Dual-wielded,9mm Automatic Pistol,+0,+4d6,2,Short,Rapid,None,"9mm Round, 12",Ballistic,Small Guns,"Glock 18, ect...",Indefinite,Innate
+Dual-wielded 9mm Automatic Pistol +0,Dual-wielded,9mm Automatic Pistol,+0,+4d6,2,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Rapid,None,"9mm Round, 12",Ballistic,Small Guns,"Glock 18, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed 12 Gauge Pump-action Shotgun +0,One-handed,12 Gauge Pump-action Shotgun,+0,+1d6,2,Extended,Swift,None,"12 Gauge Shell, 1",Ballistic,Medium Guns,"Remington 870, Mossberg 500, ect...",Indefinite,Innate
+One-handed 12 Gauge Pump-action Shotgun +0,One-handed,12 Gauge Pump-action Shotgun,+0,+1d6,2,"Extended (Normal), Extended (Disadvantage), Extended (Super Disadvantage)",Swift,None,"12 Gauge Shell, 1",Ballistic,Medium Guns,"Remington 870, Mossberg 500, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Two-handed 12 Gauge Pump-action Shotgun +0,Two-handed,12 Gauge Pump-action Shotgun,+0,+3d6,2,Extended,Swift,None,"12 Gauge Shell, 1",Ballistic,Medium Guns,"Remington 870, Mossberg 500, ect...",Indefinite,Innate
+Two-handed 12 Gauge Pump-action Shotgun +0,Two-handed,12 Gauge Pump-action Shotgun,+0,+3d6,2,"Extended (Normal), Extended (Disadvantage), Extended (Super Disadvantage)",Swift,None,"12 Gauge Shell, 1",Ballistic,Medium Guns,"Remington 870, Mossberg 500, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed 5.56 Semi-automatic Rifle +0,One-handed,5.56 Semi-automatic Rifle,+0,+1d6,3,Extreme,Swift +2,None,"5.56 Round, 1",Ballistic,Medium Guns,"AR-15, ect...",Indefinite,Innate
+One-handed 5.56 Semi-automatic Rifle +0,One-handed,5.56 Semi-automatic Rifle,+0,+1d6,3,"Extreme (Normal), Extreme (Disadvantage), Extreme (Super Disadvantage)",Swift +2,None,"5.56 Round, 1",Ballistic,Medium Guns,"AR-15, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Two-handed 5.56 Semi-automatic Rifle +0,Two-handed,5.56 Semi-automatic Rifle,+0,+3d6,3,Extreme,Swift +2,None,"5.56 Round, 1",Ballistic,Medium Guns,"AR-15, ect...",Indefinite,Innate
+Two-handed 5.56 Semi-automatic Rifle +0,Two-handed,5.56 Semi-automatic Rifle,+0,+3d6,3,"Extreme (Normal), Extreme (Disadvantage), Extreme (Super Disadvantage)",Swift +2,None,"5.56 Round, 1",Ballistic,Medium Guns,"AR-15, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed 5.56 Burst Rifle +0,One-handed,5.56 Burst Rifle,+0,+2d6,3,Sharpshooter,Swift +2,None,"5.56 Round, 3",Ballistic,Medium Guns,"M16A2, ect...",Indefinite,Innate
+One-handed 5.56 Burst Rifle +0,One-handed,5.56 Burst Rifle,+0,+2d6,3,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Swift +2,None,"5.56 Round, 3",Ballistic,Medium Guns,"M16A2, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Two-handed 5.56 Burst Rifle +0,Two-handed,5.56 Burst Rifle,+0,+4d6,3,Sharpshooter,Swift +2,None,"5.56 Round, 3",Ballistic,Medium Guns,"M16A2, ect...",Indefinite,Innate
+Two-handed 5.56 Burst Rifle +0,Two-handed,5.56 Burst Rifle,+0,+4d6,3,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Swift +2,None,"5.56 Round, 3",Ballistic,Medium Guns,"M16A2, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed 5.56 Automatic Rifle +0,One-handed,5.56 Automatic Rifle,+0,+2d6,3,Distant,Rapid,None,"5.56 Round, 6",Ballistic,Medium Guns,"M4, ect...",Indefinite,Innate
+One-handed 5.56 Automatic Rifle +0,One-handed,5.56 Automatic Rifle,+0,+2d6,3,"Distant (Normal), Distant (Disadvantage), Distant (Super Disadvantage)",Rapid,None,"5.56 Round, 6",Ballistic,Medium Guns,"M4, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Two-handed 5.56 Automatic Rifle +0,Two-handed,5.56 Automatic Rifle,+0,+4d6,3,Distant,Rapid,None,"5.56 Round, 6",Ballistic,Medium Guns,"M4, ect...",Indefinite,Innate
+Two-handed 5.56 Automatic Rifle +0,Two-handed,5.56 Automatic Rifle,+0,+4d6,3,"Distant (Normal), Distant (Disadvantage), Distant (Super Disadvantage)",Rapid,None,"5.56 Round, 6",Ballistic,Medium Guns,"M4, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed .308 Bolt Action Rifle +0,One-handed,.308 Bolt Action Rifle,+0,+1d6,4,Sniper,Quick,None,".308 Round, 1",Ballistic,Medium Guns,"Remington M700, ect...",Indefinite,Innate
+One-handed .308 Bolt Action Rifle +0,One-handed,.308 Bolt Action Rifle,+0,+1d6,4,"Sniper (Normal), Sniper (Disadvantage), Sniper (Super Disadvantage)",Quick,None,".308 Round, 1",Ballistic,Medium Guns,"Remington M700, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Two-handed .308 Bolt Action Rifle +0,Two-handed,.308 Bolt Action Rifle,+0,+4d6,4,Sniper,Quick,None,".308 Round, 1",Ballistic,Medium Guns,"Remington M700, ect...",Indefinite,Innate
+Two-handed .308 Bolt Action Rifle +0,Two-handed,.308 Bolt Action Rifle,+0,+4d6,4,"Sniper (Normal), Sniper (Disadvantage), Sniper (Super Disadvantage)",Quick,None,".308 Round, 1",Ballistic,Medium Guns,"Remington M700, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed 5.56 Machine Gun +0,One-handed,5.56 Machine Gun,+0,-2d,3,Extreme,Rapid,None,"5.56 Round, 10",Ballistic,Heavy Guns,"M249, ect...",Indefinite,Innate
+One-handed 5.56 Machine Gun +0,One-handed,5.56 Machine Gun,+0,-2d,3,"Extreme (Normal), Extreme (Disadvantage), Extreme (Super Disadvantage)",Rapid,None,"5.56 Round, 10",Ballistic,Heavy Guns,"M249, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Two-handed 5.56 Machine Gun +0,Two-handed,5.56 Machine Gun,+0,+4d6,3,Extreme,Rapid,None,"5.56 Round, 10",Ballistic,Heavy Guns,"M249, ect...",Indefinite,Innate
+Two-handed 5.56 Machine Gun +0,Two-handed,5.56 Machine Gun,+0,+4d6,3,"Extreme (Normal), Extreme (Disadvantage), Extreme (Super Disadvantage)",Rapid,None,"5.56 Round, 10",Ballistic,Heavy Guns,"M249, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed RPG Launcher +0,One-handed,RPG Launcher,+0,-2d,4,Sharpshooter,Paced,30 ft Sphere,"RPG Round, 1",Shockwave,Heavy Guns,"RPG-7, ect...",Indefinite,Innate
+One-handed RPG Launcher +0,One-handed,RPG Launcher,+0,-2d,4,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Paced,30 ft Sphere,"RPG Round, 1",Shockwave,Heavy Guns,"RPG-7, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Two-handed RPG Launcher +0,Two-handed,RPG Launcher,+0,+6d6,4,Sharpshooter,Paced,30 ft Sphere,"RPG Round, 1",Shockwave,Heavy Guns,"RPG-7, ect...",Indefinite,Innate
+Two-handed RPG Launcher +0,Two-handed,RPG Launcher,+0,+6d6,4,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Paced,30 ft Sphere,"RPG Round, 1",Shockwave,Heavy Guns,"RPG-7, ect...",Indefinite,Innate

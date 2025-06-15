@@ -1,16 +1,48 @@
-name,effectiveRangeBase,effectiveRangePerDice,optionalIneffectiveRangeBase,optionalIneffectiveRangePerDice,optionalMaxRangeBase,optionalMaxRangePerDice
-Self,0,0,None,None,None,None
-Melee,5,0,None,None,None,None
-Reach,10,0,None,None,None,None
-Near,0,1.67,0,3.34,0,5.01
-Close,0,2.5,0,5,0,7.5
-Short,0,3.34,0,6.68,0,10.02
-Mediocre,0,5,0,10,0,15
-Medium,0,7.5,0,15,0,22.5
-Extended,0,10,0,20,0,30
-Far,0,15,0,30,0,45
-Long,0,20,0,40,0,60
-Distant,0,25,0,50,0,75
-Sharpshooter,0,30,0,60,0,90
-Extreme,0,35,0,70,0,105
-Sniper,0,50,0,100,0,150
+name,minRangeBase,minRangePerDice,maxRangeBase,maxRangePerDice
+Self,0,0,0,0
+Melee,0,0,5,0
+Reach,0,0,10,0
+,,,,
+Near (Normal),0,0,0,1.67
+Near (Disadvantage),0,1.67,0,3.34
+Near (Super Disadvantage),0,3.34,0,5.01
+,,,,
+Short (Normal),0,0,0,3.34
+Short (Disadvantage),0,3.34,0,6.68
+Short (Super Disadvantage),0,6.68,0,10.02
+,,,,
+Mediocre (Normal),0,0,0,5
+Mediocre (Disadvantage),0,5,0,10
+Mediocre (Super Disadvantage),0,10,0,15
+,,,,
+Medium (Normal),0,0,0,7.5
+Medium (Disadvantage),0,7.5,0,15
+Medium (Super Disadvantage),0,15,0,22.5
+,,,,
+Extended (Normal),0,0,0,10
+Extended (Disadvantage),0,10,0,20
+Extended (Super Disadvantage),0,20,0,30
+,,,,
+Far (Normal),0,0,0,15
+Far (Disadvantage),0,15,0,30
+Far (Super Disadvantage),0,30,0,45
+,,,,
+Long (Normal),0,0,0,20
+Long (Disadvantage),0,20,0,40
+Long (Super Disadvantage),0,40,0,60
+,,,,
+Distant (Normal),0,0,0,25
+Distant (Disadvantage),0,25,0,50
+Distant (Super Disadvantage),0,50,0,75
+,,,,
+Sharpshooter (Normal),0,0,0,30
+Sharpshooter (Disadvantage),0,30,0,60
+Sharpshooter (Super Disadvantage),0,60,0,90
+,,,,
+Extreme (Normal),0,0,0,35
+Extreme (Disadvantage),0,35,0,70
+Extreme (Super Disadvantage),0,70,0,105
+,,,,
+Sniper (Normal),0,0,0,50
+Sniper (Disadvantage),0,50,0,100
+Sniper (Super Disadvantage),0,100,0,150
