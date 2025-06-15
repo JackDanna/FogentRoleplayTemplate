@@ -15,5 +15,5 @@ Poison,Caused by poisons or toxins.,Endurance
 Necrotic,"Caused by rot, decay, and undeath.",Endurance
 Bleed,Caused by the loss of blood.,Endurance
 Fatigue,"Caused by the lack of nutrition, rest, drinkable water, breathable air, ect...",Endurance
-Psychic,Caused by mental trauma.,Willpower
-Spiritual,Caused by spiritual sources such as ghosts or divine entities.,Willpower
+Psychic,Caused by mental trauma.,Will
+Spiritual,Caused by spiritual sources such as ghosts or divine entities.,Will
