@@ -618,8 +618,8 @@ Damage Types represent the various sources of injuries a character can receive.
 | Necrotic |                         Caused by rot, decay, and undeath.                         |        Endurance        |
 |   Bleed   |                            Caused by the loss of blood.                            |        Endurance        |
 |  Fatigue  |   Caused by the lack of nutrition, rest, drinkable water, breathable air, ect...   |        Endurance        |
-|  Psychic  |                              Caused by mental trauma.                              |        Will        |
-| Spiritual |           Caused by spiritual sources such as ghosts or divine entities.           |        Will        |
+|  Psychic  |                              Caused by mental trauma.                              |           Will           |
+| Spiritual |           Caused by spiritual sources such as ghosts or divine entities.           |           Will           |
 
 ## Injury
 
@@ -765,54 +765,54 @@ Often, an action will have multiple Ranges, usually done to denote different beh
 **Max Range Base:** The amount of additional Max Range per dice in the governing Skill's Dice Pool.
 
 |               Name               | Min Range Base | Min Range Per Dice | Max Range Base | Max Range Per Dice |
-| :-------------------------------: | :--------------: | :------------------: | :------------: | :----------------: |
-|               Self               |        0        |          0          |       0       |         0         |
-|               Melee               |        0        |          0          |       5       |         0         |
-|               Reach               |        0        |          0          |       10       |         0         |
-|                                  |                  |                      |                |                    |
-|           Near (Normal)           |        0        |          0          |       0       |        1.67        |
-|        Near (Disadvantage)        |        0        |         1.67         |       0       |        3.34        |
-|     Near (Super Disadvantage)     |        0        |         3.34         |       0       |        5.01        |
-|                                  |                  |                      |                |                    |
-|          Short (Normal)          |        0        |          0          |       0       |        3.34        |
-|       Short (Disadvantage)       |        0        |         3.34         |       0       |        6.68        |
-|    Short (Super Disadvantage)    |        0        |         6.68         |       0       |       10.02       |
-|                                  |                  |                      |                |                    |
-|         Mediocre (Normal)         |        0        |          0          |       0       |         5         |
-|      Mediocre (Disadvantage)      |        0        |          5          |       0       |         10         |
-|   Mediocre (Super Disadvantage)   |        0        |          10          |       0       |         15         |
-|                                  |                  |                      |                |                    |
-|         Medium (Normal)         |        0        |          0          |       0       |        7.5        |
-|      Medium (Disadvantage)      |        0        |         7.5         |       0       |         15         |
-|   Medium (Super Disadvantage)   |        0        |          15          |       0       |        22.5        |
-|                                  |                  |                      |                |                    |
-|         Extended (Normal)         |        0        |          0          |       0       |         10         |
-|      Extended (Disadvantage)      |        0        |          10          |       0       |         20         |
-|   Extended (Super Disadvantage)   |        0        |          20          |       0       |         30         |
-|                                  |                  |                      |                |                    |
-|           Far (Normal)           |        0        |          0          |       0       |         15         |
-|        Far (Disadvantage)        |        0        |          15          |       0       |         30         |
-|     Far (Super Disadvantage)     |        0        |          30          |       0       |         45         |
-|                                  |                  |                      |                |                    |
-|           Long (Normal)           |        0        |          0          |       0       |         20         |
-|        Long (Disadvantage)        |        0        |          20          |       0       |         40         |
-|     Long (Super Disadvantage)     |        0        |          40          |       0       |         60         |
-|                                  |                  |                      |                |                    |
-|         Distant (Normal)         |        0        |          0          |       0       |         25         |
-|      Distant (Disadvantage)      |        0        |          25          |       0       |         50         |
-|   Distant (Super Disadvantage)   |        0        |          50          |       0       |         75         |
-|                                  |                  |                      |                |                    |
-|       Sharpshooter (Normal)       |        0        |          0          |       0       |         30         |
-|    Sharpshooter (Disadvantage)    |        0        |          30          |       0       |         60         |
-| Sharpshooter (Super Disadvantage) |        0        |          60          |       0       |         90         |
-|                                  |                  |                      |                |                    |
-|         Extreme (Normal)         |        0        |          0          |       0       |         35         |
-|      Extreme (Disadvantage)      |        0        |          35          |       0       |         70         |
-|   Extreme (Super Disadvantage)   |        0        |          70          |       0       |        105        |
-|                                  |                  |                      |                |                    |
-|          Sniper (Normal)          |        0        |          0          |       0       |         50         |
-|       Sniper (Disadvantage)       |        0        |          50          |       0       |        100        |
-|    Sniper (Super Disadvantage)    |        0        |         100         |       0       |        150        |
+| :-------------------------------: | :------------: | :----------------: | :------------: | :----------------: |
+|               Self               |       0       |         0         |       0       |         0         |
+|               Melee               |       0       |         0         |       5       |         0         |
+|               Reach               |       0       |         0         |       10       |         0         |
+|                                  |                |                    |                |                    |
+|           Near (Normal)           |       0       |         0         |       0       |        1.67        |
+|        Near (Disadvantage)        |       0       |        1.67        |       0       |        3.34        |
+|     Near (Super Disadvantage)     |       0       |        3.34        |       0       |        5.01        |
+|                                  |                |                    |                |                    |
+|          Short (Normal)          |       0       |         0         |       0       |        3.34        |
+|       Short (Disadvantage)       |       0       |        3.34        |       0       |        6.68        |
+|    Short (Super Disadvantage)    |       0       |        6.68        |       0       |       10.02       |
+|                                  |                |                    |                |                    |
+|         Mediocre (Normal)         |       0       |         0         |       0       |         5         |
+|      Mediocre (Disadvantage)      |       0       |         5         |       0       |         10         |
+|   Mediocre (Super Disadvantage)   |       0       |         10         |       0       |         15         |
+|                                  |                |                    |                |                    |
+|          Medium (Normal)          |       0       |         0         |       0       |        7.5        |
+|       Medium (Disadvantage)       |       0       |        7.5        |       0       |         15         |
+|    Medium (Super Disadvantage)    |       0       |         15         |       0       |        22.5        |
+|                                  |                |                    |                |                    |
+|         Extended (Normal)         |       0       |         0         |       0       |         10         |
+|      Extended (Disadvantage)      |       0       |         10         |       0       |         20         |
+|   Extended (Super Disadvantage)   |       0       |         20         |       0       |         30         |
+|                                  |                |                    |                |                    |
+|           Far (Normal)           |       0       |         0         |       0       |         15         |
+|        Far (Disadvantage)        |       0       |         15         |       0       |         30         |
+|     Far (Super Disadvantage)     |       0       |         30         |       0       |         45         |
+|                                  |                |                    |                |                    |
+|           Long (Normal)           |       0       |         0         |       0       |         20         |
+|        Long (Disadvantage)        |       0       |         20         |       0       |         40         |
+|     Long (Super Disadvantage)     |       0       |         40         |       0       |         60         |
+|                                  |                |                    |                |                    |
+|         Distant (Normal)         |       0       |         0         |       0       |         25         |
+|      Distant (Disadvantage)      |       0       |         25         |       0       |         50         |
+|   Distant (Super Disadvantage)   |       0       |         50         |       0       |         75         |
+|                                  |                |                    |                |                    |
+|       Sharpshooter (Normal)       |       0       |         0         |       0       |         30         |
+|    Sharpshooter (Disadvantage)    |       0       |         30         |       0       |         60         |
+| Sharpshooter (Super Disadvantage) |       0       |         60         |       0       |         90         |
+|                                  |                |                    |                |                    |
+|         Extreme (Normal)         |       0       |         0         |       0       |         35         |
+|      Extreme (Disadvantage)      |       0       |         35         |       0       |         70         |
+|   Extreme (Super Disadvantage)   |       0       |         70         |       0       |        105        |
+|                                  |                |                    |                |                    |
+|          Sniper (Normal)          |       0       |         0         |       0       |         50         |
+|       Sniper (Disadvantage)       |       0       |         50         |       0       |        100        |
+|    Sniper (Super Disadvantage)    |       0       |        100        |       0       |        150        |
 
 ### Example
 
@@ -824,21 +824,17 @@ The final result of all of the Ranges would be "Long (Normal): 0 - 140 ft, Long 
 
 ## Area Of Effect
 
-An Area Of Effect describe a 3D space. This is often used for certain attacks such as a grenade explosion that effects an area.
-
-Length is measured in ft. Area is measured in ft^2. Volume is measured in ft^3. Angles are measured in degrees.
+An Area Of Effect (or AOE) describes a 3D space. They can be used to desribe any action that will cover a chunk of space, often used for certain attacks such as an explosions.
 
 All Area Of Effects will have a point of origin from which the area of effect will emanate from.
 
-An Area Of Effect has a Effective, optional Ineffective, and optional Max component to it. They will all share the same point of origin. The shape that the Effective component describes will always be smaller than the Ineffective component, and the Ineffective component will always be smaller than the Max component. A good example would be a modern hand grenade, where the Effective component might represent the inner most "kill radius", the Ineffective component would represent the middle "casualty radius", and the Max component would represent the outer most radius where you might get hit by a piece of shrapnel though highly unlikely.
+If an Area Of Effect specifies "(Disadvantage)", "(Super Disadvantage)", "(Advantage)", or "(Super Disadvantage)" as part of it's name than the Dice Pool that will be rolled for that action will gain the correspounding option from the "Advantage and Disadvantage" rules section.
 
-When dealing with a character between two of the components, such as on the edge between Effective and Ineffective, it is up to the Narrators discretion to decide if they are more inside one or the other.
+Often, an action will have multiple Area Of Effects, such as when trying to add gradations of effectiveness to some action.
 
-**Effective Area Of Effect:** Within the Effective component of an Area of Effect, dice pool rolls are unchanged.
+For example let's say we want to add gradations to how effective a modern hand grenade is. We will use 3 nested Spheres. The inner most AOE Sphere will represent the "kill radius" for our explosion, so we'll specify "(Normal)" in it's name. The middle AOE Sphere will represent the "casualty radius" where your more likely to get injured than die, so we'll specify "(Disadvantage)" in it's name. The outer most Sphere will represent where you'd be mostly safe but might catch a unlucky piece of shrapnel, so we'll specify "(Super Disadvantage)" on it's name. So our grenade action would it's Area Of Effects as "Grenade Explosion (Normal), Grenade Explosion (Disadvantage), Grenade Explosion (Super Disadvantage)".
 
-**Ineffective Area Of Effect:** Within the Ineffective component of an Area Of Effect, but excluding the Effective component, the dice pool roll creating this Area Of Effect gains Disadvantage.
-
-**Max Area Of Effect:** Within the Max component of an Area Of Effect, but excluding the Ineffective component, the dice pool roll creating this Area Of Effect gains Super Disadvantage.
+If Area Of Effects from an action overlap each other, than the most advantageous Area Of Effects can be used.
 
 Area Of Effects with "... Per Dice" parts of there components scales with the size of the Skill Dice Pool they are associated with. This could be used for magic users, with the size of their area of effects scaling with their proficiency with their magic.
 
@@ -846,21 +842,15 @@ Area Of Effects with "... Per Dice" parts of there components scales with the si
 
 Point of Origin: A Sphere's point of origin will be at there center.
 
-Effective Radius = (Effective Radius Base) + ( (Size of governing skill dice pool) * (Effective Radius Per Dice) )
-
-Ineffective Radius = (Ineffective Radius Base) + ( (Size of governing skill dice pool) * (Ineffective Radius Per Dice) )
-
-Max Radius = (Max Radius Base) + ( (Size of governing skill dice pool) * (Max Radius Per Dice) )
-
-|           Name           | Effective Radius Base | Effective Radius Per Dice | Optional Ineffective Radius Base | Optional Ineffective Radius Per Dice | Optional Max Radius Base | Optional Max Radius Per Dice |
-| :-----------------------: | :-------------------: | :-----------------------: | :------------------------------: | :----------------------------------: | :----------------------: | :--------------------------: |
-|        5 ft Sphere        |           5           |             0             |               None               |                 None                 |           None           |             None             |
-|       10 ft Sphere       |          10          |             0             |               None               |                 None                 |           None           |             None             |
-|       15 ft Sphere       |          15          |             0             |               None               |                 None                 |           None           |             None             |
-|       20 ft Sphere       |          20          |             0             |               None               |                 None                 |           None           |             None             |
-|       25 ft Sphere       |          25          |             0             |               None               |                 None                 |           None           |             None             |
-|       30 ft Sphere       |          30          |             0             |               None               |                 None                 |           None           |             None             |
-| Medium Sphere Calculation |          2.5          |            2.5            |               None               |                 None                 |           None           |             None             |
+|           Name           | Radius Base | Radius Per Dice |
+| :-----------------------: | :---------: | :-------------: |
+|        5 ft Sphere        |      5      |        0        |
+|       10 ft Sphere       |     10     |        0        |
+|       15 ft Sphere       |     15     |        0        |
+|       20 ft Sphere       |     20     |        0        |
+|       25 ft Sphere       |     25     |        0        |
+|       30 ft Sphere       |     30     |        0        |
+| Medium Sphere Calculation |     2.5     |       2.5       |
 
 ### Cone
 
@@ -868,41 +858,27 @@ Point of Origin: A Cone point of origin will be the narrowest point of the cone,
 
 If a cone has an angle of 53.13, than the cone's width is equal to its length at any given point. which means that the cone's area of effect is specified by its maximum length. For example, a cone spell with a range of 15 ft will extend up to 15 ft away from the point of origin, and at any point, its width matches its length.
 
-Effective Length = (Effective Length Base) + ( (Size of governing skill dice pool) * (Effective Length Per Dice) )
-
-Ineffective Length = (Ineffective Length Base) + ( (Size of governing skill dice pool) * (Ineffective Length Per Dice) )
-
-Max Length = (Max Length Base) + ( (Size of governing skill dice pool) * (Max Length Per Dice) )
-
-|          Name          | Angle | Effective Length Base | Effective Length Per Dice | Optional Ineffective Length Base | Optional Ineffective Length Per Dice | Optional Max Length Base | Optional Max Length Per Dice |
-| :---------------------: | :---: | :-------------------: | :-----------------------: | :------------------------------: | :----------------------------------: | :----------------------: | :--------------------------: |
-|       10 ft Cone       | 53.13 |          10          |           None           |               None               |                 None                 |           None           |             None             |
-|       15 ft Cone       | 53.13 |          15          |           None           |               None               |                 None                 |           None           |             None             |
-|       20 ft Cone       | 53.13 |          20          |           None           |               None               |                 None                 |           None           |             None             |
-|       25 ft Cone       | 53.13 |          25          |           None           |               None               |                 None                 |           None           |             None             |
-|       30 ft Cone       | 53.13 |          30          |           None           |               None               |                 None                 |           None           |             None             |
-|       35 ft Cone       | 53.13 |          35          |           None           |               None               |                 None                 |           None           |             None             |
-|       40 ft Cone       | 53.13 |          40          |           None           |               None               |                 None                 |           None           |             None             |
-|       45 ft Cone       | 53.13 |          45          |           None           |               None               |                 None                 |           None           |             None             |
-|       50 ft Cone       | 53.13 |          50          |           None           |               None               |                 None                 |           None           |             None             |
-|       55 ft Cone       | 53.13 |          55          |           None           |               None               |                 None                 |           None           |             None             |
-|       60 ft Cone       | 53.13 |          60          |           None           |               None               |                 None                 |           None           |             None             |
-| Close Cone Calculation | 53.13 |          2.5          |            2.5            |               None               |                 None                 |           None           |             None             |
-| Medium Cone Calculation | 53.13 |          2.5          |             5             |               None               |                 None                 |           None           |             None             |
+|          Name          | Angle | Length Base | Length Per Dice |
+| :---------------------: | :---: | :---------: | :-------------: |
+|       10 ft Cone       | 53.13 |     10     |        0        |
+|       15 ft Cone       | 53.13 |     15     |        0        |
+|       20 ft Cone       | 53.13 |     20     |        0        |
+|       25 ft Cone       | 53.13 |     25     |        0        |
+|       30 ft Cone       | 53.13 |     30     |        0        |
+|       35 ft Cone       | 53.13 |     35     |        0        |
+|       40 ft Cone       | 53.13 |     40     |        0        |
+|       45 ft Cone       | 53.13 |     45     |        0        |
+|       50 ft Cone       | 53.13 |     50     |        0        |
+|       55 ft Cone       | 53.13 |     55     |        0        |
+|       60 ft Cone       | 53.13 |     60     |        0        |
+| Close Cone Calculation | 53.13 |     2.5     |       2.5       |
+| Medium Cone Calculation | 53.13 |     2.5     |        5        |
 
 ### Range and Area Of Effects
 
-If an action, such as an attack or spell, has a Range and an Area Of Effect, then the Range describe how far away the point of origin can be for the Area Of Effect.
+If an action, such as an attack or spell, has a Range and an Area Of Effect, then the Range describe how far away the point of origin can be for the Area Of Effect. 
 
-Cases will arise when an action is performed with a combination of Effective/Ineffective/Max Range and Effective/Ineffective/Max Area Of Effect. We can simply use our rules for resolving multiple Advantages and Disadvantages for handling these cases. The below table shows what the result of these would be.
-
-**Example:**
-
-|                  | Effective Area Of Effect |               Ineffective Area Of Effect               |                        Max Area Of Effect                        |
-| :---------------: | :----------------------: | :-----------------------------------------------------: | :--------------------------------------------------------------: |
-|  Effective Range  |       Normal Roll       |                      Disadvantage                      |                        Super Disadvantage                        |
-| Ineffective Range |       Disadvantage       |            2 x Disadvantage => Disadvantage            | Disadvantage + Super DisSuper Disadvantage => Super Disadvantage |
-|     Max Range     |    Super Disadvantage    | Super Disadvantage + Disadvantage => Super Disadvantage |           2 x Super Disadvantage => Super Disadvantage           |
+When cases arise were an action is performed with a combinaion of a Range with Advantage/Disadvantage and Area Of Effect with Advantage/Disadvantage, simply use the "Multiple Advantages and Disadvantages on a roll" rule.
 
 ## Uses Per Round
 
@@ -1764,7 +1740,7 @@ These are literally just skill checks. This way, if there is a use of one of a c
 |            Bewitch            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         You bewitch a target within your range as a part of your turn. The target makes a Will Check versus the Magic Skill Roll of this spell. If successful, this spell inflicts an extra Minor Necrotic Injury whenever you inflict an injury. Additionally, you can select one of the target's core skills to impose a disadvantage on. If the target's is rendered unconscious or killed before the spell ends, you have the opportunity to bewitch another creature on a subsequent turn of yours. If a spell remove a curse from a target than this spell ends early.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |   Concentration, 1 hour   |      Innate      | ~seconds |   Soul Magic   |        1        |      Long      |                        |
 |       Talk With Animals       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           You acquire the capacity to understand and speak with beasts throughout the spell's duration. While the intelligence of many beasts may limit their knowledge and awareness, they can, at a minimum, provide information about nearby locations and creatures, based on their perceptions from the past day. Depending on the Narrator's judgment, you might also be able to persuade a beast to carry out a small task for you.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |        10 minutes        |      Innate      | ~seconds |  Nature Magic  |        1        |      Self      |                        |
 |        Disguise Flesh        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        You have the ability to alter your biological appearance, until the spell concludes or you choose to dispel it. You can change your height by up to one foot and manipulate your apparent physique to appear thin, fat, or anything in between. However, you cannot alter your fundamental body structure, necessitating adherence to a form with a similar limb arrangement. Beyond this restriction, the extent of changes is within your control. Despite the alterations, if this spell is used to mimic another's appearance, depending on the skill level of the caster certain details might be off at close distances, especially for those that would know the mimicked character. To expose your disguise, a character can spend its action inspecting your appearance and must succeed in an Logic check versus the wins achieved when this spell is cast.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |          1 hour          |      Innate      | ~seconds |  Bodily Magic  |        1        |      Self      |                        |
-|         Weird Insight         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Select a character's mind within effective range, probing for a random fact or secret about the target. The target is aware there mind is being probed, and can either make a Deception check to deceive the mental invader, feeding them a false piece of information or Will check to force them out of their mind. The target has advantage if they are in combat with the caster or its allies. If the target is unable to resist, roll a d20, with the higher the roll being the more hidden the fact or secret. The target automatically resists the mental invasion if they are immune to being charmed.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |       Instantaneous       |      Innate      | ~seconds |   Mind Magic   |        1        |    Mediocre    |                        |
+|         Weird Insight         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   Select a character's mind within effective range, probing for a random fact or secret about the target. The target is aware there mind is being probed, and can either make a Deception check to deceive the mental invader, feeding them a false piece of information or Will check to force them out of their mind. The target has advantage if they are in combat with the caster or its allies. If the target is unable to resist, roll a d20, with the higher the roll being the more hidden the fact or secret. The target automatically resists the mental invasion if they are immune to being charmed.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |       Instantaneous       |      Innate      | ~seconds |   Mind Magic   |        1        |    Mediocre    |                        |
 |        Babel's Clarity        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               You hear any language that is spoken around you as if it was spoken in Babelish. Additionally, you comprehend any written language you encounter as if it was written in Babelish, provided that you physically touch the surface bearing the text.This effect does not decode secret messages or arcane writing that is not part of a written language.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |          1 hour          |      Innate      | ~seconds |   Mind Magic   |        1        |      Self      |                        |
 |      Physical Protection      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        A willing and unarmored creature that you touch becomes enveloped in a protective magical field until the spell is terminated. This field grants the wearer 3 Physical Defense for the duration. If the creature puts on armor or if you choose to end the spell with an action, the spell concludes.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |          8 hours          |      Innate      | ~seconds | Gravity Magic |        1        |     Melee     |                        |
 |           Hologram           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            You conjure the likeness of an object, character, or other visible phenomenon no larger than a 15-foot cube. This illusion manifests within range and persists for the spell's duration. It remains purely visual, lacking any accompanying sound, smell, or other sensory aspects. Using your action, you can maneuver the illusion to any location within range. As it moves, you can adjust its appearance to mimic natural movements, such as walking for a creature. Physical interaction with the illusion reveals its true nature, as objects pass through it unhindered. A creature can use its action to scrutinize the illusion, potentially discerning its falseness with a successful Logic check against the Magic Skill Roll wins of this spell. Once the illusion is revealed, the creature can see through it.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Concentration, 10 minutes |      Innate      | ~seconds |  Light Magic  |        1        |      Far      |                        |
