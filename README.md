@@ -838,9 +838,17 @@ If Area Of Effects from an action overlap each other, than the most advantageous
 
 Area Of Effects with a "... Per Dice" column can scales with the size of the governing Skill Dice Pool the action is associated with. For example, this could be used for a magic users to have the size of their area of effects scaling with their proficiency with their magic.
 
+### Box
+
+Point of Origin: The center of the Box
+
+|    Name    | Length Base | Length Per Dice | Width Base | Width Per Dice | Height Base | Height Per Dice |
+| :--------: | :---------: | :-------------: | :--------: | :------------: | :---------: | :-------------: |
+| 10 ft Cube |     10     |        0        |     10     |       0       |     10     |        0        |
+
 ### Sphere
 
-Point of Origin: A Sphere's point of origin will be at there center.
+Point of Origin: The center of the Sphere
 
 |           Name           | Radius Base | Radius Per Dice |
 | :-----------------------: | :---------: | :-------------: |
