@@ -1026,11 +1026,11 @@ Since the Rogue has a higher Dexterity Movement Speeds, he can move 5 feet with 
 
 Since the Knight already had his sword ready to go, combat rolls will be made, but the Knight will do so while having to deal with the disadvantageous position being in slippery mud.
 
-### Raw Movement Speed
+### Athletics Movement Speed
 
-Raw Movement Speed is the second portion of a character's movement and represents how fast they are once at there top speed.
+Athletics Movement Speed is the second portion of a character's movement and represents how fast they are once at there top speed.
 
-Raw Movement Speed should always make up a far greater amount of your Total Movement Speed as compared to Dexterity Movement Speed. Even though characters with higher Dexterity Movement Speed might be quicker to initially move, there is nothing prevent a high Raw Movement Speed character from running them down.
+Athletics Movement Speed should always make up a far greater amount of your Total Movement Speed as compared to Dexterity Movement Speed. Even though characters with higher Dexterity Movement Speed might be quicker to initially move, there is nothing prevent a high Athletics Movement Speed character from running them down.
 
 ### Using multiple Movement Speeds on the same round
 
