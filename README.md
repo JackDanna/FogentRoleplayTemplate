@@ -976,10 +976,6 @@ Dexterity Movement Speed is the initial portion of a character's movement and re
 
 While lower Dexterity Movement Speed characters are deciding what to do, high Dexterity Movement Speed characters are already in motion. This can allow them to disengage from opponents, slip behind a door before it closes, avoid an Area Of Effect they are about to be caught in, close the distance to an opponent, ect...
 
-For each Dexterity Movement Speed Option, for the specified Skill, gain the corresponding amount multiplied by the amount of Dice in the Skill's dice pool.
-
-Dexterity Movement Speed = (Dexterity Movement Speed Base) + ( (Amount From Governing Skill Dice) * (Dexterity Movement Speed Per Skill Dice) )
-
 Dexterity Movement Speed can be used to resolve circumstances when it is unclear which character moved first or closed some distance. Dexterity Movement Speed is used first on a character's turn, with lower Dexterity Movement Speed characters considered to have not moved/acted yet. This rule takes inspiration from the gun vs knife debate at close distances, where it is argued that within a certain distance, a quick knife wielder might be able to close the distance before the shooter could get accurate shots on target. The ensuing ranged versus melee combat rolls would be disadvantageous for the ranged combatant as they are in melee reach.
 
 **Example 1:**
@@ -1051,10 +1047,6 @@ Since the knight already had his sword ready to go, combat rolls will be made, b
 Raw Movement Speed is the second portion of a character's movement and represents how fast they are once at there top speed.
 
 Raw Movement Speed should always make up a far greater amount of your Total Movement Speed as compared to Dexterity Movement Speed. Even though characters with higher Dexterity Movement Speed might be quicker to initially move, there is nothing prevent a high Raw Movement Speed character from running them down.
-
-For each Raw Movement Speed Option, for the specified Skill, gain the corresponding amount multiplied by the amount of Dice in the Skill's dice pool.
-
-Raw Movement Speed = (Raw Movement Speed Base) + ( (Amount From Governing Skill Dice) * (Raw Movement Speed Per Skill Dice) )
 
 ### Difficult Terrain
 
