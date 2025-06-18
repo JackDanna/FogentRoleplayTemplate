@@ -976,9 +976,11 @@ Reaction Movement Speed is the initial portion of a character's movement and rep
 
 While lower Reaction Movement Speed characters are deciding what to do, high Reaction Movement Speed characters are already in motion. This can allow them to disengage from opponents, slip behind a door before it closes, avoid an Area Of Effect they are about to be caught in, close the distance to an opponent, ect...
 
-Reaction Movement Speed can be used to resolve circumstances when it is unclear which character moved first or closed some distance. Reaction Movement Speed is used first on a character's turn, with lower Reaction Movement Speed characters considered to have not moved/acted yet. 
+For each Reaction Movement Speed Option, for the specified Skill, gain the corresponding amount multiplied by the amount of Dice in the Skill's dice pool.
 
-This rule takes inspiration from the gun vs knife debate at close distances, where it is argued that within a certain distance, a quick knife wielder might be able to close the distance before the shooter could get accurate shots on target. The ensuing ranged versus melee combat rolls would be disadvantageous for the ranged combatant as they are in melee reach.
+Reaction Movement Speed = (Reaction Movement Speed Base) + ( (Amount From Governing Skill Dice) * (Reaction Movement Speed Per Skill Dice) )
+
+Reaction Movement Speed can be used to resolve circumstances when it is unclear which character moved first or closed some distance. Reaction Movement Speed is used first on a character's turn, with lower Reaction Movement Speed characters considered to have not moved/acted yet. This rule takes inspiration from the gun vs knife debate at close distances, where it is argued that within a certain distance, a quick knife wielder might be able to close the distance before the shooter could get accurate shots on target. The ensuing ranged versus melee combat rolls would be disadvantageous for the ranged combatant as they are in melee reach.
 
 **Example 1:**
 
