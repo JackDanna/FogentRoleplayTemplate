@@ -1,14 +1,14 @@
-name,usesPerRoundBase,optionalDivisor,optionalMax
-Rapid,0,1,None
-Swift +2,0,2,None
-Swift +1,0,2,None
-Swift,0,2,None
-Quick,0,3,None
-Steady,0,4,None
-Paced,0,5,None
-Slow,0,6,None
-Extremely Slow,0,8,None
-Painfully Slow,0,16,None
-One Use Example,1,None,None
-One Round To Reload,0.7,None,None
-Two Rounds To Reload,0.4,None,None
+name,optionalMax,usesPerRoundBase,usesPerRoundPerDice,dicePerUsesPerRound
+Rapid,None,0,1,1
+Swift +2,None,0,0.5,2
+Swift +1,None,0,0.5,2
+Swift,None,0,0.5,2
+Quick,None,0,0.34,3
+Steady,None,0,0.25,4
+Paced,None,0,0.2,5
+Slow,None,0,1.67,6
+Extremely Slow,None,0,0.125,8
+Painfully Slow,None,0,0.0625,16
+One Use Example,None,1,0,None
+One Round To Reload,None,0.7,0,None
+Two Rounds To Reload,None,0.4,0,None
