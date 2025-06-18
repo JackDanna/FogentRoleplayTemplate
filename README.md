@@ -1032,6 +1032,8 @@ Athletics Movement Speed is the second portion of a character's movement and rep
 
 Athletics Movement Speed should always make up a far greater amount of your Total Movement Speed as compared to Dexterity Movement Speed. Even though characters with higher Dexterity Movement Speed might be quicker to initially move, there is nothing prevent a high Athletics Movement Speed character from running them down.
 
+Unlike Dexterity Speed, were the character with the greater speed can move before the other charater, for Athletics Movement Speed both characters start moving at the same time.
+
 ### Using multiple Movement Speeds on the same round
 
 Whenever a character needs to use multiple movement speeds in a round, calculate what percentage of their movement they've used that round for their initial movement, with the remainder percent being used for another movement speed.
