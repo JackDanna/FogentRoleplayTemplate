@@ -1042,7 +1042,7 @@ For example, if a character has 30 feet of "Terrestrial" and 15 feet of "Climb C
 
 ### Mounted Movement Speed
 
-The rider's Dexterity dice pool size is used for the mounts Dexterity Movement Speed calculation.Additionally, when a mounted character or their mount takes an injury in combat, a Dexterity or Riding skill check equivalent to the injury level must be succeeded to stay on horseback, or else they are knocked off.
+The rider's Dexterity dice pool size is used for the mounts Dexterity Movement Speed calculation. Additionally, when a mounted character or their mount takes an injury in combat, a Dexterity or Riding skill check equivalent to the injury level must be succeeded to stay on horseback, or else they are knocked off.
 
 ## Ammo
 
