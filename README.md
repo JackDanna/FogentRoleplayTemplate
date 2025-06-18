@@ -970,8 +970,6 @@ Movement Speed = (Movement Speed Base) + (#1 Movement Speed Per Dice Pair Result
 |   Movement Speed: Aquatic Reaction   |                       +2.5 Reaction Movement Speed per Dexterity Dice                       | Indefinite | Innate |          0          |         (Dexterity,2.5)         |
 |     Movement Speed: Aquatic Raw     |                         +7.5 Raw Movement Speed per Athletics Dice                         | Indefinite | Innate |          0          |         (Athletics,7.5)         |
 
-Movement Speed is made up of two portions, Reaction Movement Speed and Raw Movement Speed.
-
 ### Reaction Movement Speed
 
 Reaction Movement Speed is the initial portion of a character's movement and represents how quick they are to get into motion and act.
@@ -1058,15 +1056,15 @@ For each Raw Movement Speed Option, for the specified Skill, gain the correspond
 
 Raw Movement Speed = (Raw Movement Speed Base) + ( (Amount From Governing Skill Dice) * (Raw Movement Speed Per Skill Dice) )
 
+### Difficult Terrain
+
+Steep mountains, ice-covered ground, swamps, etc. are difficult terrain. It takes twice the movement to move through these terrains.
+
 ### Using multiple Movement Speeds on the same round
 
 Whenever a character needs to use multiple movement speeds in a round, calculate what percentage of their movement they've used that round for their initial movement, with the remainder percent being used for another movement speed.
 
 For example, if a character has 30 feet of "Terrestrial" and 15 feet of "Climb Combat Speed". The character walks 15 feet up to a climbable rock face. They've used 50% (15/30 = 0.5) of their movement speed, leaving them 50% of their climb combat speed. 50% of 15 feet is 7.5 feet. Therefore the character can climb 7.5 feet up the rock face.
-
-### Difficult Terrain
-
-Steep mountains, ice-covered ground, swamps, etc. are difficult terrain. It takes twice the movement to move through these terrains.
 
 ### Mounted Movement Speed
 
