@@ -948,39 +948,39 @@ Movement Speed Per Dice Pair Result = (Size of Governing Dice Pool) * (Movement 
 
 Movement Speed = (Movement Speed Base) + (#1 Movement Speed Per Dice Pair Result) + (#2 Movement Speed Per Dice Pair Result) + ect...
 
-|                 Name                 |                                         Description                                         |  Duration  | Source | Movement Speed Base |  Movement Speed Per Dice Pairs  |
-| :----------------------------------: | :-----------------------------------------------------------------------------------------: | :--------: | :----: | :-----------------: | :------------------------------: |
-|  Movement Speed: Terrestrial Total  | +2.5 Reaction Movement Speed per Dexterity Dice, +7.5 Raw Movement Speed per Athletics Dice | Indefinite | Innate |          0          | (Dexterity,2.5), (Athletics,7.5) |
-| Movement Speed: Terrestrial Reaction |                       +2.5 Reaction Movement Speed per Dexterity Dice                       | Indefinite | Innate |          0          |         (Dexterity,2.5)         |
-|   Movement Speed: Terrestrial Raw   |                         +7.5 Raw Movement Speed per Athletics Dice                         | Indefinite | Innate |          0          |         (Athletics,7.5)         |
-|                                      |                                                                                            |            |        |                    |                                  |
-|      Movement Speed: Swim Total      | +2.5 Reaction Movement Speed per Dexterity Dice, +5.0 Raw Movement Speed per Athletics Dice | Indefinite | Innate |          0          |  (Dexterity,2.5), (Athletics,5)  |
-|    Movement Speed: Swim Reaction    |                       +2.5 Reaction Movement Speed per Dexterity Dice                       | Indefinite | Innate |          0          |         (Dexterity,2.5)         |
-|       Movement Speed: Swim Raw       |                         +5.0 Raw Movement Speed per Athletics Dice                         | Indefinite | Innate |          0          |          (Athletics,5)          |
-|                                      |                                                                                            |            |        |                    |                                  |
-|     Movement Speed: Climb Total     |  +2.5 Reaction Movement Speed per Dexterity Dice, +5 Raw Movement Speed per Athletics Dice  | Indefinite | Innate |          0          |  (Dexterity,2.5), (Athletics,5)  |
-|    Movement Speed: Climb Reaction    |                       +2.5 Reaction Movement Speed per Dexterity Dice                       | Indefinite | Innate |          0          |         (Dexterity,2.5)         |
-|      Movement Speed: Climb Raw      |                          +5 Raw Movement Speed per Athletics Dice                          | Indefinite | Innate |          0          |          (Athletics,5)          |
-|                                      |                                                                                            |            |        |                    |                                  |
-|     Movement Speed: Flight Total     |  +5 Reaction Movement Speed per Dexterity Dice, +10 Raw Movement Speed per Athletics Dice  | Indefinite | Innate |          0          |  (Dexterity,5), (Athletics,10)  |
-|   Movement Speed: Flight Reaction   |                        +5 Reaction Movement Speed per Dexterity Dice                        | Indefinite | Innate |          0          |          (Dexterity,5)          |
-|      Movement Speed: Flight Raw      |                          +10 Raw Movement Speed per Athletics Dice                          | Indefinite | Innate |          0          |          (Athletics,10)          |
-|                                      |                                                                                            |            |        |                    |                                  |
-|    Movement Speed: Aquatic Total    | +2.5 Reaction Movement Speed per Dexterity Dice, +7.5 Raw Movement Speed per Athletics Dice | Indefinite | Innate |          0          | (Dexterity,2.5), (Athletics,7.5) |
-|   Movement Speed: Aquatic Reaction   |                       +2.5 Reaction Movement Speed per Dexterity Dice                       | Indefinite | Innate |          0          |         (Dexterity,2.5)         |
-|     Movement Speed: Aquatic Raw     |                         +7.5 Raw Movement Speed per Athletics Dice                         | Indefinite | Innate |          0          |         (Athletics,7.5)         |
+|                  Name                  |                      Description                      |  Duration  | Source | Movement Speed Base |  Movement Speed Per Dice Pairs  |
+| :-------------------------------------: | :----------------------------------------------------: | :--------: | :----: | :-----------------: | :------------------------------: |
+|   Movement Speed: Terrestrial (Total)   | +2.5 ft per Dexterity Dice, +7.5 ft per Athletics Dice | Indefinite | Innate |          0          | (Dexterity,2.5), (Athletics,7.5) |
+| Movement Speed: Terrestrial (Dexterity) |               +2.5 ft per Dexterity Dice               | Indefinite | Innate |          0          |         (Dexterity,2.5)         |
+| Movement Speed: Terrestrial (Athletics) |               +7.5 ft per Athletics Dice               | Indefinite | Innate |          0          |         (Athletics,7.5)         |
+|                                        |                                                        |            |        |                    |                                  |
+|      Movement Speed: Swim (Total)      | +2.5 ft per Dexterity Dice, +5.0 ft per Athletics Dice | Indefinite | Innate |          0          |  (Dexterity,2.5), (Athletics,5)  |
+|    Movement Speed: Swim (Dexterity)    |               +2.5 ft per Dexterity Dice               | Indefinite | Innate |          0          |         (Dexterity,2.5)         |
+|    Movement Speed: Swim (Athletics)    |               +5.0 ft per Athletics Dice               | Indefinite | Innate |          0          |          (Athletics,5)          |
+|                                        |                                                        |            |        |                    |                                  |
+|      Movement Speed: Climb (Total)      |  +2.5 ft per Dexterity Dice, +5 ft per Athletics Dice  | Indefinite | Innate |          0          |  (Dexterity,2.5), (Athletics,5)  |
+|    Movement Speed: Climb (Dexterity)    |               +2.5 ft per Dexterity Dice               | Indefinite | Innate |          0          |         (Dexterity,2.5)         |
+|    Movement Speed: Climb (Athletics)    |                +5 ft per Athletics Dice                | Indefinite | Innate |          0          |          (Athletics,5)          |
+|                                        |                                                        |            |        |                    |                                  |
+|     Movement Speed: Flight (Total)     |  +5 ft per Dexterity Dice, +10 ft per Athletics Dice  | Indefinite | Innate |          0          |  (Dexterity,5), (Athletics,10)  |
+|   Movement Speed: Flight (Dexterity)   |                +5 ft per Dexterity Dice                | Indefinite | Innate |          0          |          (Dexterity,5)          |
+|   Movement Speed: Flight (Athletics)   |               +10 ft per Athletics Dice               | Indefinite | Innate |          0          |          (Athletics,10)          |
+|                                        |                                                        |            |        |                    |                                  |
+|     Movement Speed: Aquatic (Total)     | +2.5 ft per Dexterity Dice, +7.5 ft per Athletics Dice | Indefinite | Innate |          0          | (Dexterity,2.5), (Athletics,7.5) |
+|   Movement Speed: Aquatic (Dexterity)   |               +2.5 ft per Dexterity Dice               | Indefinite | Innate |          0          |         (Dexterity,2.5)         |
+|   Movement Speed: Aquatic (Athletics)   |               +7.5 ft per Athletics Dice               | Indefinite | Innate |          0          |         (Athletics,7.5)         |
 
-### Reaction Movement Speed
+### Dexterity Movement Speed
 
-Reaction Movement Speed is the initial portion of a character's movement and represents how quick they are to get into motion and act.
+Dexterity Movement Speed is the initial portion of a character's movement and represents how quick they are to get into motion and act.
 
-While lower Reaction Movement Speed characters are deciding what to do, high Reaction Movement Speed characters are already in motion. This can allow them to disengage from opponents, slip behind a door before it closes, avoid an Area Of Effect they are about to be caught in, close the distance to an opponent, ect...
+While lower Dexterity Movement Speed characters are deciding what to do, high Dexterity Movement Speed characters are already in motion. This can allow them to disengage from opponents, slip behind a door before it closes, avoid an Area Of Effect they are about to be caught in, close the distance to an opponent, ect...
 
-For each Reaction Movement Speed Option, for the specified Skill, gain the corresponding amount multiplied by the amount of Dice in the Skill's dice pool.
+For each Dexterity Movement Speed Option, for the specified Skill, gain the corresponding amount multiplied by the amount of Dice in the Skill's dice pool.
 
-Reaction Movement Speed = (Reaction Movement Speed Base) + ( (Amount From Governing Skill Dice) * (Reaction Movement Speed Per Skill Dice) )
+Dexterity Movement Speed = (Dexterity Movement Speed Base) + ( (Amount From Governing Skill Dice) * (Dexterity Movement Speed Per Skill Dice) )
 
-Reaction Movement Speed can be used to resolve circumstances when it is unclear which character moved first or closed some distance. Reaction Movement Speed is used first on a character's turn, with lower Reaction Movement Speed characters considered to have not moved/acted yet. This rule takes inspiration from the gun vs knife debate at close distances, where it is argued that within a certain distance, a quick knife wielder might be able to close the distance before the shooter could get accurate shots on target. The ensuing ranged versus melee combat rolls would be disadvantageous for the ranged combatant as they are in melee reach.
+Dexterity Movement Speed can be used to resolve circumstances when it is unclear which character moved first or closed some distance. Dexterity Movement Speed is used first on a character's turn, with lower Dexterity Movement Speed characters considered to have not moved/acted yet. This rule takes inspiration from the gun vs knife debate at close distances, where it is argued that within a certain distance, a quick knife wielder might be able to close the distance before the shooter could get accurate shots on target. The ensuing ranged versus melee combat rolls would be disadvantageous for the ranged combatant as they are in melee reach.
 
 **Example 1:**
 
@@ -994,7 +994,7 @@ The archer declares he is going to shoot the rogue with his bow as he uses his M
 
 The rogue declares he is going to close the distance, attack with the knife, and stay on the archer. If the Rogue pulls this off, it will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks.
 
-Since the Rogue has 5 ft more Reaction Movement Speed, he can move those 5 feet before the archer can lose the arrow, closing the distance. Now they will make combat rolls versus one another, with the archer being at a clear disadvantage.
+Since the Rogue has 5 ft more Dexterity Movement Speed, he can move those 5 feet before the archer can lose the arrow, closing the distance. Now they will make combat rolls versus one another, with the archer being at a clear disadvantage.
 
 The archer, now likely wounded from the rogue knife, tries to use the rest of his Movement Speed to stay away from the rogue's knife range. Assuming the Rogue has the same or greater remaining movement speed as the archer, the rogue stays on the archer and the gap is 0 feet, ready to stab him again next round.
 
@@ -1010,7 +1010,7 @@ The archer declares he is going to shoot the rogue with his bow as he uses his M
 
 The rogue declares he is going to close the distance, attack with the knife, and stay on the archer. If the Rogue pulls this off, it will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks.
 
-Since the Rogue has 5 ft more Reaction Movement Speed, he can move those 5 feet before the archer can lose the arrow, closing the distance. With 5 feet between the rogue and the archer, the arrow is shot. The rogue must now try and dodge the arrow, before he can attack, possibly proving fatal.
+Since the Rogue has 5 ft more Dexterity Movement Speed, he can move those 5 feet before the archer can lose the arrow, closing the distance. With 5 feet between the rogue and the archer, the arrow is shot. The rogue must now try and dodge the arrow, before he can attack, possibly proving fatal.
 
 The archer is then able to flee backward. Assuming he has the same or greater remaining movement speed as the possibly injured rogue, the archer can keep the 5 feet of distance between him and the rogue, never getting stabbed.
 
@@ -1026,7 +1026,7 @@ The rogue declares he is going to close the distance, attack with the knife, and
 
 The archer declares he is going to shoot the rogue with his bow as he uses his Movement Speed to stay out of range of the knife.
 
-Since the rogue has the same Reaction Movement Speed as the archer, he is slow to get into motion, which gives the archer time to lose his arrow as he also begins moving. With 5 feet between the rogue and the archer, the arrow is shot. The rogue must now try and dodge the arrow, before he can attack, possibly proving fatal.
+Since the rogue has the same Dexterity Movement Speed as the archer, he is slow to get into motion, which gives the archer time to lose his arrow as he also begins moving. With 5 feet between the rogue and the archer, the arrow is shot. The rogue must now try and dodge the arrow, before he can attack, possibly proving fatal.
 
 The archer is then able to flee backward. Assuming he has the same or greater remaining movement speed as the possibly injured rogue, the archer can keep the 5 feet of distance between him and the rogue, never getting stabbed.
 
@@ -1042,7 +1042,7 @@ The knight declares he is going to move forward out of the mud and swing on the 
 
 The rogue declares he is going to close the distance before the knight moves out of the mud and try to stab the knight in one of his armors chinks.
 
-Since the Rogue has a Reaction Movement Speeds, he can move 5 feet with his Reaction Movement Speed before the knight can move, closing the gap.
+Since the Rogue has a Reaction Movement Speeds, he can move 5 feet with his Dexterity Movement Speed before the knight can move, closing the gap.
 
 Since the knight already had his sword ready to go, combat rolls will be made, but the knight will do so while having to deal with the disadvantageous position being in slippery mud.
 
@@ -1050,7 +1050,7 @@ Since the knight already had his sword ready to go, combat rolls will be made, b
 
 Raw Movement Speed is the second portion of a character's movement and represents how fast they are once at there top speed.
 
-Raw Movement Speed should always make up a far greater amount of your Total Movement Speed as compared to Reaction Movement Speed. Even though characters with higher Reaction Movement Speed might be quicker to initially move, there is nothing prevent a high Raw Movement Speed character from running them down.
+Raw Movement Speed should always make up a far greater amount of your Total Movement Speed as compared to Dexterity Movement Speed. Even though characters with higher Dexterity Movement Speed might be quicker to initially move, there is nothing prevent a high Raw Movement Speed character from running them down.
 
 For each Raw Movement Speed Option, for the specified Skill, gain the corresponding amount multiplied by the amount of Dice in the Skill's dice pool.
 
@@ -1068,7 +1068,7 @@ For example, if a character has 30 feet of "Terrestrial" and 15 feet of "Climb C
 
 ### Mounted Movement Speed
 
-The rider's Dexterity dice pool size is used for the mounts Reaction Movement Speed calculation.Additionally, when a mounted character or their mount takes an injury in combat, a Dexterity or Riding skill check equivalent to the injury level must be succeeded to stay on horseback, or else they are knocked off.
+The rider's Dexterity dice pool size is used for the mounts Dexterity Movement Speed calculation.Additionally, when a mounted character or their mount takes an injury in combat, a Dexterity or Riding skill check equivalent to the injury level must be succeeded to stay on horseback, or else they are knocked off.
 
 ## Ammo
 
@@ -1434,7 +1434,7 @@ Actions in combat rounds are not solely movements and attacks. A combat action c
 
 ### Round Order
 
-Every action within Round-by-Round conflicts happens almost at the same time or in direct succession to one another. This means that one character's action is NOT explicitly followed by another character's action. It should be considered as everything happening together, with the one exception being Reaction Movement Speed.
+Every action within Round-by-Round conflicts happens almost at the same time or in direct succession to one another. This means that one character's action is NOT explicitly followed by another character's action. It should be considered as everything happening together, with the one exception being Dexterity Movement Speed.
 
 To make sense of this potential 'chaos', there is a declaration phase and an action phase.
 

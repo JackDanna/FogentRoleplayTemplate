@@ -1,3 +1,3 @@
 name,effects
 Template: Player Character,"Level, Language: Babelish, Equipment, Size: Medium, Notes, Appearance, Disposition, Beliefs and Morality, Goals and Aspirations"
-Template: Movement Speed,"Movement Speed: Terrestrial Total, Movement Speed: Terrestrial Reaction, Movement Speed: Terrestrial Raw, Movement Speed: Swim Total, Movement Speed: Swim Reaction, Movement Speed: Swim Raw, Movement Speed: Climb Total, Movement Speed: Climb Reaction, Movement Speed: Climb Raw"
+Template: Movement Speed,"Movement Speed: Terrestrial (Total), Movement Speed: Terrestrial (Dexterity), Movement Speed: Terrestrial (Athletics), Movement Speed: Swim (Total), Movement Speed: Swim (Dexterity), Movement Speed: Swim (Athletics), Movement Speed: Climb (Total), Movement Speed: Climb (Dexterity), Movement Speed: Climb (Athletics)"
