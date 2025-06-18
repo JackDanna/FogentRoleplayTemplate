@@ -942,7 +942,7 @@ Optional Max is "None", so there is no upper bound. We round down 2.38 to 2. The
 
 ## Movement Speed
 
-Movement Speed is used in combat to determine how quickly a character can move before others as well as the total distance they can move in a round.
+Movement Speed is used in combat rounds to determien how far a character can move.
 
 Movement Speed Per Dice Pair Result = (Size of Governing Dice Pool) * (Movement Speed Per Dice)
 
