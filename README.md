@@ -1034,6 +1034,10 @@ Athletics Movement Speed should always make up a far greater amount of your Tota
 
 Unlike Dexterity Speed, were the character with the greater speed can move before the other charater, for Athletics Movement Speed both characters start moving at the same time.
 
+### Total Movement Speed
+
+Total Movement Speed is the combination of a character's Dexterity and Athletics Movement Speeds for a entire round. Therefore, a character can use both there Dexterity Movement Speed and Altheltics Movement Speed during a round.
+
 ### Using multiple Movement Speeds on the same round
 
 Whenever a character needs to use multiple movement speeds in a round, calculate what percentage of their movement they've used that round for their initial movement, with the remainder percent being used for another movement speed.
