@@ -1014,19 +1014,17 @@ The Archer is then able to flee backward. Assuming he has the same or greater re
 
 **Example 3:**
 
-A Rogue with a dagger is trying to close the distance on an Knight who is 5 feet away standing in some slippery mud. The knight is right on the edge of the mud pool, and the rogue realizes if he can attack the knight while he's standing in the mud, he has a better chance of defeating him.
+A Rogue with a dagger is trying to close the distance on an Knight who is 5 feet away standing in some slippery mud. The Knight is right on the edge of the mud pool, and the Rogue realizes if he can attack the Knight while he's standing in the mud, he has a better chance of defeating him.
 
-Their respective RFX levels are 1 for the rogue and 0 for the knight.
+Their respective Dexterity Movement Speeds are 10 feet for the Rogue and 5 feet for the Knight.
 
-Their respective Dexterity Movement Speeds are 10 feet for the rogue and 5 feet for the archer.
+The Knight declares he is going to move forward out of the mud and swing on the Rogue with his longsword.
 
-The knight declares he is going to move forward out of the mud and swing on the rogue with the longsword he has in his hands.
+The Rogue declares he is going to close the distance before the Knight moves out of the mud and try to stab the Knight.
 
-The rogue declares he is going to close the distance before the knight moves out of the mud and try to stab the knight in one of his armors chinks.
+Since the Rogue has a higher Dexterity Movement Speeds, he can move 5 feet with his Dexterity Movement Speed before the Knight can move, closing the gap.
 
-Since the Rogue has a Dexterity Movement Speeds, he can move 5 feet with his Dexterity Movement Speed before the knight can move, closing the gap.
-
-Since the knight already had his sword ready to go, combat rolls will be made, but the knight will do so while having to deal with the disadvantageous position being in slippery mud.
+Since the Knight already had his sword ready to go, combat rolls will be made, but the Knight will do so while having to deal with the disadvantageous position being in slippery mud.
 
 ### Raw Movement Speed
 
