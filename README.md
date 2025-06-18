@@ -972,11 +972,13 @@ Movement Speed = (Movement Speed Base) + (#1 Movement Speed Per Dice Pair Result
 
 ### Dexterity Movement Speed
 
-Dexterity Movement Speed is the initial portion of a character's movement and represents how quick they are to get into motion and act.
+Dexterity Movement Speed is the initial portion of a character's movement and represents how quick they are to get into motion and act. 
 
-While lower Dexterity Movement Speed characters are deciding what to do, high Dexterity Movement Speed characters are already in motion. This can allow them to disengage from opponents, slip behind a door before it closes, avoid an Area Of Effect they are about to be caught in, close the distance to an opponent, ect...
+This can allow them to disengage from opponents, slip behind a door before it closes, avoid an Area Of Effect they are about to be caught in, close the distance to an opponent, ect...
 
-Dexterity Movement Speed can be used to resolve circumstances when it is unclear which character moved first or closed some distance. Dexterity Movement Speed is used first on a character's turn, with lower Dexterity Movement Speed characters considered to have not moved/acted yet. This rule takes inspiration from the gun vs knife debate at close distances, where it is argued that within a certain distance, a quick knife wielder might be able to close the distance before the shooter could get accurate shots on target. The ensuing ranged versus melee combat rolls would be disadvantageous for the ranged combatant as they are in melee reach.
+While lower Dexterity Movement Speed characters are deciding what to do, high Dexterity Movement Speed characters are already in motion.
+
+Dexterity Movement Speed can be used to resolve circumstances when it is unclear which character moved first or closed some distance. Dexterity Movement Speed is used first on a character's turn, with lower Dexterity Movement Speed characters considered to have not moved/acted yet.
 
 **Example 1:**
 
