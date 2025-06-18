@@ -970,9 +970,13 @@ Movement Speed = (Movement Speed Base) + (#1 Movement Speed Per Dice Pair Result
 |   Movement Speed: Aquatic (Dexterity)   |               +2.5 ft per Dexterity Dice               | Indefinite | Innate |          0          |         (Dexterity,2.5)         |
 |   Movement Speed: Aquatic (Athletics)   |               +7.5 ft per Athletics Dice               | Indefinite | Innate |          0          |         (Athletics,7.5)         |
 
+### Difficult Terrain
+
+Steep mountains, ice-covered ground, swamps, etc. are difficult terrain. It takes twice the movement to move through these terrains.
+
 ### Dexterity Movement Speed
 
-Dexterity Movement Speed is the initial portion of a character's movement and represents how quick they are to get into motion and act. 
+Dexterity Movement Speed is the initial portion of a character's movement and represents how quick they are to get into motion and act.
 
 This can allow them to disengage from opponents, slip behind a door before it closes, avoid an Area Of Effect they are about to be caught in, close the distance to an opponent, ect...
 
@@ -982,65 +986,45 @@ Dexterity Movement Speed can be used to resolve circumstances when it is unclear
 
 **Example 1:**
 
-A rogue with a dagger is trying to close the distance on an archer who is 5 feet away.
+A Rogue with a dagger is trying to close the distance on an archer who is 5 feet away.
 
-Their respective RFX levels are 1 for the rogue and 0 for the archer.
+Their respective Dexterity Movement Speeds are 15 ft for the Rogue and 10 ft for the Archer.
 
-Their respective Reaction Movement Speeds are 10 feet for the rogue and 5 feet for the archer.
-
-The archer declares he is going to shoot the rogue with his bow as he uses his Movement Speed to stay out of range of the knife.
+The Archer declares he is going to shoot the Rogue with his bow as he uses his Movement Speed to stay out of range of the knife.
 
 The rogue declares he is going to close the distance, attack with the knife, and stay on the archer. If the Rogue pulls this off, it will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks.
 
-Since the Rogue has 5 ft more Dexterity Movement Speed, he can move those 5 feet before the archer can lose the arrow, closing the distance. Now they will make combat rolls versus one another, with the archer being at a clear disadvantage.
+Since the Rogue has 5 ft more Dexterity Movement Speed, he can move those 5 feet before the archer can lose the arrow, closing the distance. Now they will make combat rolls versus one another, with the Archer being at a clear disadvantage.
 
-The archer, now likely wounded from the rogue knife, tries to use the rest of his Movement Speed to stay away from the rogue's knife range. Assuming the Rogue has the same or greater remaining movement speed as the archer, the rogue stays on the archer and the gap is 0 feet, ready to stab him again next round.
+The Archer, now likely wounded from the Rogue's knife, tries to use the rest of his Movement Speed to stay out of range from the Rogue's knife. Assuming the Rogue has the same or greater remaining movement speed as the Archer, the Rogue stays on the Archer and the gap is 0 feet, ready to stab him again next round.
 
 **Example 2:**
 
-A rogue with a dagger is trying to close the distance on an archer who is 10 feet away.
+A Rogue with a dagger is trying to close the distance on an Archer who is 15 feet away.
 
-Their respective RFX levels are 1 for the rogue and 0 for the archer.
+Their respective Dexterity Movement Speeds are 15 ft for the Rogue and 10 ft for the Archer.
 
-Their respective Reaction Movement Speeds are 10 feet for the rogue and 5 feet for the archer.
+The Archer declares he is going to shoot the Rogue with his bow as he uses his Movement Speed to stay out of range of the knife.
 
-The archer declares he is going to shoot the rogue with his bow as he uses his Movement Speed to stay out of range of the knife.
+The Rogue declares he is going to close the distance, attack with his knife, and stay close to the Archer. If the Rogue pulls this off, it will be disadvantageous for the Archer since melee versus ranged combat in close quarters favors melee attacks.
 
-The rogue declares he is going to close the distance, attack with the knife, and stay on the archer. If the Rogue pulls this off, it will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks.
+Since the Rogue has 5 ft more Dexterity Movement Speed, he can move those 5 feet before the archer can lose the arrow, closing the distance. With 10 feet between the Rogue and the Archer, the arrow is shot. The Rogue must now try and dodge the arrow, before he can attack, possibly proving fatal.
 
-Since the Rogue has 5 ft more Dexterity Movement Speed, he can move those 5 feet before the archer can lose the arrow, closing the distance. With 5 feet between the rogue and the archer, the arrow is shot. The rogue must now try and dodge the arrow, before he can attack, possibly proving fatal.
-
-The archer is then able to flee backward. Assuming he has the same or greater remaining movement speed as the possibly injured rogue, the archer can keep the 5 feet of distance between him and the rogue, never getting stabbed.
+The Archer is then able to flee backward. Assuming he has the same or greater remaining movement speed than the possibly injured Rogue, the Archer can keep the 10 feet of distance between him and the rogue, never getting stabbed.
 
 **Example 3:**
 
-A crappy rogue with a dagger is trying to close the distance on an archer who is 5 feet away.
-
-Their respective RFX levels are 0 for the rogue and 0 for the archer.
-
-Their respective Reaction Movement Speeds are 10 feet for the rogue and 5 feet for the archer.
-
-The rogue declares he is going to close the distance, attack with the knife, and stay on the archer. If the Rogue pulls this off, it will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks.
-
-The archer declares he is going to shoot the rogue with his bow as he uses his Movement Speed to stay out of range of the knife.
-
-Since the rogue has the same Dexterity Movement Speed as the archer, he is slow to get into motion, which gives the archer time to lose his arrow as he also begins moving. With 5 feet between the rogue and the archer, the arrow is shot. The rogue must now try and dodge the arrow, before he can attack, possibly proving fatal.
-
-The archer is then able to flee backward. Assuming he has the same or greater remaining movement speed as the possibly injured rogue, the archer can keep the 5 feet of distance between him and the rogue, never getting stabbed.
-
-**Example 4:**
-
-A rogue with a dagger is trying to close the distance on an knight who is 5 feet away standing in some slippery mud. The knight is right on the edge of the mud pool, and the rogue realizes if he can attack the knight while he's standing in the mud, he has a better chance of defeating him.
+A Rogue with a dagger is trying to close the distance on an Knight who is 5 feet away standing in some slippery mud. The knight is right on the edge of the mud pool, and the rogue realizes if he can attack the knight while he's standing in the mud, he has a better chance of defeating him.
 
 Their respective RFX levels are 1 for the rogue and 0 for the knight.
 
-Their respective Reaction Movement Speeds are 10 feet for the rogue and 5 feet for the archer.
+Their respective Dexterity Movement Speeds are 10 feet for the rogue and 5 feet for the archer.
 
 The knight declares he is going to move forward out of the mud and swing on the rogue with the longsword he has in his hands.
 
 The rogue declares he is going to close the distance before the knight moves out of the mud and try to stab the knight in one of his armors chinks.
 
-Since the Rogue has a Reaction Movement Speeds, he can move 5 feet with his Dexterity Movement Speed before the knight can move, closing the gap.
+Since the Rogue has a Dexterity Movement Speeds, he can move 5 feet with his Dexterity Movement Speed before the knight can move, closing the gap.
 
 Since the knight already had his sword ready to go, combat rolls will be made, but the knight will do so while having to deal with the disadvantageous position being in slippery mud.
 
@@ -1049,10 +1033,6 @@ Since the knight already had his sword ready to go, combat rolls will be made, b
 Raw Movement Speed is the second portion of a character's movement and represents how fast they are once at there top speed.
 
 Raw Movement Speed should always make up a far greater amount of your Total Movement Speed as compared to Dexterity Movement Speed. Even though characters with higher Dexterity Movement Speed might be quicker to initially move, there is nothing prevent a high Raw Movement Speed character from running them down.
-
-### Difficult Terrain
-
-Steep mountains, ice-covered ground, swamps, etc. are difficult terrain. It takes twice the movement to move through these terrains.
 
 ### Using multiple Movement Speeds on the same round
 
