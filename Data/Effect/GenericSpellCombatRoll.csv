@@ -1,8 +1,8 @@
 combatRollToOverwrite,combatRollType,optionalResourceTypeAndAmount,description,source,duration,combatRollTypeOld,variation,baseDiceAdjustment,governingSkillName,damageTypes,dicePoolModifier,penetration,range,usesPerRound,areaOfEffect
 Dual-wielded Unarmed +0,Glove,None,Just your bare hands. Can be used in a Grapple.,Innate,Indefinite,Unarmed,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},-1d,0,Melee,Swift,None
 ,,,,,,,,,,,,,,,
-One-handed Slash Small Melee +0,Small Melee,None,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,Slash Small Melee,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,0,Melee,Swift,None
-Dual-wielded Slash Small Melee +0,Small Melee,None,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,Slash Small Melee,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,0,Melee,Swift +1,None
+One-handed Slash Close Melee +0,Close Melee,None,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,Slash Close Melee,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,0,Melee,Swift,None
+Dual-wielded Slash Close Melee +0,Close Melee,None,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,Slash Close Melee,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,0,Melee,Swift +1,None
 ,,,,,,,,,,,,,,,
 One-handed Slash Medium Melee +0,Medium Melee,None,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",Innate,Indefinite,Slash Medium Melee,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,1,Melee,Swift,None
 Two-handed Slash Medium Melee +0,Medium Melee,None,"Bastard Sword, Medium swords with two-handed grips, ect...",Innate,Indefinite,Slash Medium Melee,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+2d6,1,Melee,Swift,None
@@ -43,8 +43,8 @@ One-handed Blowgun +0,Blowgun,"{Magic Resource Type}, 1",A long narrow tube that
 ,,,,,,,,,,,,,,,
 Two-handed Sling +0,Sling,"{Magic Resource Type}, 1",A flexible strap used to hurl small objects.,Innate,Indefinite,Sling,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None
 ,,,,,,,,,,,,,,,
-One-handed Thrown Slash Small Melee +0,Thrown Small,"{Magic Resource Type}, 1","Ninja stars, ect...",Innate,Indefinite,Thrown Slash Small Melee,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None
-Dual-wielded Thrown Slash Small Melee +0,Thrown Small,"{Magic Resource Type}, 2","Ninja stars, ect...",Innate,Indefinite,Thrown Slash Small Melee,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None
+One-handed Thrown Slash Close Melee +0,Thrown Small,"{Magic Resource Type}, 1","Ninja stars, ect...",Innate,Indefinite,Thrown Slash Close Melee,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None
+Dual-wielded Thrown Slash Close Melee +0,Thrown Small,"{Magic Resource Type}, 2","Ninja stars, ect...",Innate,Indefinite,Thrown Slash Close Melee,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None
 ,,,,,,,,,,,,,,,
 One-handed Thrown Medium Spear +0,Thrown Medium Spear,"{Magic Resource Type}, 1","Thrown Javelins, ect...",Innate,Indefinite,Thrown Medium Spear,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+1d6,1,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None
 ,,,,,,,,,,,,,,,
