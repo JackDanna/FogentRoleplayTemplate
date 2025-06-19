@@ -36,24 +36,24 @@ Focus Pool,,Innate,Indefinite,Focus,10,Focus Resource Pool Max,FALSE
 Ichor Pool,,Innate,Indefinite,Ichor,10,Ichor Resource Pool Max,FALSE
 ,,,,,,,
 Resource Pool: Thrown Slash Close Melee -1,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Slash Close Melee -1,1,None,TRUE
-Resource Pool: Thrown Slash Close Melee +0,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Slash Close Melee +0,1,None,TRUE
+Resource Pool: Thrown Slash Close Melee,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Slash Close Melee,1,None,TRUE
 ,,,,,,,
 Resource Pool: Thrown Pierce Close Melee -1,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Pierce Close Melee -1,1,None,TRUE
-Resource Pool: Thrown Pierce Close Melee +0,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Pierce Close Melee +0,1,None,TRUE
+Resource Pool: Thrown Pierce Close Melee,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Pierce Close Melee,1,None,TRUE
 Resource Pool: Thrown Pierce Close Melee +3,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Pierce Close Melee +3,1,None,TRUE
 Resource Pool: Thrown Pierce Close Melee +5,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Pierce Close Melee +5,1,None,TRUE
 ,,,,,,,
-Resource Pool: Thrown Hew Close Melee +0,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Hew Close Melee +0,1,None,TRUE
+Resource Pool: Thrown Hew Close Melee,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Hew Close Melee,1,None,TRUE
 ,,,,,,,
-Resource Pool: Thrown Bludgeon Close Melee +0,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Bludgeon Close Melee +0,1,None,TRUE
+Resource Pool: Thrown Bludgeon Close Melee,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Bludgeon Close Melee,1,None,TRUE
 Resource Pool: Thrown Bludgeon Close Melee +3,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Bludgeon Close Melee +3,1,None,TRUE
 ,,,,,,,
 Resource Pool: Thrown Medium Spear -1,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Medium Spear -1,1,None,TRUE
-Resource Pool: Thrown Medium Spear +0,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Medium Spear +0,1,None,TRUE
+Resource Pool: Thrown Medium Spear,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Medium Spear,1,None,TRUE
 Resource Pool: Thrown Medium Spear +3,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Medium Spear +3,1,None,TRUE
 Resource Pool: Thrown Medium Spear +7,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Medium Spear +7,1,None,TRUE
 ,,,,,,,
-Resource Pool: Thrown Large Spear +0,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Large Spear +0,1,None,TRUE
+Resource Pool: Thrown Large Spear,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Large Spear,1,None,TRUE
 Resource Pool: Thrown Large Spear +1,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Large Spear +1,1,None,TRUE
 Resource Pool: Thrown Large Spear +3,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Large Spear +3,1,None,TRUE
 Resource Pool: Thrown Large Spear +7,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Large Spear +7,1,None,TRUE
