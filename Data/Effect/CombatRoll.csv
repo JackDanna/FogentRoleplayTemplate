@@ -38,20 +38,21 @@ One-handed Medium Spear +0,One-handed,Medium Spear,+2,+1d6,1,Melee,Quick,None,No
 Dual-wielded Medium Spear +0,Dual-wielded,Medium Spear,+2,+2d6,1,Melee,Quick,None,None,Pierce,Medium Melee,"Javelin, short spear, large creature horns, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-One-handed Hew Large Melee +0,One-handed,Hew Large Melee,+0,+0d6,1,Melee,Swift,None,None,Hew,Large Melee,"Dane axe, short poleaxe axehead, short halberd, ect...",Indefinite,Innate
-Two-handed Hew Large Melee +0,Two-handed,Hew Large Melee,+0,+2d6,2,Melee,Swift,None,None,Hew,Large Melee,"Dane axe, short poleaxe axehead, short halberd, ect...",Indefinite,Innate
-,,,,,,,,,,,,,,
-One-handed Slash Large Melee +0,One-handed,Slash Large Melee,+0,+0d6,1,Melee,Swift,None,None,Slash,Large Melee,"Longsword, Ōdachi, ect...",Indefinite,Innate
-Two-handed Slash Large Melee +0,Two-handed,Slash Large Melee,+0,+2d6,2,Melee,Swift,None,None,Slash,Large Melee,"Longsword, Ōdachi, ect...",Indefinite,Innate
+One-handed Bludgeon Large Melee +0,One-handed,Bludgeon Large Melee,-1,+0d6,1,Melee,Swift,None,None,Bludgeon,Large Melee,"Two-handed Mace, maul, ect...",Indefinite,Innate
+Two-handed Bludgeon Large Melee +0,Two-handed,Bludgeon Large Melee,-1,+2d6,2,Melee,Swift,None,None,Bludgeon,Large Melee,"Two-handed Mace, maul, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
 One-handed Pierce Large Melee +0,One-handed,Pierce Large Melee,+0,+0d6,1,Melee,Swift,None,None,Pierce,Large Melee,"Longsword, Ōdachi, Bec de corbin spike, ect...",Indefinite,Innate
 Two-handed Pierce Large Melee +0,Two-handed,Pierce Large Melee,+0,+2d6,2,Melee,Swift,None,None,Pierce,Large Melee,"Longsword, Ōdachi, Bec de corbin spike, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Bludgeon Large Melee +0,One-handed,Bludgeon Large Melee,+0,+0d6,1,Melee,Swift,None,None,Bludgeon,Large Melee,"Two-handed Mace, maul, ect...",Indefinite,Innate
-Two-handed Bludgeon Large Melee +0,Two-handed,Bludgeon Large Melee,+0,+2d6,2,Melee,Swift,None,None,Bludgeon,Large Melee,"Two-handed Mace, maul, ect...",Indefinite,Innate
+One-handed Hew Large Melee +0,One-handed,Hew Large Melee,+1,+0d6,1,Melee,Swift,None,None,Hew,Large Melee,"Dane axe, short poleaxe axehead, short halberd, ect...",Indefinite,Innate
+Two-handed Hew Large Melee +0,Two-handed,Hew Large Melee,+1,+2d6,2,Melee,Swift,None,None,Hew,Large Melee,"Dane axe, short poleaxe axehead, short halberd, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Large Spear +0,One-handed,Large Spear,+0,+0d6,1,Melee,Quick,None,None,Pierce,Large Melee,"Two-handed spear, ect...",Indefinite,Innate
-Two-handed Large Spear +0,Two-handed,Large Spear,+0,"+1d8, 1d6",2,Melee,Quick,None,None,Pierce,Large Melee,"Two-handed spear, ect...",Indefinite,Innate
+One-handed Slash Large Melee +0,One-handed,Slash Large Melee,+1,+0d6,1,Melee,Swift,None,None,Slash,Large Melee,"Longsword, Ōdachi, ect...",Indefinite,Innate
+Two-handed Slash Large Melee +0,Two-handed,Slash Large Melee,+1,+2d6,2,Melee,Swift,None,None,Slash,Large Melee,"Longsword, Ōdachi, ect...",Indefinite,Innate
+,,,,,,,,,,,,,,
+One-handed Large Spear +0,One-handed,Large Spear,+2,+0d6,1,Melee,Quick,None,None,Pierce,Large Melee,"Two-handed spear, ect...",Indefinite,Innate
+Two-handed Large Spear +0,Two-handed,Large Spear,+2,+2d6,2,Melee,Quick,None,None,Pierce,Large Melee,"Two-handed spear, ect...",Indefinite,Innate
+,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 One-handed Hew Reach Melee +0,One-handed,Hew Reach Melee,+0,-1d,1,Reach,Swift +2,None,None,Hew,Reach Melee,"Poleaxe's axe head, halberd's axe head, glaive, ect...  Disadvantage while in confined spaces.",Indefinite,Innate
 Two-handed Hew Reach Melee +0,Two-handed,Hew Reach Melee,+0,+3d6,3,Reach,Swift +2,None,None,Hew,Reach Melee,"Poleaxe's axe head, halberd's axe head, glaive, ect...  Disadvantage while in confined spaces.",Indefinite,Innate
