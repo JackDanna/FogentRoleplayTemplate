@@ -35,18 +35,18 @@ Fellblood Pool,,Innate,Indefinite,Fellblood,10,Fellblood Resource Pool Max,FALSE
 Focus Pool,,Innate,Indefinite,Focus,10,Focus Resource Pool Max,FALSE
 Ichor Pool,,Innate,Indefinite,Ichor,10,Ichor Resource Pool Max,FALSE
 ,,,,,,,
-Resource Pool: Thrown Small Slash Melee -1,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Small Slash Melee -1,1,None,TRUE
-Resource Pool: Thrown Small Slash Melee +0,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Small Slash Melee +0,1,None,TRUE
+Resource Pool: Thrown Slash Small Melee -1,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Slash Small Melee -1,1,None,TRUE
+Resource Pool: Thrown Slash Small Melee +0,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Slash Small Melee +0,1,None,TRUE
 ,,,,,,,
-Resource Pool: Thrown Small Pierce Melee -1,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Small Pierce Melee -1,1,None,TRUE
-Resource Pool: Thrown Small Pierce Melee +0,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Small Pierce Melee +0,1,None,TRUE
-Resource Pool: Thrown Small Pierce Melee +3,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Small Pierce Melee +3,1,None,TRUE
-Resource Pool: Thrown Small Pierce Melee +5,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Small Pierce Melee +5,1,None,TRUE
+Resource Pool: Thrown Pierce Small Melee -1,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Pierce Small Melee -1,1,None,TRUE
+Resource Pool: Thrown Pierce Small Melee +0,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Pierce Small Melee +0,1,None,TRUE
+Resource Pool: Thrown Pierce Small Melee +3,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Pierce Small Melee +3,1,None,TRUE
+Resource Pool: Thrown Pierce Small Melee +5,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Pierce Small Melee +5,1,None,TRUE
 ,,,,,,,
-Resource Pool: Thrown Small Hew Melee +0,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Small Hew Melee +0,1,None,TRUE
+Resource Pool: Thrown Hew Small Melee +0,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Hew Small Melee +0,1,None,TRUE
 ,,,,,,,
-Resource Pool: Thrown Small Bludgeon Melee +0,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Small Bludgeon Melee +0,1,None,TRUE
-Resource Pool: Thrown Small Bludgeon Melee +3,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Small Bludgeon Melee +3,1,None,TRUE
+Resource Pool: Thrown Bludgeon Small Melee +0,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Bludgeon Small Melee +0,1,None,TRUE
+Resource Pool: Thrown Bludgeon Small Melee +3,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Bludgeon Small Melee +3,1,None,TRUE
 ,,,,,,,
 Resource Pool: Thrown Medium Spear -1,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Medium Spear -1,1,None,TRUE
 Resource Pool: Thrown Medium Spear +0,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Medium Spear +0,1,None,TRUE
