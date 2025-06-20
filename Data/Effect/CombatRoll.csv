@@ -117,6 +117,17 @@ Two-handed Heavy Crossbow with Rusted Heavy Bolt,Two-handed,Heavy Crossbow,"Rust
 Two-handed Heavy Crossbow with Wooden Heavy Bolt,Two-handed,Heavy Crossbow,"Wooden Heavy Bolt, 1",-1,+2d6,1,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,Pierce,Heavy Crossbow,Crossbows designed for maximum power disregarding reload time.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
+Two-handed Light Bow with Broadhead Light Arrow,Two-handed,Light Bow,"Broadhead Light Arrow, 1",+0,+1d6,0,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift,None,Pierce,Light Bow,Bows favoring easier drawing versus power.,Indefinite,Innate
+,,,,,,,,,,,,,,
+Two-handed Light Bow with Barbed Light Arrow,Two-handed,Light Bow,"Barbed Light Arrow, 1",+1,+1d6,0,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift,None,Pierce,Light Bow,Bows favoring easier drawing versus power.,Indefinite,Innate
+,,,,,,,,,,,,,,
+Two-handed Light Bow with Bodkin Light Arrow,Two-handed,Light Bow,"Bodkin Light Arrow, 1",+0,+1d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift,None,Pierce,Light Bow,Bows favoring easier drawing versus power.,Indefinite,Innate
+,,,,,,,,,,,,,,
+Two-handed Light Bow with Rusted Light Arrow,Two-handed,Light Bow,"Rusted Light Arrow, 1",-1,+1d6,0,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift,None,Pierce,Light Bow,Bows favoring easier drawing versus power.,Indefinite,Innate
+,,,,,,,,,,,,,,
+Two-handed Light Bow with Wooden Light Arrow,Two-handed,Light Bow,"Wooden Light Arrow, 1",-1,+1d6,-1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift,None,Pierce,Light Bow,Bows favoring easier drawing versus power.,Indefinite,Innate
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
 One-handed Blowgun with Poison Blowgun Dart,One-handed,Blowgun,"Poison Blowgun Dart, 1",+0,+0d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,Poison,Exotic Ranged,A long narrow tube that propels darts using the force of the force of the users's breath.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
