@@ -117,10 +117,10 @@ Two-handed Heavy Crossbow with Rusted Heavy Bolt,Two-handed,Heavy Crossbow,"Rust
 Two-handed Heavy Crossbow with Wooden Heavy Bolt,Two-handed,Heavy Crossbow,"Wooden Heavy Bolt, 1",+0,+2d6,2,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,Pierce,Heavy Crossbow,Crossbows designed for maximum power disregarding reload time.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-One-handed Blowgun,One-handed,Blowgun,"Blowgun Dart, 1",+0,+0d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,Pierce,Exotic Ranged,A long narrow tube that propels darts using the force of the force of the users's breath.,Indefinite,Innate
+One-handed Blowgun with Poison Blowgun Dart,One-handed,Blowgun,"Poison Blowgun Dart, 1",+0,+0d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,Poison,Exotic Ranged,A long narrow tube that propels darts using the force of the force of the users's breath.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-Two-handed Sling,Two-handed,Sling,"Sling Bullet, 1",+0,+0d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,Bludgeon,Exotic Ranged,A flexible strap used to hurl small objects.,Indefinite,Innate
+Two-handed Sling with Standard Sling Bullet,Two-handed,Sling,"Standard Sling Bullet, 1",+0,+0d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,Bludgeon,Exotic Ranged,A flexible strap used to hurl small objects.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 One-handed Thrown Slash Close Melee,One-handed,Thrown Slash Close Melee,"Thrown Slash Close Melee, 1",+0,+0d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,Slash,Close Melee,"Ninja stars, ect...",Indefinite,Innate
@@ -140,27 +140,27 @@ One-handed Thrown Medium Spear,One-handed,Thrown Medium Spear,"Thrown Medium Spe
 One-handed Thrown Large Spear,One-handed,Thrown Large Spear,"Thrown Large Spear, 1",+0,+1d6,2,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,Pierce,Large Melee,Thrown two-handed spears.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-One-handed Muzzleloading Pistol,One-handed,Muzzleloading Pistol,"Muzzleloading Pistol Cartridge, 1",+0,+2d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Extremely Slow,None,Ballistic,Small Guns,"Flintlock pistols, ect...",Indefinite,Innate
-Two-handed Muzzleloading Pistol,Two-handed,Muzzleloading Pistol,"Muzzleloading Pistol Cartridge, 1",+0,+2d6,0,"Medium (Normal), Medium (Disadvantage), Medium (Super Disadvantage)",Extremely Slow,None,Ballistic,Small Guns,"Flintlock pistols, ect...",Indefinite,Innate
-Dual-wielded Muzzleloading Pistol,Dual-wielded,Muzzleloading Pistol,"Muzzleloading Pistol Cartridge, 2",+0,+3d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Painfully Slow,None,Ballistic,Small Guns,"Flintlock pistols, ect...",Indefinite,Innate
+One-handed Muzzleloading Pistol with Muzzleloading Pistol Cartridge,One-handed,Muzzleloading Pistol,"Muzzleloading Pistol Cartridge, 1",+0,+2d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Extremely Slow,None,Ballistic,Small Guns,"Flintlock pistols, ect...",Indefinite,Innate
+Two-handed Muzzleloading Pistol with Muzzleloading Pistol Cartridge,Two-handed,Muzzleloading Pistol,"Muzzleloading Pistol Cartridge, 1",+0,+2d6,0,"Medium (Normal), Medium (Disadvantage), Medium (Super Disadvantage)",Extremely Slow,None,Ballistic,Small Guns,"Flintlock pistols, ect...",Indefinite,Innate
+Dual-wielded Muzzleloading Pistol with Muzzleloading Pistol Cartridge,Dual-wielded,Muzzleloading Pistol,"Muzzleloading Pistol Cartridge, 2",+0,+3d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Painfully Slow,None,Ballistic,Small Guns,"Flintlock pistols, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Arquebus,One-handed,Arquebus,"Arquebus Cartridge, 1",+0,+0d6,1,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,Ballistic,Medium Guns,Can be used as a Combat Roll.,Indefinite,Innate
-Two-handed Arquebus,Two-handed,Arquebus,"Arquebus Cartridge, 1",+0,+2d6,1,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,Ballistic,Medium Guns,Can be used as a Combat Roll.,Indefinite,Innate
+One-handed Arquebus with Arquebus Cartridge,One-handed,Arquebus,"Arquebus Cartridge, 1",+0,+0d6,1,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,Ballistic,Medium Guns,Can be used as a Combat Roll.,Indefinite,Innate
+Two-handed Arquebus with Arquebus Cartridge,Two-handed,Arquebus,"Arquebus Cartridge, 1",+0,+2d6,1,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,Ballistic,Medium Guns,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Musket,One-handed,Musket,"Musket Cartridge, 1",+0,+0d6,1,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Painfully Slow,None,Ballistic,Medium Guns,Flintlock smoothbore long guns.,Indefinite,Innate
-Two-handed Musket,Two-handed,Musket,"Musket Cartridge, 1",+0,+3d6,1,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Painfully Slow,None,Ballistic,Medium Guns,Flintlock smoothbore long guns.,Indefinite,Innate
+One-handed Musket with Musket Cartridge,One-handed,Musket,"Musket Cartridge, 1",+0,+0d6,1,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Painfully Slow,None,Ballistic,Medium Guns,Flintlock smoothbore long guns.,Indefinite,Innate
+Two-handed Musket with Musket Cartridge,Two-handed,Musket,"Musket Cartridge, 1",+0,+3d6,1,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Painfully Slow,None,Ballistic,Medium Guns,Flintlock smoothbore long guns.,Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed 9mm Semi-automatic Pistol,One-handed,9mm Semi-automatic Pistol,"FMJ 9mm Round, 1",+0,+2d6,2,"Extended (Normal), Extended (Disadvantage), Extended (Super Disadvantage)",Swift +2,None,Ballistic,Small Guns,"Glock 17, ect...",Indefinite,Innate
-Two-handed 9mm Semi-automatic Pistol,Two-handed,9mm Semi-automatic Pistol,"FMJ 9mm Round, 1",+0,+2d6,2,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift +2,None,Ballistic,Small Guns,"Glock 17, ect...",Indefinite,Innate
-Dual-wielded 9mm Semi-automatic Pistol,Dual-wielded,9mm Semi-automatic Pistol,"FMJ 9mm Round, 2",+0,+3d6,2,"Extended (Normal), Extended (Disadvantage), Extended (Super Disadvantage)",Swift +2,None,Ballistic,Small Guns,"Glock 17, ect...",Indefinite,Innate
+One-handed 9mm Semi-automatic Pistol with FMJ 9mm Round,One-handed,9mm Semi-automatic Pistol,"FMJ 9mm Round, 1",+0,+2d6,2,"Extended (Normal), Extended (Disadvantage), Extended (Super Disadvantage)",Swift +2,None,Ballistic,Small Guns,"Glock 17, ect...",Indefinite,Innate
+Two-handed 9mm Semi-automatic Pistol with FMJ 9mm Round,Two-handed,9mm Semi-automatic Pistol,"FMJ 9mm Round, 1",+0,+2d6,2,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift +2,None,Ballistic,Small Guns,"Glock 17, ect...",Indefinite,Innate
+Dual-wielded 9mm Semi-automatic Pistol with FMJ 9mm Round,Dual-wielded,9mm Semi-automatic Pistol,"FMJ 9mm Round, 2",+0,+3d6,2,"Extended (Normal), Extended (Disadvantage), Extended (Super Disadvantage)",Swift +2,None,Ballistic,Small Guns,"Glock 17, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed 9mm Burst-fire Pistol,One-handed,9mm Burst-fire Pistol,"FMJ 9mm Round, 3",+0,+3d6,2,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Swift +2,None,Ballistic,Small Guns,"Beretta 93R, ect...",Indefinite,Innate
-Two-handed 9mm Burst-fire Pistol,Two-handed,9mm Burst-fire Pistol,"FMJ 9mm Round, 3",+0,+3d6,2,"Medium (Normal), Medium (Disadvantage), Medium (Super Disadvantage)",Swift +2,None,Ballistic,Small Guns,"Beretta 93R, ect...",Indefinite,Innate
-Dual-wielded 9mm Burst-fire Pistol,Dual-wielded,9mm Burst-fire Pistol,"FMJ 9mm Round, 6",+0,+4d6,2,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Swift +2,None,Ballistic,Small Guns,"Beretta 93R, ect...",Indefinite,Innate
+One-handed 9mm Burst-fire Pistol with FMJ 9mm Round,One-handed,9mm Burst-fire Pistol,"FMJ 9mm Round, 3",+0,+3d6,2,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Swift +2,None,Ballistic,Small Guns,"Beretta 93R, ect...",Indefinite,Innate
+Two-handed 9mm Burst-fire Pistol with FMJ 9mm Round,Two-handed,9mm Burst-fire Pistol,"FMJ 9mm Round, 3",+0,+3d6,2,"Medium (Normal), Medium (Disadvantage), Medium (Super Disadvantage)",Swift +2,None,Ballistic,Small Guns,"Beretta 93R, ect...",Indefinite,Innate
+Dual-wielded 9mm Burst-fire Pistol with FMJ 9mm Round,Dual-wielded,9mm Burst-fire Pistol,"FMJ 9mm Round, 6",+0,+4d6,2,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Swift +2,None,Ballistic,Small Guns,"Beretta 93R, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed 9mm Automatic Pistol,One-handed,9mm Automatic Pistol,"FMJ 9mm Round, 6",+0,+3d6,2,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Rapid,None,Ballistic,Small Guns,"Glock 18, ect...",Indefinite,Innate
-Two-handed 9mm Automatic Pistol,Two-handed,9mm Automatic Pistol,"FMJ 9mm Round, 6",+0,+3d6,2,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Rapid,None,Ballistic,Small Guns,"Glock 18, ect...",Indefinite,Innate
-Dual-wielded 9mm Automatic Pistol,Dual-wielded,9mm Automatic Pistol,"FMJ 9mm Round, 12",+0,+4d6,2,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Rapid,None,Ballistic,Small Guns,"Glock 18, ect...",Indefinite,Innate
+One-handed 9mm Automatic Pistol with FMJ 9mm Round,One-handed,9mm Automatic Pistol,"FMJ 9mm Round, 6",+0,+3d6,2,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Rapid,None,Ballistic,Small Guns,"Glock 18, ect...",Indefinite,Innate
+Two-handed 9mm Automatic Pistol with FMJ 9mm Round,Two-handed,9mm Automatic Pistol,"FMJ 9mm Round, 6",+0,+3d6,2,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Rapid,None,Ballistic,Small Guns,"Glock 18, ect...",Indefinite,Innate
+Dual-wielded 9mm Automatic Pistol with FMJ 9mm Round,Dual-wielded,9mm Automatic Pistol,"FMJ 9mm Round, 12",+0,+4d6,2,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Rapid,None,Ballistic,Small Guns,"Glock 18, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
 One-handed 12 Gauge Pump-action Shotgun with Buckshot 12 Gauge Shell,One-handed,12 Gauge Pump-action Shotgun,"Buckshot 12 Gauge Shell, 1",+0,+1d6,2,"Extended (Normal), Extended (Disadvantage), Extended (Super Disadvantage)",Swift,None,Ballistic,Medium Guns,"Remington 870, Mossberg 500, ect...",Indefinite,Innate
 Two-handed 12 Gauge Pump-action Shotgun with Buckshot 12 Gauge Shell,Two-handed,12 Gauge Pump-action Shotgun,"Buckshot 12 Gauge Shell, 1",+0,+3d6,2,"Extended (Normal), Extended (Disadvantage), Extended (Super Disadvantage)",Swift,None,Ballistic,Medium Guns,"Remington 870, Mossberg 500, ect...",Indefinite,Innate
