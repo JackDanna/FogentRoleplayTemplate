@@ -117,12 +117,6 @@ Two-handed Heavy Crossbow with Rusted Heavy Bolt,Two-handed,Heavy Crossbow,"Rust
 Two-handed Heavy Crossbow with Wooden Heavy Bolt,Two-handed,Heavy Crossbow,"Wooden Heavy Bolt, 1",+0,+2d6,2,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,Pierce,Heavy Crossbow,Crossbows designed for maximum power disregarding reload time.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-Two-handed Light Crossbow,Two-handed,Light Bow,"Light Arrow, 1",+0,+1d6,0,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift,None,Pierce,Light Bow,Bows favoring easier drawing versus power.,Indefinite,Innate
-,,,,,,,,,,,,,,
-Two-handed Heavy Crossbow,Two-handed,Heavy Bow,"Heavy Arrow, 1",+0,+2d6,2,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Quick,None,Pierce,Heavy Bow,Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,Indefinite,Innate
-,,,,,,,,,,,,,,
 One-handed Crossbow,One-handed,Blowgun,"Blowgun Dart, 1",+0,+0d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,Pierce,Exotic Ranged,A long narrow tube that propels darts using the force of the force of the users's breath.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 Two-handed Sling,Two-handed,Sling,"Sling Bullet, 1",+0,+0d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,Bludgeon,Exotic Ranged,A flexible strap used to hurl small objects.,Indefinite,Innate
