@@ -69,14 +69,55 @@ One-handed Whip,One-handed,Whip,None,+0,+0d6,0,Reach,Swift,None,Slash,Exotic Mel
 Dual-wielded Whip,Dual-wielded,Whip,None,+0,+1d6,0,Reach,Swift +1,None,Slash,Exotic Melee,"Bullwhips, ect... Disadvantage while in confined spaces.",Indefinite,Innate
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-"One-handed Hand Crossbow ",One-handed,Hand Crossbow,"Light Bolt, 1",+0,+1d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
-"Two-handed Hand Crossbow ",Two-handed,Hand Crossbow,"Light Bolt, 1",+0,+1d6,0,"Medium (Normal), Medium (Disadvantage), Medium (Super Disadvantage)",Quick,None,Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
-"Dual-wielded Hand Crossbow ",Dual-wielded,Hand Crossbow,"Light Bolt, 2",+0,+2d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Steady,None,Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
+One-handed Hand Crossbow with Broadhead Light Bolt,One-handed,Hand Crossbow,"Broadhead Light Bolt, 1",+0,+1d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
+Two-handed Hand Crossbow with Broadhead Light Bolt,Two-handed,Hand Crossbow,"Broadhead Light Bolt, 1",+0,+1d6,0,"Medium (Normal), Medium (Disadvantage), Medium (Super Disadvantage)",Quick,None,Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
+Dual-wielded Hand Crossbow with Broadhead Light Bolt,Dual-wielded,Hand Crossbow,"Broadhead Light Bolt, 2",+0,+2d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Steady,None,Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Light Crossbow,One-handed,Light Crossbow,"Light Bolt, 1",+0,+0d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,Pierce,Light Crossbow,"Crossbows balancing power and reload time. ",Indefinite,Innate
-Two-handed Light Crossbow,Two-handed,Light Crossbow,"Light Bolt, 1",+0,+1d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,Pierce,Light Crossbow,"Crossbows balancing power and reload time. ",Indefinite,Innate
+One-handed Hand Crossbow with Barbed Light Bolt,One-handed,Hand Crossbow,"Barbed Light Bolt, 1",+1,+1d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
+Two-handed Hand Crossbow with Barbed Light Bolt,Two-handed,Hand Crossbow,"Barbed Light Bolt, 1",+1,+1d6,0,"Medium (Normal), Medium (Disadvantage), Medium (Super Disadvantage)",Quick,None,Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
+Dual-wielded Hand Crossbow with Barbed Light Bolt,Dual-wielded,Hand Crossbow,"Barbed Light Bolt, 2",+1,+2d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Steady,None,Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
 ,,,,,,,,,,,,,,
-Two-handed Heavy Crossbow,Two-handed,Heavy Crossbow,"Heavy Bolt, 1",+0,+2d6,2,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,Pierce,Heavy Crossbow,Crossbows designed for maximum power disregarding reload time.,Indefinite,Innate
+One-handed Hand Crossbow with Bodkin Light Bolt,One-handed,Hand Crossbow,"Bodkin Light Bolt, 1",+0,+1d6,1,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
+Two-handed Hand Crossbow with Bodkin Light Bolt,Two-handed,Hand Crossbow,"Bodkin Light Bolt, 1",+0,+1d6,1,"Medium (Normal), Medium (Disadvantage), Medium (Super Disadvantage)",Quick,None,Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
+Dual-wielded Hand Crossbow with Bodkin Light Bolt,Dual-wielded,Hand Crossbow,"Bodkin Light Bolt, 2",+0,+2d6,1,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Steady,None,Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
+,,,,,,,,,,,,,,
+One-handed Hand Crossbow with Rusted Light Bolt,One-handed,Hand Crossbow,"Rusted Light Bolt, 1",+0,+1d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
+Two-handed Hand Crossbow with Rusted Light Bolt,Two-handed,Hand Crossbow,"Rusted Light Bolt, 1",+0,+1d6,0,"Medium (Normal), Medium (Disadvantage), Medium (Super Disadvantage)",Quick,None,Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
+Dual-wielded Hand Crossbow with Rusted Light Bolt,Dual-wielded,Hand Crossbow,"Rusted Light Bolt, 2",+0,+2d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Steady,None,Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
+,,,,,,,,,,,,,,
+One-handed Hand Crossbow with Wooden Light Bolt,One-handed,Hand Crossbow,"Wooden Light Bolt, 1",-1,+1d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
+Two-handed Hand Crossbow with Wooden Light Bolt,Two-handed,Hand Crossbow,"Wooden Light Bolt, 1",+0,+1d6,0,"Medium (Normal), Medium (Disadvantage), Medium (Super Disadvantage)",Quick,None,Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
+Dual-wielded Hand Crossbow with Wooden Light Bolt,Dual-wielded,Hand Crossbow,"Wooden Light Bolt, 2",+0,+2d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Steady,None,Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+One-handed Light Crossbow with Broadhead Light Bolt,One-handed,Light Crossbow,"Broadhead Light Bolt, 1",+0,+0d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,Pierce,Light Crossbow,"Crossbows balancing power and reload time. ",Indefinite,Innate
+Two-handed Light Crossbow with Broadhead Light Bolt,Two-handed,Light Crossbow,"Broadhead Light Bolt, 2",+0,+1d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,Pierce,Light Crossbow,"Crossbows balancing power and reload time. ",Indefinite,Innate
+,,,,,,,,,,,,,,
+One-handed Light Crossbow with Barbed Light Bolt,One-handed,Light Crossbow,"Barbed Light Bolt, 1",+0,+0d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,Pierce,Light Crossbow,"Crossbows balancing power and reload time. ",Indefinite,Innate
+Two-handed Light Crossbow with Barbed Light Bolt,Two-handed,Light Crossbow,"Barbed Light Bolt, 2",+0,+1d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,Pierce,Light Crossbow,"Crossbows balancing power and reload time. ",Indefinite,Innate
+,,,,,,,,,,,,,,
+One-handed Light Crossbow with Bodkin Light Bolt,One-handed,Light Crossbow,"Bodkin Light Bolt, 1",+0,+0d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,Pierce,Light Crossbow,"Crossbows balancing power and reload time. ",Indefinite,Innate
+Two-handed Light Crossbow with Bodkin Light Bolt,Two-handed,Light Crossbow,"Bodkin Light Bolt, 2",+0,+1d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,Pierce,Light Crossbow,"Crossbows balancing power and reload time. ",Indefinite,Innate
+,,,,,,,,,,,,,,
+One-handed Light Crossbow with Rusted Light Bolt,One-handed,Light Crossbow,"Rusted Light Bolt, 1",+0,+0d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,Pierce,Light Crossbow,"Crossbows balancing power and reload time. ",Indefinite,Innate
+Two-handed Light Crossbow with Rusted Light Bolt,Two-handed,Light Crossbow,"Rusted Light Bolt, 2",+0,+1d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,Pierce,Light Crossbow,"Crossbows balancing power and reload time. ",Indefinite,Innate
+,,,,,,,,,,,,,,
+One-handed Light Crossbow with Wooden Light Bolt,One-handed,Light Crossbow,"Wooden Light Bolt, 1",+0,+0d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,Pierce,Light Crossbow,"Crossbows balancing power and reload time. ",Indefinite,Innate
+Two-handed Light Crossbow with Wooden Light Bolt,Two-handed,Light Crossbow,"Wooden Light Bolt, 2",+0,+1d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,Pierce,Light Crossbow,"Crossbows balancing power and reload time. ",Indefinite,Innate
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Two-handed Heavy Crossbow with Broadhead Heavy Bolt,Two-handed,Heavy Crossbow,"Broadhead Heavy Bolt, 1",+0,+2d6,2,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,Pierce,Heavy Crossbow,Crossbows designed for maximum power disregarding reload time.,Indefinite,Innate
+,,,,,,,,,,,,,,
+Two-handed Heavy Crossbow with Barbed Heavy Bolt,Two-handed,Heavy Crossbow,"Barbed Heavy Bolt, 1",+0,+2d6,2,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,Pierce,Heavy Crossbow,Crossbows designed for maximum power disregarding reload time.,Indefinite,Innate
+,,,,,,,,,,,,,,
+Two-handed Heavy Crossbow with Bodkin Heavy Bolt,Two-handed,Heavy Crossbow,"Bodkin Heavy Bolt, 1",+0,+2d6,2,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,Pierce,Heavy Crossbow,Crossbows designed for maximum power disregarding reload time.,Indefinite,Innate
+,,,,,,,,,,,,,,
+Two-handed Heavy Crossbow with Rusted Heavy Bolt,Two-handed,Heavy Crossbow,"Rusted Heavy Bolt, 1",+0,+2d6,2,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,Pierce,Heavy Crossbow,Crossbows designed for maximum power disregarding reload time.,Indefinite,Innate
+,,,,,,,,,,,,,,
+Two-handed Heavy Crossbow with Wooden Heavy Bolt,Two-handed,Heavy Crossbow,"Wooden Heavy Bolt, 1",+0,+2d6,2,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,Pierce,Heavy Crossbow,Crossbows designed for maximum power disregarding reload time.,Indefinite,Innate
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 Two-handed Light Crossbow,Two-handed,Light Bow,"Light Arrow, 1",+0,+1d6,0,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift,None,Pierce,Light Bow,Bows favoring easier drawing versus power.,Indefinite,Innate
 ,,,,,,,,,,,,,,
