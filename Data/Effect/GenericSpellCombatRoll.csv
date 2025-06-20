@@ -39,7 +39,7 @@ Two-handed Light Crossbow,Light Bow,"{Magic Resource Type}, 1",Bows favoring eas
 ,,,,,,,,,,,,,,,
 Two-handed Heavy Crossbow,Heavy Bow,"{Magic Resource Type}, 1",Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,Innate,Indefinite,Heavy Bow,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+2d6,2,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Quick,None
 ,,,,,,,,,,,,,,,
-One-handed Crossbow,Blowgun,"{Magic Resource Type}, 1",A long narrow tube that propels darts using the force of the force of the users's breath.,Innate,Indefinite,Blowgun,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None
+One-handed Blowgun,Blowgun,"{Magic Resource Type}, 1",A long narrow tube that propels darts using the force of the force of the users's breath.,Innate,Indefinite,Blowgun,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None
 ,,,,,,,,,,,,,,,
 Two-handed Sling,Sling,"{Magic Resource Type}, 1",A flexible strap used to hurl small objects.,Innate,Indefinite,Sling,Two-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None
 ,,,,,,,,,,,,,,,

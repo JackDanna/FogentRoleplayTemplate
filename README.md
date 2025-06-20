@@ -1308,7 +1308,7 @@ Describes where this Combat Roll is coming from. If it is coming from an item th
 |                                            |              |                              |                      |                    |            |              |                |                          |                                  |                |                      |                                                                                                                                    |            |        |
 |           Two-handed Heavy Crossbow           |  Two-handed  |          Heavy Bow          |          +0          |        +2d6        |      2      | Sharpshooter |     Quick     |           None           |          Heavy Arrow, 1          |     Pierce     |      Heavy Bow      |                            Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.                            | Indefinite | Innate |
 |                                            |              |                              |                      |                    |            |              |                |                          |                                  |                |                      |                                                                                                                                    |            |        |
-|            One-handed Crossbow            |  One-handed  |           Blowgun           |          +0          |        +0d6        |      0      |   Mediocre   |     Quick     |           None           |          Blowgun Dart, 1          |     Pierce     |    Exotic Ranged    |                      A long narrow tube that propels darts using the force of the force of the users's breath.                      | Indefinite | Innate |
+|            One-handed Blowgun            |  One-handed  |           Blowgun           |          +0          |        +0d6        |      0      |   Mediocre   |     Quick     |           None           |          Blowgun Dart, 1          |     Pierce     |    Exotic Ranged    |                      A long narrow tube that propels darts using the force of the force of the users's breath.                      | Indefinite | Innate |
 |                                            |              |                              |                      |                    |            |              |                |                          |                                  |                |                      |                                                                                                                                    |            |        |
 |             Two-handed Sling             |  Two-handed  |            Sling            |          +0          |        +0d6        |      0      |   Mediocre   |     Quick     |           None           |          Sling Bullet, 1          |    Bludgeon    |    Exotic Ranged    |                                            A flexible strap used to hurl small objects.                                            | Indefinite | Innate |
 |                                            |              |                              |                      |                    |            |              |                |                          |                                  |                |                      |                                                                                                                                    |            |        |
@@ -1548,7 +1548,7 @@ When representing the contents of a container on a character sheet, a similar ta
 
 | Name          | # |        Effect        |  LB  | Value | Description |
 | ------------- | :-: | :-------------------: | :--: | :---: | ----------- |
-| Blowgun       | 1 | One-handed Crossbow |  1  | 10 bc |             |
+| Blowgun       | 1 | One-handed Blowgun |  1  | 10 bc |             |
 | Ring, Mundane | 1 |                      | 0.2 | 30 cc |             |
 | Copper Coin   | 70 |                      | 0.02 | 1 cc |             |
 
@@ -1560,7 +1560,7 @@ When representing a container on a character sheet, a similar table as the one b
 
 | Name          | # |        Effect        |  LB  | Value | Description |
 | ------------- | :-: | :-------------------: | :--: | :---: | ----------- |
-| Blowgun       | 1 | One-handed Crossbow |  1  | 10 bc |             |
+| Blowgun       | 1 | One-handed Blowgun |  1  | 10 bc |             |
 | Ring, Mundane | 1 |                      | 0.2 | 30 cc |             |
 | Copper Coin   | 70 |                      | 0.02 | 1 cc |             |
 

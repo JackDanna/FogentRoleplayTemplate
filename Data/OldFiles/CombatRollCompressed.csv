@@ -82,7 +82,7 @@ Two-handed Light Crossbow,Two-handed,Light Bow,+0,+1d6,0,"Far (Normal), Far (Dis
 ,,,,,,,,,,,,,,
 Two-handed Heavy Crossbow,Two-handed,Heavy Bow,+0,+2d6,2,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Quick,None,"Heavy Arrow, 1",Pierce,Heavy Bow,Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Crossbow,One-handed,Blowgun,+0,+0d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,"Blowgun Dart, 1",Pierce,Exotic Ranged,A long narrow tube that propels darts using the force of the force of the users's breath.,Indefinite,Innate
+One-handed Blowgun,One-handed,Blowgun,+0,+0d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,"Blowgun Dart, 1",Pierce,Exotic Ranged,A long narrow tube that propels darts using the force of the force of the users's breath.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 Two-handed Sling,Two-handed,Sling,+0,+0d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,"Sling Bullet, 1",Bludgeon,Exotic Ranged,A flexible strap used to hurl small objects.,Indefinite,Innate
 ,,,,,,,,,,,,,,
