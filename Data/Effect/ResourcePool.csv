@@ -58,39 +58,46 @@ Resource Pool: Thrown Large Spear +1,Resources representing how many throwing co
 Resource Pool: Thrown Large Spear +3,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Large Spear +3,1,None,TRUE
 Resource Pool: Thrown Large Spear +7,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Large Spear +7,1,None,TRUE
 ,,,,,,,
-Light Arrows - Standard,Ammunition for Combat Rolls.,Indefinite,Innate,Light Arrow - Standard,20,None,TRUE
-"Light Arrows - Wounding ",Ammunition for Combat Rolls.,Indefinite,Innate,"Light Arrow - Wounding ",20,None,TRUE
-Light Arrows - Anti-armor,Ammunition for Combat Rolls.,Indefinite,Innate,Light Arrow - Anti-armor,20,None,TRUE
-Light Arrows - Survival,Ammunition for Combat Rolls.,Indefinite,Innate,Light Arrow - Survival,20,None,TRUE
-Light Arrows - Shoddy,Ammunition for Combat Rolls.,Indefinite,Innate,Light Arrow - Shoddy,20,None,TRUE
+Resource Pool: Broadhead Light Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Light Arrow - Standard,20,None,TRUE
+Resource Pool: Barbed Light Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,"Light Arrow - Wounding ",20,None,TRUE
+Resource Pool: Bodkin Light Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Light Arrow - Anti-armor,20,None,TRUE
+Resource Pool: Wooden Light Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Light Arrow - Survival,20,None,TRUE
+Resource Pool: Rusted Light Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Light Arrow - Shoddy,20,None,TRUE
 ,,,,,,,
-Heavy Arrows - Standard,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Arrow - Standard,20,None,TRUE
-Heavy Arrows - Wounding,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Arrow - Wounding,20,None,TRUE
-Heavy Arrows - Anti-armor,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Arrow - Anti-armor,20,None,TRUE
-Heavy Arrows - Survival,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Arrow - Survival,20,None,TRUE
-Heavy Arrows - Shoddy,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Arrow - Shoddy,20,None,TRUE
+Resource Pool: Broadhead Heavy Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Arrow - Standard,20,None,TRUE
+Resource Pool: Barbed Heavy Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Arrow - Wounding,20,None,TRUE
+Resource Pool: Bodkin Heavy Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Arrow - Anti-armor,20,None,TRUE
+Resource Pool: Wooden Heavy Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Arrow - Survival,20,None,TRUE
+Resource Pool: Rusted Heavy Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Arrow - Shoddy,20,None,TRUE
 ,,,,,,,
-Light Bolts - Standard,Ammunition for Combat Rolls.,Indefinite,Innate,Light Bolt - Standard,20,None,TRUE
-Light Bolts - Wounding,Ammunition for Combat Rolls.,Indefinite,Innate,Light Bolt - Wounding,20,None,TRUE
-Light Bolts - Anti-armor,Ammunition for Combat Rolls.,Indefinite,Innate,Light Bolt - Anti-armor,20,None,TRUE
-Light Bolts - Survival,Ammunition for Combat Rolls.,Indefinite,Innate,Light Bolt - Survival,20,None,TRUE
-Light Bolts - Shoddy,Ammunition for Combat Rolls.,Indefinite,Innate,Light Bolt - Shoddy,20,None,TRUE
+Resource Pool: Broadhead Light Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Light Bolt - Standard,20,None,TRUE
+Resource Pool: Barbed Light Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Light Bolt - Wounding,20,None,TRUE
+Resource Pool: Bodkin Light Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Light Bolt - Anti-armor,20,None,TRUE
+Resource Pool: Wooden Light Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Light Bolt - Survival,20,None,TRUE
+Resource Pool: Rusted Light Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Light Bolt - Shoddy,20,None,TRUE
 ,,,,,,,
-Heavy Bolts - Standard,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Bolt - Standard,20,None,TRUE
-Heavy Bolts - Wounding,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Bolt - Wounding,20,None,TRUE
-Heavy Bolts - Anti-armor,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Bolt - Anti-armor,20,None,TRUE
-Heavy Bolts - Survival,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Bolt - Survival,20,None,TRUE
-Heavy Bolts - Shoddy,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Bolt - Shoddy,20,None,TRUE
+Resource Pool: Broadhead Heavy Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Bolt - Standard,20,None,TRUE
+Resource Pool: Barbed Heavy Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Bolt - Wounding,20,None,TRUE
+Resource Pool: Bodkin Heavy Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Bolt - Anti-armor,20,None,TRUE
+Resource Pool: Wooden Heavy Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Bolt - Survival,20,None,TRUE
+Resource Pool: Rusted Heavy Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Heavy Bolt - Shoddy,20,None,TRUE
 ,,,,,,,
-Blowgun Darts - Poison,Ammunition for Combat Rolls.,Indefinite,Innate,Blowgun Dart - Poison,20,None,TRUE
-Sling Bullets - Standard,Ammunition for Combat Rolls.,Indefinite,Innate,Sling Bullet - Standard,20,None,TRUE
+Resource Pool: Poison Blowgun Darts,Ammunition for Combat Rolls.,Indefinite,Innate,Blowgun Dart - Poison,20,None,TRUE
 ,,,,,,,
-Muzzleloading Pistol Cartridges - Standard,Ammunition for Combat Rolls.,Indefinite,Innate,Muzzleloading Pistol Cartridge - Standard,20,None,TRUE
-Arquebus Cartridges - Standard,Ammunition for Combat Rolls.,Indefinite,Innate,Arquebus Cartridge - Standard,20,None,TRUE
-Musket Cartridges - Standard,Ammunition for Combat Rolls.,Indefinite,Innate,Musket Cartridge - Standard,20,None,TRUE
+Resource Pool: Standard Sling Bullets,Ammunition for Combat Rolls.,Indefinite,Innate,Sling Bullet - Standard,20,None,TRUE
 ,,,,,,,
-9mm Rounds - FMJ,Ammunition for Combat Rolls.,Indefinite,Innate,9mm Round - FMJ,20,None,TRUE
-5.56 Rounds - FMJ,Ammunition for Combat Rolls.,Indefinite,Innate,5.56 Round - FMJ,20,None,TRUE
-.308 Rounds - FMJ,Ammunition for Combat Rolls.,Indefinite,Innate,.308 Round - FMJ,20,None,TRUE
-12 Gauge Shells - Buckshot,Ammunition for Combat Rolls.,Indefinite,Innate,12 Gauge Shell - Buckshot,20,None,TRUE
-RPG Rounds - Explosive,Ammunition for Combat Rolls.,Indefinite,Innate,RPG Round,20,None,TRUE
+Resource Pool: Muzzleloading Pistol Cartridges,Ammunition for Combat Rolls.,Indefinite,Innate,Muzzleloading Pistol Cartridge - Standard,20,None,TRUE
+,,,,,,,
+Resource Pool: Arquebus Cartridges,Ammunition for Combat Rolls.,Indefinite,Innate,Arquebus Cartridge - Standard,20,None,TRUE
+,,,,,,,
+Resource Pool: Musket Cartridges,Ammunition for Combat Rolls.,Indefinite,Innate,Musket Cartridge - Standard,20,None,TRUE
+,,,,,,,
+Resource Pool: FMJ 9mm Rounds,Ammunition for Combat Rolls.,Indefinite,Innate,9mm Round - FMJ,20,None,TRUE
+,,,,,,,
+Resource Pool: FMJ 5.56 Rounds,Ammunition for Combat Rolls.,Indefinite,Innate,5.56 Round - FMJ,20,None,TRUE
+,,,,,,,
+Resource Pool: FMJ .308 Rounds,Ammunition for Combat Rolls.,Indefinite,Innate,.308 Round - FMJ,20,None,TRUE
+,,,,,,,
+Resource Pool: Buckshot 12 Gauge Shells,Ammunition for Combat Rolls.,Indefinite,Innate,12 Gauge Shell - Buckshot,20,None,TRUE
+,,,,,,,
+Resource Pool: Explosive RPG Rounds,Ammunition for Combat Rolls.,Indefinite,Innate,RPG Round,20,None,TRUE
