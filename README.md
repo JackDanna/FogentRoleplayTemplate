@@ -1050,19 +1050,17 @@ The rider's Dexterity dice pool size is used for the mounts Dexterity Movement S
 
 ## Combat Roll
 
-Describes how a character is participating in combat. Is your character using both of their hands on their greatsword while swinging in large slashing arcs, that's a combat roll. Is a character holding a torch in one hand and firing a pistol in the other, that's a combat roll.
+Describes how a character is participating in combat.
 
-Combat Roll's come on all weapons and offensive spells. Some weapons might even have multiple combat rolls, such as a sword that can either thrust or swung.
+Is your character using both of their hands on their greatsword while swinging in large slashing arcs, that's a combat roll. Is a character holding a torch in one hand and firing a pistol in the other, that's a combat roll.
+
+Combat Rolls come on all weapons and offensive spells. Some weapons might even have multiple combat rolls, such as a sword that can either thrust or swung.
 
 The right Combat Roll can dramatically improve the chances of getting more wins in a combat, make it possible to engage opponents at far distances, enable rapid engagement of multiple opponents, deal various types of damages which an opponents might be weak to, etc...
 
 ### Name
 
-The name of a Combat Roll formatted the following way: "(Varation) (Combat Roll Type) (Base Dice Adjustment)"
-
-For example, let's say we are creating a Combat Roll for a one-handed thrusting rapier. For Variation, since most rapier grips only include space for one hand, thus we'd use "One-handed". Next, for Combat Roll Type, it seems that a rapier would be a "Pierce Medium Melee" weapon. Finally, in regards to the Base Dice Adjustment, we note that rapiers were designed to sacrifice slashing for piercing capabilities. To reflect this, we could give a +2 Base Dice Adjustment for our one-handed thrusting Combat Roll.
-
-Thus, our rapier would have the below weapons: "One-handed Pierce Medium Melee +2"
+The name of a Combat Roll is conventionally formatted the following way: "(Varation) (Combat Roll Type) with (Resource)". This isn't required but helps to keep things consistent.
 
 ### Variation
 
@@ -1084,85 +1082,59 @@ One hand is being used on a main weapon and the other hand is being used on anot
 
 Just describes type of the combat roll.
 
-### Base Dice Adjustments
+### Base Dice Adjustment
 
-Adjusts the Base Dice by the amount specified.
+Adjusts the tier of the Base Dice for the Combat Roll. This generally is used to adjust the consistency and reliability of the Combat Roll.
 
-This generally is used to adjust the consistency and/or reliability of the Combat Roll.
-
-*Adjusts the Base Dice's tier for the Combat Roll the Ammo is being used with. Used to represent Ammo that adjusts the consistency and reliability of the Combat Roll.
-
-For example, let's say a character has a "Two-handed Light Crossbow" Combat Roll (which has a tier 0 Base Dice meaning it's Base Dice would be 3d6 unless otherwise adjusted). If the character were to use a "Wooden Light Arrow" (which would represent a poorly constructed arrow made as a last ditch effort in a survival situation) which has a -1 Base Dice Adjustment, then the Combat Roll would have a -1 Base Dice ("2d6, 1d4" for it's Base Dice). If instead a "Broadhead Light Arrow" were used which has a +0 Base Dice Adjustment, then the Combat Roll would have a Base Dice of +0 ("3d6" for it's Base Dice).
+Making a new version of a Combat Roll by giving a small improvement to it's Base Dice Adjustment is a great way to make unique weapons, to allow characters to upgrade their equipment, or to represent higher quality ammo.
 
 ### Dice Pool Modifier
 
 Represent either an addition or subtraction of dice to the Combat Roll Dice Pool. Used to represent how significant of a force multiplier a Combat Roll is. The more effective the Combat Roll, the larger the dice pool modification.
 
-*Represent either an addition or subtraction of dice to the Combat Roll Dice Pool in which this Ammo is being used. Used to represent Ammo that significantly modifies the combat effectiveness of the Combat Roll.
-
-For example, a bomb arrow is significantly more dangerous than a standard arrow, so it would receive additional dice. However, a blunted practice arrow (such as the comical boxing glove arrow) is significantly less dangerous than a standard arrow, so it would lose dice.
+For example, a bomb arrow is significantly more dangerous than a conventional arrow, so it would receive additional dice. However, a blunted practice arrow (such as the comical boxing glove arrow) is significantly less dangerous than a standard arrow, so it would lose dice compared to a conventional arrow.
 
 ### Penetration
 
-The amount of Penetration versus an opponents defense to the Damage Type the Combat Roll deals. See the Penetration rules for more details.
-
-*Adjusts the Penetration for the Combat Roll the Ammo is being used with.
-
-For example, let's say a character has a "Two-handed Light Crossbow" Combat Roll which has a 0 Penetration. If the character were to use a "Bodkin Light Arrow" which has a +1 Penetration Adjustment, then the Combat Roll would have 1 Penetration.
+The amount of Penetration versus an opponents Defense to the Damage Type the Combat Roll deals. See the Penetration rules for more details.
 
 ### Ranges
 
-The distance at the Combat Roll can be used. See the Range rules for more details.
-
-*If "None", than use the Combat Roll's Range this Ammo is being used with. Otherwise, override the Combat Roll's Range stat with the Range specified by the Ammo.
-
-This can represent self propelled projectiles, high pressure firearm rounds, ect...
+The Ranges the Combat Roll can be used at. See the Range rules for more details.
 
 ### Uses Per Round
 
-The amount of times a Combat Roll be used during a round. See the Uses Per Round rules for more details.
+The amount of times a Combat Roll be used during a combat round. See the Uses Per Round rules for more details.
 
 ### Area Of Effect
 
-The shape and dimensions the Combat Roll creates. See the Area Of Effect rules for more details.
+The shape and dimensions the Combat Roll creates when used. See the Area Of Effect rules for more details.
 
-*If "None", than use the Combat Roll's Area Of Effect this Ammo is being used with. Otherwise, override the Combat Roll's Optional Area Of Effect stat with the Area Of Effect specified by the Ammo.
+### Resource And Amount Per Use
 
-This can represent a bomb arrow, an explosive rounds, ect...
-
-### Resource Type And Amount Per Use
-
-The Resource Type required to use the Combat Roll and the amount consumed per use of the Combat Roll. See the Resource Pool and Ammo rules for more details.
-
-*Describes a type of resource, which in ammo's case usually describes which weapons can use it.
-
-For example, a "Broadhead Light Arrow" and a "Barbed Light Arrow" both share the Resource Type "Light Arrow". Therefore, any Combat Roll that has an Resource Type of "Light Arrow" could use either of these arrows.
+The Resource required to use the Combat Roll and the amount consumed per use of the Combat Roll. See the Resource Pool and Ammo rules for more details.
 
 ### Damage Types
 
 The types of Damage a weapon inflicts when dealing injuries.
 
-*Overrides the Combat Roll's Damage Types stat with the Damage Types specified by the Ammo.
-
-For example, a flaming arrow might have a Damage Types stat of "Pierce, Fire".
-
 ### Governing Skill Name
 
-The Skill that governs this combat roll.
+The Skill that governs the Combat Roll.
 
 ### Description
 
-Gives some narrative description of the combat roll. Addition feature specific to the combat roll will be included here, such as being usable while grappled or restricted in confined spaces.
+Gives some narrative description of the Combat Roll. Addition features specific to the Combat Roll will be included here, such as being usable while grappled or restricted in confined spaces.
 
 ### Duration
 
-Describes how long the Combat Roll effect is usable for. For most conventional weapons, this is "Indefinite". However, if a spell were being used, this may vary.
+Describes how long the Combat Roll effect is usable for. For most conventional weapons, this is "Indefinite".
 
 ### Source
 
-Describes where this Combat Roll is coming from. If it is coming from an item the character possess, such as a sword, than the name of the item would be the source. If the Combat Roll is innate to the character, such as claws, than the source would be "Innate".
+Describes where this Combat Roll is coming from. If it is coming from an item the character possess, than the name of the item would be used. If the Combat Roll is innate to the character, such as claws, than the source would be "Innate".
 
-|                                 Name                                 | Variation    |       Combat Roll Type       | Optional Resource Type And Amount | Base Dice Adjustment | Dice Pool Modifier | Penetration |                                        Ranges                                        | Uses Per Round | OptionalArea Of Effects |  Damage Types  | Governing Skill Name |                                                             Description                                                             |  Duration  | Source |
+|                                 Name                                 | Variation    |       Combat Roll Type       |   Optional Resource And Amount   | Base Dice Adjustment | Dice Pool Modifier | Penetration |                                        Ranges                                        | Uses Per Round | OptionalArea Of Effects |  Damage Types  | Governing Skill Name |                                                             Description                                                             |  Duration  | Source |
 | :-------------------------------------------------------------------: | ------------ | :--------------------------: | :-------------------------------: | :------------------: | :----------------: | :---------: | :-----------------------------------------------------------------------------------: | :------------: | :---------------------: | :------------: | :------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :--------: | :----: |
 |                         Dual-wielded Unarmed                         | Dual-wielded |           Unarmed           |               None               |          +0          |        -1d        |      0      |                                         Melee                                         |     Swift     |          None          |    Bludgeon    |     Close Melee     |                                           Just your bare hands. Can be used in a Grapple.                                           | Indefinite | Innate |
 |                                                                      |              |                              |                                  |                      |                    |            |                                                                                      |                |                        |                |                      |                                                                                                                                    |            |        |
@@ -1372,36 +1344,13 @@ Describes where this Combat Roll is coming from. If it is coming from an item th
 
 ### Combat Roll Dice Pool
 
-A Combat Roll Dice Pool is the result of the Governing Skill Dice Pool modified by the Combat Roll's "Dice Pool Modifier" and "Base Dice Adjustment" ( including the same stats on any Ammo being used as part of the Combat Roll ). This Dice Pool represent's the character's effectiveness in combat.
+Represent's the character's effectiveness in combat. 
 
-- +Base Dice (defaults to 3d6, varies with Base Dice Adjustments from the Combat Roll and Ammo)
-- +/- 1d6 per Weapon Skill
-- +/- 1d6 per STR, RFX, or INT if Governing Attribute of Combat Skill
-- +/- Combat Roll's Dice Pool Mods
-- +/- Ammo's Dice Pool Mods if used
+To calculated a Combat Roll's Dice Pool start with the Governing Skill's Dice Pool. Next, adjust it's Base Dice by the Combat Roll's Base Dice Adjustment. Finally, modify the resulting Dice Pool from the previous step by the Combat Roll's Dice Pool Modifier.
 
-**Example 1:**
+**Example**
 
-Javk Wick the rogue has a rapier he's dual-wielding with his dagger. This would be the "Dual-wielded Pierce Medium Melee" combat roll. He has level 2 in Medium Melee and level 1 in Close Melee. He has Level 1 RFX.
-
-- +3d6 (Base Dice)
-- +2d6 (Level 2 Medium Sword Skill)
-- +1d6 (Level 1 RFX)
-- +2d6 (Dual-wielded Pierce Medium Melee)
-
-Based on the dice above, Javk uses his sword and dagger for thrusting rolls 8d6.
-
-**Example 2:**
-
-Javk Wick the rogue has a Light Crossbow and Light Bolt - Standards. He has a weapon skill of level 1 with the Crossbow Skill. He has level 1 in RFX.
-
-- +3d6 (Base Dice)
-- +1d6 (Level 1 Light Crossbow Skill)
-- +1d6 (Level 1 RFX)
-- +2d6 (Light Crossbow Two-Handed)
-- +0d6 (Broadhead Light Bolt)
-
-Based on the dice above, Javk using his Light Crossbow has a 7d6.
+Javk Wick the Rogue has two daggers he's dual-weilding. He wants to calculate the "Dual-wielded Slash Close Melee" Combat Roll his dagger's allow him to perfom. First, we start with determining what the Governing Skill is for "Dual-wielded Slash Close Melee" which is "Close Melee". Next, we determine that Javk's "Close Melee" Dice Pool is 6d6. Then, we adjust the tier of the Base Dice by the Combat Roll's Base Dice Adjustment which takes us from tier 0 (3d6) to tier 1 (1d8, 2d6), meaning the resulting Dice Pool is now "1d8, 5d6". Finally, we modify "1d8, 5d6" by the Combat Roll's Dice Pool Modifier of "+1d6" resulting in a "1d8, 6d6" Dice Pool for our Combat Roll.
 
 ## Combat Rounds
 
@@ -2199,7 +2148,7 @@ Add Max Resource calculation.
 |       Focus Resource Pool Max       |      0      |             Will             |            Runesmith            |
 |       Ichor Resource Pool Max       |      0      |             Will             |            Brightkin            |
 
-|                      Name                      |                                                                                                                                                                                                                                                                                                          description                                                                                                                                                                                                                                                                                                          |   Source   |       Duration       |         Resource Type         | Amount |     Optional Resource Pool Max     | is Amount Tied To Item Stack Quantity |
+|                      Name                      |                                                                                                                                                                                                                                                                                                          description                                                                                                                                                                                                                                                                                                          |   Source   |       Duration       |            Resource            | Amount |     Optional Resource Pool Max     | is Amount Tied To Item Stack Quantity |
 | :--------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: | :-------------------: | :----------------------------: | :----: | :---------------------------------: | :-----------------------------------: |
 |       Negative Strength Point (Level -2)       |                                                                                                                          A character with negative STR is less resistant/durable against physical/bodily damage types. In combat, for every negative point in STR the Narrator can increase a Victory Level achieved against them once every combat encounter. Outside of combat, for every negative point in STR the Narrator can increase an injury against a character as many times as they want.                                                                                                                          |   Innate   |      Indefinite      |    Negative Strength Point    |   2   |                  2                  |                 FALSE                 |
 |       Negative Strength Point (Level -1)       |                                                                                                                          A character with negative STR is less resistant/durable against physical/bodily damage types. In combat, for every negative point in STR the Narrator can increase a Victory Level achieved against them once every combat encounter. Outside of combat, for every negative point in STR the Narrator can increase an injury against a character as many times as they want.                                                                                                                          |   Innate   |      Indefinite      |    Negative Strength Point    |   1   |                  1                  |                 FALSE                 |
@@ -2301,7 +2250,7 @@ Add Max Resource calculation.
 
 **Resource:** Describes the individual thing the Resource Pool is made up of.
 
-If the "Resource" property matches with the "Name" of an Ammo, then the individual parts of that Resource Pool is that Ammo. Instead of using the "Resource" property on the Resource Pool to see if it is compatible with a Combat Roll, you instead use the Ammo's "Resource" property. For instance, take the "Resource Pool: Bodkin Light Bolts" Resource Pool. Since it's "Resource" is "Bodkin Light Bolt" which is an Ammo, we look to the Ammo's "Resource" property to see if it is compatable with certain weapons. In our example, that means that any Combat Roll that uses "Light Bolt" as it's "Resource Type Pool Option" is compatible with our Resouce Pool.
+If the "Resource" property matches with the "Name" of an Ammo, then the individual parts of that Resource Pool is that Ammo. Instead of using the "Resource" property on the Resource Pool to see if it is compatible with a Combat Roll, you instead use the Ammo's "Resource" property. For instance, take the "Resource Pool: Bodkin Light Bolts" Resource Pool. Since it's "Resource" is "Bodkin Light Bolt" which is an Ammo, we look to the Ammo's "Resource" property to see if it is compatable with certain weapons. In our example, that means that any Combat Roll that uses "Light Bolt" as it's "Resource Pool Option" is compatible with our Resouce Pool.
 
 Else, the "Resource" is whatever was specified.
 
