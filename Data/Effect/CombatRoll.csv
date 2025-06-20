@@ -128,6 +128,17 @@ Two-handed Light Bow with Rusted Light Arrow,Two-handed,Light Bow,"Rusted Light 
 Two-handed Light Bow with Wooden Light Arrow,Two-handed,Light Bow,"Wooden Light Arrow, 1",-1,+1d6,-1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift,None,Pierce,Light Bow,Bows favoring easier drawing versus power.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
+Two-handed Heavy Bow with Broadhead Heavy Arrow,Two-handed,Heavy Bow,"Broadhead Heavy Arrow, 1",+0,+2d6,2,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Quick,None,Pierce,Heavy Bow,Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,Indefinite,Innate
+,,,,,,,,,,,,,,
+Two-handed Heavy Bow with Barbed Heavy Arrow,Two-handed,Heavy Bow,"Barbed Heavy Arrow, 1",+1,+2d6,2,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Quick,None,Pierce,Heavy Bow,Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,Indefinite,Innate
+,,,,,,,,,,,,,,
+Two-handed Heavy Bow with Bodkin Heavy Arrow,Two-handed,Heavy Bow,"Bodkin Heavy Arrow, 1",+0,+2d6,3,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Quick,None,Pierce,Heavy Bow,Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,Indefinite,Innate
+,,,,,,,,,,,,,,
+Two-handed Heavy Bow with Rusted Heavy Arrow,Two-handed,Heavy Bow,"Rusted Heavy Arrow, 1",-1,+2d6,2,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Quick,None,Pierce,Heavy Bow,Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,Indefinite,Innate
+,,,,,,,,,,,,,,
+Two-handed Heavy Bow with Wooden Heavy Arrow,Two-handed,Heavy Bow,"Wooden Heavy Arrow, 1",-1,+2d6,1,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Quick,None,Pierce,Heavy Bow,Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,Indefinite,Innate
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
 One-handed Blowgun with Poison Blowgun Dart,One-handed,Blowgun,"Poison Blowgun Dart, 1",+0,+0d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,Poison,Exotic Ranged,A long narrow tube that propels darts using the force of the force of the users's breath.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
