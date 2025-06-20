@@ -10,35 +10,3 @@ Barbed Heavy Arrow,Heavy Arrow,+0d6,+1,0,"Pierce, Bleed",None,None
 Bodkin Heavy Arrow,Heavy Arrow,+0d6,+0,1,Pierce,None,None
 Wooden Heavy Arrow,Heavy Arrow,+0d6,-1,-1,Pierce,None,None
 Rusted Heavy Arrow,Heavy Arrow,+0d6,-1,0,Pierce,None,None
-,,,,,,,
-Broadhead Light Bolt,Light Bolt,+0d6,+0,0,Pierce,None,None
-Barbed Light Bolt,Light Bolt,+0d6,+1,0,"Pierce, Bleed",None,None
-Bodkin Light Bolt,Light Bolt,+0d6,+0,1,Pierce,None,None
-Wooden Light Bolt,Light Bolt,+0d6,-1,-1,Pierce,None,None
-Rusted Light Bolt,Light Bolt,+0d6,-1,0,Pierce,None,None
-,,,,,,,
-Broadhead Light Bolt,Heavy Bolt,+0d6,+0,0,Pierce,None,None
-Barbed Light Bolt,Heavy Bolt,+0d6,+1,0,"Pierce, Bleed",None,None
-Bodkin Light Bolt,Heavy Bolt,+0d6,+0,1,Pierce,None,None
-Wooden Light Bolt,Heavy Bolt,+0d6,-1,-1,Pierce,None,None
-Rusted Light Bolt,Heavy Bolt,+0d6,-1,0,Pierce,None,None
-,,,,,,,
-Poison Blowgun Dart,Blowgun Dart,+0d6,+0,0,Poison,None,None
-,,,,,,,
-Sling Bullet,Sling Bullet,+0d6,+0,0,Bludgeon,None,None
-,,,,,,,
-Muzzleloading Pistol Cartridge,Muzzleloading Pistol Cartridge,+0d6,+0,0,Pierce,None,None
-,,,,,,,
-Arquebus Cartridge,Arquebus Cartridge,+0d6,+0,0,Pierce,None,None
-,,,,,,,
-Musket Cartridge,Musket Cartridge,+0d6,+0,0,Pierce,None,None
-,,,,,,,
-FMJ 9mm Round,9mm Round,+0d6,+0,0,Pierce,None,None
-,,,,,,,
-FMJ 5.56 Round,5.56 Round,+0d6,+0,0,Pierce,None,None
-,,,,,,,
-FMJ .308 Round,.308 Round,+0d6,+0,0,Pierce,None,None
-,,,,,,,
-Buckshot 12 Gauge Shell,12 Gauge Shell,+0d6,+0,0,Pierce,None,None
-,,,,,,,
-Explosive RPG Round,RPG Round,+0d6,+0,0,"Fire, Shockwave",None,30 ft Sphere
