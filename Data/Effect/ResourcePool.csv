@@ -26,14 +26,14 @@ Charisma Point (Level 5),"For each level above 0 in CHA, a character can give th
 Destiny Point Pool,"A character can hold a max of 3 Destiny Points. Spending a ""Preemptive Destiny Point"" before rolling a dice pool gives Advantage on the resulting roll. Spending ""Post Roll Destiny Points"" adds additional Wins for each point spent, with the total Wins never exceeding the size of the dice pool. Destiny points are awarded when players perform actions that the narrator wants to encourage. Examples include showing up to the game on time, exceptional roleplay, accomplishing a narrative milestone, and doing something in line with their character's personality even if at the detriment of wealth or progress.",Indefinite,Given by The Narrator,Destiny Point,0,3,FALSE
 Destiny Chosen,Destiny Point Cap set to 6. Gain an additional Destiny Point whenever one is gained. Destiny begins to shape around the user's true desires.,Indefinite,Given by The Narrator,Destiny Point,0,6,FALSE
 ,,,,,,,
-HP Pool,,,,HP,10,10,FALSE
-HP Pool with Cap,,,,HP,10,None,FALSE
+HP Pool,Represent a Health Point Pool.,Indefinite,Indefinite,HP,10,10,FALSE
+HP Pool with Cap,Represent a Health Point Pool with a cap.,Indefinite,Indefinite,HP,10,None,FALSE
 ,,,,,,,
-Mana Pool,,Innate,Indefinite,Mana,10,Mana Resource Pool Max,FALSE
-Nature Connection Pool,,Innate,Indefinite,Nature Connection,10,Nature Connection Resource Pool Max,FALSE
-Fellblood Pool,,Innate,Indefinite,Fellblood,10,Fellblood Resource Pool Max,FALSE
-Focus Pool,,Innate,Indefinite,Focus,10,Focus Resource Pool Max,FALSE
-Ichor Pool,,Innate,Indefinite,Ichor,10,Ichor Resource Pool Max,FALSE
+Mana Pool,Resource Pool for magic.,Innate,Indefinite,Mana,10,Mana Resource Pool Max,FALSE
+Nature Connection Pool,Resource Pool for Druidcraft.,Innate,Indefinite,Nature Connection,10,Nature Connection Resource Pool Max,FALSE
+Fellblood Pool,Resource Pool for Fellcraft.,Innate,Indefinite,Fellblood,10,Fellblood Resource Pool Max,FALSE
+Focus Pool,Resource Pool for Runecraft.,Innate,Indefinite,Focus,10,Focus Resource Pool Max,FALSE
+Ichor Pool,Resource Pool for Miracles.,Innate,Indefinite,Ichor,10,Ichor Resource Pool Max,FALSE
 ,,,,,,,
 Resource Pool: Thrown Slash Close Melee -1,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Slash Close Melee -1,1,None,TRUE
 Resource Pool: Thrown Slash Close Melee,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Slash Close Melee,1,None,TRUE
