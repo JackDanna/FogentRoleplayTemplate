@@ -824,7 +824,7 @@ The final result of all of the Ranges would be "Long (Normal): 0 - 140 ft, Long 
 
 ## Area Of Effect
 
-An Area Of Effect describes a 3D space. They can be used to desribe any action that will cover a chunk of space, often used for certain attacks such as an explosions.
+An Area Of Effect describes a 3D space. They can be used to describe any action that will cover a chunk of space, often used for certain attacks such as an explosions.
 
 All Area Of Effects will have a point of origin from which they will emanate from. This will vary based on the different shapes of the Area of Effects.
 
@@ -836,7 +836,7 @@ For example let's say we want to add gradations to how effective a modern hand g
 
 If Area Of Effects from an action overlap each other, than the most advantageous Area Of Effects can be used.
 
-Area Of Effects with a "... Per Dice" column can scales with the size of the governing Skill Dice Pool the action is associated with. For example, this could be used for a magic users to have the size of their area of effects scaling with their proficiency with their magic.
+Area Of Effects with a "... Per Dice" column can scales with the size of the Governing Skill Dice Pool. For example, this could be used for a magic users to have the size of their area of effects scaling with their proficiency with their magic.
 
 ### Box
 
@@ -864,7 +864,7 @@ Point of Origin: The center of the Sphere
 
 Point of Origin: A Cone point of origin will be the narrowest point of the cone, from which it will emanate out from.
 
-If a cone has an angle of 53.13, than the cone's width is equal to its length at any given point. which means that the cone's area of effect is specified by its maximum length. For example, a cone spell with a range of 15 ft will extend up to 15 ft away from the point of origin, and at any point, its width matches its length.
+If a cone has an angle of 53.13 degrees, than the cone's width is equal to its length at any given point. which means that the cone's area of effect is specified by its maximum length. For example, a cone spell with a range of 15 ft will extend up to 15 ft away from the point of origin, and at any point, its width matches its length.
 
 |          Name          | Angle | Length Base | Length Per Dice |
 | :---------------------: | :---: | :---------: | :-------------: |
@@ -934,7 +934,7 @@ If characters have loaded weapons (for instance loaded muzzle loading firearms) 
 
 #### Example
 
-Let's say a character a Combat Roll with a Uses Per Round of "Quick". The governing Skill Dice Pool for said Combat Roll is 7d6.
+Let's say a character's Uses Per Round for thier Combat Roll is "Quick". The governing Skill Dice Pool for said Combat Roll is 7d6.
 
 0 + ( 0.34 * 7 ) = 2.38
 
@@ -1344,7 +1344,7 @@ Describes where this Combat Roll is coming from. If it is coming from an item th
 
 ### Combat Roll Dice Pool
 
-Represent's the character's effectiveness in combat. 
+Represent's the character's effectiveness in combat.
 
 To calculated a Combat Roll's Dice Pool start with the Governing Skill's Dice Pool. Next, adjust it's Base Dice by the Combat Roll's Base Dice Adjustment. Finally, modify the resulting Dice Pool from the previous step by the Combat Roll's Dice Pool Modifier.
 
