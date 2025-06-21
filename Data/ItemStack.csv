@@ -6,6 +6,22 @@ Light Hammer,1,"One-handed Bludgeon Close Melee, Dual-wielded Bludgeon Close Mel
 Crowbar,1,"One-handed Bludgeon Close Melee, Dual-wielded Bludgeon Close Melee, One-handed Thrown Bludgeon Close Melee, Dual-wielded Thrown Bludgeon Close Melee, Resource Pool: Thrown Bludgeon Close Melee",5,2 bc,
 Hammer,1,"One-handed Bludgeon Close Melee, Dual-wielded Bludgeon Close Melee, One-handed Thrown Bludgeon Close Melee, Dual-wielded Thrown Bludgeon Close Melee, Resource Pool: Thrown Bludgeon Close Melee",3,1 bc,
 Club,1,"One-handed Bludgeon Close Melee, Dual-wielded Bludgeon Close Melee, One-handed Thrown Bludgeon Close Melee, Dual-wielded Thrown Bludgeon Close Melee, Resource Pool: Thrown Bludgeon Close Melee",2,10 cc,
+Shoddy Club,1,"One-handed Bludgeon Close Melee, Dual-wielded Bludgeon Close Melee, One-handed Thrown Bludgeon Close Melee, Dual-wielded Thrown Bludgeon Close Melee, Resource Pool: Thrown Bludgeon Close Melee",2,10 cc,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Monkey Staff,1,"One-handed Bludgeon Close Melee +3, Dual-wielded Bludgeon Close Melee +3, One-handed Thrown Bludgeon Close Melee +3, Dual-wielded Thrown Bludgeon Close Melee +3, Resource Pool: Thrown Bludgeon Close Melee +3, One-handed Bludgeon Medium Melee +3, Two-handed Bludgeon Medium Melee +3, Dual-wielded Bludgeon Medium Melee +3, One-handed Bludgeon Large Melee +3, Two-handed Bludgeon Large Melee +3, One-handed Bludgeon Reach Melee +3, Two-handed Bludgeon Reach Melee +3, Extendable Weapon",4,?,"""Monkey see, Monkey do"" - Arinoth the Enlightened
+
+A staff from the Jungles of Leodelphia. This is all that remains of Arinoth the Enlightened's home."
+,,,,,
 ,,,,,
 ,,,,,
 ,,,,,
@@ -130,9 +146,6 @@ Sirius’s Sword,1,"One-handed Pierce Medium Melee +2, Dual-wielded Pierce Mediu
 
 House Roseblood isn't as wealthy as it once was during the height of the witch queen's reign. As a result, they do not have the coin for the finest craftsmen for children’s swords, owing to the more modest nature of this sword."
 Staff of Defense,1,"One-handed Bludgeon Large Melee +3, Two-handed Bludgeon Large Melee +3, Spellcasting Focus, Defense Spells, Physical Defense 1.00",3,?,
-Monkey Staff,1,"One-handed Bludgeon Close Melee +3, Dual-wielded Bludgeon Close Melee +3, One-handed Thrown Bludgeon Close Melee +3, Dual-wielded Thrown Bludgeon Close Melee +3, Resource Pool: Thrown Bludgeon Close Melee +3, One-handed Bludgeon Medium Melee +3, Two-handed Bludgeon Medium Melee +3, Dual-wielded Bludgeon Medium Melee +3, One-handed Bludgeon Large Melee +3, Two-handed Bludgeon Large Melee +3, One-handed Bludgeon Reach Melee +3, Two-handed Bludgeon Reach Melee +3, Extendable Weapon",4,?,"""Monkey see, Monkey do"" - Arinoth the Enlightened
-
-A staff from the Jungles of Leodelphia. This is all that remains of Arinoth the Enlightened's home."
 Hew,1,"One-handed Hew Medium Melee +3, Two-handed Hew Medium Melee +3, Dual-wielded Hew Medium Melee +3, Splinter",4,?,"""When you chop wood, splinters fly.""  - Anonymous
 
 An unassuming double bladed, rusty, yet excellently crafted battleaxe both as versatile at chopping wood as chopping skulls.
@@ -223,7 +236,6 @@ Shovel,1,"One-handed Bludgeon Large Melee -1, Two-handed Bludgeon Large Melee -1
 Excellent Light Longbow,1,Two-handed Light Bow +3,2,25 bc,
 Quality Swordbreaker,1,"One-handed Slash Close Melee +1, Dual-wielded Slash Close Melee +1, One-handed Pierce Close Melee -1, Dual-wielded Pierce Close Melee -1, One-handed Thrown Pierce Close Melee -1, Dual-wielded Thrown Pierce Close Melee -1, Resource Pool: Thrown Pierce Close Melee -1, Swordbreaker Blade Catch",1,28 bc,
 Shiv,1,"One-handed Pierce Close Melee -1, Dual-wielded Pierce Close Melee -1, One-handed Slash Close Melee -1, Dual-wielded Slash Close Melee -1, One-handed Thrown Pierce Close Melee -1, Dual-wielded Thrown Pierce Close Melee -1, Resource Pool: Thrown Pierce Close Melee -1",1,70 cc,
-Shoddy Club,1,"One-handed Bludgeon Close Melee, Dual-wielded Bludgeon Close Melee, One-handed Thrown Bludgeon Close Melee, Dual-wielded Thrown Bludgeon Close Melee, Resource Pool: Thrown Bludgeon Close Melee",2,10 cc,
 Spiked Caestus,1,"One-handed Pierce Close Melee, Dual-wielded Pierce Close Melee",2,3 bc,
 ,,,,,
 Gambeson Armor,1,Gambeson Armor Defense,8,5 bc,
