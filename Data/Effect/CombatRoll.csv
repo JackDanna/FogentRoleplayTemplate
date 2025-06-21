@@ -7,8 +7,8 @@ Dual-wielded Torch Close Melee,Dual-wielded,Torch Close Melee,None,-1,+1d6,0,Mel
 One-handed Bludgeon Close Melee,One-handed,Bludgeon Close Melee,None,-1,+0d6,0,Melee,Swift,None,Bludgeon,Close Melee,"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",Indefinite,Innate
 Dual-wielded Bludgeon Close Melee,Dual-wielded,Bludgeon Close Melee,None,-1,+1d6,0,Melee,Swift +1,None,Bludgeon,Close Melee,"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Bludgeon Close Melee +1,One-handed,Bludgeon Close Melee +1,None,+1,+0d6,0,Melee,Swift,None,Bludgeon,Close Melee,"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",Indefinite,Innate
-Dual-wielded Bludgeon Close Melee +1,Dual-wielded,Bludgeon Close Melee +1,None,+1,+1d6,0,Melee,Swift +1,None,Bludgeon,Close Melee,"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",Indefinite,Innate
+One-handed Bludgeon Close Melee +1,One-handed,Bludgeon Close Melee +1,None,+0,+0d6,0,Melee,Swift,None,Bludgeon,Close Melee,"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",Indefinite,Innate
+Dual-wielded Bludgeon Close Melee +1,Dual-wielded,Bludgeon Close Melee +1,None,+0,+1d6,0,Melee,Swift +1,None,Bludgeon,Close Melee,"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",Indefinite,Innate
 ,,,,,,,,,,,,,,
 One-handed Pierce Close Melee,One-handed,Pierce Close Melee,None,+0,+0d6,0,Melee,Swift,None,Pierce,Close Melee,"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
 Dual-wielded Pierce Close Melee,Dual-wielded,Pierce Close Melee,None,+0,+1d6,0,Melee,Swift +1,None,Pierce,Close Melee,"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
