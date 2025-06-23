@@ -61,26 +61,18 @@ Resource Pool: Thrown Large Spear +7,Resources representing how many throwing co
 Resource Pool: Broadhead Light Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Broadhead Light Arrow,20,None,TRUE
 Resource Pool: Barbed Light Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Barbed Light Arrow,20,None,TRUE
 Resource Pool: Bodkin Light Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Bodkin Light Arrow,20,None,TRUE
-Resource Pool: Wooden Light Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Wooden Light Arrow,20,None,TRUE
-Resource Pool: Rusted Light Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Rusted Light Arrow,20,None,TRUE
 ,,,,,,,
 Resource Pool: Broadhead Heavy Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Broadhead Heavy Arrow,20,None,TRUE
 Resource Pool: Barbed Heavy Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Barbed Heavy Arrow,20,None,TRUE
 Resource Pool: Bodkin Heavy Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Bodkin Heavy Arrow,20,None,TRUE
-Resource Pool: Wooden Heavy Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Wooden Heavy Arrow,20,None,TRUE
-Resource Pool: Rusted Heavy Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Rusted Heavy Arrow,20,None,TRUE
 ,,,,,,,
 Resource Pool: Broadhead Light Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Broadhead Light Bolt,20,None,TRUE
 Resource Pool: Barbed Light Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Barbed Light Bolt,20,None,TRUE
 Resource Pool: Bodkin Light Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Bodkin Light Bolt,20,None,TRUE
-Resource Pool: Wooden Light Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Wooden Light Bolt,20,None,TRUE
-Resource Pool: Rusted Light Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Rusted Light Bolt,20,None,TRUE
 ,,,,,,,
 Resource Pool: Broadhead Heavy Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Broadhead Light Bolt,20,None,TRUE
 Resource Pool: Barbed Heavy Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Barbed Light Bolt,20,None,TRUE
 Resource Pool: Bodkin Heavy Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Bodkin Light Bolt,20,None,TRUE
-Resource Pool: Wooden Heavy Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Wooden Light Bolt,20,None,TRUE
-Resource Pool: Rusted Heavy Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Rusted Light Bolt,20,None,TRUE
 ,,,,,,,
 Resource Pool: Poison Blowgun Darts,Ammunition for Combat Rolls.,Indefinite,Innate,Poison Blowgun Dart,20,None,TRUE
 ,,,,,,,
