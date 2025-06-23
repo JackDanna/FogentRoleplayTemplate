@@ -1050,89 +1050,37 @@ The rider's Dexterity dice pool size is used for the mounts Dexterity Movement S
 
 ## Combat Roll
 
-Describes how a character is participating in combat.
+Represents how a character is performing combat. A Combat Roll could represent swinging a greatsword with both hands, dual-wielding pistols, throwing a javelin, ect...
 
-Is your character using both of their hands on their greatsword while swinging in large slashing arcs, that's a combat roll. Is a character holding a torch in one hand and firing a pistol in the other, that's a combat roll.
+**Name:** The name of a Combat Roll is conventionally formatted the following way: "(Varation) (Combat Roll Type) with (Resource)". This isn't required but helps to keep things consistent.
 
-Combat Rolls come on all weapons and offensive spells. Some weapons might even have multiple combat rolls, such as a sword that can either thrust or swung.
+**Variation:** Represents the variety of ways a combat roll type might be able to be used. Generally, it describes how a character's hands (or other appendages) will be occupied as part of the Combat Roll. This is very important when defining a Combat Roll, as some weapons would be impossible to use with one hand (such as a bow). "One-handed" denotes only one hand is being used which frees up the other hand to hold a shield, a light source, an important item, etc... "Two-handed" denotes two hands are being used meaning both their hands are required. "Dual-wielded" denotes a hand is being used on a main weapon with the other hand is being used on another off hand weapon. Dual-weilding is only for attacks/weapons that wouldn't encumber the user if one were held in each hand.
 
-The right Combat Roll can dramatically improve the chances of getting more wins in a combat, make it possible to engage opponents at far distances, enable rapid engagement of multiple opponents, deal various types of damages which an opponents might be weak to, etc...
+**Combat Roll Type:** Just describes type of the combat roll.
 
-### Name
+**Base Dice Adjustment:** Adjusts the tier of the Base Dice for the Combat Roll. This generally is used to adjust the consistency and reliability of the Combat Roll. Making a new version of a Combat Roll by giving a small improvement to it's Base Dice Adjustment is a great way to make unique weapons, to allow characters to upgrade their equipment, or to represent higher quality ammo.
 
-The name of a Combat Roll is conventionally formatted the following way: "(Varation) (Combat Roll Type) with (Resource)". This isn't required but helps to keep things consistent.
+**Dice Pool Modifier:** Represent either an addition or subtraction of dice to the Combat Roll Dice Pool. Used to represent how significant of a force multiplier a Combat Roll is. The more effective the Combat Roll, the larger the dice pool modification. For example, a bomb arrow is significantly more dangerous than a conventional arrow, so it would receive additional dice.
 
-### Variation
+**Penetration:** The amount of Penetration versus an opponents Defense to the Damage Type the Combat Roll deals. See the Penetration rules for more details.
 
-Describes the variety of ways a combat roll type might be able to be used. Generally, it describes how a character's hands (or other appendages) will be occupied as part of the Combat Roll. This is very important when defining a Combat Roll, as some weapons would be impossible to use with one hand (such as a bow).
+**Ranges:** The Ranges the Combat Roll can be used at. See the Range rules for more details.
 
-**One-handed**
+**Uses Per Round:** The amount of times the Combat Roll can be used during a combat round. See the Uses Per Round rules for more details.
 
-One hand or equivalent appendage is being used. This frees up the other hand to hold a shield, another weapon, an important item, etc...
+**Area Of Effect:** The shape and dimensions the Combat Roll creates when used. See the Area Of Effect rules for more details.
 
-**Two-handed**
+**Resource And Amount Per Use:** The Resource and amount consumed per use of the Combat Roll. See the Resource Pool rules for more details.
 
-Two hands or equivalent appendages are being used. For characters with only two hands, this means both their hands are required.
+**Damage Types:** The types of damage a weapon inflicts when dealing injuries.
 
-**Dual-wielded**
+**Governing Skill Name:** The Skill that governs the Combat Roll.
 
-One hand is being used on a main weapon and the other hand is being used on another independent weapon. Only for weapons that wouldn't encumber the user if one were held in each hand (generally Medium to small sized weapons). To dual wield, a character must have at least one skill point in both of the weapons held.
+**Description:** A description of the Combat Roll. Addition features specific to the Combat Roll will be included here, such as being usable while grappled or restricted in confined spaces.
 
-### Combat Roll Type
+**Duration:** Describes how long the Combat Roll effect is usable for. For most conventional weapons, this is "Indefinite".
 
-Just describes type of the combat roll.
-
-### Base Dice Adjustment
-
-Adjusts the tier of the Base Dice for the Combat Roll. This generally is used to adjust the consistency and reliability of the Combat Roll.
-
-Making a new version of a Combat Roll by giving a small improvement to it's Base Dice Adjustment is a great way to make unique weapons, to allow characters to upgrade their equipment, or to represent higher quality ammo.
-
-### Dice Pool Modifier
-
-Represent either an addition or subtraction of dice to the Combat Roll Dice Pool. Used to represent how significant of a force multiplier a Combat Roll is. The more effective the Combat Roll, the larger the dice pool modification.
-
-For example, a bomb arrow is significantly more dangerous than a conventional arrow, so it would receive additional dice. However, a blunted practice arrow (such as the comical boxing glove arrow) is significantly less dangerous than a standard arrow, so it would lose dice compared to a conventional arrow.
-
-### Penetration
-
-The amount of Penetration versus an opponents Defense to the Damage Type the Combat Roll deals. See the Penetration rules for more details.
-
-### Ranges
-
-The Ranges the Combat Roll can be used at. See the Range rules for more details.
-
-### Uses Per Round
-
-The amount of times a Combat Roll be used during a combat round. See the Uses Per Round rules for more details.
-
-### Area Of Effect
-
-The shape and dimensions the Combat Roll creates when used. See the Area Of Effect rules for more details.
-
-### Resource And Amount Per Use
-
-The Resource required to use the Combat Roll and the amount consumed per use of the Combat Roll. See the Resource Pool and Ammo rules for more details.
-
-### Damage Types
-
-The types of Damage a weapon inflicts when dealing injuries.
-
-### Governing Skill Name
-
-The Skill that governs the Combat Roll.
-
-### Description
-
-Gives some narrative description of the Combat Roll. Addition features specific to the Combat Roll will be included here, such as being usable while grappled or restricted in confined spaces.
-
-### Duration
-
-Describes how long the Combat Roll effect is usable for. For most conventional weapons, this is "Indefinite".
-
-### Source
-
-Describes where this Combat Roll is coming from. If it is coming from an item the character possess, than the name of the item would be used. If the Combat Roll is innate to the character, such as claws, than the source would be "Innate".
+**Source:** Describes where this Combat Roll is coming from. If it is coming from an item the character possess, than the name of the item would be used. If the Combat Roll is innate to the character, such as claws, than the source would be "Innate".
 
 |                                 Name                                 | Variation    |       Combat Roll Type       |   Optional Resource And Amount   | Base Dice Adjustment | Dice Pool Modifier | Penetration |                                        Ranges                                        | Uses Per Round | OptionalArea Of Effects |  Damage Types  | Governing Skill Name |                                                             Description                                                             |  Duration  | Source |
 | :-------------------------------------------------------------------: | ------------ | :--------------------------: | :-------------------------------: | :------------------: | :----------------: | :---------: | :-----------------------------------------------------------------------------------: | :------------: | :---------------------: | :------------: | :------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :--------: | :----: |
