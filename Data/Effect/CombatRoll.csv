@@ -364,7 +364,6 @@ Dual-wielded Whip +7,Dual-wielded,Whip,None,+7,+1d6,0,Reach,Swift +1,None,Slash,
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 Two-handed Light Bow -1,Two-handed,Light Bow,"Light Arrow, 1",-1,+1d6,0,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift,None,Pierce,Light Bow,Bows favoring easier drawing versus power.,Indefinite,Innate
-Two-handed Light Bow +3,Two-handed,Light Bow,"Light Arrow, 1",+3,+1d6,0,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift,None,Pierce,Light Bow,Bows favoring easier drawing versus power.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 One-handed Thrown Slash Close Melee -1,One-handed,Thrown Slash Close Melee,"Thrown Slash Close Melee -1, 1",-1,+0d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,Slash,Close Melee,"Ninja stars, ect...",Indefinite,Innate
