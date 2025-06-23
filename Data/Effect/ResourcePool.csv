@@ -66,6 +66,10 @@ Resource Pool: Broadhead Heavy Arrows,Ammunition for Combat Rolls.,Indefinite,In
 Resource Pool: Barbed Heavy Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Barbed Heavy Arrow,20,None,TRUE
 Resource Pool: Bodkin Heavy Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Bodkin Heavy Arrow,20,None,TRUE
 ,,,,,,,
+Resource Pool: Broadhead Hand Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Broadhead Hand Bolt,20,None,TRUE
+Resource Pool: Barbed Hand Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Barbed Hand Bolt,20,None,TRUE
+Resource Pool: Bodkin Hand Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Bodkin Hand Bolt,20,None,TRUE
+,,,,,,,
 Resource Pool: Broadhead Light Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Broadhead Light Bolt,20,None,TRUE
 Resource Pool: Barbed Light Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Barbed Light Bolt,20,None,TRUE
 Resource Pool: Bodkin Light Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Bodkin Light Bolt,20,None,TRUE
