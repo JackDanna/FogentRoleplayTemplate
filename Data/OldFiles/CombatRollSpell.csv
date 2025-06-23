@@ -1,4 +1,4 @@
-variation,combatRollType,baseDiceAdjustment,dicePoolModifier,penetration,range,usesPerRound,areaOfEffect,optionalResourceTypeAndAmount,damageTypes,governingSkillName,description,duration,source
+variation,type,baseDiceAdjustment,dicePoolModifier,penetration,range,usesPerRound,areaOfEffect,optionalResourceAndAmount,damageTypes,governingSkillName,description,duration,source
 One-handed,Magic Dart,+0,+0d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,"Generic, 0",,,"Can be used as a Combat Roll. Disadvantage while within range of ",Indefinite,Innate
 Dual-wielded,Magic Dart,+0,+1d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,"Generic, 0",,,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,
@@ -68,8 +68,8 @@ Two-handed,RPG Launcher,+0,+6d6,6,"Sharpshooter (Normal), Sharpshooter (Disadvan
 ,,,,,,,,,,,,,
 One-handed,Magic Glove,+0,-1d,0,Melee,Swift,None,"Generic, 0",,,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,
-One-handed,Small Melee,+0,+0d6,0,Melee,Swift,None,"Generic, 0",,,Can be used as a Combat Roll.,Indefinite,Innate
-Dual-wielded,Small Melee,+0,+1d6,0,Melee,Swift,None,"Generic, 0",,,Can be used as a Combat Roll.,Indefinite,Innate
+One-handed,Close Melee,+0,+0d6,0,Melee,Swift,None,"Generic, 0",,,Can be used as a Combat Roll.,Indefinite,Innate
+Dual-wielded,Close Melee,+0,+1d6,0,Melee,Swift,None,"Generic, 0",,,Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,
 One-handed,Medium Melee,+0,+1d6,1,Melee,Swift,None,"Generic, 1",,,Can be used as a Combat Roll.,Indefinite,Innate
 Two-handed,Medium Melee,+0,+2d6,1,Melee,Swift,None,"Generic, 1",,,Can be used as a Combat Roll.,Indefinite,Innate
