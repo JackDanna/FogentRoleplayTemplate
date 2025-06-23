@@ -1052,11 +1052,13 @@ The rider's Dexterity dice pool size is used for the mounts Dexterity Movement S
 
 Represents how a character is performing combat. A Combat Roll could represent swinging a greatsword with both hands, dual-wielding pistols, throwing a javelin, ect...
 
-**Name:** The name of a Combat Roll is conventionally formatted the following way: "(Varation) (Combat Roll Type) with (Resource)". This isn't required but helps to keep things consistent.
+**Name:** The name of a Combat Roll is conventionally formatted the following way: "(Varation) (Type) with (Resource)". This isn't required but helps to keep things consistent.
 
-**Variation:** Represents the variety of ways a combat roll type might be able to be used. Generally, it describes how a character's hands (or other appendages) will be occupied as part of the Combat Roll. This is important when defining a Combat Roll, as some weapons would be impossible to use with one hand (such as a bow). "One-handed" denotes only one hand is being used which frees up the other hand to hold a shield, a light source, an important item, etc... "Two-handed" denotes two hands are being used meaning both their hands are required. "Dual-wielded" denotes a hand is being used on a main weapon with the other hand is being used on another off hand weapon. Dual-weilding is only for attacks/weapons that wouldn't encumber the user if one were held in each hand.
+**Variation:** Used to represents the different ways the Combat Roll is being used. Generally, it describes how a character's hands (or other appendages) will be occupied as part of the Combat Roll. This is important when defining a Combat Roll, as some weapons would be impossible to use with one hand (such as a bow). "One-handed" denotes only one hand is being used which frees up the other hand to hold a shield, a light source, an important item, etc... "Two-handed" denotes two hands are being used meaning both their hands are required. "Dual-wielded" denotes a hand is being used on a main weapon with the other hand is being used on another off hand weapon. Dual-weilding is only for attacks/weapons that wouldn't encumber the user if one were held in each hand.
 
-**Combat Roll Type:** Just describes type of the combat roll.
+**Type:** Just describes type of the combat roll.
+
+**Optional Resource And Amount:** If "None", then the Combat Roll requires no Resource. Otherwise it denotes the Resource and amount consumed per use of the Combat Roll. See the Resource Pool rules for more details.
 
 **Base Dice Adjustment:** Adjusts the tier of the Base Dice for the Combat Roll. This generally is used to adjust the consistency and reliability of the Combat Roll. Making a new version of a Combat Roll by giving a small improvement to it's Base Dice Adjustment is a great way to make unique weapons, to allow characters to upgrade their equipment, or to represent higher quality ammo.
 
@@ -1070,8 +1072,6 @@ Represents how a character is performing combat. A Combat Roll could represent s
 
 **Area Of Effect:** The shape and dimensions the Combat Roll creates when used. See the Area Of Effect rules for more details.
 
-**Resource And Amount Per Use:** The Resource and amount consumed per use of the Combat Roll. See the Resource Pool rules for more details.
-
 **Damage Types:** The types of damage a weapon inflicts when dealing injuries.
 
 **Governing Skill Name:** The Skill that governs the Combat Roll.
@@ -1082,7 +1082,7 @@ Represents how a character is performing combat. A Combat Roll could represent s
 
 **Source:** Describes where this Combat Roll is coming from. If it is coming from an item the character possess, than the name of the item would be used. If the Combat Roll is innate to the character, such as claws, than the source would be "Innate".
 
-|                                 Name                                 | Variation    |       Combat Roll Type       |   Optional Resource And Amount   | Base Dice Adjustment | Dice Pool Modifier | Penetration |                                        Ranges                                        | Uses Per Round | OptionalArea Of Effects |  Damage Types  | Governing Skill Name |                                                             Description                                                             |  Duration  | Source |
+|                                 Name                                 | Variation    |             Type             |   Optional Resource And Amount   | Base Dice Adjustment | Dice Pool Modifier | Penetration |                                        Ranges                                        | Uses Per Round | OptionalArea Of Effects |  Damage Types  | Governing Skill Name |                                                             Description                                                             |  Duration  | Source |
 | :-------------------------------------------------------------------: | ------------ | :--------------------------: | :-------------------------------: | :------------------: | :----------------: | :---------: | :-----------------------------------------------------------------------------------: | :------------: | :---------------------: | :------------: | :------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :--------: | :----: |
 |                         Dual-wielded Unarmed                         | Dual-wielded |           Unarmed           |               None               |          +0          |        -1d        |      0      |                                         Melee                                         |     Swift     |          None          |    Bludgeon    |     Close Melee     |                                           Just your bare hands. Can be used in a Grapple.                                           | Indefinite | Innate |
 |                                                                      |              |                              |                                  |                      |                    |            |                                                                                      |                |                        |                |                      |                                                                                                                                    |            |        |

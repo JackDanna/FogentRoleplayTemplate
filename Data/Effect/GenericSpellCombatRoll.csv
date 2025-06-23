@@ -1,4 +1,4 @@
-combatRollToOverwrite,combatRollType,optionalResourceAndAmount,description,source,duration,combatRollTypeOld,variation,baseDiceAdjustment,governingSkillName,damageTypes,dicePoolModifier,penetration,range,usesPerRound,areaOfEffect
+combatRollToOverwrite,type,optionalResourceAndAmount,description,source,duration,typeOld,variation,baseDiceAdjustment,governingSkillName,damageTypes,dicePoolModifier,penetration,range,usesPerRound,areaOfEffect
 Dual-wielded Unarmed,Glove,None,Just your bare hands. Can be used in a Grapple.,Innate,Indefinite,Unarmed,Dual-wielded,+0,{Magic Skill},{Magic Skill Damage Types},-1d,0,Melee,Swift,None
 ,,,,,,,,,,,,,,,
 One-handed Slash Close Melee,Close Melee,None,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,Slash Close Melee,One-handed,+0,{Magic Skill},{Magic Skill Damage Types},+0d6,0,Melee,Swift,None
