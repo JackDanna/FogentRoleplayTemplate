@@ -1292,7 +1292,7 @@ Represents how a character is performing combat. A Combat Roll could represent s
 
 ### Combat Roll Dice Pool
 
-Represent's the character's effectiveness in combat.
+Used to determine a character's effectiveness in combat.
 
 To calculated a Combat Roll's Dice Pool start with the Governing Skill's Dice Pool. Next, adjust it's Base Dice by the Combat Roll's Base Dice Adjustment. Finally, modify the resulting Dice Pool from the previous step by the Combat Roll's Dice Pool Modifier.
 
