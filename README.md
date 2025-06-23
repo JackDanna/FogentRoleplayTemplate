@@ -1056,11 +1056,11 @@ Represents how a character is performing combat. A Combat Roll could represent s
 
 **Variation:** Used to represents the different ways the Combat Roll is being used. Generally, it describes how a character's hands (or other appendages) will be occupied as part of the Combat Roll. This is important when defining a Combat Roll, as some weapons would be impossible to use with one hand (such as a bow). "One-handed" denotes only one hand is being used which frees up the other hand to hold a shield, a light source, an important item, etc... "Two-handed" denotes two hands are being used meaning both their hands are required. "Dual-wielded" denotes a hand is being used on a main weapon with the other hand is being used on another off hand weapon. Dual-weilding is only for attacks/weapons that wouldn't encumber the user if one were held in each hand.
 
-**Type:** Just describes type of the combat roll.
+**Type:** Describes what type of the Combat Roll.
 
-**Optional Resource And Amount:** If "None", then the Combat Roll requires no Resource. Otherwise it denotes the Resource and amount consumed per use of the Combat Roll. See the Resource Pool rules for more details.
+**Optional Resource And Amount:** If "None", then the Combat Roll requires no Resource for use. Otherwise it denotes the Resource and amount consumed per use of the Combat Roll. See the Resource Pool rules for more details.
 
-**Base Dice Adjustment:** Adjusts the tier of the Base Dice for the Combat Roll. This generally is used to adjust the consistency and reliability of the Combat Roll. Making a new version of a Combat Roll by giving a small improvement to it's Base Dice Adjustment is a great way to make unique weapons, to allow characters to upgrade their equipment, or to represent higher quality ammo.
+**Base Dice Adjustment:** Adjusts the tier of the Base Dice for the Combat Roll's Dice Pool. This generally is used to adjust the consistency and reliability of the Combat Roll. Making a new version of a Combat Roll by giving a small improvement to it's Base Dice Adjustment is a great way to make unique weapons, to allow characters to upgrade their equipment, or to represent higher quality ammo.
 
 **Dice Pool Modifier:** Represent either an addition or subtraction of dice to the Combat Roll Dice Pool. Used to represent how significant of a force multiplier a Combat Roll is. The more effective the Combat Roll, the larger the dice pool modification. For example, a bomb arrow is significantly more dangerous than a conventional arrow, so it would receive additional dice.
 
