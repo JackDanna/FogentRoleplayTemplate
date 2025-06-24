@@ -948,6 +948,10 @@ All effect have a "Name", "Description", "Duration", and "Source".
 
 If you have two different effects active that buff or debuff some feature of your character, these do not stack unless otherwise stated.
 
+### Character Sheet Effects
+
+"Character Sheet Effects" can essentially be thought of as effects that change something on your character sheet. For instance, if a character gains a Weapon, then they would also gain a new combat roll. If a character gained an Injury, then they'd have to recalculate many of there dice pools with the penalties from the Injuries.
+
 **Examples:**
 
 - A character having an innate weapon, such as claws, could effect the narrative (Combat Roll Effect)
@@ -1452,19 +1456,7 @@ For each dice in a character's Lift dice pool the character gains 50 lbs of Carr
 | Equipment Weight |    0 lb    | While Equipped |             Equipment             |
 |   Carry Weight   |    ? lb    |   Indefinite   | +50 lbs Carry Weight per Lift dice |
 
-## Effects
-
-Effects can be applied to either characters or items, adding buffs/debuffs, weapons, defenses, narrative considerations, injuries, status effects, etc... In a fantasy setting, these could be magical enchantments. In a modern setting, these could be attachments to a rifle.
-
-If you have two different effects active that buff or debuff some feature of your character, these do not stack unless otherwise stated.
-
-The two large categories are "Character Sheet Effects" and "Narrative Effects".
-
-### Character Sheet Effects
-
-"Character Sheet Effects" can essentially be thought of as effects that change something on your character sheet. For instance, if a character gains a Weapon, then they would also gain a new combat roll. If a character gained an Injury, then they'd have to recalculate many of there dice pools with the penalties from the Injuries.
-
-#### Attribute Dice Mod
+## Attribute Dice Mod
 
 Adds or subtracts dice for dice pools if they governed by at least one of the Attributes specified.
 
@@ -1490,7 +1482,7 @@ Adds or subtracts dice for dice pools if they governed by at least one of the At
 
 Represent the physical strain of carrying equipment. Some characters will purposefully be in a higher weight class to gain the benefits of heavier armor and weapons, making up for their Carry weight penalty with better gear.
 
-#### Attribute Level Adjustment
+## Attribute Level Adjustment
 
 For a specified Attribute, a Character receives an adjustment to it's level. The resulting level can not go outside the upper and lower bounds for a Attribute.
 
@@ -1498,11 +1490,11 @@ For a specified Attribute, a Character receives an adjustment to it's level. The
 | :----------: | :--------------: | :--------: | :----: | :-----------------: | :--------------: |
 | Enhanced STR | +1 to STR level. | Indefinite | Innate |         STR         |        1        |
 
-#### Defense
+## Defense
 
 See Defense rules for more information.
 
-#### Set Attribute Level
+## Set Attribute Level
 
 Sets a specified Attribute of a character to a new value. If the character's innate Attribute is greater than or equal to the new value, no change occurs.
 
@@ -1511,7 +1503,7 @@ Sets a specified Attribute of a character to a new value. If the character's inn
 | Super Strength | Strength set to level 4. | Indefinite |        |
 |  Super Reflex  |  Reflex set to level 4.  | Indefinite |        |
 
-#### Set Skill Level
+## Set Skill Level
 
 Sets a specified Skill/Vocation of a character to a new value. If the character's innate Skill/Vocation is greater than or equal to the new value, no change occurs.
 
@@ -1519,7 +1511,7 @@ Sets a specified Skill/Vocation of a character to a new value. If the character'
 | :--------------: | :------------------------: | :--------: | :----: |
 | Super Perception | Perception set to level 5. | Indefinite |        |
 
-#### Skill Base Dice
+## Skill Base Dice
 
 Sets the base dice of specific skills or vocations dice pools.
 
