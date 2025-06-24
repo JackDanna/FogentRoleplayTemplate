@@ -1272,21 +1272,11 @@ Javk Wick the Rogue has two daggers he's dual-weilding. He wants to calculate th
 
 ## Evasion Roll
 
-When a Combat Roll is made against a character who is not capable of making an opposing combat roll (i.e. they are using a melee combat roll but are being shot at from far away), the defender can make a reflexive Evasion Roll vs the attacker's Combat Roll.
+When a Combat Roll is made against a character who is not capable of making an opposing Combat Roll, such as melee combatant being shot at from far away, the defender can make a reflexive Evasion Roll vs the attacker's Combat Roll.
 
-An Evasion Roll will consist of a Skill Roll which represents reflexive dodging, which is almost always "Dexterity". Evasion Roll's can be assisted, often by "Athletics", as faster top speeds can aid in being harder to hit.
+An Evasion Roll will use the Dice Pool of the Skill which represents reflexive dodging, which is generally "Dexterity". Evasion Roll's can be assisted, often by "Athletics", as faster top speeds can aid in being harder to hit.
 
-As part of the Declaration Phase, if the defending character declared they were going to use an Evasion Roll against specific attacks, than with the Narrators permission, they can choose to Assist with a reasonable Skill.
-
-For instance, if during a round of combat while sieging a castle wall, a Player Character armed with only his greatsword needs to cross between two points of cover. The Player Character knows he is lower in turn order than the archers on the wall, but assumes they are going to fire at him as he crosses between cover. The Player asks if it would be reasonable if he could use the "Athletics" Skill to Assist his Evasion Roll against the assumed archer's Combat Rolls, since the faster his dash is, the harder it will be to land a shot. The Narrator agrees with the logic and allows it.
-
-However, as part of the Declaration Phase, if the defending character DID NOT declare they were going to use an Evasion Roll against specific attacks, than it is up to the Narrator to choose if they should allow an Assist or not.
-
-For instance, if during a round of combat on a grassy field, a Player Character armed with only his greatsword is trying to get within swinging range to an enemy archer. The Player Character knows he is lower in turn order than the archer, and declares he is going to move over to the archer and attack. Since the archer is higher in turn order, declares he will simply move backwards while firing at the Player Character. The archer looses his arrow before the Player Character gets within greatsword range. The Player Character ask's if he can Assist his Evasion Roll with "Athletics", but since the Player Character's declaration had said nothing of doing this with speed, the Narrator doesn't allow the Assist. The Player Character will just have to make a normal Evasion Roll.
-
-Any levels over the defender's Evasion Roll wins count as victories for the attacker.
-
-The only victory level outcome a Evasion Roll can achieve is exiting a grapple. A Combat Roll and Evasion Rolls can both be made in a round.
+Any levels over the defender's Evasion Roll wins count as Victory Levels for the attacker. The only victory level outcome a Evasion Roll can achieve is exiting a grapple.
 
 ## Combat Rounds
 
@@ -1315,7 +1305,7 @@ That might seem odd as you could think characters with higher Turn Order should 
 Within a Combat Round a character can declare all of the following actions within a single round which don't require approval from the Narrator:
 
 - Perform a Combat Roll
-- Reactively perform an Evasion Roll
+- Perform an Evasion Roll
 - Use Movement Speeds to move around the battefield
 
 #### Non-Standard Combat Actions
