@@ -1386,65 +1386,6 @@ When representing a container on a character sheet, a similar table as the one b
 | Ring, Mundane | 1 |                    | 0.2 | 30 cc |             |
 | Copper Coin   | 70 |                    | 0.02 | 1 cc |             |
 
-## Evasion Roll
-
-When a Combat Roll is made against a character who is not capable of making an opposing Combat Roll, such as melee combatant being shot at from far away, the defender can make a reflexive Evasion Roll vs the attacker's Combat Roll.
-
-An Evasion Roll will use the Dice Pool of the Skill which represents reflexive dodging, which is generally "Dexterity". Evasion Roll's can be assisted, often by "Athletics", as faster top speeds can aid in being harder to hit.
-
-Any levels over the defender's Evasion Roll wins count as Victory Levels for the attacker. The only victory level outcome a Evasion Roll can achieve is exiting a grapple.
-
-## Combat Rounds
-
-Combat is run in a Round-by-Round format. A Combat Round covers a brief period of time, which can be thought of roughly 10 seconds of in game time.
-
-All the actions taken by charactes are considered to be happening simultaneously within the time narratively represented by the Combat Round.
-
-To make sense of this potential chaos, first a Turn Order is determined which will last for the entire Combat. Then, for each Combat Round will be seperated into a Declaration Phase and an Action Phase.
-
-### Turn Order
-
-Turn Order is established based on which character has the highest RFX level. If multiple characters have the same RFX level, the character with the largest Dexterity Dice Pool has a higher Turn Order. If multiple characters have the same Dexterity Dice Pool size, than the character with the most Wins as a result of their Dexterity Dice Pool has a higher Turn Order.
-
-### Declaration Phase
-
-Starting from the bottom of Turn Order, characters declare what they are doing during the Combat Round.
-
-Once a character has declared what actions they are performing during their Declaration Phase, they are locked into performing that action in this Combat Round.
-
-Before higher Turn Order characters declare they are able to listen to the declarations of lower Turn Order characters. This allows higher Turn Order characters to declare actions that will either counter or complement the declared actions of lower Turn Order characters.
-
-That might seem odd as you could think characters with higher Turn Order should get to act first, but this is the Declaration Phase, no actions have happened yet. Players who declare LATER hold the upper hand in combat. This means that characters with the highest Turn Order can react to what their opponents/allies are going to do.
-
-#### Standard Combat Actions
-
-Within a Combat Round a character can declare all of the following actions within a single round which don't require approval from the Narrator:
-
-- Perform a Combat Roll
-- Perform an Evasion Roll
-- Use Movement Speeds to move around the battefield
-
-#### Non-Standard Combat Actions
-
-Additionally, a character can declare actions as part of a Combat Round not explicitley covered by the Standard Combat Actions. These actions often time require a Skill Check mid combat to determine if they succeeded. Whether these Non-Standard Combat Actions are able to be performed within the time confines of a Combat Round and in addition to the other actions the character might be declaring it up to the Narrator. Often, the Narrator can allow these action to be attempted but can give some penalty to the Combat Roll's Uses Per Round or to Movement Speed to reflect how valuable time is being lost.
-
-Examples:
-
-- Holding a door closed (Requires a contested Lift Check)
-- Briefly shouting out an importaint piece of information (No addtional check or penalty)
-- Quickly switching between weapons (Requires a Dexterity Check)
-- Casting a spell that provides magic armor (Requires a Magic Skill check)
-
-#### Action Phase
-
-Once all characters have declared their actions, start with the actions of the highest Turn Order character. Then work down the Turn Order until everyone's declared action have be delt with.
-
-Though actions are happpening simultaneously within a Combat Round, it's sometimes important to know which attack/actions happens before another, or who managed to perform their action a little bit faster than another. In these situations, characters with a higher Turn Order will always act first.
-
-At the beginning of the Action Phase, all players can roll their Dice Pools for the actions they expect to take that round, such as Combat Rolls. This is to help things combat move efficiently.
-
-Rolled Combat Rolls and Evasion Rolls made during a round are considered Standing Dice Pools for the entire Combat Round. This is to remember how many Wins a characters Combat Roll or Evasion Roll got incase they are using them against multiple sourceses. This is also incase a character loses dice due to injury or if they gain Disadvantage/Advantage during the Combat Round, which will affect an already rolled Dice Pool. If your character gains Disadvantage or Advantage after they've' already rolled their Combat Roll Dice Pool that Combat Round, you will retroactively apply said Disadvantage/Advantage to your those Dice Pools. This could turn some dice that were wins into fails and vice versa.
-
 ## Carry Weight
 
 Carry Weight represents a character's ability to carry heavier equipment while still being able to move semi-normally depending on weight class.
@@ -2250,6 +2191,65 @@ Else, the "Resource" is whatever was specified.
 |        Cold Enchantment        |                                                                                                                                                                                                                                                          Weapon additionally deals Cold damage.                                                                                                                                                                                                                                                          | Indefinite |        Innate        |
 |        The Anatoli Curse        |                                                                                                                                        The weapon is cursed on an individual, always return to the user no matter how the weapon is disposed. When this item is used in combat, the bearer becomes blood lusted with each subsequent kill, becoming increasingly bestially minded, possibly even attack friends.                                                                                                                                        | Indefinite |        Innate        |
 |           Light: Glow           |                                                                                                                                                                                                                                              Provides 20 ft radius bright light and 40 ft radius dim light.                                                                                                                                                                                                                                              | Indefinite |        Innate        |
+
+## Evasion Roll
+
+When a Combat Roll is made against a character who is not capable of making an opposing Combat Roll, such as melee combatant being shot at from far away, the defender can make a reflexive Evasion Roll vs the attacker's Combat Roll.
+
+An Evasion Roll will use the Dice Pool of the Skill which represents reflexive dodging, which is generally "Dexterity". Evasion Roll's can be assisted, often by "Athletics", as faster top speeds can aid in being harder to hit.
+
+Any levels over the defender's Evasion Roll wins count as Victory Levels for the attacker. The only victory level outcome a Evasion Roll can achieve is exiting a grapple.
+
+## Combat Rounds
+
+Combat is run in a Round-by-Round format. A Combat Round covers a brief period of time, which can be thought of roughly 10 seconds of in game time.
+
+All the actions taken by charactes are considered to be happening simultaneously within the time narratively represented by the Combat Round.
+
+To make sense of this potential chaos, first a Turn Order is determined which will last for the entire Combat. Then, for each Combat Round will be seperated into a Declaration Phase and an Action Phase.
+
+### Turn Order
+
+Turn Order is established based on which character has the highest RFX level. If multiple characters have the same RFX level, the character with the largest Dexterity Dice Pool has a higher Turn Order. If multiple characters have the same Dexterity Dice Pool size, than the character with the most Wins as a result of their Dexterity Dice Pool has a higher Turn Order.
+
+### Declaration Phase
+
+Starting from the bottom of Turn Order, characters declare what they are doing during the Combat Round.
+
+Once a character has declared what actions they are performing during their Declaration Phase, they are locked into performing that action in this Combat Round.
+
+Before higher Turn Order characters declare they are able to listen to the declarations of lower Turn Order characters. This allows higher Turn Order characters to declare actions that will either counter or complement the declared actions of lower Turn Order characters.
+
+That might seem odd as you could think characters with higher Turn Order should get to act first, but this is the Declaration Phase, no actions have happened yet. Players who declare LATER hold the upper hand in combat. This means that characters with the highest Turn Order can react to what their opponents/allies are going to do.
+
+#### Standard Combat Actions
+
+Within a Combat Round a character can declare all of the following actions within a single round which don't require approval from the Narrator:
+
+- Perform a Combat Roll
+- Perform an Evasion Roll
+- Use Movement Speeds to move around the battefield
+
+#### Non-Standard Combat Actions
+
+Additionally, a character can declare actions as part of a Combat Round not explicitley covered by the Standard Combat Actions. These actions often time require a Skill Check mid combat to determine if they succeeded. Whether these Non-Standard Combat Actions are able to be performed within the time confines of a Combat Round and in addition to the other actions the character might be declaring it up to the Narrator. Often, the Narrator can allow these action to be attempted but can give some penalty to the Combat Roll's Uses Per Round or to Movement Speed to reflect how valuable time is being lost.
+
+Examples:
+
+- Holding a door closed (Requires a contested Lift Check)
+- Briefly shouting out an importaint piece of information (No addtional check or penalty)
+- Quickly switching between weapons (Requires a Dexterity Check)
+- Casting a spell that provides magic armor (Requires a Magic Skill check)
+
+#### Action Phase
+
+Once all characters have declared their actions, start with the actions of the highest Turn Order character. Then work down the Turn Order until everyone's declared action have be delt with.
+
+Though actions are happpening simultaneously within a Combat Round, it's sometimes important to know which attack/actions happens before another, or who managed to perform their action a little bit faster than another. In these situations, characters with a higher Turn Order will always act first.
+
+At the beginning of the Action Phase, all players can roll their Dice Pools for the actions they expect to take that round, such as Combat Rolls. This is to help things combat move efficiently.
+
+Rolled Combat Rolls and Evasion Rolls made during a round are considered Standing Dice Pools for the entire Combat Round. This is to remember how many Wins a characters Combat Roll or Evasion Roll got incase they are using them against multiple sourceses. This is also incase a character loses dice due to injury or if they gain Disadvantage/Advantage during the Combat Round, which will affect an already rolled Dice Pool. If your character gains Disadvantage or Advantage after they've' already rolled their Combat Roll Dice Pool that Combat Round, you will retroactively apply said Disadvantage/Advantage to your those Dice Pools. This could turn some dice that were wins into fails and vice versa.
 
 # Magic Rules
 
