@@ -1304,7 +1304,7 @@ To make sense of this potential chaos, first a Turn Order is determined. Then, f
 
 Turn Order is established based on which character has the highest RFX level. If multiple characters have the same RFX level, the character with the largest Dexterity Dice Pool has a higher Turn Order. If multiple characters have the same Dexterity Dice Pool size, than the character with the most Wins as a result of their Dexterity Dice Pool has a higher Turn Order.
 
-#### Declaration Phase
+### Declaration Phase
 
 Starting from the bottom of Turn Order, characters declare what they are doing during the Combat Round.
 
@@ -1314,17 +1314,17 @@ Before higher Turn Order characters declare they are able to listen to the decla
 
 That might seem odd as you could think characters with higher Turn Order should get to act first, but this is the Declaration Phase, no actions have happened yet. Players who declare LATER hold the upper hand in combat. This means that characters with the highest Turn Order can react to what their opponents/allies are going to do.
 
-**Standard Combat Actions:**
+#### Standard Combat Actions
 
-Within a Combat Round a character can perform all of the following actions within a single round which don't require approval from the Narrator:
+Within a Combat Round a character can declare all of the following actions within a single round which don't require approval from the Narrator:
 
 - Perform a Combat Roll
 - Reactively perform an Evasion Roll
 - Use Movement Speeds to move around the battefield
 
-**Non-Standard Combat Actions:**
+#### Non-Standard Combat Actions
 
-Additionally, a character can perform actions as part of a Combat Round not explicitley covered by the Standard Combat Actions. These actions often time require a Skill Check mid combat to determine if they succeeded. Whether these these Non-Standard Combat  Actions are able to be performed within the time confines of a Combat Round and in addition to the Standard Combat Actions it up to the Narrator. Often, the Narrator can allow these action to be attempted but can give some penalty to the Combat Roll's Uses Per Round or to Movement Speed to reflect how valuable time is being lost. The Narrative flow you develop while playing will guide you in what the players can do in the game, and how long it will take to do it.
+Additionally, a character can declare actions as part of a Combat Round not explicitley covered by the Standard Combat Actions. These actions often time require a Skill Check mid combat to determine if they succeeded. Whether these Non-Standard Combat  Actions are able to be performed within the time confines of a Combat Round and in addition to the Standard Combat Actions it up to the Narrator. Often, the Narrator can allow these action to be attempted but can give some penalty to the Combat Roll's Uses Per Round or to Movement Speed to reflect how valuable time is being lost. The Narrative flow you develop while playing will guide you in what the players can do in the game, and how long it will take to do it.
 
 Examples:
 
@@ -1335,9 +1335,9 @@ Examples:
 
 #### Action Phase
 
-Once all characters have declared their actions, the order is reversed starting with the person with the highest RFX acting first. Though things mostly happen simultaneously within the round, it's sometimes important to know which blade landed before another, or who managed to perform their action a little bit faster than another. In these situations, characters with a higher reflex will always win.
+Once all characters have declared their actions, start with the actions of the highest Turn Order character. Though things mostly happen simultaneously within a Combat Round, it's sometimes important to know which blade landed before another, or who managed to perform their action a little bit faster than another. In these situations, characters with a higher Turn Order will always act first.
 
-At the beginning of the Action Phase, all players can roll their dice pools for the actions they expect to take that round, such as combat rolls. This is to help things combat move efficiently.
+At the beginning of the Action Phase, all players can roll their Dice Pools for the actions they expect to take that round, such as Combat Rolls. This is to help things combat move efficiently.
 
 *Every action within Round-by-Round conflicts happens almost at the same time or in direct succession to one another. This means that one character's action is NOT explicitly followed by another character's action. It should be considered as everything happening together, with the one exception being Dexterity Movement Speed.
 
