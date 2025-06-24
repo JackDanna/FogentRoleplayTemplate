@@ -936,7 +936,38 @@ Let's say a character's Uses Per Round for thier Combat Roll is "Quick". The gov
 
 Optional Max is "None", so there is no upper bound. We round down 2.38 to 2. Therfore the character would have 2 Uses Per Round for that round.
 
-## Movement Speed
+## Effects
+
+An Effect simply describes some way a character or item could effect on the narrative.
+
+Effects can be placed on characters or items.
+
+All effect have a "Name", "Description", "Duration", and "Source".
+
+"Name" just describes the name of the Effect. "Description" describes what the Effect is doing narratively. "Duration" describes how long the Effect will be active. "Source" describes where the effect came from. If the Effect is innate to the character, using their hands as weapons, the it's "Source" would be "Innate". If an Effect is coming from an item, such as a magic ring, than it's "Source" would be the name of the item.
+
+If you have two different effects active that buff or debuff some feature of your character, these do not stack unless otherwise stated.
+
+**Examples:**
+
+- A character having an innate weapon, such as claws, could effect the narrative (Combat Roll Effect)
+- An item having an ability to be used as a weapon, such as a dagger, could effect the narrative (Combat Roll Effect)
+- A character having innate defenses, like armored scales, could effect the narrative (Defense Effect)
+- An item with innate defenses, such as armor, could effect the narrative (Defense Effect)
+- A character's backstory could effect the narrative (Narrative Effect)
+- An item's backstory could effect the narrative (Narrative Effect)
+- A character having an injury that is weakening them could effect the narrative (Attribute Dice Mod Effect)
+- An item having a curse on it that gives the wielder permenant weakness could effect the narrative (Attribute Dice Mod Effect)
+- A character having a enchanment on them which alters their Attribute levels could effect the narrative (Attribute Level Adjustment Effect/Set Attribute Level Effect)
+- An item having an enchantment that alters the wielder's Attribute levels could effect the narrative (Attribute Level Adjustment Effect/Set Attribute Level Effect)
+- A character having a enchanment on them which alters their Skill Dice Pools could effect the narrative (Skill Level Adjustment Effect/Set Skill Level Effect/Skill Base Dice Effect)
+- An item having an enchantment that alters the wielder's Skill Dice Pools could effect the narrative (Skill Level Adjustment Effect/Set Skill Level Effect/Skill Base Dice Effect)
+- A character having the ability to carry equipment could effect the narrative (Container Effect)
+- An item being able to contain other items, such as a backpack, could effect the narrative (Container Effect)
+- A character being able to move during a Combat Round could effect the narrative (Movement Speed Effect)
+- An item giving the weilder some improved ability to move in Combat Round could effect the narrative (Movement Speed)
+
+## Movement Speed Effect
 
 Movement Speed is used in combat rounds to determine how far a character can move.
 
