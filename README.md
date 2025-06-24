@@ -44,7 +44,7 @@ Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentrol
 
 ![Alt text](./CogentRoleplayAttribution_Wide.png)
 
-# Table of Contents
+## Table of Contents
 
 - [Contents](#contents)
 - [Introduction](#introduction)
@@ -100,8 +100,6 @@ Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentrol
   - [Character Creation](#character-creation)
 - [Hardcore Rules](#hardcore-rules)
   - [Item Durability (Optional)](#item-durability-optional)
-
-# Core Rules
 
 ## Dice Pool
 
@@ -587,8 +585,6 @@ The Fate Roll can be used by the Narrator to let the roll of a dice decide what 
 A Fate Roll is made with a D20 and is made by the Narrator or designated to a Player by the Narrator. The higher the roll is, the better the result is for the players. Rolling a 20 is considered a critical success, and may allow the Narrator to assign exceptionally advantageous circumstances to the players. The lower the roll is, the worse the result is for the players. Rolling a 1 is always to be considered a critical failure, and will result in an extremely unfavorable ourcome for the players. Whether they be revealed as immediate or delayed consequences is up to the Narrator.
 
 These rolls may be used in situations of great intensity to help the Narrator guide the path of the action. They may be used to help break up monotony at random times to see if something good or bad occurs or even what the weather is.
-
-# Combat Rules
 
 ## Damage Types
 
@@ -1343,9 +1339,7 @@ At the beginning of the Action Phase, all players can roll their Dice Pools for 
 
 Rolled Combat Rolls and Evasion Rolls made during a round are considered Standing Dice Pools for the entire Combat Round. This is to remember how many Wins a characters Combat Roll or Evasion Roll got incase they are using them against multiple sourceses. This is also incase a character loses dice due to injury or if they gain Disadvantage/Advantage during the Combat Round, which will affect an already rolled Dice Pool. If your character gains Disadvantage or Advantage after they've' already rolled their Combat Roll Dice Pool that Combat Round, you will retroactively apply said Disadvantage/Advantage to your those Dice Pools. This could turn some dice that were wins into fails and vice versa.
 
-## Advanced Rules
-
-### Carry Weight
+## Carry Weight
 
 Carry Weight represents a character's ability to carry heavier equipment while still being able to move semi-normally depending on weight class.
 
