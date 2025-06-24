@@ -1294,11 +1294,11 @@ The only victory level outcome a Evasion Roll can achieve is exiting a grapple. 
 
 ## Combat Rounds
 
-Combat is run in a Round-by-Round format. A Combat Round covers a very brief period of time, which can be thought of roughly 10 seconds of in game time.
+Combat is run in a Round-by-Round format. A Combat Round covers a brief period of time, which can be thought of roughly 10 seconds of in game time.
 
-All the actions are considered to be happening within the section of time narratively represented by the Combat Round. 
+All the actions taken by charactes are considered to be happening simultaneously within the time narratively represented by the Combat Round.
 
-To make sense of this potential chaos, first a Turn Order is determined. Then, for each round will have a Declaration Phase and an Action Phase.
+To make sense of this potential chaos, first a Turn Order is determined which will last for the entire Combat. Then, for each Combat Round will be seperated into a Declaration Phase and an Action Phase.
 
 ### Turn Order
 
@@ -1324,7 +1324,7 @@ Within a Combat Round a character can declare all of the following actions withi
 
 #### Non-Standard Combat Actions
 
-Additionally, a character can declare actions as part of a Combat Round not explicitley covered by the Standard Combat Actions. These actions often time require a Skill Check mid combat to determine if they succeeded. Whether these Non-Standard Combat  Actions are able to be performed within the time confines of a Combat Round and in addition to the Standard Combat Actions it up to the Narrator. Often, the Narrator can allow these action to be attempted but can give some penalty to the Combat Roll's Uses Per Round or to Movement Speed to reflect how valuable time is being lost. The Narrative flow you develop while playing will guide you in what the players can do in the game, and how long it will take to do it.
+Additionally, a character can declare actions as part of a Combat Round not explicitley covered by the Standard Combat Actions. These actions often time require a Skill Check mid combat to determine if they succeeded. Whether these Non-Standard Combat Actions are able to be performed within the time confines of a Combat Round and in addition to the other actions the character might be declaring it up to the Narrator. Often, the Narrator can allow these action to be attempted but can give some penalty to the Combat Roll's Uses Per Round or to Movement Speed to reflect how valuable time is being lost.
 
 Examples:
 
@@ -1335,19 +1335,13 @@ Examples:
 
 #### Action Phase
 
-Once all characters have declared their actions, start with the actions of the highest Turn Order character. Though things mostly happen simultaneously within a Combat Round, it's sometimes important to know which blade landed before another, or who managed to perform their action a little bit faster than another. In these situations, characters with a higher Turn Order will always act first.
+Once all characters have declared their actions, start with the actions of the highest Turn Order character. Then work down the Turn Order until everyone's declared action have be delt with.
+
+Though actions are happpening simultaneously within a Combat Round, it's sometimes important to know which attack/actions happens before another, or who managed to perform their action a little bit faster than another. In these situations, characters with a higher Turn Order will always act first.
 
 At the beginning of the Action Phase, all players can roll their Dice Pools for the actions they expect to take that round, such as Combat Rolls. This is to help things combat move efficiently.
 
-*Every action within Round-by-Round conflicts happens almost at the same time or in direct succession to one another. This means that one character's action is NOT explicitly followed by another character's action. It should be considered as everything happening together, with the one exception being Dexterity Movement Speed.
-
-### Keep your Combat Rolls for the round
-
-Combat Rolls made with them should be held onto during combat after they've been rolled. This is to remember your current victory levels for the round. This is also in case your character loses dice due to injury or they gain Disadvantage/Advantage in that round, which will affect the already rolled dice pool.
-
-#### Applying Disadvantage/Advantage to an already rolled Combat Roll Dice Pools
-
-If your character gains disadvantage (often the result of a stagger or being knocked prone) or advantage (you engage a prone opponent as your second target with a melee weapon) after you've already rolled a Combat Roll dice pool that round, you will retroactively apply said disadvantage/advantage to your those dice pools. This could turn some dice that were wins into fails and vice versa.
+Rolled Combat Rolls and Evasion Rolls made during a round are considered Standing Dice Pools for the entire Combat Round. This is to remember how many Wins a characters Combat Roll or Evasion Roll got incase they are using them against multiple sourceses. This is also incase a character loses dice due to injury or if they gain Disadvantage/Advantage during the Combat Round, which will affect an already rolled Dice Pool. If your character gains Disadvantage or Advantage after they've' already rolled their Combat Roll Dice Pool that Combat Round, you will retroactively apply said Disadvantage/Advantage to your those Dice Pools. This could turn some dice that were wins into fails and vice versa.
 
 ## Advanced Rules
 
