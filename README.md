@@ -1274,11 +1274,46 @@ To calculated a Combat Roll's Dice Pool start with the Governing Skill's Dice Po
 
 Javk Wick the Rogue has two daggers he's dual-weilding. He wants to calculate the "Dual-wielded Slash Close Melee" Combat Roll his dagger's allow him to perfom. First, we start with determining what the Governing Skill is for "Dual-wielded Slash Close Melee" which is "Close Melee". Next, we determine that Javk's "Close Melee" Dice Pool is 6d6. Then, we adjust the tier of the Base Dice by the Combat Roll's Base Dice Adjustment which takes us from tier 0 (3d6) to tier 1 (1d8, 2d6), meaning the resulting Dice Pool is now "1d8, 5d6". Finally, we modify "1d8, 5d6" by the Combat Roll's Dice Pool Modifier of "+1d6" resulting in a "1d8, 6d6" Dice Pool for our Combat Roll.
 
+## Evasion Roll
+
+When a Combat Roll is made against a character who is not capable of making an opposing combat roll (i.e. they are using a melee combat roll but are being shot at from far away), the defender can make a reflexive Evasion Roll vs the attacker's Combat Roll.
+
+An Evasion Roll will consist of a Skill Roll which represents reflexive dodging, which is almost always "Dexterity". Evasion Roll's can be assisted, often by "Athletics", as faster top speeds can aid in being harder to hit.
+
+As part of the Declaration Phase, if the defending character declared they were going to use an Evasion Roll against specific attacks, than with the Narrators permission, they can choose to Assist with a reasonable Skill.
+
+For instance, if during a round of combat while sieging a castle wall, a Player Character armed with only his greatsword needs to cross between two points of cover. The Player Character knows he is lower in turn order than the archers on the wall, but assumes they are going to fire at him as he crosses between cover. The Player asks if it would be reasonable if he could use the "Athletics" Skill to Assist his Evasion Roll against the assumed archer's Combat Rolls, since the faster his dash is, the harder it will be to land a shot. The Narrator agrees with the logic and allows it.
+
+However, as part of the Declaration Phase, if the defending character DID NOT declare they were going to use an Evasion Roll against specific attacks, than it is up to the Narrator to choose if they should allow an Assist or not.
+
+For instance, if during a round of combat on a grassy field, a Player Character armed with only his greatsword is trying to get within swinging range to an enemy archer. The Player Character knows he is lower in turn order than the archer, and declares he is going to move over to the archer and attack. Since the archer is higher in turn order, declares he will simply move backwards while firing at the Player Character. The archer looses his arrow before the Player Character gets within greatsword range. The Player Character ask's if he can Assist his Evasion Roll with "Athletics", but since the Player Character's declaration had said nothing of doing this with speed, the Narrator doesn't allow the Assist. The Player Character will just have to make a normal Evasion Roll.
+
+Any levels over the defender's Evasion Roll wins count as victories for the attacker.
+
+The only victory level outcome a Evasion Roll can achieve is exiting a grapple. A Combat Roll and Evasion Rolls can both be made in a round.
+
 ## Combat Rounds
 
-Combat is run in a Round-by-round format. Each character can perform 1 combat roll within a round (though additional things like climbing as part of your movement or reactively dodging arrows are expected) with liberties regarding the narrative flow of the game. For instance, it doesn't take an action to shout out something to another character while fighting a monster, though it would take a round to explain something complicated.
+Combat is run in a Round-by-Round format. A Combat Round covers a very brief period of time, which can be thought of roughly 10 seconds of in game time.
 
-Actions in combat rounds are not solely movements and attacks. A combat action can be anything a person could do within a few seconds, such as turning over a table with their weapon, swinging from a chandelier, or dropping a boulder onto an enemy. The Narrative flow you develop while playing will guide you in what the players can do in the game, and how long it will take to do it.
+**Standard Combat Actions:**
+
+Within a Combat Round a character can perform all of the following actions within a single round which don't require approval from the Narrator:
+
+- Perform a Combat Roll
+- Reactively perform an Evasion Roll
+- Use Movement Speeds to move around the battefield
+
+**Non-Standard Combat Actions:** 
+
+Additionally, a character can perform actions as part of a Combat Round not explicitley covered by the Standard Combat Actions. These actions often time require a Skill Check mid combat to determine if they succeeded. Whether these these Non-Standard Combat  Actions are able to be performed within the time confines of a Combat Round and in addition to the Standard Combat Actions it up to the Narrator. Often, the Narrator can allow these action to be attempted but can give some penalty to the Combat Roll's Uses Per Round or to Movement Speed to reflect how valuable time is being lost. The Narrative flow you develop while playing will guide you in what the players can do in the game, and how long it will take to do it.
+
+Examples:
+
+- Holding a door closed (Requires a contested Lift Check)
+- Briefly shouting out an importaint piece of information (No addtional check or penalty)
+- Quickly switching between weapons (Requires a Dexterity Check)
+- Casting a spell that provides magic armor (Requires a Magic Skill check)
 
 ### Round Order
 
@@ -1310,25 +1345,7 @@ Combat Rolls made with them should be held onto during combat after they've been
 
 If your character gains disadvantage (often the result of a stagger or being knocked prone) or advantage (you engage a prone opponent as your second target with a melee weapon) after you've already rolled a Combat Roll dice pool that round, you will retroactively apply said disadvantage/advantage to your those dice pools. This could turn some dice that were wins into fails and vice versa.
 
-## Evasion Roll
-
-When a Combat Roll is made against a character who is not capable of making an opposing combat roll (i.e. they are using a melee combat roll but are being shot at from far away), the defender can make a reflexive Evasion Roll vs the attacker's Combat Roll.
-
-An Evasion Roll will consist of a Skill Roll which represents reflexive dodging, which is almost always "Dexterity". Evasion Roll's can be assisted, often by "Athletics", as faster top speeds can aid in being harder to hit.
-
-As part of the Declaration Phase, if the defending character declared they were going to use an Evasion Roll against specific attacks, than with the Narrators permission, they can choose to Assist with a reasonable Skill.
-
-For instance, if during a round of combat while sieging a castle wall, a Player Character armed with only his greatsword needs to cross between two points of cover. The Player Character knows he is lower in turn order than the archers on the wall, but assumes they are going to fire at him as he crosses between cover. The Player asks if it would be reasonable if he could use the "Athletics" Skill to Assist his Evasion Roll against the assumed archer's Combat Rolls, since the faster his dash is, the harder it will be to land a shot. The Narrator agrees with the logic and allows it.
-
-However, as part of the Declaration Phase, if the defending character DID NOT declare they were going to use an Evasion Roll against specific attacks, than it is up to the Narrator to choose if they should allow an Assist or not.
-
-For instance, if during a round of combat on a grassy field, a Player Character armed with only his greatsword is trying to get within swinging range to an enemy archer. The Player Character knows he is lower in turn order than the archer, and declares he is going to move over to the archer and attack. Since the archer is higher in turn order, declares he will simply move backwards while firing at the Player Character. The archer looses his arrow before the Player Character gets within greatsword range. The Player Character ask's if he can Assist his Evasion Roll with "Athletics", but since the Player Character's declaration had said nothing of doing this with speed, the Narrator doesn't allow the Assist. The Player Character will just have to make a normal Evasion Roll.
-
-Any levels over the defender's Evasion Roll wins count as victories for the attacker.
-
-The only victory level outcome a Evasion Roll can achieve is exiting a grapple. A Combat Roll and Evasion Rolls can both be made in a round.
-
-# Advanced Rules
+## Advanced Rules
 
 ### Carry Weight
 
