@@ -1296,6 +1296,24 @@ The only victory level outcome a Evasion Roll can achieve is exiting a grapple. 
 
 Combat is run in a Round-by-Round format. A Combat Round covers a very brief period of time, which can be thought of roughly 10 seconds of in game time.
 
+All the actions are considered to be happening within the section of time narratively represented by the Combat Round. 
+
+To make sense of this potential chaos, first a Turn Order is determined. Then, for each round will have a Declaration Phase and an Action Phase.
+
+### Turn Order
+
+Turn Order is established based on which character has the highest RFX level. If multiple characters have the same RFX level, the character with the largest Dexterity Dice Pool has a higher Turn Order. If multiple characters have the same Dexterity Dice Pool size, than the character with the most Wins as a result of their Dexterity Dice Pool has a higher Turn Order.
+
+#### Declaration Phase
+
+Starting from the bottom of Turn Order, characters declare what they are doing during the Combat Round.
+
+Once a character has declared what actions they are performing during their Declaration Phase, they are locked into performing that action in this Combat Round.
+
+Before higher Turn Order characters declare they are able to listen to the declarations of lower Turn Order characters. This allows higher Turn Order characters to declare actions that will either counter or complement the declared actions of lower Turn Order characters.
+
+That might seem odd as you could think characters with higher Turn Order should get to act first, but this is the Declaration Phase, no actions have happened yet. Players who declare LATER hold the upper hand in combat. This means that characters with the highest Turn Order can react to what their opponents/allies are going to do.
+
 **Standard Combat Actions:**
 
 Within a Combat Round a character can perform all of the following actions within a single round which don't require approval from the Narrator:
@@ -1304,7 +1322,7 @@ Within a Combat Round a character can perform all of the following actions withi
 - Reactively perform an Evasion Roll
 - Use Movement Speeds to move around the battefield
 
-**Non-Standard Combat Actions:** 
+**Non-Standard Combat Actions:**
 
 Additionally, a character can perform actions as part of a Combat Round not explicitley covered by the Standard Combat Actions. These actions often time require a Skill Check mid combat to determine if they succeeded. Whether these these Non-Standard Combat  Actions are able to be performed within the time confines of a Combat Round and in addition to the Standard Combat Actions it up to the Narrator. Often, the Narrator can allow these action to be attempted but can give some penalty to the Combat Roll's Uses Per Round or to Movement Speed to reflect how valuable time is being lost. The Narrative flow you develop while playing will guide you in what the players can do in the game, and how long it will take to do it.
 
@@ -1315,27 +1333,13 @@ Examples:
 - Quickly switching between weapons (Requires a Dexterity Check)
 - Casting a spell that provides magic armor (Requires a Magic Skill check)
 
-### Round Order
-
-Every action within Round-by-Round conflicts happens almost at the same time or in direct succession to one another. This means that one character's action is NOT explicitly followed by another character's action. It should be considered as everything happening together, with the one exception being Dexterity Movement Speed.
-
-To make sense of this potential 'chaos', there is a declaration phase and an action phase.
-
-#### Declaration Phase
-
-The character with the lowest RFX declares what they are doing first. That might seem odd as you could think characters with higher RFX should get to move first, but this is the declaration phase, no one is moving yet. If two Characters have the same RFX, they each roll a D6 (though D20s work better), where the highest resulting roll gets to declare later for the rest of the combat encounter.
-
-Players who declare LATER hold the upper hand in combat.
-
-Once a player has declared what they are going to perform, they cannot change their mind. They are locked into performing that action in this round. The players who declare after another can choose an action that counters or complements the declared action of another character.
-
-This means that characters with the highest RFX can see and react to what their opponents are going to do.
-
 #### Action Phase
 
 Once all characters have declared their actions, the order is reversed starting with the person with the highest RFX acting first. Though things mostly happen simultaneously within the round, it's sometimes important to know which blade landed before another, or who managed to perform their action a little bit faster than another. In these situations, characters with a higher reflex will always win.
 
 At the beginning of the Action Phase, all players can roll their dice pools for the actions they expect to take that round, such as combat rolls. This is to help things combat move efficiently.
+
+*Every action within Round-by-Round conflicts happens almost at the same time or in direct succession to one another. This means that one character's action is NOT explicitly followed by another character's action. It should be considered as everything happening together, with the one exception being Dexterity Movement Speed.
 
 ### Keep your Combat Rolls for the round
 
@@ -3033,3 +3037,7 @@ Once a skill's Dice Pool is equal to or greater than 8 dice you are considered a
 - You are not under duress (No time pressure, no outside influences or aggression such as combat.)
 - The check is not contested.
 - The check is not a reflexive action.
+
+### Turn Order not based on Dexterity
+
+If multiple characters have the same RFX level, they each roll a D20, where the highest resulting roll gets being higher in turn order declare later for the rest of the combat encounter.
