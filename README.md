@@ -1386,7 +1386,7 @@ When representing a container on a character sheet, a similar table as the one b
 | Ring, Mundane | 1 |                    | 0.2 | 30 cc |             |
 | Copper Coin   | 70 |                    | 0.02 | 1 cc |             |
 
-## Attribute Dice Mod
+## Attribute Dice Mod Effect
 
 Adds or subtracts dice for dice pools if they governed by at least one of the Attributes specified.
 
@@ -1412,7 +1412,7 @@ Adds or subtracts dice for dice pools if they governed by at least one of the At
 
 Represent the physical strain of carrying equipment. Some characters will purposefully be in a higher weight class to gain the benefits of heavier armor and weapons, making up for their Carry weight penalty with better gear.
 
-## Attribute Level Adjustment
+## Attribute Level Adjustment Effect
 
 For a specified Attribute, a Character receives an adjustment to it's level. The resulting level can not go outside the upper and lower bounds for a Attribute.
 
@@ -1420,11 +1420,11 @@ For a specified Attribute, a Character receives an adjustment to it's level. The
 | :----------: | :--------------: | :--------: | :----: | :-----------------: | :--------------: |
 | Enhanced STR | +1 to STR level. | Indefinite | Innate |         STR         |        1        |
 
-## Defense
+## Defense Effect
 
 See Defense rules for more information.
 
-## Set Attribute Level
+## Set Attribute Level Effect
 
 Sets a specified Attribute of a character to a new value. If the character's innate Attribute is greater than or equal to the new value, no change occurs.
 
@@ -1433,7 +1433,7 @@ Sets a specified Attribute of a character to a new value. If the character's inn
 | Super Strength | Strength set to level 4. | Indefinite |        |
 |  Super Reflex  |  Reflex set to level 4.  | Indefinite |        |
 
-## Set Skill Level
+## Set Skill Level Effect
 
 Sets a specified Skill/Vocation of a character to a new value. If the character's innate Skill/Vocation is greater than or equal to the new value, no change occurs.
 
@@ -1441,7 +1441,7 @@ Sets a specified Skill/Vocation of a character to a new value. If the character'
 | :--------------: | :------------------------: | :--------: | :----: |
 | Super Perception | Perception set to level 5. | Indefinite |        |
 
-## Skill Base Dice
+## Skill Base Dice Effect
 
 Sets the base dice of specific skills or vocations dice pools.
 
@@ -1516,7 +1516,7 @@ Adds or subtracts dice for specific skill or vocation dice pools.
 |                              |                                |            |        |                    |                    |
 | Minorly Enhanced Medium Melee | +1d6 to Medium Sword Dice Pool. | Indefinite | Innate |        +1d6        |    Medium Melee    |
 
-#### Skill Check
+## Skill Check Effect
 
 These are literally just skill checks. This way, if there is a use of one of a character's skill's that a Player Character or Narrator wants to remember, they can have a easy way to remember.
 
@@ -1565,7 +1565,7 @@ These are literally just skill checks. This way, if there is a use of one of a c
 |                              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                          |                  |          |                |                |                |                          |
 |  Create Flame Tongued Weapon  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     Through a laborious ritual you apply the following effect to a weapon of your choice. When activated, causes flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. This sword gains the Fire damage type, and loses the Bleed damage type. The flames last until you  speak the command word again or until you drop or sheathe the sword. The blade can only be ignited as long as it is above 3 durability. The sword can be submerged in fire to repair the blade.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |        Indefinite        |      Innate      |  1 hour  |   Fire Magic   |        5        |     Melee     |                          |
 
-#### Skill Level Adjustment
+## Skill Level Adjustment Effect
 
 For a specified Skill/Vocation, a Character receives an adjustment to it's level. The resulting level can not go outside the upper and lower bounds for a Skill/Vocation.
 
@@ -1573,15 +1573,7 @@ For a specified Skill/Vocation, a Character receives an adjustment to it's level
 | :----------------------: | :---------------: | :--------: | :----: | :--------------: | :--------------: |
 | Lift Level +1 Adjustment | +1 to Lift level. | Indefinite | Innate | Lift, Perception |        1        |
 
-#### Combat Roll
-
-See Combat Roll rules for more information.
-
-#### Ammunitions
-
-See Ammunitions rules for more information.
-
-### Narrative Effects
+## Narrative Effects
 
 "Narrative Effects" can essentially be thought of as effects that do not change anything on a character sheet when added.
 
