@@ -1386,17 +1386,6 @@ When representing a container on a character sheet, a similar table as the one b
 | Ring, Mundane | 1 |                    | 0.2 | 30 cc |             |
 | Copper Coin   | 70 |                    | 0.02 | 1 cc |             |
 
-## Carry Weight
-
-Carry Weight represents a character's ability to carry heavier equipment while still being able to move semi-normally depending on weight class.
-
-For each dice in a character's Lift dice pool the character gains 50 lbs of Carry Weight. Any dice penalty on the Lift dice pool from the characters Weight Class is disregarded for this calculation.
-
-|       Name       | Description |    Duration    |               Source               |
-| :--------------: | :---------: | :------------: | :--------------------------------: |
-| Equipment Weight |    0 lb    | While Equipped |             Equipment             |
-|   Carry Weight   |    ? lb    |   Indefinite   | +50 lbs Carry Weight per Lift dice |
-
 ## Attribute Dice Mod
 
 Adds or subtracts dice for dice pools if they governed by at least one of the Attributes specified.
