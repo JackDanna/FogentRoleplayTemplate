@@ -971,11 +971,9 @@ If you have two different effects active that buff or debuff some feature of you
 - A character being able to move during a Combat Round could effect the narrative (Movement Speed Effect)
 - An item giving the weilder some improved ability to move in Combat Round could effect the narrative (Movement Speed)
 
-## Narrative Effects
+## Narrative Effect
 
-"Narrative Effects" can essentially be thought of as effects that do not change anything on a character sheet when added.
-
-For instance, a Size Effect doesn't change anything else on your sheet when added, though it could have a massive impact on how a character is played. A potion with a Healing Effect doesn't have any mechanical effect until a player uses it within narrative.
+A Narrative Effect is a purely text based effect. It simply describes what it does and how it impact the Narrative.
 
 #### Character Information
 
