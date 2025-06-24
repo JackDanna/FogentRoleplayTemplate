@@ -2037,11 +2037,11 @@ For instance, if a Mundane Fire Magic Spellcasting Focus is used, all uses of th
 | Excellent Nature Fellcraft Arcane Focus | 3d8 base dice for Terracraft, Hydrocraft, Naturecraft and Galecraft skill. | Indefinite |        |
 |          Fine Endurance Charm          |                  1d6, 2d8 base dice for Endurance skill.                  | Indefinite |        |
 
-#### Base Dice Adjustment
+## Base Dice Adjustment Effect
 
 Adjusts the base dice of a specific skill or vocation dice pools.
 
-#### Dice Pool Dice Mod
+## Dice Pool Dice Mod Effect
 
 Adds or subtracts dice for specific skill or vocation dice pools.
 
