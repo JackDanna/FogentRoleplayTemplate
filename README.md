@@ -1328,9 +1328,6 @@ Resource Pool Max Calculation Result = (Base Amount)
 | :---------------------------------: | :---------: | :---------------------------: | :------------------------------: |
 |       Mana Resource Pool Max       |      0      |           Knowledge           |              Wizard              |
 | Nature Connection Resource Pool Max |      0      |             Will             |              Druid              |
-|     Fellblood Resource Pool Max     |      0      |           Endurance           |            Fellcaster            |
-|       Focus Resource Pool Max       |      0      |             Will             |            Runesmith            |
-|       Ichor Resource Pool Max       |      0      |             Will             |            Brightkin            |
 
 ## Resource Pool Effect
 
