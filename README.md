@@ -931,6 +931,49 @@ Next, we need to determine what percentage of the character's Max Carry Weight t
 
 Therefore, since 20% is less than or equal to 25.0%, the character would have a Weight Class of "Light", which would apply the "Weight Class: Light" Attribute Dice Mod Effect.
 
+## Container Effect
+
+Pouches, satchel, sacks, backpacks, chest, etc... are all consider containers. Each container can hold a certain amount of weight and/or volume within.
+
+**Optional Weight Capacity:** The weight the container is capable of holding. If "None", than it has unlimited capacity for weight.
+
+**Optional Volume Capacity:** The volume the container is capable of holding. If "None", than it has unlimited capacity for volume.
+
+**Weightless Contents:** If false, then the contents of this container would be included in it's' total weight, such as a mundane backpack. If true, then then the contents of this container wouldn't be included in the total weight, such as a bag of holding were it's contents are stored in a pocket dimension.
+
+|       Name       |                                                                                                 Description                                                                                                 |  Duration  |       Source       | Weight Capacity | Volume | Weightless Contents |
+| :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: | :-----------------: | :-------------: | :----: | :-----------------: |
+| 300 lb container |                                                                        300 lbs weight capacity and 12 ft^3 volume, such as a Chest.                                                                        | Indefinite |       Innate       |       300       |   12   |        FALSE        |
+| 50 lb container |                                                                      50 lbs weight capacity. and 1.6 ft^3 volume, such as Saddle Bags.                                                                      | Indefinite |       Innate       |       50       |  1.6  |        FALSE        |
+| 35 lb container |                                                                   35 lbs weight capacity and 1.2 ft^3 volume, such as a Quality Backpack.                                                                   | Indefinite |       Innate       |       35       |  1.2  |        FALSE        |
+| 30 lb container |                                                                        30 lbs weight capacity and 1 ft^3 volume, such as a Backpack.                                                                        | Indefinite |       Innate       |       30       |   1   |        FALSE        |
+| 12 lb container |                                                                       12 lbs weight capacity and 0.4 ft^3 volume, such as a Satchel.                                                                       | Indefinite |       Innate       |       12       |  0.4  |        FALSE        |
+|  6 lb container  |                                                                         6 lbs weight capacity and 0.2 ft^3 volume, such as a Pouch.                                                                         | Indefinite |       Innate       |        6        |  0.2  |        FALSE        |
+|    Equipment    | Represent items a character has on their person in an easy-to-reach placement or that are being worn. This generally covers things needed in combat such as weapons, armor, quivers/arrows, potions, etc... | Indefinite |       Innate       |      None      |  None  |        FALSE        |
+| Off Person Stash |                                                               A stash of items. For practical purposes, unlimited weight capacity and volume.                                                               | Indefinite | Storage Location: ? |      None      |  None  |        TRUE        |
+
+When representing the contents of a container on a character sheet, a similar table as the one below is used.
+
+**Backpack - 30 lb container:**
+
+| Name          | # |       Effect       |  LB  | Value | Description |
+| ------------- | :-: | :----------------: | :--: | :---: | ----------- |
+| Blowgun       | 1 | One-handed Blowgun |  1  | 10 bc |             |
+| Ring, Mundane | 1 |                    | 0.2 | 30 cc |             |
+| Copper Coin   | 70 |                    | 0.02 | 1 cc |             |
+
+Characters will often stash or drop containers during combat as to not be in a heavier Weight Class. This is perfectly acceptable, but it is within the Narrators right to treat these items as fair game to be swiped by the enemy if an opportunity arises, however this might effect their Weight Class as well. Character's wishing to avoid a having their loot stolen can keep it on their backs, by a mount to stash it on, increase their equipment weight, etc...
+
+When representing a container on a character sheet, a similar table as the one below is used.
+
+**Backpack - 30 lb container:**
+
+| Name          | # |       Effect       |  LB  | Value | Description |
+| ------------- | :-: | :----------------: | :--: | :---: | ----------- |
+| Blowgun       | 1 | One-handed Blowgun |  1  | 10 bc |             |
+| Ring, Mundane | 1 |                    | 0.2 | 30 cc |             |
+| Copper Coin   | 70 |                    | 0.02 | 1 cc |             |
+
 ## Movement Speed Effect
 
 Movement Speed is used in Combat Rounds to determine how far a character can move.
@@ -1868,49 +1911,6 @@ Else, the "Resource" is whatever was specified.
 |        Cold Enchantment        |                                                                                                                                                                                                                                                          Weapon additionally deals Cold damage.                                                                                                                                                                                                                                                          | Indefinite |        Innate        |
 |        The Anatoli Curse        |                                                                                                                                        The weapon is cursed on an individual, always return to the user no matter how the weapon is disposed. When this item is used in combat, the bearer becomes blood lusted with each subsequent kill, becoming increasingly bestially minded, possibly even attack friends.                                                                                                                                        | Indefinite |        Innate        |
 |           Light: Glow           |                                                                                                                                                                                                                                              Provides 20 ft radius bright light and 40 ft radius dim light.                                                                                                                                                                                                                                              | Indefinite |        Innate        |
-
-## Container Effect
-
-Pouches, satchel, sacks, backpacks, chest, etc... are all consider containers. Each container can hold a certain amount of weight and/or volume within.
-
-**Optional Weight Capacity:** The weight the container is capable of holding. If "None", than it has unlimited capacity for weight.
-
-**Optional Volume Capacity:** The volume the container is capable of holding. If "None", than it has unlimited capacity for volume.
-
-**Weightless Contents:** If false, then the contents of this container would be included in it's' total weight, such as a mundane backpack. If true, then then the contents of this container wouldn't be included in the total weight, such as a bag of holding were it's contents are stored in a pocket dimension.
-
-|       Name       |                                                                                                 Description                                                                                                 |  Duration  |       Source       | Weight Capacity | Volume | Weightless Contents |
-| :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: | :-----------------: | :-------------: | :----: | :-----------------: |
-| 300 lb container |                                                                        300 lbs weight capacity and 12 ft^3 volume, such as a Chest.                                                                        | Indefinite |       Innate       |       300       |   12   |        FALSE        |
-| 50 lb container |                                                                      50 lbs weight capacity. and 1.6 ft^3 volume, such as Saddle Bags.                                                                      | Indefinite |       Innate       |       50       |  1.6  |        FALSE        |
-| 35 lb container |                                                                   35 lbs weight capacity and 1.2 ft^3 volume, such as a Quality Backpack.                                                                   | Indefinite |       Innate       |       35       |  1.2  |        FALSE        |
-| 30 lb container |                                                                        30 lbs weight capacity and 1 ft^3 volume, such as a Backpack.                                                                        | Indefinite |       Innate       |       30       |   1   |        FALSE        |
-| 12 lb container |                                                                       12 lbs weight capacity and 0.4 ft^3 volume, such as a Satchel.                                                                       | Indefinite |       Innate       |       12       |  0.4  |        FALSE        |
-|  6 lb container  |                                                                         6 lbs weight capacity and 0.2 ft^3 volume, such as a Pouch.                                                                         | Indefinite |       Innate       |        6        |  0.2  |        FALSE        |
-|    Equipment    | Represent items a character has on their person in an easy-to-reach placement or that are being worn. This generally covers things needed in combat such as weapons, armor, quivers/arrows, potions, etc... | Indefinite |       Innate       |      None      |  None  |        FALSE        |
-| Off Person Stash |                                                               A stash of items. For practical purposes, unlimited weight capacity and volume.                                                               | Indefinite | Storage Location: ? |      None      |  None  |        TRUE        |
-
-When representing the contents of a container on a character sheet, a similar table as the one below is used.
-
-**Backpack - 30 lb container:**
-
-| Name          | # |       Effect       |  LB  | Value | Description |
-| ------------- | :-: | :----------------: | :--: | :---: | ----------- |
-| Blowgun       | 1 | One-handed Blowgun |  1  | 10 bc |             |
-| Ring, Mundane | 1 |                    | 0.2 | 30 cc |             |
-| Copper Coin   | 70 |                    | 0.02 | 1 cc |             |
-
-Characters will often stash or drop containers during combat as to not be in a heavier Weight Class. This is perfectly acceptable, but it is within the Narrators right to treat these items as fair game to be swiped by the enemy if an opportunity arises, however this might effect their Weight Class as well. Character's wishing to avoid a having their loot stolen can keep it on their backs, by a mount to stash it on, increase their equipment weight, etc...
-
-When representing a container on a character sheet, a similar table as the one below is used.
-
-**Backpack - 30 lb container:**
-
-| Name          | # |       Effect       |  LB  | Value | Description |
-| ------------- | :-: | :----------------: | :--: | :---: | ----------- |
-| Blowgun       | 1 | One-handed Blowgun |  1  | 10 bc |             |
-| Ring, Mundane | 1 |                    | 0.2 | 30 cc |             |
-| Copper Coin   | 70 |                    | 0.02 | 1 cc |             |
 
 ## Attribute Level Adjustment Effect
 
