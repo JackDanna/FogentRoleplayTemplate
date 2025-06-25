@@ -705,16 +705,6 @@ Shields generally takes up one of the character's hands when in use. Characters 
 
 If a combat roll has a Physical damage type and a Bodily, Mental, or Spiritual damage type, then since it is combined with the physical attack it is only versus physical defense. An example would be poison applied to the blade of a weapon.
 
-## Penetration
-
-Penetration represents a dealt injuries ability to mitigate the opponent's Defense. While dealing an injury, you may reduce your opponent's Totaled Defense by your Combat Roll's Penetration before calculating injury.
-
-Examples of narratively describing better penetration:
-
-- Firearm vs Firearm loaded with armor piercing bullets.
-- Poison shot vs poison aerosolized spray, making it far more likely to penetrate the bodies natural defenses.
-- Arming Sword swing vs Great Sword swing, which just give you more leverage and mass because if you can't cut through at least you'll crunch what's underneath.
-
 ## Unit of Measure
 
 This section defines the different units of measure that a game will use.
@@ -1680,7 +1670,13 @@ Represents how a character is performing combat. A Combat Roll could represent s
 
 **Dice Pool Modifier:** Represent either an addition or subtraction of dice to the Combat Roll Dice Pool. Used to represent how significant of a force multiplier a Combat Roll is. The more effective the Combat Roll, the larger the dice pool modification. For example, a bomb arrow is significantly more dangerous than a conventional arrow, so it would receive additional dice.
 
-**Penetration:** The amount of Penetration versus an opponents Defense to the Damage Type the Combat Roll deals. See the Penetration rules for more details.
+**Penetration:** Penetration represents a dealt injuries ability to mitigate the opponent's Defense. While dealing an injury, you may reduce your opponent's Totaled Defense by your Combat Roll's Penetration before calculating injury.
+
+Examples of narratively describing better penetration:
+
+- Firearm vs Firearm loaded with armor piercing bullets.
+- Poison shot vs poison aerosolized spray, making it far more likely to penetrate the bodies natural defenses.
+- Arming Sword swing vs Great Sword swing, which just give you more leverage and mass because if you can't cut through at least you'll crunch what's underneath.
 
 **Ranges:** The Ranges the Combat Roll can be used at. See the Range rules for more details.
 
