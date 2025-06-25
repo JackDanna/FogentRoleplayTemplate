@@ -622,89 +622,6 @@ Injury is handled as part of the narrative with dice penalties being applied per
 
 Typical "status effects" such as being poisoned, frostbitten, bleeding, madness, etc... are handled elegantly through the injury system. For instance, if you were dealt a Serious Injury by mild poison mist, then narratively explain it as getting a large breath full. If the character instead was dealt a Serious injury by an extremely lethal poison mist, then narratively it would be explained as only getting a small whiff. The resulting dice penalty acts as your "status effect" debuffing your character until they are resolved. For instance, anti-venom might be able to remove the poison injury or warming up by a fire might reduce hypothermia from the cold.
 
-## Defense
-
-Defense is used to reduce incoming injuries from Damage Types by the equivalent amount of Defense against it. If a character has multiple Defenses, then add the values of the Defenses together for each Damage Type to get their Total Defense. If a Totaled Defense to a specific Damage Type has a decimal place remainder, you'll round it down to the nearest whole number when reducing an injury with it.
-
-If a foe has a sufficiently high Defense to a certain Damage Type, then the best course of action is to circumvent it. For instance, a knight in full plate armor would be extremely difficult to injury from injuries caused by the Slash Damage Type. In these circumstances, the most efficient way of defeating a character in heavy armor is grappling them or tripping them and holding them down, just like in real life. Another option is to use an attack with a different Damage Type, such as spraying poison mist at them, to completely circumvent there high Slash defense.
-
-|           Name           |                        Description                        |  Duration  | Source | Slash | Pierce | Bludgeon |  Hew  | Ballistic | Shockwave | Fire | Electric | Radiant | Acid | Cold | Silver | Poison | Necrotic | Bleed | Suffocation | Psychic | Spiritual |
-| :-----------------------: | :--------------------------------------------------------: | :--------: | :----: | :---: | :----: | :------: | :---: | :-------: | :-------: | :---: | :------: | :-----: | :---: | :--: | :----: | :----: | :------: | :---: | :---------: | :-----: | :-------: |
-| Engineering Suit Defense | Works as Head Armor, Body Armor, Arm Armor, and Leg Armor. | Indefinite | Innate |   4   |   4   |    4    |   4   |     4     |     4     |   4   |    4    |    4    |   4   |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
-|   Security Suit Defense   | Works as Head Armor, Body Armor, Arm Armor, and Leg Armor. | Indefinite | Innate |   5   |   5   |    5    |   5   |     5     |     5     |   5   |    5    |    5    |   5   |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
-|   Advanced Suit Defense   | Works as Head Armor, Body Armor, Arm Armor, and Leg Armor. | Indefinite | Innate |   6   |   6   |    6    |   6   |     6     |     6     |   6   |    6    |    6    |   6   |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
-|   Soldier Suit Defense   | Works as Head Armor, Body Armor, Arm Armor, and Leg Armor. | Indefinite | Innate |   7   |   7   |    7    |   7   |     7     |     7     |   7   |    7    |    7    |   7   |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
-|                          |                                                            |            |        |      |        |          |      |          |          |      |          |        |      |      |        |        |          |      |            |        |          |
-|  Gambeson Armor Defense  | Works as Head Armor, Body Armor, Arm Armor, and Leg Armor. | Indefinite | Innate |   1   |   1   |    1    |   1   |     1     |     1     |   1   |    1    |    1    |   1   |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
-| Gambeson Body/Arm Defense |             Works as Body Armor and Leg Armor.             | Indefinite | Innate | 0.625 | 0.625 |  0.625  | 0.625 |   0.625   |   0.625   | 0.625 |  0.625  |  0.625  | 0.625 |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
-|   Gambeson Leg Defense   |                    Works as Leg Armor.                    | Indefinite | Innate | 0.375 | 0.375 |  0.375  | 0.375 |   0.375   |   0.375   | 0.375 |  0.375  |  0.375  | 0.375 |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
-|                          |                                                            |            |        |      |        |          |      |          |          |      |          |        |      |      |        |        |          |      |            |        |          |
-|   Leather Armor Defense   | Works as Head Armor, Body Armor, Arm Armor, and Leg Armor. | Indefinite | Innate |   2   |   2   |    2    |   2   |     2     |     2     |   2   |    2    |    2    |   2   |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
-|   Leather Head Defense   |                    Works as Head Armor.                    | Indefinite | Innate | 0.34 |  0.34  |   0.34   | 0.34 |   0.34   |   0.34   | 0.34 |   0.34   |  0.34  | 0.34 |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
-|   Leather Body Defense   |                    Works as Body Armor.                    | Indefinite | Innate |   1   |   1   |    1    |   1   |     1     |     1     |   1   |    1    |    1    |   1   |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
-|    Leather Leg Defense    |                    Works as Leg Armor.                    | Indefinite | Innate | 0.33 |  0.33  |   0.33   | 0.33 |   0.33   |   0.33   | 0.33 |   0.33   |  0.33  | 0.33 |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
-|    Leather Arm Defense    |                    Works as Arm Armor.                    | Indefinite | Innate | 0.33 |  0.33  |   0.33   | 0.33 |   0.33   |   0.33   | 0.33 |   0.33   |  0.33  | 0.33 |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
-|                          |                                                            |            |        |      |        |          |      |          |          |      |          |        |      |      |        |        |          |      |            |        |          |
-|  Chainmail Armor Defense  | Works as Head Armor, Body Armor, Arm Armor, and Leg Armor. | Indefinite | Innate |   3   |   3   |    3    |   3   |     3     |     3     |   3   |    3    |    3    |   3   |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
-|  Chainmail Head Defense  |                    Works as Head Armor.                    | Indefinite | Innate | 0.38 |  0.38  |   0.38   | 0.38 |   0.38   |   0.38   | 0.38 |   0.38   |  0.38  | 0.38 |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
-|  Chainmail Body Defense  |                    Works as Body Armor.                    | Indefinite | Innate | 1.15 |  1.15  |   1.15   | 1.15 |   1.15   |   1.15   | 1.15 |   1.15   |  1.15  | 1.15 |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
-|   Chainmail Leg Defense   |                    Works as Leg Armor.                    | Indefinite | Innate | 0.77 |  0.77  |   0.77   | 0.77 |   0.77   |   0.77   | 0.77 |   0.77   |  0.77  | 0.77 |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
-|   Chainmail Arm Defense   |                    Works as Arm Armor.                    | Indefinite | Innate |  0.7  |  0.7  |   0.7   |  0.7  |    0.7    |    0.7    |  0.7  |   0.7   |   0.7   |  0.7  |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
-|                          |                                                            |            |        |      |        |          |      |          |          |      |          |        |      |      |        |        |          |      |            |        |          |
-| Brigandine Armor Defense | Works as Head Armor, Body Armor, Arm Armor, and Leg Armor. | Indefinite | Innate |   4   |   4   |    4    |   4   |     4     |     4     |   4   |    4    |    4    |   4   |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
-|  Brigandine Head Defense  |                    Works as Head Armor.                    | Indefinite | Innate | 0.39 |  0.39  |   0.39   | 0.39 |   0.39   |   0.39   | 0.39 |   0.39   |  0.39  | 0.39 |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
-|  Brigandine Body Defense  |                    Works as Body Armor.                    | Indefinite | Innate | 1.69 |  1.69  |   1.69   | 1.69 |   1.69   |   1.69   | 1.69 |   1.69   |  1.69  | 1.69 |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
-|  Brigandine Leg Defense  |                    Works as Leg Armor.                    | Indefinite | Innate | 1.00 |  1.00  |   1.00   | 1.00 |   1.00   |   1.00   | 1.00 |   1.00   |  1.00  | 1.00 |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
-|  Brigandine Arm Defense  |                    Works as Arm Armor.                    | Indefinite | Innate | 0.92 |  0.92  |   0.92   | 0.92 |   0.92   |   0.92   | 0.92 |   0.92   |  0.92  | 0.92 |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
-|                          |                                                            |            |        |      |        |          |      |          |          |      |          |        |      |      |        |        |          |      |            |        |          |
-|    Plate Armor Defense    | Works as Head Armor, Body Armor, Arm Armor, and Leg Armor. | Indefinite | Innate |   5   |   5   |    5    |   5   |     5     |     5     |   5   |    5    |    5    |   5   |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
-|    Plate Head Defense    |                    Works as Head Armor.                    | Indefinite | Innate | 0.53 |  0.53  |   0.53   | 0.53 |   0.53   |   0.53   | 0.53 |   0.53   |  0.53  | 0.53 |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
-|    Plate Body Defense    |                    Works as Body Armor.                    | Indefinite | Innate | 2.01 |  2.01  |   2.01   | 2.01 |   2.01   |   2.01   | 2.01 |   2.01   |  2.01  | 2.01 |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
-|     Plate Leg Defense     |                    Works as Leg Armor.                    | Indefinite | Innate | 1.23 |  1.23  |   1.23   | 1.23 |   1.23   |   1.23   | 1.23 |   1.23   |  1.23  | 1.23 |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
-|     Plate Arm Defense     |                    Works as Arm Armor.                    | Indefinite | Innate | 1.23 |  1.23  |   1.23   | 1.23 |   1.23   |   1.23   | 1.23 |   1.23   |  1.23  | 1.23 |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
-|                          |                                                            |            |        |      |        |          |      |          |          |      |          |        |      |      |        |        |          |      |            |        |          |
-|       Small Shield       |                           Shield                           | Indefinite | Innate |   1   |   1   |    1    |   1   |     0     |     0     |   0   |    0    |    0    |   0   |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
-|       Medium Shield       |                           Shield                           | Indefinite | Innate |   2   |   2   |    2    |   2   |     0     |     0     |   1   |    1    |    1    |   1   |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
-|       Large Shield       |                           Shield                           | Indefinite | Innate |   3   |   3   |    3    |   3   |     0     |     0     |   2   |    2    |    2    |   2   |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
-
-### Defending Skill
-
-When a character is taking an injury from a Damage Type that has a Defending Skill, the can add the wins gained from their Defending Skill's Dice Pool to their Defense.
-
-The character can choose to take the static amount of wins or roll.
-
-**Static Wins:** For the Defending Skill, take the size of the Dice Pool, divide it by 2, and then round down to the nearst whole number.
-
-**Rolled Wins:** The wins achieved by rolling the Defending Skill's Dice Pool count as count as Defense.
-
-If in combat, the amount of wins gained from a Defending Skill remain for an entire round.
-
-#### Example
-
-A character takes a Serious Injury (level 3) from a poison spray. The Poison Damge Type's' Defending Skill is "Endurance". The character's Endurance Dice Pool is "5d6".
-
-**Choosing the Static Wins:** If the character takes the static wins, they have 2.5 wins. That means they are able to scale down the injury to a Minor Injury (level 1).
-
-**Choosing to Roll for Wins:** If the character wants to roll, they have the chance of negating the injury completely. If they rolled and got 3 wins, they would completely resist the injury. However, if they for instance only got 1 win, they would take a Medium Injury (level 2).
-
-### Armor
-
-Most Armor has a Defense. For item creation purposes, determining what portions a piece of armor will protect is useful.
-
-- Head Armor
-- Body Armor
-- Arm Armor
-- Leg Armor
-- Shield
-
-A character can wear two pieces of armor on the same body part, such as wearing a gambeson shirt under chain mail shirt or a breastplate, which was most certainly done in history.
-
-Shields generally takes up one of the character's hands when in use. Characters not actively using their shield as part of their combat/evasion roll do not benefit from the additional defense. Characters that are Off Guard or being attacked while unaware also do not benefit from the shield's defense.
-
-### What to do about attacks with Multiple damage types
-
-If a combat roll has a Physical damage type and a Bodily, Mental, or Spiritual damage type, then since it is combined with the physical attack it is only versus physical defense. An example would be poison applied to the blade of a weapon.
-
 ## Unit of Measure
 
 This section defines the different units of measure that a game will use.
@@ -2003,7 +1920,86 @@ For a specified Attribute, a Character receives an adjustment to it's level. The
 
 ## Defense Effect
 
-See Defense rules for more information.
+Defense is used to reduce incoming injuries from Damage Types by the equivalent amount of Defense against it. If a character has multiple Defenses, then add the values of the Defenses together for each Damage Type to get their Total Defense. If a Totaled Defense to a specific Damage Type has a decimal place remainder, you'll round it down to the nearest whole number when reducing an injury with it.
+
+If a foe has a sufficiently high Defense to a certain Damage Type, then the best course of action is to circumvent it. For instance, a knight in full plate armor would be extremely difficult to injury from injuries caused by the Slash Damage Type. In these circumstances, the most efficient way of defeating a character in heavy armor is grappling them or tripping them and holding them down, just like in real life. Another option is to use an attack with a different Damage Type, such as spraying poison mist at them, to completely circumvent there high Slash defense.
+
+|           Name           |                        Description                        |  Duration  | Source | Slash | Pierce | Bludgeon |  Hew  | Ballistic | Shockwave | Fire | Electric | Radiant | Acid | Cold | Silver | Poison | Necrotic | Bleed | Suffocation | Psychic | Spiritual |
+| :-----------------------: | :--------------------------------------------------------: | :--------: | :----: | :---: | :----: | :------: | :---: | :-------: | :-------: | :---: | :------: | :-----: | :---: | :--: | :----: | :----: | :------: | :---: | :---------: | :-----: | :-------: |
+| Engineering Suit Defense | Works as Head Armor, Body Armor, Arm Armor, and Leg Armor. | Indefinite | Innate |   4   |   4   |    4    |   4   |     4     |     4     |   4   |    4    |    4    |   4   |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
+|   Security Suit Defense   | Works as Head Armor, Body Armor, Arm Armor, and Leg Armor. | Indefinite | Innate |   5   |   5   |    5    |   5   |     5     |     5     |   5   |    5    |    5    |   5   |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
+|   Advanced Suit Defense   | Works as Head Armor, Body Armor, Arm Armor, and Leg Armor. | Indefinite | Innate |   6   |   6   |    6    |   6   |     6     |     6     |   6   |    6    |    6    |   6   |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
+|   Soldier Suit Defense   | Works as Head Armor, Body Armor, Arm Armor, and Leg Armor. | Indefinite | Innate |   7   |   7   |    7    |   7   |     7     |     7     |   7   |    7    |    7    |   7   |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
+|                          |                                                            |            |        |      |        |          |      |          |          |      |          |        |      |      |        |        |          |      |            |        |          |
+|  Gambeson Armor Defense  | Works as Head Armor, Body Armor, Arm Armor, and Leg Armor. | Indefinite | Innate |   1   |   1   |    1    |   1   |     1     |     1     |   1   |    1    |    1    |   1   |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
+| Gambeson Body/Arm Defense |             Works as Body Armor and Leg Armor.             | Indefinite | Innate | 0.625 | 0.625 |  0.625  | 0.625 |   0.625   |   0.625   | 0.625 |  0.625  |  0.625  | 0.625 |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
+|   Gambeson Leg Defense   |                    Works as Leg Armor.                    | Indefinite | Innate | 0.375 | 0.375 |  0.375  | 0.375 |   0.375   |   0.375   | 0.375 |  0.375  |  0.375  | 0.375 |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
+|                          |                                                            |            |        |      |        |          |      |          |          |      |          |        |      |      |        |        |          |      |            |        |          |
+|   Leather Armor Defense   | Works as Head Armor, Body Armor, Arm Armor, and Leg Armor. | Indefinite | Innate |   2   |   2   |    2    |   2   |     2     |     2     |   2   |    2    |    2    |   2   |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
+|   Leather Head Defense   |                    Works as Head Armor.                    | Indefinite | Innate | 0.34 |  0.34  |   0.34   | 0.34 |   0.34   |   0.34   | 0.34 |   0.34   |  0.34  | 0.34 |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
+|   Leather Body Defense   |                    Works as Body Armor.                    | Indefinite | Innate |   1   |   1   |    1    |   1   |     1     |     1     |   1   |    1    |    1    |   1   |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
+|    Leather Leg Defense    |                    Works as Leg Armor.                    | Indefinite | Innate | 0.33 |  0.33  |   0.33   | 0.33 |   0.33   |   0.33   | 0.33 |   0.33   |  0.33  | 0.33 |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
+|    Leather Arm Defense    |                    Works as Arm Armor.                    | Indefinite | Innate | 0.33 |  0.33  |   0.33   | 0.33 |   0.33   |   0.33   | 0.33 |   0.33   |  0.33  | 0.33 |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
+|                          |                                                            |            |        |      |        |          |      |          |          |      |          |        |      |      |        |        |          |      |            |        |          |
+|  Chainmail Armor Defense  | Works as Head Armor, Body Armor, Arm Armor, and Leg Armor. | Indefinite | Innate |   3   |   3   |    3    |   3   |     3     |     3     |   3   |    3    |    3    |   3   |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
+|  Chainmail Head Defense  |                    Works as Head Armor.                    | Indefinite | Innate | 0.38 |  0.38  |   0.38   | 0.38 |   0.38   |   0.38   | 0.38 |   0.38   |  0.38  | 0.38 |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
+|  Chainmail Body Defense  |                    Works as Body Armor.                    | Indefinite | Innate | 1.15 |  1.15  |   1.15   | 1.15 |   1.15   |   1.15   | 1.15 |   1.15   |  1.15  | 1.15 |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
+|   Chainmail Leg Defense   |                    Works as Leg Armor.                    | Indefinite | Innate | 0.77 |  0.77  |   0.77   | 0.77 |   0.77   |   0.77   | 0.77 |   0.77   |  0.77  | 0.77 |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
+|   Chainmail Arm Defense   |                    Works as Arm Armor.                    | Indefinite | Innate |  0.7  |  0.7  |   0.7   |  0.7  |    0.7    |    0.7    |  0.7  |   0.7   |   0.7   |  0.7  |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
+|                          |                                                            |            |        |      |        |          |      |          |          |      |          |        |      |      |        |        |          |      |            |        |          |
+| Brigandine Armor Defense | Works as Head Armor, Body Armor, Arm Armor, and Leg Armor. | Indefinite | Innate |   4   |   4   |    4    |   4   |     4     |     4     |   4   |    4    |    4    |   4   |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
+|  Brigandine Head Defense  |                    Works as Head Armor.                    | Indefinite | Innate | 0.39 |  0.39  |   0.39   | 0.39 |   0.39   |   0.39   | 0.39 |   0.39   |  0.39  | 0.39 |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
+|  Brigandine Body Defense  |                    Works as Body Armor.                    | Indefinite | Innate | 1.69 |  1.69  |   1.69   | 1.69 |   1.69   |   1.69   | 1.69 |   1.69   |  1.69  | 1.69 |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
+|  Brigandine Leg Defense  |                    Works as Leg Armor.                    | Indefinite | Innate | 1.00 |  1.00  |   1.00   | 1.00 |   1.00   |   1.00   | 1.00 |   1.00   |  1.00  | 1.00 |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
+|  Brigandine Arm Defense  |                    Works as Arm Armor.                    | Indefinite | Innate | 0.92 |  0.92  |   0.92   | 0.92 |   0.92   |   0.92   | 0.92 |   0.92   |  0.92  | 0.92 |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
+|                          |                                                            |            |        |      |        |          |      |          |          |      |          |        |      |      |        |        |          |      |            |        |          |
+|    Plate Armor Defense    | Works as Head Armor, Body Armor, Arm Armor, and Leg Armor. | Indefinite | Innate |   5   |   5   |    5    |   5   |     5     |     5     |   5   |    5    |    5    |   5   |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
+|    Plate Head Defense    |                    Works as Head Armor.                    | Indefinite | Innate | 0.53 |  0.53  |   0.53   | 0.53 |   0.53   |   0.53   | 0.53 |   0.53   |  0.53  | 0.53 |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
+|    Plate Body Defense    |                    Works as Body Armor.                    | Indefinite | Innate | 2.01 |  2.01  |   2.01   | 2.01 |   2.01   |   2.01   | 2.01 |   2.01   |  2.01  | 2.01 |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
+|     Plate Leg Defense     |                    Works as Leg Armor.                    | Indefinite | Innate | 1.23 |  1.23  |   1.23   | 1.23 |   1.23   |   1.23   | 1.23 |   1.23   |  1.23  | 1.23 |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
+|     Plate Arm Defense     |                    Works as Arm Armor.                    | Indefinite | Innate | 1.23 |  1.23  |   1.23   | 1.23 |   1.23   |   1.23   | 1.23 |   1.23   |  1.23  | 1.23 |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
+|                          |                                                            |            |        |      |        |          |      |          |          |      |          |        |      |      |        |        |          |      |            |        |          |
+|       Small Shield       |                           Shield                           | Indefinite | Innate |   1   |   1   |    1    |   1   |     0     |     0     |   0   |    0    |    0    |   0   |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
+|       Medium Shield       |                           Shield                           | Indefinite | Innate |   2   |   2   |    2    |   2   |     0     |     0     |   1   |    1    |    1    |   1   |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
+|       Large Shield       |                           Shield                           | Indefinite | Innate |   3   |   3   |    3    |   3   |     0     |     0     |   2   |    2    |    2    |   2   |  0  |   0   |   0   |    0    |   0   |      0      |    0    |     0     |
+
+### Defending Skill
+
+When a character is taking an injury from a Damage Type that has a Defending Skill, the can add the wins gained from their Defending Skill's Dice Pool to their Defense.
+
+The character can choose to take the static amount of wins or roll.
+
+**Static Wins:** For the Defending Skill, take the size of the Dice Pool, divide it by 2, and then round down to the nearst whole number.
+
+**Rolled Wins:** The wins achieved by rolling the Defending Skill's Dice Pool count as count as Defense.
+
+If in combat, the amount of wins gained from a Defending Skill remain for an entire round.
+
+#### Example
+
+A character takes a Serious Injury (level 3) from a poison spray. The Poison Damge Type's' Defending Skill is "Endurance". The character's Endurance Dice Pool is "5d6".
+
+**Choosing the Static Wins:** If the character takes the static wins, they have 2.5 wins. That means they are able to scale down the injury to a Minor Injury (level 1).
+
+**Choosing to Roll for Wins:** If the character wants to roll, they have the chance of negating the injury completely. If they rolled and got 3 wins, they would completely resist the injury. However, if they for instance only got 1 win, they would take a Medium Injury (level 2).
+
+### Armor
+
+Most Armor has a Defense. For item creation purposes, determining what portions a piece of armor will protect is useful.
+
+- Head Armor
+- Body Armor
+- Arm Armor
+- Leg Armor
+- Shield
+
+A character can wear two pieces of armor on the same body part, such as wearing a gambeson shirt under chain mail shirt or a breastplate, which was most certainly done in history.
+
+Shields generally takes up one of the character's hands when in use. Characters not actively using their shield as part of their combat/evasion roll do not benefit from the additional defense. Characters that are Off Guard or being attacked while unaware also do not benefit from the shield's defense.
+
+### What to do about attacks with Multiple damage types
+
+If a combat roll has a Physical damage type and a Bodily, Mental, or Spiritual damage type, then since it is combined with the physical attack it is only versus physical defense. An example would be poison applied to the blade of a weapon.
 
 ## Set Attribute Level Effect
 
