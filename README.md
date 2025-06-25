@@ -927,7 +927,7 @@ Let's say a character has the "Humanoid Carry Weight", Lift Skill Dice Pool of "
 
 First we calculate the Max Carry Weight, which would be ((3 * 50) + 0) = 150.
 
-Next, we need to determine what percentage of the character's Max Carry Weight their equipment currently taking up, which would be (30 / 150) = 20%.
+Next, we need to determine what percentage of the character's Max Carry Weight their equipment currently is taking up, which would be (30 / 150) = 20%.
 
 Therefore, since 20% is less than or equal to 25.0%, the character would have a Weight Class of "Light", which would apply the "Weight Class: Light" Attribute Dice Mod Effect.
 
