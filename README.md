@@ -893,7 +893,9 @@ Weight Class represent the physical strain of carrying equipment. Some character
 
 Carry Weight represents a character's ability to carry heavier equipment while still being able to move semi-normally.
 
-Max Carry Weight = (Max Carry Weight Base) + ( (Amount of Dice in Governing Skill Name Dice Pool) * (Max Carry Weight Per Dice) )
+It is important to note that when performing the Max Carry Weight calculation below, the Governing Skill Dice Pool should ignore any Attribute Dice Mod Effects that were gained from Carry Weight Effects. That is to say when determining "(Size of Governing Dice Pool)", disregard any Attribute Dice Mod Effects that comes from Carry Weight Effects.
+
+Max Carry Weight = (Max Carry Weight Base) + ( (Size of Governing Dice Pool) * (Max Carry Weight Per Dice) )
 
 **Governing Skill Name:** The name of the skill whose dice pool size you will use to calculate Max Carry Weight.
 
@@ -911,7 +913,9 @@ Max Carry Weight = (Max Carry Weight Base) + ( (Amount of Dice in Governing Skil
 |  Very Heavy  |          75.0          |        100.0        |  Weight Class: Very Heavy  |
 | Overburdened |          100.0          |         None         | Weight Class: Overburdened |
 
-Each Weight Class corresponds to an Attribute Dice Mod Effect that will be applied. Each Attribute Dice Mod Effect will almost always effect the same Attributes that Movement Speed relies on, meaning a heavier Weight Class will slow a character's Movement Speed.
+If a character is in a certain Weight Class than the Attribute Dice Mod Effect that associated with it will be applied to the character.
+
+Each Attribute Dice Mod Effect will almost always effect the same Attributes that Movement Speed relies on, meaning a heavier Weight Class will slow a character's Movement Speed.
 
 |         Name         |       Description       |  Duration  | Source | Governing Skill Name | Max Carry Weight Base | Max Carry Weight Per Dice |           Weight Classes           |
 | :-------------------: | :---------------------: | :--------: | :----: | :------------------: | :-------------------: | :-----------------------: | :--------------------------------: |
@@ -926,6 +930,114 @@ First we calculate the Max Carry Weight, which would be ((3 * 50) + 0) = 150.
 Next, we need to determine what percentage of the character's Max Carry Weight their equipment currently taking up, which would be (30 / 150) = 20%.
 
 Therefore, since 20% is less than or equal to 25.0%, the character would have a Weight Class of "Light", which would apply the "Weight Class: Light" Attribute Dice Mod Effect.
+
+## Movement Speed Effect
+
+Movement Speed is used in combat rounds to determine how far a character can move.
+
+Movement Speed Per Dice Pair Result = (Size of Governing Dice Pool) * (Movement Speed Per Dice)
+
+Movement Speed = (Movement Speed Base) + (#1 Movement Speed Per Dice Pair Result) + (#2 Movement Speed Per Dice Pair Result) + ect...
+
+|                  Name                  |                      Description                      |  Duration  | Source | Movement Speed Base |  Movement Speed Per Dice Pairs  |
+| :-------------------------------------: | :----------------------------------------------------: | :--------: | :----: | :-----------------: | :------------------------------: |
+|   Movement Speed: Terrestrial (Total)   | +2.5 ft per Dexterity Dice, +7.5 ft per Athletics Dice | Indefinite | Innate |          0          | (Dexterity,2.5), (Athletics,7.5) |
+| Movement Speed: Terrestrial (Dexterity) |               +2.5 ft per Dexterity Dice               | Indefinite | Innate |          0          |         (Dexterity,2.5)         |
+| Movement Speed: Terrestrial (Athletics) |               +7.5 ft per Athletics Dice               | Indefinite | Innate |          0          |         (Athletics,7.5)         |
+|                                        |                                                        |            |        |                    |                                  |
+|      Movement Speed: Swim (Total)      | +2.5 ft per Dexterity Dice, +5.0 ft per Athletics Dice | Indefinite | Innate |          0          |  (Dexterity,2.5), (Athletics,5)  |
+|    Movement Speed: Swim (Dexterity)    |               +2.5 ft per Dexterity Dice               | Indefinite | Innate |          0          |         (Dexterity,2.5)         |
+|    Movement Speed: Swim (Athletics)    |               +5.0 ft per Athletics Dice               | Indefinite | Innate |          0          |          (Athletics,5)          |
+|                                        |                                                        |            |        |                    |                                  |
+|      Movement Speed: Climb (Total)      |  +2.5 ft per Dexterity Dice, +5 ft per Athletics Dice  | Indefinite | Innate |          0          |  (Dexterity,2.5), (Athletics,5)  |
+|    Movement Speed: Climb (Dexterity)    |               +2.5 ft per Dexterity Dice               | Indefinite | Innate |          0          |         (Dexterity,2.5)         |
+|    Movement Speed: Climb (Athletics)    |                +5 ft per Athletics Dice                | Indefinite | Innate |          0          |          (Athletics,5)          |
+|                                        |                                                        |            |        |                    |                                  |
+|     Movement Speed: Flight (Total)     |  +5 ft per Dexterity Dice, +10 ft per Athletics Dice  | Indefinite | Innate |          0          |  (Dexterity,5), (Athletics,10)  |
+|   Movement Speed: Flight (Dexterity)   |                +5 ft per Dexterity Dice                | Indefinite | Innate |          0          |          (Dexterity,5)          |
+|   Movement Speed: Flight (Athletics)   |               +10 ft per Athletics Dice               | Indefinite | Innate |          0          |          (Athletics,10)          |
+|                                        |                                                        |            |        |                    |                                  |
+|     Movement Speed: Aquatic (Total)     | +2.5 ft per Dexterity Dice, +7.5 ft per Athletics Dice | Indefinite | Innate |          0          | (Dexterity,2.5), (Athletics,7.5) |
+|   Movement Speed: Aquatic (Dexterity)   |               +2.5 ft per Dexterity Dice               | Indefinite | Innate |          0          |         (Dexterity,2.5)         |
+|   Movement Speed: Aquatic (Athletics)   |               +7.5 ft per Athletics Dice               | Indefinite | Innate |          0          |         (Athletics,7.5)         |
+
+### Difficult Terrain
+
+Steep mountains, ice-covered ground, swamps, etc. are difficult terrain. It takes twice the movement to move through these terrains.
+
+### Dexterity Movement Speed
+
+Dexterity Movement Speed is the initial portion of a character's movement and represents how quick they are to get into motion and act.
+
+This can allow them to disengage from opponents, slip behind a door before it closes, avoid an Area Of Effect they are about to be caught in, close the distance to an opponent, ect...
+
+While lower Dexterity Movement Speed characters are deciding what to do, high Dexterity Movement Speed characters are already in motion.
+
+Dexterity Movement Speed can be used to resolve circumstances when it is unclear which character moved first or closed some distance. Dexterity Movement Speed is used first on a character's turn, with lower Dexterity Movement Speed characters considered to have not moved/acted yet.
+
+**Example 1:**
+
+A Rogue with a dagger is trying to close the distance on an archer who is 5 feet away.
+
+Their respective Dexterity Movement Speeds are 15 ft for the Rogue and 10 ft for the Archer.
+
+The Archer declares he is going to shoot the Rogue with his bow as he uses his Movement Speed to stay out of range of the knife.
+
+The rogue declares he is going to close the distance, attack with the knife, and stay on the archer. If the Rogue pulls this off, it will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks.
+
+Since the Rogue has 5 ft more Dexterity Movement Speed, he can move those 5 feet before the archer can lose the arrow, closing the distance. Now they will make combat rolls versus one another, with the Archer being at a clear disadvantage.
+
+The Archer, now likely wounded from the Rogue's knife, tries to use the rest of his Movement Speed to stay out of range from the Rogue's knife. Assuming the Rogue has the same or greater remaining movement speed as the Archer, the Rogue stays on the Archer and the gap is 0 feet, ready to stab him again next round.
+
+**Example 2:**
+
+A Rogue with a dagger is trying to close the distance on an Archer who is 15 feet away.
+
+Their respective Dexterity Movement Speeds are 15 ft for the Rogue and 10 ft for the Archer.
+
+The Archer declares he is going to shoot the Rogue with his bow as he uses his Movement Speed to stay out of range of the knife.
+
+The Rogue declares he is going to close the distance, attack with his knife, and stay close to the Archer. If the Rogue pulls this off, it will be disadvantageous for the Archer since melee versus ranged combat in close quarters favors melee attacks.
+
+Since the Rogue has 5 ft more Dexterity Movement Speed, he can move those 5 feet before the archer can lose the arrow, closing the distance. With 10 feet between the Rogue and the Archer, the arrow is shot. The Rogue must now try and dodge the arrow, before he can attack, possibly proving fatal.
+
+The Archer is then able to flee backward. Assuming he has the same or greater remaining movement speed than the possibly injured Rogue, the Archer can keep the 10 feet of distance between him and the rogue, never getting stabbed.
+
+**Example 3:**
+
+A Rogue with a dagger is trying to close the distance on an Knight who is 5 feet away standing in some slippery mud. The Knight is right on the edge of the mud pool, and the Rogue realizes if he can attack the Knight while he's standing in the mud, he has a better chance of defeating him.
+
+Their respective Dexterity Movement Speeds are 10 feet for the Rogue and 5 feet for the Knight.
+
+The Knight declares he is going to move forward out of the mud and swing on the Rogue with his longsword.
+
+The Rogue declares he is going to close the distance before the Knight moves out of the mud and try to stab the Knight.
+
+Since the Rogue has a higher Dexterity Movement Speeds, he can move 5 feet with his Dexterity Movement Speed before the Knight can move, closing the gap.
+
+Since the Knight already had his sword ready to go, combat rolls will be made, but the Knight will do so while having to deal with the disadvantageous position being in slippery mud.
+
+### Athletics Movement Speed
+
+Athletics Movement Speed is the second portion of a character's movement and represents how fast they are once at there top speed.
+
+Athletics Movement Speed should always make up a far greater amount of your Total Movement Speed as compared to Dexterity Movement Speed. Even though characters with higher Dexterity Movement Speed might be quicker to initially move, there is nothing prevent a high Athletics Movement Speed character from running them down.
+
+Unlike Dexterity Speed, were the character with the greater speed can move before the other charater, for Athletics Movement Speed both characters start moving at the same time.
+
+### Total Movement Speed
+
+Total Movement Speed is the combination of a character's Dexterity and Athletics Movement Speeds for a entire round. Therefore, a character can use both there Dexterity Movement Speed and Altheltics Movement Speed during a round.
+
+### Using multiple Movement Speeds on the same round
+
+Whenever a character needs to use multiple movement speeds in a round, calculate what percentage of their movement they've used that round for their initial movement, with the remainder percent being used for another movement speed.
+
+For example, if a character has 30 feet of "Terrestrial" and 15 feet of "Climb Combat Speed". The character walks 15 feet up to a climbable rock face. They've used 50% (15/30 = 0.5) of their movement speed, leaving them 50% of their climb combat speed. 50% of 15 feet is 7.5 feet. Therefore the character can climb 7.5 feet up the rock face.
+
+### Mounted Movement Speed
+
+The rider's Dexterity dice pool size is used for the mounts Dexterity Movement Speed calculation. Additionally, when a mounted character or their mount takes an injury in combat, a Dexterity or Riding skill check equivalent to the injury level must be succeeded to stay on horseback, or else they are knocked off.
 
 ## Narrative Effect
 
@@ -1520,114 +1632,6 @@ Else, the "Resource" is whatever was specified.
 |        Cold Enchantment        |                                                                                                                                                                                                                                                          Weapon additionally deals Cold damage.                                                                                                                                                                                                                                                          | Indefinite |        Innate        |
 |        The Anatoli Curse        |                                                                                                                                        The weapon is cursed on an individual, always return to the user no matter how the weapon is disposed. When this item is used in combat, the bearer becomes blood lusted with each subsequent kill, becoming increasingly bestially minded, possibly even attack friends.                                                                                                                                        | Indefinite |        Innate        |
 |           Light: Glow           |                                                                                                                                                                                                                                              Provides 20 ft radius bright light and 40 ft radius dim light.                                                                                                                                                                                                                                              | Indefinite |        Innate        |
-
-## Movement Speed Effect
-
-Movement Speed is used in combat rounds to determine how far a character can move.
-
-Movement Speed Per Dice Pair Result = (Size of Governing Dice Pool) * (Movement Speed Per Dice)
-
-Movement Speed = (Movement Speed Base) + (#1 Movement Speed Per Dice Pair Result) + (#2 Movement Speed Per Dice Pair Result) + ect...
-
-|                  Name                  |                      Description                      |  Duration  | Source | Movement Speed Base |  Movement Speed Per Dice Pairs  |
-| :-------------------------------------: | :----------------------------------------------------: | :--------: | :----: | :-----------------: | :------------------------------: |
-|   Movement Speed: Terrestrial (Total)   | +2.5 ft per Dexterity Dice, +7.5 ft per Athletics Dice | Indefinite | Innate |          0          | (Dexterity,2.5), (Athletics,7.5) |
-| Movement Speed: Terrestrial (Dexterity) |               +2.5 ft per Dexterity Dice               | Indefinite | Innate |          0          |         (Dexterity,2.5)         |
-| Movement Speed: Terrestrial (Athletics) |               +7.5 ft per Athletics Dice               | Indefinite | Innate |          0          |         (Athletics,7.5)         |
-|                                        |                                                        |            |        |                    |                                  |
-|      Movement Speed: Swim (Total)      | +2.5 ft per Dexterity Dice, +5.0 ft per Athletics Dice | Indefinite | Innate |          0          |  (Dexterity,2.5), (Athletics,5)  |
-|    Movement Speed: Swim (Dexterity)    |               +2.5 ft per Dexterity Dice               | Indefinite | Innate |          0          |         (Dexterity,2.5)         |
-|    Movement Speed: Swim (Athletics)    |               +5.0 ft per Athletics Dice               | Indefinite | Innate |          0          |          (Athletics,5)          |
-|                                        |                                                        |            |        |                    |                                  |
-|      Movement Speed: Climb (Total)      |  +2.5 ft per Dexterity Dice, +5 ft per Athletics Dice  | Indefinite | Innate |          0          |  (Dexterity,2.5), (Athletics,5)  |
-|    Movement Speed: Climb (Dexterity)    |               +2.5 ft per Dexterity Dice               | Indefinite | Innate |          0          |         (Dexterity,2.5)         |
-|    Movement Speed: Climb (Athletics)    |                +5 ft per Athletics Dice                | Indefinite | Innate |          0          |          (Athletics,5)          |
-|                                        |                                                        |            |        |                    |                                  |
-|     Movement Speed: Flight (Total)     |  +5 ft per Dexterity Dice, +10 ft per Athletics Dice  | Indefinite | Innate |          0          |  (Dexterity,5), (Athletics,10)  |
-|   Movement Speed: Flight (Dexterity)   |                +5 ft per Dexterity Dice                | Indefinite | Innate |          0          |          (Dexterity,5)          |
-|   Movement Speed: Flight (Athletics)   |               +10 ft per Athletics Dice               | Indefinite | Innate |          0          |          (Athletics,10)          |
-|                                        |                                                        |            |        |                    |                                  |
-|     Movement Speed: Aquatic (Total)     | +2.5 ft per Dexterity Dice, +7.5 ft per Athletics Dice | Indefinite | Innate |          0          | (Dexterity,2.5), (Athletics,7.5) |
-|   Movement Speed: Aquatic (Dexterity)   |               +2.5 ft per Dexterity Dice               | Indefinite | Innate |          0          |         (Dexterity,2.5)         |
-|   Movement Speed: Aquatic (Athletics)   |               +7.5 ft per Athletics Dice               | Indefinite | Innate |          0          |         (Athletics,7.5)         |
-
-### Difficult Terrain
-
-Steep mountains, ice-covered ground, swamps, etc. are difficult terrain. It takes twice the movement to move through these terrains.
-
-### Dexterity Movement Speed
-
-Dexterity Movement Speed is the initial portion of a character's movement and represents how quick they are to get into motion and act.
-
-This can allow them to disengage from opponents, slip behind a door before it closes, avoid an Area Of Effect they are about to be caught in, close the distance to an opponent, ect...
-
-While lower Dexterity Movement Speed characters are deciding what to do, high Dexterity Movement Speed characters are already in motion.
-
-Dexterity Movement Speed can be used to resolve circumstances when it is unclear which character moved first or closed some distance. Dexterity Movement Speed is used first on a character's turn, with lower Dexterity Movement Speed characters considered to have not moved/acted yet.
-
-**Example 1:**
-
-A Rogue with a dagger is trying to close the distance on an archer who is 5 feet away.
-
-Their respective Dexterity Movement Speeds are 15 ft for the Rogue and 10 ft for the Archer.
-
-The Archer declares he is going to shoot the Rogue with his bow as he uses his Movement Speed to stay out of range of the knife.
-
-The rogue declares he is going to close the distance, attack with the knife, and stay on the archer. If the Rogue pulls this off, it will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks.
-
-Since the Rogue has 5 ft more Dexterity Movement Speed, he can move those 5 feet before the archer can lose the arrow, closing the distance. Now they will make combat rolls versus one another, with the Archer being at a clear disadvantage.
-
-The Archer, now likely wounded from the Rogue's knife, tries to use the rest of his Movement Speed to stay out of range from the Rogue's knife. Assuming the Rogue has the same or greater remaining movement speed as the Archer, the Rogue stays on the Archer and the gap is 0 feet, ready to stab him again next round.
-
-**Example 2:**
-
-A Rogue with a dagger is trying to close the distance on an Archer who is 15 feet away.
-
-Their respective Dexterity Movement Speeds are 15 ft for the Rogue and 10 ft for the Archer.
-
-The Archer declares he is going to shoot the Rogue with his bow as he uses his Movement Speed to stay out of range of the knife.
-
-The Rogue declares he is going to close the distance, attack with his knife, and stay close to the Archer. If the Rogue pulls this off, it will be disadvantageous for the Archer since melee versus ranged combat in close quarters favors melee attacks.
-
-Since the Rogue has 5 ft more Dexterity Movement Speed, he can move those 5 feet before the archer can lose the arrow, closing the distance. With 10 feet between the Rogue and the Archer, the arrow is shot. The Rogue must now try and dodge the arrow, before he can attack, possibly proving fatal.
-
-The Archer is then able to flee backward. Assuming he has the same or greater remaining movement speed than the possibly injured Rogue, the Archer can keep the 10 feet of distance between him and the rogue, never getting stabbed.
-
-**Example 3:**
-
-A Rogue with a dagger is trying to close the distance on an Knight who is 5 feet away standing in some slippery mud. The Knight is right on the edge of the mud pool, and the Rogue realizes if he can attack the Knight while he's standing in the mud, he has a better chance of defeating him.
-
-Their respective Dexterity Movement Speeds are 10 feet for the Rogue and 5 feet for the Knight.
-
-The Knight declares he is going to move forward out of the mud and swing on the Rogue with his longsword.
-
-The Rogue declares he is going to close the distance before the Knight moves out of the mud and try to stab the Knight.
-
-Since the Rogue has a higher Dexterity Movement Speeds, he can move 5 feet with his Dexterity Movement Speed before the Knight can move, closing the gap.
-
-Since the Knight already had his sword ready to go, combat rolls will be made, but the Knight will do so while having to deal with the disadvantageous position being in slippery mud.
-
-### Athletics Movement Speed
-
-Athletics Movement Speed is the second portion of a character's movement and represents how fast they are once at there top speed.
-
-Athletics Movement Speed should always make up a far greater amount of your Total Movement Speed as compared to Dexterity Movement Speed. Even though characters with higher Dexterity Movement Speed might be quicker to initially move, there is nothing prevent a high Athletics Movement Speed character from running them down.
-
-Unlike Dexterity Speed, were the character with the greater speed can move before the other charater, for Athletics Movement Speed both characters start moving at the same time.
-
-### Total Movement Speed
-
-Total Movement Speed is the combination of a character's Dexterity and Athletics Movement Speeds for a entire round. Therefore, a character can use both there Dexterity Movement Speed and Altheltics Movement Speed during a round.
-
-### Using multiple Movement Speeds on the same round
-
-Whenever a character needs to use multiple movement speeds in a round, calculate what percentage of their movement they've used that round for their initial movement, with the remainder percent being used for another movement speed.
-
-For example, if a character has 30 feet of "Terrestrial" and 15 feet of "Climb Combat Speed". The character walks 15 feet up to a climbable rock face. They've used 50% (15/30 = 0.5) of their movement speed, leaving them 50% of their climb combat speed. 50% of 15 feet is 7.5 feet. Therefore the character can climb 7.5 feet up the rock face.
-
-### Mounted Movement Speed
-
-The rider's Dexterity dice pool size is used for the mounts Dexterity Movement Speed calculation. Additionally, when a mounted character or their mount takes an injury in combat, a Dexterity or Riding skill check equivalent to the injury level must be succeeded to stay on horseback, or else they are knocked off.
 
 ## Combat Roll Effect
 
