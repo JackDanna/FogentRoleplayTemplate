@@ -857,7 +857,7 @@ If you have two different effects active that buff or debuff some feature of you
 
 ## Attribute Dice Mod Effect
 
-Adds or subtracts dice for Dice Pools if they governed by at least one of the Attributes specified.
+An Attribute Dice Mod adds or subtracts dice for Dice Pools if they governed by at least one of the Attributes specified.
 
 **Affected Attributes:** If any skill is governed by at least one of the attribute listed, than apply the Dice Pool Modifier to that Skill's Dice Pool.
 
