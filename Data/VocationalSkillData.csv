@@ -1,4 +1,4 @@
-name,governingAttributes,description,optionalDamageTypes,optionalResourceType
+name,governingAttributes,description,optionalDamageTypes,optionalResource
 Hand Crossbow,"STR, RFX, INT",Covers combat activities related using a Hand Crossbow.,None,None
 Light Crossbow,"STR, RFX, INT",Covers combat activities related using a Light Crossbow.,None,None
 Heavy Crossbow,"STR, RFX, INT",Covers combat activities related using a Heavy Crossbow.,None,None
