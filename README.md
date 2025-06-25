@@ -933,11 +933,11 @@ Therefore, since 20% is less than or equal to 25.0%, the character would have a 
 
 ## Movement Speed Effect
 
-Movement Speed is used in combat rounds to determine how far a character can move.
+Movement Speed is used in Combat Rounds to determine how far a character can move.
 
-Movement Speed Per Dice Pair Result = (Size of Governing Dice Pool) * (Movement Speed Per Dice)
+Governing Skill And Movement Speed Per Dice Pair Result = (Size of Governing Dice Pool) * (Movement Speed Per Dice)
 
-Movement Speed = (Movement Speed Base) + (#1 Movement Speed Per Dice Pair Result) + (#2 Movement Speed Per Dice Pair Result) + ect...
+Movement Speed = (Movement Speed Base) + (#1 Governing Skill And Movement Speed Per Dice Pair Result) + (#2 Governing Skill And Movement Speed Per Dice Pair Result) + ect...
 
 **Movement Speed Base:** The base amount of Movement Speed for the Movement Speed Calculation.
 
