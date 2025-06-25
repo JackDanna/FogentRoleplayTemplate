@@ -802,6 +802,24 @@ Let's say a character's Uses Per Round for thier Combat Roll is "Quick". The gov
 
 Optional Max is "None", so there is no upper bound. We round down 2.38 to 2. Therfore the character would have 2 Uses Per Round for that round.
 
+## Destiny Points
+
+A Destiny Point represents a player's ability to tip the scales of fate in favor of their character.
+
+Destiny Point Effects are for the following two kinds of characters:
+
+- Player Characters are given "Destiny Points" and "Destiny Resistance" by default. "Destiny Points" allows players to influence the story at key moments they decide. "Destiny Resistance" is mainly to prevent Player Characters from wasting all there Destiny Points against one another on silly rolls.
+- Villain/Boss NPC can be given different combinations of these effects to dramatically increase how dangerous they are. Nothing scares players quite like telling them Destiny Points don't work versus a powerful foe...
+
+Destiny points are awarded when players perform actions that the Narrator wants to encourage.
+
+|        Name        |                                                                                                                                                                                                                                                                                                             Description                                                                                                                                                                                                                                                                                                             | Duration |    Source    |
+| :----------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :----------: |
+|   Destiny Points   | (0/3) A character can hold a max of 3 Destiny Points. Spending a "Preemptive Destiny Point" before rolling a dice pool gives Advantage on the resulting roll. Spending "Post Roll Destiny Points" adds additional Wins for each point spent, with the total Wins never exceeding the size of the dice pool. Destiny points are awarded when players perform actions that the Narrator wants to encourage. Examples include showing up to the game on time, exceptional roleplay, accomplishing a narrative milestone, and doing something in line with their character's personality even if at the detriment of wealth or progress. |          | The Narrator |
+| Destiny Resistance |                                                                                                                                                                                                                                                                                  "Post Roll Destiny Points" cannot be spent against this character.                                                                                                                                                                                                                                                                                  |          | The Narrator |
+|  Destiny Immunity  |                                                                                                                                                                                                                                                                                        Destiny Points cannot be spent against this character.                                                                                                                                                                                                                                                                                        |          | The Narrator |
+|   Destiny Chosen   |                                                                                                                                                                                                                                             Destiny Point Cap set to 6. Gain an additional Destiny Point whenever one is gained. Destiny begins to shape around the user's true desires.                                                                                                                                                                                                                                             |          | The Narrator |
+
 ## Effects
 
 An Effect simply describes some way a character or item could effect on the narrative.
@@ -871,23 +889,43 @@ Represent the physical strain of carrying equipment. Some characters will purpos
 |  Weight Class: Very Heavy  | -3d to STR/RFX governed Dice Pools | Indefinite | 75% < Equipment Weight <= 100% of Carry Weight |      STR, RFX      |        -3d        |
 | Weight Class: Overburdened | -4d to STR/RFX governed Dice Pools | Indefinite |    100% < Equipment Weight of Carry Weight    |      STR, RFX      |        -4d        |
 
-## Destiny Points
+## Carry Weight Effect
 
-A Destiny Point represents a player's ability to tip the scales of fate in favor of their character.
+Carry Weight represents a character's ability to carry heavier equipment while still being able to move semi-normally.
 
-Destiny Point Effects are for the following two kinds of characters:
+Max Carry Weight = (Max Carry Weight Base) + ( (Amount of Dice in Governing Skill Name Dice Pool) * (Max Carry Weight Per Dice) )
 
-- Player Characters are given "Destiny Points" and "Destiny Resistance" by default. "Destiny Points" allows players to influence the story at key moments they decide. "Destiny Resistance" is mainly to prevent Player Characters from wasting all there Destiny Points against one another on silly rolls.
-- Villain/Boss NPC can be given different combinations of these effects to dramatically increase how dangerous they are. Nothing scares players quite like telling them Destiny Points don't work versus a powerful foe...
+|         Name         |       Description       |  Duration  | Source | Governing Skill Name | Max Carry Weight Base | Max Carry Weight Per Dice |           Weight Classes           |
+| :-------------------: | :---------------------: | :--------: | :----: | :------------------: | :-------------------: | :-----------------------: | :--------------------------------: |
+| Humanoid Carry Weight | This is the description | Indefinite | Innate |         Lift         |           0           |            50            | Light, Medium, Heavy, Overburdened |
 
-Destiny points are awarded when players perform actions that the Narrator wants to encourage.
+**Governing Skill Name:** The name of the skill whose dice pool size you will use to calculate Max Carry Weight.
 
-|        Name        |                                                                                                                                                                                                                                                                                                             Description                                                                                                                                                                                                                                                                                                             | Duration |    Source    |
-| :----------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :----------: |
-|   Destiny Points   | (0/3) A character can hold a max of 3 Destiny Points. Spending a "Preemptive Destiny Point" before rolling a dice pool gives Advantage on the resulting roll. Spending "Post Roll Destiny Points" adds additional Wins for each point spent, with the total Wins never exceeding the size of the dice pool. Destiny points are awarded when players perform actions that the Narrator wants to encourage. Examples include showing up to the game on time, exceptional roleplay, accomplishing a narrative milestone, and doing something in line with their character's personality even if at the detriment of wealth or progress. |          | The Narrator |
-| Destiny Resistance |                                                                                                                                                                                                                                                                                  "Post Roll Destiny Points" cannot be spent against this character.                                                                                                                                                                                                                                                                                  |          | The Narrator |
-|  Destiny Immunity  |                                                                                                                                                                                                                                                                                        Destiny Points cannot be spent against this character.                                                                                                                                                                                                                                                                                        |          | The Narrator |
-|   Destiny Chosen   |                                                                                                                                                                                                                                             Destiny Point Cap set to 6. Gain an additional Destiny Point whenever one is gained. Destiny begins to shape around the user's true desires.                                                                                                                                                                                                                                             |          | The Narrator |
+**Max Carry Weight Base:** The base amount of Max Carry Weight for the calculation.
+
+**Max Carry Weight Per Dice:** The amount of additional Max Carry Weight per dice in the governing skill's dice pool.
+
+**Weight Classes:** For a Carry Weight Effect, Weight Classes represent the "classes" a character falls into depending on the percentage of their Max Carry Weight they are currently carrying. If the weight a character is carrying divided by their Max Carry Weight is greater than "Optional Bottom Percent" and less than or equal to "Optional Top Percent", than that is the character's Weight Class. If either "Optional Bottom Percent" or "Optional Top Percent" are "None", than they are not used in the above determination. This can be used to describe the lower or upper bond Weight Classes.
+
+Each Weight Class corresponds to an Attribute Dice Mod Effect that will be applied. Each Attribute Dice Mod Effect will almost always effect the same Attributes that Movement Speed relies on, meaning a heavier Weight Class will slow a character's Movement Speed.
+
+|     Name     | Optional Bottom Percent | Optional Top Percent | Attribute Dice Mod Effect |
+| :----------: | :---------------------: | :------------------: | :------------------------: |
+|    Light    |          None          |         25.0         |    Weight Class: Light    |
+|    Medium    |          25.0          |         50.0         |    Weight Class: Medium    |
+|    Heavy    |          50.0          |         75.0         |    Weight Class: Heavy    |
+|  Very Heavy  |          75.0          |        100.0        |  Weight Class: Very Heavy  |
+| Overburdened |          100.0          |         None         | Weight Class: Overburdened |
+
+**Example:**
+
+Let's say a character has the "Humanoid Carry Weight", Lift Skill Dice Pool of "3d6", and 30 lbs of equipment on them.
+
+First we calculate the Max Carry Weight, which would be ((3 * 50) + 0) = 150.
+
+Next, we need to determine what percentage of the character's Max Carry Weight their equipment currently taking up, which would be (30 / 150) = 20%.
+
+Therefore, since 20% is less than or equal to 25.0%, the character would have a Weight Class of "Light", which would apply the "Weight Class: Light" Attribute Dice Mod Effect.
 
 ## Narrative Effect
 
@@ -1822,44 +1860,6 @@ To calculated a Combat Roll's Dice Pool start with the Governing Skill's Dice Po
 **Example**
 
 Javk Wick the Rogue has two daggers he's dual-weilding. He wants to calculate the "Dual-wielded Slash Close Melee" Combat Roll his dagger's allow him to perfom. First, we start with determining what the Governing Skill is for "Dual-wielded Slash Close Melee" which is "Close Melee". Next, we determine that Javk's "Close Melee" Dice Pool is 6d6. Then, we adjust the tier of the Base Dice by the Combat Roll's Base Dice Adjustment which takes us from tier 0 (3d6) to tier 1 (1d8, 2d6), meaning the resulting Dice Pool is now "1d8, 5d6". Finally, we modify "1d8, 5d6" by the Combat Roll's Dice Pool Modifier of "+1d6" resulting in a "1d8, 6d6" Dice Pool for our Combat Roll.
-
-## Carry Weight Effect
-
-Carry Weight represents a character's ability to carry heavier equipment while still being able to move semi-normally.
-
-Max Carry Weight = (Max Carry Weight Base) + ( (Amount of Dice in Governing Skill Name Dice Pool) * (Max Carry Weight Per Dice) )
-
-|         Name         |       Description       |  Duration  | Source | Governing Skill Name | Max Carry Weight Base | Max Carry Weight Per Dice |           Weight Classes           |
-| :-------------------: | :---------------------: | :--------: | :----: | :------------------: | :-------------------: | :-----------------------: | :--------------------------------: |
-| Humanoid Carry Weight | This is the description | Indefinite | Innate |         Lift         |           0           |            50            | Light, Medium, Heavy, Overburdened |
-
-**Governing Skill Name:** The name of the skill whose dice pool size you will use to calculate Max Carry Weight.
-
-**Max Carry Weight Base:** The base amount of Max Carry Weight for the calculation.
-
-**Max Carry Weight Per Dice:** The amount of additional Max Carry Weight per dice in the governing skill's dice pool.
-
-**Weight Classes:** For a Carry Weight Effect, Weight Classes represent the "classes" a character falls into depending on the percentage of their Max Carry Weight they are currently carrying. If the weight a character is carrying divided by their Max Carry Weight is greater than "Optional Bottom Percent" and less than or equal to "Optional Top Percent", than that is the character's Weight Class. If either "Optional Bottom Percent" or "Optional Top Percent" are "None", than they are not used in the above determination. This can be used to describe the lower or upper bond Weight Classes.
-
-Each Weight Class corresponds to an Attribute Dice Mod Effect that will be applied. Each Attribute Dice Mod Effect will almost always effect the same Attributes that Movement Speed relies on, meaning a heavier Weight Class will slow a character's Movement Speed.
-
-|     Name     | Optional Bottom Percent | Optional Top Percent | Attribute Dice Mod Effect |
-| :----------: | :---------------------: | :------------------: | :------------------------: |
-|    Light    |          None          |         25.0         |    Weight Class: Light    |
-|    Medium    |          25.0          |         50.0         |    Weight Class: Medium    |
-|    Heavy    |          50.0          |         75.0         |    Weight Class: Heavy    |
-|  Very Heavy  |          75.0          |        100.0        |  Weight Class: Very Heavy  |
-| Overburdened |          100.0          |         None         | Weight Class: Overburdened |
-
-**Example:**
-
-Let's say a character has the "Humanoid Carry Weight", Lift Skill Dice Pool of "3d6", and 30 lbs of equipment on them.
-
-First we calculate the Max Carry Weight, which would be ((3 * 50) + 0) = 150.
-
-Next, we need to determine what percentage of the character's Max Carry Weight their equipment currently taking up, which would be (30 / 150) = 20%.
-
-Therefore, since 20% is less than or equal to 25.0%, the character would have a Weight Class of "Light", which would apply the "Weight Class: Light" Attribute Dice Mod Effect.
 
 ## Container Effect
 
