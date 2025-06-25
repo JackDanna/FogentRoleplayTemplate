@@ -837,6 +837,40 @@ If you have two different effects active that buff or debuff some feature of you
 - A character being able to move during a Combat Round could effect the narrative (Movement Speed Effect)
 - An item giving the weilder some improved ability to move in Combat Round could effect the narrative (Movement Speed)
 
+## Attribute Dice Mod Effect
+
+Adds or subtracts dice for Dice Pools if they governed by at least one of the Attributes specified.
+
+**Affected Attributes:** If any skill is governed by at least one of the attribute listed, than apply the Dice Pool Modifier to that Skill's Dice Pool.
+
+**Dice Pool Modifier:** The Dice Pool Modifier that will be applied to a Dice Pool.
+
+### Injury
+
+Injury is handled as part of the narrative with dice penalties being applied per injury to a character's dice checks.
+
+Typical "status effects" such as being poisoned, frostbitten, bleeding, madness, etc... are handled elegantly through the injury system. For instance, if you were dealt a Serious Injury by mild poison mist, then narratively explain it as getting a large breath full. If the character instead was dealt a Serious injury by an extremely lethal poison mist, then narratively it would be explained as only getting a small whiff. The resulting dice penalty acts as your "status effect" debuffing your character until they are resolved. For instance, anti-venom might be able to remove the poison injury or warming up by a fire might reduce hypothermia from the cold.
+
+|       Name       |                                                                                            Description                                                                                            |        Duration        |      Source      | Affected Attributes | Dice Pool Modifier |
+| :---------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------: | :--------------: | :-----------------: | :----------------: |
+|   Minor Injury   |                                 -1d to STR/RFX/INT/CHA governed Dice Pools. The injury will naturally heal over the next few days, or faster if treated actively.                                 |    Days if untreated    | Source of Injury | STR, RFX, INT, CHA |        -1d        |
+|   Medium Injury   |                          -2d to STR/RFX/INT/CHA governed Dice Pools. The injury must be treated relatively soon otherwise further penalties may apply such as infection.                          |   Weeks if untreated   | Source of Injury | STR, RFX, INT, CHA |        -2d        |
+|  Serious Injury  |                                                  -3d to STR/RFX/INT/CHA governed Dice Pools.  The injury will lead to death in time if untreated.                                                  |   Months if untreated   | Source of Injury | STR, RFX, INT, CHA |        -3d        |
+|   Fatal Injury   | -4d to STR/RFX/INT/CHA governed Dice Pools. The injury will lead to death very soon if untreated. The character inflicted with this injury is Physically Incapacitated (see the Narrative Effect). | Indefinite if untreated | Source of Injury | STR, RFX, INT, CHA |        -4d        |
+| Death Blow Injury |                                                                -5d to STR/RFX/INT/CHA governed Dice Pools. The injury causes death.                                                                |       Indefinite       | Source of Injury | STR, RFX, INT, CHA |        -5d        |
+
+**Weight Class:**
+
+Represent the physical strain of carrying equipment. Some characters will purposefully be in a higher weight class to gain the benefits of heavier armor and weapons, making up for their Carry weight penalty with better gear.
+
+|            Name            |            Description            |  Duration  |                     Source                     | Affected Attributes | Dice Pool Modifier |
+| :------------------------: | :--------------------------------: | :--------: | :--------------------------------------------: | :-----------------: | :----------------: |
+|    Weight Class: Light    | -0d to STR/RFX governed Dice Pools | Indefinite | 0% =< Equipment Weight <= 25% of Carry Weight |      STR, RFX      |        -0d        |
+|    Weight Class: Medium    | -1d to STR/RFX governed Dice Pools | Indefinite | 25% < Equipment Weight <= 50% of Carry Weight |      STR, RFX      |        -1d        |
+|    Weight Class: Heavy    | -2d to STR/RFX governed Dice Pools | Indefinite | 50% < Equipment Weight <= 75% of Carry Weight |      STR, RFX      |        -2d        |
+|  Weight Class: Very Heavy  | -3d to STR/RFX governed Dice Pools | Indefinite | 75% < Equipment Weight <= 100% of Carry Weight |      STR, RFX      |        -3d        |
+| Weight Class: Overburdened | -4d to STR/RFX governed Dice Pools | Indefinite |    100% < Equipment Weight of Carry Weight    |      STR, RFX      |        -4d        |
+
 ## Destiny Points
 
 A Destiny Point represents a player's ability to tip the scales of fate in favor of their character.
@@ -854,20 +888,6 @@ Destiny points are awarded when players perform actions that the Narrator wants 
 | Destiny Resistance |                                                                                                                                                                                                                                                                                  "Post Roll Destiny Points" cannot be spent against this character.                                                                                                                                                                                                                                                                                  |          | The Narrator |
 |  Destiny Immunity  |                                                                                                                                                                                                                                                                                        Destiny Points cannot be spent against this character.                                                                                                                                                                                                                                                                                        |          | The Narrator |
 |   Destiny Chosen   |                                                                                                                                                                                                                                             Destiny Point Cap set to 6. Gain an additional Destiny Point whenever one is gained. Destiny begins to shape around the user's true desires.                                                                                                                                                                                                                                             |          | The Narrator |
-
-## Injury
-
-Injury is handled as part of the narrative with dice penalties being applied per injury to a character's dice checks.
-
-|       Name       |                                                                                            Description                                                                                            |        Duration        |      Source      | Affected Attributes | Dice Pool Modifier |
-| :---------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------: | :--------------: | :-----------------: | :----------------: |
-|   Minor Injury   |                                 -1d to STR/RFX/INT/CHA governed Dice Pools. The injury will naturally heal over the next few days, or faster if treated actively.                                 |    Days if untreated    | Source of Injury | STR, RFX, INT, CHA |        -1d        |
-|   Medium Injury   |                          -2d to STR/RFX/INT/CHA governed Dice Pools. The injury must be treated relatively soon otherwise further penalties may apply such as infection.                          |   Weeks if untreated   | Source of Injury | STR, RFX, INT, CHA |        -2d        |
-|  Serious Injury  |                                                  -3d to STR/RFX/INT/CHA governed Dice Pools.  The injury will lead to death in time if untreated.                                                  |   Months if untreated   | Source of Injury | STR, RFX, INT, CHA |        -3d        |
-|   Fatal Injury   | -4d to STR/RFX/INT/CHA governed Dice Pools. The injury will lead to death very soon if untreated. The character inflicted with this injury is Physically Incapacitated (see the Narrative Effect). | Indefinite if untreated | Source of Injury | STR, RFX, INT, CHA |        -4d        |
-| Death Blow Injury |                                                                -5d to STR/RFX/INT/CHA governed Dice Pools. The injury causes death.                                                                |       Indefinite       | Source of Injury | STR, RFX, INT, CHA |        -5d        |
-
-Typical "status effects" such as being poisoned, frostbitten, bleeding, madness, etc... are handled elegantly through the injury system. For instance, if you were dealt a Serious Injury by mild poison mist, then narratively explain it as getting a large breath full. If the character instead was dealt a Serious injury by an extremely lethal poison mist, then narratively it would be explained as only getting a small whiff. The resulting dice penalty acts as your "status effect" debuffing your character until they are resolved. For instance, anti-venom might be able to remove the poison injury or warming up by a fire might reduce hypothermia from the cold.
 
 ## Narrative Effect
 
@@ -1883,32 +1903,6 @@ When representing a container on a character sheet, a similar table as the one b
 | Blowgun       | 1 | One-handed Blowgun |  1  | 10 bc |             |
 | Ring, Mundane | 1 |                    | 0.2 | 30 cc |             |
 | Copper Coin   | 70 |                    | 0.02 | 1 cc |             |
-
-## Attribute Dice Mod Effect
-
-Adds or subtracts dice for dice pools if they governed by at least one of the Attributes specified.
-
-**Affected Attributes:** If any skill is governed by at least one of the attribute listed, than apply the Dice Pool Modifier to that Skill's Dice Pool.
-
-**Dice Pool Modifier:** The Dice Pool Modifier that will be applied to a Dice Pool.
-
-|            Name            |                                                                                            Description                                                                                            |        Duration        |                     Source                     | Affected Attributes | Dice Pool Modifier |
-| :------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------: | :--------------------------------------------: | :-----------------: | :----------------: |
-|        Minor Injury        |                                 -1d to STR/RFX/INT/CHA governed Dice Pools. The injury will naturally heal over the next few days, or faster if treated actively.                                 |    Days if untreated    |                Source of Injury                | STR, RFX, INT, CHA |        -1d        |
-|       Medium Injury       |                          -2d to STR/RFX/INT/CHA governed Dice Pools. The injury must be treated relatively soon otherwise further penalties may apply such as infection.                          |   Weeks if untreated   |                Source of Injury                | STR, RFX, INT, CHA |        -2d        |
-|       Serious Injury       |                                                  -3d to STR/RFX/INT/CHA governed Dice Pools.  The injury will lead to death in time if untreated.                                                  |   Months if untreated   |                Source of Injury                | STR, RFX, INT, CHA |        -3d        |
-|        Fatal Injury        | -4d to STR/RFX/INT/CHA governed Dice Pools. The injury will lead to death very soon if untreated. The character inflicted with this injury is Physically Incapacitated (see the Narrative Effect). | Indefinite if untreated |                Source of Injury                | STR, RFX, INT, CHA |        -4d        |
-|     Death Blow Injury     |                                                                -5d to STR/RFX/INT/CHA governed Dice Pools. The injury causes death.                                                                |       Indefinite       |                Source of Injury                | STR, RFX, INT, CHA |        -5d        |
-|                            |                                                                                                                                                                                                    |                        |                                                |                    |                    |
-|    Weight Class: Light    |                                                                                 -0d to STR/RFX governed Dice Pools                                                                                 |       Indefinite       | 0% =< Equipment Weight <= 25% of Carry Weight |      STR, RFX      |        -0d        |
-|    Weight Class: Medium    |                                                                                 -1d to STR/RFX governed Dice Pools                                                                                 |       Indefinite       | 25% < Equipment Weight <= 50% of Carry Weight |      STR, RFX      |        -1d        |
-|    Weight Class: Heavy    |                                                                                 -2d to STR/RFX governed Dice Pools                                                                                 |       Indefinite       | 50% < Equipment Weight <= 75% of Carry Weight |      STR, RFX      |        -2d        |
-|  Weight Class: Very Heavy  |                                                                                 -3d to STR/RFX governed Dice Pools                                                                                 |       Indefinite       | 75% < Equipment Weight <= 100% of Carry Weight |      STR, RFX      |        -3d        |
-| Weight Class: Overburdened |                                                                                 -4d to STR/RFX governed Dice Pools                                                                                 |       Indefinite       |    100% < Equipment Weight of Carry Weight    |      STR, RFX      |        -4d        |
-
-**Weight Class:**
-
-Represent the physical strain of carrying equipment. Some characters will purposefully be in a higher weight class to gain the benefits of heavier armor and weapons, making up for their Carry weight penalty with better gear.
 
 ## Attribute Level Adjustment Effect
 
