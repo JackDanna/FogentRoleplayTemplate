@@ -895,10 +895,6 @@ Carry Weight represents a character's ability to carry heavier equipment while s
 
 Max Carry Weight = (Max Carry Weight Base) + ( (Amount of Dice in Governing Skill Name Dice Pool) * (Max Carry Weight Per Dice) )
 
-|         Name         |       Description       |  Duration  | Source | Governing Skill Name | Max Carry Weight Base | Max Carry Weight Per Dice |           Weight Classes           |
-| :-------------------: | :---------------------: | :--------: | :----: | :------------------: | :-------------------: | :-----------------------: | :--------------------------------: |
-| Humanoid Carry Weight | This is the description | Indefinite | Innate |         Lift         |           0           |            50            | Light, Medium, Heavy, Overburdened |
-
 **Governing Skill Name:** The name of the skill whose dice pool size you will use to calculate Max Carry Weight.
 
 **Max Carry Weight Base:** The base amount of Max Carry Weight for the calculation.
@@ -907,8 +903,6 @@ Max Carry Weight = (Max Carry Weight Base) + ( (Amount of Dice in Governing Skil
 
 **Weight Classes:** For a Carry Weight Effect, Weight Classes represent the "classes" a character falls into depending on the percentage of their Max Carry Weight they are currently carrying. If the weight a character is carrying divided by their Max Carry Weight is greater than "Optional Bottom Percent" and less than or equal to "Optional Top Percent", than that is the character's Weight Class. If either "Optional Bottom Percent" or "Optional Top Percent" are "None", than they are not used in the above determination. This can be used to describe the lower or upper bond Weight Classes.
 
-Each Weight Class corresponds to an Attribute Dice Mod Effect that will be applied. Each Attribute Dice Mod Effect will almost always effect the same Attributes that Movement Speed relies on, meaning a heavier Weight Class will slow a character's Movement Speed.
-
 |     Name     | Optional Bottom Percent | Optional Top Percent | Attribute Dice Mod Effect |
 | :----------: | :---------------------: | :------------------: | :------------------------: |
 |    Light    |          None          |         25.0         |    Weight Class: Light    |
@@ -916,6 +910,12 @@ Each Weight Class corresponds to an Attribute Dice Mod Effect that will be appli
 |    Heavy    |          50.0          |         75.0         |    Weight Class: Heavy    |
 |  Very Heavy  |          75.0          |        100.0        |  Weight Class: Very Heavy  |
 | Overburdened |          100.0          |         None         | Weight Class: Overburdened |
+
+Each Weight Class corresponds to an Attribute Dice Mod Effect that will be applied. Each Attribute Dice Mod Effect will almost always effect the same Attributes that Movement Speed relies on, meaning a heavier Weight Class will slow a character's Movement Speed.
+
+|         Name         |       Description       |  Duration  | Source | Governing Skill Name | Max Carry Weight Base | Max Carry Weight Per Dice |           Weight Classes           |
+| :-------------------: | :---------------------: | :--------: | :----: | :------------------: | :-------------------: | :-----------------------: | :--------------------------------: |
+| Humanoid Carry Weight | This is the description | Indefinite | Innate |         Lift         |           0           |            50            | Light, Medium, Heavy, Overburdened |
 
 **Example:**
 
