@@ -877,9 +877,9 @@ Typical "status effects" such as being poisoned, frostbitten, bleeding, madness,
 |   Fatal Injury   | -4d to STR/RFX/INT/CHA governed Dice Pools. The injury will lead to death very soon if untreated. The character inflicted with this injury is Physically Incapacitated (see the Narrative Effect). | Indefinite if untreated | Source of Injury | STR, RFX, INT, CHA |        -4d        |
 | Death Blow Injury |                                                                -5d to STR/RFX/INT/CHA governed Dice Pools. The injury causes death.                                                                |       Indefinite       | Source of Injury | STR, RFX, INT, CHA |        -5d        |
 
-**Weight Class:**
+### Weight Class
 
-Represent the physical strain of carrying equipment. Some characters will purposefully be in a higher weight class to gain the benefits of heavier armor and weapons, making up for their Carry weight penalty with better gear.
+Weight Class represent the physical strain of carrying equipment. Some characters will purposefully be in a higher weight class to gain the benefits of heavier armor and weapons, making up for their Carry weight penalty with better gear.
 
 |            Name            |            Description            |  Duration  |                     Source                     | Affected Attributes | Dice Pool Modifier |
 | :------------------------: | :--------------------------------: | :--------: | :--------------------------------------------: | :-----------------: | :----------------: |
