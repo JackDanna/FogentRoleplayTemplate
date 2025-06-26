@@ -931,6 +931,24 @@ Next, we need to determine what percentage of the character's Max Carry Weight t
 
 Therefore, since 20% is less than or equal to 25.0%, the character would have a Weight Class of "Light", which would apply the "Weight Class: Light" Attribute Dice Mod Effect.
 
+## Currency
+
+Currency represents the units of value that are used for representing wealth, commerce, ect... Generally within a Setting, their will be currency that represents a certain amount of value.
+
+**Name:** The name of the Currency.
+
+**Abbreviation:** The abbreviation of the currency.
+
+**Value:** The value of the currency. It is helpful to first define the least valuable currency and set it's value equal to 1.
+
+|     Name     | Abbreviation |    Value    |
+| :-----------: | :----------: | :---------: |
+|   Tin Coin   |      tc      |      1      |
+|  Copper Coin  |      cc      |     100     |
+|  Silver Coin  |      sc      |   10,000   |
+|   Gold Coin   |      gc      |  1,000,000  |
+| Platinum Coin |      pc      | 100,000,000 |
+
 ## Item Stack
 
 An Item Stack represents a collection of an Item.
