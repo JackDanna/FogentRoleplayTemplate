@@ -37,7 +37,6 @@ Poleaxe,1,"One-handed Hew Large Melee, Two-handed Hew Large Melee, One-handed Bl
 Spear,1,"One-handed Large Spear, Two-handed Large Spear, One-handed Thrown Large Spear, Resource Pool: Thrown Large Spear",3,1 bc,
 Quarterstaff with Hidden Spear,1,"One-handed Bludgeon Large Melee, Two-handed Bludgeon Large Melee, One-handed Large Spear, Two-handed Large Spear, One-handed Thrown Large Spear, Resource Pool: Thrown Large Spear",4,2 bc,
 ,,,,,
-Ogre's Spiked Club,1,"One-handed Bludgeon Reach Melee, Two-handed Bludgeon Reach Melee",14,41 cc,
 Glaive,1,"One-handed Slash Reach Melee, Two-handed Slash Reach Melee",6,20 bc,
 Greatsword,1,"One-handed Slash Reach Melee, Two-handed Slash Reach Melee, One-handed Pierce Reach Melee, Two-handed Pierce Reach Melee",6,50 bc,
 Swordstaff,1,"One-handed Slash Reach Melee, Two-handed Slash Reach Melee, One-handed Reach Spear, Two-handed Reach Spear",6,50 bc,
@@ -124,215 +123,6 @@ Kite Shield,1,Medium Shield,8,7 bc,
 Tower Shield,1,Large Shield,25,150 bc,
 ,,,,,
 ,,,,,
-Targe Shield,1,Small Shield,4,2 bc,
-Parma Shield,1,Small Shield,4,2 bc,
-Hoplon Shield,1,Medium Shield,8,7 bc,
-Pavise Shield,1,Medium Shield,8,7 bc,
-Heater Shield,1,Medium Shield,8,7 bc,
-Kite Shield (Dawn Emp. Crest),1,Medium Shield,8,30 bc,
-Asher’s Arms Bollock Dagger,1,"One-handed Pierce Close Melee +5, Dual-wielded Pierce Close Melee +5, One-handed Slash Close Melee +5, Dual-wielded Slash Close Melee +5, One-handed Thrown Pierce Close Melee +5, Dual-wielded Thrown Pierce Close Melee +5, Resource Pool: Thrown Pierce Close Melee +5",1,10 bc,
-Dragon Torch,1,"One-handed Torch Close Melee +12, Dual-wielded Torch Close Melee +12, Spellcasting Focus",3,9999 bc,
-Quality Swordbreaker,1,"One-handed Slash Close Melee +1, Dual-wielded Slash Close Melee +1, One-handed Pierce Close Melee -1, Dual-wielded Pierce Close Melee -1, One-handed Thrown Pierce Close Melee -1, Dual-wielded Thrown Pierce Close Melee -1, Resource Pool: Thrown Pierce Close Melee -1, Swordbreaker Blade Catch",1,28 bc,
-Swordbreaker,1,"One-handed Slash Close Melee, Dual-wielded Slash Close Melee, Resource Pool: Thrown Slash Close Melee, Swordbreaker Blade Catch",1,25 bc,
-Crude Dragon Mask,1,,0.5,?,A mask associated with the Beast of Reddwall.
-Petty Brightstone,1,Light Storage,0.1,?,"Brightstone is a rare gem that can hold light. The only place it can be found is near Crossroads, where it is said that Bright Lord fell after taking a hit from Amon during the Great Betrayal. The finer and more precisely the gem is cut the more light it can hold."
-Mechanical Heart,1,"Phenomena Detection, Forbidden Whispers",1,?,"""With this Heart, I will hear many secrets…"" - Unknown
-
-Said to have been designed by the lord of Tuntin, who subsequently died in the fire that burned his estate to the ground. A vessel designed to contain a soul, it is used to help uncover runecrafts and other supernatural events throughout Terra."
-Smithing Stone Fragment,1,,0.1,10 bc,
-Smithing Stone Shard,1,,0.2,50 bc,
-Large Smithing Stone Shard,1,,1,100 bc,
-Smithing Stone Chunk,1,,5,250 bc,
-Smithing Stone Slab,1,,40,?,
-Leather Cuisses and Greaves of Speed,1,"Leg Armor, Phy. Def. 0.5, Minorly Enhanced Athletics",3,2 bc,
-Monkey Staff,1,"One-handed Bludgeon Close Melee +1, Dual-wielded Bludgeon Close Melee +1, One-handed Thrown Bludgeon Close Melee +1, Dual-wielded Thrown Bludgeon Close Melee +1, Resource Pool: Thrown Bludgeon Close Melee +1, One-handed Bludgeon Medium Melee +3, Two-handed Bludgeon Medium Melee +3, Dual-wielded Bludgeon Medium Melee +3, One-handed Bludgeon Large Melee +3, Two-handed Bludgeon Large Melee +3, One-handed Bludgeon Reach Melee +3, Two-handed Bludgeon Reach Melee +3, Extendable Weapon",4,?,"""Monkey see, Monkey do"" - Arinoth the Enlightened
-
-A staff from the Jungles of Leodelphia. This is all that remains of Arinoth the Enlightened's home."
-"""Youth""",1,"One-handed Pierce Large Melee +5, Two-handed Pierce Large Melee +5, One-handed Slash Large Melee +5, Two-handed Slash Large Melee +5",3,25 bc,
-Steelclaw,1,"One-handed Pierce Large Melee +2, Two-handed Pierce Large Melee +2, One-handed Slash Large Melee +2, Two-handed Slash Large Melee +2",3,25 bc,This sword was cursed upon Vasilii Anatoli after using it to kill his eldest brother. It is a constant reminder of his shame.
-Frostbark,1,"One-handed Hew Large Melee +3, Two-handed Hew Large Melee +3, Spellcasting Focus, Cold Enchantment",4,? bc,"A Dane axe imbued with the frost found on the high peaks of the Spine of the World. Its solid oak handle appears grown into the axe head, securing it solidly in place. Latent nature and cold magic is present within the handle."
-Draupnir Spear,1,"One-handed Medium Spear +3, Dual-wielded Medium Spear +3, One-handed Thrown Medium Spear +3, Resource Pool: Thrown Medium Spear +3, One-handed Large Spear +3, Two-handed Large Spear +3, One-handed Thrown Large Spear +3, Resource Pool: Thrown Large Spear +3, One-handed Reach Spear +3, Two-handed Reach Spear +3, Spellcasting Focus, Draupnir",3,? bc,"Said to have been crafted by Siren smith long ago with the blood of a god...
-
-This spear can be used as a Air Spellcasting Focus."
-Asher's Arms Swordbreaker,1,"One-handed Slash Close Melee +2, Dual-wielded Slash Close Melee +2, One-handed Pierce Close Melee -1, Dual-wielded Pierce Close Melee -1, One-handed Thrown Pierce Close Melee -1, Dual-wielded Thrown Pierce Close Melee -1, Resource Pool: Thrown Pierce Close Melee -1, Swordbreaker Blade Catch",1,?,"A fine swordbreaker purchased from Asher’s Arm, a well regarded establishment in Reddwall known for their grayish blue steel. Swordbreakers were a favorite weapon of Lord Flint Reddington. He commissioned many swordbreakers just like this one for use in dueling.
-
-Swordbreakers, often wielded offhand to a main hand sword. They are designed to catch and bind the opponent's blade, leaving the opponent open for a decisive attack from the main hand weapon."
-Talon - Replica,1,"One-handed Pierce Close Melee +1, Dual-wielded Pierce Close Melee +1, One-handed Slash Close Melee +1, Dual-wielded Slash Close Melee +1",1.5,?,"Quality shortsword taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Talon short sword, a Despereaux family heirloom."
-Fang - Replica,1,"One-handed Pierce Close Melee +1, Dual-wielded Pierce Close Melee +1, One-handed Slash Close Melee +1, Dual-wielded Slash Close Melee +1, One-handed Thrown Pierce Close Melee +1, Dual-wielded Thrown Pierce Close Melee +1",1,?,"Quality karambit knife taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Fang karambit knife, a Despereaux family heirloom."
-Sirius’s Sword,1,"One-handed Pierce Medium Melee +2, Dual-wielded Pierce Medium Melee +2, One-handed Slash Medium Melee +2, Dual-wielded Slash Medium Melee +2",2,?,"Fine arming sword of Sirius Roseblood, first of his name. A fine sword, marked with the emblem of the dwindling House Roseblood on the crossguard.
-
-House Roseblood isn't as wealthy as it once was during the height of the witch queen's reign. As a result, they do not have the coin for the finest craftsmen for children’s swords, owing to the more modest nature of this sword."
-Staff of Defense,1,"One-handed Bludgeon Large Melee +3, Two-handed Bludgeon Large Melee +3, Spellcasting Focus, Defense Spells, Physical Defense 1.00",3,?,
-Hew,1,"One-handed Hew Medium Melee +3, Two-handed Hew Medium Melee +3, Dual-wielded Hew Medium Melee +3, Splinter",4,?,"""When you chop wood, splinters fly.""  - Anonymous
-
-An unassuming double bladed, rusty, yet excellently crafted battleaxe both as versatile at chopping wood as chopping skulls.
-
-Runecraft scholars have traced the origin of this axe to the first Fellkin who began harvesting the great iron woods of Reddland. Needing a tool that was both capable of felling the great iron woods and fending back the monstrous Leshens that roamed the forest, this weapon was forged."
-Char - Damaged,1,"One-handed Pierce Reach Melee -2, Two-handed Pierce Reach Melee -2, One-handed Slash Reach Melee -2, Two-handed Slash Reach Melee -2, Fire Repair and Enhancement",6,?,"""It has been in the family for a bit, passed down from father to son. It’ll be yours one day junior. Who knows, you might need it someday."" -Destin Shaffer Sr.
-
-An apparently mundane greatsword with a partially shattered tip “acquired” and used by Destin Shaffer. Destin took this sword when he left his mother and father. Taken because it was the least valuable weapon at his parents' blacksmith shop as his guilt prevented him from taking anything nicer. He always wondered why his step-father kept the hunk of junk leaning up against the wall.
-
-Destin used this blade in his time as a mercenary. He had plenty of opportunities to claim more elegant weapons from fallen opponents, though he could never part with the blade.
-
-During Destin's confrontation with the Demon Helena, he sacrificed the damaged blade for one more powerful strike to in a desperate attempt defend the fleeing prisoner’s and his friends. The sword shattered, though somehow managed to hold itself together, surging with red heat visible through the cracks. Recently, Destin has discovered that the weapon seems capable of repairing itself under extreme heat.
-
-Shattered and broken, Destin continues to carry this blade."
-Char - Shoddy,1,"One-handed Pierce Reach Melee -1, Two-handed Pierce Reach Melee -1, One-handed Slash Reach Melee -1, Two-handed Slash Reach Melee -1, Fire Repair and Enhancement",6,?,"""It has been in the family for a bit, passed down from father to son. It’ll be yours one day junior. Who knows, you might need it someday."" -Destin Shaffer Sr.
-
-An apparently mundane greatsword with a partially shattered tip “acquired” and used by Destin Shaffer. Destin took this sword when he left his mother and father. Taken because it was the least valuable weapon at his parents' blacksmith shop as his guilt prevented him from taking anything nicer. He always wondered why his step-father kept the hunk of junk leaning up against the wall.
-
-Destin used this blade in his time as a mercenary. He had plenty of opportunities to claim more elegant weapons from fallen opponents, though he could never part with the blade.
-
-During Destin's confrontation with the Demon Helena, he sacrificed the damaged blade for one more powerful strike to in a desperate attempt defend the fleeing prisoner’s and his friends. The sword shattered, though somehow managed to hold itself together, surging with red heat visible through the cracks. Recently, Destin has discovered that the weapon seems capable of repairing itself under extreme heat.
-
-Shattered and broken, Destin continues to carry this blade."
-Char,1,"One-handed Pierce Reach Melee, Two-handed Pierce Reach Melee, One-handed Slash Reach Melee, Two-handed Slash Reach Melee, Fire Repair and Enhancement",6,?,"""It has been in the family for a bit, passed down from father to son. It’ll be yours one day junior. Who knows, you might need it someday."" -Destin Shaffer Sr.
-
-An apparently mundane greatsword with a partially shattered tip “acquired” and used by Destin Shaffer. Destin took this sword when he left his mother and father. Taken because it was the least valuable weapon at his parents' blacksmith shop as his guilt prevented him from taking anything nicer. He always wondered why his step-father kept the hunk of junk leaning up against the wall.
-
-Destin used this blade in his time as a mercenary. He had plenty of opportunities to claim more elegant weapons from fallen opponents, though he could never part with the blade.
-
-During Destin's confrontation with the Demon Helena, he sacrificed the damaged blade for one more powerful strike to in a desperate attempt defend the fleeing prisoner’s and his friends. The sword shattered, though somehow managed to hold itself together, surging with red heat visible through the cracks. Recently, Destin has discovered that the weapon seems capable of repairing itself under extreme heat.
-
-Shattered and broken, Destin continues to carry this blade."
-Epilogue,1,"One-handed Pierce Medium Melee +3, Dual-wielded Pierce Medium Melee +3, One-handed Slash Medium Melee +3, Dual-wielded Slash Medium Melee +3, Ending",2,?,"""There is no real ending. It's just a place where you stop the story.""
-
-This excellent slender bastard sword is perfectly balanced. Nimble, thin, and razor sharp.
-
-A relatively unknown Runecraft to the wider populace, this sword is highly debated by scholars of war and Runecrafts. ""Ending"", ""Epilogue"", ""The Last Word"", ""An Ending to things"", ect… are all names for what scholars believe is the same sword recorded across many myths from various cultures, long into the past. Always described as a slender, long, graceful sword as easy to use in one hand as two. This sword seems to end up in the hands of ill fated rogues and rebels.
-
-Killing with this weapon seems to mysteriously decapitate the victim's head from their bodies. In some tales it is only when the user of the sword deals a killing blow, while in older tales a single nick from the blade would lead to instant decapitation. Users report seeing flashes of the life they’ve cut off and all the generations in an instant.
-
- Appearing in various forms throughout history such as a rapier or slender long sword. This has led some scholars to argue that this sword is in fact multiple swords with similar effects. The Battle Scholars of the Dawn Empire had this weapon in their great collection in Crossroads long ago, and it was mysteriously lost. They recorded the weapon as only decapitating on a death blow, testing it on condemned criminals. Such a weak effect led to reduced research on the weapon while it was in their possession. However, they never were able to replicate its Runecraft, odd for such a weak effect. No weapon has ever been recorded as having a similar effect, leaving some scholars to ponder if there is more to this Runecraft…"
-Echo,1,"One-handed Pierce Medium Melee +5, Two-handed Pierce Medium Melee +5, Dual-wielded Pierce Medium Melee +5, One-handed Slash Medium Melee +5, Two-handed Slash Medium Melee +5, Dual-wielded Slash Medium Melee +5",2,?,"""What is a myth? An echo of the past in the future. I can hear it dear sister, can't you…"" - Lord Maxwell Reddington
-
-The arming sword of Lord Maxwell Reddington, taken from the crypt underneath Castle Tearstone.
-
-Lord Maxwell Reddington was heir to House Reddington and to the Kingdom of Reddland. Maxwell was an academic of Byrgenwerth, like his sister Veronica, and was fascinated by the ancient culture of the Siren’s who used to call Reddwall their own. He spent much of his time and dowry funding expeditions into the ancient Siren catacombs that Reddwall stand up today. On one of these expeditions with his younger sister Lady Veronica Reddington, they discovered something deep within the catacombs. Maxwell returned with this sword and Veronica shortly after invented the first healing bloods of Reddwall.
-
-After that fateful day, Maxwell began to worship the Moon Presence. On a diplomatic mission to Crossroads with his sister, Maxwell had an apparent mental breakdown. He raved and blasphemed the Bright Lord in front of the Emperor, and was sentenced to death for his heresy. Veronica was held hostage and war between Reddland and the Empire almost erupted. However, an outlaw pirate Lord known as the Laughing Storm blockaded the Iris Sea and promised to burn and pillage all vessels until Veronica was safely released.
-
-In the end, peace was agreed upon between the two powers. Veronica was barren, so it was agreed the next heir of Reddwall would be bound to the next heir of the Dawn Empire, unifying countries in blood. The entire event was later known as “The Red Blasphemy”.
-
-The Laughing Storm, one of the greatest pirate lords and outlaws to have ever lived, turned himself over to the Reddland navy voluntarily. Sentenced to death, he was pardoned by the now Lady Veronica Reddington for his efforts in her rescue but was indebted to serve Lady Veronica for the rest of his life. Flint Storm served faithfully as Veronica’s advisor and admiral of the Reddland Navy, until their eventual unexpected marriage.
-
-Veronica and Flint tried for children many times, but tragedy struck every time. After years of trying, Veronica eventually bore a sickly heir, a daughter with hair as white as the full moons."
-Asclepius,1,"One-handed Medium Spear +7, Dual-wielded Medium Spear +7, One-handed Thrown Medium Spear +7, Resource Pool: Thrown Medium Spear +7, One-handed Large Spear +7, Two-handed Large Spear +7, One-handed Thrown Large Spear +7, Resource Pool: Thrown Large Spear +7, One-handed Reach Spear +7, Two-handed Reach Spear +7, One-handed Whip +7, Dual-wielded Whip +7, Metal Feeding, Command Asclepius",3,?,This mastercrafted 5 foot golden snake was crafted by those that worshiped the Great Leviathan.
-Soot and Ash,1,"One-handed Pierce Medium Melee +9, Dual-wielded Pierce Medium Melee +9, One-handed Slash Medium Melee +9, Dual-wielded Slash Medium Melee +9, One-handed Pierce Close Melee +9, Dual-wielded Pierce Close Melee +9, One-handed Slash Close Melee +9, Dual-wielded Slash Close Melee +9",0.2,?,
-The Spear of Destiny,1,"One-handed Slash Reach Melee +12, Two-handed Slash Melee +12, One-handed Reach Spear +12, Two-handed Reach Spear +12, Spellcasting Focus, Destiny Chosen, Super Strength, Super Reflex, Indestructible",14,?,"""Long ago, before the time of Fellkin or Brightkin, this weapon is said to have killed a piece of a god. The Bright Lord bestowed this weapon on his most loyal ally to do the same again."" - Ancient texts
-
-The Spear of Destiny, a massive artifact Swordspear,  is the most famous artifact on the continent. The Spear was first wielded by the Amon, Spear of the Brights, in service of The Bright Lord. Though in time, Amon would use the Spear in an attempt to overthrow The Bright Lord.
-
-Eventually the Spear would end up in the possession of the Royal Family of the Dawn Empire, passed down to a sibling of the current Emperor. The siblings would wield the Spear as Amon did for their new emperor. For it is said that whoever wields the spear of Destiny influences the destiny of the world.
-
-Whatever their heart truly desires will begin to manifest in the world. This is regardless of what the users think they want, it is what they truly desire.If the spear is claimed from combat or stolen by another, then the loser loses all their power. They will die in the coming days of mysterious causes.
-
-The most famous of these was Booker Twins, the Golden Patriot. Seen as a symbol of strength and honor to the people of the Dawn Empire. Those that oppose the Dawn Empire had a much different perspective…"
-Dancing Moonlight,1,"One-handed Pierce Large Melee +12, Two-handed Pierce Large Melee +12, One-handed Slash Large Melee +12, Two-handed Slash Large Melee +12, One-handed Pierce Reach Melee +12, Two-handed Pierce Reach Melee +12, One-handed Slash Reach Melee +12, Two-handed Slash Reach Melee +12, Spellcasting Focus, Moonlight Greatsword, Indestructible, Blessing of the Moon",3,?,"""Ah, you were at my side all along. My true mentor. My guiding moonlight."" - Unknown
-
-A mythic arcane longsword discovered by the first Sirens who first inhabited what is known as Reddland today. Said to be a sign of divine favor to those chosen by the Moon Presence of Terra. As a manifestation of the Moon Presence on Terra, the wielder gains access to the wisdom and power of the moon presence.
-
-When moonlight dances around the sword, and it channels the abyssal cosmos, its great blade will hurl a shadowy lightwave. Few have ever set eyes on the great blade, and whatever guidance it has to offer, it seems to be of a very private, elusive sort.
-
-Princess Vex'ahlia Reddington was gifted this sword upon her return to Reddland by her mother, who claimed it was her birth right. Lady Reddington used to tell tales of Vex'ahlia's birth. Lady Reddington wanted nothing more than a child, so when her medical and academic knowledge failed her, she prayed to the Moon Presence to protect the unborn child within her. Vex'ahlia was born with white hair the color of the full moon. One night when Lady Veronica went to check on the baby Vex'ahlia, this sword was leaning up against her crib playing the most wonderful lullaby she'd ever heard."
-Adversary - Damaged,1,"Spellcasting Focus, Light Bound",1,?,"""Awake, arise, or be forever Fallen…"" - Words of the Bright Lord
-
-A masterfully crafted golden sword hilt, that appears to be damaged from a tremendous impact, leaving the hilt crack and leaking light. Used as a radiance Spellcasting Focus to focus ones abilities, generally in the shape of a sword blade.
-
-Sword of Luc Lightbringer. The hilt acts as a Miracles focus, allowing for devastating radiant attack. Luc has had this sword his entire life, a mysterious gift from when he was too young to remember. In many ways, this sword and Luc are one in the same. Elegant, bright, and extremely dangerous. Luc has spent his entire entire life learning the abilities of this artifact, though even he does not fully understand the weapon…
-
-This sword was used in the execution of Helena by Uhtred Storm at Luc's order, though it was only used to subdue her and did not deal the final blow."
-Guardian Shield,1,"Shield, Phy. Def. 2.00, Retractable Shield",8,7 bc,"A medium shield capable of retracting into a small wrist item. This type of retractable shield is common across Terra, surviving as an easy means to always have a shield at one's disposal."
-Sharp Cap,1,"One-handed Slash Close Melee -1, Dual-wielded Slash Close Melee -1",0.5,2 bc,
-Amulet Of Reflection,1,Apparel Storage,0.2,?,"""By failing to prepare, you are preparing to fail"" - Serana Reddington
-
-First commissioned by Serana Reddington, never wanting to go with her plate."
-Arsenal Charm,1,Minorly Enhanced Lift,0.2,?,"An iron charm that resembles a mass of weapons.
-
-Minorly oosts maximum equipment load.
-
-This talisman was derived from an unusual greatsword, once wielded by a hero hungry for vengeance."
-Arsenal Charm +1,1,Enhanced Lift,0.2,?,"An iron charm that resembles a mass of weaponry.
-
-Boosts maximum equipment load.
-
-This talisman was derived from an unusual greatsword, once wielded by a hero hungry for vengeance."
-Assassin's Azulian Talisman,1,Magic Resource Leech,0.2,?,"An assassin's dagger, misshapen and stained in azul."
-Assassin's Crimson Talisman,1,Life Leech,0.2,?,"An assassin's dagger, misshapen and stained in crimson."
-Azulian Talisman,1,Minorly Enhanced Magic Resource,0.2,?,"A medallion with azul inlaid.
-
-Minorly boosts maximum magic resource."
-Azulian Talisman +1,1,Enhanced Magic Resource,0.2,?,"A medallion with azul inlaid.
-
-Boosts maximum magic resource."
-Azulian Talisman +2,1,Greatly Enhanced Magic Resource,0.2,?,"A medallion with azul inlaid.
-
-Greatly boosts maximum magic resource."
-Blessed Dew Talisman,1,Minor Healing Factor,0.2,?,"It is the common knowledge that the dew of the morning has special healing properties. This amulet is crafted with condensed morning dew, allowing it to provide subtle mending properties to those that wear it. A favorite of explorers and travelers."
-Claw Talisman,1,Ariel Assassin,0.2,?,A talisman depicting claws and an assassin.
-Concealing Viel,1,Minorly Enhanced Stealth,0.2,?,"Talisman put together from dark cloth, with a lustrous sheen.
-
-Conceals the wearer's presence, becoming slightly transparent at will.
-
-A common talisman of assassins."
-Crimson Medallion,1,Minorly Enhanced Vitality,0.2,?,"A medallion with Crimson amber inlaid. A precious talisman for protecting one's life.
-
-Minorly boosts maximum vitality."
-Crimson Medallion +1,1,Enhanced Vitality,0.2,?,"A medallion with Crimson amber inlaid. A precious talisman for protecting one's life.
-
-Boosts maximum vitality."
-Crimson Medallion +2,1,Great Enhanced Vitality,0.2,?,"A medallion with Crimson amber inlaid. A precious talisman for protecting one's life. An essential tool of kings and queens looking for an edge in surviving assassination attempts.
-
-Greatly boosts maximum vitality."
-Dagger Talisman,1,Enhanced Critical,0.2,?,"A talisman depicting a dagger and a surgeon.
-
-Enhances critical hits for sneak attack and Physically Incapacitated opponents.
-
-The white-garbed field surgeons come to the aid of friend and foe alike by dealing a final deadly thrust to spare them from the prolonged agony of a mortal wound. A sense of mercy is a catalyst for bloodlust."
-Fire Dragon Scale Talisman,1,Minor Fire Resistance,0.2,?,A metal talisman with a symbol evoking the image of fire on it. This Runecrafted item provides resistance to heat and fire to those that wear it.
-Fire Dragon Scale Talisman +1,1,Medium Fire Resistance,0.2,?,A metal talisman with twin symbols evoking the image of fire on it. This more powerful Runecrafted item provides substantial protection against fire and heat to those that wear it.
-Fire Dragon Scale Talisman +2,1,Major Fire Resistance,0.2,?,"A metal talisman with three symbols evoking the image of fire on it. This Runecrafted item gives its wearer nigh immunity to most common blazes, allowing its wearer to do some things like stand in fires or eat burning rods without being injured."
-Frost Dragon Scale Talisman,1,Minor Cold Resistance,0.2,?,
-Frost Dragon Scale Talisman +1,1,Medium Cold Resistance,0.2,?,
-Frost Dragon Scale Talisman +2,1,Major Cold Resistance,0.2,?,
-Great Arsenal Talisman,1,Greatly Enhanced Lift,0.2,?,"A charm that resembles a great jar overflowing with weaponry.
-
-Greatly boosts maximum equipment load."
-Great Steel Dragon Scale Talisman,1,"Extreme Hew Resistance, Extreme Slash Resistance, Extreme Bludgeon Resistance, Extreme Shockwave Resistance",0.2,?,"A larger wrought iron talisman in the shape of a greatshield with an imposing Steel Dragon emblazoned on its face. These talismans are extremely rare and expensive to make, meaning that only the upper echelons of society have access to them. Often worn by extremely wealthy merchants, royalty and even the Emperor, these powerful Runecrafted items often never see the battlefield they were intended for."
-Green Turtle Talisman,1,Minorly Enhanced Endurance,0.2,?,"A talisman in the shape of a green turtle.
-
-Minorly raises stamina recovery speed.
-
-Turtles are known as a nutritious ingredient, symbolic of inexhaustible power.
-
-However, those who hold turtles to be wise creatures consider the practice of eating their meat to be barbarous."
-Lightning Dragon Scale Talisman,1,Minor Lightning Resistance,0.2,?,A metal talisman with a symbol evoking the image of lightning on it. This Runecrafted item provides some resistance to electricity and shocks to those that wear it.
-Lightning Dragon Scale Talisman +1,1,Medium Lightning Resistance,0.2,?,A metal talisman with two symbols evoking the image of lightning on it. This more powerful Runecrafted item provides substantial protection against electricity and shocks to those that wear it.
-Lightning Dragon Scale Talisman +2,1,Major Lightning Resistance,0.2,?,"A metal talisman with three symbols evoking the image of lightning on it. This Runecrafted item gives its wearer nigh immunity to most common shocks, allowing its wearer to do some things like be struck by lightning with low risk of being injured."
-Longtail Cat Talisman,1,Minorly Enhanced Dexterity,0.2,?,A brooch depicting a long-tailed cat.
-Pearl Dragon Scale Talisman,1,Minor Psychic Resistance,0.2,?,
-Pearl Dragon Scale Talisman +1,1,Medium Psychic Resistance,0.2,?,
-Pearl Dragon Scale Talisman +2,1,Major Psychic Resistance,0.2,?,
-Radiant Dragon Scale Talisman,1,Minor Radiant Resistance,0.2,?,
-Radiant Dragon Scale Talisman +1,1,Medium Radiant Resistance,0.2,?,
-Radiant Dragon Scale Talisman +2,1,Major Radiant Resistance,0.2,?,
-Rejuvenation Talisman,1,Enhanced Healing,0.2,?,A talisman made to enhance the healing process. A precious possession of doctors and healers.
-Steel Dragon Scale Talisman,1,"Minor Hew Resistance, Minor Slash Resistance, Minor Bludgeon Resistance, Minor Shockwave Resistance",0.2,?,"A wrought iron talisman made with the visage of a mighty Steel Dragon. While quite common among defensive Runecrafted items, it is still a boon to any common soldier or mercenary."
-Steel Dragon Scale Talisman +1,1,"Medium Hew Resistance, Medium Slash Resistance, Medium Bludgeon Resistance, Medium Shockwave Resistance",0.2,?,
-Steel Dragon Scale Talisman +2,1,"Major Hew Resistance, Major Slash Resistance, Major Bludgeon Resistance, Major Shockwave Resistance",0.2,?,
-Viridian Medallion Talisman,1,Minorly Enhanced Endurance,0.2,?,A medallion with viridian inlaid.
-Viridian Medallion Talisman +1,1,Enhanced Endurance,0.2,?,A medallion with viridian inlaid.
-Viridian Medallion Talisman +2,1,Greatly Enhanced Endurance,0.2,?,A medallion with viridian inlaid.
-,,,,,
-,,,,,
-,,,,,
-Cracked Brightstone Ring,1,,0,?,
-Dragonguard,1,"Body Armor, Phy. Def. 2.01, Dragon Threat Sense, Dragon Breath Resistance",23,603.24 bc,"This breastplate has a dragon motif etched into its design. Created for a dragon fighting hero of Reddland, who's name has been lost to time. This armor provides good protection for the wearer's vital organs."
-,,,,,
-30 lb of gold and gems,1,,30,?,
-"Guard's Uniform, Traveler's",1,,4,2 bc,
-Mother's Necklace,1,,0.1,?,
-Mother's Jeweled Braclet,1,,0.1,?,
 Bag of Ball Bearings,1000,,0.002,10 tc,
 Bell,1,,0.1,70 cc,
 Block and Tackle,1,,5,70 cc,
@@ -382,24 +172,6 @@ Oil (flask),1,,1,10 cc,
 Paper (one sheet),1,,0,20 cc,
 Parchment (one sheet),1,,0,10 cc,
 Perfume (vial),1,,0.1,5 bc,
-Vial of Minor Healing Factor Blood,1,Minor Healing Factor,0.25,50 bc,"Special blood invented by Veronica Reddington. Heals wounds and can cure a spore infection.
-
-The process of creating Healing blood is a closely guarded secret of House Reddington, as it is Reddwall's largest export. During the spore epidemic, healing blood was the only known way of curing the spore infection, greatly increasing the political power of House Reddington."
-Vial of Minor Healing Blood,1,Minor Heal,0.25,50 bc,"Special blood invented by Veronica Reddington. Heals wounds and can cure a spore infection.
-
-The process of creating Healing blood is a closely guarded secret of House Reddington, as it is Reddwall's largest export. During the spore epidemic, healing blood was the only known way of curing the spore infection, greatly increasing the political power of House Reddington."
-Vial of Medium Healing Blood,1,Medium Heal,0.25,250 bc,"Special blood invented by Veronica Reddington. Heals wounds and can cure a spore infection.
-
-The process of creating Healing blood is a closely guarded secret of House Reddington, as it is Reddwall's largest export. During the spore epidemic, healing blood was the only known way of curing the spore infection, greatly increasing the political power of House Reddington."
-Vial of Serious Healing Blood,1,Serious Heal,0.25,2500 bc,"Special blood invented by Veronica Reddington. Heals wounds and can cure a spore infection.
-
-The process of creating Healing blood is a closely guarded secret of House Reddington, as it is Reddwall's largest export. During the spore epidemic, healing blood was the only known way of curing the spore infection, greatly increasing the political power of House Reddington."
-Vial of Fatal Healing Blood,1,Fatal Heal,0.25,12500 bc,"Special blood invented by Veronica Reddington. Heals wounds and can cure a spore infection.
-
-The process of creating Healing blood is a closely guarded secret of House Reddington, as it is Reddwall's largest export. During the spore epidemic, healing blood was the only known way of curing the spore infection, greatly increasing the political power of House Reddington."
-Vial of Revival Healing Blood,1,Revival Heal,0.25,62500 bc,"Special blood invented by Veronica Reddington. Heals wounds and can cure a spore infection.
-
-The process of creating Healing blood is a closely guarded secret of House Reddington, as it is Reddwall's largest export. During the spore epidemic, healing blood was the only known way of curing the spore infection, greatly increasing the political power of House Reddington."
 Rations (1 day),1,,2,50 cc,
 Vial,1,,0.1,1 bc,
 Calligrapher's Supplies,1,,5,10 bc,
@@ -435,7 +207,6 @@ Pouch,1,6 lb container,1,50 cc,
 "Rope, Silk (50 feet)",1,,5,10 bc,
 Sack,1,,0.5,1 cc,
 "Scale, Merchant's",1,,3,5 bc,
-,,,,,
 Soap,1,,0.5,2 cc,
 Vial,1,,0.2,1 bc,
 Carpenter's Tools,1,,6,8 bc,
@@ -521,6 +292,7 @@ Jewelry (+ Gem value),1,,0.2,50 bc,
 "Ring, Exquisite",1,,0.2,3 bc,
 "Ring, Mundane",1,,0.2,30 cc,
 Signet Ring,1,,0.2,5 bc,
+,,,,,
 Azurite (Deep blue),1,,0.1,10 bc,
 Banded agate (Brown / Blue),1,,0.1,10 bc,
 Blue quartz (Pale blue),1,,0.1,10 bc,
@@ -810,3 +582,240 @@ Engineering Multi-tool,1,"Repair Base Dice Adjustment +2, One-handed Muzzleloadi
 Vibro-sword,1,"One-handed Pierce Medium Melee +3, Dual-wielded Pierce Medium Melee +3, One-handed Slash Medium Melee +3, Dual-wielded Slash Medium Melee +3",2,10 bc,
 Vibro-knife,1,"One-handed Pierce Close Melee +3, Dual-wielded Pierce Close Melee +3, One-handed Slash Close Melee +3, Dual-wielded Slash Close Melee +3, One-handed Thrown Pierce Close Melee +3, Dual-wielded Thrown Pierce Close Melee +3, Resource Pool: Thrown Pierce Close Melee +3",1,2 bc,
 Medpack,1,,1,?,
+,,,,,
+,,,,,
+Ogre's Spiked Club,1,"One-handed Bludgeon Reach Melee, Two-handed Bludgeon Reach Melee",14,41 cc,
+,,,,,
+,,,,,
+Vial of Minor Healing Factor Blood,1,Minor Healing Factor,0.25,50 bc,"Special blood invented by Veronica Reddington. Heals wounds and can cure a spore infection.
+
+The process of creating Healing blood is a closely guarded secret of House Reddington, as it is Reddwall's largest export. During the spore epidemic, healing blood was the only known way of curing the spore infection, greatly increasing the political power of House Reddington."
+Vial of Minor Healing Blood,1,Minor Heal,0.25,50 bc,"Special blood invented by Veronica Reddington. Heals wounds and can cure a spore infection.
+
+The process of creating Healing blood is a closely guarded secret of House Reddington, as it is Reddwall's largest export. During the spore epidemic, healing blood was the only known way of curing the spore infection, greatly increasing the political power of House Reddington."
+Vial of Medium Healing Blood,1,Medium Heal,0.25,250 bc,"Special blood invented by Veronica Reddington. Heals wounds and can cure a spore infection.
+
+The process of creating Healing blood is a closely guarded secret of House Reddington, as it is Reddwall's largest export. During the spore epidemic, healing blood was the only known way of curing the spore infection, greatly increasing the political power of House Reddington."
+Vial of Serious Healing Blood,1,Serious Heal,0.25,2500 bc,"Special blood invented by Veronica Reddington. Heals wounds and can cure a spore infection.
+
+The process of creating Healing blood is a closely guarded secret of House Reddington, as it is Reddwall's largest export. During the spore epidemic, healing blood was the only known way of curing the spore infection, greatly increasing the political power of House Reddington."
+Vial of Fatal Healing Blood,1,Fatal Heal,0.25,12500 bc,"Special blood invented by Veronica Reddington. Heals wounds and can cure a spore infection.
+
+The process of creating Healing blood is a closely guarded secret of House Reddington, as it is Reddwall's largest export. During the spore epidemic, healing blood was the only known way of curing the spore infection, greatly increasing the political power of House Reddington."
+Vial of Revival Healing Blood,1,Revival Heal,0.25,62500 bc,"Special blood invented by Veronica Reddington. Heals wounds and can cure a spore infection.
+
+The process of creating Healing blood is a closely guarded secret of House Reddington, as it is Reddwall's largest export. During the spore epidemic, healing blood was the only known way of curing the spore infection, greatly increasing the political power of House Reddington."
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+"Guard's Uniform, Traveler's",1,,4,2 bc,
+Mother's Necklace,1,,0.1,?,
+Mother's Jeweled Braclet,1,,0.1,?,
+,,,,,
+Targe Shield,1,Small Shield,4,2 bc,
+Parma Shield,1,Small Shield,4,2 bc,
+Hoplon Shield,1,Medium Shield,8,7 bc,
+Pavise Shield,1,Medium Shield,8,7 bc,
+Heater Shield,1,Medium Shield,8,7 bc,
+Kite Shield (Dawn Emp. Crest),1,Medium Shield,8,30 bc,
+Asher’s Arms Bollock Dagger,1,"One-handed Pierce Close Melee +5, Dual-wielded Pierce Close Melee +5, One-handed Slash Close Melee +5, Dual-wielded Slash Close Melee +5, One-handed Thrown Pierce Close Melee +5, Dual-wielded Thrown Pierce Close Melee +5, Resource Pool: Thrown Pierce Close Melee +5",1,10 bc,
+Dragon Torch,1,"One-handed Torch Close Melee +12, Dual-wielded Torch Close Melee +12, Spellcasting Focus",3,9999 bc,
+Quality Swordbreaker,1,"One-handed Slash Close Melee +1, Dual-wielded Slash Close Melee +1, One-handed Pierce Close Melee -1, Dual-wielded Pierce Close Melee -1, One-handed Thrown Pierce Close Melee -1, Dual-wielded Thrown Pierce Close Melee -1, Resource Pool: Thrown Pierce Close Melee -1, Swordbreaker Blade Catch",1,28 bc,
+Swordbreaker,1,"One-handed Slash Close Melee, Dual-wielded Slash Close Melee, Resource Pool: Thrown Slash Close Melee, Swordbreaker Blade Catch",1,25 bc,
+Crude Dragon Mask,1,,0.5,?,A mask associated with the Beast of Reddwall.
+Petty Brightstone,1,Light Storage,0.1,?,"Brightstone is a rare gem that can hold light. The only place it can be found is near Crossroads, where it is said that Bright Lord fell after taking a hit from Amon during the Great Betrayal. The finer and more precisely the gem is cut the more light it can hold."
+Mechanical Heart,1,"Phenomena Detection, Forbidden Whispers",1,?,"""With this Heart, I will hear many secrets…"" - Unknown
+
+Said to have been designed by the lord of Tuntin, who subsequently died in the fire that burned his estate to the ground. A vessel designed to contain a soul, it is used to help uncover runecrafts and other supernatural events throughout Terra."
+Smithing Stone Fragment,1,,0.1,10 bc,
+Smithing Stone Shard,1,,0.2,50 bc,
+Large Smithing Stone Shard,1,,1,100 bc,
+Smithing Stone Chunk,1,,5,250 bc,
+Smithing Stone Slab,1,,40,?,
+Leather Cuisses and Greaves of Speed,1,"Leg Armor, Phy. Def. 0.5, Minorly Enhanced Athletics",3,2 bc,
+Monkey Staff,1,"One-handed Bludgeon Close Melee +1, Dual-wielded Bludgeon Close Melee +1, One-handed Thrown Bludgeon Close Melee +1, Dual-wielded Thrown Bludgeon Close Melee +1, Resource Pool: Thrown Bludgeon Close Melee +1, One-handed Bludgeon Medium Melee +3, Two-handed Bludgeon Medium Melee +3, Dual-wielded Bludgeon Medium Melee +3, One-handed Bludgeon Large Melee +3, Two-handed Bludgeon Large Melee +3, One-handed Bludgeon Reach Melee +3, Two-handed Bludgeon Reach Melee +3, Extendable Weapon",4,?,"""Monkey see, Monkey do"" - Arinoth the Enlightened
+
+A staff from the Jungles of Leodelphia. This is all that remains of Arinoth the Enlightened's home."
+"""Youth""",1,"One-handed Pierce Large Melee +5, Two-handed Pierce Large Melee +5, One-handed Slash Large Melee +5, Two-handed Slash Large Melee +5",3,25 bc,
+Steelclaw,1,"One-handed Pierce Large Melee +2, Two-handed Pierce Large Melee +2, One-handed Slash Large Melee +2, Two-handed Slash Large Melee +2",3,25 bc,This sword was cursed upon Vasilii Anatoli after using it to kill his eldest brother. It is a constant reminder of his shame.
+Frostbark,1,"One-handed Hew Large Melee +3, Two-handed Hew Large Melee +3, Spellcasting Focus, Cold Enchantment",4,? bc,"A Dane axe imbued with the frost found on the high peaks of the Spine of the World. Its solid oak handle appears grown into the axe head, securing it solidly in place. Latent nature and cold magic is present within the handle."
+Draupnir Spear,1,"One-handed Medium Spear +3, Dual-wielded Medium Spear +3, One-handed Thrown Medium Spear +3, Resource Pool: Thrown Medium Spear +3, One-handed Large Spear +3, Two-handed Large Spear +3, One-handed Thrown Large Spear +3, Resource Pool: Thrown Large Spear +3, One-handed Reach Spear +3, Two-handed Reach Spear +3, Spellcasting Focus, Draupnir",3,? bc,"Said to have been crafted by Siren smith long ago with the blood of a god...
+
+This spear can be used as a Air Spellcasting Focus."
+Asher's Arms Swordbreaker,1,"One-handed Slash Close Melee +2, Dual-wielded Slash Close Melee +2, One-handed Pierce Close Melee -1, Dual-wielded Pierce Close Melee -1, One-handed Thrown Pierce Close Melee -1, Dual-wielded Thrown Pierce Close Melee -1, Resource Pool: Thrown Pierce Close Melee -1, Swordbreaker Blade Catch",1,?,"A fine swordbreaker purchased from Asher’s Arm, a well regarded establishment in Reddwall known for their grayish blue steel. Swordbreakers were a favorite weapon of Lord Flint Reddington. He commissioned many swordbreakers just like this one for use in dueling.
+
+Swordbreakers, often wielded offhand to a main hand sword. They are designed to catch and bind the opponent's blade, leaving the opponent open for a decisive attack from the main hand weapon."
+Talon - Replica,1,"One-handed Pierce Close Melee +1, Dual-wielded Pierce Close Melee +1, One-handed Slash Close Melee +1, Dual-wielded Slash Close Melee +1",1.5,?,"Quality shortsword taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Talon short sword, a Despereaux family heirloom."
+Fang - Replica,1,"One-handed Pierce Close Melee +1, Dual-wielded Pierce Close Melee +1, One-handed Slash Close Melee +1, Dual-wielded Slash Close Melee +1, One-handed Thrown Pierce Close Melee +1, Dual-wielded Thrown Pierce Close Melee +1",1,?,"Quality karambit knife taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Fang karambit knife, a Despereaux family heirloom."
+Sirius’s Sword,1,"One-handed Pierce Medium Melee +2, Dual-wielded Pierce Medium Melee +2, One-handed Slash Medium Melee +2, Dual-wielded Slash Medium Melee +2",2,?,"Fine arming sword of Sirius Roseblood, first of his name. A fine sword, marked with the emblem of the dwindling House Roseblood on the crossguard.
+
+House Roseblood isn't as wealthy as it once was during the height of the witch queen's reign. As a result, they do not have the coin for the finest craftsmen for children’s swords, owing to the more modest nature of this sword."
+Staff of Defense,1,"One-handed Bludgeon Large Melee +3, Two-handed Bludgeon Large Melee +3, Spellcasting Focus, Defense Spells, Physical Defense 1.00",3,?,
+Hew,1,"One-handed Hew Medium Melee +3, Two-handed Hew Medium Melee +3, Dual-wielded Hew Medium Melee +3, Splinter",4,?,"""When you chop wood, splinters fly.""  - Anonymous
+
+An unassuming double bladed, rusty, yet excellently crafted battleaxe both as versatile at chopping wood as chopping skulls.
+
+Runecraft scholars have traced the origin of this axe to the first Fellkin who began harvesting the great iron woods of Reddland. Needing a tool that was both capable of felling the great iron woods and fending back the monstrous Leshens that roamed the forest, this weapon was forged."
+Char - Damaged,1,"One-handed Pierce Reach Melee -2, Two-handed Pierce Reach Melee -2, One-handed Slash Reach Melee -2, Two-handed Slash Reach Melee -2, Fire Repair and Enhancement",6,?,"""It has been in the family for a bit, passed down from father to son. It’ll be yours one day junior. Who knows, you might need it someday."" -Destin Shaffer Sr.
+
+An apparently mundane greatsword with a partially shattered tip “acquired” and used by Destin Shaffer. Destin took this sword when he left his mother and father. Taken because it was the least valuable weapon at his parents' blacksmith shop as his guilt prevented him from taking anything nicer. He always wondered why his step-father kept the hunk of junk leaning up against the wall.
+
+Destin used this blade in his time as a mercenary. He had plenty of opportunities to claim more elegant weapons from fallen opponents, though he could never part with the blade.
+
+During Destin's confrontation with the Demon Helena, he sacrificed the damaged blade for one more powerful strike to in a desperate attempt defend the fleeing prisoner’s and his friends. The sword shattered, though somehow managed to hold itself together, surging with red heat visible through the cracks. Recently, Destin has discovered that the weapon seems capable of repairing itself under extreme heat.
+
+Shattered and broken, Destin continues to carry this blade."
+Char - Shoddy,1,"One-handed Pierce Reach Melee -1, Two-handed Pierce Reach Melee -1, One-handed Slash Reach Melee -1, Two-handed Slash Reach Melee -1, Fire Repair and Enhancement",6,?,"""It has been in the family for a bit, passed down from father to son. It’ll be yours one day junior. Who knows, you might need it someday."" -Destin Shaffer Sr.
+
+An apparently mundane greatsword with a partially shattered tip “acquired” and used by Destin Shaffer. Destin took this sword when he left his mother and father. Taken because it was the least valuable weapon at his parents' blacksmith shop as his guilt prevented him from taking anything nicer. He always wondered why his step-father kept the hunk of junk leaning up against the wall.
+
+Destin used this blade in his time as a mercenary. He had plenty of opportunities to claim more elegant weapons from fallen opponents, though he could never part with the blade.
+
+During Destin's confrontation with the Demon Helena, he sacrificed the damaged blade for one more powerful strike to in a desperate attempt defend the fleeing prisoner’s and his friends. The sword shattered, though somehow managed to hold itself together, surging with red heat visible through the cracks. Recently, Destin has discovered that the weapon seems capable of repairing itself under extreme heat.
+
+Shattered and broken, Destin continues to carry this blade."
+Char,1,"One-handed Pierce Reach Melee, Two-handed Pierce Reach Melee, One-handed Slash Reach Melee, Two-handed Slash Reach Melee, Fire Repair and Enhancement",6,?,"""It has been in the family for a bit, passed down from father to son. It’ll be yours one day junior. Who knows, you might need it someday."" -Destin Shaffer Sr.
+
+An apparently mundane greatsword with a partially shattered tip “acquired” and used by Destin Shaffer. Destin took this sword when he left his mother and father. Taken because it was the least valuable weapon at his parents' blacksmith shop as his guilt prevented him from taking anything nicer. He always wondered why his step-father kept the hunk of junk leaning up against the wall.
+
+Destin used this blade in his time as a mercenary. He had plenty of opportunities to claim more elegant weapons from fallen opponents, though he could never part with the blade.
+
+During Destin's confrontation with the Demon Helena, he sacrificed the damaged blade for one more powerful strike to in a desperate attempt defend the fleeing prisoner’s and his friends. The sword shattered, though somehow managed to hold itself together, surging with red heat visible through the cracks. Recently, Destin has discovered that the weapon seems capable of repairing itself under extreme heat.
+
+Shattered and broken, Destin continues to carry this blade."
+Epilogue,1,"One-handed Pierce Medium Melee +3, Dual-wielded Pierce Medium Melee +3, One-handed Slash Medium Melee +3, Dual-wielded Slash Medium Melee +3, Ending",2,?,"""There is no real ending. It's just a place where you stop the story.""
+
+This excellent slender bastard sword is perfectly balanced. Nimble, thin, and razor sharp.
+
+A relatively unknown Runecraft to the wider populace, this sword is highly debated by scholars of war and Runecrafts. ""Ending"", ""Epilogue"", ""The Last Word"", ""An Ending to things"", ect… are all names for what scholars believe is the same sword recorded across many myths from various cultures, long into the past. Always described as a slender, long, graceful sword as easy to use in one hand as two. This sword seems to end up in the hands of ill fated rogues and rebels.
+
+Killing with this weapon seems to mysteriously decapitate the victim's head from their bodies. In some tales it is only when the user of the sword deals a killing blow, while in older tales a single nick from the blade would lead to instant decapitation. Users report seeing flashes of the life they’ve cut off and all the generations in an instant.
+
+ Appearing in various forms throughout history such as a rapier or slender long sword. This has led some scholars to argue that this sword is in fact multiple swords with similar effects. The Battle Scholars of the Dawn Empire had this weapon in their great collection in Crossroads long ago, and it was mysteriously lost. They recorded the weapon as only decapitating on a death blow, testing it on condemned criminals. Such a weak effect led to reduced research on the weapon while it was in their possession. However, they never were able to replicate its Runecraft, odd for such a weak effect. No weapon has ever been recorded as having a similar effect, leaving some scholars to ponder if there is more to this Runecraft…"
+Echo,1,"One-handed Pierce Medium Melee +5, Two-handed Pierce Medium Melee +5, Dual-wielded Pierce Medium Melee +5, One-handed Slash Medium Melee +5, Two-handed Slash Medium Melee +5, Dual-wielded Slash Medium Melee +5",2,?,"""What is a myth? An echo of the past in the future. I can hear it dear sister, can't you…"" - Lord Maxwell Reddington
+
+The arming sword of Lord Maxwell Reddington, taken from the crypt underneath Castle Tearstone.
+
+Lord Maxwell Reddington was heir to House Reddington and to the Kingdom of Reddland. Maxwell was an academic of Byrgenwerth, like his sister Veronica, and was fascinated by the ancient culture of the Siren’s who used to call Reddwall their own. He spent much of his time and dowry funding expeditions into the ancient Siren catacombs that Reddwall stand up today. On one of these expeditions with his younger sister Lady Veronica Reddington, they discovered something deep within the catacombs. Maxwell returned with this sword and Veronica shortly after invented the first healing bloods of Reddwall.
+
+After that fateful day, Maxwell began to worship the Moon Presence. On a diplomatic mission to Crossroads with his sister, Maxwell had an apparent mental breakdown. He raved and blasphemed the Bright Lord in front of the Emperor, and was sentenced to death for his heresy. Veronica was held hostage and war between Reddland and the Empire almost erupted. However, an outlaw pirate Lord known as the Laughing Storm blockaded the Iris Sea and promised to burn and pillage all vessels until Veronica was safely released.
+
+In the end, peace was agreed upon between the two powers. Veronica was barren, so it was agreed the next heir of Reddwall would be bound to the next heir of the Dawn Empire, unifying countries in blood. The entire event was later known as “The Red Blasphemy”.
+
+The Laughing Storm, one of the greatest pirate lords and outlaws to have ever lived, turned himself over to the Reddland navy voluntarily. Sentenced to death, he was pardoned by the now Lady Veronica Reddington for his efforts in her rescue but was indebted to serve Lady Veronica for the rest of his life. Flint Storm served faithfully as Veronica’s advisor and admiral of the Reddland Navy, until their eventual unexpected marriage.
+
+Veronica and Flint tried for children many times, but tragedy struck every time. After years of trying, Veronica eventually bore a sickly heir, a daughter with hair as white as the full moons."
+Asclepius,1,"One-handed Medium Spear +7, Dual-wielded Medium Spear +7, One-handed Thrown Medium Spear +7, Resource Pool: Thrown Medium Spear +7, One-handed Large Spear +7, Two-handed Large Spear +7, One-handed Thrown Large Spear +7, Resource Pool: Thrown Large Spear +7, One-handed Reach Spear +7, Two-handed Reach Spear +7, One-handed Whip +7, Dual-wielded Whip +7, Metal Feeding, Command Asclepius",3,?,This mastercrafted 5 foot golden snake was crafted by those that worshiped the Great Leviathan.
+Soot and Ash,1,"One-handed Pierce Medium Melee +9, Dual-wielded Pierce Medium Melee +9, One-handed Slash Medium Melee +9, Dual-wielded Slash Medium Melee +9, One-handed Pierce Close Melee +9, Dual-wielded Pierce Close Melee +9, One-handed Slash Close Melee +9, Dual-wielded Slash Close Melee +9",0.2,?,
+The Spear of Destiny,1,"One-handed Slash Reach Melee +12, Two-handed Slash Melee +12, One-handed Reach Spear +12, Two-handed Reach Spear +12, Spellcasting Focus, Destiny Chosen, Super Strength, Super Reflex, Indestructible",14,?,"""Long ago, before the time of Fellkin or Brightkin, this weapon is said to have killed a piece of a god. The Bright Lord bestowed this weapon on his most loyal ally to do the same again."" - Ancient texts
+
+The Spear of Destiny, a massive artifact Swordspear,  is the most famous artifact on the continent. The Spear was first wielded by the Amon, Spear of the Brights, in service of The Bright Lord. Though in time, Amon would use the Spear in an attempt to overthrow The Bright Lord.
+
+Eventually the Spear would end up in the possession of the Royal Family of the Dawn Empire, passed down to a sibling of the current Emperor. The siblings would wield the Spear as Amon did for their new emperor. For it is said that whoever wields the spear of Destiny influences the destiny of the world.
+
+Whatever their heart truly desires will begin to manifest in the world. This is regardless of what the users think they want, it is what they truly desire.If the spear is claimed from combat or stolen by another, then the loser loses all their power. They will die in the coming days of mysterious causes.
+
+The most famous of these was Booker Twins, the Golden Patriot. Seen as a symbol of strength and honor to the people of the Dawn Empire. Those that oppose the Dawn Empire had a much different perspective…"
+Dancing Moonlight,1,"One-handed Pierce Large Melee +12, Two-handed Pierce Large Melee +12, One-handed Slash Large Melee +12, Two-handed Slash Large Melee +12, One-handed Pierce Reach Melee +12, Two-handed Pierce Reach Melee +12, One-handed Slash Reach Melee +12, Two-handed Slash Reach Melee +12, Spellcasting Focus, Moonlight Greatsword, Indestructible, Blessing of the Moon",3,?,"""Ah, you were at my side all along. My true mentor. My guiding moonlight."" - Unknown
+
+A mythic arcane longsword discovered by the first Sirens who first inhabited what is known as Reddland today. Said to be a sign of divine favor to those chosen by the Moon Presence of Terra. As a manifestation of the Moon Presence on Terra, the wielder gains access to the wisdom and power of the moon presence.
+
+When moonlight dances around the sword, and it channels the abyssal cosmos, its great blade will hurl a shadowy lightwave. Few have ever set eyes on the great blade, and whatever guidance it has to offer, it seems to be of a very private, elusive sort.
+
+Princess Vex'ahlia Reddington was gifted this sword upon her return to Reddland by her mother, who claimed it was her birth right. Lady Reddington used to tell tales of Vex'ahlia's birth. Lady Reddington wanted nothing more than a child, so when her medical and academic knowledge failed her, she prayed to the Moon Presence to protect the unborn child within her. Vex'ahlia was born with white hair the color of the full moon. One night when Lady Veronica went to check on the baby Vex'ahlia, this sword was leaning up against her crib playing the most wonderful lullaby she'd ever heard."
+Adversary - Damaged,1,"Spellcasting Focus, Light Bound",1,?,"""Awake, arise, or be forever Fallen…"" - Words of the Bright Lord
+
+A masterfully crafted golden sword hilt, that appears to be damaged from a tremendous impact, leaving the hilt crack and leaking light. Used as a radiance Spellcasting Focus to focus ones abilities, generally in the shape of a sword blade.
+
+Sword of Luc Lightbringer. The hilt acts as a Miracles focus, allowing for devastating radiant attack. Luc has had this sword his entire life, a mysterious gift from when he was too young to remember. In many ways, this sword and Luc are one in the same. Elegant, bright, and extremely dangerous. Luc has spent his entire entire life learning the abilities of this artifact, though even he does not fully understand the weapon…
+
+This sword was used in the execution of Helena by Uhtred Storm at Luc's order, though it was only used to subdue her and did not deal the final blow."
+Guardian Shield,1,"Shield, Phy. Def. 2.00, Retractable Shield",8,7 bc,"A medium shield capable of retracting into a small wrist item. This type of retractable shield is common across Terra, surviving as an easy means to always have a shield at one's disposal."
+Sharp Cap,1,"One-handed Slash Close Melee -1, Dual-wielded Slash Close Melee -1",0.5,2 bc,
+Amulet Of Reflection,1,Apparel Storage,0.2,?,"""By failing to prepare, you are preparing to fail"" - Serana Reddington
+
+First commissioned by Serana Reddington, never wanting to go with her plate."
+Arsenal Charm,1,Minorly Enhanced Lift,0.2,?,"An iron charm that resembles a mass of weapons.
+
+Minorly oosts maximum equipment load.
+
+This talisman was derived from an unusual greatsword, once wielded by a hero hungry for vengeance."
+Arsenal Charm +1,1,Enhanced Lift,0.2,?,"An iron charm that resembles a mass of weaponry.
+
+Boosts maximum equipment load.
+
+This talisman was derived from an unusual greatsword, once wielded by a hero hungry for vengeance."
+Assassin's Azulian Talisman,1,Magic Resource Leech,0.2,?,"An assassin's dagger, misshapen and stained in azul."
+Assassin's Crimson Talisman,1,Life Leech,0.2,?,"An assassin's dagger, misshapen and stained in crimson."
+Azulian Talisman,1,Minorly Enhanced Magic Resource,0.2,?,"A medallion with azul inlaid.
+
+Minorly boosts maximum magic resource."
+Azulian Talisman +1,1,Enhanced Magic Resource,0.2,?,"A medallion with azul inlaid.
+
+Boosts maximum magic resource."
+Azulian Talisman +2,1,Greatly Enhanced Magic Resource,0.2,?,"A medallion with azul inlaid.
+
+Greatly boosts maximum magic resource."
+Blessed Dew Talisman,1,Minor Healing Factor,0.2,?,"It is the common knowledge that the dew of the morning has special healing properties. This amulet is crafted with condensed morning dew, allowing it to provide subtle mending properties to those that wear it. A favorite of explorers and travelers."
+Claw Talisman,1,Ariel Assassin,0.2,?,A talisman depicting claws and an assassin.
+Concealing Viel,1,Minorly Enhanced Stealth,0.2,?,"Talisman put together from dark cloth, with a lustrous sheen.
+
+Conceals the wearer's presence, becoming slightly transparent at will.
+
+A common talisman of assassins."
+Crimson Medallion,1,Minorly Enhanced Vitality,0.2,?,"A medallion with Crimson amber inlaid. A precious talisman for protecting one's life.
+
+Minorly boosts maximum vitality."
+Crimson Medallion +1,1,Enhanced Vitality,0.2,?,"A medallion with Crimson amber inlaid. A precious talisman for protecting one's life.
+
+Boosts maximum vitality."
+Crimson Medallion +2,1,Great Enhanced Vitality,0.2,?,"A medallion with Crimson amber inlaid. A precious talisman for protecting one's life. An essential tool of kings and queens looking for an edge in surviving assassination attempts.
+
+Greatly boosts maximum vitality."
+Dagger Talisman,1,Enhanced Critical,0.2,?,"A talisman depicting a dagger and a surgeon.
+
+Enhances critical hits for sneak attack and Physically Incapacitated opponents.
+
+The white-garbed field surgeons come to the aid of friend and foe alike by dealing a final deadly thrust to spare them from the prolonged agony of a mortal wound. A sense of mercy is a catalyst for bloodlust."
+Fire Dragon Scale Talisman,1,Minor Fire Resistance,0.2,?,A metal talisman with a symbol evoking the image of fire on it. This Runecrafted item provides resistance to heat and fire to those that wear it.
+Fire Dragon Scale Talisman +1,1,Medium Fire Resistance,0.2,?,A metal talisman with twin symbols evoking the image of fire on it. This more powerful Runecrafted item provides substantial protection against fire and heat to those that wear it.
+Fire Dragon Scale Talisman +2,1,Major Fire Resistance,0.2,?,"A metal talisman with three symbols evoking the image of fire on it. This Runecrafted item gives its wearer nigh immunity to most common blazes, allowing its wearer to do some things like stand in fires or eat burning rods without being injured."
+Frost Dragon Scale Talisman,1,Minor Cold Resistance,0.2,?,
+Frost Dragon Scale Talisman +1,1,Medium Cold Resistance,0.2,?,
+Frost Dragon Scale Talisman +2,1,Major Cold Resistance,0.2,?,
+Great Arsenal Talisman,1,Greatly Enhanced Lift,0.2,?,"A charm that resembles a great jar overflowing with weaponry.
+
+Greatly boosts maximum equipment load."
+Great Steel Dragon Scale Talisman,1,"Extreme Hew Resistance, Extreme Slash Resistance, Extreme Bludgeon Resistance, Extreme Shockwave Resistance",0.2,?,"A larger wrought iron talisman in the shape of a greatshield with an imposing Steel Dragon emblazoned on its face. These talismans are extremely rare and expensive to make, meaning that only the upper echelons of society have access to them. Often worn by extremely wealthy merchants, royalty and even the Emperor, these powerful Runecrafted items often never see the battlefield they were intended for."
+Green Turtle Talisman,1,Minorly Enhanced Endurance,0.2,?,"A talisman in the shape of a green turtle.
+
+Minorly raises stamina recovery speed.
+
+Turtles are known as a nutritious ingredient, symbolic of inexhaustible power.
+
+However, those who hold turtles to be wise creatures consider the practice of eating their meat to be barbarous."
+Lightning Dragon Scale Talisman,1,Minor Lightning Resistance,0.2,?,A metal talisman with a symbol evoking the image of lightning on it. This Runecrafted item provides some resistance to electricity and shocks to those that wear it.
+Lightning Dragon Scale Talisman +1,1,Medium Lightning Resistance,0.2,?,A metal talisman with two symbols evoking the image of lightning on it. This more powerful Runecrafted item provides substantial protection against electricity and shocks to those that wear it.
+Lightning Dragon Scale Talisman +2,1,Major Lightning Resistance,0.2,?,"A metal talisman with three symbols evoking the image of lightning on it. This Runecrafted item gives its wearer nigh immunity to most common shocks, allowing its wearer to do some things like be struck by lightning with low risk of being injured."
+Longtail Cat Talisman,1,Minorly Enhanced Dexterity,0.2,?,A brooch depicting a long-tailed cat.
+Pearl Dragon Scale Talisman,1,Minor Psychic Resistance,0.2,?,
+Pearl Dragon Scale Talisman +1,1,Medium Psychic Resistance,0.2,?,
+Pearl Dragon Scale Talisman +2,1,Major Psychic Resistance,0.2,?,
+Radiant Dragon Scale Talisman,1,Minor Radiant Resistance,0.2,?,
+Radiant Dragon Scale Talisman +1,1,Medium Radiant Resistance,0.2,?,
+Radiant Dragon Scale Talisman +2,1,Major Radiant Resistance,0.2,?,
+Rejuvenation Talisman,1,Enhanced Healing,0.2,?,A talisman made to enhance the healing process. A precious possession of doctors and healers.
+Steel Dragon Scale Talisman,1,"Minor Hew Resistance, Minor Slash Resistance, Minor Bludgeon Resistance, Minor Shockwave Resistance",0.2,?,"A wrought iron talisman made with the visage of a mighty Steel Dragon. While quite common among defensive Runecrafted items, it is still a boon to any common soldier or mercenary."
+Steel Dragon Scale Talisman +1,1,"Medium Hew Resistance, Medium Slash Resistance, Medium Bludgeon Resistance, Medium Shockwave Resistance",0.2,?,
+Steel Dragon Scale Talisman +2,1,"Major Hew Resistance, Major Slash Resistance, Major Bludgeon Resistance, Major Shockwave Resistance",0.2,?,
+Viridian Medallion Talisman,1,Minorly Enhanced Endurance,0.2,?,A medallion with viridian inlaid.
+Viridian Medallion Talisman +1,1,Enhanced Endurance,0.2,?,A medallion with viridian inlaid.
+Viridian Medallion Talisman +2,1,Greatly Enhanced Endurance,0.2,?,A medallion with viridian inlaid.
+,,,,,
+,,,,,
+,,,,,
+Cracked Brightstone Ring,1,,0,?,
+Dragonguard,1,"Body Armor, Phy. Def. 2.01, Dragon Threat Sense, Dragon Breath Resistance",23,603.24 bc,"This breastplate has a dragon motif etched into its design. Created for a dragon fighting hero of Reddland, who's name has been lost to time. This armor provides good protection for the wearer's vital organs."
