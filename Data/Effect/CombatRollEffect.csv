@@ -56,17 +56,17 @@ Two-handed Slash Large Melee,Two-handed,Slash Large Melee,None,+1,+2d6,2,Melee,S
 One-handed Large Spear,One-handed,Large Spear,None,+2,+0d6,1,Melee,Quick,None,Pierce,Large Melee,"Two-handed spear, ect...",Indefinite,Innate
 Two-handed Large Spear,Two-handed,Large Spear,None,+2,+2d6,2,Melee,Quick,None,Pierce,Large Melee,"Two-handed spear, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Bludgeon Reach Melee,One-handed,Bludgeon Reach Melee,None,-1,-1d,1,Reach,Swift +2,None,Bludgeon,Reach Melee,"Poleaxe hammer, ect... Disadvantage while in confined spaces.",Indefinite,Innate
-Two-handed Bludgeon Reach Melee,Two-handed,Bludgeon Reach Melee,None,-1,+3d6,3,Reach,Swift +2,None,Bludgeon,Reach Melee,"Poleaxe hammer, ect... Disadvantage while in confined spaces.",Indefinite,Innate
+One-handed Bludgeon Reach Melee,One-handed,Bludgeon Reach Melee,None,-1,-1d,1,Reach,Swift,None,Bludgeon,Reach Melee,"Poleaxe hammer, ect... Disadvantage while in confined spaces.",Indefinite,Innate
+Two-handed Bludgeon Reach Melee,Two-handed,Bludgeon Reach Melee,None,-1,+3d6,3,Reach,Swift,None,Bludgeon,Reach Melee,"Poleaxe hammer, ect... Disadvantage while in confined spaces.",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Pierce Reach Melee,One-handed,Pierce Reach Melee,None,+0,-1d,1,Reach,Swift +2,None,Pierce,Reach Melee,"Greatsword, zweihänder, naginata, halberd's spike, ect... Disadvantage while in confined spaces.",Indefinite,Innate
-Two-handed Pierce Reach Melee,Two-handed,Pierce Reach Melee,None,+0,+3d6,3,Reach,Swift +2,None,Pierce,Reach Melee,"Greatsword, zweihänder, naginata, halberd's spike, ect... Disadvantage while in confined spaces.",Indefinite,Innate
+One-handed Pierce Reach Melee,One-handed,Pierce Reach Melee,None,+0,-1d,1,Reach,Swift,None,Pierce,Reach Melee,"Greatsword, zweihänder, naginata, halberd's spike, ect... Disadvantage while in confined spaces.",Indefinite,Innate
+Two-handed Pierce Reach Melee,Two-handed,Pierce Reach Melee,None,+0,+3d6,3,Reach,Swift,None,Pierce,Reach Melee,"Greatsword, zweihänder, naginata, halberd's spike, ect... Disadvantage while in confined spaces.",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Hew Reach Melee,One-handed,Hew Reach Melee,None,+1,-1d,1,Reach,Swift +2,None,Hew,Reach Melee,"Poleaxe's axe head, halberd's axe head, glaive, ect...  Disadvantage while in confined spaces.",Indefinite,Innate
-Two-handed Hew Reach Melee,Two-handed,Hew Reach Melee,None,+1,+3d6,3,Reach,Swift +2,None,Hew,Reach Melee,"Poleaxe's axe head, halberd's axe head, glaive, ect...  Disadvantage while in confined spaces.",Indefinite,Innate
+One-handed Hew Reach Melee,One-handed,Hew Reach Melee,None,+1,-1d,1,Reach,Swift,None,Hew,Reach Melee,"Poleaxe's axe head, halberd's axe head, glaive, ect...  Disadvantage while in confined spaces.",Indefinite,Innate
+Two-handed Hew Reach Melee,Two-handed,Hew Reach Melee,None,+1,+3d6,3,Reach,Swift,None,Hew,Reach Melee,"Poleaxe's axe head, halberd's axe head, glaive, ect...  Disadvantage while in confined spaces.",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Slash Reach Melee,One-handed,Slash Reach Melee,None,+1,-1d,1,Reach,Swift +2,None,Slash,Reach Melee,"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",Indefinite,Innate
-Two-handed Slash Reach Melee,Two-handed,Slash Reach Melee,None,+1,+3d6,3,Reach,Swift +2,None,Slash,Reach Melee,"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",Indefinite,Innate
+One-handed Slash Reach Melee,One-handed,Slash Reach Melee,None,+1,-1d,1,Reach,Swift,None,Slash,Reach Melee,"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",Indefinite,Innate
+Two-handed Slash Reach Melee,Two-handed,Slash Reach Melee,None,+1,+3d6,3,Reach,Swift,None,Slash,Reach Melee,"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",Indefinite,Innate
 ,,,,,,,,,,,,,,
 One-handed Reach Spear,One-handed,Reach Spear,None,+2,-1d,1,Reach,Steady,None,Pierce,Reach Melee,"Pike, lance, ect... Disadvantage while in confined spaces.",Indefinite,Innate
 Two-handed Reach Spear,Two-handed,Reach Spear,None,+2,+3d6,3,Reach,Steady,None,Pierce,Reach Melee,"Pike, lance, ect... Disadvantage while in confined spaces.",Indefinite,Innate
