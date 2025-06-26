@@ -15,12 +15,12 @@ What makes Fogent Roleplay different then D&D:
 What makes Fogent Roleplay different then Cogent Roleplay:
 
 * **Innovation:** Whether it be rebalanced Core Skills, reworked Vocations, rebalanced weapons, an Advantage/Disadvantage system, rebalanced destiny point rules, automated character sheet support, etc... Fogent Roleplay has taken the best ideas of Cogent Roleplay to their logical conclusions while embracing innovation.
-* **Tactical Battlemap Combat:** Fogent Roleplay has rules to be run on a battlemap. This allows for awesome tactical fight scenes where a character's positioning and surrounding environment factor into combat. While Fogent Roleplay combat can be run in the theater of the mind, it works even better on a battlemap.
+* **Tactical Battle Map Combat:** Fogent Roleplay has rules to be run on a battle map. This allows for awesome tactical fight scenes where a character's positioning and surrounding environment factor into combat. While Fogent Roleplay combat can be run in the theater of the mind, it works even better on a battle map.
 * **Dice Pool Scaling:** Fogent Roleplay wants players to feel like ever small improvement has a tangible impact. To this end, whenever possible we scale off the size of dice pools of the various skills a character has for just about everything. If your character has a big Athletics dice pool, they are really fast both in and out of combat. Did you just improve your magic skill, we'll now all your lower level spells just got slightly increased range, area of effect, uses per round, ect...
 * **Pre-made Settings:** If you don't have the time to come up with an entire setting for your players to play in, Fogent Roleplay comes with pre-made campaign settings. This is an ongoing effort with more becoming available over time.
 * **Mature Ruleset:** Fogent Roleplay provides a mature and robust ruleset with no mechanical edge cases (if you can find one, please let us know). Not only were the rules battle-tested via 100+ sessions durning it's development, most of the rules have been converted into code equivalent logic. Since the resulting software works, the rules are mechanically robust.
 
-To close, Fogent Roleplay was born out of the frustration of other popular TTRPG's steadily increasing rule complexity just to have a reason to sell you stuff you didn't need and punishing creators who built content into their systems. However, many years into it's development now, is driven by the love of spending quality time with friends, collabratively exploring our imaginations, and telling awesome stories.
+To close, Fogent Roleplay was born out of the frustration of other popular TTRPGs steadily increasing rule complexity just to have a reason to sell you stuff you didn't need and punishing creators who built content into their systems. However, many years into it's development now, is driven by the love of spending quality time with friends, collabratively exploring our imaginations, and telling awesome stories.
 
 Long live open-source fun,
 
@@ -72,7 +72,6 @@ Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentrol
   - [Uses Per Round](#uses-per-round)
   - [Battle Map](#battle-map)
   - [Movement Speed](#combat-speed)
-  - [Ammunitions](#ammunitions)
   - [Combat Roll](#combat-Roll)
   - [Weapon Combat Skills](#weapon-combat-skills)
   - [Combat Roll](#combat-roll)
@@ -137,7 +136,7 @@ Base Dice make up that base of every Dice Pool. Base Dice are always represented
 |  11  | 2d20, 1d12 |          Mythic          |
 |  12  |    3d20    |         Artifact         |
 
-A Dice Pool may incur a penalty that removes dice. If so, first add up the Dice Pool without any of the penatlties. Then, to remove dice, always remove the lowest-sided dice first. For instance, d4 dice are always removed first, then d6, and so on.
+A Dice Pool may incur a penalty that removes dice. If so, first add up the Dice Pool without any of the penalties. Then, to remove dice, always remove the lowest-sided dice first. For instance, d4 dice are always removed first, then d6, and so on.
 
 A "Standing Dice Pool" refers to a Dice Pool that has already rolled, where it results will "stand" within the narrative until the Narrator determines otherwise. The rolled Dice Pool shouldn't be altered until the Narrator determines otherwise, as it will be used determine multiple narrative outcomes. The same rules for removing dice apply to a Standing Dice Pool, however, when deciding which dice to remove of the same type, always remove dice from left to right. This is to leave it up to chance if the dice removed was a win or not. With physical dice, you can just roughly straighten out the dice and begin removing in that order.
 
@@ -155,7 +154,7 @@ Challenge Level represents the difficulty of a task set by the Narrator proporti
 |   5   | Extremely Difficult |
 |   6   |     Unrealistic     |
 |   7   | Virtually Impossible |
-|   8   |    Inconveivable    |
+|   8   |    Inconceivable    |
 |   9   |      Legendary      |
 
 Pay attention the description of each Challenge Level. They are intended help Narrators and Players both intuitively understand how hard something should be within the narrative of the story.
@@ -164,7 +163,7 @@ For example, Javk Wick the Rogue hoist his unconscious injured ally onto his sho
 
 ## Attribute
 
-An Attribute represent the innate characteristics of a character. Each level of an attribute corresponds with a narrative significance. Level 0 in an atribute should reffer to an average person in the world.
+An Attribute represent the innate characteristics of a character. Each level of an attribute corresponds with a narrative significance. Level 0 in an attribute should refer to an average person in the world.
 
 | Level | Description |
 | :---: | :---------: |
@@ -210,7 +209,7 @@ Represents a character's innate reflexes, reaction speed, nervous system, fine m
 |        4        |                     Spiderman                     |
 |        5        |                The Flash or Hermes                |
 
-- A character with higher RFX permently gets higher priority in combat round turn order over character's with lower RFX.
+- A character with higher RFX permanently gets higher priority in combat round turn order over character's with lower RFX.
 
 ### Intelligence (INT)
 
@@ -243,11 +242,11 @@ Represents a character's innate personal magnetism, persuasiveness, appearance, 
 |        1        |  Influential leader or captivating performer (e.g., Cult Leader)  |
 |        2        |    Nation-swaying icon or legendary diplomat (e.g., Cleopatra)    |
 |        3        |   Supernatural allure or universally enchanting (e.g., Siren)   |
-|        4        | Demi-god-tier manipulator or reality-bending charm (e.g., Loki) |
+|        4        | Demigod tier manipulator or reality-bending charm (e.g., Loki) |
 |        5        | Divine-level influence or irresistible presence (e.g., Aphrodite) |
 
-* A character with positive CHA is more capable of leveraging their force of personality within social situations. For each level above 0 in CHA, a character can give themselves advantage once per day on a social skill check that has CHA as one of it's governing attrtibutes.
-* A character with negative CHA is less capable of leveraging their force of personality within social situations. For each level below 0 in CHA, the narrator can give a character disadvantageonce per day on a social skill check that has CHA as one of it's governing attrtibutes.
+* A character with positive CHA is more capable of leveraging their force of personality within social situations. For each level above 0 in CHA, a character can give themselves advantage once per day on a social skill check that has CHA as one of it's governing attributes.
+* A character with negative CHA is less capable of leveraging their force of personality within social situations. For each level below 0 in CHA, the narrator can give a character disadvantageous per day on a social skill check that has CHA as one of it's governing attributes.
 
 ## Skill
 
@@ -272,9 +271,9 @@ Skill Level measures how good a character is at a specific skill.
 The Dice Pool of a Skill is determined as follows:
 
 - Base Dice, which are generally 3d6 but can vary based on Effects
-- +1d6 for each increament in Skill Level above 0
+- +1d6 for each increment in Skill Level above 0
 - -1d for each decrement in Skill Level below if below 0
-- +1d6 for each increament in a Governing Attribute Level above 0, assuming the Attribute governs the Skill
+- +1d6 for each increment in a Governing Attribute Level above 0, assuming the Attribute governs the Skill
 - -1d for each decrement in a Governing Attribute Level below 0, assuming the Attribute governs the Skill
 - Plus/minus dice from any Effects that modify the Skill in question
 
@@ -366,7 +365,7 @@ A Vocational Skill is a Skill that fall under a Vocation. The Skill Level of a V
 
 **Description:** Describes how the Vocational Skill can be used.
 
-|              Name              | Governing Attributes |                                   Decription                                   |
+|              Name              | Governing Attributes |                                   Description                                   |
 | :-----------------------------: | :------------------: | :-----------------------------------------------------------------------------: |
 |          Hand Crossbow          |    STR, RFX, INT    |             Covers combat activities related using a Hand Crossbow.             |
 |         Light Crossbow         |    STR, RFX, INT    |            Covers combat activities related using a Light Crossbow.            |
@@ -555,7 +554,7 @@ The Narrator agrees, setting the Assist to CL 3 due to the slippery oil patches 
 
 The Fate Roll can be used by the Narrator to let the roll of a dice decide what direction the story will move in, be that for or against the goals and desires of the players.
 
-A Fate Roll is made with a D20 and is made by the Narrator or designated to a Player by the Narrator. The higher the roll is, the better the result is for the players. Rolling a 20 is considered a critical success, and may allow the Narrator to assign exceptionally advantageous circumstances to the players. The lower the roll is, the worse the result is for the players. Rolling a 1 is always to be considered a critical failure, and will result in an extremely unfavorable ourcome for the players. Whether they be revealed as immediate or delayed consequences is up to the Narrator.
+A Fate Roll is made with a D20 and is made by the Narrator or designated to a Player by the Narrator. The higher the roll is, the better the result is for the players. Rolling a 20 is considered a critical success, and may allow the Narrator to assign exceptionally advantageous circumstances to the players. The lower the roll is, the worse the result is for the players. Rolling a 1 is always to be considered a critical failure, and will result in an extremely unfavorable outcome for the players. Whether they be revealed as immediate or delayed consequences is up to the Narrator.
 
 These rolls may be used in situations of great intensity to help the Narrator guide the path of the action. They may be used to help break up monotony at random times to see if something good or bad occurs or even what the weather is.
 
@@ -680,9 +679,9 @@ Often, an action will have multiple Ranges, usually done to denote different beh
 
 A character is trying to determine how far away they can shoot their fireball spell. It has the Ranges "Long (Normal), Long (Disadvantage), Long (Super Disadvantage)". The governing Skill's Dice Pool is 7d6.
 
-We'd calcualte the "Long (Normal)" Range as follows. It's Min Range would 0 + (7 * 0) = 0. It's Max Range would be 0 + (7 * 20) = 140. So the result would be "Long (Normal): 0 - 140 ft".
+We'd calculate the "Long (Normal)" Range as follows. It's Min Range would 0 + (7 * 0) = 0. It's Max Range would be 0 + (7 * 20) = 140. So the result would be "Long (Normal): 0 - 140 ft".
 
-The final result of all of the Ranges would be "Long (Normal): 0 - 140 ft, Long (Disadvantage): 140 - 280 ft, Long (Super Disadvantage): 280 - 420 ft". Since "Long (Normal)" and "Long (Disadvantage)" overlap at 140 ft, if a target were engaged at that distance than we'd use "Long (Normal)" since it is the most adventageous.
+The final result of all of the Ranges would be "Long (Normal): 0 - 140 ft, Long (Disadvantage): 140 - 280 ft, Long (Super Disadvantage): 280 - 420 ft". Since "Long (Normal)" and "Long (Disadvantage)" overlap at 140 ft, if a target were engaged at that distance than we'd use "Long (Normal)" since it is the most advantageous.
 
 ## Area Of Effect
 
@@ -690,7 +689,7 @@ An Area Of Effect describes a 3D space. They can be used to describe any action 
 
 All Area Of Effects will have a point of origin from which they will emanate from. This will vary based on the different shapes of the Area of Effects.
 
-If an Area Of Effect specifies "(Disadvantage)", "(Super Disadvantage)", "(Advantage)", or "(Super Disadvantage)" as part of it's name than the Dice Pool that will be rolled for that action will gain the correspounding option from the "Advantage and Disadvantage" rules section.
+If an Area Of Effect specifies "(Disadvantage)", "(Super Disadvantage)", "(Advantage)", or "(Super Disadvantage)" as part of it's name than the Dice Pool that will be rolled for that action will gain the corresponding option from the "Advantage and Disadvantage" rules section.
 
 Often, an action will have multiple Area Of Effects, such as when trying to add gradations of effectiveness to some action.
 
@@ -748,7 +747,7 @@ If a cone has an angle of 53.13 degrees, than the cone's width is equal to its l
 
 If an action, such as an attack or spell, has a Range and an Area Of Effect, then the Range describe how far away the point of origin can be for the Area Of Effect.
 
-When cases arise were an action is performed with a combinaion of a Range with Advantage/Disadvantage and Area Of Effect with Advantage/Disadvantage, simply use the "Multiple Advantages and Disadvantages on a roll" rule.
+When cases arise were an action is performed with a combination of a Range with Advantage/Disadvantage and Area Of Effect with Advantage/Disadvantage, simply use the "Multiple Advantages and Disadvantages on a roll" rule.
 
 ## Uses Per Round
 
@@ -796,11 +795,11 @@ If characters have loaded weapons (for instance loaded muzzle loading firearms) 
 
 #### Example
 
-Let's say a character's Uses Per Round for thier Combat Roll is "Quick". The governing Skill Dice Pool for said Combat Roll is 7d6.
+Let's say a character's Uses Per Round for their Combat Roll is "Quick". The governing Skill Dice Pool for said Combat Roll is 7d6.
 
 0 + ( 0.34 * 7 ) = 2.38
 
-Optional Max is "None", so there is no upper bound. We round down 2.38 to 2. Therfore the character would have 2 Uses Per Round for that round.
+Optional Max is "None", so there is no upper bound. We round down 2.38 to 2. Therefore the character would have 2 Uses Per Round for that round.
 
 ## Destiny Points
 
@@ -845,15 +844,15 @@ If you have two different effects active that buff or debuff some feature of you
 - A character's backstory could effect the narrative (Narrative Effect)
 - An item's backstory could effect the narrative (Narrative Effect)
 - A character having an injury that is weakening them could effect the narrative (Attribute Dice Mod Effect)
-- An item having a curse on it that gives the wielder permenant weakness could effect the narrative (Attribute Dice Mod Effect)
-- A character having a enchanment on them which alters their Attribute levels could effect the narrative (Adjusted Attribute Level Effect/Set Attribute Level Effect)
+- An item having a curse on it that gives the wielder permanent weakness could effect the narrative (Attribute Dice Mod Effect)
+- A character having a enchantment on them which alters their Attribute levels could effect the narrative (Adjusted Attribute Level Effect/Set Attribute Level Effect)
 - An item having an enchantment that alters the wielder's Attribute levels could effect the narrative (Adjusted Attribute Level Effect/Set Attribute Level Effect)
-- A character having a enchanment on them which alters their Skill Dice Pools could effect the narrative (Adjusted Skill Level Effect/Set Skill Level Effect/Skill Base Dice Effect)
+- A character having a enchantment on them which alters their Skill Dice Pools could effect the narrative (Adjusted Skill Level Effect/Set Skill Level Effect/Skill Base Dice Effect)
 - An item having an enchantment that alters the wielder's Skill Dice Pools could effect the narrative (Adjusted Skill Level Effect/Set Skill Level Effect/Skill Base Dice Effect)
 - A character having the ability to carry equipment could effect the narrative (Container Effect)
 - An item being able to contain other items, such as a backpack, could effect the narrative (Container Effect)
 - A character being able to move during a Combat Round could effect the narrative (Movement Speed Effect)
-- An item giving the weilder some improved ability to move in Combat Round could effect the narrative (Movement Speed)
+- An item giving the wielder some improved ability to move in Combat Round could effect the narrative (Movement Speed)
 
 ## Attribute Dice Mod Effect
 
@@ -957,7 +956,7 @@ An Item Stack represents a collection of an Item.
 
 **Quantity:** The amount of items in the Item Stack.
 
-**Effects:** The Efffects the Item Stack has. Character's that equip an Item can use it's Effects.
+**Effects:** The Effects the Item Stack has. Character's that equip an Item can use it's Effects.
 
 **Weight:** The weight of each Item in the Item Stack.
 
@@ -1398,11 +1397,11 @@ Athletics Movement Speed is the second portion of a character's movement and rep
 
 Athletics Movement Speed should always make up a far greater amount of your Total Movement Speed as compared to Dexterity Movement Speed. Even though characters with higher Dexterity Movement Speed might be quicker to initially move, there is nothing prevent a high Athletics Movement Speed character from running them down.
 
-Unlike Dexterity Speed, were the character with the greater speed can move before the other charater, for Athletics Movement Speed both characters start moving at the same time.
+Unlike Dexterity Speed, were the character with the greater speed can move before the other character, for Athletics Movement Speed both characters start moving at the same time.
 
 ### Total Movement Speed
 
-Total Movement Speed is the combination of a character's Dexterity and Athletics Movement Speeds for a entire round. Therefore, a character can use both there Dexterity Movement Speed and Altheltics Movement Speed during a round.
+Total Movement Speed is the combination of a character's Dexterity and Athletics Movement Speeds for a entire round. Therefore, a character can use both there Dexterity Movement Speed and Athletics Movement Speed during a round.
 
 ### Using multiple Movement Speeds on the same round
 
@@ -1418,9 +1417,9 @@ The rider's Dexterity dice pool size is used for the mounts Dexterity Movement S
 
 Represents how a character is performing combat. A Combat Roll could represent swinging a greatsword with both hands, dual-wielding pistols, throwing a javelin, ect...
 
-**Name:** The name of a Combat Roll is conventionally formatted the following way: "(Varation) (Type) with (Resource)". This isn't required but helps to keep things consistent.
+**Name:** The name of a Combat Roll is conventionally formatted the following way: "(Variation) (Type) with (Resource)". This isn't required but helps to keep things consistent.
 
-**Variation:** Used to represents the different ways the Combat Roll is being used. Generally, it describes how a character's hands (or other appendages) will be occupied as part of the Combat Roll. This is important when defining a Combat Roll, as some weapons would be impossible to use with one hand (such as a bow). "One-handed" denotes only one hand is being used which frees up the other hand to hold a shield, a light source, an important item, etc... "Two-handed" denotes two hands are being used meaning both their hands are required. "Dual-wielded" denotes a hand is being used on a main weapon with the other hand is being used on another off hand weapon. Dual-weilding is only for attacks/weapons that wouldn't encumber the user if one were held in each hand.
+**Variation:** Used to represents the different ways the Combat Roll is being used. Generally, it describes how a character's hands (or other appendages) will be occupied as part of the Combat Roll. This is important when defining a Combat Roll, as some weapons would be impossible to use with one hand (such as a bow). "One-handed" denotes only one hand is being used which frees up the other hand to hold a shield, a light source, an important item, etc... "Two-handed" denotes two hands are being used meaning both their hands are required. "Dual-wielded" denotes a hand is being used on a main weapon with the other hand is being used on another off hand weapon. Dual-wielding is only for attacks/weapons that wouldn't encumber the user if one were held in each hand.
 
 **Type:** Describes what type of the Combat Roll.
 
@@ -1644,7 +1643,7 @@ To calculated a Combat Roll's Dice Pool start with the Governing Skill's Dice Po
 
 **Example**
 
-Javk Wick the Rogue has two daggers he's dual-weilding. He wants to calculate the "Dual-wielded Slash Close Melee" Combat Roll his dagger's allow him to perfom. First, we start with determining what the Governing Skill is for "Dual-wielded Slash Close Melee" which is "Close Melee". Next, we determine that Javk's "Close Melee" Dice Pool is 6d6. Then, we adjust the tier of the Base Dice by the Combat Roll's Base Dice Adjustment which takes us from tier 0 (3d6) to tier 1 (1d8, 2d6), meaning the resulting Dice Pool is now "1d8, 5d6". Finally, we modify "1d8, 5d6" by the Combat Roll's Dice Pool Modifier of "+1d6" resulting in a "1d8, 6d6" Dice Pool for our Combat Roll.
+Javk Wick the Rogue has two daggers he's dual-wielding. He wants to calculate the "Dual-wielded Slash Close Melee" Combat Roll his dagger's allow him to perform. First, we start with determining what the Governing Skill is for "Dual-wielded Slash Close Melee" which is "Close Melee". Next, we determine that Javk's "Close Melee" Dice Pool is 6d6. Then, we adjust the tier of the Base Dice by the Combat Roll's Base Dice Adjustment which takes us from tier 0 (3d6) to tier 1 (1d8, 2d6), meaning the resulting Dice Pool is now "1d8, 5d6". Finally, we modify "1d8, 5d6" by the Combat Roll's Dice Pool Modifier of "+1d6" resulting in a "1d8, 6d6" Dice Pool for our Combat Roll.
 
 ## Resource Pool Max Calculation
 
@@ -1753,13 +1752,13 @@ Represents a pool of resources a character can use, and can represent whatever a
 |          Intelligence Point (Level 4)          |                                                                                              A character with positive INT is more resistant/durable against psychic/spiritual damage types. In combat, for every positive point in INT a character can reduce a Victory Level achieved against them once every combat encounter. Outside of combat, for every positive point in INT a character can reduce an injury against them as many times as they want, granted there is a couple minutes of downtime between each injury.                                                                                              |   Innate   |      Indefinite      |       Intelligence Point       |   4   |                  4                  |
 |          Intelligence Point (Level 5)          |                                                                                              A character with positive INT is more resistant/durable against psychic/spiritual damage types. In combat, for every positive point in INT a character can reduce a Victory Level achieved against them once every combat encounter. Outside of combat, for every positive point in INT a character can reduce an injury against them as many times as they want, granted there is a couple minutes of downtime between each injury.                                                                                              |   Innate   |      Indefinite      |       Intelligence Point       |   5   |                  5                  |
 |                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |            |                      |                                |        |                                    |
-|       Negative Charisma Point (Level -2)       |                                                                                                                                                                                                                              For each level below 0 in CHA, the narrator can give a character disadvantageonce per day on a social skill check that has CHA as one of it's governing attrtibutes.                                                                                                                                                                                                                              |   Innate   |      Indefinite      |    Negative Charisma Point    |   2   |                  2                  |
-|       Negative Charisma Point (Level -1)       |                                                                                                                                                                                                                              For each level below 0 in CHA, the narrator can give a character disadvantageonce per day on a social skill check that has CHA as one of it's governing attrtibutes.                                                                                                                                                                                                                              |   Innate   |      Indefinite      |    Negative Charisma Point    |   1   |                  1                  |
-|            Charisma Point (Level 1)            |                                                                                                                                                                                                                                For each level above 0 in CHA, a character can give themselves advantage once per day on a social skill check that has CHA as one of it's governing attrtibutes.                                                                                                                                                                                                                                |   Innate   |      Indefinite      |         Charisma Point         |   1   |                  1                  |
-|            Charisma Point (Level 2)            |                                                                                                                                                                                                                                For each level above 0 in CHA, a character can give themselves advantage once per day on a social skill check that has CHA as one of it's governing attrtibutes.                                                                                                                                                                                                                                |   Innate   |      Indefinite      |         Charisma Point         |   2   |                  2                  |
-|            Charisma Point (Level 3)            |                                                                                                                                                                                                                                For each level above 0 in CHA, a character can give themselves advantage once per day on a social skill check that has CHA as one of it's governing attrtibutes.                                                                                                                                                                                                                                |   Innate   |      Indefinite      |         Charisma Point         |   3   |                  3                  |
-|            Charisma Point (Level 4)            |                                                                                                                                                                                                                                For each level above 0 in CHA, a character can give themselves advantage once per day on a social skill check that has CHA as one of it's governing attrtibutes.                                                                                                                                                                                                                                |   Innate   |      Indefinite      |         Charisma Point         |   4   |                  4                  |
-|            Charisma Point (Level 5)            |                                                                                                                                                                                                                                For each level above 0 in CHA, a character can give themselves advantage once per day on a social skill check that has CHA as one of it's governing attrtibutes.                                                                                                                                                                                                                                |   Innate   |      Indefinite      |         Charisma Point         |   5   |                  5                  |
+|       Negative Charisma Point (Level -2)       |                                                                                                                                                                                                                              For each level below 0 in CHA, the narrator can give a character disadvantageous per day on a social skill check that has CHA as one of it's governing attributes.                                                                                                                                                                                                                              |   Innate   |      Indefinite      |    Negative Charisma Point    |   2   |                  2                  |
+|       Negative Charisma Point (Level -1)       |                                                                                                                                                                                                                              For each level below 0 in CHA, the narrator can give a character disadvantageous per day on a social skill check that has CHA as one of it's governing attributes.                                                                                                                                                                                                                              |   Innate   |      Indefinite      |    Negative Charisma Point    |   1   |                  1                  |
+|            Charisma Point (Level 1)            |                                                                                                                                                                                                                                For each level above 0 in CHA, a character can give themselves advantage once per day on a social skill check that has CHA as one of it's governing attributes.                                                                                                                                                                                                                                |   Innate   |      Indefinite      |         Charisma Point         |   1   |                  1                  |
+|            Charisma Point (Level 2)            |                                                                                                                                                                                                                                For each level above 0 in CHA, a character can give themselves advantage once per day on a social skill check that has CHA as one of it's governing attributes.                                                                                                                                                                                                                                |   Innate   |      Indefinite      |         Charisma Point         |   2   |                  2                  |
+|            Charisma Point (Level 3)            |                                                                                                                                                                                                                                For each level above 0 in CHA, a character can give themselves advantage once per day on a social skill check that has CHA as one of it's governing attributes.                                                                                                                                                                                                                                |   Innate   |      Indefinite      |         Charisma Point         |   3   |                  3                  |
+|            Charisma Point (Level 4)            |                                                                                                                                                                                                                                For each level above 0 in CHA, a character can give themselves advantage once per day on a social skill check that has CHA as one of it's governing attributes.                                                                                                                                                                                                                                |   Innate   |      Indefinite      |         Charisma Point         |   4   |                  4                  |
+|            Charisma Point (Level 5)            |                                                                                                                                                                                                                                For each level above 0 in CHA, a character can give themselves advantage once per day on a social skill check that has CHA as one of it's governing attributes.                                                                                                                                                                                                                                |   Innate   |      Indefinite      |         Charisma Point         |   5   |                  5                  |
 |                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |            |                      |                                |        |                                    |
 |               Destiny Point Pool               | A character can hold a max of 3 Destiny Points. Spending a "Preemptive Destiny Point" before rolling a dice pool gives Advantage on the resulting roll. Spending "Post Roll Destiny Points" adds additional Wins for each point spent, with the total Wins never exceeding the size of the dice pool. Destiny points are awarded when players perform actions that the narrator wants to encourage. Examples include showing up to the game on time, exceptional roleplay, accomplishing a narrative milestone, and doing something in line with their character's personality even if at the detriment of wealth or progress. | Indefinite | Given by The Narrator |         Destiny Point         |   0   |                  3                  |
 |                 Destiny Chosen                 |                                                                                                                                                                                                                                          Destiny Point Cap set to 6. Gain an additional Destiny Point whenever one is gained. Destiny begins to shape around the user's true desires.                                                                                                                                                                                                                                          | Indefinite | Given by The Narrator |         Destiny Point         |   0   |                  6                  |
