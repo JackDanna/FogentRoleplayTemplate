@@ -1,4 +1,4 @@
-name,variation,type,baseDiceAdjustment,dicePoolModifier,penetration,range,usesPerRound,areaOfEffect,optionalResourceAndAmount,damageTypes,governingSkillName,description,duration,source
+name,variation,Type,baseDiceAdjustment,dicePoolModifier,penetration,range,usesPerRound,areaOfEffect,optionalResourceAndAmount,damageTypes,governingSkillName,description,duration,source
 Dual-wielded Unarmed,Dual-wielded,Unarmed,+0,+0d,0,Melee,Swift,None,None,Bludgeon,Close Melee,Just your bare hands. Can be used in a Grapple.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 One-handed Hew Close Melee,One-handed,Hew Close Melee,+0,+1d4,0,Melee,Swift,None,None,Hew,Close Melee,"Hatchets, small axes, ect... Can be used in a Grapple.",Indefinite,Innate
