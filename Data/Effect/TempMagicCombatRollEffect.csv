@@ -1,14 +1,15 @@
 name,variation,Type,optionalResourceAndAmount,baseDiceAdjustment,dicePoolModifier,penetration,ranges,usesPerRound,optionalAreaOfEffects,damageTypes,governingSkillName,description,duration,source
 Dual-wielded {Skill} Unarmed,Dual-wielded,{Skill} Unarmed,"{Resource}, 0",+0,-1d,0,Melee,Swift,None,{DamageTypes},{Skill},Just your bare hands. Can be used in a Grapple.,1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
-One-handed {Skill} Penetrating Close Melee,One-handed,{Skill} Penetrating Close Melee,"{Resource}, 0",-1,+0d6,0,Melee,Swift,None,{DamageTypes},{Skill},"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",1 Combat Round,{Skill}
-Dual-wielded {Skill} Penetrating Close Melee,Dual-wielded,{Skill} Penetrating Close Melee,"{Resource}, 0",-1,+1d6,0,Melee,Swift +1,None,{DamageTypes},{Skill},"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",1 Combat Round,{Skill}
+One-handed {Skill} Brutal Close Melee,One-handed,{Skill} Brutal Close Melee,"{Resource}, 0",+1,+0d6,0,Melee,Swift,None,{DamageTypes},{Skill},"Daggers, shortswords, claws, ect... Can be used in a Grapple.",1 Combat Round,{Skill}
+Dual-wielded {Skill} Brutal Close Melee,Dual-wielded,{Skill} Brutal Close Melee,"{Resource}, 0",+1,+1d6,0,Melee,Swift +1,None,{DamageTypes},{Skill},"Daggers, shortswords, claws, ect... Can be used in a Grapple.",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
 One-handed {Skill} Balanced Close Melee,One-handed,{Skill} Balanced Close Melee,"{Resource}, 0",+0,+0d6,0,Melee,Swift,None,{DamageTypes},{Skill},"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",1 Combat Round,{Skill}
 Dual-wielded {Skill} Balanced Close Melee,Dual-wielded,{Skill} Balanced Close Melee,"{Resource}, 0",+0,+1d6,0,Melee,Swift +1,None,{DamageTypes},{Skill},"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
-One-handed {Skill} Brutal Close Melee,One-handed,{Skill} Brutal Close Melee,"{Resource}, 0",+1,+0d6,0,Melee,Swift,None,{DamageTypes},{Skill},"Daggers, shortswords, claws, ect... Can be used in a Grapple.",1 Combat Round,{Skill}
-Dual-wielded {Skill} Brutal Close Melee,Dual-wielded,{Skill} Brutal Close Melee,"{Resource}, 0",+1,+1d6,0,Melee,Swift +1,None,{DamageTypes},{Skill},"Daggers, shortswords, claws, ect... Can be used in a Grapple.",1 Combat Round,{Skill}
+One-handed {Skill} Penetrating Close Melee,One-handed,{Skill} Penetrating Close Melee,"{Resource}, 0",-1,+0d6,0,Melee,Swift,None,{DamageTypes},{Skill},"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",1 Combat Round,{Skill}
+Dual-wielded {Skill} Penetrating Close Melee,Dual-wielded,{Skill} Penetrating Close Melee,"{Resource}, 0",-1,+1d6,0,Melee,Swift +1,None,{DamageTypes},{Skill},"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",1 Combat Round,{Skill}
+,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 One-handed {Skill} Penetrating Medium Melee,One-handed,{Skill} Penetrating Medium Melee,"{Resource}, 0",-1,+1d6,1,Melee,Swift,None,{DamageTypes},{Skill},"War hammer, mace, large creature smash, ect...",1 Combat Round,{Skill}
 Two-handed {Skill} Penetrating Medium Melee,Two-handed,{Skill} Penetrating Medium Melee,"{Resource}, 0",-1,+2d6,1,Melee,Swift,None,{DamageTypes},{Skill},"War hammer, mace, large creature smash, ect...",1 Combat Round,{Skill}

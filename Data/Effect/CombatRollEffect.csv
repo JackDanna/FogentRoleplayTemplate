@@ -4,23 +4,24 @@ Dual-wielded Unarmed,Dual-wielded,Unarmed,None,+0,-1d,0,Melee,Swift,None,Bludgeo
 One-handed Torch Close Melee,One-handed,Torch Close Melee,None,-1,+0d6,0,Melee,Swift,None,"Bludgeon, Fire",Close Melee,"Torches, ect... Can be used in a Grapple.",Indefinite,Innate
 Dual-wielded Torch Close Melee,Dual-wielded,Torch Close Melee,None,-1,+1d6,0,Melee,Swift +1,None,"Bludgeon, Fire",Close Melee,"Torches, ect... Can be used in a Grapple.",Indefinite,Innate
 ,,,,,,,,,,,,,,
+One-handed Hew Close Melee,One-handed,Hew Close Melee,None,+1,+0d6,0,Melee,Swift,None,Hew,Close Melee,"Hatchets, small axes, ect... Can be used in a Grapple.",Indefinite,Innate
+Dual-wielded Hew Close Melee,Dual-wielded,Hew Close Melee,None,+1,+1d6,0,Melee,Swift +1,None,Hew,Close Melee,"Hatchets, small axes, ect... Can be used in a Grapple.",Indefinite,Innate
+,,,,,,,,,,,,,,
+One-handed Slash Close Melee,One-handed,Slash Close Melee,None,+1,+0d6,0,Melee,Swift,None,Slash,Close Melee,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
+Dual-wielded Slash Close Melee,Dual-wielded,Slash Close Melee,None,+1,+1d6,0,Melee,Swift +1,None,Slash,Close Melee,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
+,,,,,,,,,,,,,,
+One-handed Pierce Close Melee,One-handed,Pierce Close Melee,None,+0,+0d6,0,Melee,Swift,None,Pierce,Close Melee,"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
+Dual-wielded Pierce Close Melee,Dual-wielded,Pierce Close Melee,None,+0,+1d6,0,Melee,Swift +1,None,Pierce,Close Melee,"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
+,,,,,,,,,,,,,,
+One-handed Pierce Close Melee -1,One-handed,Pierce Close Melee -1,None,-1,+0d6,0,Melee,Swift,None,Pierce,Close Melee,"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
+Dual-wielded Pierce Close Melee -1,Dual-wielded,Pierce Close Melee -1,None,-1,+1d6,0,Melee,Swift +1,None,Pierce,Close Melee,"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
+,,,,,,,,,,,,,,
 One-handed Bludgeon Close Melee,One-handed,Bludgeon Close Melee,None,-1,+0d6,0,Melee,Swift,None,Bludgeon,Close Melee,"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",Indefinite,Innate
 Dual-wielded Bludgeon Close Melee,Dual-wielded,Bludgeon Close Melee,None,-1,+1d6,0,Melee,Swift +1,None,Bludgeon,Close Melee,"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",Indefinite,Innate
 ,,,,,,,,,,,,,,
 One-handed Bludgeon Close Melee +1,One-handed,Bludgeon Close Melee +1,None,+0,+0d6,0,Melee,Swift,None,Bludgeon,Close Melee,"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",Indefinite,Innate
 Dual-wielded Bludgeon Close Melee +1,Dual-wielded,Bludgeon Close Melee +1,None,+0,+1d6,0,Melee,Swift +1,None,Bludgeon,Close Melee,"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Pierce Close Melee -1,One-handed,Pierce Close Melee -1,None,-1,+0d6,0,Melee,Swift,None,Pierce,Close Melee,"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
-Dual-wielded Pierce Close Melee -1,Dual-wielded,Pierce Close Melee -1,None,-1,+1d6,0,Melee,Swift +1,None,Pierce,Close Melee,"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
-,,,,,,,,,,,,,,
-One-handed Pierce Close Melee,One-handed,Pierce Close Melee,None,+0,+0d6,0,Melee,Swift,None,Pierce,Close Melee,"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
-Dual-wielded Pierce Close Melee,Dual-wielded,Pierce Close Melee,None,+0,+1d6,0,Melee,Swift +1,None,Pierce,Close Melee,"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
-,,,,,,,,,,,,,,
-One-handed Hew Close Melee,One-handed,Hew Close Melee,None,+1,+0d6,0,Melee,Swift,None,Hew,Close Melee,"Hatchets, small axes, ect... Can be used in a Grapple.",Indefinite,Innate
-Dual-wielded Hew Close Melee,Dual-wielded,Hew Close Melee,None,+1,+1d6,0,Melee,Swift +1,None,Hew,Close Melee,"Hatchets, small axes, ect... Can be used in a Grapple.",Indefinite,Innate
-,,,,,,,,,,,,,,
-One-handed Slash Close Melee,One-handed,Slash Close Melee,None,+1,+0d6,0,Melee,Swift,None,Slash,Close Melee,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
-Dual-wielded Slash Close Melee,Dual-wielded,Slash Close Melee,None,+1,+1d6,0,Melee,Swift +1,None,Slash,Close Melee,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
 ,,,,,,,,,,,,,,
 One-handed Bludgeon Medium Melee,One-handed,Bludgeon Medium Melee,None,-1,+1d6,1,Melee,Swift,None,Bludgeon,Medium Melee,"War hammer, mace, large creature smash, ect...",Indefinite,Innate
 Two-handed Bludgeon Medium Melee,Two-handed,Bludgeon Medium Melee,None,-1,+2d6,1,Melee,Swift,None,Bludgeon,Medium Melee,"War hammer, mace, large creature smash, ect...",Indefinite,Innate
