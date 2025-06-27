@@ -43,14 +43,14 @@ One-handed {Skill} Large Spear,One-handed,{Skill} Large Spear,"{Resource}, 0",+2
 Two-handed {Skill} Large Spear,Two-handed,{Skill} Large Spear,"{Resource}, 0",+2,+2d6,2,Melee,Quick,None,{DamageTypes},{Skill},"Two-handed spear, ect...",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-One-handed {Skill} Penetrating Reach Melee,One-handed,{Skill} Penetrating Reach Melee,"{Resource}, 0",-1,-1d,1,Reach,Swift,None,{DamageTypes},{Skill},"Poleaxe hammer, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
-Two-handed {Skill} Penetrating Reach Melee,Two-handed,{Skill} Penetrating Reach Melee,"{Resource}, 0",-1,+3d6,3,Reach,Swift,None,{DamageTypes},{Skill},"Poleaxe hammer, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
+One-handed {Skill} Brutal Reach Melee,One-handed,{Skill} Brutal Reach Melee,"{Resource}, 0",+1,-1d,1,Reach,Swift,None,{DamageTypes},{Skill},"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
+Two-handed {Skill} Brutal Reach Melee,Two-handed,{Skill} Brutal Reach Melee,"{Resource}, 0",+1,+3d6,3,Reach,Swift,None,{DamageTypes},{Skill},"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
 One-handed {Skill} Balanced Reach Melee,One-handed,{Skill} Balanced Reach Melee,"{Resource}, 0",+0,-1d,1,Reach,Swift,None,{DamageTypes},{Skill},"Greatsword, zweihänder, naginata, halberd's spike, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
 Two-handed {Skill} Balanced Reach Melee,Two-handed,{Skill} Balanced Reach Melee,"{Resource}, 0",+0,+3d6,3,Reach,Swift,None,{DamageTypes},{Skill},"Greatsword, zweihänder, naginata, halberd's spike, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
-One-handed {Skill} Brutal Reach Melee,One-handed,{Skill} Brutal Reach Melee,"{Resource}, 0",+1,-1d,1,Reach,Swift,None,{DamageTypes},{Skill},"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
-Two-handed {Skill} Brutal Reach Melee,Two-handed,{Skill} Brutal Reach Melee,"{Resource}, 0",+1,+3d6,3,Reach,Swift,None,{DamageTypes},{Skill},"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
+One-handed {Skill} Penetrating Reach Melee,One-handed,{Skill} Penetrating Reach Melee,"{Resource}, 0",-1,-1d,1,Reach,Swift,None,{DamageTypes},{Skill},"Poleaxe hammer, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
+Two-handed {Skill} Penetrating Reach Melee,Two-handed,{Skill} Penetrating Reach Melee,"{Resource}, 0",-1,+3d6,3,Reach,Swift,None,{DamageTypes},{Skill},"Poleaxe hammer, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
 One-handed {Skill} Reach Spear,One-handed,{Skill} Reach Spear,"{Resource}, 0",+2,-1d,1,Reach,Steady,None,{DamageTypes},{Skill},"Pike, lance, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
 Two-handed {Skill} Reach Spear,Two-handed,{Skill} Reach Spear,"{Resource}, 0",+2,+3d6,3,Reach,Steady,None,{DamageTypes},{Skill},"Pike, lance, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
