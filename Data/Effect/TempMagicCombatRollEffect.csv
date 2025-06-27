@@ -90,11 +90,11 @@ Two-handed Brutal {Skill} Light Bow,Two-handed,Brutal {Skill} Light Bow,"{Resour
 Two-handed Penetrating {Skill} Light Bow,Two-handed,Penetrating {Skill} Light Bow,"{Resource}, 0",+0,+1d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift,None,{DamageTypes},{Skill},Bows favoring easier drawing versus power.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-Two-handed Heavy Bow with Broadhead Heavy Arrow,Two-handed,Heavy Bow,"{Resource}, 0",+0,+2d6,2,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,Indefinite,Innate
+Two-handed Balanced {Skill} Heavy Bow,Two-handed,Balanced {Skill} Heavy Bow,"{Resource}, 0",+0,+2d6,2,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,Indefinite,Innate
 ,,,,,,,,,,,,,,
-Two-handed Heavy Bow with Barbed Heavy Arrow,Two-handed,Heavy Bow,"{Resource}, 0",+1,+2d6,2,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,Indefinite,Innate
+Two-handed Brutal {Skill} Heavy Bow,Two-handed,Brutal {Skill} Heavy Bow,"{Resource}, 0",+1,+2d6,2,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,Indefinite,Innate
 ,,,,,,,,,,,,,,
-Two-handed Heavy Bow with Bodkin Heavy Arrow,Two-handed,Heavy Bow,"{Resource}, 0",+0,+2d6,3,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,Indefinite,Innate
+Two-handed Penetrating {Skill} Heavy Bow,Two-handed,Penetrating {Skill} Heavy Bow,"{Resource}, 0",+0,+2d6,3,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 One-handed Blowgun with Poison Blowgun Dart,One-handed,Blowgun,"{Resource}, 0",+0,+0d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},A long narrow tube that propels darts using the force of the force of the users's breath.,Indefinite,Innate
