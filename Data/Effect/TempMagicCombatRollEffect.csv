@@ -66,14 +66,14 @@ Two-handed Penetrating {Skill} Hand Crossbow,Two-handed,Penetrating {Skill} Hand
 Dual-wielded Penetrating {Skill} Hand Crossbow,Dual-wielded,Penetrating {Skill} Hand Crossbow,"{Resource}, 0",+0,+2d6,1,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},Small crossbows designed to be held in one hand.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-One-handed Light Crossbow with Broadhead Light Bolt,One-handed,Light Crossbow,"{Resource}, 0",+0,+0d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},"Crossbows balancing power and reload time. ",Indefinite,Innate
-Two-handed Light Crossbow with Broadhead Light Bolt,Two-handed,Light Crossbow,"{Resource}, 0",+0,+1d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},"Crossbows balancing power and reload time. ",Indefinite,Innate
+One-handed Balanced {Skill} Light Crossbow,One-handed,Balanced {Skill} Light Crossbow,"{Resource}, 0",+0,+0d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},"Crossbows balancing power and reload time. ",Indefinite,Innate
+Two-handed Balanced {Skill} Light Crossbow,Two-handed,Balanced {Skill} Light Crossbow,"{Resource}, 0",+0,+1d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},"Crossbows balancing power and reload time. ",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Light Crossbow with Barbed Light Bolt,One-handed,Light Crossbow,"{Resource}, 0",+1,+0d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},"Crossbows balancing power and reload time. ",Indefinite,Innate
-Two-handed Light Crossbow with Barbed Light Bolt,Two-handed,Light Crossbow,"{Resource}, 0",+1,+1d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},"Crossbows balancing power and reload time. ",Indefinite,Innate
+One-handed Brutal {Skill} Light Crossbow,One-handed,Brutal {Skill} Light Crossbow,"{Resource}, 0",+1,+0d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},"Crossbows balancing power and reload time. ",Indefinite,Innate
+Two-handed Brutal {Skill} Light Crossbow,Two-handed,Brutal {Skill} Light Crossbow,"{Resource}, 0",+1,+1d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},"Crossbows balancing power and reload time. ",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Light Crossbow with Bodkin Light Bolt,One-handed,Light Crossbow,"{Resource}, 0",+0,+0d6,2,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},"Crossbows balancing power and reload time. ",Indefinite,Innate
-Two-handed Light Crossbow with Bodkin Light Bolt,Two-handed,Light Crossbow,"{Resource}, 0",+0,+1d6,2,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},"Crossbows balancing power and reload time. ",Indefinite,Innate
+One-handed Penetrating {Skill} Light Crossbow,One-handed,Penetrating {Skill} Light Crossbow,"{Resource}, 0",+0,+0d6,2,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},"Crossbows balancing power and reload time. ",Indefinite,Innate
+Two-handed Penetrating {Skill} Light Crossbow,Two-handed,Penetrating {Skill} Light Crossbow,"{Resource}, 0",+0,+1d6,2,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},"Crossbows balancing power and reload time. ",Indefinite,Innate
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 Two-handed Heavy Crossbow with Broadhead Heavy Bolt,Two-handed,Heavy Crossbow,"{Resource}, 0",+0,+2d6,2,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,{DamageTypes},{Skill},Crossbows designed for maximum power disregarding reload time.,Indefinite,Innate
