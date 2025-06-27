@@ -86,9 +86,9 @@ Two-handed {Skill} Balanced Heavy Crossbow,Two-handed,{Skill} Balanced Heavy Cro
 Two-handed {Skill} Penetrating Heavy Crossbow,Two-handed,{Skill} Penetrating Heavy Crossbow,"{Resource}, 0",+0,+2d6,3,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,{DamageTypes},{Skill},Crossbows designed for maximum power disregarding reload time.,1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-Two-handed {Skill} Balanced Light Bow,Two-handed,{Skill} Balanced Light Bow,"{Resource}, 0",+0,+1d6,0,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift,None,{DamageTypes},{Skill},Bows favoring easier drawing versus power.,1 Combat Round,{Skill}
-,,,,,,,,,,,,,,
 Two-handed {Skill} Brutal Light Bow,Two-handed,{Skill} Brutal Light Bow,"{Resource}, 0",+1,+1d6,0,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift,None,{DamageTypes},{Skill},Bows favoring easier drawing versus power.,1 Combat Round,{Skill}
+,,,,,,,,,,,,,,
+Two-handed {Skill} Balanced Light Bow,Two-handed,{Skill} Balanced Light Bow,"{Resource}, 0",+0,+1d6,0,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift,None,{DamageTypes},{Skill},Bows favoring easier drawing versus power.,1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
 Two-handed {Skill} Penetrating Light Bow,Two-handed,{Skill} Penetrating Light Bow,"{Resource}, 0",+0,+1d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift,None,{DamageTypes},{Skill},Bows favoring easier drawing versus power.,1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
