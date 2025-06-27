@@ -103,18 +103,18 @@ One-handed Blowgun with Poison Blowgun Dart,One-handed,Blowgun,"{Resource}, 0",+
 One-handed Sling with Standard Sling Bullet,One-handed,Sling,"{Resource}, 0",+0,+0d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},A flexible strap used to hurl small objects.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-One-handed Thrown {Skill} Brutal Close Melee,One-handed,Thrown {Skill} Brutal Close Melee,"{Resource}, 0",+0,+0d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,{DamageTypes},{Skill},"Ninja stars, ect...",Indefinite,Innate
-Dual-wielded Thrown {Skill} Brutal Close Melee,Dual-wielded,Thrown {Skill} Brutal Close Melee,"{Resource}, 0",+0,+1d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},"Ninja stars, ect...",Indefinite,Innate
+One-handed {Skill} Thrown Brutal Close Melee,One-handed,{Skill} Thrown Brutal Close Melee,"{Resource}, 0",+0,+0d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,{DamageTypes},{Skill},"Ninja stars, ect...",Indefinite,Innate
+Dual-wielded {Skill} Thrown Brutal Close Melee,Dual-wielded,{Skill} Thrown Brutal Close Melee,"{Resource}, 0",+0,+1d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},"Ninja stars, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Thrown {Skill} Balanced Close Melee,One-handed,Thrown {Skill} Balanced Close Melee,"{Resource}, 0",+0,+0d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,{DamageTypes},{Skill},"Throwing daggers, ect...",Indefinite,Innate
-Dual-wielded Thrown {Skill} Balanced Close Melee,Dual-wielded,Thrown {Skill} Balanced Close Melee,"{Resource}, 0",+0,+1d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},"Throwing daggers, ect...",Indefinite,Innate
+One-handed {Skill} Thrown Balanced Close Melee,One-handed,{Skill} Thrown Balanced Close Melee,"{Resource}, 0",+0,+0d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,{DamageTypes},{Skill},"Throwing daggers, ect...",Indefinite,Innate
+Dual-wielded {Skill} Thrown Balanced Close Melee,Dual-wielded,{Skill} Thrown Balanced Close Melee,"{Resource}, 0",+0,+1d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},"Throwing daggers, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Thrown {Skill} Penetrating Close Melee,One-handed,Thrown {Skill} Penetrating Close Melee,"{Resource}, 0",+0,+0d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,{DamageTypes},{Skill},"Thrown small club, rocks, ect...",Indefinite,Innate
-Dual-wielded Thrown {Skill} Penetrating Close Melee,Dual-wielded,Thrown {Skill} Penetrating Close Melee,"{Resource}, 0",+0,+1d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},"Thrown small club, rocks, ect...",Indefinite,Innate
+One-handed {Skill} Thrown Penetrating Close Melee,One-handed,{Skill} Thrown Penetrating Close Melee,"{Resource}, 0",+0,+0d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,{DamageTypes},{Skill},"Thrown small club, rocks, ect...",Indefinite,Innate
+Dual-wielded {Skill} Thrown Penetrating Close Melee,Dual-wielded,{Skill} Thrown Penetrating Close Melee,"{Resource}, 0",+0,+1d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},"Thrown small club, rocks, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Thrown {Skill} Medium Spear,One-handed,Thrown {Skill} Medium Spear,"{Resource}, 0",+0,+1d6,1,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},"Thrown Javelins, ect...",Indefinite,Innate
+One-handed {Skill} Thrown Medium Spear,One-handed,{Skill} Thrown Medium Spear,"{Resource}, 0",+0,+1d6,1,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},"Thrown Javelins, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Thrown {Skill} Large Spear,One-handed,Thrown {Skill} Large Spear,"{Resource}, 0",+0,+1d6,2,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},Thrown two-handed spears.,Indefinite,Innate
+One-handed {Skill} Thrown Large Spear,One-handed,{Skill} Thrown Large Spear,"{Resource}, 0",+0,+1d6,2,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},Thrown two-handed spears.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 One-handed {Skill} Muzzleloading Pistol,One-handed,{Skill} Muzzleloading Pistol,"{Resource}, 0",+0,+2d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Extremely Slow,None,{DamageTypes},{Skill},"Flintlock pistols, ect...",Indefinite,Innate
