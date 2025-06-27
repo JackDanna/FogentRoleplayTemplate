@@ -79,9 +79,9 @@ One-handed {Skill} Penetrating Light Crossbow,One-handed,{Skill} Penetrating Lig
 Two-handed {Skill} Penetrating Light Crossbow,Two-handed,{Skill} Penetrating Light Crossbow,"{Resource}, 0",+0,+1d6,2,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},"Crossbows balancing power and reload time. ",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-Two-handed {Skill} Balanced Heavy Crossbow,Two-handed,{Skill} Balanced Heavy Crossbow,"{Resource}, 0",+0,+2d6,2,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,{DamageTypes},{Skill},Crossbows designed for maximum power disregarding reload time.,1 Combat Round,{Skill}
-,,,,,,,,,,,,,,
 Two-handed {Skill} Brutal Heavy Crossbow,Two-handed,{Skill} Brutal Heavy Crossbow,"{Resource}, 0",+1,+2d6,2,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,{DamageTypes},{Skill},Crossbows designed for maximum power disregarding reload time.,1 Combat Round,{Skill}
+,,,,,,,,,,,,,,
+Two-handed {Skill} Balanced Heavy Crossbow,Two-handed,{Skill} Balanced Heavy Crossbow,"{Resource}, 0",+0,+2d6,2,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,{DamageTypes},{Skill},Crossbows designed for maximum power disregarding reload time.,1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
 Two-handed {Skill} Penetrating Heavy Crossbow,Two-handed,{Skill} Penetrating Heavy Crossbow,"{Resource}, 0",+0,+2d6,3,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,{DamageTypes},{Skill},Crossbows designed for maximum power disregarding reload time.,1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
