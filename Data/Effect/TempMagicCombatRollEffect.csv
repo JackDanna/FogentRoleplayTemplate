@@ -109,23 +109,20 @@ Dual-wielded Thrown Brutal {Skill} Close Melee,Dual-wielded,Thrown Brutal {Skill
 One-handed Thrown Balanced {Skill} Close Melee,One-handed,Thrown Balanced {Skill} Close Melee,"{Resource}, 0",+0,+0d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,{DamageTypes},{Skill},"Throwing daggers, ect...",Indefinite,Innate
 Dual-wielded Thrown Balanced {Skill} Close Melee,Dual-wielded,Thrown Balanced {Skill} Close Melee,"{Resource}, 0",+0,+1d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},"Throwing daggers, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Thrown Hew Close Melee,One-handed,Thrown Hew Close Melee,"{Resource}, 0",+0,+0d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,{DamageTypes},{Skill},"Throwing hatchet, ect...",Indefinite,Innate
-Dual-wielded Thrown Hew Close Melee,Dual-wielded,Thrown Hew Close Melee,"{Resource}, 0",+0,+1d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},"Throwing hatchet, ect...",Indefinite,Innate
-,,,,,,,,,,,,,,
 One-handed Thrown Penetrating {Skill} Close Melee,One-handed,Thrown Penetrating {Skill} Close Melee,"{Resource}, 0",+0,+0d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,{DamageTypes},{Skill},"Thrown small club, rocks, ect...",Indefinite,Innate
 Dual-wielded Thrown Penetrating {Skill} Close Melee,Dual-wielded,Thrown Penetrating {Skill} Close Melee,"{Resource}, 0",+0,+1d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},"Thrown small club, rocks, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Thrown Medium Spear,One-handed,Thrown Medium Spear,"{Resource}, 0",+0,+1d6,1,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},"Thrown Javelins, ect...",Indefinite,Innate
+One-handed Thrown {Skill} Medium Spear,One-handed,Thrown Medium Spear,"{Resource}, 0",+0,+1d6,1,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},"Thrown Javelins, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Thrown Large Spear,One-handed,Thrown Large Spear,"{Resource}, 0",+0,+1d6,2,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},Thrown two-handed spears.,Indefinite,Innate
+One-handed Thrown {Skill} Large Spear,One-handed,Thrown Large Spear,"{Resource}, 0",+0,+1d6,2,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},Thrown two-handed spears.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-One-handed Muzzleloading Pistol,One-handed,Muzzleloading Pistol,"{Resource}, 0",+0,+2d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Extremely Slow,None,{DamageTypes},{Skill},"Flintlock pistols, ect...",Indefinite,Innate
-Two-handed Muzzleloading Pistol,Two-handed,Muzzleloading Pistol,"{Resource}, 0",+0,+2d6,0,"Medium (Normal), Medium (Disadvantage), Medium (Super Disadvantage)",Extremely Slow,None,{DamageTypes},{Skill},"Flintlock pistols, ect...",Indefinite,Innate
-Dual-wielded Muzzleloading Pistol,Dual-wielded,Muzzleloading Pistol,"{Resource}, 0",+0,+3d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Painfully Slow,None,{DamageTypes},{Skill},"Flintlock pistols, ect...",Indefinite,Innate
+One-handed {Skill} Muzzleloading Pistol,One-handed,Muzzleloading Pistol,"{Resource}, 0",+0,+2d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Extremely Slow,None,{DamageTypes},{Skill},"Flintlock pistols, ect...",Indefinite,Innate
+Two-handed {Skill} Muzzleloading Pistol,Two-handed,Muzzleloading Pistol,"{Resource}, 0",+0,+2d6,0,"Medium (Normal), Medium (Disadvantage), Medium (Super Disadvantage)",Extremely Slow,None,{DamageTypes},{Skill},"Flintlock pistols, ect...",Indefinite,Innate
+Dual-wielded {Skill} Muzzleloading Pistol,Dual-wielded,Muzzleloading Pistol,"{Resource}, 0",+0,+3d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Painfully Slow,None,{DamageTypes},{Skill},"Flintlock pistols, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Arquebus,One-handed,Arquebus,"{Resource}, 0",+0,+0d6,1,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,{DamageTypes},{Skill},Can be used as a Combat Roll.,Indefinite,Innate
-Two-handed Arquebus,Two-handed,Arquebus,"{Resource}, 0",+0,+2d6,1,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,{DamageTypes},{Skill},Can be used as a Combat Roll.,Indefinite,Innate
+One-handed {Skill} Arquebus,One-handed,Arquebus,"{Resource}, 0",+0,+0d6,1,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,{DamageTypes},{Skill},Can be used as a Combat Roll.,Indefinite,Innate
+Two-handed {Skill} Arquebus,Two-handed,Arquebus,"{Resource}, 0",+0,+2d6,1,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,{DamageTypes},{Skill},Can be used as a Combat Roll.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 One-handed Musket,One-handed,Musket,"{Resource}, 0",+0,+0d6,1,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Painfully Slow,None,{DamageTypes},{Skill},Flintlock smoothbore long guns.,Indefinite,Innate
 Two-handed Musket,Two-handed,Musket,"{Resource}, 0",+0,+3d6,1,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Painfully Slow,None,{DamageTypes},{Skill},Flintlock smoothbore long guns.,Indefinite,Innate
