@@ -78,6 +78,23 @@ One-handed Reach Spear,One-handed,Reach Spear,None,+2,-1d,1,Reach,Steady,None,Pi
 Two-handed Reach Spear,Two-handed,Reach Spear,None,+2,+3d6,3,Reach,Steady,None,Pierce,Reach Melee,"Pike, lance, ect... Disadvantage while in confined spaces.",Indefinite,Innate
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
+One-handed Thrown Slash Close Melee,One-handed,Thrown Slash Close Melee,"Thrown Slash Close Melee, 1",+0,+0d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,Slash,Close Melee,"Ninja stars, ect...",Indefinite,Innate
+Dual-wielded Thrown Slash Close Melee,Dual-wielded,Thrown Slash Close Melee,"Thrown Slash Close Melee, 2",+0,+1d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,Slash,Close Melee,"Ninja stars, ect...",Indefinite,Innate
+,,,,,,,,,,,,,,
+One-handed Thrown Pierce Close Melee,One-handed,Thrown Pierce Close Melee,"Thrown Pierce Close Melee, 1",+0,+0d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,Pierce,Close Melee,"Throwing daggers, ect...",Indefinite,Innate
+Dual-wielded Thrown Pierce Close Melee,Dual-wielded,Thrown Pierce Close Melee,"Thrown Pierce Close Melee, 2",+0,+1d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,Pierce,Close Melee,"Throwing daggers, ect...",Indefinite,Innate
+,,,,,,,,,,,,,,
+One-handed Thrown Hew Close Melee,One-handed,Thrown Hew Close Melee,"Thrown Hew Close Melee , 1",+0,+0d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,Hew,Close Melee,"Throwing hatchet, ect...",Indefinite,Innate
+Dual-wielded Thrown Hew Close Melee,Dual-wielded,Thrown Hew Close Melee,"Thrown Hew Close Melee , 2",+0,+1d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,Hew,Close Melee,"Throwing hatchet, ect...",Indefinite,Innate
+,,,,,,,,,,,,,,
+One-handed Thrown Bludgeon Close Melee,One-handed,Thrown Bludgeon Close Melee,"Thrown Bludgeon Close Melee, 1",+0,+0d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,Bludgeon,Close Melee,"Thrown small club, rocks, ect...",Indefinite,Innate
+Dual-wielded Thrown Bludgeon Close Melee,Dual-wielded,Thrown Bludgeon Close Melee,"Thrown Bludgeon Close Melee, 2",+0,+1d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,Bludgeon,Close Melee,"Thrown small club, rocks, ect...",Indefinite,Innate
+,,,,,,,,,,,,,,
+One-handed Thrown Medium Spear,One-handed,Thrown Medium Spear,"Thrown Medium Spear, 1",+0,+1d6,1,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,Pierce,Medium Melee,"Thrown Javelins, ect...",Indefinite,Innate
+,,,,,,,,,,,,,,
+One-handed Thrown Large Spear,One-handed,Thrown Large Spear,"Thrown Large Spear, 1",+0,+1d6,2,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,Pierce,Large Melee,Thrown two-handed spears.,Indefinite,Innate
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
 One-handed Hand Crossbow with Barbed Hand Bolt,One-handed,Hand Crossbow,"Barbed Hand Bolt, 1",+1,+1d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,"Pierce, Bleed",Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
 Two-handed Hand Crossbow with Barbed Hand Bolt,Two-handed,Hand Crossbow,"Barbed Hand Bolt, 1",+1,+1d6,0,"Medium (Normal), Medium (Disadvantage), Medium (Super Disadvantage)",Quick,None,"Pierce, Bleed",Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
 Dual-wielded Hand Crossbow with Barbed Hand Bolt,Dual-wielded,Hand Crossbow,"Barbed Hand Bolt, 2",+1,+2d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Steady,None,"Pierce, Bleed",Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
@@ -126,23 +143,6 @@ One-handed Blowgun with Poison Blowgun Dart,One-handed,Blowgun,"Poison Blowgun D
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 One-handed Sling with Standard Sling Bullet,One-handed,Sling,"Standard Sling Bullet, 1",+0,+0d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,Bludgeon,Exotic Ranged,A flexible strap used to hurl small objects.,Indefinite,Innate
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-One-handed Thrown Slash Close Melee,One-handed,Thrown Slash Close Melee,"Thrown Slash Close Melee, 1",+0,+0d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,Slash,Close Melee,"Ninja stars, ect...",Indefinite,Innate
-Dual-wielded Thrown Slash Close Melee,Dual-wielded,Thrown Slash Close Melee,"Thrown Slash Close Melee, 2",+0,+1d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,Slash,Close Melee,"Ninja stars, ect...",Indefinite,Innate
-,,,,,,,,,,,,,,
-One-handed Thrown Pierce Close Melee,One-handed,Thrown Pierce Close Melee,"Thrown Pierce Close Melee, 1",+0,+0d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,Pierce,Close Melee,"Throwing daggers, ect...",Indefinite,Innate
-Dual-wielded Thrown Pierce Close Melee,Dual-wielded,Thrown Pierce Close Melee,"Thrown Pierce Close Melee, 2",+0,+1d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,Pierce,Close Melee,"Throwing daggers, ect...",Indefinite,Innate
-,,,,,,,,,,,,,,
-One-handed Thrown Hew Close Melee,One-handed,Thrown Hew Close Melee,"Thrown Hew Close Melee , 1",+0,+0d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,Hew,Close Melee,"Throwing hatchet, ect...",Indefinite,Innate
-Dual-wielded Thrown Hew Close Melee,Dual-wielded,Thrown Hew Close Melee,"Thrown Hew Close Melee , 2",+0,+1d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,Hew,Close Melee,"Throwing hatchet, ect...",Indefinite,Innate
-,,,,,,,,,,,,,,
-One-handed Thrown Bludgeon Close Melee,One-handed,Thrown Bludgeon Close Melee,"Thrown Bludgeon Close Melee, 1",+0,+0d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,Bludgeon,Close Melee,"Thrown small club, rocks, ect...",Indefinite,Innate
-Dual-wielded Thrown Bludgeon Close Melee,Dual-wielded,Thrown Bludgeon Close Melee,"Thrown Bludgeon Close Melee, 2",+0,+1d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,Bludgeon,Close Melee,"Thrown small club, rocks, ect...",Indefinite,Innate
-,,,,,,,,,,,,,,
-One-handed Thrown Medium Spear,One-handed,Thrown Medium Spear,"Thrown Medium Spear, 1",+0,+1d6,1,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,Pierce,Medium Melee,"Thrown Javelins, ect...",Indefinite,Innate
-,,,,,,,,,,,,,,
-One-handed Thrown Large Spear,One-handed,Thrown Large Spear,"Thrown Large Spear, 1",+0,+1d6,2,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,Pierce,Large Melee,Thrown two-handed spears.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 One-handed Muzzleloading Pistol with Muzzleloading Pistol Cartridge,One-handed,Muzzleloading Pistol,"Muzzleloading Pistol Cartridge, 1",+0,+2d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Extremely Slow,None,Ballistic,Small Guns,"Flintlock pistols, ect...",Indefinite,Innate
