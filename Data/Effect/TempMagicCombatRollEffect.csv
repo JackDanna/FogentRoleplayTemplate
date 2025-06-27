@@ -37,8 +37,8 @@ Two-handed {Skill} Balanced Large Melee,Two-handed,{Skill} Balanced Large Melee,
 One-handed {Skill} Brutal Large Melee,One-handed,{Skill} Brutal Large Melee,"{Resource}, 0",+1,+0d6,1,Melee,Swift,None,{DamageTypes},{Skill},"Longsword, Ōdachi, ect...",Indefinite,Innate
 Two-handed {Skill} Brutal Large Melee,Two-handed,{Skill} Brutal Large Melee,"{Resource}, 0",+1,+2d6,2,Melee,Swift,None,{DamageTypes},{Skill},"Longsword, Ōdachi, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Large {Skill} Spear,One-handed,Large {Skill} Spear,"{Resource}, 0",+2,+0d6,1,Melee,Quick,None,{DamageTypes},{Skill},"Two-handed spear, ect...",Indefinite,Innate
-Two-handed Large {Skill} Spear,Two-handed,Large {Skill} Spear,"{Resource}, 0",+2,+2d6,2,Melee,Quick,None,{DamageTypes},{Skill},"Two-handed spear, ect...",Indefinite,Innate
+One-handed {Skill} Large Spear,One-handed,{Skill} Large Spear,"{Resource}, 0",+2,+0d6,1,Melee,Quick,None,{DamageTypes},{Skill},"Two-handed spear, ect...",Indefinite,Innate
+Two-handed {Skill} Large Spear,Two-handed,{Skill} Large Spear,"{Resource}, 0",+2,+2d6,2,Melee,Quick,None,{DamageTypes},{Skill},"Two-handed spear, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
 One-handed {Skill} Penetrating Reach Melee,One-handed,{Skill} Penetrating Reach Melee,"{Resource}, 0",-1,-1d,1,Reach,Swift,None,{DamageTypes},{Skill},"Poleaxe hammer, ect... Disadvantage while in confined spaces.",Indefinite,Innate
 Two-handed {Skill} Penetrating Reach Melee,Two-handed,{Skill} Penetrating Reach Melee,"{Resource}, 0",-1,+3d6,3,Reach,Swift,None,{DamageTypes},{Skill},"Poleaxe hammer, ect... Disadvantage while in confined spaces.",Indefinite,Innate
@@ -49,8 +49,8 @@ Two-handed {Skill} Balanced Reach Melee,Two-handed,{Skill} Balanced Reach Melee,
 One-handed {Skill} Brutal Reach Melee,One-handed,{Skill} Brutal Reach Melee,"{Resource}, 0",+1,-1d,1,Reach,Swift,None,{DamageTypes},{Skill},"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",Indefinite,Innate
 Two-handed {Skill} Brutal Reach Melee,Two-handed,{Skill} Brutal Reach Melee,"{Resource}, 0",+1,+3d6,3,Reach,Swift,None,{DamageTypes},{Skill},"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed Reach {Skill} Spear,One-handed,Reach {Skill} Spear,"{Resource}, 0",+2,-1d,1,Reach,Steady,None,{DamageTypes},{Skill},"Pike, lance, ect... Disadvantage while in confined spaces.",Indefinite,Innate
-Two-handed Reach {Skill} Spear,Two-handed,Reach {Skill} Spear,"{Resource}, 0",+2,+3d6,3,Reach,Steady,None,{DamageTypes},{Skill},"Pike, lance, ect... Disadvantage while in confined spaces.",Indefinite,Innate
+One-handed {Skill} Reach Spear,One-handed,{Skill} Reach Spear,"{Resource}, 0",+2,-1d,1,Reach,Steady,None,{DamageTypes},{Skill},"Pike, lance, ect... Disadvantage while in confined spaces.",Indefinite,Innate
+Two-handed {Skill} Reach Spear,Two-handed,{Skill} Reach Spear,"{Resource}, 0",+2,+3d6,3,Reach,Steady,None,{DamageTypes},{Skill},"Pike, lance, ect... Disadvantage while in confined spaces.",Indefinite,Innate
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 One-handed {Skill} Balanced Hand Crossbow,One-handed,{Skill} Balanced Hand Crossbow,"{Resource}, 0",+0,+1d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},Small crossbows designed to be held in one hand.,Indefinite,Innate
