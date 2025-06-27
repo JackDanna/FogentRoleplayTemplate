@@ -30,17 +30,18 @@ One-handed {Skill} Whip,One-handed,{Skill} Whip,"{Resource}, 0",+0,+0d6,0,Reach,
 Dual-wielded {Skill} Whip,Dual-wielded,{Skill} Whip,"{Resource}, 0",+0,+1d6,0,Reach,Swift +1,None,{DamageTypes},{Skill},"Bullwhips, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-One-handed {Skill} Penetrating Large Melee,One-handed,{Skill} Penetrating Large Melee,"{Resource}, 0",-1,+0d6,1,Melee,Swift,None,{DamageTypes},{Skill},"Two-handed Mace, maul, ect...",1 Combat Round,{Skill}
-Two-handed {Skill} Penetrating Large Melee,Two-handed,{Skill} Penetrating Large Melee,"{Resource}, 0",-1,+2d6,2,Melee,Swift,None,{DamageTypes},{Skill},"Two-handed Mace, maul, ect...",1 Combat Round,{Skill}
+One-handed {Skill} Brutal Large Melee,One-handed,{Skill} Brutal Large Melee,"{Resource}, 0",+1,+0d6,1,Melee,Swift,None,{DamageTypes},{Skill},"Longsword, Ōdachi, ect...",1 Combat Round,{Skill}
+Two-handed {Skill} Brutal Large Melee,Two-handed,{Skill} Brutal Large Melee,"{Resource}, 0",+1,+2d6,2,Melee,Swift,None,{DamageTypes},{Skill},"Longsword, Ōdachi, ect...",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
 One-handed {Skill} Balanced Large Melee,One-handed,{Skill} Balanced Large Melee,"{Resource}, 0",+0,+0d6,1,Melee,Swift,None,{DamageTypes},{Skill},"Longsword, Ōdachi, Bec de corbin spike, ect...",1 Combat Round,{Skill}
 Two-handed {Skill} Balanced Large Melee,Two-handed,{Skill} Balanced Large Melee,"{Resource}, 0",+0,+2d6,2,Melee,Swift,None,{DamageTypes},{Skill},"Longsword, Ōdachi, Bec de corbin spike, ect...",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
-One-handed {Skill} Brutal Large Melee,One-handed,{Skill} Brutal Large Melee,"{Resource}, 0",+1,+0d6,1,Melee,Swift,None,{DamageTypes},{Skill},"Longsword, Ōdachi, ect...",1 Combat Round,{Skill}
-Two-handed {Skill} Brutal Large Melee,Two-handed,{Skill} Brutal Large Melee,"{Resource}, 0",+1,+2d6,2,Melee,Swift,None,{DamageTypes},{Skill},"Longsword, Ōdachi, ect...",1 Combat Round,{Skill}
+One-handed {Skill} Penetrating Large Melee,One-handed,{Skill} Penetrating Large Melee,"{Resource}, 0",-1,+0d6,1,Melee,Swift,None,{DamageTypes},{Skill},"Two-handed Mace, maul, ect...",1 Combat Round,{Skill}
+Two-handed {Skill} Penetrating Large Melee,Two-handed,{Skill} Penetrating Large Melee,"{Resource}, 0",-1,+2d6,2,Melee,Swift,None,{DamageTypes},{Skill},"Two-handed Mace, maul, ect...",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
 One-handed {Skill} Large Spear,One-handed,{Skill} Large Spear,"{Resource}, 0",+2,+0d6,1,Melee,Quick,None,{DamageTypes},{Skill},"Two-handed spear, ect...",1 Combat Round,{Skill}
 Two-handed {Skill} Large Spear,Two-handed,{Skill} Large Spear,"{Resource}, 0",+2,+2d6,2,Melee,Quick,None,{DamageTypes},{Skill},"Two-handed spear, ect...",1 Combat Round,{Skill}
+,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 One-handed {Skill} Penetrating Reach Melee,One-handed,{Skill} Penetrating Reach Melee,"{Resource}, 0",-1,-1d,1,Reach,Swift,None,{DamageTypes},{Skill},"Poleaxe hammer, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
 Two-handed {Skill} Penetrating Reach Melee,Two-handed,{Skill} Penetrating Reach Melee,"{Resource}, 0",-1,+3d6,3,Reach,Swift,None,{DamageTypes},{Skill},"Poleaxe hammer, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
