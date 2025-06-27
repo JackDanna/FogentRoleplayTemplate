@@ -93,9 +93,9 @@ Two-handed {Skill} Balanced Light Bow,Two-handed,{Skill} Balanced Light Bow,"{Re
 Two-handed {Skill} Penetrating Light Bow,Two-handed,{Skill} Penetrating Light Bow,"{Resource}, 0",+0,+1d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift,None,{DamageTypes},{Skill},Bows favoring easier drawing versus power.,1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-Two-handed {Skill} Balanced Heavy Bow,Two-handed,{Skill} Balanced Heavy Bow,"{Resource}, 0",+0,+2d6,2,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,1 Combat Round,{Skill}
-,,,,,,,,,,,,,,
 Two-handed {Skill} Brutal Heavy Bow,Two-handed,{Skill} Brutal Heavy Bow,"{Resource}, 0",+1,+2d6,2,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,1 Combat Round,{Skill}
+,,,,,,,,,,,,,,
+Two-handed {Skill} Balanced Heavy Bow,Two-handed,{Skill} Balanced Heavy Bow,"{Resource}, 0",+0,+2d6,2,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
 Two-handed {Skill} Penetrating Heavy Bow,Two-handed,{Skill} Penetrating Heavy Bow,"{Resource}, 0",+0,+2d6,3,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,

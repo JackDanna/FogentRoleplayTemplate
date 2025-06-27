@@ -115,9 +115,9 @@ Two-handed Light Bow with Broadhead Light Arrow,Two-handed,Light Bow,"Broadhead 
 Two-handed Light Bow with Bodkin Light Arrow,Two-handed,Light Bow,"Bodkin Light Arrow, 1",+0,+1d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift,None,Pierce,Light Bow,Bows favoring easier drawing versus power.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-Two-handed Heavy Bow with Broadhead Heavy Arrow,Two-handed,Heavy Bow,"Broadhead Heavy Arrow, 1",+0,+2d6,2,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Quick,None,Pierce,Heavy Bow,Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,Indefinite,Innate
-,,,,,,,,,,,,,,
 Two-handed Heavy Bow with Barbed Heavy Arrow,Two-handed,Heavy Bow,"Barbed Heavy Arrow, 1",+1,+2d6,2,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Quick,None,Pierce,Heavy Bow,Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,Indefinite,Innate
+,,,,,,,,,,,,,,
+Two-handed Heavy Bow with Broadhead Heavy Arrow,Two-handed,Heavy Bow,"Broadhead Heavy Arrow, 1",+0,+2d6,2,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Quick,None,Pierce,Heavy Bow,Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 Two-handed Heavy Bow with Bodkin Heavy Arrow,Two-handed,Heavy Bow,"Bodkin Heavy Arrow, 1",+0,+2d6,3,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Quick,None,Pierce,Heavy Bow,Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,Indefinite,Innate
 ,,,,,,,,,,,,,,
