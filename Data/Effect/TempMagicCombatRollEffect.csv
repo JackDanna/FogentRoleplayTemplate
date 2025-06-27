@@ -83,11 +83,11 @@ Two-handed Brutal {Skill} Heavy Crossbow,Two-handed,Brutal {Skill} Heavy Crossbo
 Two-handed Penetrating {Skill} Heavy Crossbow,Two-handed,Penetrating {Skill} Heavy Crossbow,"{Resource}, 0",+0,+2d6,3,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,{DamageTypes},{Skill},Crossbows designed for maximum power disregarding reload time.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-Two-handed Light Bow with Broadhead Light Arrow,Two-handed,Light Bow,"{Resource}, 0",+0,+1d6,0,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift,None,{DamageTypes},{Skill},Bows favoring easier drawing versus power.,Indefinite,Innate
+Two-handed Balanced {Skill} Light Bow,Two-handed,Balanced {Skill} Light Bow,"{Resource}, 0",+0,+1d6,0,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift,None,{DamageTypes},{Skill},Bows favoring easier drawing versus power.,Indefinite,Innate
 ,,,,,,,,,,,,,,
-Two-handed Light Bow with Barbed Light Arrow,Two-handed,Light Bow,"{Resource}, 0",+1,+1d6,0,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift,None,{DamageTypes},{Skill},Bows favoring easier drawing versus power.,Indefinite,Innate
+Two-handed Brutal {Skill} Light Bow,Two-handed,Brutal {Skill} Light Bow,"{Resource}, 0",+1,+1d6,0,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift,None,{DamageTypes},{Skill},Bows favoring easier drawing versus power.,Indefinite,Innate
 ,,,,,,,,,,,,,,
-Two-handed Light Bow with Bodkin Light Arrow,Two-handed,Light Bow,"{Resource}, 0",+0,+1d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift,None,{DamageTypes},{Skill},Bows favoring easier drawing versus power.,Indefinite,Innate
+Two-handed Penetrating {Skill} Light Bow,Two-handed,Penetrating {Skill} Light Bow,"{Resource}, 0",+0,+1d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift,None,{DamageTypes},{Skill},Bows favoring easier drawing versus power.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 Two-handed Heavy Bow with Broadhead Heavy Arrow,Two-handed,Heavy Bow,"{Resource}, 0",+0,+2d6,2,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,Indefinite,Innate
