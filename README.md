@@ -20,7 +20,7 @@ What makes Fogent Roleplay different then Cogent Roleplay:
 * **Pre-made Settings:** If you don't have the time to come up with an entire setting for your players to play in, Fogent Roleplay comes with pre-made campaign settings. This is an ongoing effort with more becoming available over time.
 * **Mature Ruleset:** Fogent Roleplay provides a mature and robust ruleset with no mechanical edge cases (if you can find one, please let us know). Not only were the rules battle-tested via 100+ sessions durning it's development, most of the rules have been converted into code equivalent logic. Since the resulting software works, the rules are mechanically robust.
 
-To close, Fogent Roleplay was born out of the frustration of other popular TTRPGs steadily increasing rule complexity just to have a reason to sell you stuff you didn't need and punishing creators who built content into their systems. However, many years into it's development now, is driven by the love of spending quality time with friends, collabratively exploring our imaginations, and telling awesome stories.
+To close, Fogent Roleplay was born out of the frustration of other popular TTRPGs steadily increasing rule complexity just to have a reason to sell you stuff you didn't need and punishing creators who built content into their systems. However, many years into it's development now, is driven by the love of spending quality time with friends, collaboratively exploring our imaginations, and telling awesome stories.
 
 Long live open-source fun,
 
