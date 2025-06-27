@@ -1,59 +1,59 @@
 name,variation,Type,optionalResourceAndAmount,baseDiceAdjustment,dicePoolModifier,penetration,ranges,usesPerRound,optionalAreaOfEffects,damageTypes,governingSkillName,description,duration,source
 Dual-wielded {Skill} Unarmed,Dual-wielded,{Skill} Unarmed,"{Resource}, 0",+0,-1d,0,Melee,Swift,None,{DamageTypes},{Skill},Just your bare hands. Can be used in a Grapple.,1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
-One-handed {Skill} Brutal Close Melee,One-handed,{Skill} Brutal Close Melee,"{Resource}, 0",+1,+0d6,0,Melee,Swift,None,{DamageTypes},{Skill},"Daggers, shortswords, claws, ect... Can be used in a Grapple.",1 Combat Round,{Skill}
-Dual-wielded {Skill} Brutal Close Melee,Dual-wielded,{Skill} Brutal Close Melee,"{Resource}, 0",+1,+1d6,0,Melee,Swift +1,None,{DamageTypes},{Skill},"Daggers, shortswords, claws, ect... Can be used in a Grapple.",1 Combat Round,{Skill}
+One-handed {Skill} Brutal Close Melee,One-handed,{Skill} Brutal Close Melee,"{Resource}, 1",+1,+0d6,0,Melee,Swift,None,{DamageTypes},{Skill},"Daggers, shortswords, claws, ect... Can be used in a Grapple.",1 Combat Round,{Skill}
+Dual-wielded {Skill} Brutal Close Melee,Dual-wielded,{Skill} Brutal Close Melee,"{Resource}, 1",+1,+1d6,0,Melee,Swift +1,None,{DamageTypes},{Skill},"Daggers, shortswords, claws, ect... Can be used in a Grapple.",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
-One-handed {Skill} Balanced Close Melee,One-handed,{Skill} Balanced Close Melee,"{Resource}, 0",+0,+0d6,0,Melee,Swift,None,{DamageTypes},{Skill},"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",1 Combat Round,{Skill}
-Dual-wielded {Skill} Balanced Close Melee,Dual-wielded,{Skill} Balanced Close Melee,"{Resource}, 0",+0,+1d6,0,Melee,Swift +1,None,{DamageTypes},{Skill},"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",1 Combat Round,{Skill}
+One-handed {Skill} Balanced Close Melee,One-handed,{Skill} Balanced Close Melee,"{Resource}, 1",+0,+0d6,0,Melee,Swift,None,{DamageTypes},{Skill},"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",1 Combat Round,{Skill}
+Dual-wielded {Skill} Balanced Close Melee,Dual-wielded,{Skill} Balanced Close Melee,"{Resource}, 1",+0,+1d6,0,Melee,Swift +1,None,{DamageTypes},{Skill},"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
-One-handed {Skill} Penetrating Close Melee,One-handed,{Skill} Penetrating Close Melee,"{Resource}, 0",-1,+0d6,0,Melee,Swift,None,{DamageTypes},{Skill},"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",1 Combat Round,{Skill}
-Dual-wielded {Skill} Penetrating Close Melee,Dual-wielded,{Skill} Penetrating Close Melee,"{Resource}, 0",-1,+1d6,0,Melee,Swift +1,None,{DamageTypes},{Skill},"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",1 Combat Round,{Skill}
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-One-handed {Skill} Brutal Medium Melee,One-handed,{Skill} Brutal Medium Melee,"{Resource}, 0",+1,+1d6,1,Melee,Swift,None,{DamageTypes},{Skill},"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",1 Combat Round,{Skill}
-Two-handed {Skill} Brutal Medium Melee,Two-handed,{Skill} Brutal Medium Melee,"{Resource}, 0",+1,+2d6,1,Melee,Swift,None,{DamageTypes},{Skill},"Bastard Sword, Medium swords with two-handed grips, ect...",1 Combat Round,{Skill}
-Dual-wielded {Skill} Brutal Medium Melee,Dual-wielded,{Skill} Brutal Medium Melee,"{Resource}, 0",+1,+2d6,1,Melee,Swift +1,None,{DamageTypes},{Skill},"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",1 Combat Round,{Skill}
-,,,,,,,,,,,,,,
-One-handed {Skill} Balanced Medium Melee,One-handed,{Skill} Balanced Medium Melee,"{Resource}, 0",+0,+1d6,1,Melee,Swift,None,{DamageTypes},{Skill},"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, War pick, war hammer's spike, ect...",1 Combat Round,{Skill}
-Two-handed {Skill} Balanced Medium Melee,Two-handed,{Skill} Balanced Medium Melee,"{Resource}, 0",+0,+2d6,1,Melee,Swift,None,{DamageTypes},{Skill},"Bastard Sword, Medium swords with two-handed grips, War pick, war hammer's spike, ect...",1 Combat Round,{Skill}
-Dual-wielded {Skill} Balanced Medium Melee,Dual-wielded,{Skill} Balanced Medium Melee,"{Resource}, 0",+0,+2d6,1,Melee,Swift +1,None,{DamageTypes},{Skill},"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, War pick, war hammer's spike, ect...",1 Combat Round,{Skill}
-,,,,,,,,,,,,,,
-One-handed {Skill} Penetrating Medium Melee,One-handed,{Skill} Penetrating Medium Melee,"{Resource}, 0",-1,+1d6,1,Melee,Swift,None,{DamageTypes},{Skill},"War hammer, mace, large creature smash, ect...",1 Combat Round,{Skill}
-Two-handed {Skill} Penetrating Medium Melee,Two-handed,{Skill} Penetrating Medium Melee,"{Resource}, 0",-1,+2d6,1,Melee,Swift,None,{DamageTypes},{Skill},"War hammer, mace, large creature smash, ect...",1 Combat Round,{Skill}
-Dual-wielded {Skill} Penetrating Medium Melee,Dual-wielded,{Skill} Penetrating Medium Melee,"{Resource}, 0",-1,+2d6,1,Melee,Swift +1,None,{DamageTypes},{Skill},"War hammer, mace, large creature smash, ect...",1 Combat Round,{Skill}
-,,,,,,,,,,,,,,
-One-handed {Skill} Medium Spear,One-handed,{Skill} Medium Spear,"{Resource}, 0",+2,+1d6,1,Melee,Quick,None,{DamageTypes},{Skill},"Javelin, short spear, large creature horns, ect...",1 Combat Round,{Skill}
-Dual-wielded {Skill} Medium Spear,Dual-wielded,{Skill} Medium Spear,"{Resource}, 0",+2,+2d6,1,Melee,Quick,None,{DamageTypes},{Skill},"Javelin, short spear, large creature horns, ect...",1 Combat Round,{Skill}
-,,,,,,,,,,,,,,
-One-handed {Skill} Whip,One-handed,{Skill} Whip,"{Resource}, 0",+0,+0d6,0,Reach,Swift,None,{DamageTypes},{Skill},"Bullwhips, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
-Dual-wielded {Skill} Whip,Dual-wielded,{Skill} Whip,"{Resource}, 0",+0,+1d6,0,Reach,Swift +1,None,{DamageTypes},{Skill},"Bullwhips, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
+One-handed {Skill} Penetrating Close Melee,One-handed,{Skill} Penetrating Close Melee,"{Resource}, 1",-1,+0d6,0,Melee,Swift,None,{DamageTypes},{Skill},"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",1 Combat Round,{Skill}
+Dual-wielded {Skill} Penetrating Close Melee,Dual-wielded,{Skill} Penetrating Close Melee,"{Resource}, 1",-1,+1d6,0,Melee,Swift +1,None,{DamageTypes},{Skill},"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-One-handed {Skill} Brutal Large Melee,One-handed,{Skill} Brutal Large Melee,"{Resource}, 0",+1,+0d6,1,Melee,Swift,None,{DamageTypes},{Skill},"Longsword, Ōdachi, ect...",1 Combat Round,{Skill}
-Two-handed {Skill} Brutal Large Melee,Two-handed,{Skill} Brutal Large Melee,"{Resource}, 0",+1,+2d6,2,Melee,Swift,None,{DamageTypes},{Skill},"Longsword, Ōdachi, ect...",1 Combat Round,{Skill}
+One-handed {Skill} Brutal Medium Melee,One-handed,{Skill} Brutal Medium Melee,"{Resource}, 1",+1,+1d6,1,Melee,Swift,None,{DamageTypes},{Skill},"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",1 Combat Round,{Skill}
+Two-handed {Skill} Brutal Medium Melee,Two-handed,{Skill} Brutal Medium Melee,"{Resource}, 1",+1,+2d6,1,Melee,Swift,None,{DamageTypes},{Skill},"Bastard Sword, Medium swords with two-handed grips, ect...",1 Combat Round,{Skill}
+Dual-wielded {Skill} Brutal Medium Melee,Dual-wielded,{Skill} Brutal Medium Melee,"{Resource}, 1",+1,+2d6,1,Melee,Swift +1,None,{DamageTypes},{Skill},"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
-One-handed {Skill} Balanced Large Melee,One-handed,{Skill} Balanced Large Melee,"{Resource}, 0",+0,+0d6,1,Melee,Swift,None,{DamageTypes},{Skill},"Longsword, Ōdachi, Bec de corbin spike, ect...",1 Combat Round,{Skill}
-Two-handed {Skill} Balanced Large Melee,Two-handed,{Skill} Balanced Large Melee,"{Resource}, 0",+0,+2d6,2,Melee,Swift,None,{DamageTypes},{Skill},"Longsword, Ōdachi, Bec de corbin spike, ect...",1 Combat Round,{Skill}
+One-handed {Skill} Balanced Medium Melee,One-handed,{Skill} Balanced Medium Melee,"{Resource}, 1",+0,+1d6,1,Melee,Swift,None,{DamageTypes},{Skill},"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, War pick, war hammer's spike, ect...",1 Combat Round,{Skill}
+Two-handed {Skill} Balanced Medium Melee,Two-handed,{Skill} Balanced Medium Melee,"{Resource}, 1",+0,+2d6,1,Melee,Swift,None,{DamageTypes},{Skill},"Bastard Sword, Medium swords with two-handed grips, War pick, war hammer's spike, ect...",1 Combat Round,{Skill}
+Dual-wielded {Skill} Balanced Medium Melee,Dual-wielded,{Skill} Balanced Medium Melee,"{Resource}, 1",+0,+2d6,1,Melee,Swift +1,None,{DamageTypes},{Skill},"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, War pick, war hammer's spike, ect...",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
-One-handed {Skill} Penetrating Large Melee,One-handed,{Skill} Penetrating Large Melee,"{Resource}, 0",-1,+0d6,1,Melee,Swift,None,{DamageTypes},{Skill},"Two-handed Mace, maul, ect...",1 Combat Round,{Skill}
-Two-handed {Skill} Penetrating Large Melee,Two-handed,{Skill} Penetrating Large Melee,"{Resource}, 0",-1,+2d6,2,Melee,Swift,None,{DamageTypes},{Skill},"Two-handed Mace, maul, ect...",1 Combat Round,{Skill}
+One-handed {Skill} Penetrating Medium Melee,One-handed,{Skill} Penetrating Medium Melee,"{Resource}, 1",-1,+1d6,1,Melee,Swift,None,{DamageTypes},{Skill},"War hammer, mace, large creature smash, ect...",1 Combat Round,{Skill}
+Two-handed {Skill} Penetrating Medium Melee,Two-handed,{Skill} Penetrating Medium Melee,"{Resource}, 1",-1,+2d6,1,Melee,Swift,None,{DamageTypes},{Skill},"War hammer, mace, large creature smash, ect...",1 Combat Round,{Skill}
+Dual-wielded {Skill} Penetrating Medium Melee,Dual-wielded,{Skill} Penetrating Medium Melee,"{Resource}, 1",-1,+2d6,1,Melee,Swift +1,None,{DamageTypes},{Skill},"War hammer, mace, large creature smash, ect...",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
-One-handed {Skill} Large Spear,One-handed,{Skill} Large Spear,"{Resource}, 0",+2,+0d6,1,Melee,Quick,None,{DamageTypes},{Skill},"Two-handed spear, ect...",1 Combat Round,{Skill}
-Two-handed {Skill} Large Spear,Two-handed,{Skill} Large Spear,"{Resource}, 0",+2,+2d6,2,Melee,Quick,None,{DamageTypes},{Skill},"Two-handed spear, ect...",1 Combat Round,{Skill}
+One-handed {Skill} Medium Spear,One-handed,{Skill} Medium Spear,"{Resource}, 1",+2,+1d6,1,Melee,Quick,None,{DamageTypes},{Skill},"Javelin, short spear, large creature horns, ect...",1 Combat Round,{Skill}
+Dual-wielded {Skill} Medium Spear,Dual-wielded,{Skill} Medium Spear,"{Resource}, 1",+2,+2d6,1,Melee,Quick,None,{DamageTypes},{Skill},"Javelin, short spear, large creature horns, ect...",1 Combat Round,{Skill}
+,,,,,,,,,,,,,,
+One-handed {Skill} Whip,One-handed,{Skill} Whip,"{Resource}, 1",+0,+0d6,0,Reach,Swift,None,{DamageTypes},{Skill},"Bullwhips, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
+Dual-wielded {Skill} Whip,Dual-wielded,{Skill} Whip,"{Resource}, 1",+0,+1d6,0,Reach,Swift +1,None,{DamageTypes},{Skill},"Bullwhips, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-One-handed {Skill} Brutal Reach Melee,One-handed,{Skill} Brutal Reach Melee,"{Resource}, 0",+1,-1d,1,Reach,Swift,None,{DamageTypes},{Skill},"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
-Two-handed {Skill} Brutal Reach Melee,Two-handed,{Skill} Brutal Reach Melee,"{Resource}, 0",+1,+3d6,3,Reach,Swift,None,{DamageTypes},{Skill},"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
+One-handed {Skill} Brutal Large Melee,One-handed,{Skill} Brutal Large Melee,"{Resource}, 1",+1,+0d6,1,Melee,Swift,None,{DamageTypes},{Skill},"Longsword, Ōdachi, ect...",1 Combat Round,{Skill}
+Two-handed {Skill} Brutal Large Melee,Two-handed,{Skill} Brutal Large Melee,"{Resource}, 1",+1,+2d6,2,Melee,Swift,None,{DamageTypes},{Skill},"Longsword, Ōdachi, ect...",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
-One-handed {Skill} Balanced Reach Melee,One-handed,{Skill} Balanced Reach Melee,"{Resource}, 0",+0,-1d,1,Reach,Swift,None,{DamageTypes},{Skill},"Greatsword, zweihänder, naginata, halberd's spike, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
-Two-handed {Skill} Balanced Reach Melee,Two-handed,{Skill} Balanced Reach Melee,"{Resource}, 0",+0,+3d6,3,Reach,Swift,None,{DamageTypes},{Skill},"Greatsword, zweihänder, naginata, halberd's spike, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
+One-handed {Skill} Balanced Large Melee,One-handed,{Skill} Balanced Large Melee,"{Resource}, 1",+0,+0d6,1,Melee,Swift,None,{DamageTypes},{Skill},"Longsword, Ōdachi, Bec de corbin spike, ect...",1 Combat Round,{Skill}
+Two-handed {Skill} Balanced Large Melee,Two-handed,{Skill} Balanced Large Melee,"{Resource}, 1",+0,+2d6,2,Melee,Swift,None,{DamageTypes},{Skill},"Longsword, Ōdachi, Bec de corbin spike, ect...",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
-One-handed {Skill} Penetrating Reach Melee,One-handed,{Skill} Penetrating Reach Melee,"{Resource}, 0",-1,-1d,1,Reach,Swift,None,{DamageTypes},{Skill},"Poleaxe hammer, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
-Two-handed {Skill} Penetrating Reach Melee,Two-handed,{Skill} Penetrating Reach Melee,"{Resource}, 0",-1,+3d6,3,Reach,Swift,None,{DamageTypes},{Skill},"Poleaxe hammer, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
+One-handed {Skill} Penetrating Large Melee,One-handed,{Skill} Penetrating Large Melee,"{Resource}, 1",-1,+0d6,1,Melee,Swift,None,{DamageTypes},{Skill},"Two-handed Mace, maul, ect...",1 Combat Round,{Skill}
+Two-handed {Skill} Penetrating Large Melee,Two-handed,{Skill} Penetrating Large Melee,"{Resource}, 1",-1,+2d6,2,Melee,Swift,None,{DamageTypes},{Skill},"Two-handed Mace, maul, ect...",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
-One-handed {Skill} Reach Spear,One-handed,{Skill} Reach Spear,"{Resource}, 0",+2,-1d,1,Reach,Steady,None,{DamageTypes},{Skill},"Pike, lance, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
-Two-handed {Skill} Reach Spear,Two-handed,{Skill} Reach Spear,"{Resource}, 0",+2,+3d6,3,Reach,Steady,None,{DamageTypes},{Skill},"Pike, lance, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
+One-handed {Skill} Large Spear,One-handed,{Skill} Large Spear,"{Resource}, 1",+2,+0d6,1,Melee,Quick,None,{DamageTypes},{Skill},"Two-handed spear, ect...",1 Combat Round,{Skill}
+Two-handed {Skill} Large Spear,Two-handed,{Skill} Large Spear,"{Resource}, 1",+2,+2d6,2,Melee,Quick,None,{DamageTypes},{Skill},"Two-handed spear, ect...",1 Combat Round,{Skill}
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+One-handed {Skill} Brutal Reach Melee,One-handed,{Skill} Brutal Reach Melee,"{Resource}, 2",+1,-1d,1,Reach,Swift,None,{DamageTypes},{Skill},"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
+Two-handed {Skill} Brutal Reach Melee,Two-handed,{Skill} Brutal Reach Melee,"{Resource}, 2",+1,+3d6,3,Reach,Swift,None,{DamageTypes},{Skill},"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
+,,,,,,,,,,,,,,
+One-handed {Skill} Balanced Reach Melee,One-handed,{Skill} Balanced Reach Melee,"{Resource}, 2",+0,-1d,1,Reach,Swift,None,{DamageTypes},{Skill},"Greatsword, zweihänder, naginata, halberd's spike, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
+Two-handed {Skill} Balanced Reach Melee,Two-handed,{Skill} Balanced Reach Melee,"{Resource}, 2",+0,+3d6,3,Reach,Swift,None,{DamageTypes},{Skill},"Greatsword, zweihänder, naginata, halberd's spike, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
+,,,,,,,,,,,,,,
+One-handed {Skill} Penetrating Reach Melee,One-handed,{Skill} Penetrating Reach Melee,"{Resource}, 2",-1,-1d,1,Reach,Swift,None,{DamageTypes},{Skill},"Poleaxe hammer, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
+Two-handed {Skill} Penetrating Reach Melee,Two-handed,{Skill} Penetrating Reach Melee,"{Resource}, 2",-1,+3d6,3,Reach,Swift,None,{DamageTypes},{Skill},"Poleaxe hammer, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
+,,,,,,,,,,,,,,
+One-handed {Skill} Reach Spear,One-handed,{Skill} Reach Spear,"{Resource}, 2",+2,-1d,1,Reach,Steady,None,{DamageTypes},{Skill},"Pike, lance, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
+Two-handed {Skill} Reach Spear,Two-handed,{Skill} Reach Spear,"{Resource}, 2",+2,+3d6,3,Reach,Steady,None,{DamageTypes},{Skill},"Pike, lance, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 One-handed {Skill} Thrown Brutal Close Melee,One-handed,{Skill} Thrown Brutal Close Melee,"{Resource}, 0",+0,+0d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,{DamageTypes},{Skill},"Ninja stars, ect...",1 Combat Round,{Skill}
@@ -76,59 +76,59 @@ One-handed Blowgun with Poison Blowgun Dart,One-handed,Blowgun,"{Resource}, 0",+
 One-handed Sling with Standard Sling Bullet,One-handed,Sling,"{Resource}, 0",+0,+0d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},A flexible strap used to hurl small objects.,1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-One-handed {Skill} Brutal Hand Crossbow,One-handed,{Skill} Brutal Hand Crossbow,"{Resource}, 0",+1,+1d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},Small crossbows designed to be held in one hand.,1 Combat Round,{Skill}
-Two-handed {Skill} Brutal Hand Crossbow,Two-handed,{Skill} Brutal Hand Crossbow,"{Resource}, 0",+1,+1d6,0,"Medium (Normal), Medium (Disadvantage), Medium (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},Small crossbows designed to be held in one hand.,1 Combat Round,{Skill}
-Dual-wielded {Skill} Brutal Hand Crossbow,Dual-wielded,{Skill} Brutal Hand Crossbow,"{Resource}, 0",+1,+2d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},Small crossbows designed to be held in one hand.,1 Combat Round,{Skill}
+One-handed {Skill} Brutal Hand Crossbow,One-handed,{Skill} Brutal Hand Crossbow,"{Resource}, 1",+1,+1d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},Small crossbows designed to be held in one hand.,1 Combat Round,{Skill}
+Two-handed {Skill} Brutal Hand Crossbow,Two-handed,{Skill} Brutal Hand Crossbow,"{Resource}, 1",+1,+1d6,0,"Medium (Normal), Medium (Disadvantage), Medium (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},Small crossbows designed to be held in one hand.,1 Combat Round,{Skill}
+Dual-wielded {Skill} Brutal Hand Crossbow,Dual-wielded,{Skill} Brutal Hand Crossbow,"{Resource}, 1",+1,+2d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},Small crossbows designed to be held in one hand.,1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
-One-handed {Skill} Balanced Hand Crossbow,One-handed,{Skill} Balanced Hand Crossbow,"{Resource}, 0",+0,+1d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},Small crossbows designed to be held in one hand.,1 Combat Round,{Skill}
-Two-handed {Skill} Balanced Hand Crossbow,Two-handed,{Skill} Balanced Hand Crossbow,"{Resource}, 0",+0,+1d6,0,"Medium (Normal), Medium (Disadvantage), Medium (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},Small crossbows designed to be held in one hand.,1 Combat Round,{Skill}
-Dual-wielded {Skill} Balanced Hand Crossbow,Dual-wielded,{Skill} Balanced Hand Crossbow,"{Resource}, 0",+0,+2d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},Small crossbows designed to be held in one hand.,1 Combat Round,{Skill}
+One-handed {Skill} Balanced Hand Crossbow,One-handed,{Skill} Balanced Hand Crossbow,"{Resource}, 1",+0,+1d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},Small crossbows designed to be held in one hand.,1 Combat Round,{Skill}
+Two-handed {Skill} Balanced Hand Crossbow,Two-handed,{Skill} Balanced Hand Crossbow,"{Resource}, 1",+0,+1d6,0,"Medium (Normal), Medium (Disadvantage), Medium (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},Small crossbows designed to be held in one hand.,1 Combat Round,{Skill}
+Dual-wielded {Skill} Balanced Hand Crossbow,Dual-wielded,{Skill} Balanced Hand Crossbow,"{Resource}, 1",+0,+2d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},Small crossbows designed to be held in one hand.,1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
-One-handed {Skill} Penetrating Hand Crossbow,One-handed,{Skill} Penetrating Hand Crossbow,"{Resource}, 0",-1,+1d6,1,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},Small crossbows designed to be held in one hand.,1 Combat Round,{Skill}
-Two-handed {Skill} Penetrating Hand Crossbow,Two-handed,{Skill} Penetrating Hand Crossbow,"{Resource}, 0",-1,+1d6,1,"Medium (Normal), Medium (Disadvantage), Medium (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},Small crossbows designed to be held in one hand.,1 Combat Round,{Skill}
-Dual-wielded {Skill} Penetrating Hand Crossbow,Dual-wielded,{Skill} Penetrating Hand Crossbow,"{Resource}, 0",-1,+2d6,1,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},Small crossbows designed to be held in one hand.,1 Combat Round,{Skill}
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-One-handed {Skill} Brutal Light Crossbow,One-handed,{Skill} Brutal Light Crossbow,"{Resource}, 0",+1,+0d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},"Crossbows balancing power and reload time. ",1 Combat Round,{Skill}
-Two-handed {Skill} Brutal Light Crossbow,Two-handed,{Skill} Brutal Light Crossbow,"{Resource}, 0",+1,+1d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},"Crossbows balancing power and reload time. ",1 Combat Round,{Skill}
-,,,,,,,,,,,,,,
-One-handed {Skill} Balanced Light Crossbow,One-handed,{Skill} Balanced Light Crossbow,"{Resource}, 0",+0,+0d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},"Crossbows balancing power and reload time. ",1 Combat Round,{Skill}
-Two-handed {Skill} Balanced Light Crossbow,Two-handed,{Skill} Balanced Light Crossbow,"{Resource}, 0",+0,+1d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},"Crossbows balancing power and reload time. ",1 Combat Round,{Skill}
-,,,,,,,,,,,,,,
-One-handed {Skill} Penetrating Light Crossbow,One-handed,{Skill} Penetrating Light Crossbow,"{Resource}, 0",-1,+0d6,2,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},"Crossbows balancing power and reload time. ",1 Combat Round,{Skill}
-Two-handed {Skill} Penetrating Light Crossbow,Two-handed,{Skill} Penetrating Light Crossbow,"{Resource}, 0",-1,+1d6,2,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},"Crossbows balancing power and reload time. ",1 Combat Round,{Skill}
+One-handed {Skill} Penetrating Hand Crossbow,One-handed,{Skill} Penetrating Hand Crossbow,"{Resource}, 1",-1,+1d6,1,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},Small crossbows designed to be held in one hand.,1 Combat Round,{Skill}
+Two-handed {Skill} Penetrating Hand Crossbow,Two-handed,{Skill} Penetrating Hand Crossbow,"{Resource}, 1",-1,+1d6,1,"Medium (Normal), Medium (Disadvantage), Medium (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},Small crossbows designed to be held in one hand.,1 Combat Round,{Skill}
+Dual-wielded {Skill} Penetrating Hand Crossbow,Dual-wielded,{Skill} Penetrating Hand Crossbow,"{Resource}, 1",-1,+2d6,1,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},Small crossbows designed to be held in one hand.,1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-Two-handed {Skill} Brutal Heavy Crossbow,Two-handed,{Skill} Brutal Heavy Crossbow,"{Resource}, 0",+1,+2d6,2,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,{DamageTypes},{Skill},Crossbows designed for maximum power disregarding reload time.,1 Combat Round,{Skill}
+One-handed {Skill} Brutal Light Crossbow,One-handed,{Skill} Brutal Light Crossbow,"{Resource}, 1",+1,+0d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},"Crossbows balancing power and reload time. ",1 Combat Round,{Skill}
+Two-handed {Skill} Brutal Light Crossbow,Two-handed,{Skill} Brutal Light Crossbow,"{Resource}, 1",+1,+1d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},"Crossbows balancing power and reload time. ",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
-Two-handed {Skill} Balanced Heavy Crossbow,Two-handed,{Skill} Balanced Heavy Crossbow,"{Resource}, 0",+0,+2d6,2,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,{DamageTypes},{Skill},Crossbows designed for maximum power disregarding reload time.,1 Combat Round,{Skill}
+One-handed {Skill} Balanced Light Crossbow,One-handed,{Skill} Balanced Light Crossbow,"{Resource}, 1",+0,+0d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},"Crossbows balancing power and reload time. ",1 Combat Round,{Skill}
+Two-handed {Skill} Balanced Light Crossbow,Two-handed,{Skill} Balanced Light Crossbow,"{Resource}, 1",+0,+1d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},"Crossbows balancing power and reload time. ",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
-Two-handed {Skill} Penetrating Heavy Crossbow,Two-handed,{Skill} Penetrating Heavy Crossbow,"{Resource}, 0",-1,+2d6,3,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,{DamageTypes},{Skill},Crossbows designed for maximum power disregarding reload time.,1 Combat Round,{Skill}
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-Two-handed {Skill} Brutal Light Bow,Two-handed,{Skill} Brutal Light Bow,"{Resource}, 0",+1,+1d6,0,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift,None,{DamageTypes},{Skill},Bows favoring easier drawing versus power.,1 Combat Round,{Skill}
-,,,,,,,,,,,,,,
-Two-handed {Skill} Balanced Light Bow,Two-handed,{Skill} Balanced Light Bow,"{Resource}, 0",+0,+1d6,0,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift,None,{DamageTypes},{Skill},Bows favoring easier drawing versus power.,1 Combat Round,{Skill}
-,,,,,,,,,,,,,,
-Two-handed {Skill} Penetrating Light Bow,Two-handed,{Skill} Penetrating Light Bow,"{Resource}, 0",-1,+1d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift,None,{DamageTypes},{Skill},Bows favoring easier drawing versus power.,1 Combat Round,{Skill}
+One-handed {Skill} Penetrating Light Crossbow,One-handed,{Skill} Penetrating Light Crossbow,"{Resource}, 1",-1,+0d6,2,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},"Crossbows balancing power and reload time. ",1 Combat Round,{Skill}
+Two-handed {Skill} Penetrating Light Crossbow,Two-handed,{Skill} Penetrating Light Crossbow,"{Resource}, 1",-1,+1d6,2,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},"Crossbows balancing power and reload time. ",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-Two-handed {Skill} Brutal Heavy Bow,Two-handed,{Skill} Brutal Heavy Bow,"{Resource}, 0",+1,+2d6,2,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,1 Combat Round,{Skill}
+Two-handed {Skill} Brutal Heavy Crossbow,Two-handed,{Skill} Brutal Heavy Crossbow,"{Resource}, 1",+1,+2d6,2,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,{DamageTypes},{Skill},Crossbows designed for maximum power disregarding reload time.,1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
-Two-handed {Skill} Balanced Heavy Bow,Two-handed,{Skill} Balanced Heavy Bow,"{Resource}, 0",+0,+2d6,2,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,1 Combat Round,{Skill}
+Two-handed {Skill} Balanced Heavy Crossbow,Two-handed,{Skill} Balanced Heavy Crossbow,"{Resource}, 1",+0,+2d6,2,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,{DamageTypes},{Skill},Crossbows designed for maximum power disregarding reload time.,1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
-Two-handed {Skill} Penetrating Heavy Bow,Two-handed,{Skill} Penetrating Heavy Bow,"{Resource}, 0",-1,+2d6,3,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,1 Combat Round,{Skill}
+Two-handed {Skill} Penetrating Heavy Crossbow,Two-handed,{Skill} Penetrating Heavy Crossbow,"{Resource}, 1",-1,+2d6,3,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,{DamageTypes},{Skill},Crossbows designed for maximum power disregarding reload time.,1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-One-handed {Skill} Muzzleloading Pistol,One-handed,{Skill} Muzzleloading Pistol,"{Resource}, 0",+0,+2d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Extremely Slow,None,{DamageTypes},{Skill},"Flintlock pistols, ect...",1 Combat Round,{Skill}
-Two-handed {Skill} Muzzleloading Pistol,Two-handed,{Skill} Muzzleloading Pistol,"{Resource}, 0",+0,+2d6,0,"Medium (Normal), Medium (Disadvantage), Medium (Super Disadvantage)",Extremely Slow,None,{DamageTypes},{Skill},"Flintlock pistols, ect...",1 Combat Round,{Skill}
-Dual-wielded {Skill} Muzzleloading Pistol,Dual-wielded,{Skill} Muzzleloading Pistol,"{Resource}, 0",+0,+3d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Painfully Slow,None,{DamageTypes},{Skill},"Flintlock pistols, ect...",1 Combat Round,{Skill}
+Two-handed {Skill} Brutal Light Bow,Two-handed,{Skill} Brutal Light Bow,"{Resource}, 1",+1,+1d6,0,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift,None,{DamageTypes},{Skill},Bows favoring easier drawing versus power.,1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
-One-handed {Skill} Arquebus,One-handed,{Skill} Arquebus,"{Resource}, 0",+0,+0d6,1,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,{DamageTypes},{Skill},Can be used as a Combat Roll.,1 Combat Round,{Skill}
-Two-handed {Skill} Arquebus,Two-handed,{Skill} Arquebus,"{Resource}, 0",+0,+2d6,1,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,{DamageTypes},{Skill},Can be used as a Combat Roll.,1 Combat Round,{Skill}
+Two-handed {Skill} Balanced Light Bow,Two-handed,{Skill} Balanced Light Bow,"{Resource}, 1",+0,+1d6,0,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift,None,{DamageTypes},{Skill},Bows favoring easier drawing versus power.,1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
-One-handed {Skill} Musket,One-handed,{Skill} Musket,"{Resource}, 0",+0,+0d6,1,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Painfully Slow,None,{DamageTypes},{Skill},Flintlock smoothbore long guns.,1 Combat Round,{Skill}
-Two-handed {Skill} Musket,Two-handed,{Skill} Musket,"{Resource}, 0",+0,+3d6,1,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Painfully Slow,None,{DamageTypes},{Skill},Flintlock smoothbore long guns.,1 Combat Round,{Skill}
+Two-handed {Skill} Penetrating Light Bow,Two-handed,{Skill} Penetrating Light Bow,"{Resource}, 1",-1,+1d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift,None,{DamageTypes},{Skill},Bows favoring easier drawing versus power.,1 Combat Round,{Skill}
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Two-handed {Skill} Brutal Heavy Bow,Two-handed,{Skill} Brutal Heavy Bow,"{Resource}, 2",+1,+2d6,2,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,1 Combat Round,{Skill}
+,,,,,,,,,,,,,,
+Two-handed {Skill} Balanced Heavy Bow,Two-handed,{Skill} Balanced Heavy Bow,"{Resource}, 2",+0,+2d6,2,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,1 Combat Round,{Skill}
+,,,,,,,,,,,,,,
+Two-handed {Skill} Penetrating Heavy Bow,Two-handed,{Skill} Penetrating Heavy Bow,"{Resource}, 2",-1,+2d6,3,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,1 Combat Round,{Skill}
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+One-handed {Skill} Muzzleloading Pistol,One-handed,{Skill} Muzzleloading Pistol,"{Resource}, 3",+0,+2d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Extremely Slow,None,{DamageTypes},{Skill},"Flintlock pistols, ect...",1 Combat Round,{Skill}
+Two-handed {Skill} Muzzleloading Pistol,Two-handed,{Skill} Muzzleloading Pistol,"{Resource}, 3",+0,+2d6,0,"Medium (Normal), Medium (Disadvantage), Medium (Super Disadvantage)",Extremely Slow,None,{DamageTypes},{Skill},"Flintlock pistols, ect...",1 Combat Round,{Skill}
+Dual-wielded {Skill} Muzzleloading Pistol,Dual-wielded,{Skill} Muzzleloading Pistol,"{Resource}, 3",+0,+3d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Painfully Slow,None,{DamageTypes},{Skill},"Flintlock pistols, ect...",1 Combat Round,{Skill}
+,,,,,,,,,,,,,,
+One-handed {Skill} Arquebus,One-handed,{Skill} Arquebus,"{Resource}, 3",+0,+0d6,1,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,{DamageTypes},{Skill},Can be used as a Combat Roll.,1 Combat Round,{Skill}
+Two-handed {Skill} Arquebus,Two-handed,{Skill} Arquebus,"{Resource}, 3",+0,+2d6,1,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,{DamageTypes},{Skill},Can be used as a Combat Roll.,1 Combat Round,{Skill}
+,,,,,,,,,,,,,,
+One-handed {Skill} Musket,One-handed,{Skill} Musket,"{Resource}, 3",+0,+0d6,1,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Painfully Slow,None,{DamageTypes},{Skill},Flintlock smoothbore long guns.,1 Combat Round,{Skill}
+Two-handed {Skill} Musket,Two-handed,{Skill} Musket,"{Resource}, 3",+0,+3d6,1,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Painfully Slow,None,{DamageTypes},{Skill},Flintlock smoothbore long guns.,1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
 One-handed {Skill} 9mm Semi-automatic Pistol,One-handed,{Skill} 9mm Semi-automatic Pistol,"{Resource}, 0",+0,+2d6,2,"Extended (Normal), Extended (Disadvantage), Extended (Super Disadvantage)",Swift +2,None,{DamageTypes},{Skill},"Glock 17, ect...",1 Combat Round,{Skill}
 Two-handed {Skill} 9mm Semi-automatic Pistol,Two-handed,{Skill} 9mm Semi-automatic Pistol,"{Resource}, 0",+0,+2d6,2,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift +2,None,{DamageTypes},{Skill},"Glock 17, ect...",1 Combat Round,{Skill}
