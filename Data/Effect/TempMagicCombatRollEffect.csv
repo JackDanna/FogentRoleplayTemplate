@@ -76,11 +76,11 @@ One-handed Penetrating {Skill} Light Crossbow,One-handed,Penetrating {Skill} Lig
 Two-handed Penetrating {Skill} Light Crossbow,Two-handed,Penetrating {Skill} Light Crossbow,"{Resource}, 0",+0,+1d6,2,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},"Crossbows balancing power and reload time. ",Indefinite,Innate
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-Two-handed Heavy Crossbow with Broadhead Heavy Bolt,Two-handed,Heavy Crossbow,"{Resource}, 0",+0,+2d6,2,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,{DamageTypes},{Skill},Crossbows designed for maximum power disregarding reload time.,Indefinite,Innate
+Two-handed Balanced {Skill} Heavy Crossbow,Two-handed,Balanced {Skill} Heavy Crossbow,"{Resource}, 0",+0,+2d6,2,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,{DamageTypes},{Skill},Crossbows designed for maximum power disregarding reload time.,Indefinite,Innate
 ,,,,,,,,,,,,,,
-Two-handed Heavy Crossbow with Barbed Heavy Bolt,Two-handed,Heavy Crossbow,"{Resource}, 0",+1,+2d6,2,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,{DamageTypes},{Skill},Crossbows designed for maximum power disregarding reload time.,Indefinite,Innate
+Two-handed Brutal {Skill} Heavy Crossbow,Two-handed,Brutal {Skill} Heavy Crossbow,"{Resource}, 0",+1,+2d6,2,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,{DamageTypes},{Skill},Crossbows designed for maximum power disregarding reload time.,Indefinite,Innate
 ,,,,,,,,,,,,,,
-Two-handed Heavy Crossbow with Bodkin Heavy Bolt,Two-handed,Heavy Crossbow,"{Resource}, 0",+0,+2d6,3,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,{DamageTypes},{Skill},Crossbows designed for maximum power disregarding reload time.,Indefinite,Innate
+Two-handed Penetrating {Skill} Heavy Crossbow,Two-handed,Penetrating {Skill} Heavy Crossbow,"{Resource}, 0",+0,+2d6,3,"Long (Normal), Long (Disadvantage), Long (Super Disadvantage)",Extremely Slow,None,{DamageTypes},{Skill},Crossbows designed for maximum power disregarding reload time.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 Two-handed Light Bow with Broadhead Light Arrow,Two-handed,Light Bow,"{Resource}, 0",+0,+1d6,0,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Swift,None,{DamageTypes},{Skill},Bows favoring easier drawing versus power.,Indefinite,Innate
