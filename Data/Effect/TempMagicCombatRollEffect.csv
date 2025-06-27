@@ -11,23 +11,24 @@ One-handed {Skill} Penetrating Close Melee,One-handed,{Skill} Penetrating Close 
 Dual-wielded {Skill} Penetrating Close Melee,Dual-wielded,{Skill} Penetrating Close Melee,"{Resource}, 0",-1,+1d6,0,Melee,Swift +1,None,{DamageTypes},{Skill},"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-One-handed {Skill} Penetrating Medium Melee,One-handed,{Skill} Penetrating Medium Melee,"{Resource}, 0",-1,+1d6,1,Melee,Swift,None,{DamageTypes},{Skill},"War hammer, mace, large creature smash, ect...",1 Combat Round,{Skill}
-Two-handed {Skill} Penetrating Medium Melee,Two-handed,{Skill} Penetrating Medium Melee,"{Resource}, 0",-1,+2d6,1,Melee,Swift,None,{DamageTypes},{Skill},"War hammer, mace, large creature smash, ect...",1 Combat Round,{Skill}
-Dual-wielded {Skill} Penetrating Medium Melee,Dual-wielded,{Skill} Penetrating Medium Melee,"{Resource}, 0",-1,+2d6,1,Melee,Swift +1,None,{DamageTypes},{Skill},"War hammer, mace, large creature smash, ect...",1 Combat Round,{Skill}
+One-handed {Skill} Brutal Medium Melee,One-handed,{Skill} Brutal Medium Melee,"{Resource}, 0",+1,+1d6,1,Melee,Swift,None,{DamageTypes},{Skill},"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",1 Combat Round,{Skill}
+Two-handed {Skill} Brutal Medium Melee,Two-handed,{Skill} Brutal Medium Melee,"{Resource}, 0",+1,+2d6,1,Melee,Swift,None,{DamageTypes},{Skill},"Bastard Sword, Medium swords with two-handed grips, ect...",1 Combat Round,{Skill}
+Dual-wielded {Skill} Brutal Medium Melee,Dual-wielded,{Skill} Brutal Medium Melee,"{Resource}, 0",+1,+2d6,1,Melee,Swift +1,None,{DamageTypes},{Skill},"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
 One-handed {Skill} Balanced Medium Melee,One-handed,{Skill} Balanced Medium Melee,"{Resource}, 0",+0,+1d6,1,Melee,Swift,None,{DamageTypes},{Skill},"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, War pick, war hammer's spike, ect...",1 Combat Round,{Skill}
 Two-handed {Skill} Balanced Medium Melee,Two-handed,{Skill} Balanced Medium Melee,"{Resource}, 0",+0,+2d6,1,Melee,Swift,None,{DamageTypes},{Skill},"Bastard Sword, Medium swords with two-handed grips, War pick, war hammer's spike, ect...",1 Combat Round,{Skill}
 Dual-wielded {Skill} Balanced Medium Melee,Dual-wielded,{Skill} Balanced Medium Melee,"{Resource}, 0",+0,+2d6,1,Melee,Swift +1,None,{DamageTypes},{Skill},"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, War pick, war hammer's spike, ect...",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
-One-handed {Skill} Brutal Medium Melee,One-handed,{Skill} Brutal Medium Melee,"{Resource}, 0",+1,+1d6,1,Melee,Swift,None,{DamageTypes},{Skill},"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",1 Combat Round,{Skill}
-Two-handed {Skill} Brutal Medium Melee,Two-handed,{Skill} Brutal Medium Melee,"{Resource}, 0",+1,+2d6,1,Melee,Swift,None,{DamageTypes},{Skill},"Bastard Sword, Medium swords with two-handed grips, ect...",1 Combat Round,{Skill}
-Dual-wielded {Skill} Brutal Medium Melee,Dual-wielded,{Skill} Brutal Medium Melee,"{Resource}, 0",+1,+2d6,1,Melee,Swift +1,None,{DamageTypes},{Skill},"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",1 Combat Round,{Skill}
+One-handed {Skill} Penetrating Medium Melee,One-handed,{Skill} Penetrating Medium Melee,"{Resource}, 0",-1,+1d6,1,Melee,Swift,None,{DamageTypes},{Skill},"War hammer, mace, large creature smash, ect...",1 Combat Round,{Skill}
+Two-handed {Skill} Penetrating Medium Melee,Two-handed,{Skill} Penetrating Medium Melee,"{Resource}, 0",-1,+2d6,1,Melee,Swift,None,{DamageTypes},{Skill},"War hammer, mace, large creature smash, ect...",1 Combat Round,{Skill}
+Dual-wielded {Skill} Penetrating Medium Melee,Dual-wielded,{Skill} Penetrating Medium Melee,"{Resource}, 0",-1,+2d6,1,Melee,Swift +1,None,{DamageTypes},{Skill},"War hammer, mace, large creature smash, ect...",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
 One-handed {Skill} Medium Spear,One-handed,{Skill} Medium Spear,"{Resource}, 0",+2,+1d6,1,Melee,Quick,None,{DamageTypes},{Skill},"Javelin, short spear, large creature horns, ect...",1 Combat Round,{Skill}
 Dual-wielded {Skill} Medium Spear,Dual-wielded,{Skill} Medium Spear,"{Resource}, 0",+2,+2d6,1,Melee,Quick,None,{DamageTypes},{Skill},"Javelin, short spear, large creature horns, ect...",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
 One-handed {Skill} Whip,One-handed,{Skill} Whip,"{Resource}, 0",+0,+0d6,0,Reach,Swift,None,{DamageTypes},{Skill},"Bullwhips, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
 Dual-wielded {Skill} Whip,Dual-wielded,{Skill} Whip,"{Resource}, 0",+0,+1d6,0,Reach,Swift +1,None,{DamageTypes},{Skill},"Bullwhips, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
+,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 One-handed {Skill} Penetrating Large Melee,One-handed,{Skill} Penetrating Large Melee,"{Resource}, 0",-1,+0d6,1,Melee,Swift,None,{DamageTypes},{Skill},"Two-handed Mace, maul, ect...",1 Combat Round,{Skill}
 Two-handed {Skill} Penetrating Large Melee,Two-handed,{Skill} Penetrating Large Melee,"{Resource}, 0",-1,+2d6,2,Melee,Swift,None,{DamageTypes},{Skill},"Two-handed Mace, maul, ect...",1 Combat Round,{Skill}

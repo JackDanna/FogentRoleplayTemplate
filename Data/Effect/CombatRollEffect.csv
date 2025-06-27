@@ -23,14 +23,6 @@ One-handed Bludgeon Close Melee +1,One-handed,Bludgeon Close Melee +1,None,+0,+0
 Dual-wielded Bludgeon Close Melee +1,Dual-wielded,Bludgeon Close Melee +1,None,+0,+1d6,0,Melee,Swift +1,None,Bludgeon,Close Melee,"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",Indefinite,Innate
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-One-handed Bludgeon Medium Melee,One-handed,Bludgeon Medium Melee,None,-1,+1d6,1,Melee,Swift,None,Bludgeon,Medium Melee,"War hammer, mace, large creature smash, ect...",Indefinite,Innate
-Two-handed Bludgeon Medium Melee,Two-handed,Bludgeon Medium Melee,None,-1,+2d6,1,Melee,Swift,None,Bludgeon,Medium Melee,"War hammer, mace, large creature smash, ect...",Indefinite,Innate
-Dual-wielded Bludgeon Medium Melee,Dual-wielded,Bludgeon Medium Melee,None,-1,+2d6,1,Melee,Swift +1,None,Bludgeon,Medium Melee,"War hammer, mace, large creature smash, ect...",Indefinite,Innate
-,,,,,,,,,,,,,,
-One-handed Pierce Medium Melee,One-handed,Pierce Medium Melee,None,+0,+1d6,1,Melee,Swift,None,Pierce,Medium Melee,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, War pick, war hammer's spike, ect...",Indefinite,Innate
-Two-handed Pierce Medium Melee,Two-handed,Pierce Medium Melee,None,+0,+2d6,1,Melee,Swift,None,Pierce,Medium Melee,"Bastard Sword, Medium swords with two-handed grips, War pick, war hammer's spike, ect...",Indefinite,Innate
-Dual-wielded Pierce Medium Melee,Dual-wielded,Pierce Medium Melee,None,+0,+2d6,1,Melee,Swift +1,None,Pierce,Medium Melee,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, War pick, war hammer's spike, ect...",Indefinite,Innate
-,,,,,,,,,,,,,,
 One-handed Hew Medium Melee,One-handed,Hew Medium Melee,None,+1,+1d6,1,Melee,Swift,None,Hew,Medium Melee,"Battleaxes, large creature claws, ect...",Indefinite,Innate
 Two-handed Hew Medium Melee,Two-handed,Hew Medium Melee,None,+1,+2d6,1,Melee,Swift,None,Hew,Medium Melee,"Battleaxes, large creature claws, ect...",Indefinite,Innate
 Dual-wielded Hew Medium Melee,Dual-wielded,Hew Medium Melee,None,+1,+2d6,1,Melee,Swift +1,None,Hew,Medium Melee,"Battleaxes, large creature claws, ect...",Indefinite,Innate
@@ -39,8 +31,20 @@ One-handed Slash Medium Melee,One-handed,Slash Medium Melee,None,+1,+1d6,1,Melee
 Two-handed Slash Medium Melee,Two-handed,Slash Medium Melee,None,+1,+2d6,1,Melee,Swift,None,Slash,Medium Melee,"Bastard Sword, Medium swords with two-handed grips, ect...",Indefinite,Innate
 Dual-wielded Slash Medium Melee,Dual-wielded,Slash Medium Melee,None,+1,+2d6,1,Melee,Swift +1,None,Slash,Medium Melee,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
+One-handed Pierce Medium Melee,One-handed,Pierce Medium Melee,None,+0,+1d6,1,Melee,Swift,None,Pierce,Medium Melee,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, War pick, war hammer's spike, ect...",Indefinite,Innate
+Two-handed Pierce Medium Melee,Two-handed,Pierce Medium Melee,None,+0,+2d6,1,Melee,Swift,None,Pierce,Medium Melee,"Bastard Sword, Medium swords with two-handed grips, War pick, war hammer's spike, ect...",Indefinite,Innate
+Dual-wielded Pierce Medium Melee,Dual-wielded,Pierce Medium Melee,None,+0,+2d6,1,Melee,Swift +1,None,Pierce,Medium Melee,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, War pick, war hammer's spike, ect...",Indefinite,Innate
+,,,,,,,,,,,,,,
+One-handed Bludgeon Medium Melee,One-handed,Bludgeon Medium Melee,None,-1,+1d6,1,Melee,Swift,None,Bludgeon,Medium Melee,"War hammer, mace, large creature smash, ect...",Indefinite,Innate
+Two-handed Bludgeon Medium Melee,Two-handed,Bludgeon Medium Melee,None,-1,+2d6,1,Melee,Swift,None,Bludgeon,Medium Melee,"War hammer, mace, large creature smash, ect...",Indefinite,Innate
+Dual-wielded Bludgeon Medium Melee,Dual-wielded,Bludgeon Medium Melee,None,-1,+2d6,1,Melee,Swift +1,None,Bludgeon,Medium Melee,"War hammer, mace, large creature smash, ect...",Indefinite,Innate
+,,,,,,,,,,,,,,
 One-handed Medium Spear,One-handed,Medium Spear,None,+2,+1d6,1,Melee,Quick,None,Pierce,Medium Melee,"Javelin, short spear, large creature horns, ect...",Indefinite,Innate
 Dual-wielded Medium Spear,Dual-wielded,Medium Spear,None,+2,+2d6,1,Melee,Quick,None,Pierce,Medium Melee,"Javelin, short spear, large creature horns, ect...",Indefinite,Innate
+,,,,,,,,,,,,,,
+One-handed Whip,One-handed,Whip,None,+0,+0d6,0,Reach,Swift,None,Slash,Exotic Melee,"Bullwhips, ect... Disadvantage while in confined spaces.",Indefinite,Innate
+Dual-wielded Whip,Dual-wielded,Whip,None,+0,+1d6,0,Reach,Swift +1,None,Slash,Exotic Melee,"Bullwhips, ect... Disadvantage while in confined spaces.",Indefinite,Innate
+,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 One-handed Bludgeon Large Melee,One-handed,Bludgeon Large Melee,None,-1,+0d6,1,Melee,Swift,None,Bludgeon,Large Melee,"Two-handed Mace, maul, ect...",Indefinite,Innate
 Two-handed Bludgeon Large Melee,Two-handed,Bludgeon Large Melee,None,-1,+2d6,2,Melee,Swift,None,Bludgeon,Large Melee,"Two-handed Mace, maul, ect...",Indefinite,Innate
@@ -71,9 +75,6 @@ Two-handed Slash Reach Melee,Two-handed,Slash Reach Melee,None,+1,+3d6,3,Reach,S
 ,,,,,,,,,,,,,,
 One-handed Reach Spear,One-handed,Reach Spear,None,+2,-1d,1,Reach,Steady,None,Pierce,Reach Melee,"Pike, lance, ect... Disadvantage while in confined spaces.",Indefinite,Innate
 Two-handed Reach Spear,Two-handed,Reach Spear,None,+2,+3d6,3,Reach,Steady,None,Pierce,Reach Melee,"Pike, lance, ect... Disadvantage while in confined spaces.",Indefinite,Innate
-,,,,,,,,,,,,,,
-One-handed Whip,One-handed,Whip,None,+0,+0d6,0,Reach,Swift,None,Slash,Exotic Melee,"Bullwhips, ect... Disadvantage while in confined spaces.",Indefinite,Innate
-Dual-wielded Whip,Dual-wielded,Whip,None,+0,+1d6,0,Reach,Swift +1,None,Slash,Exotic Melee,"Bullwhips, ect... Disadvantage while in confined spaces.",Indefinite,Innate
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 One-handed Hand Crossbow with Broadhead Hand Bolt,One-handed,Hand Crossbow,"Broadhead Hand Bolt, 1",+0,+1d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
