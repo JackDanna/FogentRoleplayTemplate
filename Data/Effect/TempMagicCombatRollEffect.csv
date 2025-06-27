@@ -4,27 +4,27 @@ Dual-wielded {Skill} Unarmed,Dual-wielded,{Skill} Unarmed,"{Resource}, 0",+0,-1d
 One-handed {Skill} Brutal Close Melee,One-handed,{Skill} Brutal Close Melee,"{Resource}, 1",+1,+0d6,0,Melee,Swift,None,{DamageTypes},{Skill},"Daggers, shortswords, claws, ect... Can be used in a Grapple.",1 Combat Round,{Skill}
 Dual-wielded {Skill} Brutal Close Melee,Dual-wielded,{Skill} Brutal Close Melee,"{Resource}, 1",+1,+1d6,0,Melee,Swift +1,None,{DamageTypes},{Skill},"Daggers, shortswords, claws, ect... Can be used in a Grapple.",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
-One-handed {Skill} Balanced Close Melee,One-handed,{Skill} Balanced Close Melee,"{Resource}, 1",+0,+0d6,0,Melee,Swift,None,{DamageTypes},{Skill},"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",1 Combat Round,{Skill}
-Dual-wielded {Skill} Balanced Close Melee,Dual-wielded,{Skill} Balanced Close Melee,"{Resource}, 1",+0,+1d6,0,Melee,Swift +1,None,{DamageTypes},{Skill},"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",1 Combat Round,{Skill}
+One-handed {Skill} Balanced Close Melee,One-handed,{Skill} Balanced Close Melee,"{Resource}, 1",+0,+0d6,1,Melee,Swift,None,{DamageTypes},{Skill},"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",1 Combat Round,{Skill}
+Dual-wielded {Skill} Balanced Close Melee,Dual-wielded,{Skill} Balanced Close Melee,"{Resource}, 1",+0,+1d6,1,Melee,Swift +1,None,{DamageTypes},{Skill},"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
-One-handed {Skill} Penetrating Close Melee,One-handed,{Skill} Penetrating Close Melee,"{Resource}, 1",-1,+0d6,0,Melee,Swift,None,{DamageTypes},{Skill},"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",1 Combat Round,{Skill}
-Dual-wielded {Skill} Penetrating Close Melee,Dual-wielded,{Skill} Penetrating Close Melee,"{Resource}, 1",-1,+1d6,0,Melee,Swift +1,None,{DamageTypes},{Skill},"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",1 Combat Round,{Skill}
+One-handed {Skill} Penetrating Close Melee,One-handed,{Skill} Penetrating Close Melee,"{Resource}, 1",-1,+0d6,2,Melee,Swift,None,{DamageTypes},{Skill},"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",1 Combat Round,{Skill}
+Dual-wielded {Skill} Penetrating Close Melee,Dual-wielded,{Skill} Penetrating Close Melee,"{Resource}, 1",-1,+1d6,2,Melee,Swift +1,None,{DamageTypes},{Skill},"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 One-handed {Skill} Brutal Medium Melee,One-handed,{Skill} Brutal Medium Melee,"{Resource}, 1",+1,+1d6,1,Melee,Swift,None,{DamageTypes},{Skill},"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",1 Combat Round,{Skill}
 Two-handed {Skill} Brutal Medium Melee,Two-handed,{Skill} Brutal Medium Melee,"{Resource}, 1",+1,+2d6,1,Melee,Swift,None,{DamageTypes},{Skill},"Bastard Sword, Medium swords with two-handed grips, ect...",1 Combat Round,{Skill}
 Dual-wielded {Skill} Brutal Medium Melee,Dual-wielded,{Skill} Brutal Medium Melee,"{Resource}, 1",+1,+2d6,1,Melee,Swift +1,None,{DamageTypes},{Skill},"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
-One-handed {Skill} Balanced Medium Melee,One-handed,{Skill} Balanced Medium Melee,"{Resource}, 1",+0,+1d6,1,Melee,Swift,None,{DamageTypes},{Skill},"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, War pick, war hammer's spike, ect...",1 Combat Round,{Skill}
-Two-handed {Skill} Balanced Medium Melee,Two-handed,{Skill} Balanced Medium Melee,"{Resource}, 1",+0,+2d6,1,Melee,Swift,None,{DamageTypes},{Skill},"Bastard Sword, Medium swords with two-handed grips, War pick, war hammer's spike, ect...",1 Combat Round,{Skill}
-Dual-wielded {Skill} Balanced Medium Melee,Dual-wielded,{Skill} Balanced Medium Melee,"{Resource}, 1",+0,+2d6,1,Melee,Swift +1,None,{DamageTypes},{Skill},"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, War pick, war hammer's spike, ect...",1 Combat Round,{Skill}
+One-handed {Skill} Balanced Medium Melee,One-handed,{Skill} Balanced Medium Melee,"{Resource}, 1",+0,+1d6,2,Melee,Swift,None,{DamageTypes},{Skill},"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, War pick, war hammer's spike, ect...",1 Combat Round,{Skill}
+Two-handed {Skill} Balanced Medium Melee,Two-handed,{Skill} Balanced Medium Melee,"{Resource}, 1",+0,+2d6,2,Melee,Swift,None,{DamageTypes},{Skill},"Bastard Sword, Medium swords with two-handed grips, War pick, war hammer's spike, ect...",1 Combat Round,{Skill}
+Dual-wielded {Skill} Balanced Medium Melee,Dual-wielded,{Skill} Balanced Medium Melee,"{Resource}, 1",+0,+2d6,2,Melee,Swift +1,None,{DamageTypes},{Skill},"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, War pick, war hammer's spike, ect...",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
-One-handed {Skill} Penetrating Medium Melee,One-handed,{Skill} Penetrating Medium Melee,"{Resource}, 1",-1,+1d6,1,Melee,Swift,None,{DamageTypes},{Skill},"War hammer, mace, large creature smash, ect...",1 Combat Round,{Skill}
-Two-handed {Skill} Penetrating Medium Melee,Two-handed,{Skill} Penetrating Medium Melee,"{Resource}, 1",-1,+2d6,1,Melee,Swift,None,{DamageTypes},{Skill},"War hammer, mace, large creature smash, ect...",1 Combat Round,{Skill}
-Dual-wielded {Skill} Penetrating Medium Melee,Dual-wielded,{Skill} Penetrating Medium Melee,"{Resource}, 1",-1,+2d6,1,Melee,Swift +1,None,{DamageTypes},{Skill},"War hammer, mace, large creature smash, ect...",1 Combat Round,{Skill}
+One-handed {Skill} Penetrating Medium Melee,One-handed,{Skill} Penetrating Medium Melee,"{Resource}, 1",-1,+1d6,3,Melee,Swift,None,{DamageTypes},{Skill},"War hammer, mace, large creature smash, ect...",1 Combat Round,{Skill}
+Two-handed {Skill} Penetrating Medium Melee,Two-handed,{Skill} Penetrating Medium Melee,"{Resource}, 1",-1,+2d6,3,Melee,Swift,None,{DamageTypes},{Skill},"War hammer, mace, large creature smash, ect...",1 Combat Round,{Skill}
+Dual-wielded {Skill} Penetrating Medium Melee,Dual-wielded,{Skill} Penetrating Medium Melee,"{Resource}, 1",-1,+2d6,3,Melee,Swift +1,None,{DamageTypes},{Skill},"War hammer, mace, large creature smash, ect...",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
-One-handed {Skill} Medium Spear,One-handed,{Skill} Medium Spear,"{Resource}, 1",+2,+1d6,1,Melee,Quick,None,{DamageTypes},{Skill},"Javelin, short spear, large creature horns, ect...",1 Combat Round,{Skill}
-Dual-wielded {Skill} Medium Spear,Dual-wielded,{Skill} Medium Spear,"{Resource}, 1",+2,+2d6,1,Melee,Quick,None,{DamageTypes},{Skill},"Javelin, short spear, large creature horns, ect...",1 Combat Round,{Skill}
+One-handed {Skill} Medium Spear,One-handed,{Skill} Medium Spear,"{Resource}, 1",+2,+1d6,2,Melee,Quick,None,{DamageTypes},{Skill},"Javelin, short spear, large creature horns, ect...",1 Combat Round,{Skill}
+Dual-wielded {Skill} Medium Spear,Dual-wielded,{Skill} Medium Spear,"{Resource}, 1",+2,+2d6,2,Melee,Quick,None,{DamageTypes},{Skill},"Javelin, short spear, large creature horns, ect...",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
 One-handed {Skill} Whip,One-handed,{Skill} Whip,"{Resource}, 1",+0,+0d6,0,Reach,Swift,None,{DamageTypes},{Skill},"Bullwhips, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
 Dual-wielded {Skill} Whip,Dual-wielded,{Skill} Whip,"{Resource}, 1",+0,+1d6,0,Reach,Swift +1,None,{DamageTypes},{Skill},"Bullwhips, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
@@ -33,44 +33,44 @@ Dual-wielded {Skill} Whip,Dual-wielded,{Skill} Whip,"{Resource}, 1",+0,+1d6,0,Re
 One-handed {Skill} Brutal Large Melee,One-handed,{Skill} Brutal Large Melee,"{Resource}, 1",+1,+0d6,1,Melee,Swift,None,{DamageTypes},{Skill},"Longsword, Ōdachi, ect...",1 Combat Round,{Skill}
 Two-handed {Skill} Brutal Large Melee,Two-handed,{Skill} Brutal Large Melee,"{Resource}, 1",+1,+2d6,2,Melee,Swift,None,{DamageTypes},{Skill},"Longsword, Ōdachi, ect...",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
-One-handed {Skill} Balanced Large Melee,One-handed,{Skill} Balanced Large Melee,"{Resource}, 1",+0,+0d6,1,Melee,Swift,None,{DamageTypes},{Skill},"Longsword, Ōdachi, Bec de corbin spike, ect...",1 Combat Round,{Skill}
-Two-handed {Skill} Balanced Large Melee,Two-handed,{Skill} Balanced Large Melee,"{Resource}, 1",+0,+2d6,2,Melee,Swift,None,{DamageTypes},{Skill},"Longsword, Ōdachi, Bec de corbin spike, ect...",1 Combat Round,{Skill}
+One-handed {Skill} Balanced Large Melee,One-handed,{Skill} Balanced Large Melee,"{Resource}, 1",+0,+0d6,2,Melee,Swift,None,{DamageTypes},{Skill},"Longsword, Ōdachi, Bec de corbin spike, ect...",1 Combat Round,{Skill}
+Two-handed {Skill} Balanced Large Melee,Two-handed,{Skill} Balanced Large Melee,"{Resource}, 1",+0,+2d6,3,Melee,Swift,None,{DamageTypes},{Skill},"Longsword, Ōdachi, Bec de corbin spike, ect...",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
-One-handed {Skill} Penetrating Large Melee,One-handed,{Skill} Penetrating Large Melee,"{Resource}, 1",-1,+0d6,1,Melee,Swift,None,{DamageTypes},{Skill},"Two-handed Mace, maul, ect...",1 Combat Round,{Skill}
-Two-handed {Skill} Penetrating Large Melee,Two-handed,{Skill} Penetrating Large Melee,"{Resource}, 1",-1,+2d6,2,Melee,Swift,None,{DamageTypes},{Skill},"Two-handed Mace, maul, ect...",1 Combat Round,{Skill}
+One-handed {Skill} Penetrating Large Melee,One-handed,{Skill} Penetrating Large Melee,"{Resource}, 1",-1,+0d6,3,Melee,Swift,None,{DamageTypes},{Skill},"Two-handed Mace, maul, ect...",1 Combat Round,{Skill}
+Two-handed {Skill} Penetrating Large Melee,Two-handed,{Skill} Penetrating Large Melee,"{Resource}, 1",-1,+2d6,4,Melee,Swift,None,{DamageTypes},{Skill},"Two-handed Mace, maul, ect...",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
-One-handed {Skill} Large Spear,One-handed,{Skill} Large Spear,"{Resource}, 1",+2,+0d6,1,Melee,Quick,None,{DamageTypes},{Skill},"Two-handed spear, ect...",1 Combat Round,{Skill}
-Two-handed {Skill} Large Spear,Two-handed,{Skill} Large Spear,"{Resource}, 1",+2,+2d6,2,Melee,Quick,None,{DamageTypes},{Skill},"Two-handed spear, ect...",1 Combat Round,{Skill}
+One-handed {Skill} Large Spear,One-handed,{Skill} Large Spear,"{Resource}, 1",+2,+0d6,2,Melee,Quick,None,{DamageTypes},{Skill},"Two-handed spear, ect...",1 Combat Round,{Skill}
+Two-handed {Skill} Large Spear,Two-handed,{Skill} Large Spear,"{Resource}, 1",+2,+2d6,3,Melee,Quick,None,{DamageTypes},{Skill},"Two-handed spear, ect...",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 One-handed {Skill} Brutal Reach Melee,One-handed,{Skill} Brutal Reach Melee,"{Resource}, 2",+1,-1d,1,Reach,Swift,None,{DamageTypes},{Skill},"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
-Two-handed {Skill} Brutal Reach Melee,Two-handed,{Skill} Brutal Reach Melee,"{Resource}, 2",+1,+3d6,3,Reach,Swift,None,{DamageTypes},{Skill},"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
+Two-handed {Skill} Brutal Reach Melee,Two-handed,{Skill} Brutal Reach Melee,"{Resource}, 2",+1,+3d6,2,Reach,Swift,None,{DamageTypes},{Skill},"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
-One-handed {Skill} Balanced Reach Melee,One-handed,{Skill} Balanced Reach Melee,"{Resource}, 2",+0,-1d,1,Reach,Swift,None,{DamageTypes},{Skill},"Greatsword, zweihänder, naginata, halberd's spike, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
+One-handed {Skill} Balanced Reach Melee,One-handed,{Skill} Balanced Reach Melee,"{Resource}, 2",+0,-1d,2,Reach,Swift,None,{DamageTypes},{Skill},"Greatsword, zweihänder, naginata, halberd's spike, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
 Two-handed {Skill} Balanced Reach Melee,Two-handed,{Skill} Balanced Reach Melee,"{Resource}, 2",+0,+3d6,3,Reach,Swift,None,{DamageTypes},{Skill},"Greatsword, zweihänder, naginata, halberd's spike, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
-One-handed {Skill} Penetrating Reach Melee,One-handed,{Skill} Penetrating Reach Melee,"{Resource}, 2",-1,-1d,1,Reach,Swift,None,{DamageTypes},{Skill},"Poleaxe hammer, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
-Two-handed {Skill} Penetrating Reach Melee,Two-handed,{Skill} Penetrating Reach Melee,"{Resource}, 2",-1,+3d6,3,Reach,Swift,None,{DamageTypes},{Skill},"Poleaxe hammer, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
+One-handed {Skill} Penetrating Reach Melee,One-handed,{Skill} Penetrating Reach Melee,"{Resource}, 2",-1,-1d,3,Reach,Swift,None,{DamageTypes},{Skill},"Poleaxe hammer, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
+Two-handed {Skill} Penetrating Reach Melee,Two-handed,{Skill} Penetrating Reach Melee,"{Resource}, 2",-1,+3d6,4,Reach,Swift,None,{DamageTypes},{Skill},"Poleaxe hammer, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
-One-handed {Skill} Reach Spear,One-handed,{Skill} Reach Spear,"{Resource}, 2",+2,-1d,1,Reach,Steady,None,{DamageTypes},{Skill},"Pike, lance, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
+One-handed {Skill} Reach Spear,One-handed,{Skill} Reach Spear,"{Resource}, 2",+2,-1d,2,Reach,Steady,None,{DamageTypes},{Skill},"Pike, lance, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
 Two-handed {Skill} Reach Spear,Two-handed,{Skill} Reach Spear,"{Resource}, 2",+2,+3d6,3,Reach,Steady,None,{DamageTypes},{Skill},"Pike, lance, ect... Disadvantage while in confined spaces.",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-One-handed {Skill} Thrown Brutal Close Melee,One-handed,{Skill} Thrown Brutal Close Melee,"{Resource}, 0",+0,+0d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,{DamageTypes},{Skill},"Ninja stars, ect...",1 Combat Round,{Skill}
-Dual-wielded {Skill} Thrown Brutal Close Melee,Dual-wielded,{Skill} Thrown Brutal Close Melee,"{Resource}, 0",+0,+1d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},"Ninja stars, ect...",1 Combat Round,{Skill}
+One-handed {Skill} Thrown Brutal Close Melee,One-handed,{Skill} Thrown Brutal Close Melee,"{Resource}, 0",+1,+0d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,{DamageTypes},{Skill},"Ninja stars, ect...",1 Combat Round,{Skill}
+Dual-wielded {Skill} Thrown Brutal Close Melee,Dual-wielded,{Skill} Thrown Brutal Close Melee,"{Resource}, 0",+1,+1d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},"Ninja stars, ect...",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
-One-handed {Skill} Thrown Balanced Close Melee,One-handed,{Skill} Thrown Balanced Close Melee,"{Resource}, 0",+0,+0d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,{DamageTypes},{Skill},"Throwing daggers, ect...",1 Combat Round,{Skill}
-Dual-wielded {Skill} Thrown Balanced Close Melee,Dual-wielded,{Skill} Thrown Balanced Close Melee,"{Resource}, 0",+0,+1d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},"Throwing daggers, ect...",1 Combat Round,{Skill}
+One-handed {Skill} Thrown Balanced Close Melee,One-handed,{Skill} Thrown Balanced Close Melee,"{Resource}, 0",+0,+0d6,1,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,{DamageTypes},{Skill},"Throwing daggers, ect...",1 Combat Round,{Skill}
+Dual-wielded {Skill} Thrown Balanced Close Melee,Dual-wielded,{Skill} Thrown Balanced Close Melee,"{Resource}, 0",+0,+1d6,1,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},"Throwing daggers, ect...",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
-One-handed {Skill} Thrown Penetrating Close Melee,One-handed,{Skill} Thrown Penetrating Close Melee,"{Resource}, 0",+0,+0d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,{DamageTypes},{Skill},"Thrown small club, rocks, ect...",1 Combat Round,{Skill}
-Dual-wielded {Skill} Thrown Penetrating Close Melee,Dual-wielded,{Skill} Thrown Penetrating Close Melee,"{Resource}, 0",+0,+1d6,0,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},"Thrown small club, rocks, ect...",1 Combat Round,{Skill}
+One-handed {Skill} Thrown Penetrating Close Melee,One-handed,{Skill} Thrown Penetrating Close Melee,"{Resource}, 0",-1,+0d6,2,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,{DamageTypes},{Skill},"Thrown small club, rocks, ect...",1 Combat Round,{Skill}
+Dual-wielded {Skill} Thrown Penetrating Close Melee,Dual-wielded,{Skill} Thrown Penetrating Close Melee,"{Resource}, 0",-1,+1d6,2,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},"Thrown small club, rocks, ect...",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
-One-handed {Skill} Thrown Medium Spear,One-handed,{Skill} Thrown Medium Spear,"{Resource}, 0",+0,+1d6,1,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},"Thrown Javelins, ect...",1 Combat Round,{Skill}
+One-handed {Skill} Thrown Medium Spear,One-handed,{Skill} Thrown Medium Spear,"{Resource}, 0",+0,+1d6,2,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},"Thrown Javelins, ect...",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
-One-handed {Skill} Thrown Large Spear,One-handed,{Skill} Thrown Large Spear,"{Resource}, 0",+0,+1d6,2,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},Thrown two-handed spears.,1 Combat Round,{Skill}
+One-handed {Skill} Thrown Large Spear,One-handed,{Skill} Thrown Large Spear,"{Resource}, 0",+0,+1d6,3,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},Thrown two-handed spears.,1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-One-handed Blowgun with Poison Blowgun Dart,One-handed,Blowgun,"{Resource}, 0",+0,+0d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},A long narrow tube that propels darts using the force of the force of the users's breath.,1 Combat Round,{Skill}
+One-handed Blowgun with Poison Blowgun Dart,One-handed,Blowgun,"{Resource}, 0",+0,+1d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},A long narrow tube that propels darts using the force of the force of the users's breath.,1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 One-handed Sling with Standard Sling Bullet,One-handed,Sling,"{Resource}, 0",+0,+0d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},A flexible strap used to hurl small objects.,1 Combat Round,{Skill}
