@@ -78,13 +78,13 @@ One-handed Reach Spear,One-handed,Reach Spear,None,+2,-1d,1,Reach,Steady,None,Pi
 Two-handed Reach Spear,Two-handed,Reach Spear,None,+2,+3d6,3,Reach,Steady,None,Pierce,Reach Melee,"Pike, lance, ect... Disadvantage while in confined spaces.",Indefinite,Innate
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-One-handed Hand Crossbow with Broadhead Hand Bolt,One-handed,Hand Crossbow,"Broadhead Hand Bolt, 1",+0,+1d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
-Two-handed Hand Crossbow with Broadhead Hand Bolt,Two-handed,Hand Crossbow,"Broadhead Hand Bolt, 1",+0,+1d6,0,"Medium (Normal), Medium (Disadvantage), Medium (Super Disadvantage)",Quick,None,Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
-Dual-wielded Hand Crossbow with Broadhead Hand Bolt,Dual-wielded,Hand Crossbow,"Broadhead Hand Bolt, 2",+0,+2d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Steady,None,Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
-,,,,,,,,,,,,,,
 One-handed Hand Crossbow with Barbed Hand Bolt,One-handed,Hand Crossbow,"Barbed Hand Bolt, 1",+1,+1d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,"Pierce, Bleed",Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
 Two-handed Hand Crossbow with Barbed Hand Bolt,Two-handed,Hand Crossbow,"Barbed Hand Bolt, 1",+1,+1d6,0,"Medium (Normal), Medium (Disadvantage), Medium (Super Disadvantage)",Quick,None,"Pierce, Bleed",Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
 Dual-wielded Hand Crossbow with Barbed Hand Bolt,Dual-wielded,Hand Crossbow,"Barbed Hand Bolt, 2",+1,+2d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Steady,None,"Pierce, Bleed",Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
+,,,,,,,,,,,,,,
+One-handed Hand Crossbow with Broadhead Hand Bolt,One-handed,Hand Crossbow,"Broadhead Hand Bolt, 1",+0,+1d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
+Two-handed Hand Crossbow with Broadhead Hand Bolt,Two-handed,Hand Crossbow,"Broadhead Hand Bolt, 1",+0,+1d6,0,"Medium (Normal), Medium (Disadvantage), Medium (Super Disadvantage)",Quick,None,Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
+Dual-wielded Hand Crossbow with Broadhead Hand Bolt,Dual-wielded,Hand Crossbow,"Broadhead Hand Bolt, 2",+0,+2d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Steady,None,Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 One-handed Hand Crossbow with Bodkin Hand Bolt,One-handed,Hand Crossbow,"Bodkin Hand Bolt, 1",+0,+1d6,1,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
 Two-handed Hand Crossbow with Bodkin Hand Bolt,Two-handed,Hand Crossbow,"Bodkin Hand Bolt, 1",+0,+1d6,1,"Medium (Normal), Medium (Disadvantage), Medium (Super Disadvantage)",Quick,None,Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
