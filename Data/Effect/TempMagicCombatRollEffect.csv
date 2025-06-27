@@ -69,11 +69,11 @@ Two-handed {Skill} Penetrating Hand Crossbow,Two-handed,{Skill} Penetrating Hand
 Dual-wielded {Skill} Penetrating Hand Crossbow,Dual-wielded,{Skill} Penetrating Hand Crossbow,"{Resource}, 0",+0,+2d6,1,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},Small crossbows designed to be held in one hand.,1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-One-handed {Skill} Balanced Light Crossbow,One-handed,{Skill} Balanced Light Crossbow,"{Resource}, 0",+0,+0d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},"Crossbows balancing power and reload time. ",1 Combat Round,{Skill}
-Two-handed {Skill} Balanced Light Crossbow,Two-handed,{Skill} Balanced Light Crossbow,"{Resource}, 0",+0,+1d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},"Crossbows balancing power and reload time. ",1 Combat Round,{Skill}
-,,,,,,,,,,,,,,
 One-handed {Skill} Brutal Light Crossbow,One-handed,{Skill} Brutal Light Crossbow,"{Resource}, 0",+1,+0d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},"Crossbows balancing power and reload time. ",1 Combat Round,{Skill}
 Two-handed {Skill} Brutal Light Crossbow,Two-handed,{Skill} Brutal Light Crossbow,"{Resource}, 0",+1,+1d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},"Crossbows balancing power and reload time. ",1 Combat Round,{Skill}
+,,,,,,,,,,,,,,
+One-handed {Skill} Balanced Light Crossbow,One-handed,{Skill} Balanced Light Crossbow,"{Resource}, 0",+0,+0d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},"Crossbows balancing power and reload time. ",1 Combat Round,{Skill}
+Two-handed {Skill} Balanced Light Crossbow,Two-handed,{Skill} Balanced Light Crossbow,"{Resource}, 0",+0,+1d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},"Crossbows balancing power and reload time. ",1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
 One-handed {Skill} Penetrating Light Crossbow,One-handed,{Skill} Penetrating Light Crossbow,"{Resource}, 0",+0,+0d6,2,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},"Crossbows balancing power and reload time. ",1 Combat Round,{Skill}
 Two-handed {Skill} Penetrating Light Crossbow,Two-handed,{Skill} Penetrating Light Crossbow,"{Resource}, 0",+0,+1d6,2,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,{DamageTypes},{Skill},"Crossbows balancing power and reload time. ",1 Combat Round,{Skill}

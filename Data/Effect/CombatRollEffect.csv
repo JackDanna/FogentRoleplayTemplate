@@ -91,11 +91,11 @@ Two-handed Hand Crossbow with Bodkin Hand Bolt,Two-handed,Hand Crossbow,"Bodkin 
 Dual-wielded Hand Crossbow with Bodkin Hand Bolt,Dual-wielded,Hand Crossbow,"Bodkin Hand Bolt, 2",+0,+2d6,1,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Steady,None,Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-One-handed Light Crossbow with Broadhead Light Bolt,One-handed,Light Crossbow,"Broadhead Light Bolt, 1",+0,+0d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,Pierce,Light Crossbow,"Crossbows balancing power and reload time. ",Indefinite,Innate
-Two-handed Light Crossbow with Broadhead Light Bolt,Two-handed,Light Crossbow,"Broadhead Light Bolt, 2",+0,+1d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,Pierce,Light Crossbow,"Crossbows balancing power and reload time. ",Indefinite,Innate
-,,,,,,,,,,,,,,
 One-handed Light Crossbow with Barbed Light Bolt,One-handed,Light Crossbow,"Barbed Light Bolt, 1",+1,+0d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,"Pierce, Bleed",Light Crossbow,"Crossbows balancing power and reload time. ",Indefinite,Innate
 Two-handed Light Crossbow with Barbed Light Bolt,Two-handed,Light Crossbow,"Barbed Light Bolt, 2",+1,+1d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,"Pierce, Bleed",Light Crossbow,"Crossbows balancing power and reload time. ",Indefinite,Innate
+,,,,,,,,,,,,,,
+One-handed Light Crossbow with Broadhead Light Bolt,One-handed,Light Crossbow,"Broadhead Light Bolt, 1",+0,+0d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,Pierce,Light Crossbow,"Crossbows balancing power and reload time. ",Indefinite,Innate
+Two-handed Light Crossbow with Broadhead Light Bolt,Two-handed,Light Crossbow,"Broadhead Light Bolt, 2",+0,+1d6,1,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,Pierce,Light Crossbow,"Crossbows balancing power and reload time. ",Indefinite,Innate
 ,,,,,,,,,,,,,,
 One-handed Light Crossbow with Bodkin Light Bolt,One-handed,Light Crossbow,"Bodkin Light Bolt, 1",+0,+0d6,2,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,Pierce,Light Crossbow,"Crossbows balancing power and reload time. ",Indefinite,Innate
 Two-handed Light Crossbow with Bodkin Light Bolt,Two-handed,Light Crossbow,"Bodkin Light Bolt, 2",+0,+1d6,2,"Far (Normal), Far (Disadvantage), Far (Super Disadvantage)",Steady,None,Pierce,Light Crossbow,"Crossbows balancing power and reload time. ",Indefinite,Innate
