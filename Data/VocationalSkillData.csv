@@ -1,119 +1,119 @@
-name,governingAttributes,description,optionalDamageTypes,optionalResource
-Hand Crossbow,"STR, RFX, INT",Covers combat activities related using a Hand Crossbow.,None,None
-Light Crossbow,"STR, RFX, INT",Covers combat activities related using a Light Crossbow.,None,None
-Heavy Crossbow,"STR, RFX, INT",Covers combat activities related using a Heavy Crossbow.,None,None
-,,,,
-Light Bow,"STR, RFX, INT",Covers combat activities related using a Light Bow.,None,None
-Heavy Bow,"STR, RFX, INT",Covers combat activities related using a Heavy Bow.,None,None
-,,,,
-Exotic Ranged,"STR, RFX, INT","Covers combat activities related using a Blowgun, Sling, ect...",None,None
-,,,,
-Close Melee,"STR, RFX, INT","Covers combat activities related using a dagger, hatchet, small club, ect...",None,None
-,,,,
-Medium Melee,"STR, RFX, INT","Covers combat activities related using an Arming Sword, Battleaxe, mace, ect...",None,None
-,,,,
-Large Melee,"STR, RFX, INT","Covers combat activities related using a Longsword, Waraxe, Maul, ect...",None,None
-,,,,
-Reach Melee,"STR, RFX, INT","Covers combat activities related using a Greatsword, Poleaxe, Pike, ect...",None,None
-,,,,
-Exotic Melee,"STR, RFX, INT","Covers combat activities related using a Whip, ect...",None,None
-,,,,
-Primal Melee,"STR, RFX, INT","Covers combat activities related using a Claws, Fangs, ect...",None,None
-,,,,
-Small Guns,"STR, RFX, INT","Covers combat activities related using a Handgun, Sub-machine Gun, ect...",None,None
-Medium Guns,"STR, RFX, INT","Covers combat activities related using a Rifle, ect...",None,None
-Heavy Guns,"STR, RFX, INT","Covers combat activities related using a Machine Gun, Rocket launcher, ect...",None,None
-,,,,
-Battlefield Formation Knowledge,INT,Knowledge around the tactics and formations of troops.,None,None
-Tracking,"RFX, INT",Covers activities related to tracking.,None,None
-Survival Knowledge,INT,Covers activities related to surviving in the wilderness.,None,None
-Lockpicking,"RFX, INT",The ability to bypass locks using tools and finesse.,None,None
-Pickpocketing,"RFX, INT",The art of stealthily lifting items from a person without their notice.,None,None
-Infiltration Knowledge,INT,Expertise in planning and executing covert entry into secure areas.,None,None
-Barter,"INT, CHA",Covers acts related to bartering,None,None
-Smithing,"STR, RFX, INT","Covers acts related to smithing, forging, ect...",None,None
-Arcane Knowledge,INT,Knowledge related to the arcane and magic.,None,None
-Performance,"RFX, INT, CHA",Covers acts related to performance.,None,None
-Homesteading,"RFX, INT","Covers acts related to cooking, cleaning, ect...",None,None
-Drawing,"RFX, INT",Covers the act of drawing.,None,None
-,,,,
-Body Magic,"RFX, INT",No description yet.,"Slash, Bludgeon, Hew, Pierce",Mana
-Fire Magic,"RFX, INT",No description yet.,Fire,Mana
-Water Magic,"RFX, INT",No description yet.,"Fatigue, Slash, Bludgeon, Pierce",Mana
-Electricity Magic,"RFX, INT",No description yet.,Electric,Mana
-Earth Magic,"RFX, INT",No description yet.,"Slash, Bludgeon, Hew, Pierce",Mana
-Air Magic,"RFX, INT",No description yet.,"Slash, Bludgeon, Shockwave",Mana
-Cold Magic,"RFX, INT",No description yet.,Cold,Mana
-Nature Magic,"RFX, INT",No description yet.,"Slash, Bludgeon, Pierce",Mana
-Poison Magic,"RFX, INT",No description yet.,Poison,Mana
-Soul Magic,"RFX, INT",No description yet.,Spiritual,Mana
-Light Magic,"RFX, INT",No description yet.,Radiant,Mana
-Shadow Magic,"RFX, INT",No description yet.,Necrotic,Mana
-Mind Magic,"RFX, INT",No description yet.,Psychic,Mana
-Magnetic Magic,"RFX, INT",No description yet.,"Slash, Bludgeon, Hew, Pierce",Mana
-Sound Magic,"RFX, INT",No description yet.,Shockwave,Mana
-Blood Magic,"RFX, INT",No description yet.,Bleed,Mana
-Acid Magic,"RFX, INT",No description yet.,Acid,Mana
-Time Magic,"RFX, INT",No description yet.,,Mana
-Teleport Magic,"RFX, INT",No description yet.,,Mana
-Force Magic,"RFX, INT",No description yet.,"Slash, Bludgeon, Hew, Pierce",Mana
-,,,,
-Shapeshifting Druidcraft,"RFX, INT",No description yet.,"Slash, Bludgeon, Hew, Pierce",Nature Connection
-Fire Druidcraft,"RFX, INT",No description yet.,Fire,Nature Connection
-Water Druidcraft,"RFX, INT",No description yet.,"Fatigue, Slash, Bludgeon, Pierce",Nature Connection
-Lightning Druidcraft,"RFX, INT",No description yet.,Electric,Nature Connection
-Earth Druidcraft,"RFX, INT",No description yet.,"Slash, Bludgeon, Hew, Pierce",Nature Connection
-Air Druidcraft,"RFX, INT",No description yet.,"Slash, Bludgeon, Shockwave",Nature Connection
-Cold Druidcraft,"RFX, INT",No description yet.,Cold,Nature Connection
-Plant Druidcraft,"RFX, INT",No description yet.,"Slash, Bludgeon, Pierce, Poison",Nature Connection
-Solar Druidcraft,"RFX, INT",No description yet.,Radiant,Nature Connection
-Lunar Druidcraft,"RFX, INT",No description yet.,Necrotic,Nature Connection
-Thunder Druidcraft,"RFX, INT",No description yet.,Shockwave,Nature Connection
-,,,,
-Polycraft,"STR, RFX, INT",No description yet.,"Slash, Bludgeon, Hew, Pierce",Fellblood
-Blazecraft,"STR, RFX, INT",No description yet.,Fire,Fellblood
-Hydrocraft,"STR, RFX, INT",No description yet.,"Fatigue, Slash, Bludgeon, Pierce",Fellblood
-Electrocraft,"STR, RFX, INT",No description yet.,Electric,Fellblood
-Terracraft,"STR, RFX, INT",No description yet.,"Slash, Bludgeon, Hew, Pierce",Fellblood
-Galecraft,"STR, RFX, INT",No description yet.,"Slash, Bludgeon, Shockwave",Fellblood
-Cryocraft,"STR, RFX, INT",No description yet.,Cold,Fellblood
-Naturecraft,"STR, RFX, INT",No description yet.,"Slash, Bludgeon, Pierce",Fellblood
-Toxincraft,"STR, RFX, INT",No description yet.,Poison,Fellblood
-Soulcraft,"STR, RFX, INT",No description yet.,Spiritual,Fellblood
-Shadowcraft,"STR, RFX, INT",No description yet.,Necrotic,Fellblood
-Mindcraft,"STR, RFX, INT",No description yet.,Psychic,Fellblood
-Ferracraft,"STR, RFX, INT",No description yet.,"Slash, Bludgeon, Hew, Pierce",Fellblood
-Sonocraft,"STR, RFX, INT",No description yet.,Shockwave,Fellblood
-Hemacraft,"STR, RFX, INT",No description yet.,Bleed,Fellblood
-Spidercraft,"STR, RFX, INT",No description yet.,"Fatigue, Bludgeon",Fellblood
-Acidcraft,"STR, RFX, INT",No description yet.,Acid,Fellblood
-Warpcraft,"STR, RFX, INT",No description yet.,,Fellblood
-Telekeneticraft,"STR, RFX, INT",No description yet.,"Slash, Bludgeon, Hew, Pierce",Fellblood
-Plasmacraft,"STR, RFX, INT",No description yet.,Fire,Fellblood
-Stormcraft,"STR, RFX, INT",No description yet.,"Electric, Shockwave",Fellblood
-Magmacraft,"STR, RFX, INT",No description yet.,"Fire, Bludgeon",Fellblood
-Blizzardcraft,"STR, RFX, INT",No description yet.,"Cold, Slash, Bludgeon, Pierce",Fellblood
-,,,,
-Fire Rune,"RFX, INT",No description yet.,Fire,Focus
-Earth Rune,"RFX, INT",No description yet.,"Slash, Bludgeon, Hew, Pierce",Focus
-Water Rune,"RFX, INT",No description yet.,"Fatigue, Slash, Bludgeon, Pierce",Focus
-Air Rune,"RFX, INT",No description yet.,"Slash, Bludgeon, Shockwave",Focus
-Electricity Rune,"RFX, INT",No description yet.,Electric,Focus
-Cold Rune,"RFX, INT",No description yet.,Cold,Focus
-Poison Rune,"RFX, INT",No description yet.,Poison,Focus
-Blood Rune,"RFX, INT",No description yet.,Bleed,Focus
-Light Rune,"RFX, INT",No description yet.,Radiant,Focus
-Dark Rune,"RFX, INT",No description yet.,Necrotic,Focus
-Sound Rune,"RFX, INT",No description yet.,Shockwave,Focus
-Body Rune,"RFX, INT",No description yet.,,Focus
-Mind Rune,"RFX, INT",No description yet.,Psychic,Focus
-Soul Rune,"RFX, INT",No description yet.,Spiritual,Focus
-Time Rune,"RFX, INT",No description yet.,,Focus
-Space Rune,"RFX, INT",No description yet.,,Focus
-Strength Rune,"RFX, INT",No description yet.,,Focus
-Gravity Rune,"RFX, INT",No description yet.,Bludgeon,Focus
-Nature Rune,"RFX, INT",No description yet.,"Slash, Bludgeon, Pierce",Focus
-Acid Rune,"RFX, INT",No description yet.,Acid,Focus
-,,,,
-Radiance,"STR, RFX, INT, CHA",No description yet.,Radiant,Ichor
-Blessing,"STR, RFX, INT, CHA",No description yet.,Radiant,Ichor
+name,governingAttributes,description
+Hand Crossbow,"STR, RFX, INT",Covers combat activities related using a Hand Crossbow.
+Light Crossbow,"STR, RFX, INT",Covers combat activities related using a Light Crossbow.
+Heavy Crossbow,"STR, RFX, INT",Covers combat activities related using a Heavy Crossbow.
+,,
+Light Bow,"STR, RFX, INT",Covers combat activities related using a Light Bow.
+Heavy Bow,"STR, RFX, INT",Covers combat activities related using a Heavy Bow.
+,,
+Exotic Ranged,"STR, RFX, INT","Covers combat activities related using a Blowgun, Sling, ect..."
+,,
+Close Melee,"STR, RFX, INT","Covers combat activities related using a dagger, hatchet, small club, ect..."
+,,
+Medium Melee,"STR, RFX, INT","Covers combat activities related using an Arming Sword, Battleaxe, mace, ect..."
+,,
+Large Melee,"STR, RFX, INT","Covers combat activities related using a Longsword, Waraxe, Maul, ect..."
+,,
+Reach Melee,"STR, RFX, INT","Covers combat activities related using a Greatsword, Poleaxe, Pike, ect..."
+,,
+Exotic Melee,"STR, RFX, INT","Covers combat activities related using a Whip, ect..."
+,,
+Primal Melee,"STR, RFX, INT","Covers combat activities related using a Claws, Fangs, ect..."
+,,
+Small Guns,"STR, RFX, INT","Covers combat activities related using a Handgun, Sub-machine Gun, ect..."
+Medium Guns,"STR, RFX, INT","Covers combat activities related using a Rifle, ect..."
+Heavy Guns,"STR, RFX, INT","Covers combat activities related using a Machine Gun, Rocket launcher, ect..."
+,,
+Battlefield Formation Knowledge,INT,Knowledge around the tactics and formations of troops.
+Tracking,"RFX, INT",Covers activities related to tracking.
+Survival Knowledge,INT,Covers activities related to surviving in the wilderness.
+Lockpicking,"RFX, INT",The ability to bypass locks using tools and finesse.
+Pickpocketing,"RFX, INT",The art of stealthily lifting items from a person without their notice.
+Infiltration Knowledge,INT,Expertise in planning and executing covert entry into secure areas.
+Barter,"INT, CHA",Covers acts related to bartering
+Smithing,"STR, RFX, INT","Covers acts related to smithing, forging, ect..."
+Arcane Knowledge,INT,Knowledge related to the arcane and magic.
+Performance,"RFX, INT, CHA",Covers acts related to performance.
+Homesteading,"RFX, INT","Covers acts related to cooking, cleaning, ect..."
+Drawing,"RFX, INT",Covers the act of drawing.
+,,
+Body Magic,"RFX, INT",No description yet.
+Fire Magic,"RFX, INT",No description yet.
+Water Magic,"RFX, INT",No description yet.
+Electricity Magic,"RFX, INT",No description yet.
+Earth Magic,"RFX, INT",No description yet.
+Air Magic,"RFX, INT",No description yet.
+Cold Magic,"RFX, INT",No description yet.
+Nature Magic,"RFX, INT",No description yet.
+Poison Magic,"RFX, INT",No description yet.
+Soul Magic,"RFX, INT",No description yet.
+Light Magic,"RFX, INT",No description yet.
+Shadow Magic,"RFX, INT",No description yet.
+Mind Magic,"RFX, INT",No description yet.
+Magnetic Magic,"RFX, INT",No description yet.
+Sound Magic,"RFX, INT",No description yet.
+Blood Magic,"RFX, INT",No description yet.
+Acid Magic,"RFX, INT",No description yet.
+Time Magic,"RFX, INT",No description yet.
+Teleport Magic,"RFX, INT",No description yet.
+Force Magic,"RFX, INT",No description yet.
+,,
+Shapeshifting Druidcraft,"RFX, INT",No description yet.
+Fire Druidcraft,"RFX, INT",No description yet.
+Water Druidcraft,"RFX, INT",No description yet.
+Lightning Druidcraft,"RFX, INT",No description yet.
+Earth Druidcraft,"RFX, INT",No description yet.
+Air Druidcraft,"RFX, INT",No description yet.
+Cold Druidcraft,"RFX, INT",No description yet.
+Plant Druidcraft,"RFX, INT",No description yet.
+Solar Druidcraft,"RFX, INT",No description yet.
+Lunar Druidcraft,"RFX, INT",No description yet.
+Thunder Druidcraft,"RFX, INT",No description yet.
+,,
+Polycraft,"STR, RFX, INT",No description yet.
+Blazecraft,"STR, RFX, INT",No description yet.
+Hydrocraft,"STR, RFX, INT",No description yet.
+Electrocraft,"STR, RFX, INT",No description yet.
+Terracraft,"STR, RFX, INT",No description yet.
+Galecraft,"STR, RFX, INT",No description yet.
+Cryocraft,"STR, RFX, INT",No description yet.
+Naturecraft,"STR, RFX, INT",No description yet.
+Toxincraft,"STR, RFX, INT",No description yet.
+Soulcraft,"STR, RFX, INT",No description yet.
+Shadowcraft,"STR, RFX, INT",No description yet.
+Mindcraft,"STR, RFX, INT",No description yet.
+Ferracraft,"STR, RFX, INT",No description yet.
+Sonocraft,"STR, RFX, INT",No description yet.
+Hemacraft,"STR, RFX, INT",No description yet.
+Spidercraft,"STR, RFX, INT",No description yet.
+Acidcraft,"STR, RFX, INT",No description yet.
+Warpcraft,"STR, RFX, INT",No description yet.
+Telekeneticraft,"STR, RFX, INT",No description yet.
+Plasmacraft,"STR, RFX, INT",No description yet.
+Stormcraft,"STR, RFX, INT",No description yet.
+Magmacraft,"STR, RFX, INT",No description yet.
+Blizzardcraft,"STR, RFX, INT",No description yet.
+,,
+Fire Rune,"RFX, INT",No description yet.
+Earth Rune,"RFX, INT",No description yet.
+Water Rune,"RFX, INT",No description yet.
+Air Rune,"RFX, INT",No description yet.
+Electricity Rune,"RFX, INT",No description yet.
+Cold Rune,"RFX, INT",No description yet.
+Poison Rune,"RFX, INT",No description yet.
+Blood Rune,"RFX, INT",No description yet.
+Light Rune,"RFX, INT",No description yet.
+Dark Rune,"RFX, INT",No description yet.
+Sound Rune,"RFX, INT",No description yet.
+Body Rune,"RFX, INT",No description yet.
+Mind Rune,"RFX, INT",No description yet.
+Soul Rune,"RFX, INT",No description yet.
+Time Rune,"RFX, INT",No description yet.
+Space Rune,"RFX, INT",No description yet.
+Strength Rune,"RFX, INT",No description yet.
+Gravity Rune,"RFX, INT",No description yet.
+Nature Rune,"RFX, INT",No description yet.
+Acid Rune,"RFX, INT",No description yet.
+,,
+Radiance,"STR, RFX, INT, CHA",No description yet.
+Blessing,"STR, RFX, INT, CHA",No description yet.

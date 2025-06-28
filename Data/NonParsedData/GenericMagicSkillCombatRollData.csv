@@ -1,0 +1,81 @@
+name,optionalDamageTypes,optionalResource
+Body Magic,"Slash, Bludgeon, Hew, Pierce",Mana
+Fire Magic,Fire,Mana
+Water Magic,"Fatigue, Slash, Bludgeon, Pierce",Mana
+Electricity Magic,Electric,Mana
+Earth Magic,"Slash, Bludgeon, Hew, Pierce",Mana
+Air Magic,"Slash, Bludgeon, Shockwave",Mana
+Cold Magic,Cold,Mana
+Nature Magic,"Slash, Bludgeon, Pierce",Mana
+Poison Magic,Poison,Mana
+Soul Magic,Spiritual,Mana
+Light Magic,Radiant,Mana
+Shadow Magic,Necrotic,Mana
+Mind Magic,Psychic,Mana
+Magnetic Magic,"Slash, Bludgeon, Hew, Pierce",Mana
+Sound Magic,Shockwave,Mana
+Blood Magic,Bleed,Mana
+Acid Magic,Acid,Mana
+Time Magic,,Mana
+Teleport Magic,,Mana
+Force Magic,"Slash, Bludgeon, Hew, Pierce",Mana
+,,
+Shapeshifting Druidcraft,"Slash, Bludgeon, Hew, Pierce",Nature Connection
+Fire Druidcraft,Fire,Nature Connection
+Water Druidcraft,"Fatigue, Slash, Bludgeon, Pierce",Nature Connection
+Lightning Druidcraft,Electric,Nature Connection
+Earth Druidcraft,"Slash, Bludgeon, Hew, Pierce",Nature Connection
+Air Druidcraft,"Slash, Bludgeon, Shockwave",Nature Connection
+Cold Druidcraft,Cold,Nature Connection
+Plant Druidcraft,"Slash, Bludgeon, Pierce, Poison",Nature Connection
+Solar Druidcraft,Radiant,Nature Connection
+Lunar Druidcraft,Necrotic,Nature Connection
+Thunder Druidcraft,Shockwave,Nature Connection
+,,
+Polycraft,"Slash, Bludgeon, Hew, Pierce",Fellblood
+Blazecraft,Fire,Fellblood
+Hydrocraft,"Fatigue, Slash, Bludgeon, Pierce",Fellblood
+Electrocraft,Electric,Fellblood
+Terracraft,"Slash, Bludgeon, Hew, Pierce",Fellblood
+Galecraft,"Slash, Bludgeon, Shockwave",Fellblood
+Cryocraft,Cold,Fellblood
+Naturecraft,"Slash, Bludgeon, Pierce",Fellblood
+Toxincraft,Poison,Fellblood
+Soulcraft,Spiritual,Fellblood
+Shadowcraft,Necrotic,Fellblood
+Mindcraft,Psychic,Fellblood
+Ferracraft,"Slash, Bludgeon, Hew, Pierce",Fellblood
+Sonocraft,Shockwave,Fellblood
+Hemacraft,Bleed,Fellblood
+Spidercraft,"Fatigue, Bludgeon",Fellblood
+Acidcraft,Acid,Fellblood
+Warpcraft,,Fellblood
+Telekeneticraft,"Slash, Bludgeon, Hew, Pierce",Fellblood
+Plasmacraft,Fire,Fellblood
+Stormcraft,"Electric, Shockwave",Fellblood
+Magmacraft,"Fire, Bludgeon",Fellblood
+Blizzardcraft,"Cold, Slash, Bludgeon, Pierce",Fellblood
+,,
+Fire Rune,Fire,Focus
+Earth Rune,"Slash, Bludgeon, Hew, Pierce",Focus
+Water Rune,"Fatigue, Slash, Bludgeon, Pierce",Focus
+Air Rune,"Slash, Bludgeon, Shockwave",Focus
+Electricity Rune,Electric,Focus
+Cold Rune,Cold,Focus
+Poison Rune,Poison,Focus
+Blood Rune,Bleed,Focus
+Light Rune,Radiant,Focus
+Dark Rune,Necrotic,Focus
+Sound Rune,Shockwave,Focus
+Body Rune,,Focus
+Mind Rune,Psychic,Focus
+Soul Rune,Spiritual,Focus
+Time Rune,,Focus
+Space Rune,,Focus
+Strength Rune,,Focus
+Gravity Rune,Bludgeon,Focus
+Nature Rune,"Slash, Bludgeon, Pierce",Focus
+Acid Rune,Acid,Focus
+,,
+Radiance,Radiant,Ichor
+Blessing,Radiant,Ichor
