@@ -185,8 +185,8 @@ Two-handed .308 Bolt Action Rifle with FMJ .308 Round,Two-handed,.308 Bolt Actio
 One-handed 5.56 Machine Gun with FMJ 5.56 Round,One-handed,5.56 Machine Gun,"FMJ 5.56 Round, 10",+0,-2d,6,"Extreme (Normal), Extreme (Disadvantage), Extreme (Super Disadvantage)",Rapid,None,Ballistic,Heavy Guns,"M249, ect...",Indefinite,Innate
 Two-handed 5.56 Machine Gun with FMJ 5.56 Round,Two-handed,5.56 Machine Gun,"FMJ 5.56 Round, 10",+0,+4d6,6,"Extreme (Normal), Extreme (Disadvantage), Extreme (Super Disadvantage)",Rapid,None,Ballistic,Heavy Guns,"M249, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-One-handed RPG Launcher with Explosive RPG Round,One-handed,RPG Launcher,"Explosive RPG Round, 1",+0,-2d,8,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Paced,30 ft Sphere,Shockwave,Heavy Guns,"RPG-7, ect...",Indefinite,Innate
-Two-handed RPG Launcher with Explosive RPG Round,Two-handed,RPG Launcher,"Explosive RPG Round, 1",+0,+6d6,8,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Paced,30 ft Sphere,Shockwave,Heavy Guns,"RPG-7, ect...",Indefinite,Innate
+One-handed RPG Launcher with Explosive RPG Round,One-handed,RPG Launcher,"Explosive RPG Round, 1",+0,-2d,10,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Paced,30 ft Sphere,Shockwave,Heavy Guns,"RPG-7, ect...",Indefinite,Innate
+Two-handed RPG Launcher with Explosive RPG Round,Two-handed,RPG Launcher,"Explosive RPG Round, 1",+0,+6d6,10,"Sharpshooter (Normal), Sharpshooter (Disadvantage), Sharpshooter (Super Disadvantage)",Paced,30 ft Sphere,Shockwave,Heavy Guns,"RPG-7, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
