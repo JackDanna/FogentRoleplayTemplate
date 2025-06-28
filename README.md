@@ -1315,23 +1315,23 @@ Movement Speed = (Movement Speed Base) + (#1 Governing Skill And Movement Speed 
 
 |                  Name                  |                      Description                      |  Duration  | Source | Movement Speed Base | Governing Skill And Movement Speed Per Dice Pairs |
 | :-------------------------------------: | :----------------------------------------------------: | :--------: | :----: | :-----------------: | :-----------------------------------------------: |
-|   Movement Speed: Terrestrial (Total)   | +2.5 ft per Dexterity Dice, +7.5 ft per Athletics Dice | Indefinite | Innate |          0          |         (Dexterity,2.5), (Athletics,7.5)         |
+|   Movement Speed: Terrestrial   | +2.5 ft per Dexterity Dice, +7.5 ft per Athletics Dice | Indefinite | Innate |          0          |         (Dexterity,2.5), (Athletics,7.5)         |
 | Movement Speed: Terrestrial (Dexterity) |               +2.5 ft per Dexterity Dice               | Indefinite | Innate |          0          |                  (Dexterity,2.5)                  |
 | Movement Speed: Terrestrial (Athletics) |               +7.5 ft per Athletics Dice               | Indefinite | Innate |          0          |                  (Athletics,7.5)                  |
 |                                        |                                                        |            |        |                    |                                                  |
-|      Movement Speed: Swim (Total)      | +2.5 ft per Dexterity Dice, +5.0 ft per Athletics Dice | Indefinite | Innate |          0          |          (Dexterity,2.5), (Athletics,5)          |
+|      Movement Speed: Swim      | +2.5 ft per Dexterity Dice, +5.0 ft per Athletics Dice | Indefinite | Innate |          0          |          (Dexterity,2.5), (Athletics,5)          |
 |    Movement Speed: Swim (Dexterity)    |               +2.5 ft per Dexterity Dice               | Indefinite | Innate |          0          |                  (Dexterity,2.5)                  |
 |    Movement Speed: Swim (Athletics)    |               +5.0 ft per Athletics Dice               | Indefinite | Innate |          0          |                   (Athletics,5)                   |
 |                                        |                                                        |            |        |                    |                                                  |
-|      Movement Speed: Climb (Total)      |  +2.5 ft per Dexterity Dice, +5 ft per Athletics Dice  | Indefinite | Innate |          0          |          (Dexterity,2.5), (Athletics,5)          |
+|      Movement Speed: Climb      |  +2.5 ft per Dexterity Dice, +5 ft per Athletics Dice  | Indefinite | Innate |          0          |          (Dexterity,2.5), (Athletics,5)          |
 |    Movement Speed: Climb (Dexterity)    |               +2.5 ft per Dexterity Dice               | Indefinite | Innate |          0          |                  (Dexterity,2.5)                  |
 |    Movement Speed: Climb (Athletics)    |                +5 ft per Athletics Dice                | Indefinite | Innate |          0          |                   (Athletics,5)                   |
 |                                        |                                                        |            |        |                    |                                                  |
-|     Movement Speed: Flight (Total)     |  +5 ft per Dexterity Dice, +10 ft per Athletics Dice  | Indefinite | Innate |          0          |           (Dexterity,5), (Athletics,10)           |
+|     Movement Speed: Flight     |  +5 ft per Dexterity Dice, +10 ft per Athletics Dice  | Indefinite | Innate |          0          |           (Dexterity,5), (Athletics,10)           |
 |   Movement Speed: Flight (Dexterity)   |                +5 ft per Dexterity Dice                | Indefinite | Innate |          0          |                   (Dexterity,5)                   |
 |   Movement Speed: Flight (Athletics)   |               +10 ft per Athletics Dice               | Indefinite | Innate |          0          |                  (Athletics,10)                  |
 |                                        |                                                        |            |        |                    |                                                  |
-|     Movement Speed: Aquatic (Total)     | +2.5 ft per Dexterity Dice, +7.5 ft per Athletics Dice | Indefinite | Innate |          0          |         (Dexterity,2.5), (Athletics,7.5)         |
+|     Movement Speed: Aquatic     | +2.5 ft per Dexterity Dice, +7.5 ft per Athletics Dice | Indefinite | Innate |          0          |         (Dexterity,2.5), (Athletics,7.5)         |
 |   Movement Speed: Aquatic (Dexterity)   |               +2.5 ft per Dexterity Dice               | Indefinite | Innate |          0          |                  (Dexterity,2.5)                  |
 |   Movement Speed: Aquatic (Athletics)   |               +7.5 ft per Athletics Dice               | Indefinite | Innate |          0          |                  (Athletics,7.5)                  |
 
