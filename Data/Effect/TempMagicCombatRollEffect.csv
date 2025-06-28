@@ -70,10 +70,7 @@ One-handed {Skill} Thrown Medium Spear,One-handed,{Skill} Thrown Medium Spear,"{
 One-handed {Skill} Thrown Large Spear,One-handed,{Skill} Thrown Large Spear,"{Resource}, 0",+0,+1d6,3,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},Thrown two-handed spears.,1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-One-handed Blowgun with Poison Blowgun Dart,One-handed,Blowgun,"{Resource}, 0",+0,+1d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},A long narrow tube that propels darts using the force of the force of the users's breath.,1 Combat Round,{Skill}
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-One-handed Sling with Standard Sling Bullet,One-handed,Sling,"{Resource}, 0",+0,+0d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},A flexible strap used to hurl small objects.,1 Combat Round,{Skill}
+One-handed {Skill} Sling with Standard Sling Bullet,One-handed,{Skill} Sling,"{Resource}, 0",+0,+0d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},A flexible strap used to hurl small objects.,1 Combat Round,{Skill}
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 One-handed {Skill} Brutal Hand Crossbow,One-handed,{Skill} Brutal Hand Crossbow,"{Resource}, 1",+1,+0d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,{DamageTypes},{Skill},Small crossbows designed to be held in one hand.,1 Combat Round,{Skill}
