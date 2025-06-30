@@ -823,9 +823,7 @@ Destiny points are awarded when players perform actions that the Narrator wants 
 
 An Effect simply describes some way a character or item could effect on the narrative. Effects can be placed on characters or items. All effect have a "Name", "Description", "Duration", and "Source".
 
-**Name:** The name of the Effect.
-
-**Description:** Describes what the Effect is doing narratively.
+**Name:** The name of the Effect.**Description:** Describes what the Effect is doing narratively.
 
 **Duration:** Describes how long the Effect will be active.
 
@@ -837,12 +835,12 @@ An Effect simply describes some way a character or item could effect on the narr
 
 All of the following examples could effect the narrative.
 
+- A character's backstory (Narrative Effect)
+- An item that give the weilder a healing factor while equiped (Narrative Effect)
 - A character having an innate weapon, such as claws (Combat Roll Effect)
 - An item having an ability to be used as a weapon, such as a dagger (Combat Roll Effect)
 - A character having innate defenses, like armored scales (Defense Effect)
 - An item with innate defenses, such as armor (Defense Effect)
-- A character's backstory (Narrative Effect)
-- An item's backstory (Narrative Effect)
 - A character having an injury that is weakening them (Attribute Dice Mod Effect)
 - An item having a curse on it that gives the wielder permanent weakness (Attribute Dice Mod Effect)
 - A character having a enchantment on them which alters their Attribute levels (Adjusted Attribute Level Effect/Set Attribute Level Effect)
