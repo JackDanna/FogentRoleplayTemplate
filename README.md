@@ -821,7 +821,7 @@ Destiny points are awarded when players perform actions that the Narrator wants 
 
 ## Effects
 
-An Effect simply describes some way a character or item could effect on the narrative. Effects can be placed on characters or items. 
+An Effect simply describes some way a character or item could effect on the narrative. Effects can be placed on characters or items.
 
 All effect have a "Name", "Description", "Duration", and "Source" though they may have additional fields beyond these.
 
@@ -896,8 +896,126 @@ A Narrative Effect is a purely text based effect. It simply describes what it do
 
 #### Character Information
 
-| Name | Description | Duration | Source |
-| :--: | :---------: | :------: | :----: |
+|         Name         | Description |  Duration  | Source |
+| :-------------------: | :---------: | :--------: | :----: |
+|      Appearance      |            | Indefinite | Innate |
+|      Disposition      |            | Indefinite | Innate |
+| Beliefs and Morality |            | Indefinite | Innate |
+| Goals and Aspirations |            | Indefinite | Innate |
+
+#### Resistance
+
+Characters can be resistant to certain sources of damage.
+
+|               Name               |                     Description                     |  Duration  | Source |
+| :------------------------------: | :--------------------------------------------------: | :--------: | :----: |
+|     Resistance: Minor Slash     |      -1 to victory levels received from Slash.      | Indefinite | Innate |
+|     Resistance: Medium Slash     |      -2 to victory levels received from Slash.      | Indefinite | Innate |
+|    Resistance: Serious Slash    |      -3 to victory levels received from Slash.      | Indefinite | Innate |
+|     Resistance: Fatal Slash     |      -4 to victory levels received from Slash.      | Indefinite | Innate |
+|    Resistance: Complete Slash    |    Negate all victory levels received from Slash.    | Indefinite | Innate |
+|                                  |                                                      |            |        |
+|     Resistance: Minor Pierce     |      -1 to victory levels received from Pierce.      | Indefinite | Innate |
+|    Resistance: Medium Pierce    |      -2 to victory levels received from Pierce.      | Indefinite | Innate |
+|    Resistance: Serious Pierce    |      -3 to victory levels received from Pierce.      | Indefinite | Innate |
+|     Resistance: Fatal Pierce     |      -4 to victory levels received from Pierce.      | Indefinite | Innate |
+|   Resistance: Complete Pierce   |   Negate all victory levels received from Pierce.   | Indefinite | Innate |
+|                                  |                                                      |            |        |
+|    Resistance: Minor Bludgeon    |     -1 to victory levels received from Bludgeon.     | Indefinite | Innate |
+|   Resistance: Medium Bludgeon   |     -2 to victory levels received from Bludgeon.     | Indefinite | Innate |
+|   Resistance: Serious Bludgeon   |     -3 to victory levels received from Bludgeon.     | Indefinite | Innate |
+|    Resistance: Fatal Bludgeon    |     -4 to victory levels received from Bludgeon.     | Indefinite | Innate |
+|  Resistance: Complete Bludgeon  |  Negate all victory levels received from Bludgeon.  | Indefinite | Innate |
+|                                  |                                                      |            |        |
+|      Resistance: Minor Hew      |       -1 to victory levels received from Hew.       | Indefinite | Innate |
+|      Resistance: Medium Hew      |       -2 to victory levels received from Hew.       | Indefinite | Innate |
+|     Resistance: Serious Hew     |       -3 to victory levels received from Hew.       | Indefinite | Innate |
+|      Resistance: Fatal Hew      |       -4 to victory levels received from Hew.       | Indefinite | Innate |
+|     Resistance: Complete Hew     |     Negate all victory levels received from Hew.     | Indefinite | Innate |
+|                                  |                                                      |            |        |
+|   Resistance: Minor Ballistic   |    -1 to victory levels received from Ballistic.    | Indefinite | Innate |
+|   Resistance: Medium Ballistic   |    -2 to victory levels received from Ballistic.    | Indefinite | Innate |
+|  Resistance: Serious Ballistic  |    -3 to victory levels received from Ballistic.    | Indefinite | Innate |
+|   Resistance: Fatal Ballistic   |    -4 to victory levels received from Ballistic.    | Indefinite | Innate |
+|  Resistance: Complete Ballistic  |  Negate all victory levels received from Ballistic.  | Indefinite | Innate |
+|                                  |                                                      |            |        |
+|   Resistance: Minor Shockwave   |    -1 to victory levels received from Shockwave.    | Indefinite | Innate |
+|   Resistance: Medium Shockwave   |    -2 to victory levels received from Shockwave.    | Indefinite | Innate |
+|  Resistance: Serious Shockwave  |    -3 to victory levels received from Shockwave.    | Indefinite | Innate |
+|   Resistance: Fatal Shockwave   |    -4 to victory levels received from Shockwave.    | Indefinite | Innate |
+|  Resistance: Complete Shockwave  |  Negate all victory levels received from Shockwave.  | Indefinite | Innate |
+|                                  |                                                      |            |        |
+|      Resistance: Minor Fire      |       -1 to victory levels received from Fire.       | Indefinite | Innate |
+|     Resistance: Medium Fire     |       -2 to victory levels received from Fire.       | Indefinite | Innate |
+|     Resistance: Serious Fire     |       -3 to victory levels received from Fire.       | Indefinite | Innate |
+|      Resistance: Fatal Fire      |       -4 to victory levels received from Fire.       | Indefinite | Innate |
+|    Resistance: Complete Fire    |    Negate all victory levels received from Fire.    | Indefinite | Innate |
+|                                  |                                                      |            |        |
+|    Resistance: Minor Electric    |     -1 to victory levels received from Electric.     | Indefinite | Innate |
+|   Resistance: Medium Electric   |     -2 to victory levels received from Electric.     | Indefinite | Innate |
+|   Resistance: Serious Electric   |     -3 to victory levels received from Electric.     | Indefinite | Innate |
+|    Resistance: Fatal Electric    |     -4 to victory levels received from Electric.     | Indefinite | Innate |
+|  Resistance: Complete Electric  |  Negate all victory levels received from Electric.  | Indefinite | Innate |
+|                                  |                                                      |            |        |
+|    Resistance: Minor Radiant    |     -1 to victory levels received from Radiant.     | Indefinite | Innate |
+|    Resistance: Medium Radiant    |     -2 to victory levels received from Radiant.     | Indefinite | Innate |
+|   Resistance: Serious Radiant   |     -3 to victory levels received from Radiant.     | Indefinite | Innate |
+|    Resistance: Fatal Radiant    |     -4 to victory levels received from Radiant.     | Indefinite | Innate |
+|   Resistance: Complete Radiant   |   Negate all victory levels received from Radiant.   | Indefinite | Innate |
+|                                  |                                                      |            |        |
+|      Resistance: Minor Acid      |       -1 to victory levels received from Acid.       | Indefinite | Innate |
+|     Resistance: Medium Acid     |       -2 to victory levels received from Acid.       | Indefinite | Innate |
+|     Resistance: Serious Acid     |       -3 to victory levels received from Acid.       | Indefinite | Innate |
+|      Resistance: Fatal Acid      |       -4 to victory levels received from Acid.       | Indefinite | Innate |
+|    Resistance: Complete Acid    |    Negate all victory levels received from Acid.    | Indefinite | Innate |
+|                                  |                                                      |            |        |
+|      Resistance: Minor Cold      |       -1 to victory levels received from Cold.       | Indefinite | Innate |
+|     Resistance: Medium Cold     |       -2 to victory levels received from Cold.       | Indefinite | Innate |
+|     Resistance: Serious Cold     |       -3 to victory levels received from Cold.       | Indefinite | Innate |
+|      Resistance: Fatal Cold      |       -4 to victory levels received from Cold.       | Indefinite | Innate |
+|    Resistance: Complete Cold    |    Negate all victory levels received from Cold.    | Indefinite | Innate |
+|                                  |                                                      |            |        |
+|     Resistance: Minor Silver     |      -1 to victory levels received from Silver.      | Indefinite | Innate |
+|    Resistance: Medium Silver    |      -2 to victory levels received from Silver.      | Indefinite | Innate |
+|    Resistance: Serious Silver    |      -3 to victory levels received from Silver.      | Indefinite | Innate |
+|     Resistance: Fatal Silver     |      -4 to victory levels received from Silver.      | Indefinite | Innate |
+|   Resistance: Complete Silver   |   Negate all victory levels received from Silver.   | Indefinite | Innate |
+|                                  |                                                      |            |        |
+|     Resistance: Minor Poison     |      -1 to victory levels received from Poison.      | Indefinite | Innate |
+|    Resistance: Medium Poison    |      -2 to victory levels received from Poison.      | Indefinite | Innate |
+|    Resistance: Serious Poison    |      -3 to victory levels received from Poison.      | Indefinite | Innate |
+|     Resistance: Fatal Poison     |      -4 to victory levels received from Poison.      | Indefinite | Innate |
+|   Resistance: Complete Poison   |   Negate all victory levels received from Poison.   | Indefinite | Innate |
+|                                  |                                                      |            |        |
+|    Resistance: Minor Necrotic    |     -1 to victory levels received from Necrotic.     | Indefinite | Innate |
+|   Resistance: Medium Necrotic   |     -2 to victory levels received from Necrotic.     | Indefinite | Innate |
+|   Resistance: Serious Necrotic   |     -3 to victory levels received from Necrotic.     | Indefinite | Innate |
+|    Resistance: Fatal Necrotic    |     -4 to victory levels received from Necrotic.     | Indefinite | Innate |
+|  Resistance: Complete Necrotic  |  Negate all victory levels received from Necrotic.  | Indefinite | Innate |
+|                                  |                                                      |            |        |
+|     Resistance: Minor Bleed     |      -1 to victory levels received from Bleed.      | Indefinite | Innate |
+|     Resistance: Medium Bleed     |      -2 to victory levels received from Bleed.      | Indefinite | Innate |
+|    Resistance: Serious Bleed    |      -3 to victory levels received from Bleed.      | Indefinite | Innate |
+|     Resistance: Fatal Bleed     |      -4 to victory levels received from Bleed.      | Indefinite | Innate |
+|    Resistance: Complete Bleed    |    Negate all victory levels received from Bleed.    | Indefinite | Innate |
+|                                  |                                                      |            |        |
+|  Resistance: Minor Suffocation  |   -1 to victory levels received from Suffocation.   | Indefinite | Innate |
+|  Resistance: Medium Suffocation  |   -2 to victory levels received from Suffocation.   | Indefinite | Innate |
+| Resistance: Serious Suffocation |   -3 to victory levels received from Suffocation.   | Indefinite | Innate |
+|  Resistance: Fatal Suffocation  |   -4 to victory levels received from Suffocation.   | Indefinite | Innate |
+| Resistance: Complete Suffocation | Negate all victory levels received from Suffocation. | Indefinite | Innate |
+|                                  |                                                      |            |        |
+|    Resistance: Minor Psychic    |     -1 to victory levels received from Psychic.     | Indefinite | Innate |
+|    Resistance: Medium Psychic    |     -2 to victory levels received from Psychic.     | Indefinite | Innate |
+|   Resistance: Serious Psychic   |     -3 to victory levels received from Psychic.     | Indefinite | Innate |
+|    Resistance: Fatal Psychic    |     -4 to victory levels received from Psychic.     | Indefinite | Innate |
+|   Resistance: Complete Psychic   |   Negate all victory levels received from Psychic.   | Indefinite | Innate |
+|                                  |                                                      |            |        |
+|   Resistance: Minor Spiritual   |    -1 to victory levels received from Spiritual.    | Indefinite | Innate |
+|   Resistance: Medium Spiritual   |    -2 to victory levels received from Spiritual.    | Indefinite | Innate |
+|  Resistance: Serious Spiritual  |    -3 to victory levels received from Spiritual.    | Indefinite | Innate |
+|   Resistance: Fatal Spiritual   |    -4 to victory levels received from Spiritual.    | Indefinite | Innate |
+|  Resistance: Complete Spiritual  |  Negate all victory levels received from Spiritual.  | Indefinite | Innate |
 
 #### Combat Modifier
 
@@ -1032,120 +1150,6 @@ Since Injuries work on a narrative severity scale, so does the healing that can 
 |   Language: Kikishi   |   Can speak and write Kikishi.   | Indefinite | Culture |
 |   Language: Draconic   |   Can speak and write Draconic.   | Indefinite | Culture |
 |   Language: Demonic   |   Can speak and write Demonic.   | Indefinite | Culture |
-
-#### Resistance
-
-Characters can be resistant to certain sources of damage.
-
-|               Name               |                     Description                     |  Duration  | Source |
-| :------------------------------: | :--------------------------------------------------: | :--------: | :----: |
-|     Resistance: Minor Slash     |      -1 to victory levels received from Slash.      | Indefinite | Innate |
-|     Resistance: Medium Slash     |      -2 to victory levels received from Slash.      | Indefinite | Innate |
-|    Resistance: Serious Slash    |      -3 to victory levels received from Slash.      | Indefinite | Innate |
-|     Resistance: Fatal Slash     |      -4 to victory levels received from Slash.      | Indefinite | Innate |
-|    Resistance: Complete Slash    |    Negate all victory levels received from Slash.    | Indefinite | Innate |
-|                                  |                                                      |            |        |
-|     Resistance: Minor Pierce     |      -1 to victory levels received from Pierce.      | Indefinite | Innate |
-|    Resistance: Medium Pierce    |      -2 to victory levels received from Pierce.      | Indefinite | Innate |
-|    Resistance: Serious Pierce    |      -3 to victory levels received from Pierce.      | Indefinite | Innate |
-|     Resistance: Fatal Pierce     |      -4 to victory levels received from Pierce.      | Indefinite | Innate |
-|   Resistance: Complete Pierce   |   Negate all victory levels received from Pierce.   | Indefinite | Innate |
-|                                  |                                                      |            |        |
-|    Resistance: Minor Bludgeon    |     -1 to victory levels received from Bludgeon.     | Indefinite | Innate |
-|   Resistance: Medium Bludgeon   |     -2 to victory levels received from Bludgeon.     | Indefinite | Innate |
-|   Resistance: Serious Bludgeon   |     -3 to victory levels received from Bludgeon.     | Indefinite | Innate |
-|    Resistance: Fatal Bludgeon    |     -4 to victory levels received from Bludgeon.     | Indefinite | Innate |
-|  Resistance: Complete Bludgeon  |  Negate all victory levels received from Bludgeon.  | Indefinite | Innate |
-|                                  |                                                      |            |        |
-|      Resistance: Minor Hew      |       -1 to victory levels received from Hew.       | Indefinite | Innate |
-|      Resistance: Medium Hew      |       -2 to victory levels received from Hew.       | Indefinite | Innate |
-|     Resistance: Serious Hew     |       -3 to victory levels received from Hew.       | Indefinite | Innate |
-|      Resistance: Fatal Hew      |       -4 to victory levels received from Hew.       | Indefinite | Innate |
-|     Resistance: Complete Hew     |     Negate all victory levels received from Hew.     | Indefinite | Innate |
-|                                  |                                                      |            |        |
-|   Resistance: Minor Ballistic   |    -1 to victory levels received from Ballistic.    | Indefinite | Innate |
-|   Resistance: Medium Ballistic   |    -2 to victory levels received from Ballistic.    | Indefinite | Innate |
-|  Resistance: Serious Ballistic  |    -3 to victory levels received from Ballistic.    | Indefinite | Innate |
-|   Resistance: Fatal Ballistic   |    -4 to victory levels received from Ballistic.    | Indefinite | Innate |
-|  Resistance: Complete Ballistic  |  Negate all victory levels received from Ballistic.  | Indefinite | Innate |
-|                                  |                                                      |            |        |
-|   Resistance: Minor Shockwave   |    -1 to victory levels received from Shockwave.    | Indefinite | Innate |
-|   Resistance: Medium Shockwave   |    -2 to victory levels received from Shockwave.    | Indefinite | Innate |
-|  Resistance: Serious Shockwave  |    -3 to victory levels received from Shockwave.    | Indefinite | Innate |
-|   Resistance: Fatal Shockwave   |    -4 to victory levels received from Shockwave.    | Indefinite | Innate |
-|  Resistance: Complete Shockwave  |  Negate all victory levels received from Shockwave.  | Indefinite | Innate |
-|                                  |                                                      |            |        |
-|      Resistance: Minor Fire      |       -1 to victory levels received from Fire.       | Indefinite | Innate |
-|     Resistance: Medium Fire     |       -2 to victory levels received from Fire.       | Indefinite | Innate |
-|     Resistance: Serious Fire     |       -3 to victory levels received from Fire.       | Indefinite | Innate |
-|      Resistance: Fatal Fire      |       -4 to victory levels received from Fire.       | Indefinite | Innate |
-|    Resistance: Complete Fire    |    Negate all victory levels received from Fire.    | Indefinite | Innate |
-|                                  |                                                      |            |        |
-|    Resistance: Minor Electric    |     -1 to victory levels received from Electric.     | Indefinite | Innate |
-|   Resistance: Medium Electric   |     -2 to victory levels received from Electric.     | Indefinite | Innate |
-|   Resistance: Serious Electric   |     -3 to victory levels received from Electric.     | Indefinite | Innate |
-|    Resistance: Fatal Electric    |     -4 to victory levels received from Electric.     | Indefinite | Innate |
-|  Resistance: Complete Electric  |  Negate all victory levels received from Electric.  | Indefinite | Innate |
-|                                  |                                                      |            |        |
-|    Resistance: Minor Radiant    |     -1 to victory levels received from Radiant.     | Indefinite | Innate |
-|    Resistance: Medium Radiant    |     -2 to victory levels received from Radiant.     | Indefinite | Innate |
-|   Resistance: Serious Radiant   |     -3 to victory levels received from Radiant.     | Indefinite | Innate |
-|    Resistance: Fatal Radiant    |     -4 to victory levels received from Radiant.     | Indefinite | Innate |
-|   Resistance: Complete Radiant   |   Negate all victory levels received from Radiant.   | Indefinite | Innate |
-|                                  |                                                      |            |        |
-|      Resistance: Minor Acid      |       -1 to victory levels received from Acid.       | Indefinite | Innate |
-|     Resistance: Medium Acid     |       -2 to victory levels received from Acid.       | Indefinite | Innate |
-|     Resistance: Serious Acid     |       -3 to victory levels received from Acid.       | Indefinite | Innate |
-|      Resistance: Fatal Acid      |       -4 to victory levels received from Acid.       | Indefinite | Innate |
-|    Resistance: Complete Acid    |    Negate all victory levels received from Acid.    | Indefinite | Innate |
-|                                  |                                                      |            |        |
-|      Resistance: Minor Cold      |       -1 to victory levels received from Cold.       | Indefinite | Innate |
-|     Resistance: Medium Cold     |       -2 to victory levels received from Cold.       | Indefinite | Innate |
-|     Resistance: Serious Cold     |       -3 to victory levels received from Cold.       | Indefinite | Innate |
-|      Resistance: Fatal Cold      |       -4 to victory levels received from Cold.       | Indefinite | Innate |
-|    Resistance: Complete Cold    |    Negate all victory levels received from Cold.    | Indefinite | Innate |
-|                                  |                                                      |            |        |
-|     Resistance: Minor Silver     |      -1 to victory levels received from Silver.      | Indefinite | Innate |
-|    Resistance: Medium Silver    |      -2 to victory levels received from Silver.      | Indefinite | Innate |
-|    Resistance: Serious Silver    |      -3 to victory levels received from Silver.      | Indefinite | Innate |
-|     Resistance: Fatal Silver     |      -4 to victory levels received from Silver.      | Indefinite | Innate |
-|   Resistance: Complete Silver   |   Negate all victory levels received from Silver.   | Indefinite | Innate |
-|                                  |                                                      |            |        |
-|     Resistance: Minor Poison     |      -1 to victory levels received from Poison.      | Indefinite | Innate |
-|    Resistance: Medium Poison    |      -2 to victory levels received from Poison.      | Indefinite | Innate |
-|    Resistance: Serious Poison    |      -3 to victory levels received from Poison.      | Indefinite | Innate |
-|     Resistance: Fatal Poison     |      -4 to victory levels received from Poison.      | Indefinite | Innate |
-|   Resistance: Complete Poison   |   Negate all victory levels received from Poison.   | Indefinite | Innate |
-|                                  |                                                      |            |        |
-|    Resistance: Minor Necrotic    |     -1 to victory levels received from Necrotic.     | Indefinite | Innate |
-|   Resistance: Medium Necrotic   |     -2 to victory levels received from Necrotic.     | Indefinite | Innate |
-|   Resistance: Serious Necrotic   |     -3 to victory levels received from Necrotic.     | Indefinite | Innate |
-|    Resistance: Fatal Necrotic    |     -4 to victory levels received from Necrotic.     | Indefinite | Innate |
-|  Resistance: Complete Necrotic  |  Negate all victory levels received from Necrotic.  | Indefinite | Innate |
-|                                  |                                                      |            |        |
-|     Resistance: Minor Bleed     |      -1 to victory levels received from Bleed.      | Indefinite | Innate |
-|     Resistance: Medium Bleed     |      -2 to victory levels received from Bleed.      | Indefinite | Innate |
-|    Resistance: Serious Bleed    |      -3 to victory levels received from Bleed.      | Indefinite | Innate |
-|     Resistance: Fatal Bleed     |      -4 to victory levels received from Bleed.      | Indefinite | Innate |
-|    Resistance: Complete Bleed    |    Negate all victory levels received from Bleed.    | Indefinite | Innate |
-|                                  |                                                      |            |        |
-|  Resistance: Minor Suffocation  |   -1 to victory levels received from Suffocation.   | Indefinite | Innate |
-|  Resistance: Medium Suffocation  |   -2 to victory levels received from Suffocation.   | Indefinite | Innate |
-| Resistance: Serious Suffocation |   -3 to victory levels received from Suffocation.   | Indefinite | Innate |
-|  Resistance: Fatal Suffocation  |   -4 to victory levels received from Suffocation.   | Indefinite | Innate |
-| Resistance: Complete Suffocation | Negate all victory levels received from Suffocation. | Indefinite | Innate |
-|                                  |                                                      |            |        |
-|    Resistance: Minor Psychic    |     -1 to victory levels received from Psychic.     | Indefinite | Innate |
-|    Resistance: Medium Psychic    |     -2 to victory levels received from Psychic.     | Indefinite | Innate |
-|   Resistance: Serious Psychic   |     -3 to victory levels received from Psychic.     | Indefinite | Innate |
-|    Resistance: Fatal Psychic    |     -4 to victory levels received from Psychic.     | Indefinite | Innate |
-|   Resistance: Complete Psychic   |   Negate all victory levels received from Psychic.   | Indefinite | Innate |
-|                                  |                                                      |            |        |
-|   Resistance: Minor Spiritual   |    -1 to victory levels received from Spiritual.    | Indefinite | Innate |
-|   Resistance: Medium Spiritual   |    -2 to victory levels received from Spiritual.    | Indefinite | Innate |
-|  Resistance: Serious Spiritual  |    -3 to victory levels received from Spiritual.    | Indefinite | Innate |
-|   Resistance: Fatal Spiritual   |    -4 to victory levels received from Spiritual.    | Indefinite | Innate |
-|  Resistance: Complete Spiritual  |  Negate all victory levels received from Spiritual.  | Indefinite | Innate |
 
 #### Size
 
@@ -1772,104 +1776,6 @@ When representing a container on a character sheet, a similar table as the one b
 | Ring, Mundane | 1 |                    | 0.2 | 30 cc |             |
 | Copper Coin   | 70 |                    | 0.02 | 1 cc |             |
 
-## Movement Speed Effect
-
-Movement Speed is used in Combat Rounds to determine how far a character can move.
-
-Governing Skill And Movement Speed Per Dice Pair Result = (Size of Governing Dice Pool) * (Movement Speed Per Dice)
-
-Movement Speed = (Movement Speed Base) + (#1 Governing Skill And Movement Speed Per Dice Pair Result) + (#2 Governing Skill And Movement Speed Per Dice Pair Result) + ect...
-
-**Movement Speed Base:** The base amount of Movement Speed for the Movement Speed Calculation.
-
-**Governing Skill And Movement Speed Per Dice Pairs:** Represents pairs of a Governing Skill and the amount of Movement Speed gained per the size of the Governing Skill's Dice Pool.
-
-|            Name            |                      Description                      |  Duration  | Source | Movement Speed Base | Governing Skill And Movement Speed Per Dice Pairs |
-| :-------------------------: | :----------------------------------------------------: | :--------: | :----: | :-----------------: | :-----------------------------------------------: |
-| Movement Speed: Terrestrial | +2.5 ft per Dexterity Dice, +7.5 ft per Athletics Dice | Indefinite | Innate |          0          |         (Dexterity,2.5), (Athletics,7.5)         |
-|    Movement Speed: Swim    |  +2.5 ft per Dexterity Dice, +5 ft per Athletics Dice  | Indefinite | Innate |          0          |          (Dexterity,2.5), (Athletics,5)          |
-|    Movement Speed: Climb    |  +2.5 ft per Dexterity Dice, +5 ft per Athletics Dice  | Indefinite | Innate |          0          |          (Dexterity,2.5), (Athletics,5)          |
-|   Movement Speed: Flight   |  +5 ft per Dexterity Dice, +10 ft per Athletics Dice  | Indefinite | Innate |          0          |           (Dexterity,5), (Athletics,10)           |
-|   Movement Speed: Aquatic   | +2.5 ft per Dexterity Dice, +7.5 ft per Athletics Dice | Indefinite | Innate |          0          |         (Dexterity,2.5), (Athletics,7.5)         |
-
-### Difficult Terrain
-
-Steep mountains, ice-covered ground, swamps, etc. are difficult terrain. It takes twice the movement to move through these terrains.
-
-### Dexterity Movement Speed
-
-Dexterity Movement Speed is the initial portion of a character's movement and represents how quick they are to get into motion and act.
-
-This can allow them to disengage from opponents, slip behind a door before it closes, avoid an Area Of Effect they are about to be caught in, close the distance to an opponent, ect...
-
-While lower Dexterity Movement Speed characters are deciding what to do, high Dexterity Movement Speed characters are already in motion.
-
-Dexterity Movement Speed can be used to resolve circumstances when it is unclear which character moved first or closed some distance. Dexterity Movement Speed is used first on a character's turn, with lower Dexterity Movement Speed characters considered to have not moved/acted yet.
-
-**Example 1:**
-
-A Rogue with a dagger is trying to close the distance on an archer who is 5 feet away.
-
-Their respective Dexterity Movement Speeds are 15 ft for the Rogue and 10 ft for the Archer.
-
-The Archer declares he is going to shoot the Rogue with his bow as he uses his Movement Speed to stay out of range of the knife.
-
-The rogue declares he is going to close the distance, attack with the knife, and stay on the archer. If the Rogue pulls this off, it will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks.
-
-Since the Rogue has 5 ft more Dexterity Movement Speed, he can move those 5 feet before the archer can lose the arrow, closing the distance. Now they will make combat rolls versus one another, with the Archer being at a clear disadvantage.
-
-The Archer, now likely wounded from the Rogue's knife, tries to use the rest of his Movement Speed to stay out of range from the Rogue's knife. Assuming the Rogue has the same or greater remaining movement speed as the Archer, the Rogue stays on the Archer and the gap is 0 feet, ready to stab him again next round.
-
-**Example 2:**
-
-A Rogue with a dagger is trying to close the distance on an Archer who is 15 feet away.
-
-Their respective Dexterity Movement Speeds are 15 ft for the Rogue and 10 ft for the Archer.
-
-The Archer declares he is going to shoot the Rogue with his bow as he uses his Movement Speed to stay out of range of the knife.
-
-The Rogue declares he is going to close the distance, attack with his knife, and stay close to the Archer. If the Rogue pulls this off, it will be disadvantageous for the Archer since melee versus ranged combat in close quarters favors melee attacks.
-
-Since the Rogue has 5 ft more Dexterity Movement Speed, he can move those 5 feet before the archer can lose the arrow, closing the distance. With 10 feet between the Rogue and the Archer, the arrow is shot. The Rogue must now try and dodge the arrow, before he can attack, possibly proving fatal.
-
-The Archer is then able to flee backward. Assuming he has the same or greater remaining movement speed than the possibly injured Rogue, the Archer can keep the 10 feet of distance between him and the rogue, never getting stabbed.
-
-**Example 3:**
-
-A Rogue with a dagger is trying to close the distance on an Knight who is 5 feet away standing in some slippery mud. The Knight is right on the edge of the mud pool, and the Rogue realizes if he can attack the Knight while he's standing in the mud, he has a better chance of defeating him.
-
-Their respective Dexterity Movement Speeds are 10 feet for the Rogue and 5 feet for the Knight.
-
-The Knight declares he is going to move forward out of the mud and swing on the Rogue with his longsword.
-
-The Rogue declares he is going to close the distance before the Knight moves out of the mud and try to stab the Knight.
-
-Since the Rogue has a higher Dexterity Movement Speeds, he can move 5 feet with his Dexterity Movement Speed before the Knight can move, closing the gap.
-
-Since the Knight already had his sword ready to go, combat rolls will be made, but the Knight will do so while having to deal with the disadvantageous position being in slippery mud.
-
-### Athletics Movement Speed
-
-Athletics Movement Speed is the second portion of a character's movement and represents how fast they are once at there top speed.
-
-Athletics Movement Speed should always make up a far greater amount of your Total Movement Speed as compared to Dexterity Movement Speed. Even though characters with higher Dexterity Movement Speed might be quicker to initially move, there is nothing prevent a high Athletics Movement Speed character from running them down.
-
-Unlike Dexterity Speed, were the character with the greater speed can move before the other character, for Athletics Movement Speed both characters start moving at the same time.
-
-### Total Movement Speed
-
-Total Movement Speed is the combination of a character's Dexterity and Athletics Movement Speeds for a entire round. Therefore, a character can use both there Dexterity Movement Speed and Athletics Movement Speed during a round.
-
-### Using multiple Movement Speeds on the same round
-
-Whenever a character needs to use multiple movement speeds in a round, calculate what percentage of their movement they've used that round for their initial movement, with the remainder percent being used for another movement speed.
-
-For example, if a character has 30 feet of "Terrestrial" and 15 feet of "Climb Combat Speed". The character walks 15 feet up to a climbable rock face. They've used 50% (15/30 = 0.5) of their movement speed, leaving them 50% of their climb combat speed. 50% of 15 feet is 7.5 feet. Therefore the character can climb 7.5 feet up the rock face.
-
-### Mounted Movement Speed
-
-The rider's Dexterity dice pool size is used for the mounts Dexterity Movement Speed calculation. Additionally, when a mounted character or their mount takes an injury in combat, a Dexterity or Riding skill check equivalent to the injury level must be succeeded to stay on horseback, or else they are knocked off.
-
 ## Resource Pool Max Calculation
 
 A Resource Pool Max Calculation is used to represent the maximum amount of Resource a resource can hold based of the following calculation.
@@ -2287,6 +2193,104 @@ To calculated a Combat Roll's Dice Pool start with the Governing Skill's Dice Po
 **Example**
 
 Javk Wick the Rogue has two daggers he's dual-wielding. He wants to calculate the "Dual-wielded Slash Close Melee" Combat Roll his dagger's allow him to perform. First, we start with determining what the Governing Skill is for "Dual-wielded Slash Close Melee" which is "Close Melee". Next, we determine that Javk's "Close Melee" Dice Pool is 6d6. Then, we adjust the tier of the Base Dice by the Combat Roll's Base Dice Adjustment which takes us from tier 0 (3d6) to tier 1 (1d8, 2d6), meaning the resulting Dice Pool is now "1d8, 5d6". Finally, we modify "1d8, 5d6" by the Combat Roll's Dice Pool Modifier of "+1d6" resulting in a "1d8, 6d6" Dice Pool for our Combat Roll.
+
+## Movement Speed Effect
+
+Movement Speed is used in Combat Rounds to determine how far a character can move.
+
+Governing Skill And Movement Speed Per Dice Pair Result = (Size of Governing Dice Pool) * (Movement Speed Per Dice)
+
+Movement Speed = (Movement Speed Base) + (#1 Governing Skill And Movement Speed Per Dice Pair Result) + (#2 Governing Skill And Movement Speed Per Dice Pair Result) + ect...
+
+**Movement Speed Base:** The base amount of Movement Speed for the Movement Speed Calculation.
+
+**Governing Skill And Movement Speed Per Dice Pairs:** Represents pairs of a Governing Skill and the amount of Movement Speed gained per the size of the Governing Skill's Dice Pool.
+
+|            Name            |                      Description                      |  Duration  | Source | Movement Speed Base | Governing Skill And Movement Speed Per Dice Pairs |
+| :-------------------------: | :----------------------------------------------------: | :--------: | :----: | :-----------------: | :-----------------------------------------------: |
+| Movement Speed: Terrestrial | +2.5 ft per Dexterity Dice, +7.5 ft per Athletics Dice | Indefinite | Innate |          0          |         (Dexterity,2.5), (Athletics,7.5)         |
+|    Movement Speed: Swim    |  +2.5 ft per Dexterity Dice, +5 ft per Athletics Dice  | Indefinite | Innate |          0          |          (Dexterity,2.5), (Athletics,5)          |
+|    Movement Speed: Climb    |  +2.5 ft per Dexterity Dice, +5 ft per Athletics Dice  | Indefinite | Innate |          0          |          (Dexterity,2.5), (Athletics,5)          |
+|   Movement Speed: Flight   |  +5 ft per Dexterity Dice, +10 ft per Athletics Dice  | Indefinite | Innate |          0          |           (Dexterity,5), (Athletics,10)           |
+|   Movement Speed: Aquatic   | +2.5 ft per Dexterity Dice, +7.5 ft per Athletics Dice | Indefinite | Innate |          0          |         (Dexterity,2.5), (Athletics,7.5)         |
+
+### Difficult Terrain
+
+Steep mountains, ice-covered ground, swamps, etc. are difficult terrain. It takes twice the movement to move through these terrains.
+
+### Dexterity Movement Speed
+
+Dexterity Movement Speed is the initial portion of a character's movement and represents how quick they are to get into motion and act.
+
+This can allow them to disengage from opponents, slip behind a door before it closes, avoid an Area Of Effect they are about to be caught in, close the distance to an opponent, ect...
+
+While lower Dexterity Movement Speed characters are deciding what to do, high Dexterity Movement Speed characters are already in motion.
+
+Dexterity Movement Speed can be used to resolve circumstances when it is unclear which character moved first or closed some distance. Dexterity Movement Speed is used first on a character's turn, with lower Dexterity Movement Speed characters considered to have not moved/acted yet.
+
+**Example 1:**
+
+A Rogue with a dagger is trying to close the distance on an archer who is 5 feet away.
+
+Their respective Dexterity Movement Speeds are 15 ft for the Rogue and 10 ft for the Archer.
+
+The Archer declares he is going to shoot the Rogue with his bow as he uses his Movement Speed to stay out of range of the knife.
+
+The rogue declares he is going to close the distance, attack with the knife, and stay on the archer. If the Rogue pulls this off, it will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks.
+
+Since the Rogue has 5 ft more Dexterity Movement Speed, he can move those 5 feet before the archer can lose the arrow, closing the distance. Now they will make combat rolls versus one another, with the Archer being at a clear disadvantage.
+
+The Archer, now likely wounded from the Rogue's knife, tries to use the rest of his Movement Speed to stay out of range from the Rogue's knife. Assuming the Rogue has the same or greater remaining movement speed as the Archer, the Rogue stays on the Archer and the gap is 0 feet, ready to stab him again next round.
+
+**Example 2:**
+
+A Rogue with a dagger is trying to close the distance on an Archer who is 15 feet away.
+
+Their respective Dexterity Movement Speeds are 15 ft for the Rogue and 10 ft for the Archer.
+
+The Archer declares he is going to shoot the Rogue with his bow as he uses his Movement Speed to stay out of range of the knife.
+
+The Rogue declares he is going to close the distance, attack with his knife, and stay close to the Archer. If the Rogue pulls this off, it will be disadvantageous for the Archer since melee versus ranged combat in close quarters favors melee attacks.
+
+Since the Rogue has 5 ft more Dexterity Movement Speed, he can move those 5 feet before the archer can lose the arrow, closing the distance. With 10 feet between the Rogue and the Archer, the arrow is shot. The Rogue must now try and dodge the arrow, before he can attack, possibly proving fatal.
+
+The Archer is then able to flee backward. Assuming he has the same or greater remaining movement speed than the possibly injured Rogue, the Archer can keep the 10 feet of distance between him and the rogue, never getting stabbed.
+
+**Example 3:**
+
+A Rogue with a dagger is trying to close the distance on an Knight who is 5 feet away standing in some slippery mud. The Knight is right on the edge of the mud pool, and the Rogue realizes if he can attack the Knight while he's standing in the mud, he has a better chance of defeating him.
+
+Their respective Dexterity Movement Speeds are 10 feet for the Rogue and 5 feet for the Knight.
+
+The Knight declares he is going to move forward out of the mud and swing on the Rogue with his longsword.
+
+The Rogue declares he is going to close the distance before the Knight moves out of the mud and try to stab the Knight.
+
+Since the Rogue has a higher Dexterity Movement Speeds, he can move 5 feet with his Dexterity Movement Speed before the Knight can move, closing the gap.
+
+Since the Knight already had his sword ready to go, combat rolls will be made, but the Knight will do so while having to deal with the disadvantageous position being in slippery mud.
+
+### Athletics Movement Speed
+
+Athletics Movement Speed is the second portion of a character's movement and represents how fast they are once at there top speed.
+
+Athletics Movement Speed should always make up a far greater amount of your Total Movement Speed as compared to Dexterity Movement Speed. Even though characters with higher Dexterity Movement Speed might be quicker to initially move, there is nothing prevent a high Athletics Movement Speed character from running them down.
+
+Unlike Dexterity Speed, were the character with the greater speed can move before the other character, for Athletics Movement Speed both characters start moving at the same time.
+
+### Total Movement Speed
+
+Total Movement Speed is the combination of a character's Dexterity and Athletics Movement Speeds for a entire round. Therefore, a character can use both there Dexterity Movement Speed and Athletics Movement Speed during a round.
+
+### Using multiple Movement Speeds on the same round
+
+Whenever a character needs to use multiple movement speeds in a round, calculate what percentage of their movement they've used that round for their initial movement, with the remainder percent being used for another movement speed.
+
+For example, if a character has 30 feet of "Terrestrial" and 15 feet of "Climb Combat Speed". The character walks 15 feet up to a climbable rock face. They've used 50% (15/30 = 0.5) of their movement speed, leaving them 50% of their climb combat speed. 50% of 15 feet is 7.5 feet. Therefore the character can climb 7.5 feet up the rock face.
+
+### Mounted Movement Speed
+
+The rider's Dexterity dice pool size is used for the mounts Dexterity Movement Speed calculation. Additionally, when a mounted character or their mount takes an injury in combat, a Dexterity or Riding skill check equivalent to the injury level must be succeeded to stay on horseback, or else they are knocked off.
 
 ## Defense Effect
 
