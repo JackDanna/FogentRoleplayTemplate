@@ -1,10 +1,11 @@
 name,description,duration,source
+Backstory,,Indefinite,Innate
+Appearance,,Indefinite,Innate
+Disposition,,Indefinite,Innate
+Beliefs and Morality,,Indefinite,Innate
+Goals and Aspirations,,Indefinite,Innate
+,,,
 Notes,,Indefinite,The Narrator
-Appearance,,Indefinite,The Narrator
-Disposition,,Indefinite,The Narrator
-Beliefs and Morality,,Indefinite,The Narrator
-Goals and Aspirations,,Indefinite,The Narrator
-Backstory,,Indefinite,The Narrator
 ,,,
 Combat Modifier: Grapple Disarm,"Once already in a Grapple, as part of their declaration phase a character can declare they are attempting a Grapple Disarm to disarm their opponent. The character attempting the Grapple Disarm must be Unarmed. They gain Advantage their Unarmed combat roll versus the armed grappled opponent. The armed opponent gains Disadvantage on their combat roll versus the character grappling them. The character attempting the Grapple Disarm may only take the Disarm Level 2 Victory (this means they cannot delegate their attack to inflict an injury or execute a trip regardless of how high the victory achieved.)",1 round,Purely focusing on disarming
 Combat Modifier: Defensive,"During combat, a character can purely focuses on defending themselves. Advantage for both Combat Rolls and Evasion Rolls. No Victory Level outcomes can be achieved for the round by the character. Is not applicable if the character can't solely focus on defending themselves, such as when they have Disadvantage to their Combat Rolls or Evasion Rolls. Examples include being Staggered, being attacked from outside a Grapple, getting up from being Prone, being Off Guard, Dashing, etc...",1 round,Purely focusing on defense

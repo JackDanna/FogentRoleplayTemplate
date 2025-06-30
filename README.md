@@ -862,18 +862,12 @@ A Narrative Effect is a purely text based effect. It simply describes what it do
 
 #### Character Information
 
-|         Name         | Description |  Duration  |    Source    |
-| :-------------------: | :---------: | :--------: | :----------: |
-|         Notes         |            | Indefinite | The Narrator |
-|      Appearance      |            | Indefinite | The Narrator |
-|      Disposition      |            | Indefinite | The Narrator |
-| Beliefs and Morality |            | Indefinite | The Narrator |
-| Goals and Aspirations |            | Indefinite | The Narrator |
-|       Backstory       |            | Indefinite | The Narrator |
+| Name | Description | Duration | Source |
+| :--: | :---------: | :------: | :----: |
 
 #### Combat Modifier
 
-Combat Modifiers represent different circumstances and actions that can occur within combat.
+Combat Modifiers represent different circumstances that can occur within combat.
 
 Cover: There are three degrees of cover. If a target is behind multiple sources of cover, only the most protective degree of cover applies; the degrees aren't added together. For example, if a target is behind a creature that gives half cover and a tree trunk that gives three-quarters cover, the target has three-quarters cover.
 
