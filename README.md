@@ -821,15 +821,17 @@ Destiny points are awarded when players perform actions that the Narrator wants 
 
 ## Effects
 
-An Effect simply describes some way a character or item could effect on the narrative.
+An Effect simply describes some way a character or item could effect on the narrative. Effects can be placed on characters or items. All effect have a "Name", "Description", "Duration", and "Source".
 
-Effects can be placed on characters or items.
+**Name:** The name of the Effect.
 
-All effect have a "Name", "Description", "Duration", and "Source".
+**Description:** Describes what the Effect is doing narratively.
 
-"Name" just describes the name of the Effect. "Description" describes what the Effect is doing narratively. "Duration" describes how long the Effect will be active. "Source" describes where the effect came from. If the Effect is innate to the character, using their hands as weapons, the it's "Source" would be "Innate". If an Effect is coming from an item, such as a magic ring, than it's "Source" would be the name of the item.
+**Duration:** Describes how long the Effect will be active.
 
-If you have two different effects active that buff or debuff some feature of your character, these do not stack unless otherwise stated.
+**Source:** Describes where the effect came from. If the Effect is innate to the character, such as using their bare hands as weapons, use "Innate". If an Effect is coming from an item, such as a magic ring, use the name of the item. If from so 4th wall breaking source, such as special Effects only given to players, use "The Narrator".
+
+*If you have two different effects active that buff or debuff some feature of your character, these do not stack unless otherwise stated.
 
 ### Character Sheet Effects
 
@@ -1313,13 +1315,13 @@ Movement Speed = (Movement Speed Base) + (#1 Governing Skill And Movement Speed 
 
 **Governing Skill And Movement Speed Per Dice Pairs:** Represents pairs of a Governing Skill and the amount of Movement Speed gained per the size of the Governing Skill's Dice Pool.
 
-|                  Name                  |                      Description                      |  Duration  | Source | Movement Speed Base | Governing Skill And Movement Speed Per Dice Pairs |
-| :-------------------------------------: | :----------------------------------------------------: | :--------: | :----: | :-----------------: | :-----------------------------------------------: |
-|   Movement Speed: Terrestrial   | +2.5 ft per Dexterity Dice, +7.5 ft per Athletics Dice | Indefinite | Innate |          0          |         (Dexterity,2.5), (Athletics,7.5)         |
-|      Movement Speed: Swim      | +2.5 ft per Dexterity Dice, +5 ft per Athletics Dice | Indefinite | Innate |          0          |          (Dexterity,2.5), (Athletics,5)          |
-|      Movement Speed: Climb      |  +2.5 ft per Dexterity Dice, +5 ft per Athletics Dice  | Indefinite | Innate |          0          |          (Dexterity,2.5), (Athletics,5)          |
-|     Movement Speed: Flight     |  +5 ft per Dexterity Dice, +10 ft per Athletics Dice  | Indefinite | Innate |          0          |           (Dexterity,5), (Athletics,10)           |
-|     Movement Speed: Aquatic     | +2.5 ft per Dexterity Dice, +7.5 ft per Athletics Dice | Indefinite | Innate |          0          |         (Dexterity,2.5), (Athletics,7.5)         |
+|            Name            |                      Description                      |  Duration  | Source | Movement Speed Base | Governing Skill And Movement Speed Per Dice Pairs |
+| :-------------------------: | :----------------------------------------------------: | :--------: | :----: | :-----------------: | :-----------------------------------------------: |
+| Movement Speed: Terrestrial | +2.5 ft per Dexterity Dice, +7.5 ft per Athletics Dice | Indefinite | Innate |          0          |         (Dexterity,2.5), (Athletics,7.5)         |
+|    Movement Speed: Swim    |  +2.5 ft per Dexterity Dice, +5 ft per Athletics Dice  | Indefinite | Innate |          0          |          (Dexterity,2.5), (Athletics,5)          |
+|    Movement Speed: Climb    |  +2.5 ft per Dexterity Dice, +5 ft per Athletics Dice  | Indefinite | Innate |          0          |          (Dexterity,2.5), (Athletics,5)          |
+|   Movement Speed: Flight   |  +5 ft per Dexterity Dice, +10 ft per Athletics Dice  | Indefinite | Innate |          0          |           (Dexterity,5), (Athletics,10)           |
+|   Movement Speed: Aquatic   | +2.5 ft per Dexterity Dice, +7.5 ft per Athletics Dice | Indefinite | Innate |          0          |         (Dexterity,2.5), (Athletics,7.5)         |
 
 ### Difficult Terrain
 
