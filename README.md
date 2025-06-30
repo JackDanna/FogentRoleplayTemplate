@@ -833,8 +833,6 @@ All effect have a "Name", "Description", "Duration", and "Source" though they ma
 
 **Source:** Describes where the effect came from. If the Effect is innate to the character, such as using their bare hands as weapons, use "Innate". If an Effect is coming from an item, such as a magic ring, use the name of the item. If from so 4th wall breaking source, such as special Effects only given to players, use "The Narrator".
 
-*If you have two different effects active that buff or debuff some feature of your character, these do not stack unless otherwise stated.
-
 **Examples:**
 
 All of the following examples could effect the narrative.
