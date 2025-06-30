@@ -833,10 +833,6 @@ An Effect simply describes some way a character or item could effect on the narr
 
 *If you have two different effects active that buff or debuff some feature of your character, these do not stack unless otherwise stated.
 
-### Character Sheet Effects
-
-"Character Sheet Effects" can essentially be thought of as effects that change something on your character sheet. For instance, if a character gains a Weapon, then they would also gain a new combat roll. If a character gained an Injury, then they'd have to recalculate many of there dice pools with the penalties from the Injuries.
-
 **Examples:**
 
 - A character having an innate weapon, such as claws, could effect the narrative (Combat Roll Effect)
