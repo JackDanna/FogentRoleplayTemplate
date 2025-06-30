@@ -835,22 +835,24 @@ An Effect simply describes some way a character or item could effect on the narr
 
 **Examples:**
 
-- A character having an innate weapon, such as claws, could effect the narrative (Combat Roll Effect)
-- An item having an ability to be used as a weapon, such as a dagger, could effect the narrative (Combat Roll Effect)
-- A character having innate defenses, like armored scales, could effect the narrative (Defense Effect)
-- An item with innate defenses, such as armor, could effect the narrative (Defense Effect)
-- A character's backstory could effect the narrative (Narrative Effect)
-- An item's backstory could effect the narrative (Narrative Effect)
-- A character having an injury that is weakening them could effect the narrative (Attribute Dice Mod Effect)
-- An item having a curse on it that gives the wielder permanent weakness could effect the narrative (Attribute Dice Mod Effect)
-- A character having a enchantment on them which alters their Attribute levels could effect the narrative (Adjusted Attribute Level Effect/Set Attribute Level Effect)
-- An item having an enchantment that alters the wielder's Attribute levels could effect the narrative (Adjusted Attribute Level Effect/Set Attribute Level Effect)
-- A character having a enchantment on them which alters their Skill Dice Pools could effect the narrative (Adjusted Skill Level Effect/Set Skill Level Effect/Skill Base Dice Effect)
-- An item having an enchantment that alters the wielder's Skill Dice Pools could effect the narrative (Adjusted Skill Level Effect/Set Skill Level Effect/Skill Base Dice Effect)
-- A character having the ability to carry equipment could effect the narrative (Container Effect)
-- An item being able to contain other items, such as a backpack, could effect the narrative (Container Effect)
-- A character being able to move during a Combat Round could effect the narrative (Movement Speed Effect)
-- An item giving the wielder some improved ability to move in Combat Round could effect the narrative (Movement Speed)
+All of the following examples could effect the narrative.
+
+- A character having an innate weapon, such as claws (Combat Roll Effect)
+- An item having an ability to be used as a weapon, such as a dagger (Combat Roll Effect)
+- A character having innate defenses, like armored scales (Defense Effect)
+- An item with innate defenses, such as armor (Defense Effect)
+- A character's backstory (Narrative Effect)
+- An item's backstory (Narrative Effect)
+- A character having an injury that is weakening them (Attribute Dice Mod Effect)
+- An item having a curse on it that gives the wielder permanent weakness (Attribute Dice Mod Effect)
+- A character having a enchantment on them which alters their Attribute levels (Adjusted Attribute Level Effect/Set Attribute Level Effect)
+- An item having an enchantment that alters the wielder's Attribute levels (Adjusted Attribute Level Effect/Set Attribute Level Effect)
+- A character having a enchantment on them which alters their Skill Dice Pools (Adjusted Skill Level Effect/Set Skill Level Effect/Skill Base Dice Effect)
+- An item having an enchantment that alters the wielder's Skill Dice Pools (Adjusted Skill Level Effect/Set Skill Level Effect/Skill Base Dice Effect)
+- A character having the ability to carry equipment (Container Effect)
+- An item being able to contain other items, such as a backpack (Container Effect)
+- A character being able to move during a Combat Round (Movement Speed Effect)
+- An item giving the wielder some improved ability to move in Combat Round (Movement Speed)
 
 ## Attribute Dice Mod Effect
 
