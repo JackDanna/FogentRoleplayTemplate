@@ -2394,6 +2394,10 @@ Sets a specified Skill/Vocation of a character to a new value. If the character'
 
 For a specified Attribute, a Character receives an adjustment to it's level. The resulting level can not go outside the upper and lower bounds for a Attribute.
 
+**Affected Attributes:** The Attributes that are effected.
+
+**Level Adjustment:** The Level the Attributes are going to be set to.
+
 |     Name     |   Description   |  Duration  | Source | Affected Attributes | Level Adjustment |
 | :----------: | :--------------: | :--------: | :----: | :-----------------: | :--------------: |
 | Enhanced STR | +1 to STR level. | Indefinite | Innate |         STR         |        1        |
@@ -2401,6 +2405,10 @@ For a specified Attribute, a Character receives an adjustment to it's level. The
 ## Adjusted Skill Level Effect
 
 For a specified Skill/Vocation, a Character receives an adjustment to it's level. The resulting level can not go outside the upper and lower bounds for a Skill/Vocation.
+
+**Affected Skills:** The Skills/Vocations that are effected.
+
+**Level Adjustment:** The Level the Skills/Vocations are going to be set to.
 
 |           Name           |    Description    |  Duration  | Source | Affected Skills | Level Adjustment |
 | :----------------------: | :---------------: | :--------: | :----: | :--------------: | :--------------: |
