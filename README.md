@@ -2400,7 +2400,7 @@ For a specified Attribute, a Character receives an adjustment to it's level. The
 
 |     Name     |   Description   |  Duration  | Source | Affected Attributes | Level Adjustment |
 | :----------: | :--------------: | :--------: | :----: | :-----------------: | :--------------: |
-| Enhanced STR | +1 to STR level. | Indefinite | Innate |         STR         |        1        |
+| Enhanced STR | +1 to STR level. | Indefinite | Innate |         STR         |        +1        |
 
 ## Adjusted Skill Level Effect
 
@@ -2412,7 +2412,7 @@ For a specified Skill/Vocation, a Character receives an adjustment to it's level
 
 |           Name           |    Description    |  Duration  | Source | Affected Skills | Level Adjustment |
 | :----------------------: | :---------------: | :--------: | :----: | :--------------: | :--------------: |
-| Lift Level +1 Adjustment | +1 to Lift level. | Indefinite | Innate | Lift, Perception |        1        |
+| Lift Level +1 Adjustment | +1 to Lift level. | Indefinite | Innate | Lift, Perception |        +1        |
 
 ## Skill Base Dice Effect
 
