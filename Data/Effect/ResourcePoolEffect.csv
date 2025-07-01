@@ -28,7 +28,6 @@ Destiny Chosen,Destiny Point Cap set to 6. Gain an additional Destiny Point when
 ,,,,,,,
 Mana Pool,Resource Pool for magic.,Innate,Indefinite,Mana,10,Mana Resource Pool Max,FALSE
 ,,,,,,,
-Resource Pool: Thrown Slash Close Melee -1,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Slash Close Melee -1,1,None,TRUE
 Resource Pool: Thrown Slash Close Melee,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Slash Close Melee,1,None,TRUE
 ,,,,,,,
 Resource Pool: Thrown Pierce Close Melee -1,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Pierce Close Melee -1,1,None,TRUE
@@ -97,5 +96,3 @@ Nature Connection Pool,Resource Pool for Druidcraft.,Innate,Indefinite,Nature Co
 Fellblood Pool,Resource Pool for Fellcraft.,Innate,Indefinite,Fellblood,10,Fellblood Resource Pool Max,FALSE
 Focus Pool,Resource Pool for Runecraft.,Innate,Indefinite,Focus,10,Focus Resource Pool Max,FALSE
 Ichor Pool,Resource Pool for Miracles.,Innate,Indefinite,Ichor,10,Ichor Resource Pool Max,FALSE
-,,,,,,,
-,,,,,,,
