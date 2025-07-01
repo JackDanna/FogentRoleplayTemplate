@@ -51,21 +51,21 @@ Resource Pool: Broadhead Light Arrows,Ammunition for Combat Rolls.,Indefinite,In
 Resource Pool: Barbed Light Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Barbed Light Arrow,20,None,TRUE
 Resource Pool: Bodkin Light Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Bodkin Light Arrow,20,None,TRUE
 ,,,,,,,
-Resource Pool: Broadhead Heavy Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Broadhead Heavy Arrow,20,None,TRUE
-Resource Pool: Barbed Heavy Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Barbed Heavy Arrow,20,None,TRUE
-Resource Pool: Bodkin Heavy Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Bodkin Heavy Arrow,20,None,TRUE
+Resource Pool: Broadhead Heavy Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Broadhead Heavy Arrow,10,None,TRUE
+Resource Pool: Barbed Heavy Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Barbed Heavy Arrow,10,None,TRUE
+Resource Pool: Bodkin Heavy Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Bodkin Heavy Arrow,10,None,TRUE
 ,,,,,,,
-Resource Pool: Broadhead Hand Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Broadhead Hand Bolt,20,None,TRUE
-Resource Pool: Barbed Hand Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Barbed Hand Bolt,20,None,TRUE
-Resource Pool: Bodkin Hand Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Bodkin Hand Bolt,20,None,TRUE
+Resource Pool: Broadhead Hand Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Broadhead Hand Bolt,25,None,TRUE
+Resource Pool: Barbed Hand Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Barbed Hand Bolt,25,None,TRUE
+Resource Pool: Bodkin Hand Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Bodkin Hand Bolt,25,None,TRUE
 ,,,,,,,
 Resource Pool: Broadhead Light Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Broadhead Light Bolt,20,None,TRUE
 Resource Pool: Barbed Light Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Barbed Light Bolt,20,None,TRUE
 Resource Pool: Bodkin Light Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Bodkin Light Bolt,20,None,TRUE
 ,,,,,,,
-Resource Pool: Broadhead Heavy Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Broadhead Light Bolt,20,None,TRUE
-Resource Pool: Barbed Heavy Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Barbed Light Bolt,20,None,TRUE
-Resource Pool: Bodkin Heavy Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Bodkin Light Bolt,20,None,TRUE
+Resource Pool: Broadhead Heavy Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Broadhead Light Bolt,10,None,TRUE
+Resource Pool: Barbed Heavy Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Barbed Light Bolt,10,None,TRUE
+Resource Pool: Bodkin Heavy Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Bodkin Light Bolt,10,None,TRUE
 ,,,,,,,
 Resource Pool: Poison Blowgun Darts,Ammunition for Combat Rolls.,Indefinite,Innate,Poison Blowgun Dart,20,None,TRUE
 ,,,,,,,
