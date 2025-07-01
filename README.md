@@ -2323,6 +2323,10 @@ Characters will often stash or drop containers during combat as to not be in a h
 
 Sets a specified Attribute of a character to a new value. If the character's innate Attribute is greater than or equal to the new value, no change occurs.
 
+**Affected Attributes:** The Attributes that are effected.
+
+**Level:** The Level the Attributes are going to be set to.
+
 |      Name      |       Description       |  Duration  | Source | Affected Attributes | Level |
 | :------------: | :----------------------: | :--------: | :----: | :-----------------: | :---: |
 | Super Strength | Strength set to level 4. | Indefinite | Innate |         STR         |   4   |
@@ -2331,6 +2335,10 @@ Sets a specified Attribute of a character to a new value. If the character's inn
 ## Set Skill Level Effect
 
 Sets a specified Skill/Vocation of a character to a new value. If the character's innate Skill/Vocation is greater than or equal to the new value, no change occurs.
+
+**Affected Skills:** The Skills/Vocations that are effected.
+
+**Level:** The Level the Skills/Vocations are going to be set to.
 
 |          Name          |         Description         |  Duration  | Source | Affected Skills | Level |
 | :---------------------: | :--------------------------: | :--------: | :----: | :-------------: | :---: |
