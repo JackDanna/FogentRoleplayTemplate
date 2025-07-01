@@ -26,56 +26,39 @@ Charisma Point (Level 5),"For each level above 0 in CHA, a character can give th
 Destiny Point Pool,"A character can hold a max of 3 Destiny Points. Spending a ""Preemptive Destiny Point"" before rolling a dice pool gives Advantage on the resulting roll. Spending ""Post Roll Destiny Points"" adds additional Wins for each point spent, with the total Wins never exceeding the size of the dice pool. Destiny points are awarded when players perform actions that the narrator wants to encourage. Examples include showing up to the game on time, exceptional roleplay, accomplishing a narrative milestone, and doing something in line with their character's personality even if at the detriment of wealth or progress.",Indefinite,Given by The Narrator,Destiny Point,0,3,FALSE
 Destiny Chosen,Destiny Point Cap set to 6. Gain an additional Destiny Point whenever one is gained. Destiny begins to shape around the user's true desires.,Indefinite,Given by The Narrator,Destiny Point,0,6,FALSE
 ,,,,,,,
-HP Pool,Represent a Health Point Pool.,Indefinite,Indefinite,HP,10,10,FALSE
-HP Pool with Cap,Represent a Health Point Pool with a cap.,Indefinite,Indefinite,HP,10,None,FALSE
-,,,,,,,
 Mana Pool,Resource Pool for magic.,Innate,Indefinite,Mana,10,Mana Resource Pool Max,FALSE
-Nature Connection Pool,Resource Pool for Druidcraft.,Innate,Indefinite,Nature Connection,10,Nature Connection Resource Pool Max,FALSE
-Fellblood Pool,Resource Pool for Fellcraft.,Innate,Indefinite,Fellblood,10,Fellblood Resource Pool Max,FALSE
-Focus Pool,Resource Pool for Runecraft.,Innate,Indefinite,Focus,10,Focus Resource Pool Max,FALSE
-Ichor Pool,Resource Pool for Miracles.,Innate,Indefinite,Ichor,10,Ichor Resource Pool Max,FALSE
 ,,,,,,,
-Resource Pool: Thrown Slash Close Melee -1,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Slash Close Melee -1,1,None,TRUE
 Resource Pool: Thrown Slash Close Melee,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Slash Close Melee,1,None,TRUE
 ,,,,,,,
-Resource Pool: Thrown Pierce Close Melee -1,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Pierce Close Melee -1,1,None,TRUE
 Resource Pool: Thrown Pierce Close Melee,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Pierce Close Melee,1,None,TRUE
-Resource Pool: Thrown Pierce Close Melee +3,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Pierce Close Melee +3,1,None,TRUE
-Resource Pool: Thrown Pierce Close Melee +5,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Pierce Close Melee +5,1,None,TRUE
 ,,,,,,,
 Resource Pool: Thrown Hew Close Melee,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Hew Close Melee,1,None,TRUE
 ,,,,,,,
 Resource Pool: Thrown Bludgeon Close Melee,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Bludgeon Close Melee,1,None,TRUE
-Resource Pool: Thrown Bludgeon Close Melee +1,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Bludgeon Close Melee +1,1,None,TRUE
 ,,,,,,,
 Resource Pool: Thrown Medium Spear,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Medium Spear,1,None,TRUE
-Resource Pool: Thrown Medium Spear +3,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Medium Spear +3,1,None,TRUE
-Resource Pool: Thrown Medium Spear +7,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Medium Spear +7,1,None,TRUE
 ,,,,,,,
 Resource Pool: Thrown Large Spear,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Large Spear,1,None,TRUE
-Resource Pool: Thrown Large Spear +1,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Large Spear +1,1,None,TRUE
-Resource Pool: Thrown Large Spear +3,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Large Spear +3,1,None,TRUE
-Resource Pool: Thrown Large Spear +7,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Large Spear +7,1,None,TRUE
 ,,,,,,,
 Resource Pool: Broadhead Light Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Broadhead Light Arrow,20,None,TRUE
 Resource Pool: Barbed Light Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Barbed Light Arrow,20,None,TRUE
 Resource Pool: Bodkin Light Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Bodkin Light Arrow,20,None,TRUE
 ,,,,,,,
-Resource Pool: Broadhead Heavy Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Broadhead Heavy Arrow,20,None,TRUE
-Resource Pool: Barbed Heavy Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Barbed Heavy Arrow,20,None,TRUE
-Resource Pool: Bodkin Heavy Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Bodkin Heavy Arrow,20,None,TRUE
+Resource Pool: Broadhead Heavy Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Broadhead Heavy Arrow,10,None,TRUE
+Resource Pool: Barbed Heavy Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Barbed Heavy Arrow,10,None,TRUE
+Resource Pool: Bodkin Heavy Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Bodkin Heavy Arrow,10,None,TRUE
 ,,,,,,,
-Resource Pool: Broadhead Hand Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Broadhead Hand Bolt,20,None,TRUE
-Resource Pool: Barbed Hand Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Barbed Hand Bolt,20,None,TRUE
-Resource Pool: Bodkin Hand Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Bodkin Hand Bolt,20,None,TRUE
+Resource Pool: Broadhead Hand Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Broadhead Hand Bolt,25,None,TRUE
+Resource Pool: Barbed Hand Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Barbed Hand Bolt,25,None,TRUE
+Resource Pool: Bodkin Hand Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Bodkin Hand Bolt,25,None,TRUE
 ,,,,,,,
 Resource Pool: Broadhead Light Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Broadhead Light Bolt,20,None,TRUE
 Resource Pool: Barbed Light Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Barbed Light Bolt,20,None,TRUE
 Resource Pool: Bodkin Light Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Bodkin Light Bolt,20,None,TRUE
 ,,,,,,,
-Resource Pool: Broadhead Heavy Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Broadhead Light Bolt,20,None,TRUE
-Resource Pool: Barbed Heavy Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Barbed Light Bolt,20,None,TRUE
-Resource Pool: Bodkin Heavy Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Bodkin Light Bolt,20,None,TRUE
+Resource Pool: Broadhead Heavy Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Broadhead Light Bolt,10,None,TRUE
+Resource Pool: Barbed Heavy Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Barbed Light Bolt,10,None,TRUE
+Resource Pool: Bodkin Heavy Bolts,Ammunition for Combat Rolls.,Indefinite,Innate,Bodkin Light Bolt,10,None,TRUE
 ,,,,,,,
 Resource Pool: Poison Blowgun Darts,Ammunition for Combat Rolls.,Indefinite,Innate,Poison Blowgun Dart,20,None,TRUE
 ,,,,,,,
@@ -96,3 +79,20 @@ Resource Pool: FMJ .308 Rounds,Ammunition for Combat Rolls.,Indefinite,Innate,FM
 Resource Pool: Buckshot 12 Gauge Shells,Ammunition for Combat Rolls.,Indefinite,Innate,Buckshot 12 Gauge Shell,20,None,TRUE
 ,,,,,,,
 Resource Pool: Explosive RPG Rounds,Ammunition for Combat Rolls.,Indefinite,Innate,Explosive RPG Round,20,None,TRUE
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Resource Pool: Thrown Pierce Close Melee -1,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Pierce Close Melee -1,1,None,TRUE
+Resource Pool: Thrown Pierce Close Melee +3,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Pierce Close Melee +3,1,None,TRUE
+Resource Pool: Thrown Pierce Close Melee +5,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Pierce Close Melee +5,1,None,TRUE
+Resource Pool: Thrown Bludgeon Close Melee +1,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Bludgeon Close Melee +1,1,None,TRUE
+Resource Pool: Thrown Medium Spear +3,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Medium Spear +3,1,None,TRUE
+Resource Pool: Thrown Medium Spear +7,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Medium Spear +7,1,None,TRUE
+Resource Pool: Thrown Large Spear +3,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Large Spear +3,1,None,TRUE
+Resource Pool: Thrown Large Spear +7,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Large Spear +7,1,None,TRUE
+,,,,,,,
+,,,,,,,
+Nature Connection Pool,Resource Pool for Druidcraft.,Innate,Indefinite,Nature Connection,10,Nature Connection Resource Pool Max,FALSE
+Fellblood Pool,Resource Pool for Fellcraft.,Innate,Indefinite,Fellblood,10,Fellblood Resource Pool Max,FALSE
+Focus Pool,Resource Pool for Runecraft.,Innate,Indefinite,Focus,10,Focus Resource Pool Max,FALSE
+Ichor Pool,Resource Pool for Miracles.,Innate,Indefinite,Ichor,10,Ichor Resource Pool Max,FALSE
