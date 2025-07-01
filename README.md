@@ -821,7 +821,7 @@ Destiny points are awarded when players perform actions that the Narrator wants 
 
 ## Effects
 
-An Effect simply describes some way a character or item could effect on the narrative. Effects can be placed on characters or items.
+An Effect simply describes some way a character or item could have an effect on the narrative. Effects can be placed on characters or items.
 
 All effect have a "Name", "Description", "Duration", and "Source" though they may have additional fields beyond these.
 
