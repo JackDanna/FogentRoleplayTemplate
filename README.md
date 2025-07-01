@@ -2323,18 +2323,80 @@ Characters will often stash or drop containers during combat as to not be in a h
 
 Sets a specified Attribute of a character to a new value. If the character's innate Attribute is greater than or equal to the new value, no change occurs.
 
-|      Name      |          Effect          |  Duration  | Source |
-| :------------: | :----------------------: | :--------: | ------ |
-| Super Strength | Strength set to level 4. | Indefinite |        |
-|  Super Reflex  |  Reflex set to level 4.  | Indefinite |        |
+|      Name      |       Description       |  Duration  | Source | Affected Attributes | Level |
+| :------------: | :----------------------: | :--------: | :----: | :-----------------: | :---: |
+| Super Strength | Strength set to level 4. | Indefinite | Innate |         STR         |   4   |
+|  Super Reflex  |  Reflex set to level 4.  | Indefinite | Innate |         RFX         |   4   |
 
 ## Set Skill Level Effect
 
 Sets a specified Skill/Vocation of a character to a new value. If the character's innate Skill/Vocation is greater than or equal to the new value, no change occurs.
 
-|       Name       |           Effect           |  Duration  | Source |
-| :--------------: | :------------------------: | :--------: | :----: |
-| Super Perception | Perception set to level 5. | Indefinite |        |
+|          Name          |         Description         |  Duration  | Source | Affected Skills | Level |
+| :---------------------: | :--------------------------: | :--------: | :----: | :-------------: | :---: |
+|  Apprentice Athletics  |  Athletics set to level 1.  | Indefinite | Innate |    Athletics    |   1   |
+|     Adept Athletics     |  Athletics set to level 2.  | Indefinite | Innate |    Athletics    |   2   |
+|    Expert Athletics    |  Athletics set to level 3.  | Indefinite | Innate |    Athletics    |   3   |
+|                        |                              |            |        |                |      |
+|  Apprentice Endurance  |  Endurance set to level 1.  | Indefinite | Innate |    Endurance    |   1   |
+|     Adept Endurance     |  Endurance set to level 2.  | Indefinite | Innate |    Endurance    |   2   |
+|    Expert Endurance    |  Endurance set to level 3.  | Indefinite | Innate |    Endurance    |   3   |
+|                        |                              |            |        |                |      |
+|     Apprentice Lift     |     Lift set to level 1.     | Indefinite | Innate |      Lift      |   1   |
+|       Adept Lift       |     Lift set to level 2.     | Indefinite | Innate |      Lift      |   2   |
+|       Expert Lift       |     Lift set to level 3.     | Indefinite | Innate |      Lift      |   3   |
+|                        |                              |            |        |                |      |
+|  Apprentice Dexterity  |  Dexterity set to level 1.  | Indefinite | Innate |    Dexterity    |   1   |
+|     Adept Dexterity     |  Dexterity set to level 2.  | Indefinite | Innate |    Dexterity    |   2   |
+|    Expert Dexterity    |  Dexterity set to level 3.  | Indefinite | Innate |    Dexterity    |   3   |
+|                        |                              |            |        |                |      |
+|  Apprentice Perception  |  Perception set to level 1.  | Indefinite | Innate |   Perception   |   1   |
+|    Adept Perception    |  Perception set to level 2.  | Indefinite | Innate |   Perception   |   2   |
+|    Expert Perception    |  Perception set to level 3.  | Indefinite | Innate |   Perception   |   3   |
+|                        |                              |            |        |                |      |
+|   Apprentice Stealth   |   Stealth set to level 1.   | Indefinite | Innate |     Stealth     |   1   |
+|      Adept Stealth      |   Stealth set to level 2.   | Indefinite | Innate |     Stealth     |   2   |
+|     Expert Stealth     |   Stealth set to level 3.   | Indefinite | Innate |     Stealth     |   3   |
+|                        |                              |            |        |                |      |
+|  Apprentice Knowledge  |  Knowledge set to level 1.  | Indefinite | Innate |    Knowledge    |   1   |
+|     Adept Knowledge     |  Knowledge set to level 2.  | Indefinite | Innate |    Knowledge    |   2   |
+|    Expert Knowledge    |  Knowledge set to level 3.  | Indefinite | Innate |    Knowledge    |   3   |
+|                        |                              |            |        |                |      |
+|    Apprentice Logic    |    Logic set to level 1.    | Indefinite | Innate |      Logic      |   1   |
+|       Adept Logic       |    Logic set to level 2.    | Indefinite | Innate |      Logic      |   2   |
+|      Expert Logic      |    Logic set to level 3.    | Indefinite | Innate |      Logic      |   3   |
+|                        |                              |            |        |                |      |
+|     Apprentice Will     |     Will set to level 1.     | Indefinite | Innate |      Will      |   1   |
+|       Adept Will       |     Will set to level 2.     | Indefinite | Innate |      Will      |   2   |
+|       Expert Will       |     Will set to level 3.     | Indefinite | Innate |      Will      |   3   |
+|                        |                              |            |        |                |      |
+|  Apprentice Deception  |  Deception set to level 1.  | Indefinite | Innate |    Deception    |   1   |
+|     Adept Deception     |  Deception set to level 2.  | Indefinite | Innate |    Deception    |   2   |
+|    Expert Deception    |  Deception set to level 3.  | Indefinite | Innate |    Deception    |   3   |
+|                        |                              |            |        |                |      |
+| Apprentice Intimidation | Intimidation set to level 1. | Indefinite | Innate |  Intimidation  |   1   |
+|   Adept Intimidation   | Intimidation set to level 2. | Indefinite | Innate |  Intimidation  |   2   |
+|   Expert Intimidation   | Intimidation set to level 3. | Indefinite | Innate |  Intimidation  |   3   |
+|                        |                              |            |        |                |      |
+|  Apprentice Persuasion  |  Persuasion set to level 1.  | Indefinite | Innate |   Persuasion   |   1   |
+|    Adept Persuasion    |  Persuasion set to level 2.  | Indefinite | Innate |   Persuasion   |   2   |
+|    Expert Persuasion    |  Persuasion set to level 3.  | Indefinite | Innate |   Persuasion   |   3   |
+
+## Adjusted Attribute Level Effect
+
+For a specified Attribute, a Character receives an adjustment to it's level. The resulting level can not go outside the upper and lower bounds for a Attribute.
+
+|     Name     |   Description   |  Duration  | Source | Affected Attributes | Level Adjustment |
+| :----------: | :--------------: | :--------: | :----: | :-----------------: | :--------------: |
+| Enhanced STR | +1 to STR level. | Indefinite | Innate |         STR         |        1        |
+
+## Adjusted Skill Level Effect
+
+For a specified Skill/Vocation, a Character receives an adjustment to it's level. The resulting level can not go outside the upper and lower bounds for a Skill/Vocation.
+
+|           Name           |    Description    |  Duration  | Source | Affected Skills | Level Adjustment |
+| :----------------------: | :---------------: | :--------: | :----: | :--------------: | :--------------: |
+| Lift Level +1 Adjustment | +1 to Lift level. | Indefinite | Innate | Lift, Perception |        1        |
 
 ## Skill Base Dice Effect
 
@@ -2410,22 +2472,6 @@ Adds or subtracts dice for specific skill or vocation dice pools.
 |  Greatly Enhanced Persuasion  |  +3d6 to Persuasion Dice Pool.  | Indefinite | Innate |        +3d6        |     Persuasion     |
 |                              |                                |            |        |                    |                    |
 | Minorly Enhanced Medium Melee | +1d6 to Medium Sword Dice Pool. | Indefinite | Innate |        +1d6        |    Medium Melee    |
-
-## Adjusted Attribute Level Effect
-
-For a specified Attribute, a Character receives an adjustment to it's level. The resulting level can not go outside the upper and lower bounds for a Attribute.
-
-|     Name     |   Description   |  Duration  | Source | Affected Attributes | Level Adjustment |
-| :----------: | :--------------: | :--------: | :----: | :-----------------: | :--------------: |
-| Enhanced STR | +1 to STR level. | Indefinite | Innate |         STR         |        1        |
-
-## Adjusted Skill Level Effect
-
-For a specified Skill/Vocation, a Character receives an adjustment to it's level. The resulting level can not go outside the upper and lower bounds for a Skill/Vocation.
-
-|           Name           |    Description    |  Duration  | Source | Affected Skills | Level Adjustment |
-| :----------------------: | :---------------: | :--------: | :----: | :--------------: | :--------------: |
-| Lift Level +1 Adjustment | +1 to Lift level. | Indefinite | Innate | Lift, Perception |        1        |
 
 ## Narrative Effect
 
