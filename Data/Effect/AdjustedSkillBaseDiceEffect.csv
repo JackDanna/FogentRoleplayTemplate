@@ -1,2 +1,2 @@
-name,description,duration,source,affectedDicePools,adjustment
-Terracraft +3 Adjusted Skill Base Dice,Adjust the Base Dice for Terracraft by +3.,Indefinite,Innate,Terracraft,3
+name,description,duration,source,affectedSkills,tierAdjustment
+Athletics +3 Adjusted Skill Base Dice,Adjust the Base Dice tier for Athletics by +3.,Indefinite,Innate,Terracraft,+3
