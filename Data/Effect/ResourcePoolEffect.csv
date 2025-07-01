@@ -30,7 +30,6 @@ Mana Pool,Resource Pool for magic.,Innate,Indefinite,Mana,10,Mana Resource Pool 
 ,,,,,,,
 Resource Pool: Thrown Slash Close Melee,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Slash Close Melee,1,None,TRUE
 ,,,,,,,
-Resource Pool: Thrown Pierce Close Melee -1,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Pierce Close Melee -1,1,None,TRUE
 Resource Pool: Thrown Pierce Close Melee,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Pierce Close Melee,1,None,TRUE
 Resource Pool: Thrown Pierce Close Melee +3,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Pierce Close Melee +3,1,None,TRUE
 Resource Pool: Thrown Pierce Close Melee +5,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Pierce Close Melee +5,1,None,TRUE
@@ -89,6 +88,9 @@ Resource Pool: Buckshot 12 Gauge Shells,Ammunition for Combat Rolls.,Indefinite,
 ,,,,,,,
 Resource Pool: Explosive RPG Rounds,Ammunition for Combat Rolls.,Indefinite,Innate,Explosive RPG Round,20,None,TRUE
 ,,,,,,,
+,,,,,,,
+,,,,,,,
+Resource Pool: Thrown Pierce Close Melee -1,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Pierce Close Melee -1,1,None,TRUE
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,
