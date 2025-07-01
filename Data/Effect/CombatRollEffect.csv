@@ -19,9 +19,6 @@ Dual-wielded Pierce Close Melee -1,"Small warpick, daggers, shortswords, claws, 
 One-handed Bludgeon Close Melee,"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",Innate,Indefinite,One-handed,Bludgeon Close Melee,None,-1,+0d6,2,Melee,Swift,None,Bludgeon,Close Melee
 Dual-wielded Bludgeon Close Melee,"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",Innate,Indefinite,Dual-wielded,Bludgeon Close Melee,None,-1,+1d6,2,Melee,Swift +1,None,Bludgeon,Close Melee
 ,,,,,,,,,,,,,,
-One-handed Bludgeon Close Melee +1,"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",Innate,Indefinite,One-handed,Bludgeon Close Melee +1,None,+0,+0d6,2,Melee,Swift,None,Bludgeon,Close Melee
-Dual-wielded Bludgeon Close Melee +1,"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",Innate,Indefinite,Dual-wielded,Bludgeon Close Melee +1,None,+0,+1d6,2,Melee,Swift +1,None,Bludgeon,Close Melee
-,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 One-handed Hew Medium Melee,"Battleaxes, large creature claws, ect...",Innate,Indefinite,One-handed,Hew Medium Melee,None,+1,+1d6,1,Melee,Swift,None,Hew,Medium Melee
 Two-handed Hew Medium Melee,"Battleaxes, large creature claws, ect...",Innate,Indefinite,Two-handed,Hew Medium Melee,None,+1,+2d6,1,Melee,Swift,None,Hew,Medium Melee
@@ -215,6 +212,9 @@ Dual-wielded Pierce Close Melee +1,"Small warpick, daggers, shortswords, claws, 
 Dual-wielded Pierce Close Melee +3,"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,Dual-wielded,Pierce Close Melee,None,+3,+1d6,0,Melee,Swift +1,None,Pierce,Close Melee
 Dual-wielded Pierce Close Melee +5,"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,Dual-wielded,Pierce Close Melee,None,+5,+1d6,0,Melee,Swift +1,None,Pierce,Close Melee
 Dual-wielded Pierce Close Melee +9,"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,Dual-wielded,Pierce Close Melee,None,+9,+1d6,0,Melee,Swift +1,None,Pierce,Close Melee
+,,,,,,,,,,,,,,
+One-handed Bludgeon Close Melee +1,"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",Innate,Indefinite,One-handed,Bludgeon Close Melee +1,None,+0,+0d6,2,Melee,Swift,None,Bludgeon,Close Melee
+Dual-wielded Bludgeon Close Melee +1,"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",Innate,Indefinite,Dual-wielded,Bludgeon Close Melee +1,None,+0,+1d6,2,Melee,Swift +1,None,Bludgeon,Close Melee
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
