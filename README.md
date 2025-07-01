@@ -967,7 +967,7 @@ A character can wear two pieces of armor on the same body part, such as wearing 
 
 ### Shields
 
-Shields generally takes up one of the character's hands when in use. Characters not actively using their shield do not benefit from the additional defense. Characters that are Off Guard or being attacked while unaware also do not benefit from the shield's defense.
+Shields generally takes up one of the character's hands when in use. Characters not actively using their shield do not benefit from the additional defense.
 
 ### What to do about attacks with Multiple damage types
 
