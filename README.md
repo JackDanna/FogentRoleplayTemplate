@@ -2317,17 +2317,7 @@ When representing the contents of a container on a character sheet, a similar ta
 | Ring, Mundane | 1 |                    | 0.2 | 30 cc |             |
 | Copper Coin   | 70 |                    | 0.02 | 1 cc |             |
 
-Characters will often stash or drop containers during combat as to not be in a heavier Weight Class. This is perfectly acceptable, but it is within the Narrators right to treat these items as fair game to be swiped by the enemy if an opportunity arises, however this might effect their Weight Class as well. Character's wishing to avoid a having their loot stolen can keep it on their backs, by a mount to stash it on, increase their equipment weight, etc...
-
-When representing a container on a character sheet, a similar table as the one below is used.
-
-**Backpack - 30 lb container:**
-
-| Name          | # |       Effect       |  LB  | Value | Description |
-| ------------- | :-: | :----------------: | :--: | :---: | ----------- |
-| Blowgun       | 1 | One-handed Blowgun |  1  | 10 sc |             |
-| Ring, Mundane | 1 |                    | 0.2 | 30 cc |             |
-| Copper Coin   | 70 |                    | 0.02 | 1 cc |             |
+Characters will often stash or drop containers during combat as to not be in a heavier Weight Class. This is perfectly acceptable, but it is within the Narrators right to treat these items as fair game to be swiped by the enemy if an opportunity arises, however this might effect their Weight Class as well. Character's wishing to avoid a having their loot stolen can keep it on their backs, by a mount to stash it on, increase their ability to carry heavier equipment, etc...
 
 ## Set Attribute Level Effect
 
