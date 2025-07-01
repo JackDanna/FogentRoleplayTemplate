@@ -978,15 +978,15 @@ In the rare case were a character is having to defend from an injury coming from
 
 ## Resource Pool Max Calculation
 
-A Resource Pool Max Calculation is used to represent the maximum amount of Resource a resource can hold based of the following calculation.
-
-Governing Vocation Resource Pool Max Result = (Vocation Level) * (Vocation Dice Pool Size)
-
-- If the Vocation's level is 0 then use 0.5 for the "(Vocation Level)" variable in the calculation above and round down to the nearest whole number.
+A Resource Pool Max Calculation can be used to determine the maximum amount a Resource Pool can hold.
 
 Governing Skill Resource Pool Max Result = ( (Skill Level) * (Skill Dice Pool Size) ) / 2, rounded down to the nearest whole number
 
 - If the Skill's level is 0 or below, then use 0.5 for the "(Skill Level)" variable in the above calculation and round down to the nearest whole number.
+
+Governing Vocation Resource Pool Max Result = (Vocation Level) * (Vocation Dice Pool Size)
+
+- If the Vocation's level is 0 then use 0.5 for the "(Vocation Level)" variable in the calculation above and round down to the nearest whole number.
 
 Resource Pool Max Calculation Result = (Base Amount) + (Governing Vocation Resource Pool Max Result) + (Governing Skill Resource Pool Max Result)
 
