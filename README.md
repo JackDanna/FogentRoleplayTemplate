@@ -1685,6 +1685,163 @@ Characters can be susceptible to certain sources of damage.
 |  Weakness: Serious Spiritual  |  +3 to the level of injury received from Spiritual.  | Indefinite | Innate |
 |   Weakness: Fatal Spiritual   |  +4 to the level of injury received from Spiritual.  | Indefinite | Innate |
 
+## Evasion Roll
+
+When a Combat Roll is made against a character who is not capable of making an opposing Combat Roll, such as melee combatant being shot at from far away, the defender can make a reflexive Evasion Roll vs the attacker's Combat Roll.
+
+An Evasion Roll will use the Dice Pool of the Skill which represents reflexive dodging, which is generally "Dexterity". Evasion Roll's can be assisted, often by "Athletics", as faster top speeds can aid in being harder to hit.
+
+Any levels over the defender's Evasion Roll wins count as Victory Levels for the attacker. The only victory level outcome a Evasion Roll can achieve is exiting a grapple.
+
+## Combat Rounds
+
+Combat is run in a Round-by-Round format. A Combat Round covers a brief period of time, which can be thought of roughly 10 seconds of in game time.
+
+All the actions taken by charactes are considered to be happening simultaneously within the time narratively represented by the Combat Round.
+
+To make sense of this potential chaos, first a Turn Order is determined which will last for the entire Combat. Then, for each Combat Round will be seperated into a Declaration Phase and an Action Phase.
+
+### Turn Order
+
+Turn Order is established based on which character has the highest RFX level. If multiple characters have the same RFX level, the character with the largest Dexterity Dice Pool has a higher Turn Order. If multiple characters have the same Dexterity Dice Pool size, than the character with the most Wins as a result of their Dexterity Dice Pool has a higher Turn Order.
+
+### Declaration Phase
+
+Starting from the bottom of Turn Order, characters declare what they are doing during the Combat Round.
+
+Once a character has declared what actions they are performing during their Declaration Phase, they are locked into performing that action in this Combat Round.
+
+Before higher Turn Order characters declare they are able to listen to the declarations of lower Turn Order characters. This allows higher Turn Order characters to declare actions that will either counter or complement the declared actions of lower Turn Order characters.
+
+That might seem odd as you could think characters with higher Turn Order should get to act first, but this is the Declaration Phase, no actions have happened yet. Players who declare LATER hold the upper hand in combat. This means that characters with the highest Turn Order can react to what their opponents/allies are going to do.
+
+#### Standard Combat Actions
+
+Within a Combat Round a character can declare all of the following actions within a single round which don't require approval from the Narrator:
+
+- Perform a Combat Roll
+- Perform an Evasion Roll
+- Use Movement Speeds to move around the battefield
+
+#### Non-Standard Combat Actions
+
+Additionally, a character can declare actions as part of a Combat Round not explicitley covered by the Standard Combat Actions. These actions often time require a Skill Check mid combat to determine if they succeeded. Whether these Non-Standard Combat Actions are able to be performed within the time confines of a Combat Round and in addition to the other actions the character might be declaring it up to the Narrator. Often, the Narrator can allow these action to be attempted but can give some penalty to the Combat Roll's Uses Per Round or to Movement Speed to reflect how valuable time is being lost.
+
+Examples:
+
+- Holding a door closed (Requires a contested Lift Check)
+- Briefly shouting out an importaint piece of information (No addtional check or penalty)
+- Quickly switching between weapons (Requires a Dexterity Check)
+- Casting a spell that provides magic armor (Requires a Magic Skill check)
+
+#### Action Phase
+
+Once all characters have declared their actions, start with the actions of the highest Turn Order character. Then work down the Turn Order until everyone's declared action have be delt with.
+
+Though actions are happpening simultaneously within a Combat Round, it's sometimes important to know which attack/actions happens before another, or who managed to perform their action a little bit faster than another. In these situations, characters with a higher Turn Order will always act first.
+
+At the beginning of the Action Phase, all players can roll their Dice Pools for the actions they expect to take that round, such as Combat Rolls. This is to help things combat move efficiently.
+
+Rolled Combat Rolls and Evasion Rolls made during a round are considered Standing Dice Pools for the entire Combat Round. This is to remember how many Wins a characters Combat Roll or Evasion Roll got incase they are using them against multiple sourceses. This is also incase a character loses dice due to injury or if they gain Disadvantage/Advantage during the Combat Round, which will affect an already rolled Dice Pool. If your character gains Disadvantage or Advantage after they've' already rolled their Combat Roll Dice Pool that Combat Round, you will retroactively apply said Disadvantage/Advantage to your those Dice Pools. This could turn some dice that were wins into fails and vice versa.
+
+## Movement Speed Effect
+
+Movement Speed is used in Combat Rounds to determine how far a character can move.
+
+Governing Skill And Movement Speed Per Dice Pair Result = (Size of Governing Dice Pool) * (Movement Speed Per Dice)
+
+Movement Speed = (Movement Speed Base) + (#1 Governing Skill And Movement Speed Per Dice Pair Result) + (#2 Governing Skill And Movement Speed Per Dice Pair Result) + ect...
+
+**Movement Speed Base:** The base amount of Movement Speed for the Movement Speed Calculation.
+
+**Governing Skill And Movement Speed Per Dice Pairs:** Represents pairs of a Governing Skill and the amount of Movement Speed gained per the size of the Governing Skill's Dice Pool.
+
+|            Name            |                      Description                      |  Duration  | Source | Movement Speed Base | Governing Skill And Movement Speed Per Dice Pairs |
+| :-------------------------: | :----------------------------------------------------: | :--------: | :----: | :-----------------: | :-----------------------------------------------: |
+| Movement Speed: Terrestrial | +2.5 ft per Dexterity Dice, +7.5 ft per Athletics Dice | Indefinite | Innate |          0          |         (Dexterity,2.5), (Athletics,7.5)         |
+|    Movement Speed: Swim    |  +2.5 ft per Dexterity Dice, +5 ft per Athletics Dice  | Indefinite | Innate |          0          |          (Dexterity,2.5), (Athletics,5)          |
+|    Movement Speed: Climb    |  +2.5 ft per Dexterity Dice, +5 ft per Athletics Dice  | Indefinite | Innate |          0          |          (Dexterity,2.5), (Athletics,5)          |
+|   Movement Speed: Flight   |  +5 ft per Dexterity Dice, +10 ft per Athletics Dice  | Indefinite | Innate |          0          |           (Dexterity,5), (Athletics,10)           |
+|   Movement Speed: Aquatic   | +2.5 ft per Dexterity Dice, +7.5 ft per Athletics Dice | Indefinite | Innate |          0          |         (Dexterity,2.5), (Athletics,7.5)         |
+
+### Difficult Terrain
+
+Steep mountains, ice-covered ground, swamps, etc. are difficult terrain. It takes twice the movement to move through these terrains.
+
+### Dexterity Movement Speed
+
+Dexterity Movement Speed is the initial portion of a character's movement and represents how quick they are to get into motion and act.
+
+This can allow them to disengage from opponents, slip behind a door before it closes, avoid an Area Of Effect they are about to be caught in, close the distance to an opponent, ect...
+
+While lower Dexterity Movement Speed characters are deciding what to do, high Dexterity Movement Speed characters are already in motion.
+
+Dexterity Movement Speed can be used to resolve circumstances when it is unclear which character moved first or closed some distance. Dexterity Movement Speed is used first on a character's turn, with lower Dexterity Movement Speed characters considered to have not moved/acted yet.
+
+**Example 1:**
+
+A Rogue with a dagger is trying to close the distance on an archer who is 5 feet away.
+
+Their respective Dexterity Movement Speeds are 15 ft for the Rogue and 10 ft for the Archer.
+
+The Archer declares he is going to shoot the Rogue with his bow as he uses his Movement Speed to stay out of range of the knife.
+
+The rogue declares he is going to close the distance, attack with the knife, and stay on the archer. If the Rogue pulls this off, it will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks.
+
+Since the Rogue has 5 ft more Dexterity Movement Speed, he can move those 5 feet before the archer can lose the arrow, closing the distance. Now they will make combat rolls versus one another, with the Archer being at a clear disadvantage.
+
+The Archer, now likely wounded from the Rogue's knife, tries to use the rest of his Movement Speed to stay out of range from the Rogue's knife. Assuming the Rogue has the same or greater remaining movement speed as the Archer, the Rogue stays on the Archer and the gap is 0 feet, ready to stab him again next round.
+
+**Example 2:**
+
+A Rogue with a dagger is trying to close the distance on an Archer who is 15 feet away.
+
+Their respective Dexterity Movement Speeds are 15 ft for the Rogue and 10 ft for the Archer.
+
+The Archer declares he is going to shoot the Rogue with his bow as he uses his Movement Speed to stay out of range of the knife.
+
+The Rogue declares he is going to close the distance, attack with his knife, and stay close to the Archer. If the Rogue pulls this off, it will be disadvantageous for the Archer since melee versus ranged combat in close quarters favors melee attacks.
+
+Since the Rogue has 5 ft more Dexterity Movement Speed, he can move those 5 feet before the archer can lose the arrow, closing the distance. With 10 feet between the Rogue and the Archer, the arrow is shot. The Rogue must now try and dodge the arrow, before he can attack, possibly proving fatal.
+
+The Archer is then able to flee backward. Assuming he has the same or greater remaining movement speed than the possibly injured Rogue, the Archer can keep the 10 feet of distance between him and the rogue, never getting stabbed.
+
+**Example 3:**
+
+A Rogue with a dagger is trying to close the distance on an Knight who is 5 feet away standing in some slippery mud. The Knight is right on the edge of the mud pool, and the Rogue realizes if he can attack the Knight while he's standing in the mud, he has a better chance of defeating him.
+
+Their respective Dexterity Movement Speeds are 10 feet for the Rogue and 5 feet for the Knight.
+
+The Knight declares he is going to move forward out of the mud and swing on the Rogue with his longsword.
+
+The Rogue declares he is going to close the distance before the Knight moves out of the mud and try to stab the Knight.
+
+Since the Rogue has a higher Dexterity Movement Speeds, he can move 5 feet with his Dexterity Movement Speed before the Knight can move, closing the gap.
+
+Since the Knight already had his sword ready to go, combat rolls will be made, but the Knight will do so while having to deal with the disadvantageous position being in slippery mud.
+
+### Athletics Movement Speed
+
+Athletics Movement Speed is the second portion of a character's movement and represents how fast they are once at there top speed.
+
+Athletics Movement Speed should always make up a far greater amount of your Total Movement Speed as compared to Dexterity Movement Speed. Even though characters with higher Dexterity Movement Speed might be quicker to initially move, there is nothing prevent a high Athletics Movement Speed character from running them down.
+
+Unlike Dexterity Speed, were the character with the greater speed can move before the other character, for Athletics Movement Speed both characters start moving at the same time.
+
+### Total Movement Speed
+
+Total Movement Speed is the combination of a character's Dexterity and Athletics Movement Speeds for a entire round. Therefore, a character can use both there Dexterity Movement Speed and Athletics Movement Speed during a round.
+
+### Using multiple Movement Speeds on the same round
+
+Whenever a character needs to use multiple movement speeds in a round, calculate what percentage of their movement they've used that round for their initial movement, with the remainder percent being used for another movement speed.
+
+For example, if a character has 30 feet of "Terrestrial" and 15 feet of "Climb Combat Speed". The character walks 15 feet up to a climbable rock face. They've used 50% (15/30 = 0.5) of their movement speed, leaving them 50% of their climb combat speed. 50% of 15 feet is 7.5 feet. Therefore the character can climb 7.5 feet up the rock face.
+
+### Mounted Movement Speed
+
+The rider's Dexterity dice pool size is used for the mounts Dexterity Movement Speed calculation. Additionally, when a mounted character or their mount takes an injury in combat, a Dexterity or Riding skill check equivalent to the injury level must be succeeded to stay on horseback, or else they are knocked off.
+
 ## Healing Effects
 
 Since Injuries work on a narrative severity scale, so does the healing that can be performed. These could come from Magic or science-based medicine.
@@ -2276,104 +2433,6 @@ When representing a container on a character sheet, a similar table as the one b
 | Ring, Mundane | 1 |                    | 0.2 | 30 cc |             |
 | Copper Coin   | 70 |                    | 0.02 | 1 cc |             |
 
-## Movement Speed Effect
-
-Movement Speed is used in Combat Rounds to determine how far a character can move.
-
-Governing Skill And Movement Speed Per Dice Pair Result = (Size of Governing Dice Pool) * (Movement Speed Per Dice)
-
-Movement Speed = (Movement Speed Base) + (#1 Governing Skill And Movement Speed Per Dice Pair Result) + (#2 Governing Skill And Movement Speed Per Dice Pair Result) + ect...
-
-**Movement Speed Base:** The base amount of Movement Speed for the Movement Speed Calculation.
-
-**Governing Skill And Movement Speed Per Dice Pairs:** Represents pairs of a Governing Skill and the amount of Movement Speed gained per the size of the Governing Skill's Dice Pool.
-
-|            Name            |                      Description                      |  Duration  | Source | Movement Speed Base | Governing Skill And Movement Speed Per Dice Pairs |
-| :-------------------------: | :----------------------------------------------------: | :--------: | :----: | :-----------------: | :-----------------------------------------------: |
-| Movement Speed: Terrestrial | +2.5 ft per Dexterity Dice, +7.5 ft per Athletics Dice | Indefinite | Innate |          0          |         (Dexterity,2.5), (Athletics,7.5)         |
-|    Movement Speed: Swim    |  +2.5 ft per Dexterity Dice, +5 ft per Athletics Dice  | Indefinite | Innate |          0          |          (Dexterity,2.5), (Athletics,5)          |
-|    Movement Speed: Climb    |  +2.5 ft per Dexterity Dice, +5 ft per Athletics Dice  | Indefinite | Innate |          0          |          (Dexterity,2.5), (Athletics,5)          |
-|   Movement Speed: Flight   |  +5 ft per Dexterity Dice, +10 ft per Athletics Dice  | Indefinite | Innate |          0          |           (Dexterity,5), (Athletics,10)           |
-|   Movement Speed: Aquatic   | +2.5 ft per Dexterity Dice, +7.5 ft per Athletics Dice | Indefinite | Innate |          0          |         (Dexterity,2.5), (Athletics,7.5)         |
-
-### Difficult Terrain
-
-Steep mountains, ice-covered ground, swamps, etc. are difficult terrain. It takes twice the movement to move through these terrains.
-
-### Dexterity Movement Speed
-
-Dexterity Movement Speed is the initial portion of a character's movement and represents how quick they are to get into motion and act.
-
-This can allow them to disengage from opponents, slip behind a door before it closes, avoid an Area Of Effect they are about to be caught in, close the distance to an opponent, ect...
-
-While lower Dexterity Movement Speed characters are deciding what to do, high Dexterity Movement Speed characters are already in motion.
-
-Dexterity Movement Speed can be used to resolve circumstances when it is unclear which character moved first or closed some distance. Dexterity Movement Speed is used first on a character's turn, with lower Dexterity Movement Speed characters considered to have not moved/acted yet.
-
-**Example 1:**
-
-A Rogue with a dagger is trying to close the distance on an archer who is 5 feet away.
-
-Their respective Dexterity Movement Speeds are 15 ft for the Rogue and 10 ft for the Archer.
-
-The Archer declares he is going to shoot the Rogue with his bow as he uses his Movement Speed to stay out of range of the knife.
-
-The rogue declares he is going to close the distance, attack with the knife, and stay on the archer. If the Rogue pulls this off, it will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks.
-
-Since the Rogue has 5 ft more Dexterity Movement Speed, he can move those 5 feet before the archer can lose the arrow, closing the distance. Now they will make combat rolls versus one another, with the Archer being at a clear disadvantage.
-
-The Archer, now likely wounded from the Rogue's knife, tries to use the rest of his Movement Speed to stay out of range from the Rogue's knife. Assuming the Rogue has the same or greater remaining movement speed as the Archer, the Rogue stays on the Archer and the gap is 0 feet, ready to stab him again next round.
-
-**Example 2:**
-
-A Rogue with a dagger is trying to close the distance on an Archer who is 15 feet away.
-
-Their respective Dexterity Movement Speeds are 15 ft for the Rogue and 10 ft for the Archer.
-
-The Archer declares he is going to shoot the Rogue with his bow as he uses his Movement Speed to stay out of range of the knife.
-
-The Rogue declares he is going to close the distance, attack with his knife, and stay close to the Archer. If the Rogue pulls this off, it will be disadvantageous for the Archer since melee versus ranged combat in close quarters favors melee attacks.
-
-Since the Rogue has 5 ft more Dexterity Movement Speed, he can move those 5 feet before the archer can lose the arrow, closing the distance. With 10 feet between the Rogue and the Archer, the arrow is shot. The Rogue must now try and dodge the arrow, before he can attack, possibly proving fatal.
-
-The Archer is then able to flee backward. Assuming he has the same or greater remaining movement speed than the possibly injured Rogue, the Archer can keep the 10 feet of distance between him and the rogue, never getting stabbed.
-
-**Example 3:**
-
-A Rogue with a dagger is trying to close the distance on an Knight who is 5 feet away standing in some slippery mud. The Knight is right on the edge of the mud pool, and the Rogue realizes if he can attack the Knight while he's standing in the mud, he has a better chance of defeating him.
-
-Their respective Dexterity Movement Speeds are 10 feet for the Rogue and 5 feet for the Knight.
-
-The Knight declares he is going to move forward out of the mud and swing on the Rogue with his longsword.
-
-The Rogue declares he is going to close the distance before the Knight moves out of the mud and try to stab the Knight.
-
-Since the Rogue has a higher Dexterity Movement Speeds, he can move 5 feet with his Dexterity Movement Speed before the Knight can move, closing the gap.
-
-Since the Knight already had his sword ready to go, combat rolls will be made, but the Knight will do so while having to deal with the disadvantageous position being in slippery mud.
-
-### Athletics Movement Speed
-
-Athletics Movement Speed is the second portion of a character's movement and represents how fast they are once at there top speed.
-
-Athletics Movement Speed should always make up a far greater amount of your Total Movement Speed as compared to Dexterity Movement Speed. Even though characters with higher Dexterity Movement Speed might be quicker to initially move, there is nothing prevent a high Athletics Movement Speed character from running them down.
-
-Unlike Dexterity Speed, were the character with the greater speed can move before the other character, for Athletics Movement Speed both characters start moving at the same time.
-
-### Total Movement Speed
-
-Total Movement Speed is the combination of a character's Dexterity and Athletics Movement Speeds for a entire round. Therefore, a character can use both there Dexterity Movement Speed and Athletics Movement Speed during a round.
-
-### Using multiple Movement Speeds on the same round
-
-Whenever a character needs to use multiple movement speeds in a round, calculate what percentage of their movement they've used that round for their initial movement, with the remainder percent being used for another movement speed.
-
-For example, if a character has 30 feet of "Terrestrial" and 15 feet of "Climb Combat Speed". The character walks 15 feet up to a climbable rock face. They've used 50% (15/30 = 0.5) of their movement speed, leaving them 50% of their climb combat speed. 50% of 15 feet is 7.5 feet. Therefore the character can climb 7.5 feet up the rock face.
-
-### Mounted Movement Speed
-
-The rider's Dexterity dice pool size is used for the mounts Dexterity Movement Speed calculation. Additionally, when a mounted character or their mount takes an injury in combat, a Dexterity or Riding skill check equivalent to the injury level must be succeeded to stay on horseback, or else they are knocked off.
-
 ## Set Attribute Level Effect
 
 Sets a specified Attribute of a character to a new value. If the character's innate Attribute is greater than or equal to the new value, no change occurs.
@@ -2539,65 +2598,6 @@ For a specified Skill/Vocation, a Character receives an adjustment to it's level
 |           Name           |    Description    |  Duration  | Source | Affected Skills | Level Adjustment |
 | :----------------------: | :---------------: | :--------: | :----: | :--------------: | :--------------: |
 | Lift Level +1 Adjustment | +1 to Lift level. | Indefinite | Innate | Lift, Perception |        1        |
-
-## Evasion Roll
-
-When a Combat Roll is made against a character who is not capable of making an opposing Combat Roll, such as melee combatant being shot at from far away, the defender can make a reflexive Evasion Roll vs the attacker's Combat Roll.
-
-An Evasion Roll will use the Dice Pool of the Skill which represents reflexive dodging, which is generally "Dexterity". Evasion Roll's can be assisted, often by "Athletics", as faster top speeds can aid in being harder to hit.
-
-Any levels over the defender's Evasion Roll wins count as Victory Levels for the attacker. The only victory level outcome a Evasion Roll can achieve is exiting a grapple.
-
-## Combat Rounds
-
-Combat is run in a Round-by-Round format. A Combat Round covers a brief period of time, which can be thought of roughly 10 seconds of in game time.
-
-All the actions taken by charactes are considered to be happening simultaneously within the time narratively represented by the Combat Round.
-
-To make sense of this potential chaos, first a Turn Order is determined which will last for the entire Combat. Then, for each Combat Round will be seperated into a Declaration Phase and an Action Phase.
-
-### Turn Order
-
-Turn Order is established based on which character has the highest RFX level. If multiple characters have the same RFX level, the character with the largest Dexterity Dice Pool has a higher Turn Order. If multiple characters have the same Dexterity Dice Pool size, than the character with the most Wins as a result of their Dexterity Dice Pool has a higher Turn Order.
-
-### Declaration Phase
-
-Starting from the bottom of Turn Order, characters declare what they are doing during the Combat Round.
-
-Once a character has declared what actions they are performing during their Declaration Phase, they are locked into performing that action in this Combat Round.
-
-Before higher Turn Order characters declare they are able to listen to the declarations of lower Turn Order characters. This allows higher Turn Order characters to declare actions that will either counter or complement the declared actions of lower Turn Order characters.
-
-That might seem odd as you could think characters with higher Turn Order should get to act first, but this is the Declaration Phase, no actions have happened yet. Players who declare LATER hold the upper hand in combat. This means that characters with the highest Turn Order can react to what their opponents/allies are going to do.
-
-#### Standard Combat Actions
-
-Within a Combat Round a character can declare all of the following actions within a single round which don't require approval from the Narrator:
-
-- Perform a Combat Roll
-- Perform an Evasion Roll
-- Use Movement Speeds to move around the battefield
-
-#### Non-Standard Combat Actions
-
-Additionally, a character can declare actions as part of a Combat Round not explicitley covered by the Standard Combat Actions. These actions often time require a Skill Check mid combat to determine if they succeeded. Whether these Non-Standard Combat Actions are able to be performed within the time confines of a Combat Round and in addition to the other actions the character might be declaring it up to the Narrator. Often, the Narrator can allow these action to be attempted but can give some penalty to the Combat Roll's Uses Per Round or to Movement Speed to reflect how valuable time is being lost.
-
-Examples:
-
-- Holding a door closed (Requires a contested Lift Check)
-- Briefly shouting out an importaint piece of information (No addtional check or penalty)
-- Quickly switching between weapons (Requires a Dexterity Check)
-- Casting a spell that provides magic armor (Requires a Magic Skill check)
-
-#### Action Phase
-
-Once all characters have declared their actions, start with the actions of the highest Turn Order character. Then work down the Turn Order until everyone's declared action have be delt with.
-
-Though actions are happpening simultaneously within a Combat Round, it's sometimes important to know which attack/actions happens before another, or who managed to perform their action a little bit faster than another. In these situations, characters with a higher Turn Order will always act first.
-
-At the beginning of the Action Phase, all players can roll their Dice Pools for the actions they expect to take that round, such as Combat Rolls. This is to help things combat move efficiently.
-
-Rolled Combat Rolls and Evasion Rolls made during a round are considered Standing Dice Pools for the entire Combat Round. This is to remember how many Wins a characters Combat Roll or Evasion Roll got incase they are using them against multiple sourceses. This is also incase a character loses dice due to injury or if they gain Disadvantage/Advantage during the Combat Round, which will affect an already rolled Dice Pool. If your character gains Disadvantage or Advantage after they've' already rolled their Combat Roll Dice Pool that Combat Round, you will retroactively apply said Disadvantage/Advantage to your those Dice Pools. This could turn some dice that were wins into fails and vice versa.
 
 # Magic Rules
 
