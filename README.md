@@ -2396,7 +2396,7 @@ For a specified Attribute, a Character receives an adjustment to it's level. The
 
 **Affected Attributes:** The Attributes that are effected.
 
-**Level Adjustment:** The Level the Attributes are going to be set to.
+**Level Adjustment:** The adjustment to the level of the Attributes.
 
 |     Name     |   Description   |  Duration  | Source | Affected Attributes | Level Adjustment |
 | :----------: | :--------------: | :--------: | :----: | :-----------------: | :--------------: |
@@ -2408,7 +2408,7 @@ For a specified Skill/Vocation, a Character receives an adjustment to it's level
 
 **Affected Skills:** The Skills/Vocations that are effected.
 
-**Level Adjustment:** The Level the Skills/Vocations are going to be set to.
+**Level Adjustment:** The adjustment to the level of the Skills/Vocations.
 
 |           Name           |    Description    |  Duration  | Source | Affected Skills | Level Adjustment |
 | :----------------------: | :---------------: | :--------: | :----: | :--------------: | :--------------: |
@@ -2416,7 +2416,11 @@ For a specified Skill/Vocation, a Character receives an adjustment to it's level
 
 ## Adjusted Skill Base Dice Effect
 
-Adjusts the base dice of a specific skill or vocation dice pools.
+Adjusts the tier of the base dice of a specified Skills/Vocations Dice Pools.
+
+**Affected Skills:** The Skills/Vocations that are effected.
+
+**Tier Adjustment:** The adjustment to the tier of the Base Dice for the Skills/Vocations.
 
 |                 Name                 |                  Description                  |  Duration  | Source | Affected Skills | Tier Adjustment |
 | :-----------------------------------: | :--------------------------------------------: | :--------: | :----: | :-------------: | :-------------: |
