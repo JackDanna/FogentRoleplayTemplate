@@ -2429,6 +2429,10 @@ For instance, if a Mundane Fire Magic Spellcasting Focus is used, all uses of th
 
 Adjusts the base dice of a specific skill or vocation dice pools.
 
+|                 Name                 |                  Description                  |  Duration  | Source | Affected Skills | Tier Adjustment |
+| :-----------------------------------: | :--------------------------------------------: | :--------: | :----: | :-------------: | :-------------: |
+| Athletics +3 Adjusted Skill Base Dice | Adjust the Base Dice tier for Athletics by +3. | Indefinite | Innate |    Athletics    |       +3       |
+
 ## Dice Pool Dice Mod Effect
 
 Adds or subtracts dice for specific skill or vocation dice pools.
