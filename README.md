@@ -1055,7 +1055,7 @@ Resource Pool Max Calculation Result = (Base Amount) + (Governing Vocation Resou
 
 ## Resource Pool Effect
 
-Represents a pool of resources a character can use, and can represent whatever a the Narrator desires. Examples include a pool of mana for powering magic, ammo for weapon, Destiny Points, ect...
+Represents a pool of resources which can represent whatever a the Narrator desires. Examples include a pool of mana for powering magic, ammo for weapons, Destiny Points, ect...
 
 **Resource:** Describes the individual thing the Resource Pool is made up of.
 
