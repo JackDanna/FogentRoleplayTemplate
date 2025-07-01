@@ -969,9 +969,12 @@ A character can wear two pieces of armor on the same body part, such as wearing 
 
 Shields generally takes up one of the character's hands when in use. Characters not actively using their shield do not benefit from the additional defense.
 
-### What to do about attacks with Multiple damage types
+### Defending against Injury with multiple Damage Types
 
-If a combat roll has a Physical damage type and a Bodily, Mental, or Spiritual damage type, then since it is combined with the physical attack it is only versus physical defense. An example would be poison applied to the blade of a weapon.
+In the rare case were a character is having to defend from an injury coming from multiple Damage Types, the Narrator can decide to use 1 of the 2 following rules:
+
+1) The defending character can average add all the Defense's against the Damage Types in question, then divide by the number of Damage Types. The result can act as the Defense against the incoming attack.
+2) The attacking character has to choose which Damage Type is primary, which the defender will be able to defend against.
 
 ## Resource Pool Max Calculation
 
