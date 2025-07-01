@@ -2321,7 +2321,7 @@ Characters will often stash or drop containers during combat as to not be in a h
 
 ## Set Attribute Level Effect
 
-Sets a specified Attribute of a character to a new value. If the character's innate Attribute is greater than or equal to the new value, no change occurs.
+Sets a the Attributes of a character to a specified level. If the character's innate Attribute is greater than or equal to the new value, no change occurs.
 
 **Affected Attributes:** The Attributes that are effected.
 
@@ -2334,7 +2334,7 @@ Sets a specified Attribute of a character to a new value. If the character's inn
 
 ## Set Skill Level Effect
 
-Sets a specified Skill/Vocation of a character to a new value. If the character's innate Skill/Vocation is greater than or equal to the new value, no change occurs.
+Sets a the Skills/Vocations of a character to specified level. If the character's innate Skill/Vocation is greater than or equal to the new value, no change occurs.
 
 **Affected Skills:** The Skills/Vocations that are effected.
 
