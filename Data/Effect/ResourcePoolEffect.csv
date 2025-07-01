@@ -39,7 +39,6 @@ Resource Pool: Thrown Bludgeon Close Melee,Resources representing how many throw
 Resource Pool: Thrown Medium Spear,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Medium Spear,1,None,TRUE
 ,,,,,,,
 Resource Pool: Thrown Large Spear,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Large Spear,1,None,TRUE
-Resource Pool: Thrown Large Spear +3,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Large Spear +3,1,None,TRUE
 Resource Pool: Thrown Large Spear +7,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Large Spear +7,1,None,TRUE
 ,,,,,,,
 Resource Pool: Broadhead Light Arrows,Ammunition for Combat Rolls.,Indefinite,Innate,Broadhead Light Arrow,20,None,TRUE
@@ -90,6 +89,7 @@ Resource Pool: Thrown Pierce Close Melee +5,Resources representing how many thro
 Resource Pool: Thrown Bludgeon Close Melee +1,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Bludgeon Close Melee +1,1,None,TRUE
 Resource Pool: Thrown Medium Spear +3,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Medium Spear +3,1,None,TRUE
 Resource Pool: Thrown Medium Spear +7,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Medium Spear +7,1,None,TRUE
+Resource Pool: Thrown Large Spear +3,Resources representing how many throwing combat rolls that can be performed.,Innate,Indefinite,Thrown Large Spear +3,1,None,TRUE
 ,,,,,,,
 ,,,,,,,
 Nature Connection Pool,Resource Pool for Druidcraft.,Innate,Indefinite,Nature Connection,10,Nature Connection Resource Pool Max,FALSE
