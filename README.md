@@ -2554,16 +2554,16 @@ A Narrative Effect is a purely text based effect. It simply describes what it do
 
 #### Language
 
-|          Name          |            Description            |  Duration  | Source |
-| :--------------------: | :-------------------------------: | :--------: | :-----: |
-|   Language: Babelish   |   Can speak and write Babelish.   | Indefinite | Culture |
-| Language: Bright-speak | Can speak and write Bright-speak. | Indefinite | Culture |
-|    Language: Pirish    |    Can speak and write Pirish.    | Indefinite | Culture |
-|  Language: Deep-speak  |  Can speak and write Deep-speak.  | Indefinite | Culture |
-|    Language: Primal    |    Can speak and write Primal.    | Indefinite | Culture |
-|   Language: Kikishi   |   Can speak and write Kikishi.   | Indefinite | Culture |
-|   Language: Draconic   |   Can speak and write Draconic.   | Indefinite | Culture |
-|   Language: Demonic   |   Can speak and write Demonic.   | Indefinite | Culture |
+|        Name        |          Description          |  Duration  | Source |
+| :----------------: | :---------------------------: | :--------: | :-----: |
+|  Language: Common  |  Can speak and write Common.  | Indefinite | Culture |
+| Language: Dwarvish | Can speak and write Dwarvish. | Indefinite | Culture |
+|  Language: Elvish  |  Can speak and write Elvish.  | Indefinite | Culture |
+|  Language: Giant  |  Can speak and write Giant.  | Indefinite | Culture |
+| Language: Gnomish | Can speak and write Gnomish. | Indefinite | Culture |
+|  Language: Goblin  |  Can speak and write Goblin.  | Indefinite | Culture |
+| Language: Halfling | Can speak and write Halfling. | Indefinite | Culture |
+|  Language: Orcish  |  Can speak and write Orcish.  | Indefinite | Culture |
 
 #### Size
 

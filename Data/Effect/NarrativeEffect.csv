@@ -93,6 +93,15 @@ Disabling: Overly Nostalgic,Constantly reminiscing about the good old day.,Indef
 Disabling: Nerve Damage,Character has suffered severe damage theirs nerves. The Perception Skill is locked at level -1.,Indefinite,Backstory
 ,,,
 ,,,
+Language: Common,Can speak and write Common.,Indefinite,Culture
+Language: Dwarvish,Can speak and write Dwarvish.,Indefinite,Culture
+Language: Elvish,Can speak and write Elvish.,Indefinite,Culture
+Language: Giant,Can speak and write Giant.,Indefinite,Culture
+Language: Gnomish,Can speak and write Gnomish.,Indefinite,Culture
+Language: Goblin,Can speak and write Goblin.,Indefinite,Culture
+Language: Halfling,Can speak and write Halfling.,Indefinite,Culture
+Language: Orcish,Can speak and write Orcish.,Indefinite,Culture
+,,,
 Gradual Healing,"Minor injuries heal in 1 day, others are downgraded in following days if maintained.",Indefinite,Treatment
 Minor Healing Factor,Minor injuries heal in a short rest. Medium injuries heal durning a long rest. A stabilized Serious injuries heal over a 24 hour rest. Cannot effect higher tier injuries.,24 hours,Treatment
 Continuous Minor Healing Factor,Minor injuries heal in a short rest. Medium injuries heal durning a long rest. A stabilized Serious injuries heal over a 24 hour rest. Cannot effect higher tier injuries.,Indefinite,Treatment
@@ -103,14 +112,6 @@ Fatal Heal,Removes a Fatal or lesser injury. Can be used to reattach limbs as lo
 Revival Heal,"Return a dead character to life with a serious injury. Can only be performed within minutes of death. For living characters, it completely heals all injuries, regrowing body parts, and returning the body to peak performance.",Instantaneous,Treatment
 ,,,
 ,,,
-Language: Babelish,Can speak and write Babelish.,Indefinite,Culture
-Language: Bright-speak,Can speak and write Bright-speak.,Indefinite,Culture
-Language: Pirish,Can speak and write Pirish.,Indefinite,Culture
-Language: Deep-speak,Can speak and write Deep-speak.,Indefinite,Culture
-Language: Primal,Can speak and write Primal.,Indefinite,Culture
-Language: Kikishi,Can speak and write Kikishi.,Indefinite,Culture
-Language: Draconic,Can speak and write Draconic.,Indefinite,Culture
-Language: Demonic,Can speak and write Demonic.,Indefinite,Culture
 ,,,
 ,,,
 Resistance: Minor Slash,-1 to victory levels received from Slash.,Indefinite,Innate
@@ -369,6 +370,21 @@ Appearance,,Indefinite,Innate
 Disposition,,Indefinite,Innate
 Beliefs and Morality,,Indefinite,Innate
 Goals and Aspirations,,Indefinite,Innate
+,,,
+,,,
+,,,
+,,,
+,,,
+Language: Babelish,Can speak and write Babelish.,Indefinite,Culture
+Language: Bright-speak,Can speak and write Bright-speak.,Indefinite,Culture
+Language: Pirish,Can speak and write Pirish.,Indefinite,Culture
+Language: Deep-speak,Can speak and write Deep-speak.,Indefinite,Culture
+Language: Primal,Can speak and write Primal.,Indefinite,Culture
+Language: Kikishi,Can speak and write Kikishi.,Indefinite,Culture
+Language: Draconic,Can speak and write Draconic.,Indefinite,Culture
+Language: Demonic,Can speak and write Demonic.,Indefinite,Culture
+,,,
+,,,
 ,,,
 ,,,
 ,,,
