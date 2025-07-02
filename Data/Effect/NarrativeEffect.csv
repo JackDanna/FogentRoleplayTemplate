@@ -8,7 +8,7 @@ Victory Level 1: Drag,"The opponent, which first must be Grappled, is dragged in
 ,,,
 Victory Level 2: Inflict Medium Injury,Inflict a Medium Injury causing -2d to STR/RFX/INT/CHA governed Dice Pools. The injury must be treated relatively soon otherwise further penalties may apply such as infection.,Instant,2 Victory Level wins
 Victory Level 2: Disarm,The opponent loses one of their held items.,Instant,2 Victory Level wins
-Victory Level2:  Grapple,Apply the Grappled condition to the opponent.,Instant,2 Victory Level wins
+Victory Level 2: Grapple,Apply the Grappled condition to the opponent.,Instant,2 Victory Level wins
 ,,,
 Victory Level 3: Inflict Serious Injury,Inflict a Serious Injury causing -3d to STR/RFX/INT/CHA governed Dice Pools.  The injury will lead to death in time if untreated.,Instant,3 Victory Level wins
 Victory Level 3: Double Disarm,The opponent loses two of their held items.,Instant,3 Victory Level wins
