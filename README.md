@@ -2402,7 +2402,7 @@ Sets a the tier of the Base Dice for the Skills/Vocations specified.
 
 |               Name               |                    Description                    |  Duration  | Source | Affected Skills | Base Dice By Tier |
 | :------------------------------: | :-----------------------------------------------: | :--------: | :----: | :-------------: | :---------------: |
-| Endurance +2 Set Skill Base Dice | Tier for Endurance Skill Dice Pool set to tier 2. | Indefinite | Innate |    Endurance    |         2         |
+| Endurance +2 Set Skill Base Dice | Base Dice for the Endurance Skill's Dice Pool set to tier 2. | Indefinite | Innate |    Endurance    |         2         |
 
 ## Adjusted Attribute Level Effect
 
