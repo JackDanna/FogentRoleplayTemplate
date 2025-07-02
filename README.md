@@ -3147,33 +3147,6 @@ Almost all traditional offensive magic spells can be represented as Weapon Spell
 | Medium Shield | Phy. Def. 2.00, Bodily Def. 2.00, Spiritual Def. 2.00, or Mental Def. 2.00 |          1          |
 | Large Shield | Phy. Def. 3.00, Bodily Def. 3.00, Spiritual Def. 3.00, or Mental Def. 3.00 |          2          |
 
-### Novice Spells (CL 0)
-
-| Name | CL/Magic Resource | Casting Time | Range | Duration | Magic Skills Required | Description |
-| :--: | :---------------: | :----------: | :---: | :------: | :-------------------: | :---------: |
-
-### Apprentice Spells (CL 1-2)
-
-| Name | CL/Magic Resource | Casting Time | Range | Duration | Magic Skills Required | Description |
-| :--: | :---------------: | :----------: | :---: | :------: | :-------------------: | :---------: |
-
-### Adept Spells (CL 3-4)
-
-|          Name          | CL/Magic Resource | Casting Time | Range |         Duration         | Magic Skills Required |                                                                                             Description                                                                                             |
-| :---------------------: | :---------------: | :----------: | :---: | :-----------------------: | :-------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|     Manifest Wings     |         3         |   1 action   | Self | Concentration, 10 minutes |     Bodily Magic     |                                                                  Character grows wings and gains the Flight Movement Speed effect.                                                                  |
-| Beastial Transformation |         3         |   1 action   | Self |   Concentration, 1 hour   |     Bodily Magic     | Character undergoes a transformation, becoming more beast like. Character can gain either a +1 to STR or RFX. However, they also gain a -1 to INT as their rational mind has become more beastlike. |
-
-### Expert Spells (CL 5-6)
-
-|            Name            | CL/Magic Resource | Casting Time | Range |  Duration  | Magic Skills Required |                                                                                                                                                                                                                                                                 Description                                                                                                                                                                                                                                                                 |
-| :-------------------------: | :---------------: | :----------: | :---: | :--------: | :-------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Create Flame Tongued Weapon |         5         |    1 hour    | Melee | Indefinite |      Fire Magic      | Through a laborious ritual you apply the following effect to a weapon of your choice. When activated, causes flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. This sword gains the Fire damage type, and loses the Bleed damage type. The flames last until you  speak the command word again or until you drop or sheathe the sword. The blade can only be ignited as long as it is above 3 durability. The sword can be submerged in fire to repair the blade. |
-
-### Master Spells (CL 7-8)
-
-### Legendary Spells (CL 9+)
-
 ## Character Creation Rules
 
 - [Character Sheet Template](./src/CoreRules/CharacterCreationRules/temp/temp/temp/CharacterSheetTemplate.md)
