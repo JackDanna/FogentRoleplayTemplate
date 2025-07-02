@@ -63,22 +63,18 @@ Disabling: Loose Cannon,Overwhelming predisposition towards rage/anger.,Indefini
 Disabling: Incontrollable Grief,Overwhelming grief that is triggered reminder of past trauma.,Indefinite,Backstory
 Disabling: Very Forgetful,"Often forgets plans, directions, people, items,  names...",Indefinite,Backstory
 Disabling: Overconfidence,"Extremely overconfident in , cannot invest in.",Indefinite,Backstory
-Disabling: Endurance Overconfidence,"Extremely overconfident in Endurance, cannot invest in.",Indefinite,Backstory
 Disabling: Athletics Overconfidence,"Extremely overconfident in Athletics, cannot invest in.",Indefinite,Backstory
+Disabling: Endurance Overconfidence,"Extremely overconfident in Endurance, cannot invest in.",Indefinite,Backstory
 Disabling: Lift Overconfidence,"Extremely overconfident in Lift, cannot invest in.",Indefinite,Backstory
-Disabling: Perception Overconfidence,"Extremely overconfident in Perception, cannot invest in.",Indefinite,Backstory
 Disabling: Dexterity Overconfidence,"Extremely overconfident in Dexterity, cannot invest in.",Indefinite,Backstory
+Disabling: Perception Overconfidence,"Extremely overconfident in Perception, cannot invest in.",Indefinite,Backstory
 Disabling: Stealth Overconfidence,"Extremely overconfident in Stealth, cannot invest in.",Indefinite,Backstory
-,,,
-,,,
-Disabling: Knowledge Overconfidence,"Extremely overconfident in Knowledge, cannot invest in.",Indefinite,Backstory
 Disabling: Logic Overconfidence,"Extremely overconfident in Logic, cannot invest in.",Indefinite,Backstory
+Disabling: Knowledge Overconfidence,"Extremely overconfident in Knowledge, cannot invest in.",Indefinite,Backstory
 Disabling: Will Overconfidence,"Extremely overconfident in Will, cannot invest in.",Indefinite,Backstory
-,,,
 Disabling: Deception Overconfidence,"Extremely overconfident in Deception, cannot invest in.",Indefinite,Backstory
 Disabling: Intimidation Overconfidence,"Extremely overconfident in Intimidation, cannot invest in.",Indefinite,Backstory
 Disabling: Persuasion Overconfidence,"Extremely overconfident in Persuasion, cannot invest in.",Indefinite,Backstory
-,,,
 Disabling: Incapable of Lying,"(Specific parameters required, see Cogent website for examples)",Indefinite,Backstory
 Disabling: Addiction,"Extreme addiction, suffers from withdrawals if not satisfied.",Indefinite,Backstory
 Disabling: Delusion,"Belief of something to be real beyond the scope of simple faith. ",Indefinite,Backstory
