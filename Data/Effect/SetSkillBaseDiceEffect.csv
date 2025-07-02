@@ -1,2 +1,2 @@
-name,description,duration,source,affectedDicePools,baseDiceByTier
+name,description,duration,source,affectedSkills,baseDiceByTier
 Endurance +2 Set Skill Base Dice,Tier for Endurance Skill Dice Pool set to tier 2.,Indefinite,Innate,Endurance,2
