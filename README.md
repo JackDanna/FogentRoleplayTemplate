@@ -2493,15 +2493,6 @@ Adjusts the tier of the base dice of a specified Skills/Vocations Dice Pools.
 
 A Narrative Effect is a purely text based effect. It simply describes what it does and how it impact the Narrative.
 
-#### Character Information
-
-|         Name         | Description |  Duration  | Source |
-| :-------------------: | :---------: | :--------: | :----: |
-|      Appearance      |            | Indefinite | Innate |
-|      Disposition      |            | Indefinite | Innate |
-| Beliefs and Morality |            | Indefinite | Innate |
-| Goals and Aspirations |            | Indefinite | Innate |
-
 #### Disabling Characteristic
 
 |                     Name                     |                                           Description                                           |  Duration  |  Source  |
@@ -2566,19 +2557,6 @@ A Narrative Effect is a purely text based effect. It simply describes what it do
 | Language: Halfling | Can speak and write Halfling. | Indefinite | Culture |
 |  Language: Orcish  |  Can speak and write Orcish.  | Indefinite | Culture |
 
-#### Size
-
-A character takes up a certain amount of space on the battle map.
-
-|       Name       |        Description        |  Duration  | Source |
-| :--------------: | :-----------------------: | :--------: | :----: |
-|    Size: Tiny    | 2.5x2.5 ft on battle map. | Indefinite | Innate |
-|   Size: Small   |   5x5 ft on battle map.   | Indefinite | Innate |
-|   Size: Medium   |   5x5 ft on battle map.   | Indefinite | Innate |
-|   Size: Large   |  10x10 ft on battle map.  | Indefinite | Innate |
-|    Size: Huge    |  15x15 ft on battle map.  | Indefinite | Innate |
-| Size: Gargantuan |  20x20 ft on battle map.  | Indefinite | Innate |
-
 #### Sense
 
 The ability of a character to sense is crucial for various tasks. These tasks include identifying threats, locating hidden items, attacking enemies, and directing spells, among others. A character's sense can be significantly impaired by darkness, loud noises, awful smells, or any other factors that obscures the senses.
@@ -2599,13 +2577,34 @@ The ability of a character to sense is crucial for various tasks. These tasks in
 |  Sense: Heavily Obscured  |                                                                                                                                      The area around the character heavily impedes their vision. Roll at Super Disadvantage on Perception checks that relay on sight. Examples include deep shadow, waxing/waning crescent moon, moderate fog/foliage, ect...                                                                                                                                      | Situational | Environmental |
 | Sense: Completely Obscured |                                                                                                                                          The area around the character completely impedes their vision. Character is considered Blinded (see the Condition). Examples include complete darkness, a new moon, an unlit dungeon, opaque fog/foliage, ect...                                                                                                                                          | Situational | Environmental |
 
-#### Misc
+#### Size
 
-|        Name        |                            Description                            |  Duration  |        Source        |
-| :----------------: | :----------------------------------------------------------------: | :--------: | :-------------------: |
-|       Level       |                                 1                                 | Indefinite |   Player Character   |
-| Destiny Resistance | "Post Roll Destiny Points" cannot be spent against this character. | Indefinite | Given by The Narrator |
-|  Destiny Immunity  |       Destiny Points cannot be spent against this character.       | Indefinite | Given by The Narrator |
+A character takes up a certain amount of space on the battle map.
+
+|       Name       |        Description        |  Duration  | Source |
+| :--------------: | :-----------------------: | :--------: | :----: |
+|    Size: Tiny    | 2.5x2.5 ft on battle map. | Indefinite | Innate |
+|   Size: Small   |   5x5 ft on battle map.   | Indefinite | Innate |
+|   Size: Medium   |   5x5 ft on battle map.   | Indefinite | Innate |
+|   Size: Large   |  10x10 ft on battle map.  | Indefinite | Innate |
+|    Size: Huge    |  15x15 ft on battle map.  | Indefinite | Innate |
+| Size: Gargantuan |  20x20 ft on battle map.  | Indefinite | Innate |
+
+#### Character Information
+
+|         Name         |                            Description                            |  Duration  |    Source    |
+| :-------------------: | :----------------------------------------------------------------: | :--------: | :----------: |
+|  Destiny Resistance  | "Post Roll Destiny Points" cannot be spent against this character. | Indefinite | The Narrator |
+|   Destiny Immunity   |       Destiny Points cannot be spent against this character.       | Indefinite | The Narrator |
+|                      |                                                                    |            |              |
+|         Level         |                                 1                                 | Indefinite | The Narrator |
+|         Notes         |                                                                    | Indefinite | The Narrator |
+|                      |                                                                    |            |              |
+|       Backstory       |                                                                    | Indefinite |    Innate    |
+|      Appearance      |                                                                    | Indefinite |    Innate    |
+|      Disposition      |                                                                    | Indefinite |    Innate    |
+| Beliefs and Morality |                                                                    | Indefinite |    Innate    |
+| Goals and Aspirations |                                                                    | Indefinite |    Innate    |
 
 # Magic Rules
 
