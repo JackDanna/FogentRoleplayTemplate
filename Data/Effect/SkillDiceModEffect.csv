@@ -1,4 +1,4 @@
-name,description,duration,source,dicePoolModifier,affectedDicePools
+name,description,duration,source,dicePoolModifier,affectedSkills
 Minorly Enhanced Knighthood,+1d6 to Knighthood Dice Pool.,Indefinite,Innate,+1d6,Knight
 ,,,,,
 Minorly Enhanced Athletics,+1d6 to Athletics Dice Pool.,Indefinite,Innate,+1d6,Athletics
