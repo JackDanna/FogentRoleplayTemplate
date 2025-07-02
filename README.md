@@ -2610,65 +2610,29 @@ A character takes up a certain amount of space on the battle map.
 
 ## Tier Of Play
 
-### Combat Skills
+Tier Of Play represents the how large the stakes are for a game/campaign aswell
 
-Combat Skills are skills that are used for fighting, including all Weapon Combat Skills and Combat Magic Skills. These skills require skill points to be increased.
+**Attribute Points:** The number of points you can spend to increase a character's Attributes.
 
-#### Vocational Skills
+**Vocation Point:** Points that can only be spent to unlock or upgrade Vocations.
 
-Vocational Skills are skills that your Vocation would logically give you. A Vocational Skill's level is inherited from Vocation's level. Players can make Vocational Skills at any point with approval from the Narrator and use them for applicable skill checks.
+**Skill Points:** The number of points you get to spend on Core Skills, Vocations, and Combat Skills.
 
-Vocational Skills will often overlap with one or more Core Skills, though they will represent a much more specialized subset of tasks. Often times a Vocational Skill will combine what would usually be multiple sequential harder Core Skill checks into a single often easier Vocational Skill check.
+**Skill/Vocation Level Cap:** This is the maximum you can take any skill or vocation level to in the Tier Of Play.
 
-Vocational Skills can never cover a majority of what a Core Skill covers. You can not assist Vocational Skills with the Vocation they fall under, as they are essentially relying on the same shared skill point investment.
-
-It is smart to write down Vocational Skills under your vocation as a reminder to have on your character sheet.
-
-Tier Of Play narratively describes the stakes of the campaign as well as how powerful/competent player characters are. This balances the players against each other and the challenges the Narrator has envisioned.
-
-The Narrator should let the players know the Tier Of Play and players should factor this into their characters. It would be silly to have a character's backstory paint them as a badass only to have them start at Apprentice Tier. Also, realize that your character will grow throughout their story and the Narrator will be rewarding players with ways to improve your character as they play.
-
-Whenever building a character starting at a higher level than 1, you must build that character as if they were starting from level 1.
-
-### Tier of Play Breakdown
-
-#### Skill/Vocation Level Cap
-
-This is the maximum you can take any skill or vocation level to in the Tier Of Play.
-
-#### Vocation Point
-
-Points that can only be spent to unlock or upgrade Vocations.
-
-#### Attribute Points
-
-The number of points you can spend to increase a character's Attributes.
-
-#### Skill Points
-
-The number of points you get to spend on Core Skills, Vocations, and Combat Skills.
-
-#### Disabling Characteristics
-
-See Disabling Characteristics rules.
-
-At character creation, for each Disabling Characteristic that makes a Core Skill Incompetent (level -1), an additional skill point is gained.
-
-At character creation, players characters that take a Disabling Characteristic that results in a -1 in an Attribute (STR, RFX, or INT would be Feeble, Heavy, Dim-witted, etc...) gain an additional 2 skill points.
-
-#### Tiers of Play
+**Disabling Characteristics:** See Disabling Characteristics rules. At character creation, for each Disabling Characteristic that makes a Core Skill Incompetent (level -1), an additional skill point is gained. At character creation, players characters that take a Disabling Characteristic that results in a -1 in an Attribute (STR, RFX, or INT would be Feeble, Heavy, Dim-witted, etc...) gain an additional 2 skill points.
 
 #### Apprentice Tier (D&D Level 1 - 4)
 
 Represent a group of mostly wide eyed/unexperienced characters setting out on their first true adventure.
 
-| Level |                                                           Reward Gained                                                           | Total<br />Vocation<br />Points | Total<br />Skill<br />Points | Total<br />Attribute<br />Points | Vocation/Skill<br />Level Cap |
-| :---: | :-------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------: | :--------------------------: | :------------------------------: | :---------------------------: |
-|   1   | Vocation/Skill Cap set to 1<br />+1 Vocation Point<br />+1 Attribute Point<br />+4 Skill Point<br />+New Disabling Characteristic |                1                |              4              |                1                |               1               |
-|   2   |                                                          +1 Skill Point                                                          |                1                |              5              |                1                |               1               |
-|   3   |                                                          +1 Skill Point                                                          |                1                |              6              |                1                |               1               |
-|   4   |                                                          +1 Skill Point                                                          |                1                |              7              |                1                |               1               |
-|   5   |                                                        +1 Attribute Point                                                        |                1                |              7              |                2                |               1               |
+| Level |                                                           Reward Gained                                                           | Total Vocation Points | Total Skill Points | Total Attribute Points | Vocation/Skill Level Cap |
+| :---: | :-------------------------------------------------------------------------------------------------------------------------------: | :-------------------: | :----------------: | :--------------------: | :----------------------: |
+|   1   | Vocation/Skill Cap set to 1<br />+1 Vocation Point<br />+1 Attribute Point<br />+4 Skill Point<br />+New Disabling Characteristic |           1           |         4         |           1           |            1            |
+|   2   |                                                          +1 Skill Point                                                          |           1           |         5         |           1           |            1            |
+|   3   |                                                          +1 Skill Point                                                          |           1           |         6         |           1           |            1            |
+|   4   |                                                          +1 Skill Point                                                          |           1           |         7         |           1           |            1            |
+|   5   |                                                        +1 Attribute Point                                                        |           1           |         7         |           2           |            1            |
 
 #### Adept Tier (D&D Level 5 - 8)
 
@@ -2751,6 +2715,26 @@ Represented by a group of legendary characters who have made their mark on histo
 ## Character Creation Rules
 
 - [Character Sheet Template](./src/CoreRules/CharacterCreationRules/temp/temp/temp/CharacterSheetTemplate.md)
+
+### Combat Skills
+
+Combat Skills are skills that are used for fighting, including all Weapon Combat Skills and Combat Magic Skills. These skills require skill points to be increased.
+
+#### Vocational Skills
+
+Vocational Skills are skills that your Vocation would logically give you. A Vocational Skill's level is inherited from Vocation's level. Players can make Vocational Skills at any point with approval from the Narrator and use them for applicable skill checks.
+
+Vocational Skills will often overlap with one or more Core Skills, though they will represent a much more specialized subset of tasks. Often times a Vocational Skill will combine what would usually be multiple sequential harder Core Skill checks into a single often easier Vocational Skill check.
+
+Vocational Skills can never cover a majority of what a Core Skill covers. You can not assist Vocational Skills with the Vocation they fall under, as they are essentially relying on the same shared skill point investment.
+
+It is smart to write down Vocational Skills under your vocation as a reminder to have on your character sheet.
+
+Tier Of Play narratively describes the stakes of the campaign as well as how powerful/competent player characters are. This balances the players against each other and the challenges the Narrator has envisioned.
+
+The Narrator should let the players know the Tier Of Play and players should factor this into their characters. It would be silly to have a character's backstory paint them as a badass only to have them start at Apprentice Tier. Also, realize that your character will grow throughout their story and the Narrator will be rewarding players with ways to improve your character as they play.
+
+Whenever building a character starting at a higher level than 1, you must build that character as if they were starting from level 1.
 
 ## Weapon Combat Skills
 
