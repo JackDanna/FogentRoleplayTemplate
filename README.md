@@ -2440,7 +2440,11 @@ Adjusts the tier of the base dice of a specified Skills/Vocations Dice Pools.
 
 ## Dice Pool Dice Mod Effect
 
-Adds or subtracts dice for specific skill or vocation dice pools.
+Adds or subtracts dice from the specified Skills/Vocations Dice Pools.
+
+**Affected Skills:** The Skills/Vocations that are effected.
+
+**Dice Pool Modifier:** The adjustment to the tier of the Base Dice for the Skills/Vocations.
 
 |              Name              |           Description           | Duration   | Source | Dice Pool Modifier | Affected Skills |
 | :-----------------------------: | :-----------------------------: | ---------- | ------ | :----------------: | :-------------: |
