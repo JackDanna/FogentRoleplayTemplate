@@ -1,13 +1,4 @@
 name,description,duration,source
-Backstory,,Indefinite,Innate
-Appearance,,Indefinite,Innate
-Disposition,,Indefinite,Innate
-Beliefs and Morality,,Indefinite,Innate
-Goals and Aspirations,,Indefinite,Innate
-,,,
-Notes,,Indefinite,The Narrator
-,,,
-,,,
 Combat Modifier: Defensive,"During combat, a character can purely focuses on defending themselves. Advantage for both Combat Rolls and Evasion Rolls. No Victory Level outcomes can be achieved for the round by the character. Not applicable if the character can't solely focus on defending themselves, such as when they have Disadvantage to their Combat Rolls or Evasion Rolls.",1 round,Purely focusing on defense
 Combat Modifier: Dash,"Instead of engaging in a Combat Roll, a character can choose to focus purely on their movement, doubling their Movement Speed. They can still perform an Evasion Roll.",1 round,Purely focusing on movement
 Combat Modifier: Stationary Shooting,"Remain stationary for an entire round to gain a more stable base for ranged Combat Rolls. Advantage on all of ranged Combat Rolls for that round, except against opponents engaging the character with a Melee or Reach Range Combat Roll. Due to being a stationary target, Disadvantage on Evasion Roll.",1 round,Remaining stationary
@@ -371,9 +362,23 @@ Weakness: Serious Spiritual,+3 to the level of injury received from Spiritual.,I
 Weakness: Fatal Spiritual,+4 to the level of injury received from Spiritual.,Indefinite,Innate
 ,,,
 ,,,
-Level,1,Indefinite,Player Character
-Destiny Resistance,"""Post Roll Destiny Points"" cannot be spent against this character.",Indefinite,Given by The Narrator
-Destiny Immunity,Destiny Points cannot be spent against this character.,Indefinite,Given by The Narrator
+Destiny Resistance,"""Post Roll Destiny Points"" cannot be spent against this character.",Indefinite,The Narrator
+Destiny Immunity,Destiny Points cannot be spent against this character.,Indefinite,The Narrator
+,,,
+Level,1,Indefinite,The Narrator
+Notes,,Indefinite,The Narrator
+,,,
+Backstory,,Indefinite,Innate
+Appearance,,Indefinite,Innate
+Disposition,,Indefinite,Innate
+Beliefs and Morality,,Indefinite,Innate
+Goals and Aspirations,,Indefinite,Innate
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
 Space Vacuum Life Support,Enable the user to survive in the vacuum of space until onboard oxygen depletes.,1 hour,Innate
 Spellcasting Focus,Acts as a Spellcasting Focus for spells.,Indefinite,Innate
 Magic Resource Leech,Sneak attack regain 1 Magic Resource of the user's choice.,Indefinite,Innate
