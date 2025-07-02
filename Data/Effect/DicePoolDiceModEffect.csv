@@ -1,54 +1,40 @@
 name,description,duration,source,dicePoolModifier,affectedDicePools
-Minorly Enhanced Blazecraft,+1d6 to Blazecraft Dice Pool.,Indefinite,Innate,+1d6,Blazecraft
 Minorly Enhanced Knighthood,+1d6 to Knighthood Dice Pool.,Indefinite,Innate,+1d6,Knight
-Minorly Enhanced Toxincraft,+1d6 to Toxincraft Dice Pool.,Indefinite,Innate,+1d6,Toxincraft
 ,,,,,
 Minorly Enhanced Athletics,+1d6 to Athletics Dice Pool.,Indefinite,Innate,+1d6,Athletics
-Enhanced Athletics,+2d6 to Athletics Dice Pool.,Indefinite,Innate,+2d6,Athletics
-Greatly Enhanced Athletics,+3d6 to Athletics Dice Pool.,Indefinite,Innate,+3d6,Athletics
+Minorly Diminished Athletics,-1d to Athletics Dice Pool.,Indefinite,Innate,-1d,Athletics
 ,,,,,
 Minorly Enhanced Endurance,+1d6 to Endurance Dice Pool.,Indefinite,Innate,+1d6,Endurance
-Enhanced Endurance,+2d6 to Endurance Dice Pool.,Indefinite,Innate,+2d6,Endurance
-Greatly Enhanced Endurance,+3d6 to Endurance Dice Pool.,Indefinite,Innate,+3d6,Endurance
+Minorly Diminished Endurance,-1d to Endurance Dice Pool.,Indefinite,Innate,-1d,Endurance
 ,,,,,
 Minorly Enhanced Lift,+1d6 to Lift Dice Pool.,Indefinite,Innate,+1d6,Lift
-Enhanced Lift,+2d6 to Lift Dice Pool.,Indefinite,Innate,+2d6,Lift
-Greatly Enhanced Lift,+3d6 to Lift Dice Pool.,Indefinite,Innate,+3d6,Lift
+Minorly Diminished Lift,-1d to Lift Dice Pool.,Indefinite,Innate,-1d,Lift
 ,,,,,
 Minorly Enhanced Dexterity,+1d6 to Dexterity Dice Pool.,Indefinite,Innate,+1d6,Dexterity
-Enhanced Dexterity,+2d6 to Dexterity Dice Pool.,Indefinite,Innate,+2d6,Dexterity
-Greatly Enhanced Dexterity,+3d6 to Dexterity Dice Pool.,Indefinite,Innate,+3d6,Dexterity
+Minorly Diminished Dexterity,-1d to Dexterity Dice Pool.,Indefinite,Innate,-1d,Dexterity
 ,,,,,
 Minorly Enhanced Perception,+1d6 to Perception Dice Pool.,Indefinite,Innate,+1d6,Perception
-Enhanced Perception,+2d6 to Perception Dice Pool.,Indefinite,Innate,+2d6,Perception
-Greatly Enhanced Perception,+3d6 to Perception Dice Pool.,Indefinite,Innate,+3d6,Perception
+Minorly Diminished Perception,-1d to Perception Dice Pool.,Indefinite,Innate,-1d,Perception
 ,,,,,
 Minorly Enhanced Stealth,+1d6 to Stealth Dice Pool.,Indefinite,Innate,+1d6,Stealth
-Enhanced Stealth,+2d6 to Stealth Dice Pool.,Indefinite,Innate,+2d6,Stealth
-Greatly Enhanced Stealth,+3d6 to Stealth Dice Pool.,Indefinite,Innate,+3d6,Stealth
+Minorly Diminished Stealth,-1d to Stealth Dice Pool.,Indefinite,Innate,-1d,Stealth
 ,,,,,
 Minorly Enhanced Logic,+1d6 to Logic Dice Pool.,Indefinite,Innate,+1d6,Logic
-Enhanced Logic,+2d6 to Logic Dice Pool.,Indefinite,Innate,+2d6,Logic
-Greatly Enhanced Logic,+3d6 to Logic Dice Pool.,Indefinite,Innate,+3d6,Logic
+Minorly Diminished Logic,-1d to Logic Dice Pool.,Indefinite,Innate,-1d,Logic
 ,,,,,
 Minorly Enhanced Knowledge,+1d6 to Knowledge Dice Pool.,Indefinite,Innate,+1d6,Knowledge
-Enhanced Knowledge,+2d6 to Knowledge Dice Pool.,Indefinite,Innate,+2d6,Knowledge
-Greatly Enhanced Knowledge,+3d6 to Knowledge Dice Pool.,Indefinite,Innate,+3d6,Knowledge
+Minorly Diminished Knowledge,-1d to Knowledge Dice Pool.,Indefinite,Innate,-1d,Knowledge
 ,,,,,
 Minorly Enhanced Will,+1d6 to Will Dice Pool.,Indefinite,Innate,+1d6,Will
-Enhanced Will,+2d6 to Will Dice Pool.,Indefinite,Innate,+2d6,Will
-Greatly Enhanced Will,+3d6 to Will Dice Pool.,Indefinite,Innate,+3d6,Will
+Minorly Diminished Will,-1d to Will Dice Pool.,Indefinite,Innate,-1d,Will
 ,,,,,
 Minorly Enhanced Intimidation,+1d6 to Intimidation Dice Pool.,Indefinite,Innate,+1d6,Intimidation
-Enhanced Intimidation,+2d6 to Intimidation Dice Pool.,Indefinite,Innate,+2d6,Intimidation
-Greatly Enhanced Intimidation,+3d6 to Intimidation Dice Pool.,Indefinite,Innate,+3d6,Intimidation
+Minorly Diminished Intimidation,-1d to Intimidation Dice Pool.,Indefinite,Innate,-1d,Intimidation
 ,,,,,
 Minorly Enhanced Deception,+1d6 to Deception Dice Pool.,Indefinite,Innate,+1d6,Deception
-Enhanced Deception,+2d6 to Deception Dice Pool.,Indefinite,Innate,+2d6,Deception
-Greatly Enhanced Deception,+3d6 to Deception Dice Pool.,Indefinite,Innate,+3d6,Deception
+Minorly Diminished Deception,-1d to Deception Dice Pool.,Indefinite,Innate,-1d,Deception
 ,,,,,
 Minorly Enhanced Persuasion,+1d6 to Persuasion Dice Pool.,Indefinite,Innate,+1d6,Persuasion
-Enhanced Persuasion,+2d6 to Persuasion Dice Pool.,Indefinite,Innate,+2d6,Persuasion
-Greatly Enhanced Persuasion,+3d6 to Persuasion Dice Pool.,Indefinite,Innate,+3d6,Persuasion
+Minorly Diminished Persuasion,-1d to Persuasion Dice Pool.,Indefinite,Innate,-1d,Persuasion
 ,,,,,
-Minorly Enhanced Medium Melee,+1d6 to Medium Sword Dice Pool.,Indefinite,Innate,+1d6,Medium Melee
+Minorly Enhanced Medium Melee,+1d6 to Medium Melee Dice Pool.,Indefinite,Innate,+1d6,Medium Melee
