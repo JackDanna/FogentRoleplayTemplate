@@ -847,8 +847,8 @@ All of the following examples could effect the narrative.
 - An item having a curse on it that gives the wielder permanent weakness (Attribute Dice Mod Effect)
 - A character having a enchantment on them which alters their Attribute levels (Adjusted Attribute Level Effect/Set Attribute Level Effect)
 - An item having an enchantment that alters the wielder's Attribute levels (Adjusted Attribute Level Effect/Set Attribute Level Effect)
-- A character having a enchantment on them which alters their Skill Dice Pools (Adjusted Skill Level Effect/Set Skill Level Effect/Skill Base Dice Effect)
-- An item having an enchantment that alters the wielder's Skill Dice Pools (Adjusted Skill Level Effect/Set Skill Level Effect/Skill Base Dice Effect)
+- A character having a enchantment on them which alters their Skill Dice Pools (Adjusted Skill Level Effect/Set Skill Level Effect/Set Skill Base Dice Effect)
+- An item having an enchantment that alters the wielder's Skill Dice Pools (Adjusted Skill Level Effect/Set Skill Level Effect/Set Skill Base Dice Effect)
 - A character having the ability to carry equipment (Container Effect)
 - An item being able to contain other items, such as a backpack (Container Effect)
 - A character being able to move during a Combat Round (Movement Speed Effect)
@@ -2426,7 +2426,7 @@ Adjusts the tier of the base dice of a specified Skills/Vocations Dice Pools.
 | :-----------------------------------: | :--------------------------------------------: | :--------: | :----: | :-------------: | :-------------: |
 | Athletics +3 Adjusted Skill Base Dice | Adjust the Base Dice tier for Athletics by +3. | Indefinite | Innate |    Athletics    |       +3       |
 
-## Skill Base Dice Effect
+## Set Skill Base Dice Effect
 
 Sets the base dice of specific skills or vocations dice pools.
 
@@ -2886,7 +2886,7 @@ Another avenue to explore is how magic skills could be combined.
 
 All magic needs a Spellcasting Focus to be cast through wether a wizard's staff, a druid's focus, or even a character's own body. Just about anything can be made into a Spellcasting Focus from a narrative perspective, but it is up to the Narrator to decide if their are any restrictions in their magic system/setting.
 
-Spellcasting Focuses often have Skill Base Dice Effects on them that influence the magic skills cast through it, assuming they apply to that skill.
+Spellcasting Focuses often have Set Skill Base Dice Effects on them that influence the magic skills cast through it, assuming they apply to that skill.
 
 ## Spells
 
