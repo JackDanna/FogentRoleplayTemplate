@@ -2438,7 +2438,7 @@ Adjusts the tier of the base dice of a specified Skills/Vocations Dice Pools.
 | :-----------------------------------: | :--------------------------------------------: | :--------: | :----: | :-------------: | :-------------: |
 | Athletics +3 Adjusted Skill Base Dice | Adjust the Base Dice tier for Athletics by +3. | Indefinite | Innate |    Athletics    |       +3       |
 
-## Dice Pool Dice Mod Effect
+## Skill Dice Mod Effect
 
 Adds or subtracts dice from the specified Skills/Vocations Dice Pools.
 
