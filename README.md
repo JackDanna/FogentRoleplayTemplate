@@ -2608,8 +2608,6 @@ A character takes up a certain amount of space on the battle map.
 | Beliefs and Morality |                                                                    | Indefinite |    Innate    |
 | Goals and Aspirations |                                                                    | Indefinite |    Innate    |
 
-# Magic Rules
-
 ## Magic Systems
 
 This page provides a generalized framework for magic system mechanics for any setting. Whether it be the Force from Star Wars, Bending from Avatar, Cyberpunk technomancy, or traditional fantasy magic, this framework should easily accommodate.
