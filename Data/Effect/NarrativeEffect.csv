@@ -67,75 +67,6 @@ Combat Modifier: Three-quarters Cover,"A target can benefit from cover only when
 Combat Modifier: Full Cover,"A target can benefit from cover only when an attack or other effect originates on the opposite side of the cover. A target with total cover can't be targeted directly by an attack, although some spells can reach such a target by including it in an area of effect. A target has total cover if it is completely concealed by an obstacle.",Indefinite,"Tree trunks, walls, barriers, ect."
 ,,,
 ,,,
-Disabling: Amnesia,Character is missing a large portion of their past.,Indefinite,Backstory
-Disabling: Missing bodily extremity/limb,STR and RFX dice penalties when performing tasks requiring 2 hands.,Indefinite,Backstory
-Disabling: Feeble,STR is set to -1,Indefinite,Backstory
-Disabling: Heavy,RFX is set to -1,Indefinite,Backstory
-Disabling: Dim-witted,INT is set to -1,Indefinite,Backstory
-Disabling: Phobia,Debilitating fear of ?.,Indefinite,Backstory
-Disabling: Extreme Prejudice,Overwhelming hatred/disgust of ?.,Indefinite,Backstory
-Disabling: Compulsive Liar,Compulsion to lie about self-aggrandizing claims/achievements.,Indefinite,Backstory
-Disabling: Kleptomaniac,Desire to steal most things regardless of value.,Indefinite,Backstory
-Disabling: Betrayal Paranoia,Extreme belief that every person met will betray them.,Indefinite,Backstory
-Disabling: Government Paranoia,Extreme belief that the ruling class is run by an evil cult.,Indefinite,Backstory
-Disabling: Superstition Paranoia,Extreme belief in common superstition and old wives tales.,Indefinite,Backstory
-Disabling: Paranoia,Irrational belief that ...,Indefinite,Backstory
-Disabling: Over-emotional (specific emotion),,Indefinite,Backstory
-Disabling: Loose Cannon,Overwhelming predisposition towards rage/anger.,Indefinite,Backstory
-Disabling: Incontrollable Grief,Overwhelming grief that is triggered reminder of past trauma.,Indefinite,Backstory
-Disabling: Very Forgetful,"Often forgets plans, directions, people, items,  names...",Indefinite,Backstory
-Disabling: Overconfidence,"Extremely overconfident in , cannot invest in.",Indefinite,Backstory
-Disabling: Athletics Overconfidence,"Extremely overconfident in Athletics, cannot invest in.",Indefinite,Backstory
-Disabling: Endurance Overconfidence,"Extremely overconfident in Endurance, cannot invest in.",Indefinite,Backstory
-Disabling: Lift Overconfidence,"Extremely overconfident in Lift, cannot invest in.",Indefinite,Backstory
-Disabling: Dexterity Overconfidence,"Extremely overconfident in Dexterity, cannot invest in.",Indefinite,Backstory
-Disabling: Perception Overconfidence,"Extremely overconfident in Perception, cannot invest in.",Indefinite,Backstory
-Disabling: Stealth Overconfidence,"Extremely overconfident in Stealth, cannot invest in.",Indefinite,Backstory
-Disabling: Logic Overconfidence,"Extremely overconfident in Logic, cannot invest in.",Indefinite,Backstory
-Disabling: Knowledge Overconfidence,"Extremely overconfident in Knowledge, cannot invest in.",Indefinite,Backstory
-Disabling: Will Overconfidence,"Extremely overconfident in Will, cannot invest in.",Indefinite,Backstory
-Disabling: Deception Overconfidence,"Extremely overconfident in Deception, cannot invest in.",Indefinite,Backstory
-Disabling: Intimidation Overconfidence,"Extremely overconfident in Intimidation, cannot invest in.",Indefinite,Backstory
-Disabling: Persuasion Overconfidence,"Extremely overconfident in Persuasion, cannot invest in.",Indefinite,Backstory
-Disabling: Incapable of Lying,"(Specific parameters required, see Cogent website for examples)",Indefinite,Backstory
-Disabling: Addiction,"Extreme addiction, suffers from withdrawals if not satisfied.",Indefinite,Backstory
-Disabling: Delusion,"Belief of something to be real beyond the scope of simple faith. ",Indefinite,Backstory
-Disabling: Imperceptive,Disadvantage to environmental Perception rolls.,Indefinite,Backstory
-Disabling: Blind,Unable to make sight based perception checks.,Indefinite,Backstory
-Disabling: Deaf,Unable to make hearing based perception checks.,Indefinite,Backstory
-Disabling: Anosmia,Unable to make smell based perception checks.,Indefinite,Backstory
-Disabling: Ageusia,Unable to make taste based perception checks.,Indefinite,Backstory
-Disabling: Anaphia,Unable to make touch based perception checks.,Indefinite,Backstory
-Disabling: Gullible," Disadvantage versus Deception rolls.",Indefinite,Backstory
-Disabling: Impressionable," Disadvantage versus Persuasion rolls.",Indefinite,Backstory
-Disabling: People Pleaser,"Always try to make other people happy, even at their own expense.",Indefinite,Backstory
-Disabling: SKILL Overconfidence,"Extremely overconfident in SKILL, cannot invest in.",Indefinite,Backstory
-Disabling: Illiterate,Can't read or write.,Indefinite,Backstory
-Disabling: Overly Nostalgic,Constantly reminiscing about the good old day.,Indefinite,Backstory
-Disabling: Nerve Damage,Character has suffered severe damage theirs nerves. The Perception Skill is locked at level -1.,Indefinite,Backstory
-,,,
-,,,
-Language: Common,Can speak and write Common.,Indefinite,Culture
-Language: Dwarvish,Can speak and write Dwarvish.,Indefinite,Culture
-Language: Elvish,Can speak and write Elvish.,Indefinite,Culture
-Language: Giant,Can speak and write Giant.,Indefinite,Culture
-Language: Gnomish,Can speak and write Gnomish.,Indefinite,Culture
-Language: Goblin,Can speak and write Goblin.,Indefinite,Culture
-Language: Halfling,Can speak and write Halfling.,Indefinite,Culture
-Language: Orcish,Can speak and write Orcish.,Indefinite,Culture
-,,,
-Gradual Healing,"Minor injuries heal in 1 day, others are downgraded in following days if maintained.",Indefinite,Treatment
-Minor Healing Factor,Minor injuries heal in a short rest. Medium injuries heal durning a long rest. A stabilized Serious injuries heal over a 24 hour rest. Cannot effect higher tier injuries.,24 hours,Treatment
-Continuous Minor Healing Factor,Minor injuries heal in a short rest. Medium injuries heal durning a long rest. A stabilized Serious injuries heal over a 24 hour rest. Cannot effect higher tier injuries.,Indefinite,Treatment
-Minor Heal,"Removes a minor injury. For a higher tier injury, reduce the dice penalty of the injury by 1. Injury remains at its current tier. Further minor heals have no effect. ",Instantaneous,Treatment
-Medium Heal,"Removes a medium or lesser injury. For a higher tier injury, reduce the dice penalty of the injury by 2. Injury remains at its current tier. Further medium healing has no effect. ",Instantaneous,Treatment
-Serious Heal,"Removes a serious or lesser injury. For a higher tier injury, reduce the dice penalty of the injury by 3. Injury remains at its current tier. Further serious healing has no effect. ",Instantaneous,Treatment
-Fatal Heal,Removes a Fatal or lesser injury. Can be used to reattach limbs as long as the limb is not destroyed.,Instantaneous,Treatment
-Revival Heal,"Return a dead character to life with a serious injury. Can only be performed within minutes of death. For living characters, it completely heals all injuries, regrowing body parts, and returning the body to peak performance.",Instantaneous,Treatment
-,,,
-,,,
-,,,
-,,,
 Resistance: Minor Slash,-1 to victory levels received from Slash.,Indefinite,Innate
 Resistance: Medium Slash,-2 to victory levels received from Slash.,Indefinite,Innate
 Resistance: Serious Slash,-3 to victory levels received from Slash.,Indefinite,Innate
@@ -334,6 +265,75 @@ Weakness: Minor Spiritual,+1 to the level of injury received from Spiritual.,Ind
 Weakness: Medium Spiritual,+2 to the level of injury received from Spiritual.,Indefinite,Innate
 Weakness: Serious Spiritual,+3 to the level of injury received from Spiritual.,Indefinite,Innate
 Weakness: Fatal Spiritual,+4 to the level of injury received from Spiritual.,Indefinite,Innate
+,,,
+,,,
+Disabling: Amnesia,Character is missing a large portion of their past.,Indefinite,Backstory
+Disabling: Missing bodily extremity/limb,STR and RFX dice penalties when performing tasks requiring 2 hands.,Indefinite,Backstory
+Disabling: Feeble,STR is set to -1,Indefinite,Backstory
+Disabling: Heavy,RFX is set to -1,Indefinite,Backstory
+Disabling: Dim-witted,INT is set to -1,Indefinite,Backstory
+Disabling: Phobia,Debilitating fear of ?.,Indefinite,Backstory
+Disabling: Extreme Prejudice,Overwhelming hatred/disgust of ?.,Indefinite,Backstory
+Disabling: Compulsive Liar,Compulsion to lie about self-aggrandizing claims/achievements.,Indefinite,Backstory
+Disabling: Kleptomaniac,Desire to steal most things regardless of value.,Indefinite,Backstory
+Disabling: Betrayal Paranoia,Extreme belief that every person met will betray them.,Indefinite,Backstory
+Disabling: Government Paranoia,Extreme belief that the ruling class is run by an evil cult.,Indefinite,Backstory
+Disabling: Superstition Paranoia,Extreme belief in common superstition and old wives tales.,Indefinite,Backstory
+Disabling: Paranoia,Irrational belief that ...,Indefinite,Backstory
+Disabling: Over-emotional (specific emotion),,Indefinite,Backstory
+Disabling: Loose Cannon,Overwhelming predisposition towards rage/anger.,Indefinite,Backstory
+Disabling: Incontrollable Grief,Overwhelming grief that is triggered reminder of past trauma.,Indefinite,Backstory
+Disabling: Very Forgetful,"Often forgets plans, directions, people, items,  names...",Indefinite,Backstory
+Disabling: Overconfidence,"Extremely overconfident in , cannot invest in.",Indefinite,Backstory
+Disabling: Athletics Overconfidence,"Extremely overconfident in Athletics, cannot invest in.",Indefinite,Backstory
+Disabling: Endurance Overconfidence,"Extremely overconfident in Endurance, cannot invest in.",Indefinite,Backstory
+Disabling: Lift Overconfidence,"Extremely overconfident in Lift, cannot invest in.",Indefinite,Backstory
+Disabling: Dexterity Overconfidence,"Extremely overconfident in Dexterity, cannot invest in.",Indefinite,Backstory
+Disabling: Perception Overconfidence,"Extremely overconfident in Perception, cannot invest in.",Indefinite,Backstory
+Disabling: Stealth Overconfidence,"Extremely overconfident in Stealth, cannot invest in.",Indefinite,Backstory
+Disabling: Logic Overconfidence,"Extremely overconfident in Logic, cannot invest in.",Indefinite,Backstory
+Disabling: Knowledge Overconfidence,"Extremely overconfident in Knowledge, cannot invest in.",Indefinite,Backstory
+Disabling: Will Overconfidence,"Extremely overconfident in Will, cannot invest in.",Indefinite,Backstory
+Disabling: Deception Overconfidence,"Extremely overconfident in Deception, cannot invest in.",Indefinite,Backstory
+Disabling: Intimidation Overconfidence,"Extremely overconfident in Intimidation, cannot invest in.",Indefinite,Backstory
+Disabling: Persuasion Overconfidence,"Extremely overconfident in Persuasion, cannot invest in.",Indefinite,Backstory
+Disabling: Incapable of Lying,"(Specific parameters required, see Cogent website for examples)",Indefinite,Backstory
+Disabling: Addiction,"Extreme addiction, suffers from withdrawals if not satisfied.",Indefinite,Backstory
+Disabling: Delusion,"Belief of something to be real beyond the scope of simple faith. ",Indefinite,Backstory
+Disabling: Imperceptive,Disadvantage to environmental Perception rolls.,Indefinite,Backstory
+Disabling: Blind,Unable to make sight based perception checks.,Indefinite,Backstory
+Disabling: Deaf,Unable to make hearing based perception checks.,Indefinite,Backstory
+Disabling: Anosmia,Unable to make smell based perception checks.,Indefinite,Backstory
+Disabling: Ageusia,Unable to make taste based perception checks.,Indefinite,Backstory
+Disabling: Anaphia,Unable to make touch based perception checks.,Indefinite,Backstory
+Disabling: Gullible," Disadvantage versus Deception rolls.",Indefinite,Backstory
+Disabling: Impressionable," Disadvantage versus Persuasion rolls.",Indefinite,Backstory
+Disabling: People Pleaser,"Always try to make other people happy, even at their own expense.",Indefinite,Backstory
+Disabling: SKILL Overconfidence,"Extremely overconfident in SKILL, cannot invest in.",Indefinite,Backstory
+Disabling: Illiterate,Can't read or write.,Indefinite,Backstory
+Disabling: Overly Nostalgic,Constantly reminiscing about the good old day.,Indefinite,Backstory
+Disabling: Nerve Damage,Character has suffered severe damage theirs nerves. The Perception Skill is locked at level -1.,Indefinite,Backstory
+,,,
+,,,
+Language: Common,Can speak and write Common.,Indefinite,Culture
+Language: Dwarvish,Can speak and write Dwarvish.,Indefinite,Culture
+Language: Elvish,Can speak and write Elvish.,Indefinite,Culture
+Language: Giant,Can speak and write Giant.,Indefinite,Culture
+Language: Gnomish,Can speak and write Gnomish.,Indefinite,Culture
+Language: Goblin,Can speak and write Goblin.,Indefinite,Culture
+Language: Halfling,Can speak and write Halfling.,Indefinite,Culture
+Language: Orcish,Can speak and write Orcish.,Indefinite,Culture
+,,,
+Gradual Healing,"Minor injuries heal in 1 day, others are downgraded in following days if maintained.",Indefinite,Treatment
+Minor Healing Factor,Minor injuries heal in a short rest. Medium injuries heal durning a long rest. A stabilized Serious injuries heal over a 24 hour rest. Cannot effect higher tier injuries.,24 hours,Treatment
+Continuous Minor Healing Factor,Minor injuries heal in a short rest. Medium injuries heal durning a long rest. A stabilized Serious injuries heal over a 24 hour rest. Cannot effect higher tier injuries.,Indefinite,Treatment
+Minor Heal,"Removes a minor injury. For a higher tier injury, reduce the dice penalty of the injury by 1. Injury remains at its current tier. Further minor heals have no effect. ",Instantaneous,Treatment
+Medium Heal,"Removes a medium or lesser injury. For a higher tier injury, reduce the dice penalty of the injury by 2. Injury remains at its current tier. Further medium healing has no effect. ",Instantaneous,Treatment
+Serious Heal,"Removes a serious or lesser injury. For a higher tier injury, reduce the dice penalty of the injury by 3. Injury remains at its current tier. Further serious healing has no effect. ",Instantaneous,Treatment
+Fatal Heal,Removes a Fatal or lesser injury. Can be used to reattach limbs as long as the limb is not destroyed.,Instantaneous,Treatment
+Revival Heal,"Return a dead character to life with a serious injury. Can only be performed within minutes of death. For living characters, it completely heals all injuries, regrowing body parts, and returning the body to peak performance.",Instantaneous,Treatment
+,,,
+,,,
 ,,,
 ,,,
 Sense: Keen Hearing,Advantage on hearing based Perception checks.,Indefinite,Innate
