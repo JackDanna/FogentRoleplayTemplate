@@ -2390,6 +2390,17 @@ Sets a the Skills/Vocations of a character to specified level. If the character'
 |    Adept Persuasion    |  Persuasion set to level 2.  | Indefinite | Innate |   Persuasion   |   2   |
 |    Expert Persuasion    |  Persuasion set to level 3.  | Indefinite | Innate |   Persuasion   |   3   |
 
+## Set Skill Base Dice Effect
+
+Sets the base dice of specific skills or vocations dice pools.
+
+For instance, if a Mundane Fire Magic Spellcasting Focus is used, all uses of the Fire Magic Skill have 3d6. With a Excellent Fire Magic Spellcasting Focus, all uses of the Fire magic Skill have 3d8 instead. Base Dices also apply to tools/gear used in skill rolls (high-quality climbing equipment for use with Athletics), and is meant to apply both in and out of combat.
+
+|                  Name                  |                                Description                                |  Duration  | Source |
+| :-------------------------------------: | :------------------------------------------------------------------------: | :--------: | :----: |
+| Excellent Nature Fellcraft Arcane Focus | 3d8 base dice for Terracraft, Hydrocraft, Naturecraft and Galecraft skill. | Indefinite |        |
+|          Fine Endurance Charm          |                  1d6, 2d8 base dice for Endurance skill.                  | Indefinite |        |
+
 ## Adjusted Attribute Level Effect
 
 For a specified Attribute, a Character receives an adjustment to it's level. The resulting level can not go outside the upper and lower bounds for a Attribute.
@@ -2425,17 +2436,6 @@ Adjusts the tier of the base dice of a specified Skills/Vocations Dice Pools.
 |                 Name                 |                  Description                  |  Duration  | Source | Affected Skills | Tier Adjustment |
 | :-----------------------------------: | :--------------------------------------------: | :--------: | :----: | :-------------: | :-------------: |
 | Athletics +3 Adjusted Skill Base Dice | Adjust the Base Dice tier for Athletics by +3. | Indefinite | Innate |    Athletics    |       +3       |
-
-## Set Skill Base Dice Effect
-
-Sets the base dice of specific skills or vocations dice pools.
-
-For instance, if a Mundane Fire Magic Spellcasting Focus is used, all uses of the Fire Magic Skill have 3d6. With a Excellent Fire Magic Spellcasting Focus, all uses of the Fire magic Skill have 3d8 instead. Base Dices also apply to tools/gear used in skill rolls (high-quality climbing equipment for use with Athletics), and is meant to apply both in and out of combat.
-
-|                  Name                  |                                Description                                |  Duration  | Source |
-| :-------------------------------------: | :------------------------------------------------------------------------: | :--------: | :----: |
-| Excellent Nature Fellcraft Arcane Focus | 3d8 base dice for Terracraft, Hydrocraft, Naturecraft and Galecraft skill. | Indefinite |        |
-|          Fine Endurance Charm          |                  1d6, 2d8 base dice for Endurance skill.                  | Indefinite |        |
 
 ## Dice Pool Dice Mod Effect
 
