@@ -860,7 +860,7 @@ An Attribute Dice Mod adds or subtracts dice for Dice Pools if they governed by 
 
 **Affected Attributes:** If any skill is governed by at least one of the attribute listed, than apply the Dice Pool Modifier to that Skill's Dice Pool.
 
-**Dice Pool Modifier:** The Dice Pool Modifier that will be applied to a Dice Pool.
+**Dice Pool Modifier:** The Dice Pool Modifier that will be applied to the Dice Pools.
 
 ### Injury
 
@@ -2444,7 +2444,7 @@ Adds or subtracts dice from the specified Skills/Vocations Dice Pools.
 
 **Affected Skills:** The Skills/Vocations that are effected.
 
-**Dice Pool Modifier:** The adjustment to the tier of the Base Dice for the Skills/Vocations.
+**Dice Pool Modifier:** The Dice Pool Modifier that will be applied to the Dice Pools.
 
 |              Name              |           Description           |  Duration  | Source | Affected Skills | Dice Pool Modifier |
 | :-----------------------------: | :-----------------------------: | :--------: | :----: | :-------------: | :----------------: |
