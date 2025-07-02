@@ -2392,7 +2392,13 @@ Sets a the Skills/Vocations of a character to specified level. If the character'
 
 ## Set Skill Base Dice Effect
 
-Sets the base dice of specific skills or vocations dice pools.
+Sets a the tier of the Base Dice for the Skills/Vocations specified.
+
+*If the character's innate Skill/Vocation is greater than or equal to the new value, no change occurs.
+
+**Affected Skills:** The Skills/Vocations that are effected.
+
+**Base Dice By Tier:** The tier the Base Dice the Skills/Vocations are going to be set to.
 
 |               Name               |                    Description                    |  Duration  | Source | Affected Skills | Base Dice By Tier |
 | :------------------------------: | :-----------------------------------------------: | :--------: | :----: | :-------------: | :---------------: |
