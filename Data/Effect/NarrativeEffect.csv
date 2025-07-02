@@ -315,15 +315,6 @@ Disabling: Overly Nostalgic,Constantly reminiscing about the good old day.,Indef
 Disabling: Nerve Damage,Character has suffered severe damage theirs nerves. The Perception Skill is locked at level -1.,Indefinite,Backstory
 ,,,
 ,,,
-Language: Common,Can speak and write Common.,Indefinite,Culture
-Language: Dwarvish,Can speak and write Dwarvish.,Indefinite,Culture
-Language: Elvish,Can speak and write Elvish.,Indefinite,Culture
-Language: Giant,Can speak and write Giant.,Indefinite,Culture
-Language: Gnomish,Can speak and write Gnomish.,Indefinite,Culture
-Language: Goblin,Can speak and write Goblin.,Indefinite,Culture
-Language: Halfling,Can speak and write Halfling.,Indefinite,Culture
-Language: Orcish,Can speak and write Orcish.,Indefinite,Culture
-,,,
 Gradual Healing,"Minor injuries heal in 1 day, others are downgraded in following days if maintained.",Indefinite,Treatment
 Minor Healing Factor,Minor injuries heal in a short rest. Medium injuries heal durning a long rest. A stabilized Serious injuries heal over a 24 hour rest. Cannot effect higher tier injuries.,24 hours,Treatment
 Continuous Minor Healing Factor,Minor injuries heal in a short rest. Medium injuries heal durning a long rest. A stabilized Serious injuries heal over a 24 hour rest. Cannot effect higher tier injuries.,Indefinite,Treatment
@@ -332,6 +323,16 @@ Medium Heal,"Removes a medium or lesser injury. For a higher tier injury, reduce
 Serious Heal,"Removes a serious or lesser injury. For a higher tier injury, reduce the dice penalty of the injury by 3. Injury remains at its current tier. Further serious healing has no effect. ",Instantaneous,Treatment
 Fatal Heal,Removes a Fatal or lesser injury. Can be used to reattach limbs as long as the limb is not destroyed.,Instantaneous,Treatment
 Revival Heal,"Return a dead character to life with a serious injury. Can only be performed within minutes of death. For living characters, it completely heals all injuries, regrowing body parts, and returning the body to peak performance.",Instantaneous,Treatment
+,,,
+,,,
+Language: Common,Can speak and write Common.,Indefinite,Culture
+Language: Dwarvish,Can speak and write Dwarvish.,Indefinite,Culture
+Language: Elvish,Can speak and write Elvish.,Indefinite,Culture
+Language: Giant,Can speak and write Giant.,Indefinite,Culture
+Language: Gnomish,Can speak and write Gnomish.,Indefinite,Culture
+Language: Goblin,Can speak and write Goblin.,Indefinite,Culture
+Language: Halfling,Can speak and write Halfling.,Indefinite,Culture
+Language: Orcish,Can speak and write Orcish.,Indefinite,Culture
 ,,,
 ,,,
 ,,,
