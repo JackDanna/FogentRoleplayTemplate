@@ -2396,10 +2396,9 @@ Sets the base dice of specific skills or vocations dice pools.
 
 For instance, if a Mundane Fire Magic Spellcasting Focus is used, all uses of the Fire Magic Skill have 3d6. With a Excellent Fire Magic Spellcasting Focus, all uses of the Fire magic Skill have 3d8 instead. Base Dices also apply to tools/gear used in skill rolls (high-quality climbing equipment for use with Athletics), and is meant to apply both in and out of combat.
 
-|                  Name                  |                                Description                                |  Duration  | Source |
-| :-------------------------------------: | :------------------------------------------------------------------------: | :--------: | :----: |
-| Excellent Nature Fellcraft Arcane Focus | 3d8 base dice for Terracraft, Hydrocraft, Naturecraft and Galecraft skill. | Indefinite |        |
-|          Fine Endurance Charm          |                  1d6, 2d8 base dice for Endurance skill.                  | Indefinite |        |
+|               Name               |                    Description                    |  Duration  | Source | Affected Skills | Base Dice By Tier |
+| :------------------------------: | :-----------------------------------------------: | :--------: | :----: | :-------------: | :---------------: |
+| Endurance +2 Set Skill Base Dice | Tier for Endurance Skill Dice Pool set to tier 2. | Indefinite | Innate |    Endurance    |         2         |
 
 ## Adjusted Attribute Level Effect
 
