@@ -860,7 +860,7 @@ An Attribute Dice Mod adds or subtracts dice for Dice Pools if they governed by 
 
 **Affected Attributes:** If any skill is governed by at least one of the attribute listed, than apply the Dice Pool Modifier to that Skill's Dice Pool.
 
-**Dice Pool Modifier:** The Dice Pool Modifier that will be applied to a Dice Pool.
+**Dice Pool Modifier:** The Dice Pool Modifier that will be applied to the Dice Pools.
 
 ### Injury
 
@@ -887,6 +887,56 @@ Weight Class represent the physical strain of carrying equipment. Some character
 |    Weight Class: Heavy    | -2d to STR/RFX governed Dice Pools | Indefinite | 50% < Equipment Weight <= 75% of Carry Weight |      STR, RFX      |        -2d        |
 |  Weight Class: Very Heavy  | -3d to STR/RFX governed Dice Pools | Indefinite | 75% < Equipment Weight <= 100% of Carry Weight |      STR, RFX      |        -3d        |
 | Weight Class: Overburdened | -4d to STR/RFX governed Dice Pools | Indefinite |    100% < Equipment Weight of Carry Weight    |      STR, RFX      |        -4d        |
+
+## Skill Dice Mod Effect
+
+Adds or subtracts dice from the specified Skills/Vocations Dice Pools.
+
+**Affected Skills:** The Skills/Vocations that are effected.
+
+**Dice Pool Modifier:** The Dice Pool Modifier that will be applied to the Dice Pools.
+
+|               Name               |           Description           |  Duration  | Source | Affected Skills | Dice Pool Modifier |
+| :------------------------------: | :-----------------------------: | :--------: | :----: | :-------------: | :----------------: |
+| Minorly Enhanced Knight Vocation |    +1d6 to Knight Dice Pool.    | Indefinite | Innate |     Knight     |        +1d6        |
+|                                  |                                |            |        |                |                    |
+|    Minorly Enhanced Athletics    |  +1d6 to Athletics Dice Pool.  | Indefinite | Innate |    Athletics    |        +1d6        |
+|   Minorly Diminished Athletics   |   -1d to Athletics Dice Pool.   | Indefinite | Innate |    Athletics    |        -1d        |
+|                                  |                                |            |        |                |                    |
+|    Minorly Enhanced Endurance    |  +1d6 to Endurance Dice Pool.  | Indefinite | Innate |    Endurance    |        +1d6        |
+|   Minorly Diminished Endurance   |   -1d to Endurance Dice Pool.   | Indefinite | Innate |    Endurance    |        -1d        |
+|                                  |                                |            |        |                |                    |
+|      Minorly Enhanced Lift      |     +1d6 to Lift Dice Pool.     | Indefinite | Innate |      Lift      |        +1d6        |
+|     Minorly Diminished Lift     |     -1d to Lift Dice Pool.     | Indefinite | Innate |      Lift      |        -1d        |
+|                                  |                                |            |        |                |                    |
+|    Minorly Enhanced Dexterity    |  +1d6 to Dexterity Dice Pool.  | Indefinite | Innate |    Dexterity    |        +1d6        |
+|   Minorly Diminished Dexterity   |   -1d to Dexterity Dice Pool.   | Indefinite | Innate |    Dexterity    |        -1d        |
+|                                  |                                |            |        |                |                    |
+|   Minorly Enhanced Perception   |  +1d6 to Perception Dice Pool.  | Indefinite | Innate |   Perception   |        +1d6        |
+|  Minorly Diminished Perception  |  -1d to Perception Dice Pool.  | Indefinite | Innate |   Perception   |        -1d        |
+|                                  |                                |            |        |                |                    |
+|     Minorly Enhanced Stealth     |   +1d6 to Stealth Dice Pool.   | Indefinite | Innate |     Stealth     |        +1d6        |
+|    Minorly Diminished Stealth    |    -1d to Stealth Dice Pool.    | Indefinite | Innate |     Stealth     |        -1d        |
+|                                  |                                |            |        |                |                    |
+|      Minorly Enhanced Logic      |    +1d6 to Logic Dice Pool.    | Indefinite | Innate |      Logic      |        +1d6        |
+|     Minorly Diminished Logic     |     -1d to Logic Dice Pool.     | Indefinite | Innate |      Logic      |        -1d        |
+|                                  |                                |            |        |                |                    |
+|    Minorly Enhanced Knowledge    |  +1d6 to Knowledge Dice Pool.  | Indefinite | Innate |    Knowledge    |        +1d6        |
+|   Minorly Diminished Knowledge   |   -1d to Knowledge Dice Pool.   | Indefinite | Innate |    Knowledge    |        -1d        |
+|                                  |                                |            |        |                |                    |
+|      Minorly Enhanced Will      |     +1d6 to Will Dice Pool.     | Indefinite | Innate |      Will      |        +1d6        |
+|     Minorly Diminished Will     |     -1d to Will Dice Pool.     | Indefinite | Innate |      Will      |        -1d        |
+|                                  |                                |            |        |                |                    |
+|  Minorly Enhanced Intimidation  | +1d6 to Intimidation Dice Pool. | Indefinite | Innate |  Intimidation  |        +1d6        |
+| Minorly Diminished Intimidation | -1d to Intimidation Dice Pool. | Indefinite | Innate |  Intimidation  |        -1d        |
+|                                  |                                |            |        |                |                    |
+|    Minorly Enhanced Deception    |  +1d6 to Deception Dice Pool.  | Indefinite | Innate |    Deception    |        +1d6        |
+|   Minorly Diminished Deception   |   -1d to Deception Dice Pool.   | Indefinite | Innate |    Deception    |        -1d        |
+|                                  |                                |            |        |                |                    |
+|   Minorly Enhanced Persuasion   |  +1d6 to Persuasion Dice Pool.  | Indefinite | Innate |   Persuasion   |        +1d6        |
+|  Minorly Diminished Persuasion  |  -1d to Persuasion Dice Pool.  | Indefinite | Innate |   Persuasion   |        -1d        |
+|                                  |                                |            |        |                |                    |
+|  Minorly Enhanced Medium Melee  | +1d6 to Medium Melee Dice Pool. | Indefinite | Innate |  Medium Melee  |        +1d6        |
 
 ## Defense Effect
 
@@ -2437,66 +2487,6 @@ Adjusts the tier of the base dice of a specified Skills/Vocations Dice Pools.
 |                 Name                 |                  Description                  |  Duration  | Source | Affected Skills | Tier Adjustment |
 | :-----------------------------------: | :--------------------------------------------: | :--------: | :----: | :-------------: | :-------------: |
 | Athletics +3 Adjusted Skill Base Dice | Adjust the Base Dice tier for Athletics by +3. | Indefinite | Innate |    Athletics    |       +3       |
-
-## Dice Pool Dice Mod Effect
-
-Adds or subtracts dice for specific skill or vocation dice pools.
-
-|             Name             |           Description           | Duration   | Source | Dice Pool Modifier | Affected Dice Pools |
-| :---------------------------: | :-----------------------------: | ---------- | ------ | :----------------: | :-----------------: |
-|  Minorly Enhanced Blazecraft  |  +1d6 to Blazecraft Dice Pool.  | Indefinite | Innate |        +1d6        |     Blazecraft     |
-|  Minorly Enhanced Knighthood  |  +1d6 to Knighthood Dice Pool.  | Indefinite | Innate |        +1d6        |       Knight       |
-|  Minorly Enhanced Toxincraft  |  +1d6 to Toxincraft Dice Pool.  | Indefinite | Innate |        +1d6        |     Toxincraft     |
-|                              |                                |            |        |                    |                    |
-|  Minorly Enhanced Athletics  |  +1d6 to Athletics Dice Pool.  | Indefinite | Innate |        +1d6        |      Athletics      |
-|      Enhanced Athletics      |  +2d6 to Athletics Dice Pool.  | Indefinite | Innate |        +2d6        |      Athletics      |
-|  Greatly Enhanced Athletics  |  +3d6 to Athletics Dice Pool.  | Indefinite | Innate |        +3d6        |      Athletics      |
-|                              |                                |            |        |                    |                    |
-|  Minorly Enhanced Endurance  |  +1d6 to Endurance Dice Pool.  | Indefinite | Innate |        +1d6        |      Endurance      |
-|      Enhanced Endurance      |  +2d6 to Endurance Dice Pool.  | Indefinite | Innate |        +2d6        |      Endurance      |
-|  Greatly Enhanced Endurance  |  +3d6 to Endurance Dice Pool.  | Indefinite | Innate |        +3d6        |      Endurance      |
-|                              |                                |            |        |                    |                    |
-|     Minorly Enhanced Lift     |     +1d6 to Lift Dice Pool.     | Indefinite | Innate |        +1d6        |        Lift        |
-|         Enhanced Lift         |     +2d6 to Lift Dice Pool.     | Indefinite | Innate |        +2d6        |        Lift        |
-|     Greatly Enhanced Lift     |     +3d6 to Lift Dice Pool.     | Indefinite | Innate |        +3d6        |        Lift        |
-|                              |                                |            |        |                    |                    |
-|  Minorly Enhanced Dexterity  |  +1d6 to Dexterity Dice Pool.  | Indefinite | Innate |        +1d6        |      Dexterity      |
-|      Enhanced Dexterity      |  +2d6 to Dexterity Dice Pool.  | Indefinite | Innate |        +2d6        |      Dexterity      |
-|  Greatly Enhanced Dexterity  |  +3d6 to Dexterity Dice Pool.  | Indefinite | Innate |        +3d6        |      Dexterity      |
-|                              |                                |            |        |                    |                    |
-|  Minorly Enhanced Perception  |  +1d6 to Perception Dice Pool.  | Indefinite | Innate |        +1d6        |     Perception     |
-|      Enhanced Perception      |  +2d6 to Perception Dice Pool.  | Indefinite | Innate |        +2d6        |     Perception     |
-|  Greatly Enhanced Perception  |  +3d6 to Perception Dice Pool.  | Indefinite | Innate |        +3d6        |     Perception     |
-|                              |                                |            |        |                    |                    |
-|   Minorly Enhanced Stealth   |   +1d6 to Stealth Dice Pool.   | Indefinite | Innate |        +1d6        |       Stealth       |
-|       Enhanced Stealth       |   +2d6 to Stealth Dice Pool.   | Indefinite | Innate |        +2d6        |       Stealth       |
-|   Greatly Enhanced Stealth   |   +3d6 to Stealth Dice Pool.   | Indefinite | Innate |        +3d6        |       Stealth       |
-|                              |                                |            |        |                    |                    |
-|    Minorly Enhanced Logic    |    +1d6 to Logic Dice Pool.    | Indefinite | Innate |        +1d6        |        Logic        |
-|        Enhanced Logic        |    +2d6 to Logic Dice Pool.    | Indefinite | Innate |        +2d6        |        Logic        |
-|    Greatly Enhanced Logic    |    +3d6 to Logic Dice Pool.    | Indefinite | Innate |        +3d6        |        Logic        |
-|                              |                                |            |        |                    |                    |
-|  Minorly Enhanced Knowledge  |  +1d6 to Knowledge Dice Pool.  | Indefinite | Innate |        +1d6        |      Knowledge      |
-|      Enhanced Knowledge      |  +2d6 to Knowledge Dice Pool.  | Indefinite | Innate |        +2d6        |      Knowledge      |
-|  Greatly Enhanced Knowledge  |  +3d6 to Knowledge Dice Pool.  | Indefinite | Innate |        +3d6        |      Knowledge      |
-|                              |                                |            |        |                    |                    |
-|     Minorly Enhanced Will     |     +1d6 to Will Dice Pool.     | Indefinite | Innate |        +1d6        |        Will        |
-|         Enhanced Will         |     +2d6 to Will Dice Pool.     | Indefinite | Innate |        +2d6        |        Will        |
-|     Greatly Enhanced Will     |     +3d6 to Will Dice Pool.     | Indefinite | Innate |        +3d6        |        Will        |
-|                              |                                |            |        |                    |                    |
-| Minorly Enhanced Intimidation | +1d6 to Intimidation Dice Pool. | Indefinite | Innate |        +1d6        |    Intimidation    |
-|     Enhanced Intimidation     | +2d6 to Intimidation Dice Pool. | Indefinite | Innate |        +2d6        |    Intimidation    |
-| Greatly Enhanced Intimidation | +3d6 to Intimidation Dice Pool. | Indefinite | Innate |        +3d6        |    Intimidation    |
-|                              |                                |            |        |                    |                    |
-|  Minorly Enhanced Deception  |  +1d6 to Deception Dice Pool.  | Indefinite | Innate |        +1d6        |      Deception      |
-|      Enhanced Deception      |  +2d6 to Deception Dice Pool.  | Indefinite | Innate |        +2d6        |      Deception      |
-|  Greatly Enhanced Deception  |  +3d6 to Deception Dice Pool.  | Indefinite | Innate |        +3d6        |      Deception      |
-|                              |                                |            |        |                    |                    |
-|  Minorly Enhanced Persuasion  |  +1d6 to Persuasion Dice Pool.  | Indefinite | Innate |        +1d6        |     Persuasion     |
-|      Enhanced Persuasion      |  +2d6 to Persuasion Dice Pool.  | Indefinite | Innate |        +2d6        |     Persuasion     |
-|  Greatly Enhanced Persuasion  |  +3d6 to Persuasion Dice Pool.  | Indefinite | Innate |        +3d6        |     Persuasion     |
-|                              |                                |            |        |                    |                    |
-| Minorly Enhanced Medium Melee | +1d6 to Medium Sword Dice Pool. | Indefinite | Innate |        +1d6        |    Medium Melee    |
 
 ## Narrative Effect
 
