@@ -2495,6 +2495,8 @@ A Narrative Effect is a purely text based effect. It simply describes what it do
 
 #### Disabling Characteristic
 
+Disabling characteristics represent flaws your character has. This is an essential part of every great character as everyone needs a shortcoming to overcome or a temptation to fall into. It should be noted that disabling characteristics can be remedied through narrative with the Narrator's approval. If Disabling Characteristics are gained mid-campaign, it should make intuitive sense for that character. Maybe they picked up an addiction, got their heart broken, have a new fear of a monster they've recently faced or are suffering the long-lasting impact of a serious injury they took. Regardless this should be a negotiation between the player and Narrator.
+
 |                     Name                     |                                           Description                                           |  Duration  |  Source  |
 | :------------------------------------------: | :---------------------------------------------------------------------------------------------: | :--------: | :-------: |
 |              Disabling: Amnesia              |                       Character is missing a large portion of their past.                       | Indefinite | Backstory |
@@ -3106,13 +3108,6 @@ Almost all traditional offensive magic spells can be represented as Weapon Spell
 ## Character Creation Rules
 
 - [Character Sheet Template](./src/CoreRules/CharacterCreationRules/temp/temp/temp/CharacterSheetTemplate.md)
-
-## Disabling Characteristics
-
-Disabling characteristics represent flaws your character has. This is an essential part of every great character as everyone needs a shortcoming to overcome or a temptation to fall into. It should be noted that disabling characteristics can be remedied through narrative with the Narrator's approval. If Disabling Characteristics are gained mid-campaign, it should make intuitive sense for that character. Maybe they picked up an addiction, got their heart broken, have a new fear of a monster they've recently faced or are suffering the long-lasting impact of a serious injury they took. Regardless this should be a negotiation between the player and Narrator.
-
-| Name | Description | Duration | Source |
-| :--: | :---------: | -------- | ------ |
 
 ## Tier Of Play
 
