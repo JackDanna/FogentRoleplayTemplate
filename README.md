@@ -847,8 +847,8 @@ All of the following examples could effect the narrative.
 - An item having a curse on it that gives the wielder permanent weakness (Attribute Dice Mod Effect)
 - A character having a enchantment on them which alters their Attribute levels (Adjusted Attribute Level Effect/Set Attribute Level Effect)
 - An item having an enchantment that alters the wielder's Attribute levels (Adjusted Attribute Level Effect/Set Attribute Level Effect)
-- A character having a enchantment on them which alters their Skill Dice Pools (Adjusted Skill Level Effect/Set Skill Level Effect/Skill Base Dice Effect)
-- An item having an enchantment that alters the wielder's Skill Dice Pools (Adjusted Skill Level Effect/Set Skill Level Effect/Skill Base Dice Effect)
+- A character having a enchantment on them which alters their Skill Dice Pools (Adjusted Skill Level Effect/Set Skill Level Effect/Set Skill Base Dice Effect)
+- An item having an enchantment that alters the wielder's Skill Dice Pools (Adjusted Skill Level Effect/Set Skill Level Effect/Set Skill Base Dice Effect)
 - A character having the ability to carry equipment (Container Effect)
 - An item being able to contain other items, such as a backpack (Container Effect)
 - A character being able to move during a Combat Round (Movement Speed Effect)
@@ -2390,6 +2390,18 @@ Sets a the Skills/Vocations of a character to specified level. If the character'
 |    Adept Persuasion    |  Persuasion set to level 2.  | Indefinite | Innate |   Persuasion   |   2   |
 |    Expert Persuasion    |  Persuasion set to level 3.  | Indefinite | Innate |   Persuasion   |   3   |
 
+## Set Skill Base Dice Effect
+
+Sets a the tier of the Base Dice for the Skills/Vocations specified.
+
+**Affected Skills:** The Skills/Vocations that are effected.
+
+**Base Dice By Tier:** The tier the Base Dice the Skills/Vocations are going to be set to.
+
+|               Name               |                         Description                         |  Duration  | Source | Affected Skills | Base Dice By Tier |
+| :------------------------------: | :----------------------------------------------------------: | :--------: | :----: | :-------------: | :---------------: |
+| Endurance +2 Set Skill Base Dice | Base Dice for the Endurance Skill's Dice Pool set to tier 2. | Indefinite | Innate |    Endurance    |         2         |
+
 ## Adjusted Attribute Level Effect
 
 For a specified Attribute, a Character receives an adjustment to it's level. The resulting level can not go outside the upper and lower bounds for a Attribute.
@@ -2425,17 +2437,6 @@ Adjusts the tier of the base dice of a specified Skills/Vocations Dice Pools.
 |                 Name                 |                  Description                  |  Duration  | Source | Affected Skills | Tier Adjustment |
 | :-----------------------------------: | :--------------------------------------------: | :--------: | :----: | :-------------: | :-------------: |
 | Athletics +3 Adjusted Skill Base Dice | Adjust the Base Dice tier for Athletics by +3. | Indefinite | Innate |    Athletics    |       +3       |
-
-## Skill Base Dice Effect
-
-Sets the base dice of specific skills or vocations dice pools.
-
-For instance, if a Mundane Fire Magic Spellcasting Focus is used, all uses of the Fire Magic Skill have 3d6. With a Excellent Fire Magic Spellcasting Focus, all uses of the Fire magic Skill have 3d8 instead. Base Dices also apply to tools/gear used in skill rolls (high-quality climbing equipment for use with Athletics), and is meant to apply both in and out of combat.
-
-|                  Name                  |                                Description                                |  Duration  | Source |
-| :-------------------------------------: | :------------------------------------------------------------------------: | :--------: | :----: |
-| Excellent Nature Fellcraft Arcane Focus | 3d8 base dice for Terracraft, Hydrocraft, Naturecraft and Galecraft skill. | Indefinite |        |
-|          Fine Endurance Charm          |                  1d6, 2d8 base dice for Endurance skill.                  | Indefinite |        |
 
 ## Dice Pool Dice Mod Effect
 
@@ -2886,7 +2887,7 @@ Another avenue to explore is how magic skills could be combined.
 
 All magic needs a Spellcasting Focus to be cast through wether a wizard's staff, a druid's focus, or even a character's own body. Just about anything can be made into a Spellcasting Focus from a narrative perspective, but it is up to the Narrator to decide if their are any restrictions in their magic system/setting.
 
-Spellcasting Focuses often have Skill Base Dice Effects on them that influence the magic skills cast through it, assuming they apply to that skill.
+Spellcasting Focuses often have Set Skill Base Dice Effects on them that influence the magic skills cast through it, assuming they apply to that skill.
 
 ## Spells
 
