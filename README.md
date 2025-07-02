@@ -2612,12 +2612,6 @@ A character takes up a certain amount of space on the battle map.
 
 - [Character Sheet Template](./src/CoreRules/CharacterCreationRules/temp/temp/temp/CharacterSheetTemplate.md)
 
-## Tier Of Play
-
-### Stuff to move down
-
-Two kinds of skills fall under a Vocation, Vocational Skills and Combat Skills.
-
 ## Weapon Combat Skills
 
 A Weapon Combat Skill covers the use of a group of similar weapons. The tables over on the Weapons rules show which weapons are group under which Weapon Combat Skills. For instance, the "Medium Melee" Weapon Combat Skill covers the use of "Medium Hafted", "Medium Sword", and "Medium Spear".
@@ -2660,6 +2654,12 @@ Starting with the weapon skill your character currently possesses, each horizont
 Since certain weapon sizes provide more combat skill transfer than others, it is intend for the Narrator to allow rebalancing skill point investments as to not waste skill levels as long as all previously know skills maintain they're skill level.
 
 For example, a character has just been given 1 skill point to spend and has a level 3 in Small Blade. They wish to invest their skill point into the Medium Sword skill to try a new magic sword they found. Since they have a 3 in Small Blade already, by the Weapon Combat Skill Transfer rules they have a level 2 in Medium Sword. If they were to invest their skill point into Medium Sword to bring it to level 3, they are technically wasting skill points as had they from the start only invested the 3 skill points from Small Blade into Medium sword, with the addition of the unspent skill point, they'd have a level 4 in Medium sword, which would also give them a level 3 in Small Blade. Instead of wasting skill points, they can take the 3 skill points from Small Blade and the 1 unspent skill point and spend it on bring Medium sword to level 4. Since having a level 4 in Medium Sword gives a level 3 in Small Blade, nothing has changed in Small Blade.
+
+## Tier Of Play
+
+### Stuff to move down
+
+Two kinds of skills fall under a Vocation, Vocational Skills and Combat Skills.
 
 #### Combat Skills
 
