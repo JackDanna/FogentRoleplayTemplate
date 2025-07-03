@@ -2610,7 +2610,7 @@ A character takes up a certain amount of space on the battle map.
 
 ## Tier Of Play
 
-Tier Of Play represents the how large the stakes are for a game/campaign aswell
+Tier Of Play represents the how large the stakes are for a game/campaign aswell as how powerful the player characters are.
 
 **Attribute Points:** The number of points you can spend to increase a character's Attributes.
 
@@ -2622,95 +2622,81 @@ Tier Of Play represents the how large the stakes are for a game/campaign aswell
 
 **Disabling Characteristics:** See Disabling Characteristics rules. At character creation, for each Disabling Characteristic that makes a Core Skill Incompetent (level -1), an additional skill point is gained. At character creation, players characters that take a Disabling Characteristic that results in a -1 in an Attribute (STR, RFX, or INT would be Feeble, Heavy, Dim-witted, etc...) gain an additional 2 skill points.
 
+#### Novice Tier (D&D Level 0)
+
+| Level | Attribute Points | Vocation Points | Skill Points | Vocation/Skill Level Cap |       Rewards Gained       |
+| :---: | :--------------: | :-------------: | :----------: | :----------------------: | :-------------------------: |
+|   1   |        0        |        0        |      0      |            1            | Vocation/Skill Cap set to 1 |
+|   2   |        0        |        0        |      1      |            1            |       +1 Skill Point       |
+|   3   |        0        |        0        |      2      |            1            |       +1 Skill Point       |
+|   4   |        0        |        0        |      3      |            1            |       +1 Skill Point       |
+|   5   |        0        |        0        |      4      |            1            |       +1 Skill Point       |
+|   6   |        0        |        0        |      5      |            1            |       +1 Skill Point       |
+
 #### Apprentice Tier (D&D Level 1 - 4)
 
 Represent a group of mostly wide eyed/unexperienced characters setting out on their first true adventure.
 
-| Level |                                                           Reward Gained                                                           | Total Vocation Points | Total Skill Points | Total Attribute Points | Vocation/Skill Level Cap |
-| :---: | :-------------------------------------------------------------------------------------------------------------------------------: | :-------------------: | :----------------: | :--------------------: | :----------------------: |
-|   1   | Vocation/Skill Cap set to 1<br />+1 Vocation Point<br />+1 Attribute Point<br />+4 Skill Point<br />+New Disabling Characteristic |           1           |         4         |           1           |            1            |
-|   2   |                                                          +1 Skill Point                                                          |           1           |         5         |           1           |            1            |
-|   3   |                                                          +1 Skill Point                                                          |           1           |         6         |           1           |            1            |
-|   4   |                                                          +1 Skill Point                                                          |           1           |         7         |           1           |            1            |
-|   5   |                                                        +1 Attribute Point                                                        |           1           |         7         |           2           |            1            |
+| Level | Attribute Points | Vocation Points | Skill Points | Vocation/Skill Level Cap |   Rewards Gained   |
+| :---: | :--------------: | :-------------: | :----------: | :----------------------: | :----------------: |
+|   7   |        1        |        0        |      5      |            2            | +1 Attribute Point |
+|   8   |        1        |        0        |      6      |            2            |   +1 Skill Point   |
+|   9   |        1        |        0        |      7      |            2            |   +1 Skill Point   |
+|  10  |        1        |        0        |      8      |            2            |   +1 Skill Point   |
+|  11  |        1        |        0        |      9      |            2            |   +1 Skill Point   |
+|  12  |        1        |        0        |      10      |            2            |   +1 Skill Point   |
 
 #### Adept Tier (D&D Level 5 - 8)
 
 Represents a group of adept characters who have already made a name for themselves in their local region. They likely have a reputation and are more likely to be treated with respect.
 
-| Level |                                               Reward Gained                                               | Total<br />Vocation<br />Points | Total<br />Skill<br />Points | Total<br />Attribute<br />Points | Vocation/Skill<br />Cap |
-| :---: | :-------------------------------------------------------------------------------------------------------: | :-----------------------------: | :--------------------------: | :------------------------------: | :---------------------: |
-|   6   | Vocation/Skill Cap set to 2<br />+1 Vocation Point<br />+1 Skill Point<br />+New Disabling Characteristic |                2                |              8              |                2                |            2            |
-|   7   |                                              +1 Skill Point                                              |                2                |              9              |                2                |            2            |
-|   8   |                                              +1 Skill Point                                              |                2                |              10              |                2                |            2            |
-|   9   |                                              +1 Skill Point                                              |                2                |              11              |                2                |            2            |
-|  10  |                                              +1 Skill Point                                              |                2                |              12              |                2                |            2            |
-|  11  |                                              +1 Skill Point                                              |                2                |              13              |                2                |            2            |
-|  12  |                                            +1 Attribute Point                                            |                2                |              13              |                3                |            2            |
-|  13  |                                              +1 Skill Point                                              |                2                |              14              |                3                |            2            |
+| Level | Attribute Points | Vocation Points | Skill Points | Vocation/Skill Level Cap |   Rewards Gained   |
+| :---: | :--------------: | :-------------: | :----------: | :----------------------: | :----------------: |
+|  13  |        2        |        0        |      10      |            2            | +1 Attribute Point |
+|  14  |        2        |        0        |      11      |            2            |   +1 Skill Point   |
+|  15  |        2        |        0        |      12      |            2            |   +1 Skill Point   |
+|  16  |        2        |        0        |      13      |            2            |   +1 Skill Point   |
+|  17  |        2        |        0        |      14      |            2            |   +1 Skill Point   |
+|  18  |        2        |        0        |      15      |            2            |   +1 Skill Point   |
 
 #### Expert Tier (D&D Level 9 - 12)
 
 Represents a group of veteran characters who made a name for themselves in their larger region.
 
-| Level |                                               Reward Gained                                               | Total<br />Vocation<br />Points | Total<br />Skill<br />Points | Total<br />Attribute<br />Points | Vocation/Skill<br />Cap |
-| :---: | :-------------------------------------------------------------------------------------------------------: | :-----------------------------: | :--------------------------: | :------------------------------: | :---------------------: |
-|  14  | Vocation/Skill Cap set to 3<br />+1 Vocation Point<br />+1 Skill Point<br />+New Disabling Characteristic |                3                |              15              |                3                |            3            |
-|  15  |                                              +1 Skill Point                                              |                3                |              16              |                3                |            3            |
-|  16  |                                              +1 Skill Point                                              |                3                |              17              |                3                |            3            |
-|  17  |                                              +1 Skill Point                                              |                3                |              18              |                3                |            3            |
-|  18  |                                              +1 Skill Point                                              |                3                |              19              |                3                |            3            |
-|  19  |                                              +1 Skill Point                                              |                3                |              20              |                3                |            3            |
-|  20  |                                              +1 Skill Point                                              |                3                |              21              |                3                |            3            |
-|  21  |                                              +1 Skill Point                                              |                3                |              22              |                3                |            3            |
-|  22  |                                            +1 Attribute Point                                            |                3                |              22              |                4                |            3            |
-|  23  |                                              +1 Skill Point                                              |                3                |              23              |                4                |            3            |
-|  24  |                                              +1 Skill Point                                              |                3                |              24              |                4                |            3            |
+| Level | Attribute Points | Vocation Points | Skill Points | Vocation/Skill Level Cap |   Rewards Gained   |
+| :---: | :--------------: | :-------------: | :----------: | :----------------------: | :----------------: |
+|  19  |        3        |        0        |      15      |            3            | +1 Attribute Point |
+|  20  |        3        |        0        |      16      |            3            |   +1 Skill Point   |
+|  21  |        3        |        0        |      17      |            3            |   +1 Skill Point   |
+|  22  |        3        |        0        |      18      |            3            |   +1 Skill Point   |
+|  23  |        3        |        0        |      19      |            3            |   +1 Skill Point   |
+|  24  |        3        |        0        |      20      |            3            |   +1 Skill Point   |
 
 #### Master Tier (D&D Level 13 - 16)
 
 Represents a group of characters known between countries that are regarded for their mastery of their respective strengths.
 
-| Level |                                               Reward Gained                                               | Total<br />Vocation<br />Points | Total<br />Skill<br />Points | Total<br />Attribute<br />Points | Vocation/Skill<br />Cap |
-| :---: | :-------------------------------------------------------------------------------------------------------: | :-----------------------------: | :--------------------------: | :------------------------------: | :---------------------: |
-|  25  | Vocation/Skill Cap set to 4<br />+1 Vocation Point<br />+1 Skill Point<br />+New Disabling Characteristic |                4                |              25              |                4                |            4            |
-|  26  |                                              +1 Skill Point                                              |                4                |              26              |                4                |            4            |
-|  27  |                                              +1 Skill Point                                              |                4                |              27              |                4                |            4            |
-|  28  |                                              +1 Skill Point                                              |                4                |              28              |                4                |            4            |
-|  29  |                                              +1 Skill Point                                              |                4                |              29              |                4                |            4            |
-|  30  |                                              +1 Skill Point                                              |                4                |              30              |                4                |            4            |
-|  31  |                                              +1 Skill Point                                              |                4                |              31              |                4                |            4            |
-|  32  |                                              +1 Skill Point                                              |                4                |              32              |                4                |            4            |
-|  33  |                                              +1 Skill Point                                              |                4                |              33              |                4                |            4            |
-|  34  |                                              +1 Skill Point                                              |                4                |              34              |                4                |            4            |
-|  35  |                                            +1 Attribute Point                                            |                4                |              34              |                5                |            4            |
-|  36  |                                              +1 Skill Point                                              |                4                |              35              |                5                |            4            |
-|  37  |                                              +1 Skill Point                                              |                4                |              36              |                5                |            4            |
-|  38  |                                              +1 Skill Point                                              |                4                |              37              |                5                |            4            |
+| Level | Attribute Points | Vocation Points | Skill Points | Vocation/Skill Level Cap |   Rewards Gained   |
+| :---: | :--------------: | :-------------: | :----------: | :----------------------: | :----------------: |
+|  25  |        4        |        0        |      20      |            4            | +1 Attribute Point |
+|  26  |        4        |        0        |      21      |            4            |   +1 Skill Point   |
+|  27  |        4        |        0        |      22      |            4            |   +1 Skill Point   |
+|  28  |        4        |        0        |      23      |            4            |   +1 Skill Point   |
+|  29  |        4        |        0        |      24      |            4            |   +1 Skill Point   |
+|  30  |        4        |        0        |      25      |            4            |   +1 Skill Point   |
 
 #### Legendary Tier (D&D Level 17 - 20)
 
 Represented by a group of legendary characters who have made their mark on history.
 
-| Level |                                               Reward Gained                                               | Total<br />Vocation<br />Points | Total<br />Skill<br />Points | Total<br />Attribute<br />Points | Vocation/Skill<br />Cap |
-| :---: | :-------------------------------------------------------------------------------------------------------: | :-----------------------------: | :--------------------------: | :------------------------------: | :---------------------: |
-|  39  | Vocation/Skill Cap set to 5<br />+1 Vocation Point<br />+1 Skill Point<br />+New Disabling Characteristic |                5                |              38              |                5                |            5            |
-|  40  |                                              +1 Skill Point                                              |                5                |              39              |                5                |            5            |
-|  41  |                                              +1 Skill Point                                              |                5                |              40              |                5                |            5            |
-|  42  |                                              +1 Skill Point                                              |                5                |              41              |                5                |            5            |
-|  43  |                                              +1 Skill Point                                              |                5                |              42              |                5                |            5            |
-|  44  |                                              +1 Skill Point                                              |                5                |              43              |                5                |            5            |
-|  45  |                                              +1 Skill Point                                              |                5                |              44              |                5                |            5            |
-|  46  |                                              +1 Skill Point                                              |                5                |              45              |                5                |            5            |
-|  47  |                                              +1 Skill Point                                              |                5                |              46              |                5                |            5            |
-|  48  |                                              +1 Skill Point                                              |                5                |              47              |                5                |            5            |
-|  49  |                                              +1 Skill Point                                              |                5                |              48              |                5                |            5            |
-|  50  |                                              +1 Skill Point                                              |                5                |              49              |                5                |            5            |
-|  51  |                                            +1 Attribute Point                                            |                5                |              49              |                6                |            5            |
-|  52  |                                              +1 Skill Point                                              |                5                |              50              |                6                |            5            |
-|  53  |                                              +1 Skill Point                                              |                5                |              51              |                6                |            5            |
-|  54  |                                              +1 Skill Point                                              |                5                |              52              |                6                |            5            |
-|  55  |                                              +1 Skill Point                                              |                5                |              53              |                6                |            5            |
+| Level | Attribute Points | Vocation Points | Skill Points | Vocation/Skill Level Cap |   Rewards Gained   |
+| :---: | :--------------: | :-------------: | :----------: | :----------------------: | :----------------: |
+|  31  |        4        |        0        |      25      |            5            | +1 Attribute Point |
+|  32  |        4        |        0        |      26      |            5            |   +1 Skill Point   |
+|  33  |        4        |        0        |      27      |            5            |   +1 Skill Point   |
+|  34  |        4        |        0        |      28      |            5            |   +1 Skill Point   |
+|  35  |        4        |        0        |      29      |            5            |   +1 Skill Point   |
+|  36  |        4        |        0        |      30      |            5            |   +1 Skill Point   |
 
 ## Character Creation Rules
 
