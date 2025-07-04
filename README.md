@@ -2655,7 +2655,7 @@ Represents a group of adept characters who have already made a name for themselv
 |  15  |        2        |      12      |            3            |                 +1 Skill Point                 |
 |  16  |        2        |      13      |            3            |                 +1 Skill Point                 |
 |  17  |        2        |      14      |            3            |                 +1 Skill Point                 |
-|  18  |        3        |      15      |            3            |               +1 Attribute Point               |
+|  18  |        3        |      14      |            3            |               +1 Attribute Point               |
 
 #### Expert Tier (D&D Level 9 - 12)
 
@@ -2668,7 +2668,7 @@ Represents a group of veteran characters who made a name for themselves in their
 |  21  |        3        |      17      |            4            |                 +1 Skill Point                 |
 |  22  |        3        |      18      |            4            |                 +1 Skill Point                 |
 |  23  |        3        |      19      |            4            |                 +1 Skill Point                 |
-|  24  |        4        |      20      |            4            |               +1 Attribute Point               |
+|  24  |        4        |      19      |            4            |               +1 Attribute Point               |
 
 #### Master Tier (D&D Level 13 - 16)
 
@@ -2681,7 +2681,7 @@ Represents a group of characters known between countries that are regarded for t
 |  27  |        4        |      22      |            5            |                 +1 Skill Point                 |
 |  28  |        4        |      23      |            5            |                 +1 Skill Point                 |
 |  29  |        4        |      24      |            5            |                 +1 Skill Point                 |
-|  30  |        5        |      25      |            5            |               +1 Attribute Point               |
+|  30  |        5        |      24      |            5            |               +1 Attribute Point               |
 
 #### Legendary Tier (D&D Level 17 - 20)
 
@@ -2694,7 +2694,7 @@ Represented by a group of legendary characters who have made their mark on histo
 |  33  |        5        |      27      |            5            |   +1 Skill Point   |
 |  34  |        5        |      28      |            5            |   +1 Skill Point   |
 |  35  |        5        |      29      |            5            |   +1 Skill Point   |
-|  36  |        6        |      30      |            5            | +1 Attribute Point |
+|  36  |        6        |      29      |            5            | +1 Attribute Point |
 
 ## Character Creation Rules
 
