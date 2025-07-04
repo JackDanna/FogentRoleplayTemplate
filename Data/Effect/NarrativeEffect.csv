@@ -267,11 +267,29 @@ Weakness: Serious Spiritual,+3 to the level of injury received from Spiritual.,I
 Weakness: Fatal Spiritual,+4 to the level of injury received from Spiritual.,Indefinite,Innate
 ,,,
 ,,,
+Disabling: Feeble,STR is set to -1,Indefinite,Backstory
+Disabling: Sluggish,RFX is set to -1,Indefinite,Backstory
+Disabling: Dim-witted,INT is set to -1,Indefinite,Backstory
+Disabling: Awkward,CHA is set to -1,Indefinite,Backstory
+,,,
+Disabling: Subpar Athletics,Athletics level is -1,Indefinite,Backstory
+Disabling: Subpar Endurance,Endurance level is -1,Indefinite,Backstory
+Disabling: Subpar Lift,Lift level is -1,Indefinite,Backstory
+,,,
+Disabling: Subpar Dexterity,Dexterity level is -1,Indefinite,Backstory
+Disabling: Subpar Perception,Perception level is -1,Indefinite,Backstory
+Disabling: Subpar Stealth,Stealth level is -1,Indefinite,Backstory
+,,,
+Disabling: Subpar Logic,Logic level is -1,Indefinite,Backstory
+Disabling: Subpar Knowledge,Knowledge level is -1,Indefinite,Backstory
+Disabling: Subpar Will,Will level is -1,Indefinite,Backstory
+,,,
+Disabling: Subpar Deception,Deception level is -1,Indefinite,Backstory
+Disabling: Subpar Intimidation,Intimidation level is -1,Indefinite,Backstory
+Disabling: Subpar Persuasion,Persuasion level is -1,Indefinite,Backstory
+,,,
 Disabling: Amnesia,Character is missing a large portion of their past.,Indefinite,Backstory
 Disabling: Missing bodily extremity/limb,STR and RFX dice penalties when performing tasks requiring 2 hands.,Indefinite,Backstory
-Disabling: Feeble,STR is set to -1,Indefinite,Backstory
-Disabling: Heavy,RFX is set to -1,Indefinite,Backstory
-Disabling: Dim-witted,INT is set to -1,Indefinite,Backstory
 Disabling: Phobia,Debilitating fear of ?.,Indefinite,Backstory
 Disabling: Extreme Prejudice,Overwhelming hatred/disgust of ?.,Indefinite,Backstory
 Disabling: Compulsive Liar,Compulsion to lie about self-aggrandizing claims/achievements.,Indefinite,Backstory
@@ -312,7 +330,6 @@ Disabling: People Pleaser,"Always try to make other people happy, even at their 
 Disabling: SKILL Overconfidence,"Extremely overconfident in SKILL, cannot invest in.",Indefinite,Backstory
 Disabling: Illiterate,Can't read or write.,Indefinite,Backstory
 Disabling: Overly Nostalgic,Constantly reminiscing about the good old day.,Indefinite,Backstory
-Disabling: Nerve Damage,Character has suffered severe damage theirs nerves. The Perception Skill is locked at level -1.,Indefinite,Backstory
 ,,,
 ,,,
 Gradual Healing,"Minor injuries heal in 1 day, others are downgraded in following days if maintained.",Indefinite,Treatment
