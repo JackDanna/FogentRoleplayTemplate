@@ -2633,40 +2633,40 @@ Tier Of Play represents the how large the stakes are for a game/campaign aswell 
 
 Represent a group of mostly wide eyed/unexperienced characters setting out on their first true adventure.
 
-| Level | Attribute Points | Skill Points | Vocation/Skill Level Cap |   Rewards Gained   |
-| :---: | :--------------: | :----------: | :----------------------: | :----------------: |
-|   7   |        1        |      5      |            2            | +1 Attribute Point |
-|   8   |        1        |      6      |            2            |   +1 Skill Point   |
-|   9   |        1        |      7      |            2            |   +1 Skill Point   |
-|  10  |        1        |      8      |            2            |   +1 Skill Point   |
-|  11  |        1        |      9      |            2            |   +1 Skill Point   |
-|  12  |        1        |      10      |            2            |   +1 Skill Point   |
+| Level | Attribute Points | Skill Points | Vocation/Skill Level Cap |                   Rewards Gained                   |
+| :---: | :--------------: | :----------: | :----------------------: | :-------------------------------------------------: |
+|   7   |        1        |      5      |            2            | Vocation/Skill Cap set to 2<br />+1 Attribute Point |
+|   8   |        1        |      6      |            2            |                   +1 Skill Point                   |
+|   9   |        1        |      7      |            2            |                   +1 Skill Point                   |
+|  10  |        1        |      8      |            2            |                   +1 Skill Point                   |
+|  11  |        1        |      9      |            2            |                   +1 Skill Point                   |
+|  12  |        1        |      10      |            2            |                   +1 Skill Point                   |
 
 #### Adept Tier (D&D Level 5 - 8)
 
 Represents a group of adept characters who have already made a name for themselves in their local region. They likely have a reputation and are more likely to be treated with respect.
 
-| Level | Attribute Points | Skill Points | Vocation/Skill Level Cap |   Rewards Gained   |
-| :---: | :--------------: | :----------: | :----------------------: | :----------------: |
-|  13  |        2        |      10      |            2            | +1 Attribute Point |
-|  14  |        2        |      11      |            2            |   +1 Skill Point   |
-|  15  |        2        |      12      |            2            |   +1 Skill Point   |
-|  16  |        2        |      13      |            2            |   +1 Skill Point   |
-|  17  |        2        |      14      |            2            |   +1 Skill Point   |
-|  18  |        2        |      15      |            2            |   +1 Skill Point   |
+| Level | Attribute Points | Skill Points | Vocation/Skill Level Cap |                   Rewards Gained                   |
+| :---: | :--------------: | :----------: | :----------------------: | :-------------------------------------------------: |
+|  13  |        2        |      10      |            3            | Vocation/Skill Cap set to 3<br />+1 Attribute Point |
+|  14  |        2        |      11      |            3            |                   +1 Skill Point                   |
+|  15  |        2        |      12      |            3            |                   +1 Skill Point                   |
+|  16  |        2        |      13      |            3            |                   +1 Skill Point                   |
+|  17  |        2        |      14      |            3            |                   +1 Skill Point                   |
+|  18  |        2        |      15      |            3            |                   +1 Skill Point                   |
 
 #### Expert Tier (D&D Level 9 - 12)
 
 Represents a group of veteran characters who made a name for themselves in their larger region.
 
-| Level | Attribute Points | Skill Points | Vocation/Skill Level Cap |   Rewards Gained   |
-| :---: | :--------------: | :----------: | :----------------------: | :----------------: |
-|  19  |        3        |      15      |            3            | +1 Attribute Point |
-|  20  |        3        |      16      |            3            |   +1 Skill Point   |
-|  21  |        3        |      17      |            3            |   +1 Skill Point   |
-|  22  |        3        |      18      |            3            |   +1 Skill Point   |
-|  23  |        3        |      19      |            3            |   +1 Skill Point   |
-|  24  |        3        |      20      |            3            |   +1 Skill Point   |
+| Level | Attribute Points | Skill Points | Vocation/Skill Level Cap |                   Rewards Gained                   |
+| :---: | :--------------: | :----------: | :----------------------: | :-------------------------------------------------: |
+|  19  |        3        |      15      |            4            | Vocation/Skill Cap set to 4<br />+1 Attribute Point |
+|  20  |        3        |      16      |            4            |                   +1 Skill Point                   |
+|  21  |        3        |      17      |            4            |                   +1 Skill Point                   |
+|  22  |        3        |      18      |            4            |                   +1 Skill Point                   |
+|  23  |        3        |      19      |            4            |                   +1 Skill Point                   |
+|  24  |        3        |      20      |            4            |                   +1 Skill Point                   |
 
 #### Master Tier (D&D Level 13 - 16)
 
@@ -2674,12 +2674,12 @@ Represents a group of characters known between countries that are regarded for t
 
 | Level | Attribute Points | Skill Points | Vocation/Skill Level Cap |   Rewards Gained   |
 | :---: | :--------------: | :----------: | :----------------------: | :----------------: |
-|  25  |        4        |      20      |            4            | +1 Attribute Point |
-|  26  |        4        |      21      |            4            |   +1 Skill Point   |
-|  27  |        4        |      22      |            4            |   +1 Skill Point   |
-|  28  |        4        |      23      |            4            |   +1 Skill Point   |
-|  29  |        4        |      24      |            4            |   +1 Skill Point   |
-|  30  |        4        |      25      |            4            |   +1 Skill Point   |
+|  25  |        4        |      20      |            5            | +1 Attribute Point |
+|  26  |        4        |      21      |            5            |   +1 Skill Point   |
+|  27  |        4        |      22      |            5            |   +1 Skill Point   |
+|  28  |        4        |      23      |            5            |   +1 Skill Point   |
+|  29  |        4        |      24      |            5            |   +1 Skill Point   |
+|  30  |        4        |      25      |            5            |   +1 Skill Point   |
 
 #### Legendary Tier (D&D Level 17 - 20)
 
