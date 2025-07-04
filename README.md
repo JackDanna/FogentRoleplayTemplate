@@ -2672,14 +2672,14 @@ Represents a group of veteran characters who made a name for themselves in their
 
 Represents a group of characters known between countries that are regarded for their mastery of their respective strengths.
 
-| Level | Attribute Points | Skill Points | Vocation/Skill Level Cap |   Rewards Gained   |
-| :---: | :--------------: | :----------: | :----------------------: | :----------------: |
-|  25  |        4        |      20      |            5            | +1 Attribute Point |
-|  26  |        4        |      21      |            5            |   +1 Skill Point   |
-|  27  |        4        |      22      |            5            |   +1 Skill Point   |
-|  28  |        4        |      23      |            5            |   +1 Skill Point   |
-|  29  |        4        |      24      |            5            |   +1 Skill Point   |
-|  30  |        4        |      25      |            5            |   +1 Skill Point   |
+| Level | Attribute Points | Skill Points | Vocation/Skill Level Cap |                   Rewards Gained                   |
+| :---: | :--------------: | :----------: | :----------------------: | :-------------------------------------------------: |
+|  25  |        4        |      20      |            5            | Vocation/Skill Cap set to 5<br />+1 Attribute Point |
+|  26  |        4        |      21      |            5            |                   +1 Skill Point                   |
+|  27  |        4        |      22      |            5            |                   +1 Skill Point                   |
+|  28  |        4        |      23      |            5            |                   +1 Skill Point                   |
+|  29  |        4        |      24      |            5            |                   +1 Skill Point                   |
+|  30  |        4        |      25      |            5            |                   +1 Skill Point                   |
 
 #### Legendary Tier (D&D Level 17 - 20)
 
