@@ -2493,59 +2493,6 @@ Adjusts the tier of the base dice of a specified Skills/Vocations Dice Pools.
 
 A Narrative Effect is a purely text based effect. It simply describes what it does and how it impact the Narrative.
 
-#### Disabling Characteristic
-
-Disabling characteristics represent flaws your character has. This is an essential part of every great character as everyone needs a shortcoming to overcome or a temptation to fall into. It should be noted that disabling characteristics can be remedied through narrative with the Narrator's approval. If Disabling Characteristics are gained mid-campaign, it should make intuitive sense for that character. Maybe they picked up an addiction, got their heart broken, have a new fear of a monster they've recently faced or are suffering the long-lasting impact of a serious injury they took. Regardless this should be a negotiation between the player and Narrator.
-
-|                     Name                     |                                           Description                                           |  Duration  |  Source  |
-| :------------------------------------------: | :---------------------------------------------------------------------------------------------: | :--------: | :-------: |
-|              Disabling: Amnesia              |                       Character is missing a large portion of their past.                       | Indefinite | Backstory |
-|   Disabling: Missing bodily extremity/limb   |               STR and RFX dice penalties when performing tasks requiring 2 hands.               | Indefinite | Backstory |
-|              Disabling: Feeble              |                                        STR is set to -1                                        | Indefinite | Backstory |
-|               Disabling: Heavy               |                                        RFX is set to -1                                        | Indefinite | Backstory |
-|            Disabling: Dim-witted            |                                        INT is set to -1                                        | Indefinite | Backstory |
-|              Disabling: Phobia              |                                     Debilitating fear of ?.                                     | Indefinite | Backstory |
-|         Disabling: Extreme Prejudice         |                                Overwhelming hatred/disgust of ?.                                | Indefinite | Backstory |
-|          Disabling: Compulsive Liar          |                 Compulsion to lie about self-aggrandizing claims/achievements.                 | Indefinite | Backstory |
-|           Disabling: Kleptomaniac           |                        Desire to steal most things regardless of value.                        | Indefinite | Backstory |
-|         Disabling: Betrayal Paranoia         |                     Extreme belief that every person met will betray them.                     | Indefinite | Backstory |
-|        Disabling: Government Paranoia        |                  Extreme belief that the ruling class is run by an evil cult.                  | Indefinite | Backstory |
-|       Disabling: Superstition Paranoia       |                   Extreme belief in common superstition and old wives tales.                   | Indefinite | Backstory |
-|             Disabling: Paranoia             |                                   Irrational belief that ...                                   | Indefinite | Backstory |
-| Disabling: Over-emotional (specific emotion) |                                                                                                | Indefinite | Backstory |
-|           Disabling: Loose Cannon           |                         Overwhelming predisposition towards rage/anger.                         | Indefinite | Backstory |
-|       Disabling: Incontrollable Grief       |                  Overwhelming grief that is triggered reminder of past trauma.                  | Indefinite | Backstory |
-|          Disabling: Very Forgetful          |                    Often forgets plans, directions, people, items,  names...                    | Indefinite | Backstory |
-|          Disabling: Overconfidence          |                         Extremely overconfident in , cannot invest in.                         | Indefinite | Backstory |
-|     Disabling: Athletics Overconfidence     |                     Extremely overconfident in Athletics, cannot invest in.                     | Indefinite | Backstory |
-|     Disabling: Endurance Overconfidence     |                     Extremely overconfident in Endurance, cannot invest in.                     | Indefinite | Backstory |
-|        Disabling: Lift Overconfidence        |                       Extremely overconfident in Lift, cannot invest in.                       | Indefinite | Backstory |
-|     Disabling: Dexterity Overconfidence     |                     Extremely overconfident in Dexterity, cannot invest in.                     | Indefinite | Backstory |
-|     Disabling: Perception Overconfidence     |                    Extremely overconfident in Perception, cannot invest in.                    | Indefinite | Backstory |
-|      Disabling: Stealth Overconfidence      |                      Extremely overconfident in Stealth, cannot invest in.                      | Indefinite | Backstory |
-|       Disabling: Logic Overconfidence       |                       Extremely overconfident in Logic, cannot invest in.                       | Indefinite | Backstory |
-|     Disabling: Knowledge Overconfidence     |                     Extremely overconfident in Knowledge, cannot invest in.                     | Indefinite | Backstory |
-|        Disabling: Will Overconfidence        |                       Extremely overconfident in Will, cannot invest in.                       | Indefinite | Backstory |
-|     Disabling: Deception Overconfidence     |                     Extremely overconfident in Deception, cannot invest in.                     | Indefinite | Backstory |
-|    Disabling: Intimidation Overconfidence    |                   Extremely overconfident in Intimidation, cannot invest in.                   | Indefinite | Backstory |
-|     Disabling: Persuasion Overconfidence     |                    Extremely overconfident in Persuasion, cannot invest in.                    | Indefinite | Backstory |
-|        Disabling: Incapable of Lying        |                 (Specific parameters required, see Cogent website for examples)                 | Indefinite | Backstory |
-|             Disabling: Addiction             |                  Extreme addiction, suffers from withdrawals if not satisfied.                  | Indefinite | Backstory |
-|             Disabling: Delusion             |                Belief of something to be real beyond the scope of simple faith.                | Indefinite | Backstory |
-|           Disabling: Imperceptive           |                         Disadvantage to environmental Perception rolls.                         | Indefinite | Backstory |
-|               Disabling: Blind               |                          Unable to make sight based perception checks.                          | Indefinite | Backstory |
-|               Disabling: Deaf               |                         Unable to make hearing based perception checks.                         | Indefinite | Backstory |
-|              Disabling: Anosmia              |                          Unable to make smell based perception checks.                          | Indefinite | Backstory |
-|              Disabling: Ageusia              |                          Unable to make taste based perception checks.                          | Indefinite | Backstory |
-|              Disabling: Anaphia              |                          Unable to make touch based perception checks.                          | Indefinite | Backstory |
-|             Disabling: Gullible             |                              Disadvantage versus Deception rolls.                              | Indefinite | Backstory |
-|          Disabling: Impressionable          |                              Disadvantage versus Persuasion rolls.                              | Indefinite | Backstory |
-|          Disabling: People Pleaser          |                Always try to make other people happy, even at their own expense.                | Indefinite | Backstory |
-|       Disabling: SKILL Overconfidence       |                       Extremely overconfident in SKILL, cannot invest in.                       | Indefinite | Backstory |
-|            Disabling: Illiterate            |                                      Can't read or write.                                      | Indefinite | Backstory |
-|         Disabling: Overly Nostalgic         |                         Constantly reminiscing about the good old day.                         | Indefinite | Backstory |
-|           Disabling: Nerve Damage           | Character has suffered severe damage theirs nerves. The Perception Skill is locked at level -1. | Indefinite | Backstory |
-
 #### Language
 
 |        Name        |          Description          |  Duration  | Source |
@@ -2607,6 +2554,61 @@ A character takes up a certain amount of space on the battle map.
 |      Disposition      |                                                                    | Indefinite |    Innate    |
 | Beliefs and Morality |                                                                    | Indefinite |    Innate    |
 | Goals and Aspirations |                                                                    | Indefinite |    Innate    |
+
+## Disabling Characteristic Effects
+
+Disabling characteristics represent flaws your character has. This is an essential part of every great character as everyone needs a shortcoming to overcome or a temptation to fall into. It should be noted that disabling characteristics can be remedied through narrative with the Narrator's approval. 
+
+If Disabling Characteristics are gained mid-campaign, it should make intuitive sense for that character. Maybe they picked up an addiction, got their heart broken, have a new fear of a monster they've recently faced or are suffering the long-lasting impact of a serious injury they took. Regardless this should be a negotiation between the player and Narrator.
+
+|                     Name                     |                                           Description                                           |  Duration  |  Source  |
+| :------------------------------------------: | :---------------------------------------------------------------------------------------------: | :--------: | :-------: |
+|              Disabling: Amnesia              |                       Character is missing a large portion of their past.                       | Indefinite | Backstory |
+|   Disabling: Missing bodily extremity/limb   |               STR and RFX dice penalties when performing tasks requiring 2 hands.               | Indefinite | Backstory |
+|              Disabling: Feeble              |                                        STR is set to -1                                        | Indefinite | Backstory |
+|               Disabling: Heavy               |                                        RFX is set to -1                                        | Indefinite | Backstory |
+|            Disabling: Dim-witted            |                                        INT is set to -1                                        | Indefinite | Backstory |
+|              Disabling: Phobia              |                                     Debilitating fear of ?.                                     | Indefinite | Backstory |
+|         Disabling: Extreme Prejudice         |                                Overwhelming hatred/disgust of ?.                                | Indefinite | Backstory |
+|          Disabling: Compulsive Liar          |                 Compulsion to lie about self-aggrandizing claims/achievements.                 | Indefinite | Backstory |
+|           Disabling: Kleptomaniac           |                        Desire to steal most things regardless of value.                        | Indefinite | Backstory |
+|         Disabling: Betrayal Paranoia         |                     Extreme belief that every person met will betray them.                     | Indefinite | Backstory |
+|        Disabling: Government Paranoia        |                  Extreme belief that the ruling class is run by an evil cult.                  | Indefinite | Backstory |
+|       Disabling: Superstition Paranoia       |                   Extreme belief in common superstition and old wives tales.                   | Indefinite | Backstory |
+|             Disabling: Paranoia             |                                   Irrational belief that ...                                   | Indefinite | Backstory |
+| Disabling: Over-emotional (specific emotion) |                                                                                                | Indefinite | Backstory |
+|           Disabling: Loose Cannon           |                         Overwhelming predisposition towards rage/anger.                         | Indefinite | Backstory |
+|       Disabling: Incontrollable Grief       |                  Overwhelming grief that is triggered reminder of past trauma.                  | Indefinite | Backstory |
+|          Disabling: Very Forgetful          |                    Often forgets plans, directions, people, items,  names...                    | Indefinite | Backstory |
+|          Disabling: Overconfidence          |                         Extremely overconfident in , cannot invest in.                         | Indefinite | Backstory |
+|     Disabling: Athletics Overconfidence     |                     Extremely overconfident in Athletics, cannot invest in.                     | Indefinite | Backstory |
+|     Disabling: Endurance Overconfidence     |                     Extremely overconfident in Endurance, cannot invest in.                     | Indefinite | Backstory |
+|        Disabling: Lift Overconfidence        |                       Extremely overconfident in Lift, cannot invest in.                       | Indefinite | Backstory |
+|     Disabling: Dexterity Overconfidence     |                     Extremely overconfident in Dexterity, cannot invest in.                     | Indefinite | Backstory |
+|     Disabling: Perception Overconfidence     |                    Extremely overconfident in Perception, cannot invest in.                    | Indefinite | Backstory |
+|      Disabling: Stealth Overconfidence      |                      Extremely overconfident in Stealth, cannot invest in.                      | Indefinite | Backstory |
+|       Disabling: Logic Overconfidence       |                       Extremely overconfident in Logic, cannot invest in.                       | Indefinite | Backstory |
+|     Disabling: Knowledge Overconfidence     |                     Extremely overconfident in Knowledge, cannot invest in.                     | Indefinite | Backstory |
+|        Disabling: Will Overconfidence        |                       Extremely overconfident in Will, cannot invest in.                       | Indefinite | Backstory |
+|     Disabling: Deception Overconfidence     |                     Extremely overconfident in Deception, cannot invest in.                     | Indefinite | Backstory |
+|    Disabling: Intimidation Overconfidence    |                   Extremely overconfident in Intimidation, cannot invest in.                   | Indefinite | Backstory |
+|     Disabling: Persuasion Overconfidence     |                    Extremely overconfident in Persuasion, cannot invest in.                    | Indefinite | Backstory |
+|        Disabling: Incapable of Lying        |                 (Specific parameters required, see Cogent website for examples)                 | Indefinite | Backstory |
+|             Disabling: Addiction             |                  Extreme addiction, suffers from withdrawals if not satisfied.                  | Indefinite | Backstory |
+|             Disabling: Delusion             |                Belief of something to be real beyond the scope of simple faith.                | Indefinite | Backstory |
+|           Disabling: Imperceptive           |                         Disadvantage to environmental Perception rolls.                         | Indefinite | Backstory |
+|               Disabling: Blind               |                          Unable to make sight based perception checks.                          | Indefinite | Backstory |
+|               Disabling: Deaf               |                         Unable to make hearing based perception checks.                         | Indefinite | Backstory |
+|              Disabling: Anosmia              |                          Unable to make smell based perception checks.                          | Indefinite | Backstory |
+|              Disabling: Ageusia              |                          Unable to make taste based perception checks.                          | Indefinite | Backstory |
+|              Disabling: Anaphia              |                          Unable to make touch based perception checks.                          | Indefinite | Backstory |
+|             Disabling: Gullible             |                              Disadvantage versus Deception rolls.                              | Indefinite | Backstory |
+|          Disabling: Impressionable          |                              Disadvantage versus Persuasion rolls.                              | Indefinite | Backstory |
+|          Disabling: People Pleaser          |                Always try to make other people happy, even at their own expense.                | Indefinite | Backstory |
+|       Disabling: SKILL Overconfidence       |                       Extremely overconfident in SKILL, cannot invest in.                       | Indefinite | Backstory |
+|            Disabling: Illiterate            |                                      Can't read or write.                                      | Indefinite | Backstory |
+|         Disabling: Overly Nostalgic         |                         Constantly reminiscing about the good old day.                         | Indefinite | Backstory |
+|           Disabling: Nerve Damage           | Character has suffered severe damage theirs nerves. The Perception Skill is locked at level -1. | Indefinite | Backstory |
 
 ## Tier Of Play
 
