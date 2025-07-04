@@ -2561,6 +2561,10 @@ Disabling characteristics represent flaws your character has. This is an essenti
 
 If Disabling Characteristics are gained mid-campaign, it should make intuitive sense for that character. Maybe they picked up an addiction, got their heart broken, have a new fear of a monster they've recently faced or are suffering the long-lasting impact of a serious injury they took. Regardless this should be a negotiation between the player and Narrator.
 
+At character creation, player characters that take Disabling Characteristics that makes a Core Skill Incompetent (level -1), an additional Skill Point is gained.
+
+At character creation, players characters that take a Disabling Characteristic that makes an Attribute's level -1, an additional Attribute Point is gained.
+
 |                     Name                     |                                           Description                                           |  Duration  |  Source  |
 | :------------------------------------------: | :---------------------------------------------------------------------------------------------: | :--------: | :-------: |
 |              Disabling: Amnesia              |                       Character is missing a large portion of their past.                       | Indefinite | Backstory |
@@ -2702,9 +2706,7 @@ Represented by a group of legendary characters who have made their mark on histo
 
 - [Character Sheet Template](./src/CoreRules/CharacterCreationRules/temp/temp/temp/CharacterSheetTemplate.md)
 
-**Disabling Characteristics:** See Disabling Characteristics rules. At character creation, for each Disabling Characteristic that makes a Core Skill Incompetent (level -1), an additional skill point is gained. At character creation, players characters that take a Disabling Characteristic that results in a -1 in an Attribute (STR, RFX, or INT would be Feeble, Heavy, Dim-witted, etc...) gain an additional 2 skill points.
-
-### Combat Skills
+#### Combat Skills
 
 Combat Skills are skills that are used for fighting, including all Weapon Combat Skills and Combat Magic Skills. These skills require skill points to be increased.
 
