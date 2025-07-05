@@ -2493,59 +2493,6 @@ Adjusts the tier of the base dice of a specified Skills/Vocations Dice Pools.
 
 A Narrative Effect is a purely text based effect. It simply describes what it does and how it impact the Narrative.
 
-#### Disabling Characteristic
-
-Disabling characteristics represent flaws your character has. This is an essential part of every great character as everyone needs a shortcoming to overcome or a temptation to fall into. It should be noted that disabling characteristics can be remedied through narrative with the Narrator's approval. If Disabling Characteristics are gained mid-campaign, it should make intuitive sense for that character. Maybe they picked up an addiction, got their heart broken, have a new fear of a monster they've recently faced or are suffering the long-lasting impact of a serious injury they took. Regardless this should be a negotiation between the player and Narrator.
-
-|                     Name                     |                                           Description                                           |  Duration  |  Source  |
-| :------------------------------------------: | :---------------------------------------------------------------------------------------------: | :--------: | :-------: |
-|              Disabling: Amnesia              |                       Character is missing a large portion of their past.                       | Indefinite | Backstory |
-|   Disabling: Missing bodily extremity/limb   |               STR and RFX dice penalties when performing tasks requiring 2 hands.               | Indefinite | Backstory |
-|              Disabling: Feeble              |                                        STR is set to -1                                        | Indefinite | Backstory |
-|               Disabling: Heavy               |                                        RFX is set to -1                                        | Indefinite | Backstory |
-|            Disabling: Dim-witted            |                                        INT is set to -1                                        | Indefinite | Backstory |
-|              Disabling: Phobia              |                                     Debilitating fear of ?.                                     | Indefinite | Backstory |
-|         Disabling: Extreme Prejudice         |                                Overwhelming hatred/disgust of ?.                                | Indefinite | Backstory |
-|          Disabling: Compulsive Liar          |                 Compulsion to lie about self-aggrandizing claims/achievements.                 | Indefinite | Backstory |
-|           Disabling: Kleptomaniac           |                        Desire to steal most things regardless of value.                        | Indefinite | Backstory |
-|         Disabling: Betrayal Paranoia         |                     Extreme belief that every person met will betray them.                     | Indefinite | Backstory |
-|        Disabling: Government Paranoia        |                  Extreme belief that the ruling class is run by an evil cult.                  | Indefinite | Backstory |
-|       Disabling: Superstition Paranoia       |                   Extreme belief in common superstition and old wives tales.                   | Indefinite | Backstory |
-|             Disabling: Paranoia             |                                   Irrational belief that ...                                   | Indefinite | Backstory |
-| Disabling: Over-emotional (specific emotion) |                                                                                                | Indefinite | Backstory |
-|           Disabling: Loose Cannon           |                         Overwhelming predisposition towards rage/anger.                         | Indefinite | Backstory |
-|       Disabling: Incontrollable Grief       |                  Overwhelming grief that is triggered reminder of past trauma.                  | Indefinite | Backstory |
-|          Disabling: Very Forgetful          |                    Often forgets plans, directions, people, items,  names...                    | Indefinite | Backstory |
-|          Disabling: Overconfidence          |                         Extremely overconfident in , cannot invest in.                         | Indefinite | Backstory |
-|     Disabling: Athletics Overconfidence     |                     Extremely overconfident in Athletics, cannot invest in.                     | Indefinite | Backstory |
-|     Disabling: Endurance Overconfidence     |                     Extremely overconfident in Endurance, cannot invest in.                     | Indefinite | Backstory |
-|        Disabling: Lift Overconfidence        |                       Extremely overconfident in Lift, cannot invest in.                       | Indefinite | Backstory |
-|     Disabling: Dexterity Overconfidence     |                     Extremely overconfident in Dexterity, cannot invest in.                     | Indefinite | Backstory |
-|     Disabling: Perception Overconfidence     |                    Extremely overconfident in Perception, cannot invest in.                    | Indefinite | Backstory |
-|      Disabling: Stealth Overconfidence      |                      Extremely overconfident in Stealth, cannot invest in.                      | Indefinite | Backstory |
-|       Disabling: Logic Overconfidence       |                       Extremely overconfident in Logic, cannot invest in.                       | Indefinite | Backstory |
-|     Disabling: Knowledge Overconfidence     |                     Extremely overconfident in Knowledge, cannot invest in.                     | Indefinite | Backstory |
-|        Disabling: Will Overconfidence        |                       Extremely overconfident in Will, cannot invest in.                       | Indefinite | Backstory |
-|     Disabling: Deception Overconfidence     |                     Extremely overconfident in Deception, cannot invest in.                     | Indefinite | Backstory |
-|    Disabling: Intimidation Overconfidence    |                   Extremely overconfident in Intimidation, cannot invest in.                   | Indefinite | Backstory |
-|     Disabling: Persuasion Overconfidence     |                    Extremely overconfident in Persuasion, cannot invest in.                    | Indefinite | Backstory |
-|        Disabling: Incapable of Lying        |                 (Specific parameters required, see Cogent website for examples)                 | Indefinite | Backstory |
-|             Disabling: Addiction             |                  Extreme addiction, suffers from withdrawals if not satisfied.                  | Indefinite | Backstory |
-|             Disabling: Delusion             |                Belief of something to be real beyond the scope of simple faith.                | Indefinite | Backstory |
-|           Disabling: Imperceptive           |                         Disadvantage to environmental Perception rolls.                         | Indefinite | Backstory |
-|               Disabling: Blind               |                          Unable to make sight based perception checks.                          | Indefinite | Backstory |
-|               Disabling: Deaf               |                         Unable to make hearing based perception checks.                         | Indefinite | Backstory |
-|              Disabling: Anosmia              |                          Unable to make smell based perception checks.                          | Indefinite | Backstory |
-|              Disabling: Ageusia              |                          Unable to make taste based perception checks.                          | Indefinite | Backstory |
-|              Disabling: Anaphia              |                          Unable to make touch based perception checks.                          | Indefinite | Backstory |
-|             Disabling: Gullible             |                              Disadvantage versus Deception rolls.                              | Indefinite | Backstory |
-|          Disabling: Impressionable          |                              Disadvantage versus Persuasion rolls.                              | Indefinite | Backstory |
-|          Disabling: People Pleaser          |                Always try to make other people happy, even at their own expense.                | Indefinite | Backstory |
-|       Disabling: SKILL Overconfidence       |                       Extremely overconfident in SKILL, cannot invest in.                       | Indefinite | Backstory |
-|            Disabling: Illiterate            |                                      Can't read or write.                                      | Indefinite | Backstory |
-|         Disabling: Overly Nostalgic         |                         Constantly reminiscing about the good old day.                         | Indefinite | Backstory |
-|           Disabling: Nerve Damage           | Character has suffered severe damage theirs nerves. The Perception Skill is locked at level -1. | Indefinite | Backstory |
-
 #### Language
 
 |        Name        |          Description          |  Duration  | Source |
@@ -2608,9 +2555,175 @@ A character takes up a certain amount of space on the battle map.
 | Beliefs and Morality |                                                                    | Indefinite |    Innate    |
 | Goals and Aspirations |                                                                    | Indefinite |    Innate    |
 
+## Disabling Characteristic Effects
+
+Disabling characteristics represent flaws your character has. This is an essential part of every great character as everyone needs a shortcoming to overcome or a temptation to fall into. It should be noted that disabling characteristics can be remedied through narrative with the Narrator's approval.
+
+If Disabling Characteristics are gained mid-campaign, it should make intuitive sense for that character. Maybe they picked up an addiction, got their heart broken, have a new fear of a monster they've recently faced or are suffering the long-lasting impact of a serious injury they took. Regardless this should be a negotiation between the player and Narrator.
+
+At character creation, player characters that take Disabling Characteristics that makes a Core Skill Incompetent (level -1), an additional Skill Point is gained.
+
+At character creation, players characters that take a Disabling Characteristic that makes an Attribute's level -1, an additional Attribute Point is gained.
+
+|                     Name                     |                             Description                             |  Duration  |  Source  |
+| :------------------------------------------: | :-----------------------------------------------------------------: | :--------: | :-------: |
+|              Disabling: Subpar STR              |                          STR is set to -1                          | Indefinite | Backstory |
+|             Disabling: Subpar RFX             |                          RFX is set to -1                          | Indefinite | Backstory |
+|            Disabling: Subpar INT            |                          INT is set to -1                          | Indefinite | Backstory |
+|              Disabling: Subpar CHA              |                          CHA is set to -1                          | Indefinite | Backstory |
+|                                              |                                                                    |            |          |
+|         Disabling: Subpar Athletics         |                        Athletics level is -1                        | Indefinite | Backstory |
+|         Disabling: Subpar Endurance         |                        Endurance level is -1                        | Indefinite | Backstory |
+|            Disabling: Subpar Lift            |                          Lift level is -1                          | Indefinite | Backstory |
+|                                              |                                                                    |            |          |
+|         Disabling: Subpar Dexterity         |                        Dexterity level is -1                        | Indefinite | Backstory |
+|         Disabling: Subpar Perception         |                       Perception level is -1                       | Indefinite | Backstory |
+|          Disabling: Subpar Stealth          |                         Stealth level is -1                         | Indefinite | Backstory |
+|                                              |                                                                    |            |          |
+|           Disabling: Subpar Logic           |                          Logic level is -1                          | Indefinite | Backstory |
+|         Disabling: Subpar Knowledge         |                        Knowledge level is -1                        | Indefinite | Backstory |
+|            Disabling: Subpar Will            |                          Will level is -1                          | Indefinite | Backstory |
+|                                              |                                                                    |            |          |
+|         Disabling: Subpar Deception         |                        Deception level is -1                        | Indefinite | Backstory |
+|        Disabling: Subpar Intimidation        |                      Intimidation level is -1                      | Indefinite | Backstory |
+|         Disabling: Subpar Persuasion         |                       Persuasion level is -1                       | Indefinite | Backstory |
+|                                              |                                                                    |            |          |
+|              Disabling: Amnesia              |         Character is missing a large portion of their past.         | Indefinite | Backstory |
+|   Disabling: Missing bodily extremity/limb   | STR and RFX dice penalties when performing tasks requiring 2 hands. | Indefinite | Backstory |
+|              Disabling: Phobia              |                       Debilitating fear of ?.                       | Indefinite | Backstory |
+|         Disabling: Extreme Prejudice         |                  Overwhelming hatred/disgust of ?.                  | Indefinite | Backstory |
+|          Disabling: Compulsive Liar          |   Compulsion to lie about self-aggrandizing claims/achievements.   | Indefinite | Backstory |
+|           Disabling: Kleptomaniac           |          Desire to steal most things regardless of value.          | Indefinite | Backstory |
+|         Disabling: Betrayal Paranoia         |       Extreme belief that every person met will betray them.       | Indefinite | Backstory |
+|        Disabling: Government Paranoia        |    Extreme belief that the ruling class is run by an evil cult.    | Indefinite | Backstory |
+|       Disabling: Superstition Paranoia       |     Extreme belief in common superstition and old wives tales.     | Indefinite | Backstory |
+|             Disabling: Paranoia             |                     Irrational belief that ...                     | Indefinite | Backstory |
+| Disabling: Over-emotional (specific emotion) |                                                                    | Indefinite | Backstory |
+|           Disabling: Loose Cannon           |           Overwhelming predisposition towards rage/anger.           | Indefinite | Backstory |
+|       Disabling: Incontrollable Grief       |    Overwhelming grief that is triggered reminder of past trauma.    | Indefinite | Backstory |
+|          Disabling: Very Forgetful          |      Often forgets plans, directions, people, items,  names...      | Indefinite | Backstory |
+|          Disabling: Overconfidence          |           Extremely overconfident in , cannot invest in.           | Indefinite | Backstory |
+|     Disabling: Athletics Overconfidence     |       Extremely overconfident in Athletics, cannot invest in.       | Indefinite | Backstory |
+|     Disabling: Endurance Overconfidence     |       Extremely overconfident in Endurance, cannot invest in.       | Indefinite | Backstory |
+|        Disabling: Lift Overconfidence        |         Extremely overconfident in Lift, cannot invest in.         | Indefinite | Backstory |
+|     Disabling: Dexterity Overconfidence     |       Extremely overconfident in Dexterity, cannot invest in.       | Indefinite | Backstory |
+|     Disabling: Perception Overconfidence     |      Extremely overconfident in Perception, cannot invest in.      | Indefinite | Backstory |
+|      Disabling: Stealth Overconfidence      |        Extremely overconfident in Stealth, cannot invest in.        | Indefinite | Backstory |
+|       Disabling: Logic Overconfidence       |         Extremely overconfident in Logic, cannot invest in.         | Indefinite | Backstory |
+|     Disabling: Knowledge Overconfidence     |       Extremely overconfident in Knowledge, cannot invest in.       | Indefinite | Backstory |
+|        Disabling: Will Overconfidence        |         Extremely overconfident in Will, cannot invest in.         | Indefinite | Backstory |
+|     Disabling: Deception Overconfidence     |       Extremely overconfident in Deception, cannot invest in.       | Indefinite | Backstory |
+|    Disabling: Intimidation Overconfidence    |     Extremely overconfident in Intimidation, cannot invest in.     | Indefinite | Backstory |
+|     Disabling: Persuasion Overconfidence     |      Extremely overconfident in Persuasion, cannot invest in.      | Indefinite | Backstory |
+|        Disabling: Incapable of Lying        |   (Specific parameters required, see Cogent website for examples)   | Indefinite | Backstory |
+|             Disabling: Addiction             |    Extreme addiction, suffers from withdrawals if not satisfied.    | Indefinite | Backstory |
+|             Disabling: Delusion             |  Belief of something to be real beyond the scope of simple faith.  | Indefinite | Backstory |
+|           Disabling: Imperceptive           |           Disadvantage to environmental Perception rolls.           | Indefinite | Backstory |
+|               Disabling: Blind               |            Unable to make sight based perception checks.            | Indefinite | Backstory |
+|               Disabling: Deaf               |           Unable to make hearing based perception checks.           | Indefinite | Backstory |
+|              Disabling: Anosmia              |            Unable to make smell based perception checks.            | Indefinite | Backstory |
+|              Disabling: Ageusia              |            Unable to make taste based perception checks.            | Indefinite | Backstory |
+|              Disabling: Anaphia              |            Unable to make touch based perception checks.            | Indefinite | Backstory |
+|             Disabling: Gullible             |                Disadvantage versus Deception rolls.                | Indefinite | Backstory |
+|          Disabling: Impressionable          |                Disadvantage versus Persuasion rolls.                | Indefinite | Backstory |
+|          Disabling: People Pleaser          |  Always try to make other people happy, even at their own expense.  | Indefinite | Backstory |
+|       Disabling: SKILL Overconfidence       |         Extremely overconfident in SKILL, cannot invest in.         | Indefinite | Backstory |
+|            Disabling: Illiterate            |                        Can't read or write.                        | Indefinite | Backstory |
+|         Disabling: Overly Nostalgic         |           Constantly reminiscing about the good old day.           | Indefinite | Backstory |
+
 ## Tier Of Play
 
-### Combat Skills
+Tier Of Play represents the how large the stakes are for a game/campaign aswell as how powerful the player characters are.
+
+**Attribute Points:** The number of points you can spend to increase a character's Attributes.
+
+**Skill Points:** The number of points you get to spend on Core Skills, Vocations, and Combat Skills.
+
+**Skill/Vocation Level Cap:** This is the maximum you can take any skill or vocation level to in the Tier Of Play.
+
+#### Novice Tier (D&D Level 0)
+
+Repesent a group with practically no experience.
+
+| Level | Attribute Points | Skill Points | Vocation/Skill Level Cap |       Rewards Gained       |
+| :---: | :--------------: | :----------: | :----------------------: | :-------------------------: |
+|   1   |        0        |      0      |            1            | Vocation/Skill Cap set to 1 |
+|   2   |        0        |      1      |            1            |       +1 Skill Point       |
+|   3   |        0        |      2      |            1            |       +1 Skill Point       |
+|   4   |        0        |      3      |            1            |       +1 Skill Point       |
+|   5   |        0        |      4      |            1            |       +1 Skill Point       |
+|   6   |        1        |      4      |            1            |     +1 Attribute Point     |
+
+#### Apprentice Tier (D&D Level 1 - 4)
+
+Represent a group of mostly wide eyed/unexperienced characters setting out on their first true adventure.
+
+| Level | Attribute Points | Skill Points | Vocation/Skill Level Cap |                 Rewards Gained                 |
+| :---: | :--------------: | :----------: | :----------------------: | :---------------------------------------------: |
+|   7   |        1        |      5      |            2            | Vocation/Skill Cap set to 2<br />+1 Skill Point |
+|   8   |        1        |      6      |            2            |                 +1 Skill Point                 |
+|   9   |        1        |      7      |            2            |                 +1 Skill Point                 |
+|  10  |        1        |      8      |            2            |                 +1 Skill Point                 |
+|  11  |        1        |      9      |            2            |                 +1 Skill Point                 |
+|  12  |        2        |      9      |            2            |               +1 Attribute Point               |
+
+#### Adept Tier (D&D Level 5 - 8)
+
+Represents a group of adept characters who have already made a name for themselves in their local region. They likely have a reputation and are more likely to be treated with respect.
+
+| Level | Attribute Points | Skill Points | Vocation/Skill Level Cap |                 Rewards Gained                 |
+| :---: | :--------------: | :----------: | :----------------------: | :---------------------------------------------: |
+|  13  |        2        |      10      |            3            | Vocation/Skill Cap set to 3<br />+1 Skill Point |
+|  14  |        2        |      11      |            3            |                 +1 Skill Point                 |
+|  15  |        2        |      12      |            3            |                 +1 Skill Point                 |
+|  16  |        2        |      13      |            3            |                 +1 Skill Point                 |
+|  17  |        2        |      14      |            3            |                 +1 Skill Point                 |
+|  18  |        3        |      14      |            3            |               +1 Attribute Point               |
+
+#### Expert Tier (D&D Level 9 - 12)
+
+Represents a group of veteran characters who made a name for themselves in their larger region.
+
+| Level | Attribute Points | Skill Points | Vocation/Skill Level Cap |                 Rewards Gained                 |
+| :---: | :--------------: | :----------: | :----------------------: | :---------------------------------------------: |
+|  19  |        3        |      15      |            4            | Vocation/Skill Cap set to 4<br />+1 Skill Point |
+|  20  |        3        |      16      |            4            |                 +1 Skill Point                 |
+|  21  |        3        |      17      |            4            |                 +1 Skill Point                 |
+|  22  |        3        |      18      |            4            |                 +1 Skill Point                 |
+|  23  |        3        |      19      |            4            |                 +1 Skill Point                 |
+|  24  |        4        |      19      |            4            |               +1 Attribute Point               |
+
+#### Master Tier (D&D Level 13 - 16)
+
+Represents a group of characters known between countries that are regarded for their mastery of their respective strengths.
+
+| Level | Attribute Points | Skill Points | Vocation/Skill Level Cap |                 Rewards Gained                 |
+| :---: | :--------------: | :----------: | :----------------------: | :---------------------------------------------: |
+|  25  |        4        |      20      |            5            | Vocation/Skill Cap set to 5<br />+1 Skill Point |
+|  26  |        4        |      21      |            5            |                 +1 Skill Point                 |
+|  27  |        4        |      22      |            5            |                 +1 Skill Point                 |
+|  28  |        4        |      23      |            5            |                 +1 Skill Point                 |
+|  29  |        4        |      24      |            5            |                 +1 Skill Point                 |
+|  30  |        5        |      24      |            5            |               +1 Attribute Point               |
+
+#### Legendary Tier (D&D Level 17 - 20)
+
+Represented by a group of legendary characters who have made their mark on history.
+
+| Level | Attribute Points | Skill Points | Vocation/Skill Level Cap |   Rewards Gained   |
+| :---: | :--------------: | :----------: | :----------------------: | :----------------: |
+|  31  |        5        |      25      |            5            |   +1 Skill Point   |
+|  32  |        5        |      26      |            5            |   +1 Skill Point   |
+|  33  |        5        |      27      |            5            |   +1 Skill Point   |
+|  34  |        5        |      28      |            5            |   +1 Skill Point   |
+|  35  |        5        |      29      |            5            |   +1 Skill Point   |
+|  36  |        6        |      29      |            5            | +1 Attribute Point |
+
+## Character Creation Rules
+
+- [Character Sheet Template](./src/CoreRules/CharacterCreationRules/temp/temp/temp/CharacterSheetTemplate.md)
+
+#### Combat Skills
 
 Combat Skills are skills that are used for fighting, including all Weapon Combat Skills and Combat Magic Skills. These skills require skill points to be increased.
 
@@ -2629,128 +2742,6 @@ Tier Of Play narratively describes the stakes of the campaign as well as how pow
 The Narrator should let the players know the Tier Of Play and players should factor this into their characters. It would be silly to have a character's backstory paint them as a badass only to have them start at Apprentice Tier. Also, realize that your character will grow throughout their story and the Narrator will be rewarding players with ways to improve your character as they play.
 
 Whenever building a character starting at a higher level than 1, you must build that character as if they were starting from level 1.
-
-### Tier of Play Breakdown
-
-#### Skill/Vocation Level Cap
-
-This is the maximum you can take any skill or vocation level to in the Tier Of Play.
-
-#### Vocation Point
-
-Points that can only be spent to unlock or upgrade Vocations.
-
-#### Attribute Points
-
-The number of points you can spend to increase a character's Attributes.
-
-#### Skill Points
-
-The number of points you get to spend on Core Skills, Vocations, and Combat Skills.
-
-#### Disabling Characteristics
-
-See Disabling Characteristics rules.
-
-At character creation, for each Disabling Characteristic that makes a Core Skill Incompetent (level -1), an additional skill point is gained.
-
-At character creation, players characters that take a Disabling Characteristic that results in a -1 in an Attribute (STR, RFX, or INT would be Feeble, Heavy, Dim-witted, etc...) gain an additional 2 skill points.
-
-#### Tiers of Play
-
-#### Apprentice Tier (D&D Level 1 - 4)
-
-Represent a group of mostly wide eyed/unexperienced characters setting out on their first true adventure.
-
-| Level |                                                           Reward Gained                                                           | Total<br />Vocation<br />Points | Total<br />Skill<br />Points | Total<br />Attribute<br />Points | Vocation/Skill<br />Level Cap |
-| :---: | :-------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------: | :--------------------------: | :------------------------------: | :---------------------------: |
-|   1   | Vocation/Skill Cap set to 1<br />+1 Vocation Point<br />+1 Attribute Point<br />+4 Skill Point<br />+New Disabling Characteristic |                1                |              4              |                1                |               1               |
-|   2   |                                                          +1 Skill Point                                                          |                1                |              5              |                1                |               1               |
-|   3   |                                                          +1 Skill Point                                                          |                1                |              6              |                1                |               1               |
-|   4   |                                                          +1 Skill Point                                                          |                1                |              7              |                1                |               1               |
-|   5   |                                                        +1 Attribute Point                                                        |                1                |              7              |                2                |               1               |
-
-#### Adept Tier (D&D Level 5 - 8)
-
-Represents a group of adept characters who have already made a name for themselves in their local region. They likely have a reputation and are more likely to be treated with respect.
-
-| Level |                                               Reward Gained                                               | Total<br />Vocation<br />Points | Total<br />Skill<br />Points | Total<br />Attribute<br />Points | Vocation/Skill<br />Cap |
-| :---: | :-------------------------------------------------------------------------------------------------------: | :-----------------------------: | :--------------------------: | :------------------------------: | :---------------------: |
-|   6   | Vocation/Skill Cap set to 2<br />+1 Vocation Point<br />+1 Skill Point<br />+New Disabling Characteristic |                2                |              8              |                2                |            2            |
-|   7   |                                              +1 Skill Point                                              |                2                |              9              |                2                |            2            |
-|   8   |                                              +1 Skill Point                                              |                2                |              10              |                2                |            2            |
-|   9   |                                              +1 Skill Point                                              |                2                |              11              |                2                |            2            |
-|  10  |                                              +1 Skill Point                                              |                2                |              12              |                2                |            2            |
-|  11  |                                              +1 Skill Point                                              |                2                |              13              |                2                |            2            |
-|  12  |                                            +1 Attribute Point                                            |                2                |              13              |                3                |            2            |
-|  13  |                                              +1 Skill Point                                              |                2                |              14              |                3                |            2            |
-
-#### Expert Tier (D&D Level 9 - 12)
-
-Represents a group of veteran characters who made a name for themselves in their larger region.
-
-| Level |                                               Reward Gained                                               | Total<br />Vocation<br />Points | Total<br />Skill<br />Points | Total<br />Attribute<br />Points | Vocation/Skill<br />Cap |
-| :---: | :-------------------------------------------------------------------------------------------------------: | :-----------------------------: | :--------------------------: | :------------------------------: | :---------------------: |
-|  14  | Vocation/Skill Cap set to 3<br />+1 Vocation Point<br />+1 Skill Point<br />+New Disabling Characteristic |                3                |              15              |                3                |            3            |
-|  15  |                                              +1 Skill Point                                              |                3                |              16              |                3                |            3            |
-|  16  |                                              +1 Skill Point                                              |                3                |              17              |                3                |            3            |
-|  17  |                                              +1 Skill Point                                              |                3                |              18              |                3                |            3            |
-|  18  |                                              +1 Skill Point                                              |                3                |              19              |                3                |            3            |
-|  19  |                                              +1 Skill Point                                              |                3                |              20              |                3                |            3            |
-|  20  |                                              +1 Skill Point                                              |                3                |              21              |                3                |            3            |
-|  21  |                                              +1 Skill Point                                              |                3                |              22              |                3                |            3            |
-|  22  |                                            +1 Attribute Point                                            |                3                |              22              |                4                |            3            |
-|  23  |                                              +1 Skill Point                                              |                3                |              23              |                4                |            3            |
-|  24  |                                              +1 Skill Point                                              |                3                |              24              |                4                |            3            |
-
-#### Master Tier (D&D Level 13 - 16)
-
-Represents a group of characters known between countries that are regarded for their mastery of their respective strengths.
-
-| Level |                                               Reward Gained                                               | Total<br />Vocation<br />Points | Total<br />Skill<br />Points | Total<br />Attribute<br />Points | Vocation/Skill<br />Cap |
-| :---: | :-------------------------------------------------------------------------------------------------------: | :-----------------------------: | :--------------------------: | :------------------------------: | :---------------------: |
-|  25  | Vocation/Skill Cap set to 4<br />+1 Vocation Point<br />+1 Skill Point<br />+New Disabling Characteristic |                4                |              25              |                4                |            4            |
-|  26  |                                              +1 Skill Point                                              |                4                |              26              |                4                |            4            |
-|  27  |                                              +1 Skill Point                                              |                4                |              27              |                4                |            4            |
-|  28  |                                              +1 Skill Point                                              |                4                |              28              |                4                |            4            |
-|  29  |                                              +1 Skill Point                                              |                4                |              29              |                4                |            4            |
-|  30  |                                              +1 Skill Point                                              |                4                |              30              |                4                |            4            |
-|  31  |                                              +1 Skill Point                                              |                4                |              31              |                4                |            4            |
-|  32  |                                              +1 Skill Point                                              |                4                |              32              |                4                |            4            |
-|  33  |                                              +1 Skill Point                                              |                4                |              33              |                4                |            4            |
-|  34  |                                              +1 Skill Point                                              |                4                |              34              |                4                |            4            |
-|  35  |                                            +1 Attribute Point                                            |                4                |              34              |                5                |            4            |
-|  36  |                                              +1 Skill Point                                              |                4                |              35              |                5                |            4            |
-|  37  |                                              +1 Skill Point                                              |                4                |              36              |                5                |            4            |
-|  38  |                                              +1 Skill Point                                              |                4                |              37              |                5                |            4            |
-
-#### Legendary Tier (D&D Level 17 - 20)
-
-Represented by a group of legendary characters who have made their mark on history.
-
-| Level |                                               Reward Gained                                               | Total<br />Vocation<br />Points | Total<br />Skill<br />Points | Total<br />Attribute<br />Points | Vocation/Skill<br />Cap |
-| :---: | :-------------------------------------------------------------------------------------------------------: | :-----------------------------: | :--------------------------: | :------------------------------: | :---------------------: |
-|  39  | Vocation/Skill Cap set to 5<br />+1 Vocation Point<br />+1 Skill Point<br />+New Disabling Characteristic |                5                |              38              |                5                |            5            |
-|  40  |                                              +1 Skill Point                                              |                5                |              39              |                5                |            5            |
-|  41  |                                              +1 Skill Point                                              |                5                |              40              |                5                |            5            |
-|  42  |                                              +1 Skill Point                                              |                5                |              41              |                5                |            5            |
-|  43  |                                              +1 Skill Point                                              |                5                |              42              |                5                |            5            |
-|  44  |                                              +1 Skill Point                                              |                5                |              43              |                5                |            5            |
-|  45  |                                              +1 Skill Point                                              |                5                |              44              |                5                |            5            |
-|  46  |                                              +1 Skill Point                                              |                5                |              45              |                5                |            5            |
-|  47  |                                              +1 Skill Point                                              |                5                |              46              |                5                |            5            |
-|  48  |                                              +1 Skill Point                                              |                5                |              47              |                5                |            5            |
-|  49  |                                              +1 Skill Point                                              |                5                |              48              |                5                |            5            |
-|  50  |                                              +1 Skill Point                                              |                5                |              49              |                5                |            5            |
-|  51  |                                            +1 Attribute Point                                            |                5                |              49              |                6                |            5            |
-|  52  |                                              +1 Skill Point                                              |                5                |              50              |                6                |            5            |
-|  53  |                                              +1 Skill Point                                              |                5                |              51              |                6                |            5            |
-|  54  |                                              +1 Skill Point                                              |                5                |              52              |                6                |            5            |
-|  55  |                                              +1 Skill Point                                              |                5                |              53              |                6                |            5            |
-
-## Character Creation Rules
-
-- [Character Sheet Template](./src/CoreRules/CharacterCreationRules/temp/temp/temp/CharacterSheetTemplate.md)
 
 ## Weapon Combat Skills
 
