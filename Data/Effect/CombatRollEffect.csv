@@ -285,26 +285,33 @@ Dual-wielded Medium Spear +7,"Javelin, short spear, large creature horns, ect...
 One-handed Hew Large Melee +3,"Dane axe, short poleaxe axehead, short halberd, ect...",Innate,Indefinite,One-handed,Hew Large Melee,None,+3,+0d6,1,Melee,Swift,None,Hew,Large Melee
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
+One-handed Slash Large Melee +1,"Longsword, Ōdachi, ect...",Innate,Indefinite,One-handed,Slash Large Melee,None,+1,+0d6,1,Melee,Swift,None,Slash,Large Melee
+Two-handed Slash Large Melee +1,"Longsword, Ōdachi, ect...",Innate,Indefinite,Two-handed,Slash Large Melee,None,+1,+2d6,2,Melee,Swift,None,Slash,Large Melee
+,,,,,,,,,,,,,,
+One-handed Pierce Large Melee +1,"Longsword, Ōdachi, Bec de corbin spike, ect...",Innate,Indefinite,One-handed,Pierce Large Melee,None,+0,+0d6,2,Melee,Swift,None,Pierce,Large Melee
+Two-handed Pierce Large Melee +1,"Longsword, Ōdachi, Bec de corbin spike, ect...",Innate,Indefinite,Two-handed,Pierce Large Melee,None,+0,+2d6,3,Melee,Swift,None,Pierce,Large Melee
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
 Two-handed Hew Large Melee +3,"Dane axe, short poleaxe axehead, short halberd, ect...",Innate,Indefinite,Two-handed,Hew Large Melee,None,+3,+2d6,2,Melee,Swift,None,Hew,Large Melee
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 One-handed Slash Large Melee +2,"Longsword, Ōdachi, ect...",Innate,Indefinite,One-handed,Slash Large Melee,None,+2,+0d6,1,Melee,Swift,None,Slash,Large Melee
-One-handed Slash Large Melee +5,"Longsword, Ōdachi, ect...",Innate,Indefinite,One-handed,Slash Large Melee,None,+5,+0d6,1,Melee,Swift,None,Slash,Large Melee
 One-handed Slash Large Melee +12,"Longsword, Ōdachi, ect...",Innate,Indefinite,One-handed,Slash Large Melee,None,+12,+0d6,1,Melee,Swift,None,Slash,Large Melee
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 Two-handed Slash Large Melee +2,"Longsword, Ōdachi, ect...",Innate,Indefinite,Two-handed,Slash Large Melee,None,+2,+2d6,2,Melee,Swift,None,Slash,Large Melee
-Two-handed Slash Large Melee +5,"Longsword, Ōdachi, ect...",Innate,Indefinite,Two-handed,Slash Large Melee,None,+5,+2d6,2,Melee,Swift,None,Slash,Large Melee
 Two-handed Slash Large Melee +12,"Longsword, Ōdachi, ect...",Innate,Indefinite,Two-handed,Slash Large Melee,None,+12,+2d6,2,Melee,Swift,None,Slash,Large Melee
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 One-handed Pierce Large Melee +2,"Longsword, Ōdachi, Bec de corbin spike, ect...",Innate,Indefinite,One-handed,Pierce Large Melee,None,+2,+0d6,1,Melee,Swift,None,Pierce,Large Melee
-One-handed Pierce Large Melee +5,"Longsword, Ōdachi, Bec de corbin spike, ect...",Innate,Indefinite,One-handed,Pierce Large Melee,None,+5,+0d6,1,Melee,Swift,None,Pierce,Large Melee
 One-handed Pierce Large Melee +12,"Longsword, Ōdachi, Bec de corbin spike, ect...",Innate,Indefinite,One-handed,Pierce Large Melee,None,+12,+0d6,1,Melee,Swift,None,Pierce,Large Melee
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 Two-handed Pierce Large Melee +2,"Longsword, Ōdachi, Bec de corbin spike, ect...",Innate,Indefinite,Two-handed,Pierce Large Melee,None,+2,+2d6,2,Melee,Swift,None,Pierce,Large Melee
-Two-handed Pierce Large Melee +5,"Longsword, Ōdachi, Bec de corbin spike, ect...",Innate,Indefinite,Two-handed,Pierce Large Melee,None,+5,+2d6,2,Melee,Swift,None,Pierce,Large Melee
 Two-handed Pierce Large Melee +12,"Longsword, Ōdachi, Bec de corbin spike, ect...",Innate,Indefinite,Two-handed,Pierce Large Melee,None,+12,+2d6,2,Melee,Swift,None,Pierce,Large Melee
 ,,,,,,,,,,,,,,
 One-handed Bludgeon Large Melee -1,"Two-handed Mace, maul, ect...",Innate,Indefinite,One-handed,Bludgeon Large Melee,None,-1,+0d6,1,Melee,Swift,None,Bludgeon,Large Melee
