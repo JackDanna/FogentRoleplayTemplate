@@ -236,7 +236,6 @@ Two-handed Hew Medium Melee +3,"Battleaxes, large creature claws, ect...",Innate
 Dual-wielded Hew Medium Melee +3,"Battleaxes, large creature claws, ect...",Innate,Indefinite,Dual-wielded,Hew Medium Melee,None,+3,+2d6,1,Melee,Swift +1,None,Hew,Medium Melee
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-One-handed Slash Medium Melee +1,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",Innate,Indefinite,One-handed,Slash Medium Melee,None,+1,+1d6,1,Melee,Swift,None,Slash,Medium Melee
 One-handed Slash Medium Melee +2,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",Innate,Indefinite,One-handed,Slash Medium Melee,None,+2,+1d6,1,Melee,Swift,None,Slash,Medium Melee
 One-handed Slash Medium Melee +3,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",Innate,Indefinite,One-handed,Slash Medium Melee,None,+3,+1d6,1,Melee,Swift,None,Slash,Medium Melee
 One-handed Slash Medium Melee +5,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",Innate,Indefinite,One-handed,Slash Medium Melee,None,+5,+1d6,1,Melee,Swift,None,Slash,Medium Melee
@@ -246,7 +245,6 @@ One-handed Slash Medium Melee +9,"Arming Sword, Sidesword, broadsword, falchion,
 Two-handed Slash Medium Melee +5,"Bastard Sword, Medium swords with two-handed grips, ect...",Innate,Indefinite,Two-handed,Slash Medium Melee,None,+5,+2d6,1,Melee,Swift,None,Slash,Medium Melee
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-Dual-wielded Slash Medium Melee +1,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",Innate,Indefinite,Dual-wielded,Slash Medium Melee,None,+1,+2d6,1,Melee,Swift +1,None,Slash,Medium Melee
 Dual-wielded Slash Medium Melee +2,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",Innate,Indefinite,Dual-wielded,Slash Medium Melee,None,+2,+2d6,1,Melee,Swift +1,None,Slash,Medium Melee
 Dual-wielded Slash Medium Melee +3,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",Innate,Indefinite,Dual-wielded,Slash Medium Melee,None,+3,+2d6,1,Melee,Swift +1,None,Slash,Medium Melee
 Dual-wielded Slash Medium Melee +5,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",Innate,Indefinite,Dual-wielded,Slash Medium Melee,None,+5,+2d6,1,Melee,Swift +1,None,Slash,Medium Melee
@@ -285,11 +283,29 @@ Dual-wielded Medium Spear +7,"Javelin, short spear, large creature horns, ect...
 One-handed Hew Large Melee +3,"Dane axe, short poleaxe axehead, short halberd, ect...",Innate,Indefinite,One-handed,Hew Large Melee,None,+3,+0d6,1,Melee,Swift,None,Hew,Large Melee
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-One-handed Slash Large Melee +1,"Longsword, Ōdachi, ect...",Innate,Indefinite,One-handed,Slash Large Melee,None,+1,+0d6,1,Melee,Swift,None,Slash,Large Melee
-Two-handed Slash Large Melee +1,"Longsword, Ōdachi, ect...",Innate,Indefinite,Two-handed,Slash Large Melee,None,+1,+2d6,2,Melee,Swift,None,Slash,Large Melee
 ,,,,,,,,,,,,,,
-One-handed Pierce Large Melee +1,"Longsword, Ōdachi, Bec de corbin spike, ect...",Innate,Indefinite,One-handed,Pierce Large Melee,None,+0,+0d6,2,Melee,Swift,None,Pierce,Large Melee
-Two-handed Pierce Large Melee +1,"Longsword, Ōdachi, Bec de corbin spike, ect...",Innate,Indefinite,Two-handed,Pierce Large Melee,None,+0,+2d6,3,Melee,Swift,None,Pierce,Large Melee
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+One-handed Slash Medium Melee +1,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",Innate,Indefinite,One-handed,Slash Medium Melee,None,+2,+1d6,1,Melee,Swift,None,Slash,Medium Melee
+Two-handed Slash Medium Melee +1,"Bastard Sword, Medium swords with two-handed grips, ect...",Innate,Indefinite,Two-handed,Slash Medium Melee,None,+2,+2d6,1,Melee,Swift,None,Slash,Medium Melee
+Dual-wielded Slash Medium Melee +1,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",Innate,Indefinite,Dual-wielded,Slash Medium Melee,None,+2,+2d6,1,Melee,Swift +1,None,Slash,Medium Melee
+,,,,,,,,,,,,,,
+One-handed Pierce Medium Melee +1,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, War pick, war hammer's spike, ect...",Innate,Indefinite,One-handed,Pierce Medium Melee,None,+1,+1d6,2,Melee,Swift,None,Pierce,Medium Melee
+Two-handed Pierce Medium Melee +1,"Bastard Sword, Medium swords with two-handed grips, War pick, war hammer's spike, ect...",Innate,Indefinite,Two-handed,Pierce Medium Melee,None,+1,+2d6,2,Melee,Swift,None,Pierce,Medium Melee
+Dual-wielded Pierce Medium Melee +1,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, War pick, war hammer's spike, ect...",Innate,Indefinite,Dual-wielded,Pierce Medium Melee,None,+1,+2d6,2,Melee,Swift +1,None,Pierce,Medium Melee
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+One-handed Slash Large Melee +1,"Longsword, Ōdachi, ect...",Innate,Indefinite,One-handed,Slash Large Melee,None,+2,+0d6,1,Melee,Swift,None,Slash,Large Melee
+Two-handed Slash Large Melee +1,"Longsword, Ōdachi, ect...",Innate,Indefinite,Two-handed,Slash Large Melee,None,+2,+2d6,2,Melee,Swift,None,Slash,Large Melee
+,,,,,,,,,,,,,,
+One-handed Pierce Large Melee +1,"Longsword, Ōdachi, Bec de corbin spike, ect...",Innate,Indefinite,One-handed,Pierce Large Melee,None,+1,+0d6,2,Melee,Swift,None,Pierce,Large Melee
+Two-handed Pierce Large Melee +1,"Longsword, Ōdachi, Bec de corbin spike, ect...",Innate,Indefinite,Two-handed,Pierce Large Melee,None,+1,+2d6,3,Melee,Swift,None,Pierce,Large Melee
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
