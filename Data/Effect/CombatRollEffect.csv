@@ -188,27 +188,23 @@ Two-handed RPG Launcher with Explosive RPG Round,"RPG-7, ect...",Innate,Indefini
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 One-handed Slash Close Melee -1,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,One-handed,Slash Close Melee,None,-1,+0d6,0,Melee,Swift,None,Slash,Close Melee
-One-handed Slash Close Melee +1,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,One-handed,Slash Close Melee,None,+1,+0d6,0,Melee,Swift,None,Slash,Close Melee
 One-handed Slash Close Melee +2,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,One-handed,Slash Close Melee,None,+2,+0d6,0,Melee,Swift,None,Slash,Close Melee
 One-handed Slash Close Melee +3,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,One-handed,Slash Close Melee,None,+3,+0d6,0,Melee,Swift,None,Slash,Close Melee
 One-handed Slash Close Melee +5,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,One-handed,Slash Close Melee,None,+5,+0d6,0,Melee,Swift,None,Slash,Close Melee
 One-handed Slash Close Melee +9,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,One-handed,Slash Close Melee,None,+9,+0d6,0,Melee,Swift,None,Slash,Close Melee
 ,,,,,,,,,,,,,,
 Dual-wielded Slash Close Melee -1,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,Dual-wielded,Slash Close Melee,None,-1,+1d6,0,Melee,Swift +1,None,Slash,Close Melee
-Dual-wielded Slash Close Melee +1,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,Dual-wielded,Slash Close Melee,None,+1,+1d6,0,Melee,Swift +1,None,Slash,Close Melee
 Dual-wielded Slash Close Melee +2,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,Dual-wielded,Slash Close Melee,None,+2,+1d6,0,Melee,Swift +1,None,Slash,Close Melee
 Dual-wielded Slash Close Melee +3,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,Dual-wielded,Slash Close Melee,None,+3,+1d6,0,Melee,Swift +1,None,Slash,Close Melee
 Dual-wielded Slash Close Melee +5,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,Dual-wielded,Slash Close Melee,None,+5,+1d6,0,Melee,Swift +1,None,Slash,Close Melee
 Dual-wielded Slash Close Melee +9,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,Dual-wielded,Slash Close Melee,None,+9,+1d6,0,Melee,Swift +1,None,Slash,Close Melee
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-One-handed Pierce Close Melee +1,"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,One-handed,Pierce Close Melee,None,+1,+0d6,0,Melee,Swift,None,Pierce,Close Melee
 One-handed Pierce Close Melee +3,"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,One-handed,Pierce Close Melee,None,+3,+0d6,0,Melee,Swift,None,Pierce,Close Melee
 One-handed Pierce Close Melee +5,"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,One-handed,Pierce Close Melee,None,+5,+0d6,0,Melee,Swift,None,Pierce,Close Melee
 One-handed Pierce Close Melee +9,"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,One-handed,Pierce Close Melee,None,+9,+0d6,0,Melee,Swift,None,Pierce,Close Melee
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-Dual-wielded Pierce Close Melee +1,"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,Dual-wielded,Pierce Close Melee,None,+1,+1d6,0,Melee,Swift +1,None,Pierce,Close Melee
 Dual-wielded Pierce Close Melee +3,"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,Dual-wielded,Pierce Close Melee,None,+3,+1d6,0,Melee,Swift +1,None,Pierce,Close Melee
 Dual-wielded Pierce Close Melee +5,"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,Dual-wielded,Pierce Close Melee,None,+5,+1d6,0,Melee,Swift +1,None,Pierce,Close Melee
 Dual-wielded Pierce Close Melee +9,"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,Dual-wielded,Pierce Close Melee,None,+9,+1d6,0,Melee,Swift +1,None,Pierce,Close Melee
@@ -288,6 +284,11 @@ One-handed Hew Large Melee +3,"Dane axe, short poleaxe axehead, short halberd, e
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
+One-handed Slash Close Melee +1,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,One-handed,Slash Close Melee,None,+2,+0d6,0,Melee,Swift,None,Slash,Close Melee
+Dual-wielded Slash Close Melee +1,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,Dual-wielded,Slash Close Melee,None,+2,+1d6,0,Melee,Swift +1,None,Slash,Close Melee
+,,,,,,,,,,,,,,
+One-handed Pierce Close Melee +1,"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,One-handed,Pierce Close Melee,None,+1,+0d6,1,Melee,Swift,None,Pierce,Close Melee
+Dual-wielded Pierce Close Melee +1,"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",Innate,Indefinite,Dual-wielded,Pierce Close Melee,None,+1,+1d6,1,Melee,Swift +1,None,Pierce,Close Melee
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 One-handed Slash Medium Melee +1,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",Innate,Indefinite,One-handed,Slash Medium Melee,None,+2,+1d6,1,Melee,Swift,None,Slash,Medium Melee
@@ -298,17 +299,14 @@ One-handed Pierce Medium Melee +1,"Arming Sword, Sidesword, broadsword, falchion
 Two-handed Pierce Medium Melee +1,"Bastard Sword, Medium swords with two-handed grips, War pick, war hammer's spike, ect...",Innate,Indefinite,Two-handed,Pierce Medium Melee,None,+1,+2d6,2,Melee,Swift,None,Pierce,Medium Melee
 Dual-wielded Pierce Medium Melee +1,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, War pick, war hammer's spike, ect...",Innate,Indefinite,Dual-wielded,Pierce Medium Melee,None,+1,+2d6,2,Melee,Swift +1,None,Pierce,Medium Melee
 ,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
 One-handed Slash Large Melee +1,"Longsword, Ōdachi, ect...",Innate,Indefinite,One-handed,Slash Large Melee,None,+2,+0d6,1,Melee,Swift,None,Slash,Large Melee
 Two-handed Slash Large Melee +1,"Longsword, Ōdachi, ect...",Innate,Indefinite,Two-handed,Slash Large Melee,None,+2,+2d6,2,Melee,Swift,None,Slash,Large Melee
 ,,,,,,,,,,,,,,
 One-handed Pierce Large Melee +1,"Longsword, Ōdachi, Bec de corbin spike, ect...",Innate,Indefinite,One-handed,Pierce Large Melee,None,+1,+0d6,2,Melee,Swift,None,Pierce,Large Melee
 Two-handed Pierce Large Melee +1,"Longsword, Ōdachi, Bec de corbin spike, ect...",Innate,Indefinite,Two-handed,Pierce Large Melee,None,+1,+2d6,3,Melee,Swift,None,Pierce,Large Melee
 ,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
+One-handed Thrown Pierce Close Melee +1,"Throwing daggers, ect...",Innate,Indefinite,One-handed,Thrown Pierce Close Melee,"Thrown Pierce Close Melee +1, 1",+1,+0d6,1,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Swift,None,Pierce,Close Melee
+Dual-wielded Thrown Pierce Close Melee +1,"Throwing daggers, ect...",Innate,Indefinite,Dual-wielded,Thrown Pierce Close Melee,"Thrown Pierce Close Melee +1, 2",+1,+1d6,1,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,Pierce,Close Melee
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
