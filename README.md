@@ -4,7 +4,7 @@
 
 ![Alt text](./FogentRoleplayLogo-Circle.png)
 
-Fogent Roleplay is an open source TTRPG (Table Top Roleplay Game) intended to remove the unneeded complexity common in many TTRPGs while not sacrificing emergent/tactical gameplay. It acts as the foundation and narrative engine for your game. If you love the simplicity, flexibility, and narrative focus of Cogent Roleplay, but love tactical battle map combat, magic items, campaign progression, and sweet loot, then you are in the right place.
+Fogent Roleplay is an open source Table Top Roleplay Game intended to remove the cumberson and unneeded complexity common in many TTRPGs while not sacrificing emergent/tactical gameplay. It acts as the foundation and narrative engine for your game. If you love the simplicity, flexibility, and narrative focus of Cogent Roleplay, but love tactical battle map combat, magic items, campaign progression, and sweet loot, then you are in the right place.
 
 What makes Fogent Roleplay different then D&D:
 
