@@ -1,4 +1,6 @@
-# Welcome to Fogent Roleplay
+# Fogent Roleplay
+
+## Welcome to Fogent Roleplay
 
 ![Alt text](./FogentRoleplayLogo-Circle.png)
 
@@ -2567,10 +2569,10 @@ At character creation, players characters that take a Disabling Characteristic t
 
 |                     Name                     |                             Description                             |  Duration  |  Source  |
 | :------------------------------------------: | :-----------------------------------------------------------------: | :--------: | :-------: |
-|              Disabling: Subpar STR              |                          STR is set to -1                          | Indefinite | Backstory |
-|             Disabling: Subpar RFX             |                          RFX is set to -1                          | Indefinite | Backstory |
+|            Disabling: Subpar STR            |                          STR is set to -1                          | Indefinite | Backstory |
+|            Disabling: Subpar RFX            |                          RFX is set to -1                          | Indefinite | Backstory |
 |            Disabling: Subpar INT            |                          INT is set to -1                          | Indefinite | Backstory |
-|              Disabling: Subpar CHA              |                          CHA is set to -1                          | Indefinite | Backstory |
+|            Disabling: Subpar CHA            |                          CHA is set to -1                          | Indefinite | Backstory |
 |                                              |                                                                    |            |          |
 |         Disabling: Subpar Athletics         |                        Athletics level is -1                        | Indefinite | Backstory |
 |         Disabling: Subpar Endurance         |                        Endurance level is -1                        | Indefinite | Backstory |
