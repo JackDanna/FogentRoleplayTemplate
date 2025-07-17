@@ -2723,8 +2723,6 @@ Represented by a group of legendary characters who have made their mark on histo
 
 ## Character Creation Rules
 
-- [Character Sheet Template](./src/CoreRules/CharacterCreationRules/temp/temp/temp/CharacterSheetTemplate.md)
-
 #### Combat Skills
 
 Combat Skills are skills that are used for fighting, including all Weapon Combat Skills and Combat Magic Skills. These skills require skill points to be increased.
