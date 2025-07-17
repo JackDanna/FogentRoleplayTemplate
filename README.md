@@ -2727,18 +2727,21 @@ For first time narrators/players it can feel daunting to build a player characte
 
 Fear not, as you likely already have all the knowledge you need from the movies, shows, books, and other media you have watched through your life.
 
-In other systems, player character creation often is just about the mechanical stats. 
+In other systems, player character creation often is just about the mechanical stats.
 
 In Fogent Roleplay, we'd argue that stats are down stream of who narratively a player character is. Instead of starting with the stat of your character
 
-
-For people who have never made a character before, it can be quite daunting to know where to start. 
+For people who have never made a character before, it can be quite daunting to know where to start.
 
 ### Step 0: Understand the Setting
 
 It is imparative to have rough understanding of the setting/world the character you make will be inhabiting. By no means do you need to be an lore expert, but you should have a rough idea of the major themes, technology level, and bedrock information for a resident of that world. It is the Narrators job to ensure this information if relayed so that everyone is on the same page.
 
-### Step 1: Start with an archetype
+### Step 1: Understand what Tier Of Play you're playing
+
+A Tier Of Play narratively describe the stakes of the campaign. Your Narrator should let you know your tier of play and you should factor this into your character as it would be silly to have your character's backstory to paint them as a master wizard only to have them start in the Apprentice Tier Of Play. Also realize that your character will grow throughout the course of their story and your Narrator will be rewarding you will skill points as you play.
+
+### Step 2: Start with an archetype
 
 Picking an archetype is an excellent starting point for a player character. Choosing an archetype isn't meant to be rigid but is meant to serve as a jumping off point. These archetypes can of course depends on the setting you are playing in, though you'd be surprised how much a wizards in a fantasy setting is narratively similar to a mad scientist in a cyber punk setting. What follows is a non-exhaustive list of some common archetypes found in fantasy.
 
@@ -2778,18 +2781,14 @@ Picking an archetype is an excellent starting point for a player character. Choo
 - The Orphan
 - The Local Hero
 
-### Step 2: Understand what Tier Of Play you're playing
-
-A Tier Of Play narratively describe the stakes of the campaign. Your Narrator should let you know your tier of play and you should factor this into your character as it would be silly to have your character's backstory to paint them as a master wizard only to have them start in the Apprentice Tier Of Play. Also realize that your character will grow throughout the course of their story and your Narrator will be rewarding you will skill points as you play.
-
 ### Step 3: Write a rough Backstory
 
-Given the archetype you chose, the tier of play, and world setting the Narrator has chosen, write a rough backstory about your character. You'll come back later at the end to polish it, but just get across the broad strokes at this stage.
+Gieven the setting the Narrator has chosen, the Tier of Play, and the archetype chosen, write a rough backstory for the player character. You'll come back later at the end to polish it, but just get across the broad strokes at this stage.
 
 Here are some important questions to ask about your character:
 
-- What is your name?
-- Where are you from?
+- What is their name?
+- Where are they from?
 - What is their sex?
 - What is their age?
 - What is their race?
