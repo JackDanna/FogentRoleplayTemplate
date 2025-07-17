@@ -2725,30 +2725,6 @@ Represented by a group of legendary characters who have made their mark on histo
 
 This document introduces a step by step walk through of how to build a character.
 
-### Step 0: Javk Wick's character creation house rules (Optional)
-
-Howdy all, this is Javk Wick. Here are some house rules for character creation that I implement almost all of my campaigns, especially with brand new players. They've served me very well and I'd highly encourage you to use them to avoid common pitfalls.
-
-#### Player Characters can't start evil
-
-Unless the Narrator is running an evil campaign, player characters can't start as evil.
-
-Reason being, the majority of players won't be evil characters. Early on, as at this point there is minimal connection between a party of characters, the majority good portion of the party will either boot out or kill the evil character for one of their evil deeds. With new players this will undoubtedly cause some real world friction and the now narratively dead player will have to make a whole new character mid campaign.
-
-However, notice how I said "Player Characters can't start evil" and not "No evil Player Characters". The reality is, that it is awesome for the narrative when player characters have a tight knit group, and one of the characters turns to the dark side for in their mind compelling reasons. Since all the player characters have history with one another, they are more likely to not boot or kill the now evil character, and instead try to bring them back to the light. This inevitably becomes the heart of the story, and is extremely gripping. Anakin Skywalker is the best example of this effect in narrative, as we are able to watch his downfall.
-
-#### No joke Player Characters
-
-Unless the Narrator is running a goofy/silly campaign, no joke player characters.
-
-You can easily spot a joke character when they are completely clashing with the themes and world setting that the Narrator has chosen for the campaign. For example, it would be completely out of place to have a character that is essentially Spongebob in a gritty dark fantasy setting. These characters end up ruining the immersion of other players and make it difficult for the Narrator to get across the world he/she has envisioned.
-
-#### No loner Player Characters
-
-No loner/antisocial characters that constantly split the group and never interact with the other player characters.
-
-The player characters are the main characters and main characters interact with one another. They should also probably like the other characters or at least have a reason why they have to work together. Table top roleplay games are at their core about spending quality time with your friends. If a player wants to have the loner experience, they can go play Skyrim or something.
-
 ### Step 1: Start with an archetype
 
 For people who have never made a character before, it can be quite daunting to know where to start. Fear not, as you likely already have all the knowledge you need from the movies, shows, books, and other media you have watched through your life.
@@ -2969,3 +2945,27 @@ Once a skill's Dice Pool is equal to or greater than 8 dice you are considered a
 ### Turn Order not based on Dexterity
 
 If multiple characters have the same RFX level, they each roll a D20, where the highest resulting roll gets being higher in turn order declare later for the rest of the combat encounter.
+
+### Step 0: Javk Wick's character creation house rules (Optional)
+
+Howdy all, this is Javk Wick. Here are some house rules for character creation that I implement almost all of my campaigns, especially with brand new players. They've served me very well and I'd highly encourage you to use them to avoid common pitfalls.
+
+#### Player Characters can't start evil
+
+Unless the Narrator is running an evil campaign, player characters can't start as evil.
+
+Reason being, the majority of players won't be evil characters. Early on, as at this point there is minimal connection between a party of characters, the majority good portion of the party will either boot out or kill the evil character for one of their evil deeds. With new players this will undoubtedly cause some real world friction and the now narratively dead player will have to make a whole new character mid campaign.
+
+However, notice how I said "Player Characters can't start evil" and not "No evil Player Characters". The reality is, that it is awesome for the narrative when player characters have a tight knit group, and one of the characters turns to the dark side for in their mind compelling reasons. Since all the player characters have history with one another, they are more likely to not boot or kill the now evil character, and instead try to bring them back to the light. This inevitably becomes the heart of the story, and is extremely gripping. Anakin Skywalker is the best example of this effect in narrative, as we are able to watch his downfall.
+
+#### No joke Player Characters
+
+Unless the Narrator is running a goofy/silly campaign, no joke player characters.
+
+You can easily spot a joke character when they are completely clashing with the themes and world setting that the Narrator has chosen for the campaign. For example, it would be completely out of place to have a character that is essentially Spongebob in a gritty dark fantasy setting. These characters end up ruining the immersion of other players and make it difficult for the Narrator to get across the world he/she has envisioned.
+
+#### No loner Player Characters
+
+No loner/antisocial characters that constantly split the group and never interact with the other player characters.
+
+The player characters are the main characters and main characters interact with one another. They should also probably like the other characters or at least have a reason why they have to work together. Table top roleplay games are at their core about spending quality time with your friends. If a player wants to have the loner experience, they can go play Skyrim or something.
