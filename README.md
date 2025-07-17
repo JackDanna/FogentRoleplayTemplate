@@ -2721,71 +2721,6 @@ Represented by a group of legendary characters who have made their mark on histo
 |  35  |        5        |      29      |            5            |   +1 Skill Point   |
 |  36  |        6        |      29      |            5            | +1 Attribute Point |
 
-## Character Creation Rules
-
-#### Combat Skills
-
-Combat Skills are skills that are used for fighting, including all Weapon Combat Skills and Combat Magic Skills. These skills require skill points to be increased.
-
-#### Vocational Skills
-
-Vocational Skills are skills that your Vocation would logically give you. A Vocational Skill's level is inherited from Vocation's level. Players can make Vocational Skills at any point with approval from the Narrator and use them for applicable skill checks.
-
-Vocational Skills will often overlap with one or more Core Skills, though they will represent a much more specialized subset of tasks. Often times a Vocational Skill will combine what would usually be multiple sequential harder Core Skill checks into a single often easier Vocational Skill check.
-
-Vocational Skills can never cover a majority of what a Core Skill covers. You can not assist Vocational Skills with the Vocation they fall under, as they are essentially relying on the same shared skill point investment.
-
-It is smart to write down Vocational Skills under your vocation as a reminder to have on your character sheet.
-
-Tier Of Play narratively describes the stakes of the campaign as well as how powerful/competent player characters are. This balances the players against each other and the challenges the Narrator has envisioned.
-
-The Narrator should let the players know the Tier Of Play and players should factor this into their characters. It would be silly to have a character's backstory paint them as a badass only to have them start at Apprentice Tier. Also, realize that your character will grow throughout their story and the Narrator will be rewarding players with ways to improve your character as they play.
-
-Whenever building a character starting at a higher level than 1, you must build that character as if they were starting from level 1.
-
-## Weapon Combat Skills
-
-A Weapon Combat Skill covers the use of a group of similar weapons. The tables over on the Weapons rules show which weapons are group under which Weapon Combat Skills. For instance, the "Medium Melee" Weapon Combat Skill covers the use of "Medium Hafted", "Medium Sword", and "Medium Spear".
-
-All Weapon Combat Skills have the governing attributes of STR, RFX, and INT. This is to reflect that the stronger, faster, and smarter a character is, the more lethal they are in combat regardless of the weapon. A STR character hits harder, is tougher, and is more conditioned for combat. A RFX character hits faster and is harder to pin down. An INT character hits smarter and uses tactics. It is the player's/Narrator's job to flavor their attacks to reflect how they are leveraging their innate attributes as they fight.
-
-### Weapon Combat Skill Transfer
-
-There is obviously overlap certain Weapon Combat Skills. For melee Weapon Combat Skills, weapon reach, footwork, and the biomechanics of swinging a weapon have some overlap. For ranged Weapon Combat Skills, having a proper base, judging the distance, leading your targets, aiming and releasing the projectile smoothly are examples of the overlap. Narrators should allow a character to gain Weapon Combat Skills, though of a lesser level, in similar Weapon Combat Skills in regards to size and function. This not only allows characters to experiment with new weapons but also makes narrative sense.
-
-Starting with the weapon skill your character currently possesses, each horizontal (right and left on the table) or vertical (up and down on the table) jump is -1 reduction to the skill you've moved to. When moving horizontally within a Size type, you may loop around the other side of the table as if it were right beside it. You cannot go below 0 on a combat skill for either melee or ranged weapons via the table below.
-
-#### Melee Weapon Combat Skill Transfer
-
-|   Weapons   |
-| :----------: |
-| Close Melee |
-| Medium Melee |
-| Large Melee |
-| Reach Melee |
-
-#### Bow/Crossbow Weapon Skill Transfer
-
-| Size/Type |   Bows   |   Crossbows   |
-| :-------: | :-------: | :------------: |
-|   Hand   |          | Hand Crossbow |
-|   Light   | Light Bow | Light Crossbow |
-|   Heavy   | Heavy Bow | Heavy Crossbow |
-
-#### Guns
-
-|   Weapons   |
-| :---------: |
-| Small Guns |
-| Medium Guns |
-| Heavy Guns |
-
-#### Respecing Combat Skills
-
-Since certain weapon sizes provide more combat skill transfer than others, it is intend for the Narrator to allow rebalancing skill point investments as to not waste skill levels as long as all previously know skills maintain they're skill level.
-
-For example, a character has just been given 1 skill point to spend and has a level 3 in Small Blade. They wish to invest their skill point into the Medium Sword skill to try a new magic sword they found. Since they have a 3 in Small Blade already, by the Weapon Combat Skill Transfer rules they have a level 2 in Medium Sword. If they were to invest their skill point into Medium Sword to bring it to level 3, they are technically wasting skill points as had they from the start only invested the 3 skill points from Small Blade into Medium sword, with the addition of the unspent skill point, they'd have a level 4 in Medium sword, which would also give them a level 3 in Small Blade. Instead of wasting skill points, they can take the 3 skill points from Small Blade and the 1 unspent skill point and spend it on bring Medium sword to level 4. Since having a level 4 in Medium Sword gives a level 3 in Small Blade, nothing has changed in Small Blade.
-
 ## Character Creation
 
 This document introduces a step by step walk through of how to build a character.
@@ -2901,6 +2836,71 @@ Each Skill Point can be used to increase one core skill, vocation, or combat ski
 If the setting has an built economy such as Fallen, based on your characters backstory the Narrator will assign your socioeconomic status. Then you choose whether to roll for your wealth or take the average.
 
 If the setting doesn't have a built economy, then the players and Narrator can work together to figure out what equipment your character might have based on their backstory and Tier Of Play.
+
+## Character Creation Rules
+
+#### Combat Skills
+
+Combat Skills are skills that are used for fighting, including all Weapon Combat Skills and Combat Magic Skills. These skills require skill points to be increased.
+
+#### Vocational Skills
+
+Vocational Skills are skills that your Vocation would logically give you. A Vocational Skill's level is inherited from Vocation's level. Players can make Vocational Skills at any point with approval from the Narrator and use them for applicable skill checks.
+
+Vocational Skills will often overlap with one or more Core Skills, though they will represent a much more specialized subset of tasks. Often times a Vocational Skill will combine what would usually be multiple sequential harder Core Skill checks into a single often easier Vocational Skill check.
+
+Vocational Skills can never cover a majority of what a Core Skill covers. You can not assist Vocational Skills with the Vocation they fall under, as they are essentially relying on the same shared skill point investment.
+
+It is smart to write down Vocational Skills under your vocation as a reminder to have on your character sheet.
+
+Tier Of Play narratively describes the stakes of the campaign as well as how powerful/competent player characters are. This balances the players against each other and the challenges the Narrator has envisioned.
+
+The Narrator should let the players know the Tier Of Play and players should factor this into their characters. It would be silly to have a character's backstory paint them as a badass only to have them start at Apprentice Tier. Also, realize that your character will grow throughout their story and the Narrator will be rewarding players with ways to improve your character as they play.
+
+Whenever building a character starting at a higher level than 1, you must build that character as if they were starting from level 1.
+
+## Weapon Combat Skills
+
+A Weapon Combat Skill covers the use of a group of similar weapons. The tables over on the Weapons rules show which weapons are group under which Weapon Combat Skills. For instance, the "Medium Melee" Weapon Combat Skill covers the use of "Medium Hafted", "Medium Sword", and "Medium Spear".
+
+All Weapon Combat Skills have the governing attributes of STR, RFX, and INT. This is to reflect that the stronger, faster, and smarter a character is, the more lethal they are in combat regardless of the weapon. A STR character hits harder, is tougher, and is more conditioned for combat. A RFX character hits faster and is harder to pin down. An INT character hits smarter and uses tactics. It is the player's/Narrator's job to flavor their attacks to reflect how they are leveraging their innate attributes as they fight.
+
+### Weapon Combat Skill Transfer
+
+There is obviously overlap certain Weapon Combat Skills. For melee Weapon Combat Skills, weapon reach, footwork, and the biomechanics of swinging a weapon have some overlap. For ranged Weapon Combat Skills, having a proper base, judging the distance, leading your targets, aiming and releasing the projectile smoothly are examples of the overlap. Narrators should allow a character to gain Weapon Combat Skills, though of a lesser level, in similar Weapon Combat Skills in regards to size and function. This not only allows characters to experiment with new weapons but also makes narrative sense.
+
+Starting with the weapon skill your character currently possesses, each horizontal (right and left on the table) or vertical (up and down on the table) jump is -1 reduction to the skill you've moved to. When moving horizontally within a Size type, you may loop around the other side of the table as if it were right beside it. You cannot go below 0 on a combat skill for either melee or ranged weapons via the table below.
+
+#### Melee Weapon Combat Skill Transfer
+
+|   Weapons   |
+| :----------: |
+| Close Melee |
+| Medium Melee |
+| Large Melee |
+| Reach Melee |
+
+#### Bow/Crossbow Weapon Skill Transfer
+
+| Size/Type |   Bows   |   Crossbows   |
+| :-------: | :-------: | :------------: |
+|   Hand   |          | Hand Crossbow |
+|   Light   | Light Bow | Light Crossbow |
+|   Heavy   | Heavy Bow | Heavy Crossbow |
+
+#### Guns
+
+|   Weapons   |
+| :---------: |
+| Small Guns |
+| Medium Guns |
+| Heavy Guns |
+
+#### Respecing Combat Skills
+
+Since certain weapon sizes provide more combat skill transfer than others, it is intend for the Narrator to allow rebalancing skill point investments as to not waste skill levels as long as all previously know skills maintain they're skill level.
+
+For example, a character has just been given 1 skill point to spend and has a level 3 in Small Blade. They wish to invest their skill point into the Medium Sword skill to try a new magic sword they found. Since they have a 3 in Small Blade already, by the Weapon Combat Skill Transfer rules they have a level 2 in Medium Sword. If they were to invest their skill point into Medium Sword to bring it to level 3, they are technically wasting skill points as had they from the start only invested the 3 skill points from Small Blade into Medium sword, with the addition of the unspent skill point, they'd have a level 4 in Medium sword, which would also give them a level 3 in Small Blade. Instead of wasting skill points, they can take the 3 skill points from Small Blade and the 1 unspent skill point and spend it on bring Medium sword to level 4. Since having a level 4 in Medium Sword gives a level 3 in Small Blade, nothing has changed in Small Blade.
 
 # Hardcore Rules
 
