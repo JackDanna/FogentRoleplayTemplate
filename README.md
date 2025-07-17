@@ -2721,13 +2721,24 @@ Represented by a group of legendary characters who have made their mark on histo
 |  35  |        5        |      29      |            5            |   +1 Skill Point   |
 |  36  |        6        |      29      |            5            | +1 Attribute Point |
 
-## Character Creation
+## Player Character Creation for Campaign Play
 
-This document introduces a step by step walk through of how to build a character.
+For first time narrators/players it can feel daunting to build a player character. These rules will guide you through
+
+Fear not, as you likely already have all the knowledge you need from the movies, shows, books, and other media you have watched through your life.
+
+In other systems, player character creation often is just about the mechanical stats. 
+
+In Fogent Roleplay, we'd argue that stats are down stream of who narratively a player character is. Instead of starting with the stat of your character
+
+
+For people who have never made a character before, it can be quite daunting to know where to start. 
+
+### Step 0: Understand the Setting
+
+It is imparative to have rough understanding of the setting/world the character you make will be inhabiting. By no means do you need to be an lore expert, but you should have a rough idea of the major themes, technology level, and bedrock information for a resident of that world. It is the Narrators job to ensure this information if relayed so that everyone is on the same page.
 
 ### Step 1: Start with an archetype
-
-For people who have never made a character before, it can be quite daunting to know where to start. Fear not, as you likely already have all the knowledge you need from the movies, shows, books, and other media you have watched through your life.
 
 Picking an archetype is a great starting place to think about a character. It doesn't mean that your character has to stick purely to the archetype. It is more of a jumping off point.
 
