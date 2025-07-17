@@ -2740,7 +2740,11 @@ It is imparative to have rough understanding of the setting/world the character 
 
 ### Step 1: Start with an archetype
 
-Picking an archetype is a great starting place to think about a character. It doesn't mean that your character has to stick purely to the archetype. It is more of a jumping off point.
+Picking a rough archetype to follow is an awesome start for a character and provided a stable jumping off point for customization.
+
+Picking an archetype by no means lock you into a rigid  but is meant to serve as a jumping off point.
+
+It doesn't mean that your character has to stick purely to the archetype.
 
 These archetypes can of course depends on the setting you are playing in, though you'd be surprised how much a wizards in a fantasy setting is narratively similar to a mad scientist in a cyber punk setting. What follows is a non-exhaustive list of some common archetypes found in fantasy.
 
