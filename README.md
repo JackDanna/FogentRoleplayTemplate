@@ -2739,7 +2739,7 @@ It is imparative to have rough understanding of the setting/world the character 
 
 ### Step 1: Understand what Tier Of Play you're playing
 
-A Tier Of Play narratively describe the stakes of the campaign. The Narrator should let the Player's know the Tier Of Play for the campaign. Players should factor this into their Player Character as it would be silly to have a character's backstory paint them as a world conquering threat only to have them start as a novice adventure. Player's should also realize that their character will grow throughout the course of their campaign.
+A Tier Of Play narratively describes the stakes of the campaign as well as how powerful/competent player characters are. This balances the players against each other and the challenges the Narrator has envisioned. The Narrator should let the Player's know the Tier Of Play for the campaign. Players should factor this into their Player Character as it would be silly to have a character's backstory paint them as a world conquering threat only to have them start as a novice adventure. Player's should also realize that their character will grow throughout the course of their campaign.
 
 ### Step 2: Start with an archetype
 
@@ -2828,10 +2828,6 @@ If the setting doesn't have a built economy, then the players and Narrator can w
 Vocational Skills will often overlap with one or more Core Skills, though they will represent a much more specialized subset of tasks. Often times a Vocational Skill will combine what would usually be multiple sequential harder Core Skill checks into a single often easier Vocational Skill check.
 
 Vocational Skills can never cover a majority of what a Core Skill covers. You can not assist Vocational Skills with the Vocation they fall under, as they are essentially relying on the same shared skill point investment.
-
-It is smart to write down Vocational Skills under your vocation as a reminder to have on your character sheet.
-
-Tier Of Play narratively describes the stakes of the campaign as well as how powerful/competent player characters are. This balances the players against each other and the challenges the Narrator has envisioned.
 
 ## Weapon Combat Skills
 
