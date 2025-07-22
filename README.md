@@ -2641,7 +2641,7 @@ Tier Of Play represents the how large the stakes are for a game/campaign aswell 
 
 **Skill Points:** The number of points you get to spend on Core Skills, Vocations, and Combat Skills.
 
-**Skill/Vocation Level Cap:** This is the maximum you can take any skill or vocation level to in the Tier Of Play.
+**Skill/Vocation Level Cap:** This is the maximum allowed Level of any Skill or Vocation.
 
 #### Novice Tier (D&D Level 0)
 
@@ -2802,21 +2802,19 @@ Here are some important questions to ask about your character:
 - Do they have friends/family?
 - Do they have romantic interests/exes.
 
-### Step 4: Pick your Vocation, spend your Vocation Point
+### Step 4: Build the Player Character up to the Tier Of Play Level
 
-Regardless of the Tier Of Play, you'll have a vocation point to spend. This is a point you get to spend to unlock your first Vocation, whatever your character's life path/job has been. Luckily, if you already picked an archetype that you are going for, you've probably already have your Vocation. For instance, if I wanted to play a Rogue archetype, than my vocation could just be Rogue.
+Depending on the Tier Of Play Level the Narrator starts the Player Character off at, follow the "Rewards Gained" step by step until the desired Level is reached to build the Player Character.
+
+If the Player already picked an archetype for there Player Character, they've probably already have a good idea of a Vocation they should take. For instance, if they wanted to play a Rogue archetype, than their Vocation could just be Rogue.
+
+Attributes represent the innate characteristics of your character. They have one of the largest impacts on your character so Player's should choose wisely. Most often Players should choose attributes that make sense given thier Vocation. Strength for Barbarian, Reflex for Rogue, Intelligence for Wizard, Charisma for Bards, etc...
+
+Each Skill Point can be used to increase one core skill, vocation, or combat skill level by 1.
 
 ### Step 5: Choose Disabling Characteristics
 
 Disabling Characteristics represent flaws your character has. This is an essential part of every character as everyone needs a short coming to overcome or temptation to fall to. It should be noted that Disabling Characteristics can be remedied through narrative with the Narrators approval.
-
-### Step 6: Spend your Attribute Points
-
-Attributes represent the innate characteristics of your character. They have one of the largest impacts on your character so you should choose wisely. Most often you'd choose attributes that make sense given your Vocation ( Strength for Barbarian, Reflex for Rogue, Intelligence for Wizard, etc...).
-
-### Step 7: Spend your Skill Points
-
-Each Skill Point can be used to increase one core skill, vocation, or combat skill level by 1. It should be noted that no skill can increased above the "Skill/Vocation Level Cap" as defined by your Tier Of Play.
 
 ### Step 8: Determine your starting equipment
 
