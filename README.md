@@ -2804,13 +2804,13 @@ Here are some important questions to ask about your character:
 
 ### Step 4: Build the Player Character up to the Tier Of Play Level
 
-Depending on the Tier Of Play Level the Narrator starts the Player Character off at, follow the "Rewards Gained" step by step until the desired Level is reached to build the Player Character.
+Depending on the Tier Of Play Level the Narrator starts the Player Character off at, follow the "Rewards Gained" step by step until the desired Level is reached to build the Player Character. This means whenever building a Player Character, start with the lowest Tier Of Play Level and work your way up.
 
 If the Player already picked an archetype for there Player Character, they've probably already have a good idea of a Vocation they should take. For instance, if they wanted to play a Rogue archetype, than their Vocation could just be Rogue.
 
 Attributes represent the innate characteristics of your character. They have one of the largest impacts on your character so Player's should choose wisely. Most often Players should choose attributes that make sense given thier Vocation. Strength for Barbarian, Reflex for Rogue, Intelligence for Wizard, Charisma for Bards, etc...
 
-Each Skill Point can be used to increase one core skill, vocation, or combat skill level by 1.
+Each Skill Point can be used to increase one Core Skill, Vocation, or Vocational Skill level by 1. Combat Vocational Skills are skills that are used for fighting, including all Weapon Combat Skills and Combat Magic Skills. These skills require skill points to be increased. A Non-Combat Vocational Skill's level is inherited from Vocation's level.
 
 ### Step 5: Choose Disabling Characteristics
 
@@ -2822,15 +2822,8 @@ If the setting has an built economy such as Fallen, based on your characters bac
 
 If the setting doesn't have a built economy, then the players and Narrator can work together to figure out what equipment your character might have based on their backstory and Tier Of Play.
 
-## Character Creation Rules
-
-#### Combat Skills
-
-Combat Skills are skills that are used for fighting, including all Weapon Combat Skills and Combat Magic Skills. These skills require skill points to be increased.
 
 #### Vocational Skills
-
-Vocational Skills are skills that your Vocation would logically give you. A Vocational Skill's level is inherited from Vocation's level. Players can make Vocational Skills at any point with approval from the Narrator and use them for applicable skill checks.
 
 Vocational Skills will often overlap with one or more Core Skills, though they will represent a much more specialized subset of tasks. Often times a Vocational Skill will combine what would usually be multiple sequential harder Core Skill checks into a single often easier Vocational Skill check.
 
@@ -2839,10 +2832,6 @@ Vocational Skills can never cover a majority of what a Core Skill covers. You ca
 It is smart to write down Vocational Skills under your vocation as a reminder to have on your character sheet.
 
 Tier Of Play narratively describes the stakes of the campaign as well as how powerful/competent player characters are. This balances the players against each other and the challenges the Narrator has envisioned.
-
-The Narrator should let the players know the Tier Of Play and players should factor this into their characters. It would be silly to have a character's backstory paint them as a badass only to have them start at Apprentice Tier. Also, realize that your character will grow throughout their story and the Narrator will be rewarding players with ways to improve your character as they play.
-
-Whenever building a character starting at a higher level than 1, you must build that character as if they were starting from level 1.
 
 ## Weapon Combat Skills
 
