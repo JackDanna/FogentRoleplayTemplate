@@ -2639,11 +2639,11 @@ Tier Of Play represents the how large the stakes are for a game/campaign aswell 
 
 **Level:** Used to represent milestones a character has crossed corolating to an increase in skill/ability/compentence/ect...
 
-**Attribute Points:** The number of points you can spend to increase a character's Attributes.
+**Attribute Points:** The total points spent increasing the levels of the Attributes a character has.
 
-**Skill Points:** The number of points you get to spend on Core Skills, Vocations, and Combat Skills.
+**Skill Points:** The total points spent increasing the levels of the Skills and Vocations a character has.
 
-**Skill/Vocation Level Cap:** This is the maximum allowed Level of any Skill or Vocation.
+**Skill/Vocation Level Cap:** This is the maximum allowed level of any Skill or Vocation.
 
 #### Novice Tier (D&D Level 0)
 
