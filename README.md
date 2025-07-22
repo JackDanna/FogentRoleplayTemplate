@@ -2783,7 +2783,7 @@ Picking an archetype is an excellent starting point for a player character. Choo
 
 ### Step 3: Write a rough Backstory
 
-Given the setting the Narrator has chosen, the Tier of Play, and the archetype chosen, write a rough backstory for the player character. You'll come back later at the end to polish it, but just get across the broad strokes at this stage.
+Given the setting, the Tier of Play, and the archetype chosen, write a rough backstory for the player character. You'll come back later at the end to polish it, but just get across the broad strokes at this stage.
 
 Here are some important questions to ask about your character:
 
