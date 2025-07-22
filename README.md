@@ -2637,7 +2637,7 @@ At character creation, players characters that take a Disabling Characteristic t
 
 Tier Of Play represents the how large the stakes are for a game/campaign aswell as how powerful the player characters are.
 
-**Level:** Used to represent milestones a character has crossed corolating to an increase in skill/ability/compentence/ect...
+**Level:** Used to represent milestones a character has crossed corolating to an increase in skill/ability/compentence/ect... The Narrator can reward the Player Character's with an increase in their level when they accomplish a milestone of thier choosing. Things like finishing a certain amount of real world sessions, completing a quest, defeating a powerful foe, ect... are all valid metrics for the Narrator to use.
 
 **Attribute Points:** The total points spent increasing the levels of the Attributes a character has.
 
@@ -2725,23 +2725,15 @@ Represented by a group of legendary characters who have made their mark on histo
 
 ## Player Character Creation for Campaign Play
 
-For first time narrators/players it can feel daunting to build a player character. These rules will guide you through
-
-Fear not, as you likely already have all the knowledge you need from the movies, shows, books, and other media you have watched through your life.
-
-In other systems, player character creation often is just about the mechanical stats.
-
-In Fogent Roleplay, we'd argue that stats are down stream of who narratively a player character is. Instead of starting with the stat of your character
-
-For people who have never made a character before, it can be quite daunting to know where to start.
+For first time Narrators/Players it can feel daunting to build a Player Character. Fear not, as you likely already have all the knowledge you need from the movies, shows, books, and other media you have watched through your life. In general, it is a good idea to keep all the Player Character's within a campaign the same Tier Of Play Level to keep things balanced.
 
 ### Step 0: Understand the Setting
 
-It is imparative to have rough understanding of the setting/world the character you make will be inhabiting. By no means do you need to be an lore expert, but you should have a rough idea of the major themes, technology level, and bedrock information for a resident of that world. It is the Narrators job to ensure this information if relayed so that everyone is on the same page.
+It is imparative to have rough understanding of the setting/world the Player Character is going to be inhabiting. By no means do you need to be an lore expert, but you should have a rough idea of the major themes, technology level, and bedrock information for a resident of that world. It is the Narrators job to ensure this information if relayed so that everyone is on the same page.
 
 ### Step 1: Understand what Tier Of Play you're playing
 
-A Tier Of Play narratively describes the stakes of the campaign as well as how powerful/competent player characters are. This balances the players against each other and the challenges the Narrator has envisioned. The Narrator should let the Player's know the Tier Of Play for the campaign. Players should factor this into their Player Character as it would be silly to have a character's backstory paint them as a world conquering threat only to have them start as a novice adventure. Player's should also realize that their character will grow throughout the course of their campaign.
+A Tier Of Play narratively describes the stakes of the campaign as well as how powerful/competent a Player Characters is expected to be. This balances the Players against each other and the challenges the Narrator has envisioned. The Narrator should let the Player's know the Tier Of Play Level thier Player Character's will start at for the campaign. Players should factor this into their Player Character as it would be silly to have a backstory paint them as a world conquering threat only to have them start as a novice adventure mechanically. Player's should also realize that their character will grow throughout the course of their campaign.
 
 ### Step 2: Start with an archetype
 
