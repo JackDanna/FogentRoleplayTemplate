@@ -2739,7 +2739,7 @@ It is imparative to have rough understanding of the setting/world the character 
 
 ### Step 1: Understand what Tier Of Play you're playing
 
-A Tier Of Play narratively describe the stakes of the campaign. Your Narrator should let you know your tier of play and you should factor this into your character as it would be silly to have your character's backstory to paint them as a master wizard only to have them start in the Apprentice Tier Of Play. Also realize that your character will grow throughout the course of their story and your Narrator will be rewarding you will skill points as you play.
+A Tier Of Play narratively describe the stakes of the campaign. The Narrator should let the Player's know the Tier Of Play for the campaign. Players should factor this into their Player Character as it would be silly to have a character's backstory paint them as a world conquering threat only to have them start as a novice adventure. Player's should also realize that their character will grow throughout the course of their campaign.
 
 ### Step 2: Start with an archetype
 
@@ -2783,7 +2783,7 @@ Picking an archetype is an excellent starting point for a player character. Choo
 
 ### Step 3: Write a rough Backstory
 
-Gieven the setting the Narrator has chosen, the Tier of Play, and the archetype chosen, write a rough backstory for the player character. You'll come back later at the end to polish it, but just get across the broad strokes at this stage.
+Given the setting the Narrator has chosen, the Tier of Play, and the archetype chosen, write a rough backstory for the player character. You'll come back later at the end to polish it, but just get across the broad strokes at this stage.
 
 Here are some important questions to ask about your character:
 
