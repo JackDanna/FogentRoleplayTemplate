@@ -2822,13 +2822,6 @@ If the setting has an built economy such as Fallen, based on your characters bac
 
 If the setting doesn't have a built economy, then the players and Narrator can work together to figure out what equipment your character might have based on their backstory and Tier Of Play.
 
-
-#### Vocational Skills
-
-Vocational Skills will often overlap with one or more Core Skills, though they will represent a much more specialized subset of tasks. Often times a Vocational Skill will combine what would usually be multiple sequential harder Core Skill checks into a single often easier Vocational Skill check.
-
-Vocational Skills can never cover a majority of what a Core Skill covers. You can not assist Vocational Skills with the Vocation they fall under, as they are essentially relying on the same shared skill point investment.
-
 ## Weapon Combat Skills
 
 A Weapon Combat Skill covers the use of a group of similar weapons. The tables over on the Weapons rules show which weapons are group under which Weapon Combat Skills. For instance, the "Medium Melee" Weapon Combat Skill covers the use of "Medium Hafted", "Medium Sword", and "Medium Spear".
