@@ -2637,6 +2637,8 @@ At character creation, players characters that take a Disabling Characteristic t
 
 Tier Of Play represents the how large the stakes are for a game/campaign aswell as how powerful the player characters are.
 
+**Level:** Used to represent milestones a character has crossed corolating to an increase in skill/ability/compentence/ect...
+
 **Attribute Points:** The number of points you can spend to increase a character's Attributes.
 
 **Skill Points:** The number of points you get to spend on Core Skills, Vocations, and Combat Skills.
