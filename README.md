@@ -2649,66 +2649,66 @@ Tier Of Play represents the how large the stakes are for a game/campaign aswell 
 
 Repesent a group with practically no experience.
 
-| Level | Attribute Points | Skill Points | Vocation/Skill Level Cap |       Rewards Gained       |
-| :---: | :--------------: | :----------: | :----------------------: | :-------------------------: |
-|   1   |        0        |      0      |            1            | Vocation/Skill Cap set to 1 |
-|   2   |        0        |      1      |            1            |       +1 Skill Point       |
-|   3   |        0        |      2      |            1            |       +1 Skill Point       |
-|   4   |        0        |      3      |            1            |       +1 Skill Point       |
-|   5   |        0        |      4      |            1            |       +1 Skill Point       |
-|   6   |        1        |      4      |            1            |     +1 Attribute Point     |
+| Level | Attribute Points | Skill Points | Vocation/Skill Level Cap |          Rewards Gained          |
+| :---: | :--------------: | :----------: | :----------------------: | :-------------------------------: |
+|   1   |        0        |      0      |            1            | Vocation/Skill Level Cap set to 1 |
+|   2   |        0        |      1      |            1            |          +1 Skill Point          |
+|   3   |        0        |      2      |            1            |          +1 Skill Point          |
+|   4   |        0        |      3      |            1            |          +1 Skill Point          |
+|   5   |        0        |      4      |            1            |          +1 Skill Point          |
+|   6   |        1        |      4      |            1            |        +1 Attribute Point        |
 
 #### Apprentice Tier
 
 Represent a group of mostly wide eyed/unexperienced characters setting out on their first true adventure.
 
-| Level | Attribute Points | Skill Points | Vocation/Skill Level Cap |                 Rewards Gained                 |
-| :---: | :--------------: | :----------: | :----------------------: | :---------------------------------------------: |
-|   7   |        1        |      5      |            2            | Vocation/Skill Cap set to 2<br />+1 Skill Point |
-|   8   |        1        |      6      |            2            |                 +1 Skill Point                 |
-|   9   |        1        |      7      |            2            |                 +1 Skill Point                 |
-|  10  |        1        |      8      |            2            |                 +1 Skill Point                 |
-|  11  |        1        |      9      |            2            |                 +1 Skill Point                 |
-|  12  |        2        |      9      |            2            |               +1 Attribute Point               |
+| Level | Attribute Points | Skill Points | Vocation/Skill Level Cap |                    Rewards Gained                    |
+| :---: | :--------------: | :----------: | :----------------------: | :---------------------------------------------------: |
+|   7   |        1        |      5      |            2            | Vocation/Skill Level Cap set to 2<br />+1 Skill Point |
+|   8   |        1        |      6      |            2            |                    +1 Skill Point                    |
+|   9   |        1        |      7      |            2            |                    +1 Skill Point                    |
+|  10  |        1        |      8      |            2            |                    +1 Skill Point                    |
+|  11  |        1        |      9      |            2            |                    +1 Skill Point                    |
+|  12  |        2        |      9      |            2            |                  +1 Attribute Point                  |
 
 #### Adept Tier
 
 Represents a group of adept characters who have already made a name for themselves in their local region. They likely have a reputation and are more likely to be treated with respect.
 
-| Level | Attribute Points | Skill Points | Vocation/Skill Level Cap |                 Rewards Gained                 |
-| :---: | :--------------: | :----------: | :----------------------: | :---------------------------------------------: |
-|  13  |        2        |      10      |            3            | Vocation/Skill Cap set to 3<br />+1 Skill Point |
-|  14  |        2        |      11      |            3            |                 +1 Skill Point                 |
-|  15  |        2        |      12      |            3            |                 +1 Skill Point                 |
-|  16  |        2        |      13      |            3            |                 +1 Skill Point                 |
-|  17  |        2        |      14      |            3            |                 +1 Skill Point                 |
-|  18  |        3        |      14      |            3            |               +1 Attribute Point               |
+| Level | Attribute Points | Skill Points | Vocation/Skill Level Cap |                    Rewards Gained                    |
+| :---: | :--------------: | :----------: | :----------------------: | :---------------------------------------------------: |
+|  13  |        2        |      10      |            3            | Vocation/Skill Level Cap set to 3<br />+1 Skill Point |
+|  14  |        2        |      11      |            3            |                    +1 Skill Point                    |
+|  15  |        2        |      12      |            3            |                    +1 Skill Point                    |
+|  16  |        2        |      13      |            3            |                    +1 Skill Point                    |
+|  17  |        2        |      14      |            3            |                    +1 Skill Point                    |
+|  18  |        3        |      14      |            3            |                  +1 Attribute Point                  |
 
 #### Expert Tier
 
 Represents a group of veteran characters who made a name for themselves in their larger region.
 
-| Level | Attribute Points | Skill Points | Vocation/Skill Level Cap |                 Rewards Gained                 |
-| :---: | :--------------: | :----------: | :----------------------: | :---------------------------------------------: |
-|  19  |        3        |      15      |            4            | Vocation/Skill Cap set to 4<br />+1 Skill Point |
-|  20  |        3        |      16      |            4            |                 +1 Skill Point                 |
-|  21  |        3        |      17      |            4            |                 +1 Skill Point                 |
-|  22  |        3        |      18      |            4            |                 +1 Skill Point                 |
-|  23  |        3        |      19      |            4            |                 +1 Skill Point                 |
-|  24  |        4        |      19      |            4            |               +1 Attribute Point               |
+| Level | Attribute Points | Skill Points | Vocation/Skill Level Cap |                    Rewards Gained                    |
+| :---: | :--------------: | :----------: | :----------------------: | :---------------------------------------------------: |
+|  19  |        3        |      15      |            4            | Vocation/Skill Level Cap set to 4<br />+1 Skill Point |
+|  20  |        3        |      16      |            4            |                    +1 Skill Point                    |
+|  21  |        3        |      17      |            4            |                    +1 Skill Point                    |
+|  22  |        3        |      18      |            4            |                    +1 Skill Point                    |
+|  23  |        3        |      19      |            4            |                    +1 Skill Point                    |
+|  24  |        4        |      19      |            4            |                  +1 Attribute Point                  |
 
 #### Master Tier
 
 Represents a group of characters known between countries that are regarded for their mastery of their respective strengths.
 
-| Level | Attribute Points | Skill Points | Vocation/Skill Level Cap |                 Rewards Gained                 |
-| :---: | :--------------: | :----------: | :----------------------: | :---------------------------------------------: |
-|  25  |        4        |      20      |            5            | Vocation/Skill Cap set to 5<br />+1 Skill Point |
-|  26  |        4        |      21      |            5            |                 +1 Skill Point                 |
-|  27  |        4        |      22      |            5            |                 +1 Skill Point                 |
-|  28  |        4        |      23      |            5            |                 +1 Skill Point                 |
-|  29  |        4        |      24      |            5            |                 +1 Skill Point                 |
-|  30  |        5        |      24      |            5            |               +1 Attribute Point               |
+| Level | Attribute Points | Skill Points | Vocation/Skill Level Cap |                    Rewards Gained                    |
+| :---: | :--------------: | :----------: | :----------------------: | :---------------------------------------------------: |
+|  25  |        4        |      20      |            5            | Vocation/Skill Level Cap set to 5<br />+1 Skill Point |
+|  26  |        4        |      21      |            5            |                    +1 Skill Point                    |
+|  27  |        4        |      22      |            5            |                    +1 Skill Point                    |
+|  28  |        4        |      23      |            5            |                    +1 Skill Point                    |
+|  29  |        4        |      24      |            5            |                    +1 Skill Point                    |
+|  30  |        5        |      24      |            5            |                  +1 Attribute Point                  |
 
 #### Legendary Tier
 
