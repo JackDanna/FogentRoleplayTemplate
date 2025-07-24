@@ -2731,7 +2731,9 @@ A Tier Of Play narratively describes the stakes of the campaign/one-shot as well
 
 ### Step 2: Start with an archetype
 
-Picking an archetype is an excellent starting point for a player character. Choosing an archetype isn't meant to be rigid but is meant to serve as a jumping off point. These archetypes can of course depends on the setting you are playing in, though you'd be surprised how much a wizards in a fantasy setting is narratively similar to a mad scientist in a cyber punk setting. What follows is a non-exhaustive list of some common archetypes found in fantasy.
+Picking an archetype is an excellent starting point for a Player Character. Choosing an archetype isn't meant to be rigid but is meant to serve as a jumping off point. These archetypes can of course depends on the setting you are playing in, though you'd be surprised how much a wizards in a fantasy setting is narratively similar to a mad scientist in a science fiction setting. 
+
+What follows is a non-exhaustive list of some common archetypes found in fantasy.
 
 #### Strength Archetypes
 
