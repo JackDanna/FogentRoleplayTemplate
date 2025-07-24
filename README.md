@@ -2800,7 +2800,7 @@ If the Player already picked an archetype for there Player Character, they've pr
 
 Attributes represent the innate characteristics of your character. They have one of the largest impacts on a character so Player's should choose wisely. Most often Players should choose attributes that make sense given thier Vocation. Strength for Barbarian, Reflex for Rogue, Intelligence for Wizard, Charisma for Bards, etc...
 
-Each Skill Point can be used to increase one Core Skill, Vocation, or Combat Vocational Skill level by 1. Combat Vocational Skills are skills that are used for fighting, including all Weapon Combat Skills and Combat Magic Skills.
+Each Skill Point can be used to increase one Core Skill, Vocation, or Combat Vocational Skill level by 1. Combat Vocational Skills are skills that are used for making Combat Rolls, including all Weapon Combat Vocational Skills and Magic Combat Vocational Skills.
 
 A Non-Combat Vocational Skill's level is inherited from Vocation's level.
 
@@ -2818,7 +2818,7 @@ If the Setting has an built economy system, based on your characters backstory t
 
 If the setting doesn't have a built economy, then the players and Narrator can work together to figure out what equipment your character might have based on their backstory and Tier Of Play.
 
-## Weapon Combat Skills
+## Weapon Vocational Skill
 
 A Weapon Combat Skill covers the use of a group of similar weapons. The tables over on the Weapons rules show which weapons are group under which Weapon Combat Skills. For instance, the "Medium Melee" Weapon Combat Skill covers the use of "Medium Hafted", "Medium Sword", and "Medium Spear".
 
