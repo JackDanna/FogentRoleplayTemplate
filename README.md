@@ -2559,13 +2559,7 @@ A character takes up a certain amount of space on the battle map.
 
 ## Disabling Characteristic Effects
 
-Disabling characteristics represent flaws your character has. This is an essential part of every great character as everyone needs a shortcoming to overcome or a temptation to fall into. It should be noted that disabling characteristics can be remedied through narrative with the Narrator's approval.
-
-If Disabling Characteristics are gained mid-campaign, it should make intuitive sense for that character. Maybe they picked up an addiction, got their heart broken, have a new fear of a monster they've recently faced or are suffering the long-lasting impact of a serious injury they took. Regardless this should be a negotiation between the player and Narrator.
-
-At character creation, player characters that take Disabling Characteristics that makes a Core Skill Incompetent (level -1), an additional Skill Point is gained.
-
-At character creation, players characters that take a Disabling Characteristic that makes an Attribute's level -1, an additional Attribute Point is gained.
+Disabling characteristics represent the flaws a character has. This is an essential part of every great character as everyone needs a shortcoming to overcome or a temptation to fall to. It should be noted that disabling characteristics can be remedied through narrative with the Narrator's approval. If Disabling Characteristics are gained mid-campaign, it should make intuitive sense for that character. Maybe they picked up an addiction, got their heart broken, have a new fear of a monster they've recently faced or are suffering the long-lasting impact of a serious injury they took. Regardless this should be a negotiation between the player and Narrator.
 
 |                     Name                     |                             Description                             |  Duration  |  Source  |
 | :------------------------------------------: | :-----------------------------------------------------------------: | :--------: | :-------: |
@@ -2810,7 +2804,11 @@ Each Skill Point can be used to increase one Core Skill, Vocation, or Vocational
 
 Disabling Characteristics represent flaws your character has. This is an essential part of every character as everyone needs a short coming to overcome or temptation to fall to. It should be noted that Disabling Characteristics can be remedied through narrative with the Narrators approval.
 
-### Step 8: Determine your starting equipment
+At character creation, player characters that take Disabling Characteristics that makes a Core Skill Incompetent (level -1), an additional Skill Point is gained.
+
+At character creation, players characters that take a Disabling Characteristic that makes an Attribute's level -1, an additional Attribute Point is gained.
+
+### Step 6: Determine your starting equipment
 
 If the setting has an built economy such as Fallen, based on your characters backstory the Narrator will assign your socioeconomic status. Then you choose whether to roll for your wealth or take the average.
 
