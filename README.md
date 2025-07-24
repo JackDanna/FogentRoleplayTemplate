@@ -2773,7 +2773,7 @@ What follows is a non-exhaustive list of some common archetypes found in fantasy
 
 ### Step 3: Write a rough Backstory
 
-Given the setting, the Tier of Play, and the archetype chosen, write a rough backstory for the player character. You'll come back later at the end to polish it, but just get across the broad strokes at this stage.
+Given the Setting, the Tier of Play, and the archetype chosen, write a rough backstory for the Player Character. You'll come back later at the end to polish it, but just get across the broad strokes at this stage.
 
 Here are some important questions to ask about your character:
 
