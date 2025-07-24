@@ -2798,17 +2798,19 @@ Depending on the Tier Of Play Level the Narrator starts the Player Character off
 
 If the Player already picked an archetype for there Player Character, they've probably already have a good idea of a Vocation they should take. For instance, if they wanted to play a Rogue archetype, than their Vocation could just be Rogue.
 
-Attributes represent the innate characteristics of your character. They have one of the largest impacts on your character so Player's should choose wisely. Most often Players should choose attributes that make sense given thier Vocation. Strength for Barbarian, Reflex for Rogue, Intelligence for Wizard, Charisma for Bards, etc...
+Attributes represent the innate characteristics of your character. They have one of the largest impacts on a character so Player's should choose wisely. Most often Players should choose attributes that make sense given thier Vocation. Strength for Barbarian, Reflex for Rogue, Intelligence for Wizard, Charisma for Bards, etc...
 
-Each Skill Point can be used to increase one Core Skill, Vocation, or Vocational Skill level by 1. Combat Vocational Skills are skills that are used for fighting, including all Weapon Combat Skills and Combat Magic Skills. These skills require skill points to be increased. A Non-Combat Vocational Skill's level is inherited from Vocation's level.
+Each Skill Point can be used to increase one Core Skill, Vocation, or Combat Vocational Skill level by 1. Combat Vocational Skills are skills that are used for fighting, including all Weapon Combat Skills and Combat Magic Skills.
+
+A Non-Combat Vocational Skill's level is inherited from Vocation's level.
 
 ### Step 5: Choose Disabling Characteristics
 
 Disabling Characteristics represent flaws your character has. This is an essential part of every character as everyone needs a short coming to overcome or temptation to fall to. It should be noted that Disabling Characteristics can be remedied through narrative with the Narrators approval.
 
-At character creation, player characters that take Disabling Characteristics that makes a Core Skill Incompetent (level -1), an additional Skill Point is gained.
+At character creation with the Narrators approval, Player Characters that take Disabling Characteristics that makes a Core Skill Incompetent (level -1), an additional Skill Point is gained.
 
-At character creation, players characters that take a Disabling Characteristic that makes an Attribute's level -1, an additional Attribute Point is gained.
+At character creation with the Narrators approval, Players Characters that take a Disabling Characteristic that makes an Attribute's level -1, an additional Attribute Point is gained.
 
 ### Step 6: Determine your starting equipment
 
