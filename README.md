@@ -2635,13 +2635,13 @@ At character creation, players characters that take a Disabling Characteristic t
 
 ## Tier Of Play
 
-Tier Of Play represents the how large the stakes are for a game/campaign aswell as how powerful the player characters are.
+Tier Of Play represents the how large the stakes are for a game/campaign aswell as how powerful/competent the player characters are.
 
-**Level:** Used to represent milestones a character has crossed corolating to an increase in skill/ability/compentence/ect... The Narrator can reward the Player Character's with an increase in their level when they accomplish a milestone of thier choosing. Things like finishing a certain amount of real world sessions, completing a quest, defeating a powerful foe, ect... are all valid metrics for the Narrator to use.
+**Level:** Used to represent milestones a character has crossed corolating to an increase in skill/ability/compentence/ect... The Narrator can reward the Player Character's with an increase in their Level when they accomplish a milestone of thier choosing. Things like finishing a certain amount of real world sessions, completing a quest, defeating a powerful foe, ect... are all valid metrics for the Narrator to use.
 
-**Attribute Points:** The total points spent increasing the levels of the Attributes a character has.
+**Attribute Points:** The total points spent on increasing the levels of a character's Attributes.
 
-**Skill Points:** The total points spent increasing the levels of the Skills and Vocations a character has.
+**Skill Points:** The total points spent on increasing the levels of a character's Skills and Vocations.
 
 **Skill/Vocation Level Cap:** This is the maximum allowed level of any Skill or Vocation.
 
