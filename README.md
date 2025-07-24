@@ -2773,7 +2773,7 @@ What follows is a non-exhaustive list of some common archetypes found in fantasy
 
 ### Step 3: Write a rough Backstory
 
-Given the Setting, the Tier of Play, and the archetype chosen, write a rough backstory for the Player Character. You'll come back later at the end to polish it, but just get across the broad strokes at this stage.
+Given the Setting, the Tier of Play, and the archetype chosen, write a rough backstory for the Player Character. You'll come back later at the end to polish it, but just get across the broad strokes at this stage. 
 
 Here are some important questions to ask about your character:
 
@@ -2791,6 +2791,7 @@ Here are some important questions to ask about your character:
 - What are their goals/aspirations?
 - Do they have friends/family?
 - Do they have romantic interests/exes.
+- Why is this character going
 
 ### Step 4: Build the Player Character up to the Tier Of Play Level
 
@@ -2818,17 +2819,17 @@ If the Setting has a pre-built economy system, based on your characters backstor
 
 If the setting doesn't have a pre-built economy system, then the players and Narrator can work together to figure out what equipment your character might have based on their backstory and Tier Of Play.
 
-## Weapon Vocational Skill
+## Weapon Combat Vocational Skill
 
-A Weapon Combat Skill covers the use of a group of similar weapons. The tables over on the Weapons rules show which weapons are group under which Weapon Combat Skills. For instance, the "Medium Melee" Weapon Combat Skill covers the use of "Medium Hafted", "Medium Sword", and "Medium Spear".
+A Weapon Combat Vocational Skill covers the use of a group of similar weapons. For instance, the "Medium Melee" Weapon Combat Vocational Skill covers the use of all Medium Melee weapons.
 
-All Weapon Combat Skills have the governing attributes of STR, RFX, and INT. This is to reflect that the stronger, faster, and smarter a character is, the more lethal they are in combat regardless of the weapon. A STR character hits harder, is tougher, and is more conditioned for combat. A RFX character hits faster and is harder to pin down. An INT character hits smarter and uses tactics. It is the player's/Narrator's job to flavor their attacks to reflect how they are leveraging their innate attributes as they fight.
+All Weapon Combat Vocational Skills have the governing attributes of STR, RFX, and INT. This is to reflect that the stronger, faster, and smarter a character is, the more lethal they are in combat regardless of the weapon. A STR character hits harder, is tougher, and is more conditioned for combat. A RFX character hits faster and is harder to pin down. An INT character hits smarter and uses tactics. It is the Player's/Narrator's job to flavor their attacks to reflect how they are leveraging their innate attributes as they fight.
 
 ### Weapon Combat Skill Transfer
 
-There is obviously overlap certain Weapon Combat Skills. For melee Weapon Combat Skills, weapon reach, footwork, and the biomechanics of swinging a weapon have some overlap. For ranged Weapon Combat Skills, having a proper base, judging the distance, leading your targets, aiming and releasing the projectile smoothly are examples of the overlap. Narrators should allow a character to gain Weapon Combat Skills, though of a lesser level, in similar Weapon Combat Skills in regards to size and function. This not only allows characters to experiment with new weapons but also makes narrative sense.
+There is obviously overlap certain Weapon Combat Vocational Skills. For melee Weapon Combat Vocaitonal Skills, weapon reach, footwork, and the biomechanics of swinging a weapon have some overlap. For ranged Weapon Combat Skills, having a proper stance, judging the distance, leading your targets, aiming and releasing the projectile smoothly are examples of the overlap. Narrators should allow a character to gain Weapon Combat Vocational Skills, though of a lesser level, in similar Weapon Combat Vocational Skills in regards to size and function. This not only allows characters to experiment with new weapons but also makes narrative sense.
 
-Starting with the weapon skill your character currently possesses, each horizontal (right and left on the table) or vertical (up and down on the table) jump is -1 reduction to the skill you've moved to. When moving horizontally within a Size type, you may loop around the other side of the table as if it were right beside it. You cannot go below 0 on a combat skill for either melee or ranged weapons via the table below.
+Starting with the weapon skill your character currently possesses, each horizontal (right and left on the table) or vertical (up and down on the table) jump is -1 reduction to the skill you've moved to. When moving horizontally within a Size type, you may loop around the other side of the table as if it were right beside it. You cannot go below 0 on a Weapon Combat Vocational Skill for either melee or ranged weapons via the table below.
 
 #### Melee Weapon Combat Skill Transfer
 
