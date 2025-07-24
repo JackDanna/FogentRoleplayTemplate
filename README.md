@@ -2645,7 +2645,7 @@ Tier Of Play represents the how large the stakes are for a game/campaign aswell 
 
 **Skill/Vocation Level Cap:** This is the maximum allowed level of any Skill or Vocation.
 
-#### Novice Tier (D&D Level 0)
+#### Novice Tier
 
 Repesent a group with practically no experience.
 
@@ -2658,7 +2658,7 @@ Repesent a group with practically no experience.
 |   5   |        0        |      4      |            1            |       +1 Skill Point       |
 |   6   |        1        |      4      |            1            |     +1 Attribute Point     |
 
-#### Apprentice Tier (D&D Level 1 - 4)
+#### Apprentice Tier
 
 Represent a group of mostly wide eyed/unexperienced characters setting out on their first true adventure.
 
@@ -2671,7 +2671,7 @@ Represent a group of mostly wide eyed/unexperienced characters setting out on th
 |  11  |        1        |      9      |            2            |                 +1 Skill Point                 |
 |  12  |        2        |      9      |            2            |               +1 Attribute Point               |
 
-#### Adept Tier (D&D Level 5 - 8)
+#### Adept Tier
 
 Represents a group of adept characters who have already made a name for themselves in their local region. They likely have a reputation and are more likely to be treated with respect.
 
@@ -2684,7 +2684,7 @@ Represents a group of adept characters who have already made a name for themselv
 |  17  |        2        |      14      |            3            |                 +1 Skill Point                 |
 |  18  |        3        |      14      |            3            |               +1 Attribute Point               |
 
-#### Expert Tier (D&D Level 9 - 12)
+#### Expert Tier
 
 Represents a group of veteran characters who made a name for themselves in their larger region.
 
@@ -2697,7 +2697,7 @@ Represents a group of veteran characters who made a name for themselves in their
 |  23  |        3        |      19      |            4            |                 +1 Skill Point                 |
 |  24  |        4        |      19      |            4            |               +1 Attribute Point               |
 
-#### Master Tier (D&D Level 13 - 16)
+#### Master Tier
 
 Represents a group of characters known between countries that are regarded for their mastery of their respective strengths.
 
@@ -2710,7 +2710,7 @@ Represents a group of characters known between countries that are regarded for t
 |  29  |        4        |      24      |            5            |                 +1 Skill Point                 |
 |  30  |        5        |      24      |            5            |               +1 Attribute Point               |
 
-#### Legendary Tier (D&D Level 17 - 20)
+#### Legendary Tier
 
 Represented by a group of legendary characters who have made their mark on history.
 
