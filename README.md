@@ -2717,9 +2717,9 @@ Represented by a group of legendary characters who have made their mark on histo
 |  35  |        5        |      29      |            5            |   +1 Skill Point   |
 |  36  |        6        |      29      |            5            | +1 Attribute Point |
 
-## Player Character Creation for Campaign Play
+## Player Character Creation
 
-For first time Narrators/Players it can feel daunting to build a Player Character. Fear not, as you likely already have all the knowledge you need from the movies, shows, books, and other media you have watched through your life. In general, it is a good idea to keep all the Player Character's within a campaign the same Tier Of Play Level to keep things balanced.
+For first time Narrators/Players it can feel daunting to build a Player Character. Fear not, as you likely already have all the knowledge you need from the movies, shows, books, and other media you have watched through your life. In general, it is a good idea to keep all the Player Character's within a campaign/one-shot the same Tier Of Play Level to keep things balanced.
 
 ### Step 0: Understand the Setting
 
@@ -2727,7 +2727,7 @@ It is imparative to have rough understanding of the setting/world the Player Cha
 
 ### Step 1: Understand what Tier Of Play you're playing
 
-A Tier Of Play narratively describes the stakes of the campaign as well as how powerful/competent a Player Characters is expected to be. This balances the Players against each other and the challenges the Narrator has envisioned. The Narrator should let the Player's know the Tier Of Play Level thier Player Character's will start at for the campaign. Players should factor this into their Player Character as it would be silly to have a backstory paint them as a world conquering threat only to have them start as a novice adventure mechanically. Player's should also realize that their character will grow throughout the course of their campaign.
+A Tier Of Play narratively describes the stakes of the campaign/one-shot as well as how powerful/competent a Player Characters is expected to be. This balances the Players against each other and the challenges the Narrator has envisioned. The Narrator should let the Player's know the Tier Of Play Level thier Player Character's will start at for the campaign/one-shot. Players should factor this into their Player Character as it would be silly to have a backstory paint them as a world conquering threat only to have them start as a novice adventure stat wise.
 
 ### Step 2: Start with an archetype
 
