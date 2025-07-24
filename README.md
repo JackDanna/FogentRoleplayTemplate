@@ -2559,13 +2559,7 @@ A character takes up a certain amount of space on the battle map.
 
 ## Disabling Characteristic Effects
 
-Disabling characteristics represent flaws your character has. This is an essential part of every great character as everyone needs a shortcoming to overcome or a temptation to fall into. It should be noted that disabling characteristics can be remedied through narrative with the Narrator's approval.
-
-If Disabling Characteristics are gained mid-campaign, it should make intuitive sense for that character. Maybe they picked up an addiction, got their heart broken, have a new fear of a monster they've recently faced or are suffering the long-lasting impact of a serious injury they took. Regardless this should be a negotiation between the player and Narrator.
-
-At character creation, player characters that take Disabling Characteristics that makes a Core Skill Incompetent (level -1), an additional Skill Point is gained.
-
-At character creation, players characters that take a Disabling Characteristic that makes an Attribute's level -1, an additional Attribute Point is gained.
+Disabling characteristics represent the flaws a character has. This is an essential part of every great character as everyone needs a shortcoming to overcome or a temptation to fall to. It should be noted that disabling characteristics can be remedied through narrative with the Narrator's approval. If Disabling Characteristics are gained mid-campaign, it should make intuitive sense for that character. Maybe they picked up an addiction, got their heart broken, have a new fear of a monster they've recently faced or are suffering the long-lasting impact of a serious injury they took. Regardless this should be a negotiation between the player and Narrator.
 
 |                     Name                     |                             Description                             |  Duration  |  Source  |
 | :------------------------------------------: | :-----------------------------------------------------------------: | :--------: | :-------: |
@@ -2635,80 +2629,82 @@ At character creation, players characters that take a Disabling Characteristic t
 
 ## Tier Of Play
 
-Tier Of Play represents the how large the stakes are for a game/campaign aswell as how powerful the player characters are.
+Tier Of Play represents the how large the stakes are for a game/campaign aswell as how powerful/competent the player characters are.
 
-**Attribute Points:** The number of points you can spend to increase a character's Attributes.
+**Level:** Used to represent milestones a character has crossed corolating to an increase in skill/ability/compentence/ect... The Narrator can reward the Player Character's with an increase in their Level when they accomplish a milestone of thier choosing. Things like finishing a certain amount of real world sessions, completing a quest, defeating a powerful foe, ect... are all valid metrics for the Narrator to use.
 
-**Skill Points:** The number of points you get to spend on Core Skills, Vocations, and Combat Skills.
+**Attribute Points:** The total points spent on increasing the levels of a character's Attributes.
 
-**Skill/Vocation Level Cap:** This is the maximum you can take any skill or vocation level to in the Tier Of Play.
+**Skill Points:** The total points spent on increasing the levels of a character's Skills and Vocations.
 
-#### Novice Tier (D&D Level 0)
+**Skill/Vocation Level Cap:** This is the maximum allowed level of any Skill or Vocation.
+
+#### Novice Tier
 
 Repesent a group with practically no experience.
 
-| Level | Attribute Points | Skill Points | Vocation/Skill Level Cap |       Rewards Gained       |
-| :---: | :--------------: | :----------: | :----------------------: | :-------------------------: |
-|   1   |        0        |      0      |            1            | Vocation/Skill Cap set to 1 |
-|   2   |        0        |      1      |            1            |       +1 Skill Point       |
-|   3   |        0        |      2      |            1            |       +1 Skill Point       |
-|   4   |        0        |      3      |            1            |       +1 Skill Point       |
-|   5   |        0        |      4      |            1            |       +1 Skill Point       |
-|   6   |        1        |      4      |            1            |     +1 Attribute Point     |
+| Level | Attribute Points | Skill Points | Vocation/Skill Level Cap |          Rewards Gained          |
+| :---: | :--------------: | :----------: | :----------------------: | :-------------------------------: |
+|   1   |        0        |      0      |            1            | Vocation/Skill Level Cap set to 1 |
+|   2   |        0        |      1      |            1            |          +1 Skill Point          |
+|   3   |        0        |      2      |            1            |          +1 Skill Point          |
+|   4   |        0        |      3      |            1            |          +1 Skill Point          |
+|   5   |        0        |      4      |            1            |          +1 Skill Point          |
+|   6   |        1        |      4      |            1            |        +1 Attribute Point        |
 
-#### Apprentice Tier (D&D Level 1 - 4)
+#### Apprentice Tier
 
 Represent a group of mostly wide eyed/unexperienced characters setting out on their first true adventure.
 
-| Level | Attribute Points | Skill Points | Vocation/Skill Level Cap |                 Rewards Gained                 |
-| :---: | :--------------: | :----------: | :----------------------: | :---------------------------------------------: |
-|   7   |        1        |      5      |            2            | Vocation/Skill Cap set to 2<br />+1 Skill Point |
-|   8   |        1        |      6      |            2            |                 +1 Skill Point                 |
-|   9   |        1        |      7      |            2            |                 +1 Skill Point                 |
-|  10  |        1        |      8      |            2            |                 +1 Skill Point                 |
-|  11  |        1        |      9      |            2            |                 +1 Skill Point                 |
-|  12  |        2        |      9      |            2            |               +1 Attribute Point               |
+| Level | Attribute Points | Skill Points | Vocation/Skill Level Cap |                    Rewards Gained                    |
+| :---: | :--------------: | :----------: | :----------------------: | :---------------------------------------------------: |
+|   7   |        1        |      5      |            2            | Vocation/Skill Level Cap set to 2<br />+1 Skill Point |
+|   8   |        1        |      6      |            2            |                    +1 Skill Point                    |
+|   9   |        1        |      7      |            2            |                    +1 Skill Point                    |
+|  10  |        1        |      8      |            2            |                    +1 Skill Point                    |
+|  11  |        1        |      9      |            2            |                    +1 Skill Point                    |
+|  12  |        2        |      9      |            2            |                  +1 Attribute Point                  |
 
-#### Adept Tier (D&D Level 5 - 8)
+#### Adept Tier
 
 Represents a group of adept characters who have already made a name for themselves in their local region. They likely have a reputation and are more likely to be treated with respect.
 
-| Level | Attribute Points | Skill Points | Vocation/Skill Level Cap |                 Rewards Gained                 |
-| :---: | :--------------: | :----------: | :----------------------: | :---------------------------------------------: |
-|  13  |        2        |      10      |            3            | Vocation/Skill Cap set to 3<br />+1 Skill Point |
-|  14  |        2        |      11      |            3            |                 +1 Skill Point                 |
-|  15  |        2        |      12      |            3            |                 +1 Skill Point                 |
-|  16  |        2        |      13      |            3            |                 +1 Skill Point                 |
-|  17  |        2        |      14      |            3            |                 +1 Skill Point                 |
-|  18  |        3        |      14      |            3            |               +1 Attribute Point               |
+| Level | Attribute Points | Skill Points | Vocation/Skill Level Cap |                    Rewards Gained                    |
+| :---: | :--------------: | :----------: | :----------------------: | :---------------------------------------------------: |
+|  13  |        2        |      10      |            3            | Vocation/Skill Level Cap set to 3<br />+1 Skill Point |
+|  14  |        2        |      11      |            3            |                    +1 Skill Point                    |
+|  15  |        2        |      12      |            3            |                    +1 Skill Point                    |
+|  16  |        2        |      13      |            3            |                    +1 Skill Point                    |
+|  17  |        2        |      14      |            3            |                    +1 Skill Point                    |
+|  18  |        3        |      14      |            3            |                  +1 Attribute Point                  |
 
-#### Expert Tier (D&D Level 9 - 12)
+#### Expert Tier
 
 Represents a group of veteran characters who made a name for themselves in their larger region.
 
-| Level | Attribute Points | Skill Points | Vocation/Skill Level Cap |                 Rewards Gained                 |
-| :---: | :--------------: | :----------: | :----------------------: | :---------------------------------------------: |
-|  19  |        3        |      15      |            4            | Vocation/Skill Cap set to 4<br />+1 Skill Point |
-|  20  |        3        |      16      |            4            |                 +1 Skill Point                 |
-|  21  |        3        |      17      |            4            |                 +1 Skill Point                 |
-|  22  |        3        |      18      |            4            |                 +1 Skill Point                 |
-|  23  |        3        |      19      |            4            |                 +1 Skill Point                 |
-|  24  |        4        |      19      |            4            |               +1 Attribute Point               |
+| Level | Attribute Points | Skill Points | Vocation/Skill Level Cap |                    Rewards Gained                    |
+| :---: | :--------------: | :----------: | :----------------------: | :---------------------------------------------------: |
+|  19  |        3        |      15      |            4            | Vocation/Skill Level Cap set to 4<br />+1 Skill Point |
+|  20  |        3        |      16      |            4            |                    +1 Skill Point                    |
+|  21  |        3        |      17      |            4            |                    +1 Skill Point                    |
+|  22  |        3        |      18      |            4            |                    +1 Skill Point                    |
+|  23  |        3        |      19      |            4            |                    +1 Skill Point                    |
+|  24  |        4        |      19      |            4            |                  +1 Attribute Point                  |
 
-#### Master Tier (D&D Level 13 - 16)
+#### Master Tier
 
 Represents a group of characters known between countries that are regarded for their mastery of their respective strengths.
 
-| Level | Attribute Points | Skill Points | Vocation/Skill Level Cap |                 Rewards Gained                 |
-| :---: | :--------------: | :----------: | :----------------------: | :---------------------------------------------: |
-|  25  |        4        |      20      |            5            | Vocation/Skill Cap set to 5<br />+1 Skill Point |
-|  26  |        4        |      21      |            5            |                 +1 Skill Point                 |
-|  27  |        4        |      22      |            5            |                 +1 Skill Point                 |
-|  28  |        4        |      23      |            5            |                 +1 Skill Point                 |
-|  29  |        4        |      24      |            5            |                 +1 Skill Point                 |
-|  30  |        5        |      24      |            5            |               +1 Attribute Point               |
+| Level | Attribute Points | Skill Points | Vocation/Skill Level Cap |                    Rewards Gained                    |
+| :---: | :--------------: | :----------: | :----------------------: | :---------------------------------------------------: |
+|  25  |        4        |      20      |            5            | Vocation/Skill Level Cap set to 5<br />+1 Skill Point |
+|  26  |        4        |      21      |            5            |                    +1 Skill Point                    |
+|  27  |        4        |      22      |            5            |                    +1 Skill Point                    |
+|  28  |        4        |      23      |            5            |                    +1 Skill Point                    |
+|  29  |        4        |      24      |            5            |                    +1 Skill Point                    |
+|  30  |        5        |      24      |            5            |                  +1 Attribute Point                  |
 
-#### Legendary Tier (D&D Level 17 - 20)
+#### Legendary Tier
 
 Represented by a group of legendary characters who have made their mark on history.
 
@@ -2721,41 +2717,119 @@ Represented by a group of legendary characters who have made their mark on histo
 |  35  |        5        |      29      |            5            |   +1 Skill Point   |
 |  36  |        6        |      29      |            5            | +1 Attribute Point |
 
-## Character Creation Rules
+## Player Character Creation
 
-- [Character Sheet Template](./src/CoreRules/CharacterCreationRules/temp/temp/temp/CharacterSheetTemplate.md)
+For first time Narrators/Players it can feel daunting to build a Player Character. Fear not, as you likely already have all the knowledge you need from the movies, shows, books, and other media you have watched through your life. In general, it is a good idea to keep all the Player Character's within a campaign/one-shot the same Tier Of Play Level to keep things balanced.
 
-#### Combat Skills
+### Step 0: Understand the Setting
 
-Combat Skills are skills that are used for fighting, including all Weapon Combat Skills and Combat Magic Skills. These skills require skill points to be increased.
+It is imparative to have rough understanding of the setting/world the Player Character is going to be inhabiting. By no means do you need to be an lore expert, but you should have a rough idea of the major themes, technology level, and bedrock information for a resident of that world. It is the Narrators job to ensure this information if relayed so that everyone is on the same page.
 
-#### Vocational Skills
+### Step 1: Understand what Tier Of Play you're playing
 
-Vocational Skills are skills that your Vocation would logically give you. A Vocational Skill's level is inherited from Vocation's level. Players can make Vocational Skills at any point with approval from the Narrator and use them for applicable skill checks.
+A Tier Of Play narratively describes the stakes of the campaign/one-shot as well as how powerful/competent a Player Characters is expected to be. This balances the Players against each other and the challenges the Narrator has envisioned. The Narrator should let the Player's know the Tier Of Play Level thier Player Character's will start at for the campaign/one-shot. Players should factor this into their Player Character as it would be silly to have a backstory paint them as a world conquering threat only to have them start as a novice adventure stat wise.
 
-Vocational Skills will often overlap with one or more Core Skills, though they will represent a much more specialized subset of tasks. Often times a Vocational Skill will combine what would usually be multiple sequential harder Core Skill checks into a single often easier Vocational Skill check.
+### Step 2: Start with an archetype
 
-Vocational Skills can never cover a majority of what a Core Skill covers. You can not assist Vocational Skills with the Vocation they fall under, as they are essentially relying on the same shared skill point investment.
+Picking an archetype is an excellent starting point for a Player Character. Choosing an archetype isn't meant to be rigid but is meant to serve as a jumping off point. These archetypes can of course depends on the setting you are playing in, though you'd be surprised how much a wizards in a fantasy setting is narratively similar to a mad scientist in a science fiction setting. 
 
-It is smart to write down Vocational Skills under your vocation as a reminder to have on your character sheet.
+What follows is a non-exhaustive list of some common archetypes found in fantasy.
 
-Tier Of Play narratively describes the stakes of the campaign as well as how powerful/competent player characters are. This balances the players against each other and the challenges the Narrator has envisioned.
+#### Strength Archetypes
 
-The Narrator should let the players know the Tier Of Play and players should factor this into their characters. It would be silly to have a character's backstory paint them as a badass only to have them start at Apprentice Tier. Also, realize that your character will grow throughout their story and the Narrator will be rewarding players with ways to improve your character as they play.
+- The Warrior
+- The Barbarian
+- The Knight
 
-Whenever building a character starting at a higher level than 1, you must build that character as if they were starting from level 1.
+#### Reflex Archetypes
 
-## Weapon Combat Skills
+- The Rogue
+- The Thief
+- The Assassin
 
-A Weapon Combat Skill covers the use of a group of similar weapons. The tables over on the Weapons rules show which weapons are group under which Weapon Combat Skills. For instance, the "Medium Melee" Weapon Combat Skill covers the use of "Medium Hafted", "Medium Sword", and "Medium Spear".
+#### Intelligence Archetypes
 
-All Weapon Combat Skills have the governing attributes of STR, RFX, and INT. This is to reflect that the stronger, faster, and smarter a character is, the more lethal they are in combat regardless of the weapon. A STR character hits harder, is tougher, and is more conditioned for combat. A RFX character hits faster and is harder to pin down. An INT character hits smarter and uses tactics. It is the player's/Narrator's job to flavor their attacks to reflect how they are leveraging their innate attributes as they fight.
+- The Wizard
+- The Scholar
+- The Detective
+
+#### Charisma Archetypes
+
+- The Bard
+- The Charlatan
+- The Merchant
+
+#### Other Magical Archetypes
+
+- The Warlock (Abilities gained through a pact with a powerful entity)
+- The Sorcerer (Abilities gained through their bloodline)
+- The Druid (Abilities gained through their connection to nature)
+
+#### Additional Archetypes
+
+- The Criminal
+- The Orphan
+- The Local Hero
+
+### Step 3: Write a rough Backstory
+
+Given the Setting, the Tier of Play, and the archetype chosen, write a rough backstory for the Player Character. You'll come back later at the end to polish it, but just get across the broad strokes at this stage. 
+
+Here are some important questions to ask about your character:
+
+- What is their name?
+- Where are they from?
+- What is their sex?
+- What is their age?
+- What is their race?
+- Does your race have innate abilities like magic?
+- What strengths do you have?
+- What flaws do you have?
+- What is their appearance (hair color, eye color, skin color, height, weight, body type)? Finding some character art or generating some ai art is very useful for this step.
+- What is their disposition (i.e. how do they act most of the time)?
+- What are their beliefs/morality?
+- What are their goals/aspirations?
+- Do they have friends/family?
+- Do they have romantic interests/exes.
+- Why is this character going
+
+### Step 4: Build the Player Character up to the Tier Of Play Level
+
+Depending on the Tier Of Play Level the Narrator starts the Player Character off at, follow the "Rewards Gained" step by step until the desired Level is reached to build the Player Character. This means whenever building a Player Character, start with the lowest Tier Of Play Level and work your way up.
+
+If the Player already picked an archetype for there Player Character, they've probably already have a good idea of a Vocation they should take. For instance, if they wanted to play a Rogue archetype, than their Vocation could just be Rogue.
+
+Attributes represent the innate characteristics of your character. They have one of the largest impacts on a character so Player's should choose wisely. Most often Players should choose attributes that make sense given thier Vocation. Strength for Barbarian, Reflex for Rogue, Intelligence for Wizard, Charisma for Bards, etc...
+
+Each Skill Point can be used to increase one Core Skill, Vocation, or Combat Vocational Skill level by 1. Combat Vocational Skills are skills that are used for making Combat Rolls, including all Weapon Combat Vocational Skills and Magic Combat Vocational Skills.
+
+A Non-Combat Vocational Skill's level is inherited from Vocation's level.
+
+### Step 5: Choose Disabling Characteristics
+
+Disabling Characteristics represent flaws your character has. This is an essential part of every character as everyone needs a short coming to overcome or temptation to fall to. It should be noted that Disabling Characteristics can be remedied through narrative with the Narrators approval.
+
+At character creation with the Narrators approval, Player Characters that take Disabling Characteristics that makes a Core Skill Incompetent (level -1), an additional Skill Point is gained.
+
+At character creation with the Narrators approval, Players Characters that take a Disabling Characteristic that makes an Attribute's level -1, an additional Attribute Point is gained.
+
+### Step 6: Determine your starting equipment
+
+If the Setting has a pre-built economy system, based on your characters backstory the Narrator will assign your socioeconomic status. Then you choose whether to roll for your wealth or take the average.
+
+If the setting doesn't have a pre-built economy system, then the players and Narrator can work together to figure out what equipment your character might have based on their backstory and Tier Of Play.
+
+## Weapon Combat Vocational Skill
+
+A Weapon Combat Vocational Skill covers the use of a group of similar weapons. For instance, the "Medium Melee" Weapon Combat Vocational Skill covers the use of all Medium Melee weapons.
+
+All Weapon Combat Vocational Skills have the governing attributes of STR, RFX, and INT. This is to reflect that the stronger, faster, and smarter a character is, the more lethal they are in combat regardless of the weapon. A STR character hits harder, is tougher, and is more conditioned for combat. A RFX character hits faster and is harder to pin down. An INT character hits smarter and uses tactics. It is the Player's/Narrator's job to flavor their attacks to reflect how they are leveraging their innate attributes as they fight.
 
 ### Weapon Combat Skill Transfer
 
-There is obviously overlap certain Weapon Combat Skills. For melee Weapon Combat Skills, weapon reach, footwork, and the biomechanics of swinging a weapon have some overlap. For ranged Weapon Combat Skills, having a proper base, judging the distance, leading your targets, aiming and releasing the projectile smoothly are examples of the overlap. Narrators should allow a character to gain Weapon Combat Skills, though of a lesser level, in similar Weapon Combat Skills in regards to size and function. This not only allows characters to experiment with new weapons but also makes narrative sense.
+There is obviously overlap certain Weapon Combat Vocational Skills. For melee Weapon Combat Vocaitonal Skills, weapon reach, footwork, and the biomechanics of swinging a weapon have some overlap. For ranged Weapon Combat Skills, having a proper stance, judging the distance, leading your targets, aiming and releasing the projectile smoothly are examples of the overlap. Narrators should allow a character to gain Weapon Combat Vocational Skills, though of a lesser level, in similar Weapon Combat Vocational Skills in regards to size and function. This not only allows characters to experiment with new weapons but also makes narrative sense.
 
-Starting with the weapon skill your character currently possesses, each horizontal (right and left on the table) or vertical (up and down on the table) jump is -1 reduction to the skill you've moved to. When moving horizontally within a Size type, you may loop around the other side of the table as if it were right beside it. You cannot go below 0 on a combat skill for either melee or ranged weapons via the table below.
+Starting with the weapon skill your character currently possesses, each horizontal (right and left on the table) or vertical (up and down on the table) jump is -1 reduction to the skill you've moved to. When moving horizontally within a Size type, you may loop around the other side of the table as if it were right beside it. You cannot go below 0 on a Weapon Combat Vocational Skill for either melee or ranged weapons via the table below.
 
 #### Melee Weapon Combat Skill Transfer
 
@@ -2788,9 +2862,29 @@ Since certain weapon sizes provide more combat skill transfer than others, it is
 
 For example, a character has just been given 1 skill point to spend and has a level 3 in Small Blade. They wish to invest their skill point into the Medium Sword skill to try a new magic sword they found. Since they have a 3 in Small Blade already, by the Weapon Combat Skill Transfer rules they have a level 2 in Medium Sword. If they were to invest their skill point into Medium Sword to bring it to level 3, they are technically wasting skill points as had they from the start only invested the 3 skill points from Small Blade into Medium sword, with the addition of the unspent skill point, they'd have a level 4 in Medium sword, which would also give them a level 3 in Small Blade. Instead of wasting skill points, they can take the 3 skill points from Small Blade and the 1 unspent skill point and spend it on bring Medium sword to level 4. Since having a level 4 in Medium Sword gives a level 3 in Small Blade, nothing has changed in Small Blade.
 
-## Character Creation
+# Variant Rule
 
-This document introduces a step by step walk through of how to build a character.
+These are optional rules that aren't required and are up to the Narrator if they will be used.
+
+### Rounding Range to work on battle map
+
+*When using a Range on a battlemap, if any of the components of the Range have a decimal remainder, round down to the nearest multiple of 5 ft.
+
+### 5 Summed injury dice causes Incapacitated
+
+A character is rendered Physically Incapacitated once they've taken a summed 5 or above injury dice.
+
+### Skill Specialty
+
+Once a skill's Dice Pool is equal to or greater than 8 dice you are considered a specialist in that skill. If you are a specialist for a skill, when asked to make a check utilizing that skill with a Challenge Level of 3 or less, you automatically pass if all of the following are true.
+
+- You are not under duress (No time pressure, no outside influences or aggression such as combat.)
+- The check is not contested.
+- The check is not a reflexive action.
+
+### Turn Order not based on Dexterity
+
+If multiple characters have the same RFX level, they each roll a D20, where the highest resulting roll gets being higher in turn order declare later for the rest of the combat encounter.
 
 ### Step 0: Javk Wick's character creation house rules (Optional)
 
@@ -2816,111 +2910,15 @@ No loner/antisocial characters that constantly split the group and never interac
 
 The player characters are the main characters and main characters interact with one another. They should also probably like the other characters or at least have a reason why they have to work together. Table top roleplay games are at their core about spending quality time with your friends. If a player wants to have the loner experience, they can go play Skyrim or something.
 
-### Step 1: Start with an archetype
-
-For people who have never made a character before, it can be quite daunting to know where to start. Fear not, as you likely already have all the knowledge you need from the movies, shows, books, and other media you have watched through your life.
-
-Picking an archetype is a great starting place to think about a character. It doesn't mean that your character has to stick purely to the archetype. It is more of a jumping off point.
-
-These archetypes can of course depends on the setting you are playing in, though you'd be surprised how much a wizards in a fantasy setting is narratively similar to a mad scientist in a cyber punk setting. What follows is a non-exhaustive list of some common archetypes found in fantasy.
-
-#### Strength Archetypes
-
-- The Fighter
-- The Warrior
-- The Knight
-- The Barbarian
-
-#### Reflex Archetypes
-
-- The Rogue
-- The Thief
-- The Assassin
-- The Martial Artist
-
-#### Intelligence Archetypes
-
-- The Wizard (Abilities gained through intense study)
-- The Bard (Abilities gained through learning to socially influence people)
-- The Charlatan
-- The Detective
-
-#### Other Magical Archetypes
-
-- The Warlock (Abilities gained through a pact with a powerful entity)
-- The Sorcerer (Abilities gained through their bloodline)
-- The Druid (Abilities gained through their connection to nature)
-
-#### Additional Archetypes
-
-- The Criminal
-- The Orphan
-- The Local Hero
-
-### Step 2: Understand what Tier Of Play you're playing
-
-A Tier Of Play narratively describe the stakes of the campaign. Your Narrator should let you know your tier of play and you should factor this into your character as it would be silly to have your character's backstory to paint them as a master wizard only to have them start in the Apprentice Tier Of Play. Also realize that your character will grow throughout the course of their story and your Narrator will be rewarding you will skill points as you play.
-
-### Step 3: Write a rough Backstory
-
-Given the archetype you chose, the tier of play, and world setting the Narrator has chosen, write a rough backstory about your character. You'll come back later at the end to polish it, but just get across the broad strokes at this stage.
-
-Here are some important questions to ask about your character:
-
-- What is your name?
-- Where are you from?
-- What is their sex?
-- What is their age?
-- What is their race?
-- Does your race have innate abilities like magic?
-- What strengths do you have?
-- What flaws do you have?
-- What is their appearance (hair color, eye color, skin color, height, weight, body type)? Finding some character art or generating some ai art is very useful for this step.
-- What is their disposition (i.e. how do they act most of the time)?
-- What are their beliefs/morality?
-- What are their goals/aspirations?
-- Do they have friends/family?
-- Do they have romantic interests/exes.
-
-### Step 4: Pick your Vocation, spend your Vocation Point
-
-Regardless of the Tier Of Play, you'll have a vocation point to spend. This is a point you get to spend to unlock your first Vocation, whatever your character's life path/job has been. Luckily, if you already picked an archetype that you are going for, you've probably already have your Vocation. For instance, if I wanted to play a Rogue archetype, than my vocation could just be Rogue.
-
-### Step 5: Choose Disabling Characteristics
-
-Disabling Characteristics represent flaws your character has. This is an essential part of every character as everyone needs a short coming to overcome or temptation to fall to. It should be noted that Disabling Characteristics can be remedied through narrative with the Narrators approval.
-
-### Step 6: Spend your Attribute Points
-
-Attributes represent the innate characteristics of your character. They have one of the largest impacts on your character so you should choose wisely. Most often you'd choose attributes that make sense given your Vocation ( Strength for Barbarian, Reflex for Rogue, Intelligence for Wizard, etc...).
-
-### Step 7: Spend your Skill Points
-
-Each Skill Point can be used to increase one core skill, vocation, or combat skill level by 1. It should be noted that no skill can increased above the "Skill/Vocation Level Cap" as defined by your Tier Of Play.
-
-### Step 8: Determine your starting equipment
-
-If the setting has an built economy such as Fallen, based on your characters backstory the Narrator will assign your socioeconomic status. Then you choose whether to roll for your wealth or take the average.
-
-If the setting doesn't have a built economy, then the players and Narrator can work together to figure out what equipment your character might have based on their backstory and Tier Of Play.
-
-# Hardcore Rules
-
-## Item Durability (Optional)
+### Item Durability
 
 This is an optional rule for setting where the durability of ones equipment has narrative significance. Using item durability is a great way to increase immersion (such as having to go to a blacksmith or learn to repair their gear) and challenge your players. However, for players who want a more casual experience, item durability can be disregarded.
 
 With these rules, all weapons, armor, and spellcasting focuses now have durability. Whatever the Base Dice associated with that item determines how much durability it has. When an item's durability falls, each time your item's durability falls to the lower tier's max durability, that lower tier's base dice are used instead. For instance, if a character had a "Legendary" Base Dice sword with only 23 durability remaining they would be rolling the "Superior" Base Dice or "1d10, 2d8".
 
-### Weapon Durability
-
 A weapon's Durability decreases by 1 whenever a weapon is used to attempt to inflict an injury level.
 
-### Spellcasting Focus Durability
-
 A Spellcasting Focus's durability decreases by 1 whenever a Spell is cast with it.
-
-### Armor Durability
 
 If an injury is fully negated by armor, then the defender can decide which pieces of armor take armor damage. The armor must sum up to the defense level required to prevent the incoming injury and all take the same amount of armor damage. An armor's durability decreases by the level of injury inflicted plus the attack's defense penetration.
 
@@ -2947,27 +2945,3 @@ If an injury is not fully negated by the defender's armor, then all pieces of ar
 |  Legendary  |  10  | 1d20, 2d12 |       42       |
 |   Mythic   |  11  | 2d20, 1d12 |       45       |
 |  Artifact  |  12  |    3d20    |       48       |
-
-# Variant Rule
-
-These are optional rules that aren't required and are up to the Narrator if they will be used.
-
-### Rounding Range to work on battle map
-
-*When using a Range on a battlemap, if any of the components of the Range have a decimal remainder, round down to the nearest multiple of 5 ft.
-
-### 5 Summed injury dice causes Incapacitated
-
-A character is rendered Physically Incapacitated once they've taken a summed 5 or above injury dice.
-
-### Skill Specialty
-
-Once a skill's Dice Pool is equal to or greater than 8 dice you are considered a specialist in that skill. If you are a specialist for a skill, when asked to make a check utilizing that skill with a Challenge Level of 3 or less, you automatically pass if all of the following are true.
-
-- You are not under duress (No time pressure, no outside influences or aggression such as combat.)
-- The check is not contested.
-- The check is not a reflexive action.
-
-### Turn Order not based on Dexterity
-
-If multiple characters have the same RFX level, they each roll a D20, where the highest resulting roll gets being higher in turn order declare later for the rest of the combat encounter.
