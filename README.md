@@ -2814,7 +2814,7 @@ At character creation with the Narrators approval, Players Characters that take 
 
 ### Step 6: Determine your starting equipment
 
-If the Setting has an built economy system, based on your characters backstory the Narrator will assign your socioeconomic status. Then you choose whether to roll for your wealth or take the average.
+If the Setting has an economy system, based on your characters backstory the Narrator will assign your socioeconomic status. Then you choose whether to roll for your wealth or take the average.
 
 If the setting doesn't have a built economy, then the players and Narrator can work together to figure out what equipment your character might have based on their backstory and Tier Of Play.
 
