@@ -2717,6 +2717,22 @@ Represented by a group of legendary characters who have made their mark on histo
 |  35  |        5        |      29      |            5            |   +1 Skill Point   |
 |  36  |        6        |      29      |            5            | +1 Attribute Point |
 
+## Magic Systems
+
+These rules provide a generalized framework for building magic system mechanics for any Setting. Whether it be the Force from Star Wars, Bending from Avatar, Cyberpunk technomancy, or traditional fantasy magic, this framework should easily accommodate.
+
+All magic systems built using this generalized framework require a Vocation to be made for it. The following pieces of information are what are required.
+
+### Magic Vocation Name
+
+This is the name of the Vocation for using that magic in the setting. (Wizard, Sorcerer, Druid, Warlock, etc...)
+
+### Magic Vocation Governing Attributes
+
+Different Magic Vocations rely on different attributes. For instance
+
+Most traditional fantasy Magic Vocations have RFX and INT as their Magic Governing Attributes, as most magic benefits from quicker casting times and more knowledge. However, Magic Vocations that narratively rely on a character's physical body, such as genetic bloodline or biological magic, might also include STR as one of its Magic Vocation Governing Attributes.
+
 ## Player Character Creation
 
 For first time Narrators/Players it can feel daunting to build a Player Character. Fear not, as you likely already have all the knowledge you need from the movies, shows, books, and other media you have watched through your life. In general, it is a good idea to keep all the Player Character's within a campaign/one-shot the same Tier Of Play Level to keep things balanced.
@@ -2731,7 +2747,7 @@ A Tier Of Play narratively describes the stakes of the campaign/one-shot as well
 
 ### Step 2: Start with an archetype
 
-Picking an archetype is an excellent starting point for a Player Character. Choosing an archetype isn't meant to be rigid but is meant to serve as a jumping off point. These archetypes can of course depends on the setting you are playing in, though you'd be surprised how much a wizards in a fantasy setting is narratively similar to a mad scientist in a science fiction setting. 
+Picking an archetype is an excellent starting point for a Player Character. Choosing an archetype isn't meant to be rigid but is meant to serve as a jumping off point. These archetypes can of course depends on the setting you are playing in, though you'd be surprised how much a wizards in a fantasy setting is narratively similar to a mad scientist in a science fiction setting.
 
 What follows is a non-exhaustive list of some common archetypes found in fantasy.
 
@@ -2773,7 +2789,7 @@ What follows is a non-exhaustive list of some common archetypes found in fantasy
 
 ### Step 3: Write a rough Backstory
 
-Given the Setting, the Tier of Play, and the archetype chosen, write a rough backstory for the Player Character. You'll come back later at the end to polish it, but just get across the broad strokes at this stage. 
+Given the Setting, the Tier of Play, and the archetype chosen, write a rough backstory for the Player Character. You'll come back later at the end to polish it, but just get across the broad strokes at this stage.
 
 Here are some important questions to ask about your character:
 

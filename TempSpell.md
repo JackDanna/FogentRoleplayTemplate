@@ -1,24 +1,5 @@
 ## Magic Systems
 
-This page provides a generalized framework for magic system mechanics for any setting. Whether it be the Force from Star Wars, Bending from Avatar, Cyberpunk technomancy, or traditional fantasy magic, this framework should easily accommodate.
-
-Fallen (the setting) has 4 premade magic systems as a reference and example:
-
-- Druidcraft
-- Fellcraft
-- Runecraft
-- Miracles
-
-All magic systems built using this generalized framework require the following pieces of information to be determined.
-
-### Magic Name
-
-This is the name of the Magic in the setting. (Wizardry, Sorcery, Druidic magic, Pact Magic, etc...)
-
-### Magic Vocation Name
-
-This is the name of the Vocation for using that magic in the setting. (Wizard, Sorcerer, Druid, Warlock, etc...)
-
 ### Magic Vocation Governing Attributes
 
 Different Magic Vocations rely on different attributes. Most traditional fantasy Magic Vocations have RFX and INT as their Magic Governing Attributes, as most magic benefits from quicker casting times and more knowledge. However, Magic Vocations that narratively rely on a character's physical body, such as genetic bloodline or biological magic, might also include STR as one of its Magic Vocation Governing Attributes.
