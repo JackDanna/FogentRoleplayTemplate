@@ -1,4 +1,4 @@
-tier,baseDice,itemQualityDescription
+Tier,BaseDice,ItemQualityDescription
 -3,3d4,Broken
 -2,"1d6, 2d4",Damaged
 -1,"2d6, 1d4",Shoddy
