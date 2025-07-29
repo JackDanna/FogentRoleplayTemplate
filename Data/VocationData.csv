@@ -14,8 +14,10 @@ Runesmith,"RFX, INT","Fire Rune, Earth Rune, Water Rune, Air Rune, Electricity R
 Brightkin,"STR, RFX, INT, CHA","Blessing, Radiance","Specializes in the use of Miracles, drawing upon a charater's innate Ichor Resource Pool."
 ,,,
 Engineer,INT,,
-Security,"STR, RFX",,
+Security,"STR, RFX, INT","Small Guns, Medium Guns, Heavy Guns",
 Captain,CHA,,
 Pilot,"RFX, INT",,
 Medic,"RFX, INT",,
 Industrial Mech,"STR, RFX",,
+Conman,"INT, CHA",,
+Scientist,INT,,
