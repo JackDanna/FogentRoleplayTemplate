@@ -1,4 +1,4 @@
-name,optionalMax,usesPerRoundBase,usesPerRoundPerDice,dicePerUsesPerRound
+Name,OptionalMax,UsesPerRoundBase,UsesPerRoundPerDice,DicePerUsesPerRound
 Rapid,None,0,1,1
 Swift +2,None,0,0.5,2
 Swift +1,None,0,0.5,2
