@@ -1,4 +1,4 @@
-name,quantity,effects,weight,value,description
+Name,Quantity,Effects,Weight,Value,Description
 Tin Coins,1,,0.02,1 tc,
 Copper Coin,1,,0.02,1 cc,
 Bronze Coin,1,,0.02,1 bc,
