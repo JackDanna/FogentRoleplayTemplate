@@ -1,2 +1,2 @@
-Name,Description,Duration,Source,affectedSkills,tierAdjustment
+Name,Description,Duration,Source,AffectedSkills,TierAdjustment
 Athletics +3 Adjusted Skill Base Dice,Adjust the Base Dice tier for Athletics by +3.,Indefinite,Innate,Athletics,+3
