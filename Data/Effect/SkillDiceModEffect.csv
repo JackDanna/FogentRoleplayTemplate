@@ -1,4 +1,4 @@
-Name,Description,Duration,Source,affectedSkills,dicePoolModifier
+Name,Description,Duration,Source,AffectedSkills,DicePoolModifier
 Minorly Enhanced Knight Vocation,+1d6 to Knight Dice Pool.,Indefinite,Innate,Knight,+1d6
 ,,,,,
 Minorly Enhanced Athletics,+1d6 to Athletics Dice Pool.,Indefinite,Innate,Athletics,+1d6
