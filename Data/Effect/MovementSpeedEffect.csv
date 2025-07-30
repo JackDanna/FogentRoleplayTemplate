@@ -1,4 +1,4 @@
-name,description,duration,source,movementSpeedBase,governingSkillAndMovementSpeedPerDicePairs
+name,description,duration,source,MovementSpeedBase,GoverningSkillAndMovementSpeedPerDicePairs
 Movement Speed: Terrestrial,"+2.5 ft per Dexterity Dice, +7.5 ft per Athletics Dice",Indefinite,Innate,0,"(Dexterity,2.5), (Athletics,7.5)"
 Movement Speed: Swim,"+2.5 ft per Dexterity Dice, +5 ft per Athletics Dice",Indefinite,Innate,0,"(Dexterity,2.5), (Athletics,5)"
 Movement Speed: Climb,"+2.5 ft per Dexterity Dice, +5 ft per Athletics Dice",Indefinite,Innate,0,"(Dexterity,2.5), (Athletics,5)"
