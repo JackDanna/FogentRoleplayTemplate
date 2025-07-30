@@ -1,4 +1,4 @@
-name,governingAttributes,description
+Name,GoverningAttributes,Description
 Hand Crossbow,"STR, RFX, INT",Covers combat activities related using a Hand Crossbow.
 Light Crossbow,"STR, RFX, INT",Covers combat activities related using a Light Crossbow.
 Heavy Crossbow,"STR, RFX, INT",Covers combat activities related using a Heavy Crossbow.

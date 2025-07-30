@@ -1,4 +1,4 @@
-name,governingAttributes,vocationalSkillNames,description
+Name,GoverningAttributes,VocationalSkillNames,Description
 Warrior,"STR, RFX, INT","Hand Crossbow, Light Crossbow, Heavy Crossbow, Light Bow, Heavy Bow, Exotic Ranged, Close Melee, Medium Melee, Large Melee, Reach Melee, Exotic Melee, Battlefield Formation Knowledge",A battle-hardened fighter who excels in martial combat.
 Ranger,"STR, RFX, INT","Hand Crossbow, Light Crossbow, Heavy Crossbow, Light Bow, Heavy Bow, Exotic Ranged, Close Melee, Medium Melee, Large Melee, Reach Melee, Exotic Melee, Tracking, Survival",A skilled hunter and tracker who thrives in the wilderness.
 Rogue,"RFX, INT","Hand Crossbow, Light Crossbow, Heavy Crossbow, Light Bow, Heavy Bow, Exotic Ranged, Close Melee, Medium Melee, Large Melee, Reach Melee, Exotic Melee, Lockpicking, Pickpocketing, Infiltration Knowledge",A cunning and agile specialist who thrives in shadows.

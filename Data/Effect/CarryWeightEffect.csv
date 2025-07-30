@@ -1,2 +1,2 @@
-name,description,duration,source,governingSkillName,maxCarryWeightBase,maxCarryWeightPerDice,weightClasses
+Name,Description,Duration,Source,GoverningSkillName,MaxCarryWeightBase,MaxCarryWeightPerDice,WeightClasses
 Humanoid Carry Weight,This is the description,Indefinite,Innate,Lift,0,50,"Light, Medium, Heavy, Overburdened"

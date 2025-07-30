@@ -1,4 +1,4 @@
-name,baseAmount,optionalGoverningSkillName,optionalGoverningVocationName
+Name,BaseAmount,OptionalGoverningSkillName,OptionalGoverningVocationName
 Mana Resource Pool Max,0,Knowledge,Wizard
 Nature Connection Resource Pool Max,0,Will,Druid
 Fellblood Resource Pool Max,0,Endurance,Fellcaster
