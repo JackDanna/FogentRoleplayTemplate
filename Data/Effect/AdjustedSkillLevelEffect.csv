@@ -1,2 +1,2 @@
-name,description,duration,source,affectedSkills,levelAdjustment
+Name,Description,Duration,Source,affectedSkills,levelAdjustment
 Lift Level +1 Adjustment,+1 to Lift level.,Indefinite,Innate,"Lift, Perception",+1

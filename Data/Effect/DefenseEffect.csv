@@ -1,4 +1,4 @@
-name,description,duration,source,Slash,Pierce,Bludgeon,Hew,Ballistic,Shockwave,Fire,Electric,Radiant,Acid,Cold,Silver,Poison,Necrotic,Bleed,Fatigue,Psychic,Spiritual
+Name,Description,Duration,Source,Slash,Pierce,Bludgeon,Hew,Ballistic,Shockwave,Fire,Electric,Radiant,Acid,Cold,Silver,Poison,Necrotic,Bleed,Fatigue,Psychic,Spiritual
 Gambeson Armor Defense,"Works as Head Armor, Body Armor, Arm Armor, and Leg Armor.",Indefinite,Innate,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0
 Gambeson Body/Arm Defense,Works as Body Armor and Leg Armor.,Indefinite,Innate,0.625,0.625,0.625,0.625,0.625,0.625,0.625,0.625,0.625,0.625,0,0,0,0,0,0,0,0
 Gambeson Leg Defense,Works as Leg Armor.,Indefinite,Innate,0.375,0.375,0.375,0.375,0.375,0.375,0.375,0.375,0.375,0.375,0,0,0,0,0,0,0,0
