@@ -30,7 +30,7 @@ Long live open-source fun,
 
 ## Join Our Community
 
-Join the Fogent Roleplay Community Discord or subscribe to the Javk Wick YouTube channel to get plugged in and stay up to date on the project. We love collaboration and encourages people to reach out if they would like to help contribute to this project. Your feedback and experience mean a lot!
+Join the Fogent Roleplay Discord or subscribe to the Javk Wick YouTube channel to get plugged in and stay up to date on the project. We love collaboration and encourages people to reach out if they would like to help contribute to this project. Your feedback and experience mean a lot!
 
 Discord: [Fogent Roleplay Discord](https://discord.gg/PYNTGqxh6a)
 
