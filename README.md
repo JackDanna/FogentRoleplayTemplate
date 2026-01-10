@@ -480,7 +480,7 @@ Sometimes, a character might actually want a stalemate with neither side making 
 
 - If a character is fighting a foe they have no chance of handling on their own, a stalemate is good as just holding them off until backup arrives is the smart move.
 - If a character is already successfully hidden from their opponent, then when their opponent tries to detect where they are hiding, a stalemate means they get to remain in stealth.
-- If a character is trying to keep their eyes on an enemy trying to hidden, then when their opponent tries to hide, a stalemate means they can still see the opponent.
+- If a character is trying to keep their eyes on an enemy trying to hide, then when their opponent tries to hide, a stalemate means they can still see the opponent.
 
 **Combat example 1:**
 
@@ -749,7 +749,7 @@ If a cone has an angle of 53.13 degrees, then the cone's width is equal to its l
 
 If an action, such as an attack or spell, has a Range and an Area Of Effect, then the Range describes how far away the point of origin can be for the Area Of Effect.
 
-When cases arise were an action is performed with a combination of a Range with Advantage/Disadvantage and Area Of Effect with Advantage/Disadvantage, simply use the "Multiple Advantages and Disadvantages on a roll" rule.
+When cases arise where an action is performed with a combination of a Range with Advantage/Disadvantage and Area Of Effect with Advantage/Disadvantage, simply use the "Multiple Advantages and Disadvantages on a roll" rule.
 
 ## Uses Per Round
 
@@ -787,7 +787,7 @@ If Uses Per Round is greater than 1 and has a decimal, round down to the nearest
 
 On a round where an action IS prepared (example: your Heavy Crossbow is loaded), you can perform the action 1 time.
 
-On a round where an action is NOT prepared (example: your Heavy Crossbow is unloaded), if the Uses Per Round calculation result is greater than or equal to 0.5 and less than 1, 1 round must be spent preparing in order to use this action again. If the result is greater than 0 and less 0.5, your character must spend 2 rounds preparing.
+On a round where an action is NOT prepared (example: your Heavy Crossbow is unloaded), if the Uses Per Round calculation result is greater than or equal to 0.5 and less than 1, 1 round must be spent preparing in order to use this action again. If the result is greater than 0 and less than 0.5, your character must spend 2 rounds preparing.
 
 While preparing the "Off Guard" Combat Modifier is gained. If engaged during this time characters can still attempt to perform an Evasion Roll.
 
@@ -858,7 +858,7 @@ All of the following examples could affect the narrative.
 
 ## Attribute Dice Mod Effect
 
-An Attribute Dice Mod adds or subtracts dice for Dice Pools if they governed by at least one of the Attributes specified.
+An Attribute Dice Mod adds or subtracts dice for Dice Pools if they are governed by at least one of the Attributes specified.
 
 **Affected Attributes:** If any skill is governed by at least one of the attribute listed, than apply the Dice Pool Modifier to that Skill's Dice Pool.
 
@@ -944,7 +944,7 @@ Adds or subtracts dice from the specified Skills/Vocations Dice Pools.
 
 Defense is used to reduce incoming injuries from Damage Types by the equivalent amount of Defense against it. If a character has multiple Defenses, then add the values of the Defenses together for each Damage Type to get their Total Defense. If a totaled Defense to a specific Damage Type has a decimal place remainder, you'll round it down to the nearest whole number when reducing an injury with it.
 
-If a foe has a sufficiently high Defense to a certain Damage Type, then the best course of action is to circumvent it. For instance, a knight in full plate armor would be extremely difficult to injury from injuries caused by the Slash Damage Type. In these circumstances, the most efficient way of defeating a character in heavy armor is grappling them or tripping them and holding them down, just like in real life. Another option is to use an attack with a different Damage Type, such as spraying poison mist at them, to completely circumvent their high Slash defense.
+If a foe has a sufficiently high Defense to a certain Damage Type, then the best course of action is to circumvent it. For instance, a knight in full plate armor would be extremely difficult to injure from injuries caused by the Slash Damage Type. In these circumstances, the most efficient way of defeating a character in heavy armor is grappling them or tripping them and holding them down, just like in real life. Another option is to use an attack with a different Damage Type, such as spraying poison mist at them, to completely circumvent their high Slash defense.
 
 |           Name            |                        Description                         |  Duration  | Source | Slash | Pierce | Bludgeon |  Hew  | Ballistic | Shockwave | Fire  | Electric | Radiant | Acid  | Cold  | Silver | Poison | Necrotic | Bleed | Suffocation | Psychic | Spiritual |
 | :-----------------------: | :--------------------------------------------------------: | :--------: | :----: | :---: | :----: | :------: | :---: | :-------: | :-------: | :---: | :------: | :-----: | :---: | :---: | :----: | :----: | :------: | :---: | :---------: | :-----: | :-------: |
@@ -987,11 +987,11 @@ If a foe has a sufficiently high Defense to a certain Damage Type, then the best
 
 ### Defending Skill
 
-When a character is taking an injury from a Damage Type that has a Defending Skill, the can add the wins gained from their Defending Skill's Dice Pool to their Defense.
+When a character is taking an injury from a Damage Type that has a Defending Skill, they can add the wins gained from their Defending Skill's Dice Pool to their Defense.
 
 The character can choose to take the static amount of wins or roll.
 
-**Static Wins:** For the Defending Skill, take the size of the Dice Pool, divide it by 2, and then round down to the nearst whole number.
+**Static Wins:** For the Defending Skill, take the size of the Dice Pool, divide it by 2, and then round down to the nearest whole number.
 
 **Rolled Wins:** The wins achieved by rolling the Defending Skill's Dice Pool count as count as Defense.
 
@@ -999,7 +999,7 @@ If in combat, the amount of wins gained from a Defending Skill remain for an ent
 
 #### Example
 
-A character takes a Serious Injury (level 3) from a poison spray. The Poison Damge Type's' Defending Skill is "Endurance". The character's Endurance Dice Pool is "5d6".
+A character takes a Serious Injury (level 3) from a poison spray. The Poison Damage Type's Defending Skill is "Endurance". The character's Endurance Dice Pool is "5d6".
 
 **Choosing the Static Wins:** If the character takes the static wins, they have 2.5 wins. That means they are able to scale down the injury to a Minor Injury (level 1).
 
