@@ -165,7 +165,7 @@ For example, Javk Wick the Rogue hoist his unconscious injured ally onto his sho
 
 ## Attribute
 
-An Attribute represent the innate characteristics of a character. Each level of an attribute corresponds with a narrative significance. Level 0 in an attribute should refer to an average person in the world.
+An Attribute represent the innate characteristics of a character. Each level of an Attribute corresponds with a narrative significance. Level 0 in an Attribute should refer to an average person in the world.
 
 | Level | Description |
 | :---: | :---------: |
