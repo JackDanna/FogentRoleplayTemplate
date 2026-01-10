@@ -1750,9 +1750,9 @@ Any levels over the defender's Evasion Roll wins count as Victory Levels for the
 
 Combat is run in a Round-by-Round format. A Combat Round covers a brief period of time, which can be thought of roughly 10 seconds of in game time.
 
-All the actions taken by charactes are considered to be happening simultaneously within the time narratively represented by the Combat Round.
+All the actions taken by characters are considered to be happening simultaneously within the time narratively represented by the Combat Round.
 
-To make sense of this potential chaos, first a Turn Order is determined which will last for the entire Combat. Then, for each Combat Round will be seperated into a Declaration Phase and an Action Phase.
+To make sense of this potential chaos, first a Turn Order is determined which will last for the entire Combat. Then, for each Combat Round will be separated into a Declaration Phase and an Action Phase.
 
 ### Turn Order
 
@@ -1778,24 +1778,24 @@ Within a Combat Round a character can declare all of the following actions withi
 
 #### Non-Standard Combat Actions
 
-Additionally, a character can declare actions as part of a Combat Round not explicitley covered by the Standard Combat Actions. These actions often time require a Skill Check mid combat to determine if they succeeded. Whether these Non-Standard Combat Actions are able to be performed within the time confines of a Combat Round and in addition to the other actions the character might be declaring it up to the Narrator. Often, the Narrator can allow these action to be attempted but can give some penalty to the Combat Roll's Uses Per Round or to Movement Speed to reflect how valuable time is being lost.
+Additionally, a character can declare actions as part of a Combat Round not explicitly covered by the Standard Combat Actions. These actions often time require a Skill Check mid combat to determine if they succeeded. Whether these Non-Standard Combat Actions are able to be performed within the time confines of a Combat Round and in addition to the other actions the character might be declaring it up to the Narrator. Often, the Narrator can allow these action to be attempted but can give some penalty to the Combat Roll's Uses Per Round or to Movement Speed to reflect how valuable time is being lost.
 
 Examples:
 
 - Holding a door closed (Requires a contested Lift Check)
-- Briefly shouting out an importaint piece of information (No addtional check or penalty)
+- Briefly shouting out an important piece of information (No additional check or penalty)
 - Quickly switching between weapons (Requires a Dexterity Check)
 - Casting a spell that provides magic armor (Requires a Magic Skill check)
 
 #### Action Phase
 
-Once all characters have declared their actions, start with the actions of the highest Turn Order character. Then work down the Turn Order until everyone's declared action have be delt with.
+Once all characters have declared their actions, start with the actions of the highest Turn Order character. Then work down the Turn Order until everyone's declared action have been dealt with.
 
 Though actions are happening simultaneously within a Combat Round, it's sometimes important to know which attack/actions happens before another, or who managed to perform their action a little bit faster than another. In these situations, characters with a higher Turn Order will always act first.
 
 At the beginning of the Action Phase, all players can roll their Dice Pools for the actions they expect to take that round, such as Combat Rolls. This is to help things combat move efficiently.
 
-Rolled Combat Rolls and Evasion Rolls made during a round are considered Standing Dice Pools for the entire Combat Round. This is to remember how many Wins a characters Combat Roll or Evasion Roll got incase they are using them against multiple sourceses. This is also incase a character loses dice due to injury or if they gain Disadvantage/Advantage during the Combat Round, which will affect an already rolled Dice Pool. If your character gains Disadvantage or Advantage after they've' already rolled their Combat Roll Dice Pool that Combat Round, you will retroactively apply said Disadvantage/Advantage to your those Dice Pools. This could turn some dice that were wins into fails and vice versa.
+Rolled Combat Rolls and Evasion Rolls made during a round are considered Standing Dice Pools for the entire Combat Round. This is to remember how many Wins a characters Combat Roll or Evasion Roll got in case they are using them against multiple sources. This is also in case a character loses dice due to injury or if they gain Disadvantage/Advantage during the Combat Round, which will affect an already rolled Dice Pool. If your character gains Disadvantage or Advantage after they've already rolled their Combat Roll Dice Pool that Combat Round, you will retroactively apply said Disadvantage/Advantage to your those Dice Pools. This could turn some dice that were wins into fails and vice versa.
 
 ## Movement Speed Effect
 
@@ -1875,11 +1875,11 @@ Since the Knight already had his sword ready to go, combat rolls will be made, b
 
 ### Athletics Movement Speed
 
-Athletics Movement Speed is the second portion of a character's movement and represents how fast they are once at there top speed.
+Athletics Movement Speed is the second portion of a character's movement and represents how fast they are once at their top speed.
 
 Athletics Movement Speed should always make up a far greater amount of your Total Movement Speed as compared to Dexterity Movement Speed. Even though characters with higher Dexterity Movement Speed might be quicker to initially move, there is nothing prevent a high Athletics Movement Speed character from running them down.
 
-Unlike Dexterity Speed, were the character with the greater speed can move before the other character, for Athletics Movement Speed both characters start moving at the same time.
+Unlike Dexterity Speed, where the character with the greater speed can move before the other character, for Athletics Movement Speed both characters start moving at the same time.
 
 ### Total Movement Speed
 
@@ -2640,7 +2640,7 @@ Tier Of Play represents the how large the stakes are for a game/campaign aswell 
 
 #### Novice Tier
 
-Repesent a group with practically no experience.
+Represent a group with practically no experience.
 
 | Level | Attribute Points | Skill Points | Vocation/Skill Level Cap |          Rewards Gained           |
 | :---: | :--------------: | :----------: | :----------------------: | :-------------------------------: |
@@ -2806,7 +2806,7 @@ A Non-Combat Vocational Skill's level is inherited from Vocation's level.
 
 ### Step 5: Choose Disabling Characteristics
 
-Disabling Characteristics represent flaws your character has. This is an essential part of every character as everyone needs a short coming to overcome or temptation to fall to. It should be noted that Disabling Characteristics can be remedied through narrative with the Narrators approval.
+Disabling Characteristics represent flaws your character has. This is an essential part of every character as everyone needs a shortcoming to overcome or temptation to fall to. It should be noted that Disabling Characteristics can be remedied through narrative with the Narrators approval.
 
 At character creation with the Narrators approval, Player Characters that take Disabling Characteristics that makes a Core Skill Incompetent (level -1), an additional Skill Point is gained.
 
@@ -2826,7 +2826,7 @@ All Weapon Combat Vocational Skills have the governing attributes of STR, RFX, a
 
 ### Weapon Combat Skill Transfer
 
-There is obviously overlap certain Weapon Combat Vocational Skills. For melee Weapon Combat Vocaitonal Skills, weapon reach, footwork, and the biomechanics of swinging a weapon have some overlap. For ranged Weapon Combat Skills, having a proper stance, judging the distance, leading your targets, aiming and releasing the projectile smoothly are examples of the overlap. Narrators should allow a character to gain Weapon Combat Vocational Skills, though of a lesser level, in similar Weapon Combat Vocational Skills in regards to size and function. This not only allows characters to experiment with new weapons but also makes narrative sense.
+There is obviously overlap certain Weapon Combat Vocational Skills. For melee Weapon Combat Vocational Skills, weapon reach, footwork, and the biomechanics of swinging a weapon have some overlap. For ranged Weapon Combat Skills, having a proper stance, judging the distance, leading your targets, aiming and releasing the projectile smoothly are examples of the overlap. Narrators should allow a character to gain Weapon Combat Vocational Skills, though of a lesser level, in similar Weapon Combat Vocational Skills in regards to size and function. This not only allows characters to experiment with new weapons but also makes narrative sense.
 
 Starting with the weapon skill your character currently possesses, each horizontal (right and left on the table) or vertical (up and down on the table) jump is -1 reduction to the skill you've moved to. When moving horizontally within a Size type, you may loop around the other side of the table as if it were right beside it. You cannot go below 0 on a Weapon Combat Vocational Skill for either melee or ranged weapons via the table below.
 
@@ -2857,7 +2857,7 @@ Starting with the weapon skill your character currently possesses, each horizont
 
 #### Respecing Combat Skills
 
-Since certain weapon sizes provide more combat skill transfer than others, it is intend for the Narrator to allow rebalancing skill point investments as to not waste skill levels as long as all previously know skills maintain they're skill level.
+Since certain weapon sizes provide more combat skill transfer than others, it is intended for the Narrator to allow rebalancing skill point investments as to not waste skill levels as long as all previously known skills maintain their skill level.
 
 For example, a character has just been given 1 skill point to spend and has a level 3 in Small Blade. They wish to invest their skill point into the Medium Sword skill to try a new magic sword they found. Since they have a 3 in Small Blade already, by the Weapon Combat Skill Transfer rules they have a level 2 in Medium Sword. If they were to invest their skill point into Medium Sword to bring it to level 3, they are technically wasting skill points as had they from the start only invested the 3 skill points from Small Blade into Medium sword, with the addition of the unspent skill point, they'd have a level 4 in Medium sword, which would also give them a level 3 in Small Blade. Instead of wasting skill points, they can take the 3 skill points from Small Blade and the 1 unspent skill point and spend it on bring Medium sword to level 4. Since having a level 4 in Medium Sword gives a level 3 in Small Blade, nothing has changed in Small Blade.
 
