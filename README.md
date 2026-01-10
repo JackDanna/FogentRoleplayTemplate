@@ -2598,7 +2598,6 @@ Disabling characteristics represent the flaws a character has. This is an essent
 |           Disabling: Loose Cannon            |           Overwhelming predisposition towards rage/anger.           | Indefinite | Backstory |
 |       Disabling: Incontrollable Grief        |    Overwhelming grief that is triggered reminder of past trauma.    | Indefinite | Backstory |
 |          Disabling: Very Forgetful           |      Often forgets plans, directions, people, items,  names...      | Indefinite | Backstory |
-|          Disabling: Overconfidence           |           Extremely overconfident in , cannot invest in.            | Indefinite | Backstory |
 |     Disabling: Athletics Overconfidence      |       Extremely overconfident in Athletics, cannot invest in.       | Indefinite | Backstory |
 |     Disabling: Endurance Overconfidence      |       Extremely overconfident in Endurance, cannot invest in.       | Indefinite | Backstory |
 |        Disabling: Lift Overconfidence        |         Extremely overconfident in Lift, cannot invest in.          | Indefinite | Backstory |
