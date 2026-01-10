@@ -1216,12 +1216,12 @@ Represents how a character is performing combat. A Combat Roll could represent s
 
 **Dice Pool Modifier:** Represent either an addition or subtraction of dice to the Combat Roll Dice Pool. Used to represent how significant of a force multiplier a Combat Roll is. The more effective the Combat Roll, the larger the dice pool modification. For example, a bomb arrow is significantly more dangerous than a conventional arrow, so it would receive additional dice.
 
-**Penetration:** Penetration represents a dealt injuries ability to mitigate the opponent's Defense. While dealing an injury, you may reduce your opponent's Totaled Defense by your Combat Roll's Penetration before calculating injury.
+**Penetration:** Penetration represents a dealt injury's ability to mitigate the opponent's Defense. While dealing an injury, you may reduce your opponent's Totaled Defense by your Combat Roll's Penetration before calculating injury.
 
 Examples of narratively describing better penetration:
 
 - Firearm vs Firearm loaded with armor piercing bullets.
-- Poison shot vs poison aerosolized spray, making it far more likely to penetrate the bodies natural defenses.
+- Poison shot vs poison aerosolized spray, making it far more likely to penetrate the body's natural defenses.
 - Arming Sword swing vs Great Sword swing, which just give you more leverage and mass because if you can't cut through at least you'll crunch what's underneath.
 
 **Ranges:** The Ranges the action can be performed at. See the Range rules for more details.
@@ -1877,7 +1877,7 @@ Since the Knight already had his sword ready to go, combat rolls will be made, b
 
 Athletics Movement Speed is the second portion of a character's movement and represents how fast they are once at their top speed.
 
-Athletics Movement Speed should always make up a far greater amount of your Total Movement Speed as compared to Dexterity Movement Speed. Even though characters with higher Dexterity Movement Speed might be quicker to initially move, there is nothing prevent a high Athletics Movement Speed character from running them down.
+Athletics Movement Speed should always make up a far greater amount of your Total Movement Speed as compared to Dexterity Movement Speed. Even though characters with higher Dexterity Movement Speed might be quicker to initially move, there is nothing to prevent a high Athletics Movement Speed character from running them down.
 
 Unlike Dexterity Speed, where the character with the greater speed can move before the other character, for Athletics Movement Speed both characters start moving at the same time.
 
@@ -2037,7 +2037,7 @@ An Item Stack represents a collection of an Item.
 
 **Quantity:** The amount of items in the Item Stack.
 
-**Effects:** The Effects the Item Stack has. Character's that equip an Item can use its Effects.
+**Effects:** The Effects the Item Stack has. A character that equips an Item can use its Effects.
 
 **Weight:** The weight of each Item in the Item Stack.
 
@@ -2630,7 +2630,7 @@ Disabling characteristics represent the flaws a character has. This is an essent
 
 Tier Of Play represents how large the stakes are for a game/campaign as well as how powerful/competent the player characters are.
 
-**Level:** Used to represent milestones a character has crossed correlating to an increase in skill, ability, competence, etc... The Narrator can reward the Player Character's with an increase in their Level when they accomplish a milestone of their choosing. Things like finishing a certain amount of real world sessions, completing a quest, defeating a powerful foe, etc... are all valid metrics for the Narrator to use.
+**Level:** Used to represent milestones a character has crossed correlating to an increase in skill, ability, competence, etc... The Narrator can reward the Player Characters with an increase in their Level when they accomplish a milestone of their choosing. Things like finishing a certain amount of real world sessions, completing a quest, defeating a powerful foe, etc... are all valid metrics for the Narrator to use.
 
 **Attribute Points:** The total points spent on increasing the levels of a character's Attributes.
 
@@ -2718,7 +2718,7 @@ Represented by a group of legendary characters who have made their mark on histo
 
 ## Player Character Creation
 
-For first time Narrators/Players it can feel daunting to build a Player Character. Fear not, as you likely already have all the knowledge you need from the movies, shows, books, and other media you have watched through your life. In general, it is a good idea to keep all the Player Character's within a campaign/one-shot the same Tier Of Play Level to keep things balanced.
+For first time Narrators/Players it can feel daunting to build a Player Character. Fear not, as you likely already have all the knowledge you need from the movies, shows, books, and other media you have watched through your life. In general, it is a good idea to keep all the Player Characters within a campaign/one-shot the same Tier Of Play Level to keep things balanced.
 
 ### Step 0: Understand the Setting
 
@@ -2726,7 +2726,7 @@ It is imperative to have rough understanding of the setting/world the Player Cha
 
 ### Step 1: Understand what Tier Of Play you're playing
 
-A Tier Of Play narratively describes the stakes of the campaign/one-shot as well as how powerful/competent a Player Characters is expected to be. This balances the Players against each other and the challenges the Narrator has envisioned. The Narrator should let the Player's know the Tier Of Play Level their Player Character's will start at for the campaign/one-shot. Players should factor this into their Player Character as it would be silly to have a backstory paint them as a world conquering threat only to have them start as a novice adventurer stat wise.
+A Tier Of Play narratively describes the stakes of the campaign/one-shot as well as how powerful/competent a Player Character is expected to be. This balances the Players against each other and the challenges the Narrator has envisioned. The Narrator should let the Players know the Tier Of Play Level their Player Characters will start at for the campaign/one-shot. Players should factor this into their Player Character as it would be silly to have a backstory paint them as a world conquering threat only to have them start as a novice adventurer stat wise.
 
 ### Step 2: Start with an archetype
 
