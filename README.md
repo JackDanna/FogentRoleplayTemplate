@@ -687,7 +687,7 @@ The final result of all of the Ranges would be "Long (Normal): 0 - 140 ft, Long 
 
 ## Area Of Effect
 
-An Area Of Effect describes a 3D space. They can be used to describe any action that will cover a chunk of space, often used for certain attacks such as an explosions.
+An Area Of Effect describes a 3D space. They can be used to describe any action that will cover a chunk of space, often used for certain attacks such as explosions.
 
 All Area Of Effects will have a point of origin from which they will emanate from. This will vary based on the different shapes of the Area of Effects.
 
@@ -695,7 +695,7 @@ If an Area Of Effect specifies "(Disadvantage)", "(Super Disadvantage)", "(Advan
 
 Often, an action will have multiple Area Of Effects, such as when trying to add gradations of effectiveness to some action.
 
-For example let's say we want to add gradations to how effective a modern hand grenade is. We will use 3 nested Spheres. The inner most Area Of Effect Sphere will represent the "kill radius" for our explosion, so we'll specify "(Normal)" in its name. The middle Area Of Effect Sphere will represent the "casualty radius" where you're more likely to get injured than die, so we'll specify "(Disadvantage)" in its name. The outer most Sphere will represent where you'd be mostly safe but might catch a unlucky piece of shrapnel, so we'll specify "(Super Disadvantage)" on its name. So our grenade action's Area Of Effects would be "Grenade Explosion (Normal), Grenade Explosion (Disadvantage), Grenade Explosion (Super Disadvantage)".
+For example let's say we want to add gradations to how effective a modern hand grenade is. We will use 3 nested Spheres. The inner most Area Of Effect Sphere will represent the "kill radius" for our explosion, so we'll specify "(Normal)" in its name. The middle Area Of Effect Sphere will represent the "casualty radius" where you're more likely to get injured than die, so we'll specify "(Disadvantage)" in its name. The outer most Sphere will represent where you'd be mostly safe but might catch an unlucky piece of shrapnel, so we'll specify "(Super Disadvantage)" on its name. So our grenade action's Area Of Effects would be "Grenade Explosion (Normal), Grenade Explosion (Disadvantage), Grenade Explosion (Super Disadvantage)".
 
 If Area Of Effects from an action overlap each other, then the most advantageous Area Of Effects can be used.
 
@@ -840,7 +840,7 @@ All effect have a "Name", "Description", "Duration", and "Source" though they ma
 All of the following examples could affect the narrative.
 
 - A character's backstory (Narrative Effect)
-- An item that give the wielder a healing factor while equipped (Narrative Effect)
+- An item that gives the wielder a healing factor while equipped (Narrative Effect)
 - A character having an innate weapon, such as claws (Combat Roll Effect)
 - An item having an ability to be used as a weapon, such as a dagger (Combat Roll Effect)
 - A character having innate defenses, like armored scales (Defense Effect)
@@ -860,7 +860,7 @@ All of the following examples could affect the narrative.
 
 An Attribute Dice Mod adds or subtracts dice for Dice Pools if they are governed by at least one of the Attributes specified.
 
-**Affected Attributes:** If any skill is governed by at least one of the attribute listed, than apply the Dice Pool Modifier to that Skill's Dice Pool.
+**Affected Attributes:** If any skill is governed by at least one of the attribute listed, then apply the Dice Pool Modifier to that Skill's Dice Pool.
 
 **Dice Pool Modifier:** The Dice Pool Modifier that will be applied to the Dice Pools.
 
@@ -868,7 +868,7 @@ An Attribute Dice Mod adds or subtracts dice for Dice Pools if they are governed
 
 Injury is handled as part of the narrative with dice penalties being applied per injury to a character's dice checks.
 
-Typical "status effects" such as being poisoned, frostbitten, bleeding, madness, etc... are handled elegantly through the injury system. For instance, if you were dealt a Serious Injury by mild poison mist, then narratively explain it as getting a large breath full. If the character instead was dealt a Serious injury by an extremely lethal poison mist, then narratively it would be explained as only getting a small whiff. The resulting dice penalty acts as your "status effect" debuffing your character until they are resolved. For instance, anti-venom might be able to remove the poison injury or warming up by a fire might reduce hypothermia from the cold.
+Typical "status effects" such as being poisoned, frostbitten, bleeding, madness, etc... are handled elegantly through the injury system. For instance, if you were dealt a Serious Injury by mild poison mist, then narratively explain it as getting a large breathful. If the character instead was dealt a Serious injury by an extremely lethal poison mist, then narratively it would be explained as only getting a small whiff. The resulting dice penalty acts as your "status effect" debuffing your character until they are resolved. For instance, anti-venom might be able to remove the poison injury or warming up by a fire might reduce hypothermia from the cold.
 
 |       Name        |                                                                                            Description                                                                                             |        Duration         |      Source      | Affected Attributes | Dice Pool Modifier |
 | :---------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------: | :--------------: | :-----------------: | :----------------: |
@@ -993,7 +993,7 @@ The character can choose to take the static amount of wins or roll.
 
 **Static Wins:** For the Defending Skill, take the size of the Dice Pool, divide it by 2, and then round down to the nearest whole number.
 
-**Rolled Wins:** The wins achieved by rolling the Defending Skill's Dice Pool count as count as Defense.
+**Rolled Wins:** The wins achieved by rolling the Defending Skill's Dice Pool count as Defense.
 
 If in combat, the amount of wins gained from a Defending Skill remain for an entire round.
 
@@ -1023,7 +1023,7 @@ Shields generally takes up one of the character's hands when in use. Characters 
 
 ### Defending against Injury with multiple Damage Types
 
-In the rare case were a character is having to defend from an injury coming from multiple Damage Types, the Narrator can decide to use 1 of the 2 following rules:
+In the rare case where a character is having to defend from an injury coming from multiple Damage Types, the Narrator can decide to use 1 of the 2 following rules:
 
 1) The defending character can average add all the Defense's against the Damage Types in question, then divide by the number of Damage Types. The result can act as the Defense against the incoming attack.
 2) The attacking character has to choose which Damage Type is primary, which the defender will be able to defend against.
