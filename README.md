@@ -30,7 +30,7 @@ Long live open-source fun,
 
 ## Join Our Community
 
-Join the Fogent Roleplay Discord or subscribe to the Javk Wick YouTube channel to get plugged in and stay up to date on the project. We love collaboration and encourages people to reach out if they would like to help contribute to this project. Your feedback and experience mean a lot!
+Join the Fogent Roleplay Discord or subscribe to the Javk Wick YouTube channel to get plugged in and stay up to date on the project. We love collaboration and encourage people to reach out if they would like to help contribute to this project. Your feedback and experience mean a lot!
 
 Discord: [Fogent Roleplay Discord](https://discord.gg/PYNTGqxh6a)
 
@@ -478,9 +478,9 @@ When a Tied Contested Check occurs, neither side makes any progress and the cont
 
 Sometimes, a character might actually want a stalemate with neither side making progress. Here are some examples:
 
-- If a character is fighting a foe they have no chance of handling on there own, a stalemate is good as just holding them off until backup arrives is the smart move.
+- If a character is fighting a foe they have no chance of handling on their own, a stalemate is good as just holding them off until backup arrives is the smart move.
 - If a character is already successfully hidden from their opponent, then when their opponent tries to detect where they are hiding, a stalemate means they get to remain in stealth.
-- If a character is trying to keep there eyes on an enemy trying to hidden, then when their opponent tries to hide, a stalemate means they can still see the opponent.
+- If a character is trying to keep their eyes on an enemy trying to hidden, then when their opponent tries to hide, a stalemate means they can still see the opponent.
 
 **Combat example 1:**
 
@@ -601,7 +601,7 @@ This section defines the different units of measure that a game will use.
 
 ### Using a Battle Map
 
-When using a grid Battle Map for combat, it is important to inform your players the dimensions of each part of the grid. For instance, most grided battle maps have each square represent a 5 ft x 5 ft square.
+When using a grid Battle Map for combat, it is important to inform your players the dimensions of each part of the grid. For instance, most gridded battle maps have each square represent a 5 ft x 5 ft square.
 
 ## Range
 
@@ -840,16 +840,16 @@ All effect have a "Name", "Description", "Duration", and "Source" though they ma
 All of the following examples could effect the narrative.
 
 - A character's backstory (Narrative Effect)
-- An item that give the weilder a healing factor while equiped (Narrative Effect)
+- An item that give the wielder a healing factor while equipped (Narrative Effect)
 - A character having an innate weapon, such as claws (Combat Roll Effect)
 - An item having an ability to be used as a weapon, such as a dagger (Combat Roll Effect)
 - A character having innate defenses, like armored scales (Defense Effect)
 - An item with innate defenses, such as armor (Defense Effect)
 - A character having an injury that is weakening them (Attribute Dice Mod Effect)
 - An item having a curse on it that gives the wielder permanent weakness (Attribute Dice Mod Effect)
-- A character having a enchantment on them which alters their Attribute levels (Adjusted Attribute Level Effect/Set Attribute Level Effect)
+- A character having an enchantment on them which alters their Attribute levels (Adjusted Attribute Level Effect/Set Attribute Level Effect)
 - An item having an enchantment that alters the wielder's Attribute levels (Adjusted Attribute Level Effect/Set Attribute Level Effect)
-- A character having a enchantment on them which alters their Skill Dice Pools (Adjusted Skill Level Effect/Set Skill Level Effect/Set Skill Base Dice Effect)
+- A character having an enchantment on them which alters their Skill Dice Pools (Adjusted Skill Level Effect/Set Skill Level Effect/Set Skill Base Dice Effect)
 - An item having an enchantment that alters the wielder's Skill Dice Pools (Adjusted Skill Level Effect/Set Skill Level Effect/Set Skill Base Dice Effect)
 - A character having the ability to carry equipment (Container Effect)
 - An item being able to contain other items, such as a backpack (Container Effect)
