@@ -6,23 +6,23 @@ Heavy Crossbow,"STR, RFX, INT",Covers combat activities related using a Heavy Cr
 Light Bow,"STR, RFX, INT",Covers combat activities related using a Light Bow.
 Heavy Bow,"STR, RFX, INT",Covers combat activities related using a Heavy Bow.
 ,,
-Exotic Ranged,"STR, RFX, INT","Covers combat activities related using a Blowgun, Sling, ect..."
+Exotic Ranged,"STR, RFX, INT","Covers combat activities related using a Blowgun, Sling, etc..."
 ,,
-Close Melee,"STR, RFX, INT","Covers combat activities related using a dagger, hatchet, small club, ect..."
+Close Melee,"STR, RFX, INT","Covers combat activities related using a dagger, hatchet, small club, etc..."
 ,,
-Medium Melee,"STR, RFX, INT","Covers combat activities related using an Arming Sword, Battleaxe, mace, ect..."
+Medium Melee,"STR, RFX, INT","Covers combat activities related using an Arming Sword, Battleaxe, mace, etc..."
 ,,
-Large Melee,"STR, RFX, INT","Covers combat activities related using a Longsword, Waraxe, Maul, ect..."
+Large Melee,"STR, RFX, INT","Covers combat activities related using a Longsword, Waraxe, Maul, etc..."
 ,,
-Reach Melee,"STR, RFX, INT","Covers combat activities related using a Greatsword, Poleaxe, Pike, ect..."
+Reach Melee,"STR, RFX, INT","Covers combat activities related using a Greatsword, Poleaxe, Pike, etc..."
 ,,
-Exotic Melee,"STR, RFX, INT","Covers combat activities related using a Whip, ect..."
+Exotic Melee,"STR, RFX, INT","Covers combat activities related using a Whip, etc..."
 ,,
-Primal Melee,"STR, RFX, INT","Covers combat activities related using a Claws, Fangs, ect..."
+Primal Melee,"STR, RFX, INT","Covers combat activities related using a Claws, Fangs, etc..."
 ,,
-Small Guns,"STR, RFX, INT","Covers combat activities related using a Handgun, Sub-machine Gun, ect..."
-Medium Guns,"STR, RFX, INT","Covers combat activities related using a Rifle, ect..."
-Heavy Guns,"STR, RFX, INT","Covers combat activities related using a Machine Gun, Rocket launcher, ect..."
+Small Guns,"STR, RFX, INT","Covers combat activities related using a Handgun, Sub-machine Gun, etc..."
+Medium Guns,"STR, RFX, INT","Covers combat activities related using a Rifle, etc..."
+Heavy Guns,"STR, RFX, INT","Covers combat activities related using a Machine Gun, Rocket launcher, etc..."
 ,,
 Battlefield Formation Knowledge,INT,Knowledge around the tactics and formations of troops.
 Tracking,"RFX, INT",Covers activities related to tracking.
@@ -31,10 +31,10 @@ Lockpicking,"RFX, INT",The ability to bypass locks using tools and finesse.
 Pickpocketing,"RFX, INT",The art of stealthily lifting items from a person without their notice.
 Infiltration Knowledge,INT,Expertise in planning and executing covert entry into secure areas.
 Barter,"INT, CHA",Covers acts related to bartering
-Smithing,"STR, RFX, INT","Covers acts related to smithing, forging, ect..."
+Smithing,"STR, RFX, INT","Covers acts related to smithing, forging, etc..."
 Arcane Knowledge,INT,Knowledge related to the arcane and magic.
 Performance,"RFX, INT, CHA",Covers acts related to performance.
-Homesteading,"RFX, INT","Covers acts related to cooking, cleaning, ect..."
+Homesteading,"RFX, INT","Covers acts related to cooking, cleaning, etc..."
 Drawing,"RFX, INT",Covers the act of drawing.
 ,,
 Body Magic,"RFX, INT",No description yet.
