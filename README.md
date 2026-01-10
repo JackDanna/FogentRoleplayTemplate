@@ -2341,13 +2341,13 @@ An Item Stack represents a collection of an Item.
 
 ## Container Effect
 
-Pouches, satchel, sacks, backpacks, chest, etc... are all consider containers. Each container can hold a certain amount of weight and/or volume within.
+Pouches, satchel, sacks, backpacks, chest, etc... are all considered containers. Each container can hold a certain amount of weight and/or volume within.
 
 **Optional Weight Capacity:** The weight the container is capable of holding. If "None", then it has unlimited capacity for weight.
 
 **Optional Volume Capacity:** The volume the container is capable of holding. If "None", then it has unlimited capacity for volume.
 
-**Weightless Contents:** If false, then the contents of this container would be included in its total weight, such as a mundane backpack. If true, then the contents of this container wouldn't be included in the total weight, such as a bag of holding were its contents are stored in a pocket dimension.
+**Weightless Contents:** If false, then the contents of this container would be included in its total weight, such as a mundane backpack. If true, then the contents of this container wouldn't be included in the total weight, such as a bag of holding where its contents are stored in a pocket dimension.
 
 |       Name       |                                                                                                 Description                                                                                                 |  Duration  |       Source        | Weight Capacity | Volume | Weightless Contents |
 | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: | :-----------------: | :-------------: | :----: | :-----------------: |
@@ -2370,11 +2370,11 @@ When representing the contents of a container on a character sheet, a similar ta
 | Ring, Mundane |   1   |                    |  0.2  | 30 cc |             |
 | Copper Coin   |  70   |                    | 0.02  | 1 cc  |             |
 
-Characters will often stash or drop containers during combat as to not be in a heavier Weight Class. This is perfectly acceptable, but it is within the Narrators right to treat these items as fair game to be swiped by the enemy if an opportunity arises, however this might effect their Weight Class as well. Character's wishing to avoid a having their loot stolen can keep it on their backs, by a mount to stash it on, increase their ability to carry heavier equipment, etc...
+Characters will often stash or drop containers during combat as to not be in a heavier Weight Class. This is perfectly acceptable, but it is within the Narrators right to treat these items as fair game to be swiped by the enemy if an opportunity arises, however this might affect their Weight Class as well. Characters wishing to avoid having their loot stolen can keep it on their backs, by a mount to stash it on, increase their ability to carry heavier equipment, etc...
 
 ## Set Attribute Level Effect
 
-Sets a the Attributes of a character to a specified level. If the character's innate Attribute is greater than or equal to the new value, no change occurs.
+Sets the Attributes of a character to a specified level. If the character's innate Attribute is greater than or equal to the new value, no change occurs.
 
 **Affected Attributes:** The Attributes that are affected.
 
@@ -2387,7 +2387,7 @@ Sets a the Attributes of a character to a specified level. If the character's in
 
 ## Set Skill Level Effect
 
-Sets a the Skills/Vocations of a character to specified level. If the character's innate Skill/Vocation is greater than or equal to the new value, no change occurs.
+Sets the Skills/Vocations of a character to specified level. If the character's innate Skill/Vocation is greater than or equal to the new value, no change occurs.
 
 **Affected Skills:** The Skills/Vocations that are affected.
 
@@ -2525,7 +2525,7 @@ The ability of a character to sense is crucial for various tasks. These tasks in
 |                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |             |               |
 |     Sense: Unobscured      |                                                                                                                                                   The area around the character doesn't impede their vision. Roll normal Perception checks that rely on sight. Examples include bright light, torch/lantern/campfire light, gloomy days, etc...                                                                                                                                                    | Situational | Environmental |
 |  Sense: Lightly Obscured   |                                                                                                The area around the character slightly impedes their vision. Roll at Disadvantage on Perception checks that rely on sight. Examples include dim light, the boundary between a source of light and the surrounding darkness, the soft light of twilight/dawn, a full moon, patchy fog/foliage, etc...                                                                                                | Situational | Environmental |
-|  Sense: Heavily Obscured   |                                                                                                                                      The area around the character heavily impedes their vision. Roll at Super Disadvantage on Perception checks that relay on sight. Examples include deep shadow, waxing/waning crescent moon, moderate fog/foliage, etc...                                                                                                                                      | Situational | Environmental |
+|  Sense: Heavily Obscured   |                                                                                                                                      The area around the character heavily impedes their vision. Roll at Super Disadvantage on Perception checks that rely on sight. Examples include deep shadow, waxing/waning crescent moon, moderate fog/foliage, etc...                                                                                                                                      | Situational | Environmental |
 | Sense: Completely Obscured |                                                                                                                                          The area around the character completely impedes their vision. Character is considered Blinded (see the Condition). Examples include complete darkness, a new moon, an unlit dungeon, opaque fog/foliage, etc...                                                                                                                                          | Situational | Environmental |
 
 #### Size
@@ -2722,7 +2722,7 @@ For first time Narrators/Players it can feel daunting to build a Player Characte
 
 ### Step 0: Understand the Setting
 
-It is imparative to have rough understanding of the setting/world the Player Character is going to be inhabiting. By no means do you need to be an lore expert, but you should have a rough idea of the major themes, technology level, and bedrock information for a resident of that world. It is the Narrators job to ensure this information if relayed so that everyone is on the same page.
+It is imperative to have rough understanding of the setting/world the Player Character is going to be inhabiting. By no means do you need to be a lore expert, but you should have a rough idea of the major themes, technology level, and bedrock information for a resident of that world. It is the Narrators job to ensure this information if relayed so that everyone is on the same page.
 
 ### Step 1: Understand what Tier Of Play you're playing
 

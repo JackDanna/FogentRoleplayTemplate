@@ -362,7 +362,7 @@ Sense: Truesight,"A being possessing truesight can, within a designated range, p
 ,,,
 Sense: Unobscured,"The area around the character doesn't impede their vision. Roll normal Perception checks that rely on sight. Examples include bright light, torch/lantern/campfire light, gloomy days, etc...",Situational,Environmental
 Sense: Lightly Obscured,"The area around the character slightly impedes their vision. Roll at Disadvantage on Perception checks that rely on sight. Examples include dim light, the boundary between a source of light and the surrounding darkness, the soft light of twilight/dawn, a full moon, patchy fog/foliage, etc...",Situational,Environmental
-Sense: Heavily Obscured,"The area around the character heavily impedes their vision. Roll at Super Disadvantage on Perception checks that relay on sight. Examples include deep shadow, waxing/waning crescent moon, moderate fog/foliage, etc...",Situational,Environmental
+Sense: Heavily Obscured,"The area around the character heavily impedes their vision. Roll at Super Disadvantage on Perception checks that rely on sight. Examples include deep shadow, waxing/waning crescent moon, moderate fog/foliage, etc...",Situational,Environmental
 Sense: Completely Obscured,"The area around the character completely impedes their vision. Character is considered Blinded (see the Condition). Examples include complete darkness, a new moon, an unlit dungeon, opaque fog/foliage, etc...",Situational,Environmental
 ,,,
 ,,,
