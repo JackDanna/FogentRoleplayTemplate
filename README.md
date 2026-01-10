@@ -699,7 +699,7 @@ For example let's say we want to add gradations to how effective a modern hand g
 
 If Area Of Effects from an action overlap each other, then the most advantageous Area Of Effects can be used.
 
-Area Of Effects with a "... Per Dice" column can scale with the size of the Governing Skill Dice Pool. For example, this could be used for a magic users to have the size of their area of effects scaling with their proficiency with their magic.
+Area Of Effects with a "... Per Dice" column can scale with the size of the Governing Skill Dice Pool. For example, this could be used for magic users to have the size of their area of effects scaling with their proficiency with their magic.
 
 ### Box
 
@@ -725,7 +725,7 @@ Point of Origin: The center of the Sphere
 
 ### Cone
 
-Point of Origin: A Cone point of origin will be the narrowest point of the cone, from which it will emanate out from.
+Point of Origin: A Cone point of origin will be the narrowest point of the cone, from which it will emanate.
 
 If a cone has an angle of 53.13 degrees, then the cone's width is equal to its length at any given point. Which means that the cone's area of effect is specified by its maximum length. For example, a cone spell with a range of 15 ft will extend up to 15 ft away from the point of origin, and at any point, its width matches its length.
 
@@ -1023,7 +1023,7 @@ Shields generally takes up one of the character's hands when in use. Characters 
 
 ### Defending against Injury with multiple Damage Types
 
-In the rare case where a character is having to defend from an injury coming from multiple Damage Types, the Narrator can decide to use 1 of the 2 following rules:
+In the rare case where a character is having to defend from an injury coming from multiple Damage Types, the Narrator can decide to use one of the two following rules:
 
 1) The defending character can average add all the Defense's against the Damage Types in question, then divide by the number of Damage Types. The result can act as the Defense against the incoming attack.
 2) The attacking character has to choose which Damage Type is primary, which the defender will be able to defend against.
@@ -2798,7 +2798,7 @@ Depending on the Tier Of Play Level the Narrator starts the Player Character off
 
 If the Player already picked an archetype for there Player Character, they've probably already have a good idea of a Vocation they should take. For instance, if they wanted to play a Rogue archetype, than their Vocation could just be Rogue.
 
-Attributes represent the innate characteristics of your character. They have one of the largest impacts on a character so Player's should choose wisely. Most often Players should choose attributes that make sense given their Vocation. Strength for Barbarian, Reflex for Rogue, Intelligence for Wizard, Charisma for Bards, etc...
+Attributes represent the innate characteristics of your character. They have one of the largest impacts on a character so Players should choose wisely. Most often Players should choose attributes that make sense given their Vocation. Strength for Barbarian, Reflex for Rogue, Intelligence for Wizard, Charisma for Bards, etc...
 
 Each Skill Point can be used to increase one Core Skill, Vocation, or Combat Vocational Skill level by 1. Combat Vocational Skills are skills that are used for making Combat Rolls, including all Weapon Combat Vocational Skills and Magic Combat Vocational Skills.
 
@@ -2822,7 +2822,7 @@ If the setting doesn't have a pre-built economy system, then the players and Nar
 
 A Weapon Combat Vocational Skill covers the use of a group of similar weapons. For instance, the "Medium Melee" Weapon Combat Vocational Skill covers the use of all Medium Melee weapons.
 
-All Weapon Combat Vocational Skills have the governing attributes of STR, RFX, and INT. This is to reflect that the stronger, faster, and smarter a character is, the more lethal they are in combat regardless of the weapon. A STR character hits harder, is tougher, and is more conditioned for combat. A RFX character hits faster and is harder to pin down. An INT character hits smarter and uses tactics. It is the Player's/Narrator's job to flavor their attacks to reflect how they are leveraging their innate attributes as they fight.
+All Weapon Combat Vocational Skills have the governing attributes of STR, RFX, and INT. This is to reflect that the stronger, faster, and smarter a character is, the more lethal they are in combat regardless of the weapon. A STR character hits harder, is tougher, and is more conditioned for combat. A RFX character hits faster and is harder to pin down. An INT character hits smarter and uses tactics. It is the Player/Narrator job to flavor their attacks to reflect how they are leveraging their innate attributes as they fight.
 
 ### Weapon Combat Skill Transfer
 
