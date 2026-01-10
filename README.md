@@ -9,7 +9,7 @@ Fogent Roleplay is an open source TTRPG (Table Top Roleplay Game) intended to re
 What makes Fogent Roleplay different then other popular Table Top Roleplay Games:
 
 - **Narrative Focused:** Most TTRPGs feel very different in and out of combat, with non-combat roleplay having great narrative flow where player characters can attempt almost anything, but once combat is entered it feels more like a video game where characters can only perform the exact actions as described in the rules. Fogent Roleplay elegantly handles combat within the narrative flow while still having balanced/tactical combat. Combat in Fogent Roleplay feels more like an awesome fight scene in a movie, rather than video game characters hitting each other until they reach 0 HP.
-- **Offloading Complexity to the Narrative:** The rules are purposefully built to offload as much complexity to the narrative as possible. Instead of every rule complexity/edge case turing into a legal battle between the players and Narrator, it just becomes a discussion about what would narratively make sense. Therefore, what is best for your character mechanically, what logically makes sense in the context of the setting, and what is most narratively satisfying are the same thing in Fogent Roleplay!
+- **Offloading Complexity to the Narrative:** The rules are purposefully built to offload as much complexity to the narrative as possible. Instead of every rule complexity/edge case turing into a legal battle between the players and the Narrator, it just becomes a discussion about what would narratively make sense. Therefore, what is best for your character mechanically, what logically makes sense in the context of the setting, and what is most narratively satisfying are the same thing in Fogent Roleplay!
 - **Making the Narrator's Job Easy:** Fogent Roleplay is neither designed to nor intends to have a rule for every minute situation. Instead, we want to give the Narrator a multi-tool of powerful, flexible, and intuitive rules. We want a Narrator's pre-game prep to primarily consist of creating insane plot twists, designing cool combat encounters, crafting awesome magic items, figuring out how a player character's backstory ties into the story, ect... rather than spending hours understanding needlessly complex rules.
 - **Simple, Elegant, and Intuitive Rules:** While other TTRPGs require multiple books worth of rules to play, by contrast, Fogent Roleplay has ~40 pages of core rules, much of which consist of examples. This makes Fogent Roleplay extremely easy for new Players/Narrators to pick up. It is very common to spend 10 - 15 min explaining the rules from a macro level before diving into the game/story, as playing is the best way to learn.
 - **Setting Agnostic:** Fogent Roleplay and it's rules aren't tied any setting. It is designed from the ground up to easily run games in existing settings or in brand-new ones you create. This way, your group can learn one system to play in various settings such as medieval fantasy, cyberpunk, galactic warfare, survival horror, etc... This makes Fogent Roleplay great for world builders and authors looking to collaboratively create/reveal their setting.
@@ -2731,7 +2731,7 @@ A Tier Of Play narratively describes the stakes of the campaign/one-shot as well
 
 ### Step 2: Start with an archetype
 
-Picking an archetype is an excellent starting point for a Player Character. Choosing an archetype isn't meant to be rigid but is meant to serve as a jumping off point. These archetypes can of course depends on the setting you are playing in, though you'd be surprised how much a wizards in a fantasy setting is narratively similar to a mad scientist in a science fiction setting. 
+Picking an archetype is an excellent starting point for a Player Character. Choosing an archetype isn't meant to be rigid but is meant to serve as a jumping off point. These archetypes can of course depends on the setting you are playing in, though you'd be surprised how much a wizards in a fantasy setting is narratively similar to a mad scientist in a science fiction setting.
 
 What follows is a non-exhaustive list of some common archetypes found in fantasy.
 
@@ -2773,7 +2773,7 @@ What follows is a non-exhaustive list of some common archetypes found in fantasy
 
 ### Step 3: Write a rough Backstory
 
-Given the Setting, the Tier of Play, and the archetype chosen, write a rough backstory for the Player Character. You'll come back later at the end to polish it, but just get across the broad strokes at this stage. 
+Given the Setting, the Tier of Play, and the archetype chosen, write a rough backstory for the Player Character. You'll come back later at the end to polish it, but just get across the broad strokes at this stage.
 
 Here are some important questions to ask about your character:
 
