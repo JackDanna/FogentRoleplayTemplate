@@ -38,7 +38,7 @@ YouTube: [Javk Wick Youtube Channel](https://www.youtube.com/channel/UCIozVe_NJI
 
 ## Cogent Roleplay Open License
 
-Fogent Roleplay is developed based on Cogent Roleplay and with appreciation to its creators is under the the Cogent Roleplay Open License. All game mechanics and game systems built on top of Cogent Roleplay within this document are open and freely available for anyone to re-use, include, adapt or develop, in their projects that are also based on Cogent Roleplay. Any use of game mechanics and game systems from this document requires attribution to this document for the said mechanics/systems, along with a link back to Fogent Roleplay.
+Fogent Roleplay is developed based on Cogent Roleplay and with appreciation to its creators is under the Cogent Roleplay Open License. All game mechanics and game systems built on top of Cogent Roleplay within this document are open and freely available for anyone to re-use, include, adapt or develop, in their projects that are also based on Cogent Roleplay. Any use of game mechanics and game systems from this document requires attribution to this document for the said mechanics/systems, along with a link back to Fogent Roleplay.
 
 All intellectual property (characters, brands, stories, designs, etc) contained within the settings section are entirely owned by the creator of said setting and are not subject to the Cogent Roleplay Open Source license.
 
@@ -106,7 +106,7 @@ Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentrol
 
 A Dice Pool is a collection of dice that when rolled determines how many "wins" where achieved. D6 dice (otherwise known as six-sided dice) are the most common dice used, though D4, D8, D10, D12, and D20 are also used.
 
-After the Dice Pool has been rolled, the amount of "wins" from the roll are counted. Any rolled dice that gets a 4 or greater counts as a win. D6 dice have a 50% chance of rolling a win, as 4, 5, and 6 on the D6 are wins. D4s only have a 25% chance of a win, since only the 4 on the dice counts as a win. In general, the more dice and the more faces the dice have, the better the chances are of getting more wins.
+After the Dice Pool has been rolled, the amount of "wins" from the roll are counted. Any rolled dice that get a 4 or greater counts as a win. D6 dice have a 50% chance of rolling a win, as 4, 5, and 6 on the D6 are wins. D4s only have a 25% chance of a win, since only the 4 on the dice counts as a win. In general, the more dice and the more faces the dice have, the better the chances are of getting more wins.
 
 | Dice Type | Probability of Win |
 | :-------: | :----------------: |
@@ -140,7 +140,7 @@ Base Dice make up that base of every Dice Pool. Base Dice are always represented
 
 A Dice Pool may incur a penalty that removes dice. If so, first add up the Dice Pool without any of the penalties. Then, to remove dice, always remove the lowest-sided dice first. For instance, d4 dice are always removed first, then d6, and so on.
 
-A "Standing Dice Pool" refers to a Dice Pool that has already rolled, where it results will "stand" within the narrative until the Narrator determines otherwise. The rolled Dice Pool shouldn't be altered until the Narrator determines otherwise, as it will be used determine multiple narrative outcomes. The same rules for removing dice apply to a Standing Dice Pool, however, when deciding which dice to remove of the same type, always remove dice from left to right. This is to leave it up to chance if the dice removed was a win or not. With physical dice, you can just roughly straighten out the dice and begin removing in that order.
+A "Standing Dice Pool" refers to a Dice Pool that has already rolled, where its result will "stand" within the narrative until the Narrator determines otherwise. The rolled Dice Pool shouldn't be altered until the Narrator determines otherwise, as it will be used determine multiple narrative outcomes. The same rules for removing dice apply to a Standing Dice Pool, however, when deciding which dice to remove of the same type, always remove dice from left to right. This is to leave it up to chance if the dice removed was a win or not. With physical dice, you can just roughly straighten out the dice and begin removing in that order.
 
 ## Challenge Level
 
@@ -159,13 +159,13 @@ Challenge Level represents the difficulty of a task set by the Narrator proporti
 |   8   |    Inconceivable     |
 |   9   |      Legendary       |
 
-Pay attention the description of each Challenge Level. They are intended help Narrators and Players both intuitively understand how hard something should be within the narrative of the story.
+Pay attention to the description of each Challenge Level. They are intended help Narrators and Players both intuitively understand how hard something should be within the narrative of the story.
 
-For example, Javk Wick the Rogue hoist his unconscious injured ally onto his shoulders to get them both to safety. The Narrator determines that picking up someones limp body and getting them to your shoulders is neither a "Trivial" or "Common" thing to do for the average person. The Narrator sets the Challenge Level at "Uncommon" (CL 2) using the Lift Skill. If the ally was instead conscious, the Narrator might only set the Challenge Level to "Common" (CL 1) as hoisting an unconscious limp body is far harder than a conscious compliant one.
+For example, Javk Wick the Rogue hoists his unconscious injured ally onto his shoulders to get them both to safety. The Narrator determines that picking up someone's limp body and getting them to your shoulders is neither a "Trivial" or "Common" thing to do for the average person. The Narrator sets the Challenge Level at "Uncommon" (CL 2) using the Lift Skill. If the ally was instead conscious, the Narrator might only set the Challenge Level to "Common" (CL 1) as hoisting an unconscious limp body is far harder than a conscious compliant one.
 
 ## Attribute
 
-An Attribute represent the innate characteristics of a character. Each level of an Attribute corresponds with a narrative significance. Level 0 in an Attribute should refer to an average person in the world.
+An Attribute represents the innate characteristics of a character. Each level of an Attribute corresponds with a narrative significance. Level 0 in an Attribute should refer to an average person in the world.
 
 | Level | Description |
 | :---: | :---------: |
@@ -252,7 +252,7 @@ Represents a character's innate personal magnetism, persuasiveness, appearance, 
 
 ## Skill
 
-A Skill represent certain tasks or actions a character can perform.
+A Skill represents certain tasks or actions a character can perform.
 
 ### Skill Level
 
@@ -289,7 +289,7 @@ A character wants to pick up an entire large heavy treasure chest by themselves 
 
 The Narrator determines this a Specialized task (CL 3), not only for the weight of the chest but for how cumbersome it is for one person to move. The character gets 2 Wins on their Lift check. They are not able to get the chest up the stairs.
 
-After a short rest, both the original character and one of there teammates decide to pick up the chest together. The Narrator assigns this a Common task (CL 1) since people do this every day. The two characters both roll their Lift check. One gets 2 wins and the other gets 1 win. The average is 1.5, which rounds down to 1. They can move the chest up the stairs.
+After a short rest, both the original character and one of their teammates decide to pick up the chest together. The Narrator assigns this a Common task (CL 1) since people do this every day. The two characters both roll their Lift check. One gets 2 wins and the other gets 1 win. The average is 1.5, which rounds down to 1. They can move the chest up the stairs.
 
 ## Core Skill
 
@@ -359,7 +359,7 @@ Vocation Level measures how good a character is at a specific vocation. Vocation
 
 ### Vocational Skill
 
-A Vocational Skill is a Skill that fall under a Vocation. The Skill Level of a Vocational Skill cannot exceed the Vocation Level of the Vocation it falls under.
+A Vocational Skill is a Skill that falls under a Vocation. The Skill Level of a Vocational Skill cannot exceed the Vocation Level of the Vocation it falls under.
 
 **Name:** This is the name of the Vocational Skill.
 
