@@ -92,7 +92,7 @@ One-handed Thrown Medium Spear,"Thrown Javelins, etc...",Innate,Indefinite,One-h
 One-handed Thrown Large Spear,Thrown two-handed spears.,Innate,Indefinite,One-handed,Thrown Large Spear,"Thrown Large Spear, 1",+0,+1d6,3,"Short (Normal), Short (Disadvantage), Short (Super Disadvantage)",Quick,None,Pierce,Large Melee
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-One-handed Blowgun with Poison Blowgun Dart,A long narrow tube that propels darts using the force of the force of the users's breath.,Innate,Indefinite,One-handed,Blowgun,"Poison Blowgun Dart, 1",+0,+1d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,Poison,Exotic Ranged
+One-handed Blowgun with Poison Blowgun Dart,A long narrow tube that propels darts using the force of the users's breath.,Innate,Indefinite,One-handed,Blowgun,"Poison Blowgun Dart, 1",+0,+1d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,Poison,Exotic Ranged
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 One-handed Sling with Standard Sling Bullet,A flexible strap used to hurl small objects.,Innate,Indefinite,One-handed,Sling,"Standard Sling Bullet, 1",+0,+0d6,0,"Mediocre (Normal), Mediocre (Disadvantage), Mediocre (Super Disadvantage)",Quick,None,Bludgeon,Exotic Ranged
