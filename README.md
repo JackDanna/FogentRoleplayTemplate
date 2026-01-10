@@ -247,8 +247,8 @@ Represents a character's innate personal magnetism, persuasiveness, appearance, 
 |        4        |  Demigod tier manipulator or reality-bending charm (e.g., Loki)   |
 |        5        | Divine-level influence or irresistible presence (e.g., Aphrodite) |
 
-* A character with positive CHA is more capable of leveraging their force of personality within social situations. For each level above 0 in CHA, a character can give themselves advantage once per day on a social skill check that has CHA as one of it's governing attributes.
-* A character with negative CHA is less capable of leveraging their force of personality within social situations. For each level below 0 in CHA, the narrator can give a character disadvantageous per day on a social skill check that has CHA as one of it's governing attributes.
+* A character with positive CHA is more capable of leveraging their force of personality within social situations. For each level above 0 in CHA, a character can give themselves advantage once per day on a social skill check that has CHA as one of its governing attributes.
+* A character with negative CHA is less capable of leveraging their force of personality within social situations. For each level below 0 in CHA, the narrator can give a character disadvantage once per day on a social skill check that has CHA as one of its governing attributes.
 
 ## Skill
 
