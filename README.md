@@ -524,7 +524,7 @@ In the extreme case that a character has Super Advantage and Super Disadvantage,
 
 With Assists, a character can give Advantage (or if rolled poorly, Disadvantage) with an "assisting" Dice Pool Skill Check to a "primary" Dice Pool Skill Check. Characters can Assist themselves or another character. The "assisting" Dice Pools must be rolled first.
 
-It must make logical sense to the Narrator as to why the "assisting" Dice Pool would aid the "primary" Dice Pool. Player's should recognize when they are stretching logic and Narrators should recognize when the player's come up with creative applications of Assists. It's up to the players and the Narrator to explain/negotiate how these assists make logical sense for the current circumstance.
+It must make logical sense to the Narrator as to why the "assisting" Dice Pool would aid the "primary" Dice Pool. Players should recognize when they are stretching logic and Narrators should recognize when the players come up with creative applications of Assists. It's up to the players and the Narrator to explain/negotiate how these assists make logical sense for the current circumstance.
 
 Assists can never use the same Skill for the "assisting" and "primary" Dice Pools. For instance, a character could never assist another character's Lift Check with their own Lift Check, they would instead use the Collaboration Skill Check rules.
 
@@ -550,7 +550,7 @@ The Narrator agrees as it makes logical sense. The Narrator sets the CL of the A
 
 Javk Wick the rogue is in combat. Javk and his enemy are in melee combat and the ground is covered in oil. The Narrator declares that anyone standing in the slick oil has Disadvantage on their combat roll. Javk's player asks the Narrator if he could Assist his combat roll with his dagger with Dexterity. Javk's player wants to use his character's balance and fancy foot work to nullify the Disadvantage from the slippery oil.
 
-The Narrator agrees, setting the Assist to CL 3 due to the slippery oil patches cover the floor. Javk gets 4 Wins from his Assist, giving him advantage on his dagger's combat roll. The Advantage and Disadvantage cancel out leaving him with a normal roll.
+The Narrator agrees, setting the Assist to CL 3 due to the slippery oil patches covering the floor. Javk gets 4 Wins from his Assist, giving him advantage on his dagger's combat roll. The Advantage and Disadvantage cancel out leaving him with a normal roll.
 
 ## The Fate Roll
 
@@ -699,7 +699,7 @@ For example let's say we want to add gradations to how effective a modern hand g
 
 If Area Of Effects from an action overlap each other, then the most advantageous Area Of Effects can be used.
 
-Area Of Effects with a "... Per Dice" column can scales with the size of the Governing Skill Dice Pool. For example, this could be used for a magic users to have the size of their area of effects scaling with their proficiency with their magic.
+Area Of Effects with a "... Per Dice" column can scale with the size of the Governing Skill Dice Pool. For example, this could be used for a magic users to have the size of their area of effects scaling with their proficiency with their magic.
 
 ### Box
 
@@ -727,7 +727,7 @@ Point of Origin: The center of the Sphere
 
 Point of Origin: A Cone point of origin will be the narrowest point of the cone, from which it will emanate out from.
 
-If a cone has an angle of 53.13 degrees, then the cone's width is equal to its length at any given point. which means that the cone's area of effect is specified by its maximum length. For example, a cone spell with a range of 15 ft will extend up to 15 ft away from the point of origin, and at any point, its width matches its length.
+If a cone has an angle of 53.13 degrees, then the cone's width is equal to its length at any given point. Which means that the cone's area of effect is specified by its maximum length. For example, a cone spell with a range of 15 ft will extend up to 15 ft away from the point of origin, and at any point, its width matches its length.
 
 |          Name           | Angle | Length Base | Length Per Dice |
 | :---------------------: | :---: | :---------: | :-------------: |
@@ -833,7 +833,7 @@ All effect have a "Name", "Description", "Duration", and "Source" though they ma
 
 **Duration:** Describes how long the Effect itself will be active.
 
-**Source:** Describes where the effect came from. If the Effect is innate to the character, such as using their bare hands as weapons, use "Innate". If an Effect is coming from an item, such as a magic ring, use the name of the item. If from so 4th wall breaking source, such as special Effects only given to players, use "The Narrator".
+**Source:** Describes where the effect came from. If the Effect is innate to the character, such as using their bare hands as weapons, use "Innate". If an Effect is coming from an item, such as a magic ring, use the name of the item. If from some 4th wall breaking source, such as special Effects only given to players, use "The Narrator".
 
 **Examples:**
 
