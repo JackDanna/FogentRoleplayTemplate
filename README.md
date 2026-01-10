@@ -430,7 +430,7 @@ A Vocational Skill is a Skill that falls under a Vocation. The Skill Level of a 
 
 Vocational Skills can often resolve in a single roll what without it would turn into a sequence of possibly more difficult Core Skill checks, which opens up more possibilities for failure.
 
-For example, a Warrior and Rogue are trying to pickpocket a letter from a courier. The Warrior wants to try first, so the Narrator has the Warrior describe how he will accomplish this. The Warrior first say he will try to determine the optimal spot along the courier's path to get close without raising suspicion, then he will roughly bump into the courier, help pick up the now scattered letters, then quickly pocket the letter in question before the courier can notice. The Narrator first asks the Warrior to make a series of checks starting with a Knowledge Check, and then a Dexterity check. If at any point during the checks, if the Warrior had failed a check his plan could've been ruined. However, if the Rogue has the Pickpocketing Vocational Skill, he would have had to only roll one check in a Skill he is likely more proficient at since he didn't have to invest into 2 different Skills.
+For example, a Warrior and Rogue are trying to pickpocket a letter from a courier. The Warrior wants to try first, so the Narrator has the Warrior describe how he will accomplish this. The Warrior first says he will try to determine the optimal spot along the courier's path to get close without raising suspicion, then he will roughly bump into the courier, help pick up the now scattered letters, then quickly pocket the letter in question before the courier can notice. The Narrator first asks the Warrior to make a series of checks starting with a Knowledge Check, and then a Dexterity check. If at any point during the checks, if the Warrior had failed a check his plan could've been ruined. However, if the Rogue has the Pickpocketing Vocational Skill, he would have had to only roll one check in a Skill he is likely more proficient at since he didn't have to invest into 2 different Skills.
 
 When determining what a Vocational Skill's Governing Attributes would be, it is often handy to ask what sequence of Core Skills would be required to attempt the same thing. Based on what Core Skills a character would've had to perform, you can usually infer what Governing Attributes the Vocational Skill will have. Below are some examples of Vocational Skills for certain Vocations.
 
@@ -542,7 +542,7 @@ The Narrator agrees as it makes logical sense. The Narrator sets a CL 3 Performa
 
 **Example 2:**
 
-Javk Wick the rogue is sneak his way into a guarded castle. Javk's player asks the Narrator if he could assist his Stealth check to sneak up with his Infiltration Knowledge Vocational Skill. In this example, Stealth is the "primary" Dice Pool and Infiltration Knowledge is the "assisting" Dice Pool.
+Javk Wick the rogue is sneaking his way into a guarded castle. Javk's player asks the Narrator if he could assist his Stealth check to sneak up with his Infiltration Knowledge Vocational Skill. In this example, Stealth is the "primary" Dice Pool and Infiltration Knowledge is the "assisting" Dice Pool.
 
 The Narrator agrees as it makes logical sense. The Narrator sets the CL of the Assist at 3. Javk gets 4 Wins from his Assist, giving him advantage on his Stealth check.
 
@@ -695,7 +695,7 @@ If an Area Of Effect specifies "(Disadvantage)", "(Super Disadvantage)", "(Advan
 
 Often, an action will have multiple Area Of Effects, such as when trying to add gradations of effectiveness to some action.
 
-For example let's say we want to add gradations to how effective a modern hand grenade is. We will use 3 nested Spheres. The inner most Area Of Effect Sphere will represent the "kill radius" for our explosion, so we'll specify "(Normal)" in its name. The middle Area Of Effect Sphere will represent the "casualty radius" where your more likely to get injured than die, so we'll specify "(Disadvantage)" in its name. The outer most Sphere will represent where you'd be mostly safe but might catch a unlucky piece of shrapnel, so we'll specify "(Super Disadvantage)" on its name. So our grenade action's Area Of Effects would be "Grenade Explosion (Normal), Grenade Explosion (Disadvantage), Grenade Explosion (Super Disadvantage)".
+For example let's say we want to add gradations to how effective a modern hand grenade is. We will use 3 nested Spheres. The inner most Area Of Effect Sphere will represent the "kill radius" for our explosion, so we'll specify "(Normal)" in its name. The middle Area Of Effect Sphere will represent the "casualty radius" where you're more likely to get injured than die, so we'll specify "(Disadvantage)" in its name. The outer most Sphere will represent where you'd be mostly safe but might catch a unlucky piece of shrapnel, so we'll specify "(Super Disadvantage)" on its name. So our grenade action's Area Of Effects would be "Grenade Explosion (Normal), Grenade Explosion (Disadvantage), Grenade Explosion (Super Disadvantage)".
 
 If Area Of Effects from an action overlap each other, then the most advantageous Area Of Effects can be used.
 
@@ -727,7 +727,7 @@ Point of Origin: The center of the Sphere
 
 Point of Origin: A Cone point of origin will be the narrowest point of the cone, from which it will emanate out from.
 
-If a cone has an angle of 53.13 degrees, than the cone's width is equal to its length at any given point. which means that the cone's area of effect is specified by its maximum length. For example, a cone spell with a range of 15 ft will extend up to 15 ft away from the point of origin, and at any point, its width matches its length.
+If a cone has an angle of 53.13 degrees, then the cone's width is equal to its length at any given point. which means that the cone's area of effect is specified by its maximum length. For example, a cone spell with a range of 15 ft will extend up to 15 ft away from the point of origin, and at any point, its width matches its length.
 
 |          Name           | Angle | Length Base | Length Per Dice |
 | :---------------------: | :---: | :---------: | :-------------: |
@@ -747,7 +747,7 @@ If a cone has an angle of 53.13 degrees, than the cone's width is equal to its l
 
 ### Range and Area Of Effects
 
-If an action, such as an attack or spell, has a Range and an Area Of Effect, then the Range describe how far away the point of origin can be for the Area Of Effect.
+If an action, such as an attack or spell, has a Range and an Area Of Effect, then the Range describes how far away the point of origin can be for the Area Of Effect.
 
 When cases arise were an action is performed with a combination of a Range with Advantage/Disadvantage and Area Of Effect with Advantage/Disadvantage, simply use the "Multiple Advantages and Disadvantages on a roll" rule.
 
@@ -787,7 +787,7 @@ If Uses Per Round is greater than 1 and has a decimal, round down to the nearest
 
 On a round where an action IS prepared (example: your Heavy Crossbow is loaded), you can perform the action 1 time.
 
-On a round where an action is NOT prepared (example: your Heavy Crossbow is unloaded), if the Uses Per Round calculation result is greater than or equal to 0.5 and less than 1, 1 round must be spend preparing in order to use this action again. If the result is greater than 0 and less 0.5, your character must spend 2 rounds preparing.
+On a round where an action is NOT prepared (example: your Heavy Crossbow is unloaded), if the Uses Per Round calculation result is greater than or equal to 0.5 and less than 1, 1 round must be spent preparing in order to use this action again. If the result is greater than 0 and less 0.5, your character must spend 2 rounds preparing.
 
 While preparing the "Off Guard" Combat Modifier is gained. If engaged during this time characters can still attempt to perform an Evasion Roll.
 
@@ -809,7 +809,7 @@ A Destiny Point represents a player's ability to tip the scales of fate in favor
 
 Destiny Point Effects are for the following two kinds of characters:
 
-- Player Characters are given "Destiny Points" and "Destiny Resistance" by default. "Destiny Points" allows players to influence the story at key moments they decide. "Destiny Resistance" is mainly to prevent Player Characters from wasting all there Destiny Points against one another on silly rolls.
+- Player Characters are given "Destiny Points" and "Destiny Resistance" by default. "Destiny Points" allows players to influence the story at key moments they decide. "Destiny Resistance" is mainly to prevent Player Characters from wasting all their Destiny Points against one another on silly rolls.
 - Villain/Boss NPC can be given different combinations of these effects to dramatically increase how dangerous they are. Nothing scares players quite like telling them Destiny Points don't work versus a powerful foe...
 
 Destiny points are awarded when players perform actions that the Narrator wants to encourage.
@@ -837,7 +837,7 @@ All effect have a "Name", "Description", "Duration", and "Source" though they ma
 
 **Examples:**
 
-All of the following examples could effect the narrative.
+All of the following examples could affect the narrative.
 
 - A character's backstory (Narrative Effect)
 - An item that give the wielder a healing factor while equipped (Narrative Effect)
@@ -944,7 +944,7 @@ Adds or subtracts dice from the specified Skills/Vocations Dice Pools.
 
 Defense is used to reduce incoming injuries from Damage Types by the equivalent amount of Defense against it. If a character has multiple Defenses, then add the values of the Defenses together for each Damage Type to get their Total Defense. If a totaled Defense to a specific Damage Type has a decimal place remainder, you'll round it down to the nearest whole number when reducing an injury with it.
 
-If a foe has a sufficiently high Defense to a certain Damage Type, then the best course of action is to circumvent it. For instance, a knight in full plate armor would be extremely difficult to injury from injuries caused by the Slash Damage Type. In these circumstances, the most efficient way of defeating a character in heavy armor is grappling them or tripping them and holding them down, just like in real life. Another option is to use an attack with a different Damage Type, such as spraying poison mist at them, to completely circumvent there high Slash defense.
+If a foe has a sufficiently high Defense to a certain Damage Type, then the best course of action is to circumvent it. For instance, a knight in full plate armor would be extremely difficult to injury from injuries caused by the Slash Damage Type. In these circumstances, the most efficient way of defeating a character in heavy armor is grappling them or tripping them and holding them down, just like in real life. Another option is to use an attack with a different Damage Type, such as spraying poison mist at them, to completely circumvent their high Slash defense.
 
 |           Name            |                        Description                         |  Duration  | Source | Slash | Pierce | Bludgeon |  Hew  | Ballistic | Shockwave | Fire  | Electric | Radiant | Acid  | Cold  | Silver | Poison | Necrotic | Bleed | Suffocation | Psychic | Spiritual |
 | :-----------------------: | :--------------------------------------------------------: | :--------: | :----: | :---: | :----: | :------: | :---: | :-------: | :-------: | :---: | :------: | :-----: | :---: | :---: | :----: | :----: | :------: | :---: | :---------: | :-----: | :-------: |
