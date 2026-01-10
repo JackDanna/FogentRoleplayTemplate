@@ -18,7 +18,7 @@ What makes Fogent Roleplay different than Cogent Roleplay:
 
 * **Innovation:** Whether it be rebalanced Core Skills, reworked Vocations, rebalanced weapons, an Advantage/Disadvantage system, rebalanced Destiny Point rules, automated character sheet support, etc... Fogent Roleplay has taken the best ideas of Cogent Roleplay to their logical conclusions while embracing innovation.
 * **Tactical Battle Map Combat:** Fogent Roleplay has rules to be run on a battle map. This allows for awesome tactical fight scenes where a character's positioning and surrounding environment factor into combat. While Fogent Roleplay combat can be run in the theater of the mind, it works even better on a battle map.
-* **Dice Pool Scaling:** Fogent Roleplay wants players to feel like ever small improvement has a tangible impact. To this end, whenever possible we scale off the size of dice pools of the various skills a character has for just about everything. If your character has a big Athletics dice pool, they are really fast both in and out of combat. Did you just improve your magic skill, well now all your lower level spells just got slightly increased range, area of effect, uses per round, etc...
+* **Dice Pool Scaling:** Fogent Roleplay wants players to feel like every small improvement has a tangible impact. To this end, whenever possible we scale off the size of dice pools of the various skills a character has for just about everything. If your character has a big Athletics dice pool, they are really fast both in and out of combat. Did you just improve your magic skill, well now all your lower level spells just got slightly increased range, area of effect, uses per round, etc...
 * **Pre-made Settings:** If you don't have the time to come up with an entire setting for your players to play in, Fogent Roleplay comes with pre-made campaign settings. This is an ongoing effort with more becoming available over time.
 * **Mature Ruleset:** Fogent Roleplay provides a mature and robust ruleset with no mechanical edge cases (if you can find one, please let us know). Not only were the rules battle-tested via 100+ sessions during its development, most of the rules have been converted into code equivalent logic. Since the resulting software works, the rules are mechanically robust.
 
@@ -1440,7 +1440,7 @@ Javk Wick the Rogue has two daggers he's dual-wielding. He wants to calculate th
 
 ## Victory Levels
 
-When two characters are engaged in combat, they will compare the results of their Combat Rolls. For every Win a character has over their opponents Wins, they gain a Victory Level. Victory Levels can then be used to determine the outcome of the engagement. Any combination of lower Victory Level outcomes is possible as long as they sum up to be less than or equal to the Victory Level achieved. For instance, with a Level 2 victory, a character could perform both a Stagger and a Minor Injury against their opponent.
+When two characters are engaged in combat, they will compare the results of their Combat Rolls. For every Win a character has over their opponent's Wins, they gain a Victory Level. Victory Levels can then be used to determine the outcome of the engagement. Any combination of lower Victory Level outcomes is possible as long as they sum up to be less than or equal to the Victory Level achieved. For instance, with a Level 2 victory, a character could perform both a Stagger and a Minor Injury against their opponent.
 
 It is mandatory that the player dealing the Victory Level outcome must describe in awesome detail how they are performing this action. Creativity is encouraged!
 
@@ -1774,11 +1774,11 @@ Within a Combat Round a character can declare all of the following actions withi
 
 - Perform a Combat Roll
 - Perform an Evasion Roll
-- Use Movement Speeds to move around the battefield
+- Use Movement Speeds to move around the battlefield
 
 #### Non-Standard Combat Actions
 
-Additionally, a character can declare actions as part of a Combat Round not explicitly covered by the Standard Combat Actions. These actions often time require a Skill Check mid combat to determine if they succeeded. Whether these Non-Standard Combat Actions are able to be performed within the time confines of a Combat Round and in addition to the other actions the character might be declaring it up to the Narrator. Often, the Narrator can allow these action to be attempted but can give some penalty to the Combat Roll's Uses Per Round or to Movement Speed to reflect how valuable time is being lost.
+Additionally, a character can declare actions as part of a Combat Round not explicitly covered by the Standard Combat Actions. These actions oftentimes require a Skill Check mid combat to determine if they succeeded. Whether these Non-Standard Combat Actions are able to be performed within the time confines of a Combat Round and in addition to the other actions the character might be declaring is up to the Narrator. Often, the Narrator can allow these actions to be attempted but can give some penalty to the Combat Roll's Uses Per Round or to Movement Speed to reflect how valuable time is being lost.
 
 Examples:
 
@@ -1793,7 +1793,7 @@ Once all characters have declared their actions, start with the actions of the h
 
 Though actions are happening simultaneously within a Combat Round, it's sometimes important to know which attack/actions happens before another, or who managed to perform their action a little bit faster than another. In these situations, characters with a higher Turn Order will always act first.
 
-At the beginning of the Action Phase, all players can roll their Dice Pools for the actions they expect to take that round, such as Combat Rolls. This is to help things combat move efficiently.
+At the beginning of the Action Phase, all players can roll their Dice Pools for the actions they expect to take that round, such as Combat Rolls. This is to help combat move efficiently.
 
 Rolled Combat Rolls and Evasion Rolls made during a round are considered Standing Dice Pools for the entire Combat Round. This is to remember how many Wins a character's Combat Roll or Evasion Roll got in case they are using them against multiple sources. This is also in case a character loses dice due to injury or if they gain Disadvantage/Advantage during the Combat Round, which will affect an already rolled Dice Pool. If your character gains Disadvantage or Advantage after they've already rolled their Combat Roll Dice Pool that Combat Round, you will retroactively apply said Disadvantage/Advantage to those Dice Pools. This could turn some dice that were wins into fails and vice versa.
 
@@ -1841,7 +1841,7 @@ The Archer declares he is going to shoot the Rogue with his bow as he uses his M
 
 The rogue declares he is going to close the distance, attack with the knife, and stay on the archer. If the Rogue pulls this off, it will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks.
 
-Since the Rogue has 5 ft more Dexterity Movement Speed, he can move those 5 feet before the archer can lose the arrow, closing the distance. Now they will make combat rolls versus one another, with the Archer being at a clear disadvantage.
+Since the Rogue has 5 ft more Dexterity Movement Speed, he can move those 5 feet before the archer can loose the arrow, closing the distance. Now they will make combat rolls versus one another, with the Archer being at a clear disadvantage.
 
 The Archer, now likely wounded from the Rogue's knife, tries to use the rest of his Movement Speed to stay out of range from the Rogue's knife. Assuming the Rogue has the same or greater remaining movement speed as the Archer, the Rogue stays on the Archer and the gap is 0 feet, ready to stab him again next round.
 
@@ -1855,13 +1855,13 @@ The Archer declares he is going to shoot the Rogue with his bow as he uses his M
 
 The Rogue declares he is going to close the distance, attack with his knife, and stay close to the Archer. If the Rogue pulls this off, it will be disadvantageous for the Archer since melee versus ranged combat in close quarters favors melee attacks.
 
-Since the Rogue has 5 ft more Dexterity Movement Speed, he can move those 5 feet before the archer can lose the arrow, closing the distance. With 10 feet between the Rogue and the Archer, the arrow is shot. The Rogue must now try and dodge the arrow, before he can attack, possibly proving fatal.
+Since the Rogue has 5 ft more Dexterity Movement Speed, he can move those 5 feet before the archer can loose the arrow, closing the distance. With 10 feet between the Rogue and the Archer, the arrow is shot. The Rogue must now try and dodge the arrow, before he can attack, possibly proving fatal.
 
 The Archer is then able to flee backward. Assuming he has the same or greater remaining movement speed than the possibly injured Rogue, the Archer can keep the 10 feet of distance between him and the rogue, never getting stabbed.
 
 **Example 3:**
 
-A Rogue with a dagger is trying to close the distance on an Knight who is 5 feet away standing in some slippery mud. The Knight is right on the edge of the mud pool, and the Rogue realizes if he can attack the Knight while he's standing in the mud, he has a better chance of defeating him.
+A Rogue with a dagger is trying to close the distance on a Knight who is 5 feet away standing in some slippery mud. The Knight is right on the edge of the mud pool, and the Rogue realizes if he can attack the Knight while he's standing in the mud, he has a better chance of defeating him.
 
 Their respective Dexterity Movement Speeds are 10 feet for the Rogue and 5 feet for the Knight.
 
@@ -1893,7 +1893,7 @@ For example, if a character has 30 feet of "Terrestrial" and 15 feet of "Climb C
 
 ### Mounted Movement Speed
 
-The rider's Dexterity dice pool size is used for the mounts Dexterity Movement Speed calculation. Additionally, when a mounted character or their mount takes an injury in combat, a Dexterity or Riding skill check equivalent to the injury level must be succeeded to stay on horseback, or else they are knocked off.
+The rider's Dexterity dice pool size is used for the mount's Dexterity Movement Speed calculation. Additionally, when a mounted character or their mount takes an injury in combat, a Dexterity or Riding skill check equivalent to the injury level must be succeeded to stay on horseback, or else they are knocked off.
 
 ## Healing Effects
 
@@ -2370,7 +2370,7 @@ When representing the contents of a container on a character sheet, a similar ta
 | Ring, Mundane |   1   |                    |  0.2  | 30 cc |             |
 | Copper Coin   |  70   |                    | 0.02  | 1 cc  |             |
 
-Characters will often stash or drop containers during combat as to not be in a heavier Weight Class. This is perfectly acceptable, but it is within the Narrators right to treat these items as fair game to be swiped by the enemy if an opportunity arises, however this might affect their Weight Class as well. Characters wishing to avoid having their loot stolen can keep it on their backs, by a mount to stash it on, increase their ability to carry heavier equipment, etc...
+Characters will often stash or drop containers during combat as to not be in a heavier Weight Class. This is perfectly acceptable, but it is within the Narrator's right to treat these items as fair game to be swiped by the enemy if an opportunity arises, however this might affect their Weight Class as well. Characters wishing to avoid having their loot stolen can keep it on their backs, by a mount to stash it on, increase their ability to carry heavier equipment, etc...
 
 ## Set Attribute Level Effect
 
