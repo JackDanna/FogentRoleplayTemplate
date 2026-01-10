@@ -2789,8 +2789,8 @@ Here are some important questions to ask about your character:
 - What are their beliefs/morality?
 - What are their goals/aspirations?
 - Do they have friends/family?
-- Do they have romantic interests/exes.
-- Why is this character going
+- Do they have romantic interests/exes?
+- Why is this character going on this adventure?
 
 ### Step 4: Build the Player Character up to the Tier Of Play Level
 
