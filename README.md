@@ -2631,7 +2631,7 @@ Disabling characteristics represent the flaws a character has. This is an essent
 
 Tier Of Play represents the how large the stakes are for a game/campaign aswell as how powerful/competent the player characters are.
 
-**Level:** Used to represent milestones a character has crossed corolating to an increase in skill/ability/compentence/ect... The Narrator can reward the Player Character's with an increase in their Level when they accomplish a milestone of thier choosing. Things like finishing a certain amount of real world sessions, completing a quest, defeating a powerful foe, etc... are all valid metrics for the Narrator to use.
+**Level:** Used to represent milestones a character has crossed corolating to an increase in skill, ability, compentence, etc... The Narrator can reward the Player Character's with an increase in their Level when they accomplish a milestone of thier choosing. Things like finishing a certain amount of real world sessions, completing a quest, defeating a powerful foe, etc... are all valid metrics for the Narrator to use.
 
 **Attribute Points:** The total points spent on increasing the levels of a character's Attributes.
 
