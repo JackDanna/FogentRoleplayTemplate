@@ -2445,7 +2445,7 @@ Sets the Skills/Vocations of a character to specified level. If the character's 
 
 ## Set Skill Base Dice Effect
 
-Sets a the tier of the Base Dice for the Skills/Vocations specified.
+Sets the tier of the Base Dice for the Skills/Vocations specified.
 
 **Affected Skills:** The Skills/Vocations that are affected.
 
@@ -2457,7 +2457,7 @@ Sets a the tier of the Base Dice for the Skills/Vocations specified.
 
 ## Adjusted Attribute Level Effect
 
-For a specified Attribute, a Character receives an adjustment to its level. The resulting level can not go outside the upper and lower bounds for a Attribute.
+For a specified Attribute, a Character receives an adjustment to its level. The resulting level cannot go outside the upper and lower bounds for an Attribute.
 
 **Affected Attributes:** The Attributes that are affected.
 
@@ -2469,7 +2469,7 @@ For a specified Attribute, a Character receives an adjustment to its level. The 
 
 ## Adjusted Skill Level Effect
 
-For a specified Skill/Vocation, a Character receives an adjustment to its level. The resulting level can not go outside the upper and lower bounds for a Skill/Vocation.
+For a specified Skill/Vocation, a Character receives an adjustment to its level. The resulting level cannot go outside the upper and lower bounds for a Skill/Vocation.
 
 **Affected Skills:** The Skills/Vocations that are affected.
 
@@ -2493,7 +2493,7 @@ Adjusts the tier of the base dice of a specified Skills/Vocations Dice Pools.
 
 ## Narrative Effect
 
-A Narrative Effect is a purely text based effect. It simply describes what it does and how it impact the Narrative.
+A Narrative Effect is a purely text based effect. It simply describes what it does and how it impacts the Narrative.
 
 #### Language
 
@@ -2624,11 +2624,11 @@ Disabling characteristics represent the flaws a character has. This is an essent
 |          Disabling: People Pleaser           |  Always try to make other people happy, even at their own expense.  | Indefinite | Backstory |
 |       Disabling: SKILL Overconfidence        |         Extremely overconfident in SKILL, cannot invest in.         | Indefinite | Backstory |
 |            Disabling: Illiterate             |                        Can't read or write.                         | Indefinite | Backstory |
-|         Disabling: Overly Nostalgic          |           Constantly reminiscing about the good old day.            | Indefinite | Backstory |
+|         Disabling: Overly Nostalgic          |           Constantly reminiscing about the good old days.           | Indefinite | Backstory |
 
 ## Tier Of Play
 
-Tier Of Play represents the how large the stakes are for a game/campaign aswell as how powerful/competent the player characters are.
+Tier Of Play represents how large the stakes are for a game/campaign as well as how powerful/competent the player characters are.
 
 **Level:** Used to represent milestones a character has crossed correlating to an increase in skill, ability, competence, etc... The Narrator can reward the Player Character's with an increase in their Level when they accomplish a milestone of their choosing. Things like finishing a certain amount of real world sessions, completing a quest, defeating a powerful foe, etc... are all valid metrics for the Narrator to use.
 
@@ -2722,15 +2722,15 @@ For first time Narrators/Players it can feel daunting to build a Player Characte
 
 ### Step 0: Understand the Setting
 
-It is imperative to have rough understanding of the setting/world the Player Character is going to be inhabiting. By no means do you need to be a lore expert, but you should have a rough idea of the major themes, technology level, and bedrock information for a resident of that world. It is the Narrators job to ensure this information if relayed so that everyone is on the same page.
+It is imperative to have rough understanding of the setting/world the Player Character is going to be inhabiting. By no means do you need to be a lore expert, but you should have a rough idea of the major themes, technology level, and bedrock information for a resident of that world. It is the Narrators job to ensure this information is relayed so that everyone is on the same page.
 
 ### Step 1: Understand what Tier Of Play you're playing
 
-A Tier Of Play narratively describes the stakes of the campaign/one-shot as well as how powerful/competent a Player Characters is expected to be. This balances the Players against each other and the challenges the Narrator has envisioned. The Narrator should let the Player's know the Tier Of Play Level their Player Character's will start at for the campaign/one-shot. Players should factor this into their Player Character as it would be silly to have a backstory paint them as a world conquering threat only to have them start as a novice adventure stat wise.
+A Tier Of Play narratively describes the stakes of the campaign/one-shot as well as how powerful/competent a Player Characters is expected to be. This balances the Players against each other and the challenges the Narrator has envisioned. The Narrator should let the Player's know the Tier Of Play Level their Player Character's will start at for the campaign/one-shot. Players should factor this into their Player Character as it would be silly to have a backstory paint them as a world conquering threat only to have them start as a novice adventurer stat wise.
 
 ### Step 2: Start with an archetype
 
-Picking an archetype is an excellent starting point for a Player Character. Choosing an archetype isn't meant to be rigid but is meant to serve as a jumping off point. These archetypes can of course depends on the setting you are playing in, though you'd be surprised how much a wizards in a fantasy setting is narratively similar to a mad scientist in a science fiction setting.
+Picking an archetype is an excellent starting point for a Player Character. Choosing an archetype isn't meant to be rigid but is meant to serve as a jumping off point. These archetypes can of course depend on the setting you are playing in, though you'd be surprised how much a wizard in a fantasy setting is narratively similar to a mad scientist in a science fiction setting.
 
 What follows is a non-exhaustive list of some common archetypes found in fantasy.
 
@@ -2796,7 +2796,7 @@ Here are some important questions to ask about your character:
 
 Depending on the Tier Of Play Level the Narrator starts the Player Character off at, follow the "Rewards Gained" step by step until the desired Level is reached to build the Player Character. This means whenever building a Player Character, start with the lowest Tier Of Play Level and work your way up.
 
-If the Player already picked an archetype for there Player Character, they've probably already have a good idea of a Vocation they should take. For instance, if they wanted to play a Rogue archetype, than their Vocation could just be Rogue.
+If the Player already picked an archetype for their Player Character, they've probably already have a good idea of a Vocation they should take. For instance, if they wanted to play a Rogue archetype, then their Vocation could just be Rogue.
 
 Attributes represent the innate characteristics of your character. They have one of the largest impacts on a character so Players should choose wisely. Most often Players should choose attributes that make sense given their Vocation. Strength for Barbarian, Reflex for Rogue, Intelligence for Wizard, Charisma for Bards, etc...
 
@@ -2883,7 +2883,7 @@ Once a skill's Dice Pool is equal to or greater than 8 dice you are considered a
 
 ### Turn Order not based on Dexterity
 
-If multiple characters have the same RFX level, they each roll a D20, where the highest resulting roll gets being higher in turn order declare later for the rest of the combat encounter.
+If multiple characters have the same RFX level, they each roll a D20, where the highest resulting roll gets to be higher in turn order and declare later for the rest of the combat encounter.
 
 ### Step 0: Javk Wick's character creation house rules (Optional)
 
@@ -2911,7 +2911,7 @@ The player characters are the main characters and main characters interact with 
 
 ### Item Durability
 
-This is an optional rule for setting where the durability of ones equipment has narrative significance. Using item durability is a great way to increase immersion (such as having to go to a blacksmith or learn to repair their gear) and challenge your players. However, for players who want a more casual experience, item durability can be disregarded.
+This is an optional rule for settings where the durability of one's equipment has narrative significance. Using item durability is a great way to increase immersion (such as having to go to a blacksmith or learn to repair their gear) and challenge your players. However, for players who want a more casual experience, item durability can be disregarded.
 
 With these rules, all weapons, armor, and spellcasting focuses now have durability. Whatever the Base Dice associated with that item determines how much durability it has. When an item's durability falls, each time your item's durability falls to the lower tier's max durability, that lower tier's base dice are used instead. For instance, if a character had a "Legendary" Base Dice sword with only 23 durability remaining they would be rolling the "Superior" Base Dice or "1d10, 2d8".
 
