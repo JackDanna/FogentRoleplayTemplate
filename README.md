@@ -63,7 +63,7 @@ Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentrol
   - [Tied Contested Checks](#tied-contested-checks)
   - [Advantage and Disadvantage](#advantage-and-disadvantage)
   - [Assists](#assists)
-  - [Base Dices](#base-dice-tiers)
+  - [Base Dice Tiers](#base-dice-tiers)
   - [Destiny Points](#destiny-points)
 - [Combat Rules](#combat-rules)
   - [Damage Types](#damage-types)
@@ -198,7 +198,7 @@ Represents a character's innate muscle strength, bone density, tendon strength, 
 
 ### Reflex (RFX)
 
-Represents a character's innate reflexes, reaction speed, nervous system, fine motor control, nimbleness, agility, quickness...
+Represents a character's innate reflexes, reaction speed, nervous system, fine motor control, nimbleness, agility, quickness, etc...
 
 | Attribute Level |                      Example                      |
 | :-------------: | :-----------------------------------------------: |
@@ -215,7 +215,7 @@ Represents a character's innate reflexes, reaction speed, nervous system, fine m
 
 ### Intelligence (INT)
 
-Represents a character's innate raw mental horsepower, IQ, consciousness, and mental/spiritual durability.
+Represents a character's innate raw mental horsepower, IQ, consciousness, mental/spiritual durability, etc...
 
 | Attribute Level |                                Example                                |
 | :-------------: | :-------------------------------------------------------------------: |
@@ -234,7 +234,7 @@ Represents a character's innate raw mental horsepower, IQ, consciousness, and me
 
 ### Charisma (CHA)
 
-Represents a character's innate personal magnetism, persuasiveness, appearance, force of personality, social grace, and ability to lead and inspire others.
+Represents a character's innate personal magnetism, persuasiveness, appearance, force of personality, social grace, ability to lead, inspire others, etc...
 
 | Attribute Level |                              Example                              |
 | :-------------: | :---------------------------------------------------------------: |
@@ -325,7 +325,7 @@ Vocations represent a character's job, class, or life path. A Player should chec
 
 **Name:** The name of the Vocation.
 
-**Governing Attributes:** The Attributes that govern the Vocation in question. A Vocation can have one or many Governing Attributes that logically would govern it. Determining what Governing Attributes a Vocational Skill will have is ultimately up to the Narrator. In general, if it is logical that some change to an Attribute would meaningfully benefit/hurt the Vocation in question, than it should be added.
+**Governing Attributes:** The Attributes that govern the Vocation in question. A Vocation can have one or many Governing Attributes that logically would govern it. Determining what Governing Attributes a Vocational Skill will have is ultimately up to the Narrator. In general, if it is logical that some change to an Attribute would meaningfully benefit/hurt the Vocation in question, then it should be added.
 
 **Vocational Skills:** These are the Vocational Skills that this Vocation enable the use of.
 
@@ -363,7 +363,7 @@ A Vocational Skill is a Skill that falls under a Vocation. The Skill Level of a 
 
 **Name:** This is the name of the Vocational Skill.
 
-**Governing Attributes:** The Attributes that govern the Vocational Skill in question. A Vocational Skill can have one or many Governing Attributes that logically would govern it, which can differ from the Vocation's Governing Attributes. Determining what Governing Attributes a Vocational Skill will have is ultimately up to the Narrator. In general, if it is logical that some change to an Attribute would meaningfully benefit/hurt the skill in question, than it should be added.
+**Governing Attributes:** The Attributes that govern the Vocational Skill in question. A Vocational Skill can have one or many Governing Attributes that logically would govern it, which can differ from the Vocation's Governing Attributes. Determining what Governing Attributes a Vocational Skill will have is ultimately up to the Narrator. In general, if it is logical that some change to an Attribute would meaningfully benefit/hurt the skill in question, then it should be added.
 
 **Description:** Describes how the Vocational Skill can be used.
 
@@ -432,7 +432,7 @@ Vocational Skills can often resolve in a single roll what without it would turn 
 
 For example, a Warrior and Rogue are trying to pickpocket a letter from a courier. The Warrior wants to try first, so the Narrator has the Warrior describe how he will accomplish this. The Warrior first say he will try to determine the optimal spot along the courier's path to get close without raising suspicion, then he will roughly bump into the courier, help pick up the now scattered letters, then quickly pocket the letter in question before the courier can notice. The Narrator first asks the Warrior to make a series of checks starting with a Knowledge Check, and then a Dexterity check. If at any point during the checks, if the Warrior had failed a check his plan could've been ruined. However, if the Rogue has the Pickpocketing Vocational Skill, he would have had to only roll one check in a Skill he is likely more proficient at since he didn't have to invest into 2 different Skills.
 
-When determining what a Vocational Skill's Governing Attributes would be, it is often handy to ask what sequence of Core Skills would be required to attempt the same thing. Based off what Core Skills a character would've had to performed, you can usually infer what Governing Attributes the Vocational Skill will have. Below are some examples of Vocational Skills for certain Vocations.
+When determining what a Vocational Skill's Governing Attributes would be, it is often handy to ask what sequence of Core Skills would be required to attempt the same thing. Based on what Core Skills a character would've had to perform, you can usually infer what Governing Attributes the Vocational Skill will have. Below are some examples of Vocational Skills for certain Vocations.
 
 | Vocation |                                                     Vocational Skills Examples                                                      |                  Governing Attributes for Vocation Skills Example                   |
 | :------: | :---------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
@@ -451,13 +451,13 @@ We set our "Rogue" Vocation Level to 2.
 
 For the Governing Attributes of Rogue, we take RFX and INT as our vocation would benefit from us being dexterous and cunning.
 
-We add "Lockpicking" as a Vocational Skill as it is something a Rogue would do. For it's Governing Attributes I give it RFX and INT, as being nimble with my fingers and understanding the mechanics of the lock would benefit this skill. We set the Skill Level to 2.
+We add "Lockpicking" as a Vocational Skill as it is something a Rogue would do. For its Governing Attributes I give it RFX and INT, as being nimble with my fingers and understanding the mechanics of the lock would benefit this skill. We set the Skill Level to 2.
 
-We add "Pickpocketing" as a Vocational Skill as it is something a Rogue would do. For it's Governing Attributes I give it RFX and INT as being nimble with my fingers and planning the perfect place to intercept the target would benefit this Skill. We set the Skill Level to 2.
+We add "Pickpocketing" as a Vocational Skill as it is something a Rogue would do. For its Governing Attributes I give it RFX and INT as being nimble with my fingers and planning the perfect place to intercept the target would benefit this Skill. We set the Skill Level to 2.
 
-We add "Infiltration Knowledge" as a Vocational Skill, as it is something a Rogue would do. For it's Governing Attributes, I give it just INT, as being more cunning would aid me as I lay out my plan. We set the Skill Level to 2.
+We add "Infiltration Knowledge" as a Vocational Skill, as it is something a Rogue would do. For its Governing Attributes, I give it just INT, as being more cunning would aid me as I lay out my plan. We set the Skill Level to 2.
 
-We add "Close Melee" as a Vocational Skill, as using a knife or blackjack would be something a Rogue would do. For it's Governing Attributes, I give it STR, RFX, and INT, as being stronger, faster, and smarter would all benefit this skill. We set the Skill Level to 1.
+We add "Close Melee" as a Vocational Skill, as using a knife or blackjack would be something a Rogue would do. For its Governing Attributes, I give it STR, RFX, and INT, as being stronger, faster, and smarter would all benefit this skill. We set the Skill Level to 1.
 
 Finally, I try to add "Fire Magic" as a Vocational Skill. After talking with the Narrator, we determine this is way outside of the scope of what a Rogue can do in their world. If we wanted a "Fire Magic" Vocational Skill, we'd have to spec into a Vocation like "Wizard" or "Mage".
 
@@ -474,7 +474,7 @@ Our character has 0 STR, 1 RFX, 1 INT, and 0 CHA.
 
 Contested Checks occur when two character's actions conflict. The most obvious example of this is fighting, though other examples include drinking contests, arm wrestling, or stealth vs perception.
 
-When a Tied Contested Check occurs, neither side makes any progress and the contested check is a stalemate. If this contested check happens within a combat round, than the stalemate is only applicable on that round. After The Narrator has narratively described the stalemate if both sides initiate the contested check again, they roll off again.
+When a Tied Contested Check occurs, neither side makes any progress and the contested check is a stalemate. If this contested check happens within a combat round, then the stalemate is only applicable on that round. After The Narrator has narratively described the stalemate if both sides initiate the contested check again, they roll off again.
 
 Sometimes, a character might actually want a stalemate with neither side making progress. Here are some examples:
 
@@ -568,7 +568,7 @@ Damage Types represent the various sources of injuries a character can receive.
 
 **Description:** A brief description of the Damage Type.
 
-**Optional Defending Skill:** The Skill that directly defends against the Damage Type. If it is "None", than no skill directly defends against the Damage Type.
+**Optional Defending Skill:** The Skill that directly defends against the Damage Type. If it is "None", then no skill directly defends against the Damage Type.
 
 |   Name    |                                     Description                                     | Optional Defending Skill |
 | :-------: | :---------------------------------------------------------------------------------: | :----------------------: |
@@ -613,9 +613,9 @@ Max Range = (Max Range Base) + ((Size of governing Skill Dice Pool) * (Max Range
 
 The result of calculating a range can be written as "(Range Name): (Min Range) - (Max Range) (Length Unit of Measure)", for example "Melee: 0 - 5 ft".
 
-If a Range specifies "(Normal)" as part of it's name, than the Dice Pool rolled for the action will do so normally. If "(Disadvantage)" is specified than the Dice Pool rolled for the action does so at Disadvantage. If "(Super Disadvantage)" is specified than the Dice Pool rolled for the action does so at Super Disadvantage.
+If a Range specifies "(Normal)" as part of its name, then the Dice Pool rolled for the action will do so normally. If "(Disadvantage)" is specified then the Dice Pool rolled for the action does so at Disadvantage. If "(Super Disadvantage)" is specified then the Dice Pool rolled for the action does so at Super Disadvantage.
 
-Often, an action will have multiple Ranges, usually done to denote different behavior. If the Ranges overlap each other, than the most advantageous Range can be used.
+Often, an action will have multiple Ranges, usually done to denote different behavior. If the Ranges overlap each other, then the most advantageous Range can be used.
 
 **Name:** The name of the range.
 
@@ -681,9 +681,9 @@ Often, an action will have multiple Ranges, usually done to denote different beh
 
 A character is trying to determine how far away they can shoot their fireball spell. It has the Ranges "Long (Normal), Long (Disadvantage), Long (Super Disadvantage)". The governing Skill's Dice Pool is 7d6.
 
-We'd calculate the "Long (Normal)" Range as follows. It's Min Range would 0 + (7 * 0) = 0. It's Max Range would be 0 + (7 * 20) = 140. So the result would be "Long (Normal): 0 - 140 ft".
+We'd calculate the "Long (Normal)" Range as follows. Its Min Range would 0 + (7 * 0) = 0. Its Max Range would be 0 + (7 * 20) = 140. So the result would be "Long (Normal): 0 - 140 ft".
 
-The final result of all of the Ranges would be "Long (Normal): 0 - 140 ft, Long (Disadvantage): 140 - 280 ft, Long (Super Disadvantage): 280 - 420 ft". Since "Long (Normal)" and "Long (Disadvantage)" overlap at 140 ft, if a target were engaged at that distance than we'd use "Long (Normal)" since it is the most advantageous.
+The final result of all of the Ranges would be "Long (Normal): 0 - 140 ft, Long (Disadvantage): 140 - 280 ft, Long (Super Disadvantage): 280 - 420 ft". Since "Long (Normal)" and "Long (Disadvantage)" overlap at 140 ft, if a target were engaged at that distance then we'd use "Long (Normal)" since it is the most advantageous.
 
 ## Area Of Effect
 
@@ -691,13 +691,13 @@ An Area Of Effect describes a 3D space. They can be used to describe any action 
 
 All Area Of Effects will have a point of origin from which they will emanate from. This will vary based on the different shapes of the Area of Effects.
 
-If an Area Of Effect specifies "(Disadvantage)", "(Super Disadvantage)", "(Advantage)", or "(Super Disadvantage)" as part of it's name than the Dice Pool that will be rolled for that action will gain the corresponding option from the "Advantage and Disadvantage" rules section.
+If an Area Of Effect specifies "(Disadvantage)", "(Super Disadvantage)", "(Advantage)", or "(Super Disadvantage)" as part of its name then the Dice Pool that will be rolled for that action will gain the corresponding option from the "Advantage and Disadvantage" rules section.
 
 Often, an action will have multiple Area Of Effects, such as when trying to add gradations of effectiveness to some action.
 
-For example let's say we want to add gradations to how effective a modern hand grenade is. We will use 3 nested Spheres. The inner most Area Of Effect Sphere will represent the "kill radius" for our explosion, so we'll specify "(Normal)" in it's name. The middle Area Of Effect Sphere will represent the "casualty radius" where your more likely to get injured than die, so we'll specify "(Disadvantage)" in it's name. The outer most Sphere will represent where you'd be mostly safe but might catch a unlucky piece of shrapnel, so we'll specify "(Super Disadvantage)" on it's name. So our grenade action's Area Of Effects would be "Grenade Explosion (Normal), Grenade Explosion (Disadvantage), Grenade Explosion (Super Disadvantage)".
+For example let's say we want to add gradations to how effective a modern hand grenade is. We will use 3 nested Spheres. The inner most Area Of Effect Sphere will represent the "kill radius" for our explosion, so we'll specify "(Normal)" in its name. The middle Area Of Effect Sphere will represent the "casualty radius" where your more likely to get injured than die, so we'll specify "(Disadvantage)" in its name. The outer most Sphere will represent where you'd be mostly safe but might catch a unlucky piece of shrapnel, so we'll specify "(Super Disadvantage)" on its name. So our grenade action's Area Of Effects would be "Grenade Explosion (Normal), Grenade Explosion (Disadvantage), Grenade Explosion (Super Disadvantage)".
 
-If Area Of Effects from an action overlap each other, than the most advantageous Area Of Effects can be used.
+If Area Of Effects from an action overlap each other, then the most advantageous Area Of Effects can be used.
 
 Area Of Effects with a "... Per Dice" column can scales with the size of the Governing Skill Dice Pool. For example, this could be used for a magic users to have the size of their area of effects scaling with their proficiency with their magic.
 
@@ -753,11 +753,11 @@ When cases arise were an action is performed with a combination of a Range with 
 
 ## Uses Per Round
 
-Uses Per Round represent the number of times an action can be preformed during a round. Taking firearms as an example, the faster the fire rate and easier it is to reload, the better it's Uses Per Round should be. A flintlock pistol should have a far slower Uses Per Round as compared to a semi-automatic pistol.
+Uses Per Round represent the number of times an action can be performed during a round. Taking firearms as an example, the faster the fire rate and easier it is to reload, the better its Uses Per Round should be. A flintlock pistol should have a far slower Uses Per Round as compared to a semi-automatic pistol.
 
 If a character completely depletes their Uses Per Round for a combat round they can no longer use their Combat Roll for that combat round and are instead forced to use an Evasion Roll if they are being engaged.
 
-If Optional Max is a number than it describes an upper bound for the Uses Per Round's calculation result. If it's "None" than there is no upper bound.
+If Optional Max is a number then it describes an upper bound for the Uses Per Round's calculation result. If it's "None" then there is no upper bound.
 
 Uses Per Round = (Uses Per Round Base) + ( (Uses Per Round Per Dice) * (Size of governing Skill Dice Pool) )
 
@@ -894,7 +894,7 @@ Weight Class represent the physical strain of carrying equipment. Some character
 
 Adds or subtracts dice from the specified Skills/Vocations Dice Pools.
 
-**Affected Skills:** The Skills/Vocations that are effected.
+**Affected Skills:** The Skills/Vocations that are affected.
 
 **Dice Pool Modifier:** The Dice Pool Modifier that will be applied to the Dice Pools.
 
@@ -1113,7 +1113,7 @@ Represents a pool of resources which can represent whatever a the Narrator desir
 
 **Amount:** This is the starting amount of resource.
 
-**Optional Resource Pool Max:** If "None", than there is no maximum amount of resource for the Resource Pool. Otherwise, if it's the Name of a Resource Pool Max Calculation than the result of the calculation will act as the maximum value. Lastly, if it's a number than it signifies the maximum amount of resource the Resource Pool can hold.
+**Optional Resource Pool Max:** If "None", then there is no maximum amount of resource for the Resource Pool. Otherwise, if it's the Name of a Resource Pool Max Calculation then the result of the calculation will act as the maximum value. Lastly, if it's a number then it signifies the maximum amount of resource the Resource Pool can hold.
 
 **Is Amount Tied to Item Stack Quantity:** If "TRUE" than Item Stack the Resource Pool Effect is placed on is considered to be the same. Meaning that the Amount of the Resource Pool and Quantity of the Item Stack should be the same.
 
@@ -1212,7 +1212,7 @@ Represents how a character is performing combat. A Combat Roll could represent s
 
 **Optional Resource And Amount:** If "None", then the Combat Roll requires no Resource for use. Otherwise it denotes the Resource and amount consumed per use of the Combat Roll.
 
-**Base Dice Adjustment:** Adjusts the tier of the Base Dice for the Combat Roll's Dice Pool. This generally is used to adjust the consistency and reliability of the Combat Roll. Making a new version of a Combat Roll by giving a small improvement to it's Base Dice Adjustment is a great way to make unique weapons, to allow characters to upgrade their equipment, or to represent higher quality ammo.
+**Base Dice Adjustment:** Adjusts the tier of the Base Dice for the Combat Roll's Dice Pool. This generally is used to adjust the consistency and reliability of the Combat Roll. Making a new version of a Combat Roll by giving a small improvement to its Base Dice Adjustment is a great way to make unique weapons, to allow characters to upgrade their equipment, or to represent higher quality ammo.
 
 **Dice Pool Modifier:** Represent either an addition or subtraction of dice to the Combat Roll Dice Pool. Used to represent how significant of a force multiplier a Combat Roll is. The more effective the Combat Roll, the larger the dice pool modification. For example, a bomb arrow is significantly more dangerous than a conventional arrow, so it would receive additional dice.
 
@@ -1432,9 +1432,9 @@ Examples of narratively describing better penetration:
 
 Used to determine a character's effectiveness in combat.
 
-To calculated a Combat Roll's Dice Pool start with the Governing Skill's Dice Pool. Next, adjust it's Base Dice by the Combat Roll's Base Dice Adjustment. Finally, modify the resulting Dice Pool from the previous step by the Combat Roll's Dice Pool Modifier.
+To calculated a Combat Roll's Dice Pool start with the Governing Skill's Dice Pool. Next, adjust its Base Dice by the Combat Roll's Base Dice Adjustment. Finally, modify the resulting Dice Pool from the previous step by the Combat Roll's Dice Pool Modifier.
 
-**Example**
+**Example:**
 
 Javk Wick the Rogue has two daggers he's dual-wielding. He wants to calculate the "Dual-wielded Slash Close Melee" Combat Roll his dagger's allow him to perform. First, we start with determining what the Governing Skill is for "Dual-wielded Slash Close Melee" which is "Close Melee". Next, we determine that Javk's "Close Melee" Dice Pool is 6d6. Then, we adjust the tier of the Base Dice by the Combat Roll's Base Dice Adjustment which takes us from tier 0 (3d6) to tier 1 (1d8, 2d6), meaning the resulting Dice Pool is now "1d8, 5d6". Finally, we modify "1d8, 5d6" by the Combat Roll's Dice Pool Modifier of "+1d6" resulting in a "1d8, 6d6" Dice Pool for our Combat Roll.
 
@@ -1791,7 +1791,7 @@ Examples:
 
 Once all characters have declared their actions, start with the actions of the highest Turn Order character. Then work down the Turn Order until everyone's declared action have be delt with.
 
-Though actions are happpening simultaneously within a Combat Round, it's sometimes important to know which attack/actions happens before another, or who managed to perform their action a little bit faster than another. In these situations, characters with a higher Turn Order will always act first.
+Though actions are happening simultaneously within a Combat Round, it's sometimes important to know which attack/actions happens before another, or who managed to perform their action a little bit faster than another. In these situations, characters with a higher Turn Order will always act first.
 
 At the beginning of the Action Phase, all players can roll their Dice Pools for the actions they expect to take that round, such as Combat Rolls. This is to help things combat move efficiently.
 
@@ -2019,7 +2019,7 @@ Currency represents the units of value that are used for representing wealth, co
 
 **Abbreviation:** The abbreviation of the currency.
 
-**Value:** The value of the currency. It is helpful to first define the least valuable currency and set it's value equal to 1.
+**Value:** The value of the currency. It is helpful to first define the least valuable currency and set its value equal to 1.
 
 |     Name      | Abbreviation |    Value    |
 | :-----------: | :----------: | :---------: |
@@ -2037,7 +2037,7 @@ An Item Stack represents a collection of an Item.
 
 **Quantity:** The amount of items in the Item Stack.
 
-**Effects:** The Effects the Item Stack has. Character's that equip an Item can use it's Effects.
+**Effects:** The Effects the Item Stack has. Character's that equip an Item can use its Effects.
 
 **Weight:** The weight of each Item in the Item Stack.
 
@@ -2343,11 +2343,11 @@ An Item Stack represents a collection of an Item.
 
 Pouches, satchel, sacks, backpacks, chest, etc... are all consider containers. Each container can hold a certain amount of weight and/or volume within.
 
-**Optional Weight Capacity:** The weight the container is capable of holding. If "None", than it has unlimited capacity for weight.
+**Optional Weight Capacity:** The weight the container is capable of holding. If "None", then it has unlimited capacity for weight.
 
-**Optional Volume Capacity:** The volume the container is capable of holding. If "None", than it has unlimited capacity for volume.
+**Optional Volume Capacity:** The volume the container is capable of holding. If "None", then it has unlimited capacity for volume.
 
-**Weightless Contents:** If false, then the contents of this container would be included in it's' total weight, such as a mundane backpack. If true, then then the contents of this container wouldn't be included in the total weight, such as a bag of holding were it's contents are stored in a pocket dimension.
+**Weightless Contents:** If false, then the contents of this container would be included in its total weight, such as a mundane backpack. If true, then the contents of this container wouldn't be included in the total weight, such as a bag of holding were its contents are stored in a pocket dimension.
 
 |       Name       |                                                                                                 Description                                                                                                 |  Duration  |       Source        | Weight Capacity | Volume | Weightless Contents |
 | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: | :-----------------: | :-------------: | :----: | :-----------------: |
@@ -2376,7 +2376,7 @@ Characters will often stash or drop containers during combat as to not be in a h
 
 Sets a the Attributes of a character to a specified level. If the character's innate Attribute is greater than or equal to the new value, no change occurs.
 
-**Affected Attributes:** The Attributes that are effected.
+**Affected Attributes:** The Attributes that are affected.
 
 **Level:** The Level the Attributes are going to be set to.
 
@@ -2389,7 +2389,7 @@ Sets a the Attributes of a character to a specified level. If the character's in
 
 Sets a the Skills/Vocations of a character to specified level. If the character's innate Skill/Vocation is greater than or equal to the new value, no change occurs.
 
-**Affected Skills:** The Skills/Vocations that are effected.
+**Affected Skills:** The Skills/Vocations that are affected.
 
 **Level:** The Level the Skills/Vocations are going to be set to.
 
@@ -2447,7 +2447,7 @@ Sets a the Skills/Vocations of a character to specified level. If the character'
 
 Sets a the tier of the Base Dice for the Skills/Vocations specified.
 
-**Affected Skills:** The Skills/Vocations that are effected.
+**Affected Skills:** The Skills/Vocations that are affected.
 
 **Base Dice By Tier:** The tier the Base Dice the Skills/Vocations are going to be set to.
 
@@ -2457,9 +2457,9 @@ Sets a the tier of the Base Dice for the Skills/Vocations specified.
 
 ## Adjusted Attribute Level Effect
 
-For a specified Attribute, a Character receives an adjustment to it's level. The resulting level can not go outside the upper and lower bounds for a Attribute.
+For a specified Attribute, a Character receives an adjustment to its level. The resulting level can not go outside the upper and lower bounds for a Attribute.
 
-**Affected Attributes:** The Attributes that are effected.
+**Affected Attributes:** The Attributes that are affected.
 
 **Level Adjustment:** The adjustment to the level of the Attributes.
 
@@ -2469,9 +2469,9 @@ For a specified Attribute, a Character receives an adjustment to it's level. The
 
 ## Adjusted Skill Level Effect
 
-For a specified Skill/Vocation, a Character receives an adjustment to it's level. The resulting level can not go outside the upper and lower bounds for a Skill/Vocation.
+For a specified Skill/Vocation, a Character receives an adjustment to its level. The resulting level can not go outside the upper and lower bounds for a Skill/Vocation.
 
-**Affected Skills:** The Skills/Vocations that are effected.
+**Affected Skills:** The Skills/Vocations that are affected.
 
 **Level Adjustment:** The adjustment to the level of the Skills/Vocations.
 
@@ -2483,7 +2483,7 @@ For a specified Skill/Vocation, a Character receives an adjustment to it's level
 
 Adjusts the tier of the base dice of a specified Skills/Vocations Dice Pools.
 
-**Affected Skills:** The Skills/Vocations that are effected.
+**Affected Skills:** The Skills/Vocations that are affected.
 
 **Tier Adjustment:** The adjustment to the tier of the Base Dice for the Skills/Vocations.
 
@@ -2887,7 +2887,7 @@ If multiple characters have the same RFX level, they each roll a D20, where the 
 
 ### Step 0: Javk Wick's character creation house rules (Optional)
 
-Howdy all, this is Javk Wick. Here are some house rules for character creation that I implement almost all of my campaigns, especially with brand new players. They've served me very well and I'd highly encourage you to use them to avoid common pitfalls.
+Howdy all, this is Javk Wick. Here are some house rules for character creation that I implement in almost all of my campaigns, especially with brand new players. They've served me very well and I'd highly encourage you to use them to avoid common pitfalls.
 
 #### Player Characters can't start evil
 
